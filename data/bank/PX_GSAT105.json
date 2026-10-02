@@ -1,0 +1,1444 @@
+[
+ {
+  "id": "PX-GSAT105-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:art",
+  "tag_zh": "藝文娛樂",
+  "stem": "Posters of the local rock band were displayed in store windows to promote the sale of their ____ tickets.",
+  "options": [
+   "journey",
+   "traffic",
+   "concert",
+   "record"
+  ],
+  "answer": 2,
+  "explain_zh": "海報張貼在商店櫥窗是為了促銷樂團「演唱會」門票，因此答案是 concert。journey（旅程）、traffic（交通）在語意上與「門票」搭配不通順；record（唱片、紀錄）雖與樂團相關，但不符合「販售門票」的宣傳情境。concert tickets（演唱會門票）是常見的固定搭配，要記起來。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "concert",
+    "zh": "演唱會",
+    "pos": "n."
+   },
+   {
+    "w": "promote",
+    "zh": "促銷、宣傳",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:emotion",
+  "tag_zh": "情緒感受",
+  "stem": "Maria didn't want to deliver the bad news to David about his failing the job interview. She herself was quite ____ about it.",
+  "options": [
+   "awful",
+   "drowsy",
+   "tragic",
+   "upset"
+  ],
+  "answer": 3,
+  "explain_zh": "瑪莉亞不想把面試失敗的壞消息告訴大衛，顯示她自己對這件事也感到「難過」，故選 upset。awful 指「糟糕的」通常修飾事物而非人的心情；drowsy 是「想睡的」與情境無關；tragic 指「悲劇性的」語氣過重，不符合日常轉述壞消息的情境。upset about/by 表示因某事而心情低落，是常見搭配。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "upset",
+    "zh": "難過的",
+    "pos": "adj."
+   },
+   {
+    "w": "deliver",
+    "zh": "傳達",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:daily-life",
+  "tag_zh": "語言描述",
+  "stem": "The newcomer speaks with a strong Irish ____; he must be from Ireland.",
+  "options": [
+   "accent",
+   "identity",
+   "gratitude",
+   "signature"
+  ],
+  "answer": 0,
+  "explain_zh": "外地人說話帶有濃厚的愛爾蘭「腔調」，才能讓人推斷他來自愛爾蘭，故選 accent。identity 指「身分」、gratitude 指「感激」、signature 指「簽名」，皆與「說話方式」無關。accent 專指口音，是描述語言特徵的常見字。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "accent",
+    "zh": "口音",
+    "pos": "n."
+   },
+   {
+    "w": "newcomer",
+    "zh": "新來的人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "身心狀態",
+  "stem": "Although Maggie has been physically ____ to her wheelchair since the car accident, she does not limit herself to indoor activities.",
+  "options": [
+   "ceased",
+   "committed",
+   "confined",
+   "conveyed"
+  ],
+  "answer": 2,
+  "explain_zh": "瑪姬車禍後身體「受限」於輪椅，被動語態 be confined to 表示被侷限在某狀態，故選 confined。ceased 指「停止」、committed 指「承諾、犯（罪）」、conveyed 指「傳達」，皆不能與 to a wheelchair 搭配出「被侷限」的語意。be confined to N 是固定用法，要記起來。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "confine",
+    "zh": "侷限",
+    "pos": "v."
+   },
+   {
+    "w": "wheelchair",
+    "zh": "輪椅",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:safety",
+  "tag_zh": "安全防護",
+  "stem": "All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of ____ in case of an accident.",
+  "options": [
+   "injury",
+   "offense",
+   "sacrifice",
+   "victim"
+  ],
+  "answer": 0,
+  "explain_zh": "繫安全帶的目的是降低意外發生時「受傷」的風險，故選 injury。offense 指「冒犯、罪行」、sacrifice 指「犧牲」、victim 指「受害者」，皆不符合「降低受傷風險」的語意。risk of injury 是常見搭配。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "injury",
+    "zh": "傷害",
+    "pos": "n."
+   },
+   {
+    "w": "fasten",
+    "zh": "繫緊",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "品格善行",
+  "stem": "The principal of this school is a man of exceptional ____. He sets aside a part of his salary for a scholarship fund for children from needy families.",
+  "options": [
+   "security",
+   "maturity",
+   "facility",
+   "generosity"
+  ],
+  "answer": 3,
+  "explain_zh": "校長願意撥出部分薪水設立獎學金，展現出格外的「慷慨」，故選 generosity。security 指「安全」、maturity 指「成熟」、facility 指「設施、能力」，皆無法呼應「捐款助學」這種善行。generous（慷慨的）的名詞形式 generosity 常考。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "generosity",
+    "zh": "慷慨",
+    "pos": "n."
+   },
+   {
+    "w": "scholarship",
+    "zh": "獎學金",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:education",
+  "tag_zh": "教學方式",
+  "stem": "The science teacher always ____ the use of the laboratory equipment before she lets her students use it on their own.",
+  "options": [
+   "tolerates",
+   "associates",
+   "demonstrates",
+   "exaggerates"
+  ],
+  "answer": 2,
+  "explain_zh": "老師讓學生自己操作實驗器材前，會先「示範」正確使用方式，故選 demonstrates。tolerates 指「容忍」、associates 指「聯想、交往」、exaggerates 指「誇大」，皆不符合教學情境中「示範操作」的語意。demonstrate 常用於教學或展示產品用法。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "demonstrate",
+    "zh": "示範",
+    "pos": "v."
+   },
+   {
+    "w": "equipment",
+    "zh": "器材",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:nature",
+  "tag_zh": "自然生態",
+  "stem": "Most of the area is covered by woods, where bird species are so ____ that it is a paradise for birdwatchers.",
+  "options": [
+   "durable",
+   "private",
+   "realistic",
+   "numerous"
+  ],
+  "answer": 3,
+  "explain_zh": "樹林裡鳥類種類「眾多」，才會成為賞鳥者的天堂，故選 numerous。durable 指「耐用的」、private 指「私人的」、realistic 指「寫實的、務實的」，皆無法用來形容「物種數量多」。numerous 常與 species、people 等可數名詞搭配。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "numerous",
+    "zh": "眾多的",
+    "pos": "adj."
+   },
+   {
+    "w": "species",
+    "zh": "物種",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "會議討論",
+  "stem": "In most cases, the committee members can reach agreement quickly. ____, however, they differ greatly in opinion and have a hard time making decisions.",
+  "options": [
+   "Occasionally",
+   "Automatically",
+   "Enormously",
+   "Innocently"
+  ],
+  "answer": 0,
+  "explain_zh": "委員通常能迅速達成共識，但與此相對，「偶爾」才會出現意見分歧，故選 Occasionally，表達與前句的頻率對比。Automatically（自動地）、Enormously（巨大地）、Innocently（無辜地）皆無法表達「偶爾」的頻率概念，語意不合。occasionally 常用來描述不常發生但確實存在的例外情況。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "occasionally",
+    "zh": "偶爾",
+    "pos": "adv."
+   },
+   {
+    "w": "committee",
+    "zh": "委員會",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "生涯規劃",
+  "stem": "Many people try to save a lot of money before ____, since having enough money would give them a sense of security for their future.",
+  "options": [
+   "isolation",
+   "promotion",
+   "retirement",
+   "announcement"
+  ],
+  "answer": 2,
+  "explain_zh": "許多人在「退休」前努力存錢，是為了讓未來生活更有保障，故選 retirement。isolation 指「隔離」、promotion 指「升遷」、announcement 指「宣布」，皆與「存錢求安全感」的情境無關。save (money) before retirement 是常見搭配，要記起來。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "retirement",
+    "zh": "退休",
+    "pos": "n."
+   },
+   {
+    "w": "security",
+    "zh": "安全感",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "身體狀況",
+  "stem": "In winter, our skin tends to become dry and ____, a problem which is usually treated by applying lotions or creams.",
+  "options": [
+   "alert",
+   "itchy",
+   "steady",
+   "flexible"
+  ],
+  "answer": 1,
+  "explain_zh": "冬天皮膚乾燥容易「發癢」，需要擦乳液或乳霜來改善，故選 itchy。alert 指「警覺的」、steady 指「穩定的」、flexible 指「有彈性的」，皆無法形容皮膚乾癢的狀態。itchy 常與 skin、eyes 等身體部位搭配。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "itchy",
+    "zh": "發癢的",
+    "pos": "adj."
+   },
+   {
+    "w": "lotion",
+    "zh": "乳液",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:family",
+  "tag_zh": "感情關係",
+  "stem": "Benson married Julie soon after he had ____ her heart and gained her parents' approval.",
+  "options": [
+   "conquered",
+   "estimated",
+   "guaranteed",
+   "intensified"
+  ],
+  "answer": 0,
+  "explain_zh": "班森「贏得」茱莉的芳心並獲得她父母的認可後才結婚，conquer one's heart 是固定搭配，故選 conquered。estimated 指「估計」、guaranteed 指「保證」、intensified 指「加強」，皆不能與 heart 搭配表示「贏得芳心」。conquer 原意是「征服」，引申為贏得愛慕。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "conquer",
+    "zh": "贏得、征服",
+    "pos": "v."
+   },
+   {
+    "w": "approval",
+    "zh": "認可",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:nature",
+  "tag_zh": "天災損害",
+  "stem": "The recent flood completely ____ my parents' farm. The farmhouse and fruit trees were all gone and nothing was left.",
+  "options": [
+   "ruined",
+   "cracked",
+   "hastened",
+   "neglected"
+  ],
+  "answer": 0,
+  "explain_zh": "洪水把父母的農場「徹底摧毀」，房屋和果樹都消失殆盡，故選 ruined。cracked 指「裂開」通常用於固體物件的局部損壞、hastened 指「加速」、neglected 指「忽視」，皆無法表達「全毀」的程度。ruin 常用來形容天災對財產造成的毀滅性破壞。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "ruin",
+    "zh": "摧毀",
+    "pos": "v."
+   },
+   {
+    "w": "flood",
+    "zh": "洪水",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "研究調查",
+  "stem": "The results of this survey are not reliable because the people it questioned were not a typical or ____ sample of the entire population that was studied.",
+  "options": [
+   "primitive",
+   "spiritual",
+   "representative",
+   "informative"
+  ],
+  "answer": 2,
+  "explain_zh": "調查樣本不具「代表性」，無法反映母體的真實情況，因此結果不可靠，故選 representative。primitive 指「原始的」、spiritual 指「精神上的」、informative 指「提供資訊的」，皆與「樣本代表性」的統計概念無關。representative sample（具代表性的樣本）是研究方法常見用語。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "representative",
+    "zh": "具代表性的",
+    "pos": "adj."
+   },
+   {
+    "w": "sample",
+    "zh": "樣本",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:environment",
+  "tag_zh": "環保議題",
+  "stem": "In line with the worldwide green movement, carmakers have been working hard to make their new models more ____ friendly to reduce pollution.",
+  "options": [
+   "liberally",
+   "individually",
+   "financially",
+   "environmentally"
+  ],
+  "answer": 3,
+  "explain_zh": "配合全球環保運動，車廠致力讓新車對「環境」更友善以減少污染，environmentally friendly 是固定搭配，故選 environmentally。liberally（自由地）、individually（個別地）、financially（財務上）皆無法與 friendly 搭配出「環保」的意思。此片語常見於環境議題文章。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "environmentally",
+    "zh": "對環境而言",
+    "pos": "adv."
+   },
+   {
+    "w": "pollution",
+    "zh": "污染",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "轉折連接詞",
+  "passage": "Bill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. (16), their plan quickly got out of control. Their young captive (17) to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to (18) the little terror. They lowered the price to $1,500. Yet, knowing perfectly well (19) a troublemaker his son was, the father refused to give them any money. (20), he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+  "group_id": "PX-GSAT105-G01",
+  "stem": "(16) 應填入：They asked for a ransom of $2,000 to return the boy. ____, their plan quickly got out of control.",
+  "options": [
+   "However",
+   "Otherwise",
+   "Furthermore",
+   "Accordingly"
+  ],
+  "answer": 0,
+  "explain_zh": "故事前段提到綁匪原本要求 2000 美元贖金，看似順利，但接下來計畫卻「意外失控」，語意上出現轉折，故選 However。Otherwise（否則）、Furthermore（此外）、Accordingly（因此）皆無法表達與前句「順利／失控」的對比關係。However 是最常見的轉折連接詞，常考。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "however",
+    "zh": "然而",
+    "pos": "adv."
+   },
+   {
+    "w": "ransom",
+    "zh": "贖金",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "片語動詞",
+  "passage": "Bill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. (16), their plan quickly got out of control. Their young captive (17) to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to (18) the little terror. They lowered the price to $1,500. Yet, knowing perfectly well (19) a troublemaker his son was, the father refused to give them any money. (20), he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+  "group_id": "PX-GSAT105-G01",
+  "stem": "(17) 應填入：Their young captive ____ to be a mischievous boy.",
+  "options": [
+   "made believe",
+   "got along",
+   "turned out",
+   "felt like"
+  ],
+  "answer": 2,
+  "explain_zh": "綁匪原以為輕鬆得手，沒想到這個小男孩「結果證明」是個調皮鬼，turn out to be 表示事情最終呈現的樣貌，故選 turned out。made believe（假裝）、got along（相處）、felt like（想要）皆無法接 to be + 名詞表示「結果是」。turn out 常用來描述出乎意料的結果。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "turn out",
+    "zh": "結果是",
+    "pos": "v."
+   },
+   {
+    "w": "mischievous",
+    "zh": "調皮的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "片語動詞",
+  "passage": "Bill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. (16), their plan quickly got out of control. Their young captive (17) to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to (18) the little terror. They lowered the price to $1,500. Yet, knowing perfectly well (19) a troublemaker his son was, the father refused to give them any money. (20), he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+  "group_id": "PX-GSAT105-G01",
+  "stem": "(18) 應填入：Bill and Sam were soon desperate and decided to ____ the little terror.",
+  "options": [
+   "hold on to",
+   "get rid of",
+   "make fun of",
+   "take advantage of"
+  ],
+  "answer": 1,
+  "explain_zh": "男孩不斷要求綁匪陪他玩累人的遊戲，兩人終於受不了，想「擺脫」這個小麻煩精，故選 get rid of。hold on to（抓住不放）、make fun of（取笑）、take advantage of（利用）皆與「想甩開他」的語意相反或不符。get rid of 是常考的片語動詞，表示除去、擺脫。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "get rid of",
+    "zh": "擺脫",
+    "pos": "phr."
+   },
+   {
+    "w": "terror",
+    "zh": "讓人頭痛的人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "感嘆語氣間接問句",
+  "passage": "Bill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. (16), their plan quickly got out of control. Their young captive (17) to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to (18) the little terror. They lowered the price to $1,500. Yet, knowing perfectly well (19) a troublemaker his son was, the father refused to give them any money. (20), he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+  "group_id": "PX-GSAT105-G01",
+  "stem": "(19) 應填入：Knowing perfectly well ____ a troublemaker his son was, the father refused to give them any money.",
+  "options": [
+   "how",
+   "that",
+   "why",
+   "what"
+  ],
+  "answer": 3,
+  "explain_zh": "knowing perfectly well what a troublemaker his son was 是感嘆句型融入名詞子句，what + a + N + S + V 表達「多麼……的」，故選 what。how、that、why 皆無法接「a troublemaker his son was」這種名詞片語結構。此為感嘆句轉間接問句的固定用法。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "troublemaker",
+    "zh": "麻煩製造者",
+    "pos": "n."
+   },
+   {
+    "w": "perfectly",
+    "zh": "完全地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "副詞連接",
+  "passage": "Bill and Sam decided to kidnap the son of a banker to compensate for their business loss. They kidnapped the boy and hid him in a cave. They asked for a ransom of $2,000 to return the boy. (16), their plan quickly got out of control. Their young captive (17) to be a mischievous boy. He viewed the kidnapping as a wonderful camping trip. He demanded that his kidnappers play tiring games with him, such as riding Bill as a horse for nine miles. Bill and Sam were soon desperate and decided to (18) the little terror. They lowered the price to $1,500. Yet, knowing perfectly well (19) a troublemaker his son was, the father refused to give them any money. (20), he asked the kidnappers to pay him $250 to take the boy back. To persuade the boy to return home, Bill and Sam had to tell him that his father was taking him bear-hunting. The kidnappers finally handed over the boy and $250 to the banker and fled town as quickly as they could.",
+  "group_id": "PX-GSAT105-G01",
+  "stem": "(20) 應填入：The father refused to give them any money. ____, he asked the kidnappers to pay him $250 to take the boy back.",
+  "options": [
+   "Namely",
+   "Altogether",
+   "Simply",
+   "Instead"
+  ],
+  "answer": 3,
+  "explain_zh": "父親拒絕付贖金，「反而」要綁匪倒貼錢把兒子帶走，顯示出乎意料的反向行動，故選 Instead。Namely（即）、Altogether（總共）、Simply（僅僅）皆無法表達「不做A反而做B」的對比，語意不合。Instead 常用於描述與預期相反的行動。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "instead",
+    "zh": "反而",
+    "pos": "adv."
+   },
+   {
+    "w": "refuse",
+    "zh": "拒絕",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-021",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "疑問詞子句",
+  "passage": "A polygraph machine, also known as a “lie detector,” is a common part of criminal investigations. The instrument is used to measure (21) a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\nWhen a person takes a polygraph test, four to six wires, called sensors, are (22) to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. (23) the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested (24) truthful.\nWell-trained examiners can usually detect lying with a high degree of (25) when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.",
+  "group_id": "PX-GSAT105-G02",
+  "stem": "(21) 應填入：The instrument is used to measure ____ a person's body reacts to questions.",
+  "options": [
+   "what",
+   "when",
+   "how",
+   "why"
+  ],
+  "answer": 2,
+  "explain_zh": "測謊機是用來測量人的身體「如何」對問題產生反應，故選 how，引導名詞子句作 measure 的受詞。what（什麼）、when（何時）、why（為何）在語意上都無法準確描述「身體反應的方式」。此處 how 表示反應的方式與程度。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "react",
+    "zh": "反應",
+    "pos": "v."
+   },
+   {
+    "w": "instrument",
+    "zh": "儀器",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-022",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "動詞搭配",
+  "passage": "A polygraph machine, also known as a “lie detector,” is a common part of criminal investigations. The instrument is used to measure (21) a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\nWhen a person takes a polygraph test, four to six wires, called sensors, are (22) to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. (23) the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested (24) truthful.\nWell-trained examiners can usually detect lying with a high degree of (25) when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.",
+  "group_id": "PX-GSAT105-G02",
+  "stem": "(22) 應填入：Four to six wires, called sensors, are ____ to different parts of his body.",
+  "options": [
+   "adapted",
+   "attached",
+   "related",
+   "restricted"
+  ],
+  "answer": 1,
+  "explain_zh": "四到六條感應線被「接上」身體各部位，be attached to 表示附著、連接，故選 attached。adapted（被改編／適應）、related（被使有關聯）、restricted（被限制）皆無法與 to different parts of his body 搭配出「接上」的語意。attach A to B 是常見的物理連接動詞。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "attach",
+    "zh": "附著、連接",
+    "pos": "v."
+   },
+   {
+    "w": "sensor",
+    "zh": "感應器",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-023",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "介系詞連接",
+  "passage": "A polygraph machine, also known as a “lie detector,” is a common part of criminal investigations. The instrument is used to measure (21) a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\nWhen a person takes a polygraph test, four to six wires, called sensors, are (22) to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. (23) the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested (24) truthful.\nWell-trained examiners can usually detect lying with a high degree of (25) when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.",
+  "group_id": "PX-GSAT105-G02",
+  "stem": "(23) 應填入：____ the process of questioning, all the signals are recorded on a single strip of moving paper.",
+  "options": [
+   "Before",
+   "Among",
+   "Without",
+   "Throughout"
+  ],
+  "answer": 3,
+  "explain_zh": "整個「問話過程中」，所有訊號都持續被記錄在移動的紙帶上，Throughout 表示「自始至終、貫穿全程」，故選 Throughout。Before（在……之前）、Among（在……之中，通常接複數名詞）、Without（沒有）皆不符合「持續記錄」的時間語意。throughout the process 是常見搭配。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "throughout",
+    "zh": "貫穿、自始至終",
+    "pos": "prep."
+   },
+   {
+    "w": "process",
+    "zh": "過程",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-024",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "時態語態",
+  "passage": "A polygraph machine, also known as a “lie detector,” is a common part of criminal investigations. The instrument is used to measure (21) a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\nWhen a person takes a polygraph test, four to six wires, called sensors, are (22) to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. (23) the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested (24) truthful.\nWell-trained examiners can usually detect lying with a high degree of (25) when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.",
+  "group_id": "PX-GSAT105-G02",
+  "stem": "(24) 應填入：The examiner analyzes the results to determine if the person tested ____ truthful.",
+  "options": [
+   "was being",
+   "would be",
+   "was to be",
+   "would have been"
+  ],
+  "answer": 0,
+  "explain_zh": "檢測員要判斷受測者當下「是否正處於誠實的狀態」，強調測驗那一刻的狀態，故用過去進行式 was being。would be、was to be、would have been 皆表示未來、預定或完成式的語意，與「當下狀態」不符。was being + adj. 強調某段時間內持續的狀態。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "truthful",
+    "zh": "誠實的",
+    "pos": "adj."
+   },
+   {
+    "w": "determine",
+    "zh": "判斷",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-025",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "A polygraph machine, also known as a “lie detector,” is a common part of criminal investigations. The instrument is used to measure (21) a person's body reacts to questions. The theory underlying it is that lying is stressful, and that this stress can be measured and recorded on a polygraph machine.\nWhen a person takes a polygraph test, four to six wires, called sensors, are (22) to different parts of his body. The sensors pick up signals from the person's blood pressure, pulse, and perspiration. (23) the process of questioning, all the signals are recorded on a single strip of moving paper. Once the questions are finished, the examiner analyzes the results to determine if the person tested (24) truthful.\nWell-trained examiners can usually detect lying with a high degree of (25) when they use a polygraph. However, because different people behave differently when lying, a polygraph test is by no means perfect.",
+  "group_id": "PX-GSAT105-G02",
+  "stem": "(25) 應填入：Well-trained examiners can usually detect lying with a high degree of ____ when they use a polygraph.",
+  "options": [
+   "quantity",
+   "accuracy",
+   "possibility",
+   "emergency"
+  ],
+  "answer": 1,
+  "explain_zh": "訓練有素的測謊員使用測謊機時，通常能以高「準確度」辨識謊言，故選 accuracy。quantity（數量）、possibility（可能性）、emergency（緊急情況）皆與「辨識謊言的精確程度」無關。a high degree of accuracy 是常見的固定搭配，表示高準確度。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "accuracy",
+    "zh": "準確度",
+    "pos": "n."
+   },
+   {
+    "w": "examiner",
+    "zh": "主考官、檢測員",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-026",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "虛主詞受詞",
+  "passage": "International trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making (26) cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is (27) by key factors of production such as land, capital, and labor.\nWhile international trade has long been conducted in history, its economic, social, and political importance has been (28) in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. (29) international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main (30) force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+  "group_id": "PX-GSAT105-G03",
+  "stem": "(26) 應填入：Trade is driven by different production costs, making ____ cheaper for some countries to import goods rather than make them.",
+  "options": [
+   "them",
+   "such",
+   "what",
+   "it"
+  ],
+  "answer": 3,
+  "explain_zh": "making it cheaper for some countries to import goods 是「make + it（虛受詞）+ adj. + for sb + to V」句型，it 代替後面的不定詞片語，故選 it。them、such、what 皆無法在此句型中擔任虛受詞的角色。虛主詞／虛受詞 it 是常考文法重點。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "import",
+    "zh": "進口",
+    "pos": "v."
+   },
+   {
+    "w": "production",
+    "zh": "生產",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-027",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "動詞搭配",
+  "passage": "International trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making (26) cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is (27) by key factors of production such as land, capital, and labor.\nWhile international trade has long been conducted in history, its economic, social, and political importance has been (28) in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. (29) international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main (30) force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+  "group_id": "PX-GSAT105-G03",
+  "stem": "(27) 應填入：This comparative advantage is ____ by key factors of production such as land, capital, and labor.",
+  "options": [
+   "installed",
+   "reserved",
+   "opposed",
+   "determined"
+  ],
+  "answer": 3,
+  "explain_zh": "比較利益是由土地、資本、勞力等生產要素所「決定」的，be determined by 表示由……決定，故選 determined。installed（被安裝）、reserved（被保留）、opposed（被反對）皆無法與 by key factors of production 搭配出「決定」的語意。determine 常用於描述因果關係。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "determine",
+    "zh": "決定",
+    "pos": "v."
+   },
+   {
+    "w": "comparative",
+    "zh": "比較的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-028",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定片語",
+  "passage": "International trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making (26) cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is (27) by key factors of production such as land, capital, and labor.\nWhile international trade has long been conducted in history, its economic, social, and political importance has been (28) in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. (29) international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main (30) force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+  "group_id": "PX-GSAT105-G03",
+  "stem": "(28) 應填入：Its economic, social, and political importance has been ____ in recent centuries.",
+  "options": [
+   "to the point",
+   "on the rise",
+   "off the hook",
+   "for the record"
+  ],
+  "answer": 1,
+  "explain_zh": "國際貿易的經濟、社會與政治重要性在近幾世紀「持續上升」，on the rise 是固定片語表示「上升中、增加中」，故選 on the rise。to the point（切中要點）、off the hook（擺脫困境）、for the record（供紀錄用）皆與「重要性提升」的語意無關。be on the rise 常用來描述數據或趨勢上升。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "rise",
+    "zh": "上升",
+    "pos": "n."
+   },
+   {
+    "w": "importance",
+    "zh": "重要性",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-029",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "介系詞連接",
+  "passage": "International trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making (26) cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is (27) by key factors of production such as land, capital, and labor.\nWhile international trade has long been conducted in history, its economic, social, and political importance has been (28) in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. (29) international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main (30) force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+  "group_id": "PX-GSAT105-G03",
+  "stem": "(29) 應填入：____ international trade, nations would be limited to the goods and services produced within their own borders.",
+  "options": [
+   "Despite",
+   "Between",
+   "Without",
+   "Under"
+  ],
+  "answer": 2,
+  "explain_zh": "「沒有」國際貿易的話，各國就只能仰賴國內生產的貨物與服務，Without 表示假設性的否定條件，故選 Without。Despite（儘管）、Between（在……之間）、Under（在……之下）皆無法表達「若無此條件」的假設語意。此句隱含與現在事實相反的假設語氣。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "border",
+    "zh": "國界",
+    "pos": "n."
+   },
+   {
+    "w": "limit",
+    "zh": "限制",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-030",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定搭配",
+  "passage": "International trade is the exchange of goods and services between countries. Trade is driven by different production costs in different countries, making (26) cheaper for some countries to import goods rather than make them. A country is said to have a comparative advantage over another when it can produce a commodity more cheaply. This comparative advantage is (27) by key factors of production such as land, capital, and labor.\nWhile international trade has long been conducted in history, its economic, social, and political importance has been (28) in recent centuries. During the 1990s, international trade grew by nearly 8.6% each year. In the year 1990 alone, the growth in trade in services was as high as 19%.\nToday, all countries are involved in, and to varying degrees dependent on, trade with other countries. (29) international trade, nations would be limited to the goods and services produced within their own borders. Trade is certainly a main (30) force for globalization. It is also the subject of many international agreements that aim to govern and facilitate international trade, such as those negotiated through the World Trade Organization (WTO).",
+  "group_id": "PX-GSAT105-G03",
+  "stem": "(30) 應填入：Trade is certainly a main ____ force for globalization.",
+  "options": [
+   "driving",
+   "pulling",
+   "riding",
+   "bringing"
+  ],
+  "answer": 0,
+  "explain_zh": "貿易可說是推動全球化的主要「驅動」力量，driving force 是固定搭配，表示推動力，故選 driving。pulling（拉的）、riding（騎乘的）、bringing（帶來的）皆無法與 force 搭配出此固定用法。driving force 常用來描述某現象背後的主要推力。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "driving force",
+    "zh": "驅動力",
+    "pos": "n."
+   },
+   {
+    "w": "globalization",
+    "zh": "全球化",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-041",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:attitude",
+  "tag_zh": "作者態度",
+  "passage": "In Japan, a person's blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.\nThe blood-type belief has been used in unusual ways. The women's softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee's blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”\nThe belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B.\nThe blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura-hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+  "group_id": "PX-GSAT105-G04",
+  "stem": "What is the speaker's attitude toward the blood-type belief in Japan?",
+  "options": [
+   "Negative.",
+   "Defensive.",
+   "Objective.",
+   "Encouraging."
+  ],
+  "answer": 2,
+  "explain_zh": "文章以客觀陳述血型信仰在日本各領域（運動、教育、企業、政治）的實際案例，並未加入作者個人的褒貶評論，顯示作者態度是「客觀」的，故選 Objective。Negative（負面）、Defensive（防衛的）、Encouraging（鼓勵的）都帶有明顯立場，與全文平鋪直敘的敘事方式不符。判斷作者態度要看用字是否帶有主觀評價。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "objective",
+    "zh": "客觀的",
+    "pos": "adj."
+   },
+   {
+    "w": "temperament",
+    "zh": "性情",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-042",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "In Japan, a person's blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.\nThe blood-type belief has been used in unusual ways. The women's softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee's blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”\nThe belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B.\nThe blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura-hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+  "group_id": "PX-GSAT105-G04",
+  "stem": "According to the examples mentioned in the passage, which blood type can we infer is the LEAST favored in Japan?",
+  "options": [
+   "Type A.",
+   "Type B.",
+   "Type O.",
+   "Type AB."
+  ],
+  "answer": 1,
+  "explain_zh": "文中提到某大臣因失言下台後，將自己的失態歸咎於「B型」血型，暗示 B 型在日本大眾印象中較負面，故推論 B 型最不受青睞，選 B。文章對其餘三種血型並未有如此負面的描述或事件連結。此題須從政治人物的發言細節推論社會觀感。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "blame",
+    "zh": "歸咎",
+    "pos": "v."
+   },
+   {
+    "w": "unfavorable",
+    "zh": "不受喜愛的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-043",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "In Japan, a person's blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.\nThe blood-type belief has been used in unusual ways. The women's softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee's blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”\nThe belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B.\nThe blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura-hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+  "group_id": "PX-GSAT105-G04",
+  "stem": "Why did Prime Minister Ryu Matsumoto resign from office?",
+  "options": [
+   "He revealed his rival's blood type.",
+   "He was seen behaving rudely on TV.",
+   "He blamed his failings on local officials.",
+   "He was discriminated against because of blood type."
+  ],
+  "answer": 1,
+  "explain_zh": "松本龍大臣是因為「與地方官員態度惡劣的畫面被電視轉播」而丟臉下台，故選 B。選項 A 是他人揭露血型的情節、C 因果顛倒（他是怪罪血型而非官員）、D 與他的下台原因無關，皆與原文不符。細節題要回到原文找出真正的因果關係。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "resign",
+    "zh": "辭職",
+    "pos": "v."
+   },
+   {
+    "w": "encounter",
+    "zh": "衝突、遭遇",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-044",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解（反向題）",
+  "passage": "In Japan, a person's blood type is popularly believed to decide his/her temperament and personality. Type-A people are generally considered sensitive perfectionists and good team players, but over-anxious. Type Os are curious and generous but stubborn. Type ABs are artistic but mysterious and unpredictable, and type Bs are cheerful but eccentric, individualistic, and selfish. Though lacking scientific evidence, this belief is widely seen in books, magazines, and television shows.\nThe blood-type belief has been used in unusual ways. The women's softball team that won gold for Japan at the Beijing Olympics is reported to have used blood-type theories to customize training for each player. Some kindergartens have adopted teaching methods along blood group lines, and even major companies reportedly make decisions about assignments based on an employee's blood type. In 1990, Mitsubishi Electronics was reported to have announced the formation of a team composed entirely of AB workers, thanks to “their ability to make plans.”\nThe belief even affects politics. One former prime minister considered it important enough to reveal in his official profile that he was a type A, while his opposition rival was type B. In 2011, a minister, Ryu Matsumoto, was forced to resign after only a week in office, when a bad-tempered encounter with local officials was televised. In his resignation speech, he blamed his failings on the fact that he was blood type B.\nThe blood-type craze, considered simply harmless fun by some Japanese, may manifest itself as prejudice and discrimination. In fact, this seems so common that the Japanese now have a term for it: bura-hara, meaning blood-type harassment. There are reports of discrimination leading to children being bullied, ending of happy relationships, and loss of job opportunities due to blood type.",
+  "group_id": "PX-GSAT105-G04",
+  "stem": "Which field is NOT mentioned in the passage as being affected by blood-type beliefs?",
+  "options": [
+   "Education.",
+   "Sports.",
+   "Business.",
+   "Medicine."
+  ],
+  "answer": 3,
+  "explain_zh": "文章提到血型信仰影響了運動（壘球隊）、教育（幼兒園教學）、企業（三菱電機），但全文並未提及「醫療」領域受到影響，故選 D。此為反向細節題，需要逐一核對選項在原文中是否出現。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "medicine",
+    "zh": "醫療、醫學",
+    "pos": "n."
+   },
+   {
+    "w": "custom",
+    "zh": "客製化",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-045",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Like many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.\nJeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the “Kiddie Stool.”\nJeanie's Kiddie Stool won first place in her school's contest. Two years later, it was awarded first prize again at Houston's first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.",
+  "group_id": "PX-GSAT105-G05",
+  "stem": "Why did Jeanie Low invent the Kiddie Stool, according to the passage?",
+  "options": [
+   "Many other five-year-olds had problems reaching the bathroom sink.",
+   "She did not think that plastic stools were tall enough for her.",
+   "The stool in her bathroom was not firm and often got in the way.",
+   "She was invited to enter an invention contest held by her school."
+  ],
+  "answer": 2,
+  "explain_zh": "珍妮發明踏腳椅的原因是家中原本的塑膠椅「不穩固又占用浴室空間」，故選 C。選項 A 誇大成「許多五歲小孩都有問題」、B 說法錯誤（她並非嫌椅子不夠高）、D 只是她參賽的契機而非發明的根本原因，皆與原文細節不符。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "unstable",
+    "zh": "不穩固的",
+    "pos": "adj."
+   },
+   {
+    "w": "cluttered",
+    "zh": "凌亂占空間的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-046",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Like many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.\nJeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the “Kiddie Stool.”\nJeanie's Kiddie Stool won first place in her school's contest. Two years later, it was awarded first prize again at Houston's first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.",
+  "group_id": "PX-GSAT105-G05",
+  "stem": "Which of the following statements is true about how the Kiddie Stool works?",
+  "options": [
+   "The Kiddie Stool will swing out only when the cabinet door opens.",
+   "It uses hinges and magnets to keep the wooden pieces in place.",
+   "It swings from left to right to be attached to the cabinet door.",
+   "The platform is supported by two pieces of metal."
+  ],
+  "answer": 1,
+  "explain_zh": "文中明確說明收合時「靠鉸鏈與磁鐵」將木板固定在櫃子上，故選 B。選項 A、C 對於展開／收合的方向描述錯誤，D 說支撐平台的是金屬片而非木片，皆與原文運作原理不符。此題須仔細比對機關運作的細節敘述。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "hinge",
+    "zh": "鉸鏈",
+    "pos": "n."
+   },
+   {
+    "w": "magnet",
+    "zh": "磁鐵",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-047",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "重點歸納",
+  "passage": "Like many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.\nJeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the “Kiddie Stool.”\nJeanie's Kiddie Stool won first place in her school's contest. Two years later, it was awarded first prize again at Houston's first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.",
+  "group_id": "PX-GSAT105-G05",
+  "stem": "What are the characteristics of Jeanie's Kiddie Stool?",
+  "options": [
+   "Permanent and foldable.",
+   "Fragile and eye-catching.",
+   "Conventional and touching.",
+   "Convenient and recyclable."
+  ],
+  "answer": 0,
+  "explain_zh": "珍妮的椅子設計成「固定裝在櫃門上、卻能折疊收合」的特性，故選 A。選項 B、C、D 中的形容詞（易碎、傳統、可回收）皆未在文章中被提及或強調，不符合這項發明的核心特色。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "permanent",
+    "zh": "固定的、永久的",
+    "pos": "adj."
+   },
+   {
+    "w": "foldable",
+    "zh": "可折疊的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-048",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Like many other five-year-olds, Jeanie Low of Houston, Texas, would use a stool to help her reach the bathroom sink. However, the plastic step-stool she had at home was unstable and cluttered up the small bathroom shared by her whole family. After learning of an invention contest held by her school that year, Jeanie resolved to enter the contest by creating a stool that would be a permanent fixture in the bathroom, and yet could be kept out of the way when not in use.\nJeanie decided to make a stool attached to the bathroom cabinet door under the sink. She cut a plank of wood into two pieces, each about two feet wide and one foot long. Using metal hinges, Jeanie attached one piece of the wood to the front of the cabinet door, and the second piece to the first. The first piece was set just high enough so that when it swung out horizontally from the cabinet door, the second piece would swing down from the first, just touching the ground, and so serving as a support for the first piece of the wood. This created a convenient, sturdy platform for any person too short to reach the sink. When not in use, the hinges allowed the two pieces of wood to fold back up tightly against the cabinet, where they were held in place by magnets. Jeanie called her invention the “Kiddie Stool.”\nJeanie's Kiddie Stool won first place in her school's contest. Two years later, it was awarded first prize again at Houston's first annual Invention Fair. As a result, Jeanie was invited to make a number of public appearances with her Kiddie Stool, and was featured on local TV as well as in newspapers. Many people found the story of the Kiddie Stool inspiring because it showed that with imagination, anyone can be an inventor.",
+  "group_id": "PX-GSAT105-G05",
+  "stem": "Which of the following sayings best captures the spirit of Jeanie Low's story?",
+  "options": [
+   "Failure is the mother of success.",
+   "There's nothing new under the sun.",
+   "Necessity is the mother of invention.",
+   "Genius is 1% inspiration and 99% perspiration."
+  ],
+  "answer": 2,
+  "explain_zh": "珍妮因為生活上「有需要」（浴室椅子不穩）才動手發明新椅子，正好呼應諺語「需要為發明之母」，故選 C。A 與失敗無關、B 意指「天下沒有新鮮事」與故事主旨相反、D 強調努力而非需求，皆不符合故事精神。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "necessity",
+    "zh": "需要、必需品",
+    "pos": "n."
+   },
+   {
+    "w": "invention",
+    "zh": "發明",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-049",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "Ongoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.\nThe report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called “forced migration.” Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.\nThe report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence.\nThe report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.",
+  "group_id": "PX-GSAT105-G06",
+  "stem": "What is this article mainly about?",
+  "options": [
+   "Why people are moving away from their own countries.",
+   "Why there are civil wars and violence in the Middle East.",
+   "Why many schools have become shelters for displaced families.",
+   "Why many children in the Middle East are not attending school."
+  ],
+  "answer": 3,
+  "explain_zh": "全文引用聯合國兒童基金會的報告，說明中東戰亂導致「上千萬孩童無法上學」，並分析原因與後續呼籲，故選 D。A、B、C 都只是文章中的部分細節或成因，並非整篇文章的主旨。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "conflict",
+    "zh": "衝突",
+    "pos": "n."
+   },
+   {
+    "w": "attend",
+    "zh": "出席、上（學）",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-050",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Ongoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.\nThe report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called “forced migration.” Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.\nThe report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence.\nThe report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.",
+  "group_id": "PX-GSAT105-G06",
+  "stem": "Why is “Iraq” mentioned in the second paragraph?",
+  "options": [
+   "To convince people that temporary housing can be easily found.",
+   "To prove that classrooms there are big enough to host many families.",
+   "To give an example of why schools are not usable for children's learning.",
+   "To show how structural damages of school can affect the quality of education."
+  ],
+  "answer": 2,
+  "explain_zh": "文中舉伊拉克為例，說明教室被難民擠滿、無法正常授課，藉此具體說明學校「無法使用」的情況，故選 C。選項 A、B 誤解了段落舉例的用意，D 與伊拉克段落的重點（教室被占用而非結構受損）不符。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "shelter",
+    "zh": "收容所",
+    "pos": "n."
+   },
+   {
+    "w": "displaced",
+    "zh": "流離失所的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-051",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜義",
+  "passage": "Ongoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.\nThe report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called “forced migration.” Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.\nThe report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence.\nThe report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.",
+  "group_id": "PX-GSAT105-G06",
+  "stem": "What does the phrase “in the balance” in the last paragraph most likely mean?",
+  "options": [
+   "Being well taken care of.",
+   "In an uncertain situation.",
+   "Under control by the authority.",
+   "Moving in the wrong direction."
+  ],
+  "answer": 1,
+  "explain_zh": "in the balance 字面指「在天秤上」，引申為「懸而未決、前途未卜」，文中指孩童的教育前景處於不確定的狀態，故選 B。A、C、D 皆非此片語的正確含意，屬於誤導選項。in the balance 是常見的片語考點。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "balance",
+    "zh": "平衡、未定狀態",
+    "pos": "n."
+   },
+   {
+    "w": "prospect",
+    "zh": "前景",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-052",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Ongoing conflicts across the Middle East have prevented more than 13 million children from attending school, according to a report published by UNICEF, the United Nations Children's Fund.\nThe report states that 40% of all children across the region are currently not receiving an education, which is a result of two consequences of violence: structural damage to schools and the displacement of populations, also called “forced migration.” Both issues result from the tide of violence that has crossed the region in recent years. The report examines nine countries where a state of war has become the norm. Across these countries, violence has made 8,500 schools unusable. In certain cases, communities have relied on school buildings to function as shelters for the displaced, with up to nine families living in a single classroom in former schools across Iraq.\nThe report pays particularly close attention to Syria, where a bloody civil war has displaced at least nine million people since the war began in 2011. With the crisis now in its fifth year, basic public services, including education, inside Syria have been stretched to breaking point. Within the country, the quality and availability of education depends on whether a particular region is suffering violence.\nThe report concludes with an earnest request to international policymakers to distribute financial and other resources to ease the regional crisis. With more than 13 million children already driven from classrooms by conflict, it is no exaggeration to say that the educational prospects of a generation of children are in the balance. The forces that are crushing individual lives and futures are also destroying the prospects for an entire region.",
+  "group_id": "PX-GSAT105-G06",
+  "stem": "According to the passage, which of the following statements is true?",
+  "options": [
+   "The war in Syria has been going on since 2011.",
+   "More than nine thousand schools have been destroyed by wars.",
+   "Thirteen million people have been forced to leave their homes in the Middle East.",
+   "Forty percent of all children in the world are not attending schools due to ongoing conflict."
+  ],
+  "answer": 0,
+  "explain_zh": "文中明確指出敘利亞內戰「自 2011 年開始」，故選 A。B 的學校數字（8,500所）與原文不符、C 是流離失所人數而非「離開國家」的人數、D 的 40% 是指中東地區而非全世界，皆與原文數據不符，需仔細核對細節數字。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "civil war",
+    "zh": "內戰",
+    "pos": "n."
+   },
+   {
+    "w": "statement",
+    "zh": "陳述",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-053",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "研究目的",
+  "passage": "Many marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake's salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean?\nAn international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals' only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.\nThe researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake's likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+  "group_id": "PX-GSAT105-G07",
+  "stem": "What is the purpose of the study described in this passage?",
+  "options": [
+   "To test if sea snakes lose body water at sea.",
+   "To see whether sea snakes drink water offered to them.",
+   "To find out if sea snakes are greatly reduced in population.",
+   "To prove that sea snakes drink only water coming from rivers."
+  ],
+  "answer": 0,
+  "explain_zh": "研究團隊想確認海蛇在海上是否會因缺乏淡水而「脫水」，故選 A。B、C 只是研究過程中的觀察或背景訊息，並非研究的核心目的，D 文章根本沒有提到「只喝河水」，故不成立。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "dehydrate",
+    "zh": "脫水",
+    "pos": "v."
+   },
+   {
+    "w": "population",
+    "zh": "族群、數量",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-054",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Many marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake's salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean?\nAn international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals' only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.\nThe researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake's likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+  "group_id": "PX-GSAT105-G07",
+  "stem": "Which of the following is true about sea snakes?",
+  "options": [
+   "Their salt glands can remove the salt in the seawater.",
+   "They can drink seawater when it mixes with rainwater.",
+   "The ocean is like a desert to them since they don't drink seawater.",
+   "They usually live near the coastal area where there is more fresh water."
+  ],
+  "answer": 2,
+  "explain_zh": "海蛇的鹽腺無法承受喝海水帶來的大量鹽分，因此海洋對牠們而言就像沙漠一樣沒有可飲用的水，故選 C。A、B、D 皆與原文描述的鹽腺功能或棲息地不符，是常見的過度推論陷阱選項。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "desert",
+    "zh": "沙漠",
+    "pos": "n."
+   },
+   {
+    "w": "gland",
+    "zh": "腺體",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-055",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Many marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake's salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean?\nAn international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals' only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.\nThe researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake's likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+  "group_id": "PX-GSAT105-G07",
+  "stem": "Which of the following is one of the findings of the study?",
+  "options": [
+   "If a sea snake was dried and weak, it drank more fresh water.",
+   "If captured in the wet season, sea snakes drank a lot of fresh water.",
+   "Most of the sea snakes had lost a lot of body water when captured.",
+   "Dehydration is not a problem among sea snakes since they live at sea."
+  ],
+  "answer": 0,
+  "explain_zh": "研究發現「身體越乾瘦缺水的蛇，喝淡水的意願與量都越高」，故選 A。B 與原文相反（乾季才多喝、雨季幾乎不喝）、C 誇大了脫水蛇隻的比例、D 與研究結論（牠們確實會脫水）矛盾，皆不成立。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "withered",
+    "zh": "乾瘦的",
+    "pos": "adj."
+   },
+   {
+    "w": "likelihood",
+    "zh": "可能性",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT105-056",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Many marine animals, including penguins and marine iguanas, have evolved ways to get rid of excess salt by using special salt-expelling glands around their tongue. However, the sea snake's salt glands cannot handle the massive amounts of salt that would enter their bodies if they actually drank seawater. This poses a serious problem when it comes to getting enough water to drink. If seawater is not an option, how does this animal survive in the ocean?\nAn international team of researchers focused on a population of yellow-bellied sea snakes living near Costa Rica, where rain often does not fall for up to seven months out of the year. Because yellow-bellied sea snakes usually spend all of their time far from land, rain is the animals' only source of fresh water. When it rains, a thin layer of fresh water forms on top of the ocean, providing the snakes with a fleeting opportunity to lap up that precious resource. But during the dry season when there is no rain, snakes presumably have nothing to drink. Thus, the team became interested in testing whether sea snakes became dehydrated at sea.\nThe researchers collected more than 500 yellow-bellied sea snakes and weighed them. They found that during the dry season about half of the snakes accepted fresh water offered to them, while nearly none did during the wet season. A snake's likelihood to drink also correlated with its body condition, with more withered snakes being more likely to drink, and to drink more. Finally, as predicted, snakes captured during the dry season contained significantly less body water than those scooped up in the rainy season. Thus, it seems the snake is able to endure certain degrees of dehydration in between rains. Scientists believe that dehydration at sea may explain the declining populations of sea snakes in some parts of the world.",
+  "group_id": "PX-GSAT105-G07",
+  "stem": "What can be inferred from the study?",
+  "options": [
+   "Sea snakes can easily survive long years of drought.",
+   "Evolution will very likely enable sea snakes to drink seawater.",
+   "Sea snakes will be the last creature affected by global warming.",
+   "The sea snakes' population distribution is closely related to rainfall."
+  ],
+  "answer": 3,
+  "explain_zh": "研究顯示海蛇會因缺水而脫水，暗示牠們的族群分布與「降雨量」密切相關，故選 D。A、C 皆屬過度樂觀的推論、B 主張演化讓牠們喝海水，與文章鹽腺功能受限的描述矛盾，皆不成立。",
+  "source": "105學測",
+  "vocab": [
+   {
+    "w": "rainfall",
+    "zh": "降雨量",
+    "pos": "n."
+   },
+   {
+    "w": "distribution",
+    "zh": "分布",
+    "pos": "n."
+   }
+  ]
+ }
+]

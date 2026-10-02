@@ -1,0 +1,2902 @@
+[
+ {
+  "id": "HL1-0001",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A: Okay, for our group project on food waste, I think we should start with a survey of the school cafeteria.\nB: A survey sounds good, but honestly the data we need already exists. The city council published a report last March.\nA: Last March? I thought it came out in May.\nB: The draft was in March; the final version came out in May. We should use the final one.\nA: Fine. So you'll handle the report and I'll design the poster?\nB: Actually, could we swap? I'm much better with graphics than with numbers.\nA: Sure, that works. Ms. Chen said the presentation is fifteen minutes, right?\nB: Fifty. Sorry, I mean fifteen minutes for the talk, plus five minutes for questions.\nA: Twenty in total, then. Shall we meet again on Thursday after school?\nB: I have band practice on Thursday. Can we do Friday lunchtime instead?\nA: Friday it is. I'll book a room in the library.",
+  "group_id": "HL1-G01",
+  "stem": "What subject have the two students chosen for their group project?",
+  "options": [
+   "Food waste at their school",
+   "Plastic recycling in the city",
+   "School uniform rules",
+   "Traffic safety near the campus"
+  ],
+  "answer": 0,
+  "explain_zh": "開頭就說 our group project on food waste，並提到要調查學校餐廳，故選食物浪費。其餘三個主題稿中完全沒出現，屬於憑印象亂猜的誘答。聽力主旨題要抓第一句的關鍵名詞。",
+  "vocab": [
+   {
+    "w": "food waste",
+    "zh": "食物浪費",
+    "pos": "n."
+   },
+   {
+    "w": "survey",
+    "zh": "問卷調查",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0002",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Okay, for our group project on food waste, I think we should start with a survey of the school cafeteria.\nB: A survey sounds good, but honestly the data we need already exists. The city council published a report last March.\nA: Last March? I thought it came out in May.\nB: The draft was in March; the final version came out in May. We should use the final one.\nA: Fine. So you'll handle the report and I'll design the poster?\nB: Actually, could we swap? I'm much better with graphics than with numbers.\nA: Sure, that works. Ms. Chen said the presentation is fifteen minutes, right?\nB: Fifty. Sorry, I mean fifteen minutes for the talk, plus five minutes for questions.\nA: Twenty in total, then. Shall we meet again on Thursday after school?\nB: I have band practice on Thursday. Can we do Friday lunchtime instead?\nA: Friday it is. I'll book a room in the library.",
+  "group_id": "HL1-G01",
+  "stem": "When was the final version of the city council report published?",
+  "options": [
+   "In March",
+   "In April",
+   "In May",
+   "In June"
+  ],
+  "answer": 2,
+  "explain_zh": "男女生特別澄清：draft 草稿是三月，final version 最終版是五月，題目問 final 所以選 May。March 是草稿日期，屬於典型的「先說一個日期再更正」陷阱。",
+  "vocab": [
+   {
+    "w": "draft",
+    "zh": "草稿",
+    "pos": "n."
+   },
+   {
+    "w": "publish",
+    "zh": "發表、出版",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0003",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Okay, for our group project on food waste, I think we should start with a survey of the school cafeteria.\nB: A survey sounds good, but honestly the data we need already exists. The city council published a report last March.\nA: Last March? I thought it came out in May.\nB: The draft was in March; the final version came out in May. We should use the final one.\nA: Fine. So you'll handle the report and I'll design the poster?\nB: Actually, could we swap? I'm much better with graphics than with numbers.\nA: Sure, that works. Ms. Chen said the presentation is fifteen minutes, right?\nB: Fifty. Sorry, I mean fifteen minutes for the talk, plus five minutes for questions.\nA: Twenty in total, then. Shall we meet again on Thursday after school?\nB: I have band practice on Thursday. Can we do Friday lunchtime instead?\nA: Friday it is. I'll book a room in the library.",
+  "group_id": "HL1-G01",
+  "stem": "How long will the students speak, not counting the question time?",
+  "options": [
+   "Five minutes",
+   "Fifteen minutes",
+   "Twenty minutes",
+   "Fifty minutes"
+  ],
+  "answer": 1,
+  "explain_zh": "B 先口誤說 Fifty，馬上更正成 fifteen minutes for the talk，另加五分鐘問答。題目問「不含問答」，所以是十五分鐘。fifteen 與 fifty 尾音不同，fifteen 重音在後。",
+  "vocab": [
+   {
+    "w": "presentation",
+    "zh": "口頭報告",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0004",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Okay, for our group project on food waste, I think we should start with a survey of the school cafeteria.\nB: A survey sounds good, but honestly the data we need already exists. The city council published a report last March.\nA: Last March? I thought it came out in May.\nB: The draft was in March; the final version came out in May. We should use the final one.\nA: Fine. So you'll handle the report and I'll design the poster?\nB: Actually, could we swap? I'm much better with graphics than with numbers.\nA: Sure, that works. Ms. Chen said the presentation is fifteen minutes, right?\nB: Fifty. Sorry, I mean fifteen minutes for the talk, plus five minutes for questions.\nA: Twenty in total, then. Shall we meet again on Thursday after school?\nB: I have band practice on Thursday. Can we do Friday lunchtime instead?\nA: Friday it is. I'll book a room in the library.",
+  "group_id": "HL1-G01",
+  "stem": "Which task does speaker B finally agree to take?",
+  "options": [
+   "Designing the poster",
+   "Handing out surveys in the cafeteria",
+   "Writing to the city council",
+   "Booking a meeting room"
+  ],
+  "answer": 0,
+  "explain_zh": "B 說 could we swap? I'm much better with graphics，交換後 B 負責海報。原本 A 要做海報，交換是聽力常見轉折。訂會議室是 A 最後說要做的事。",
+  "vocab": [
+   {
+    "w": "swap",
+    "zh": "交換",
+    "pos": "v."
+   },
+   {
+    "w": "graphics",
+    "zh": "圖像設計",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0005",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A: Okay, for our group project on food waste, I think we should start with a survey of the school cafeteria.\nB: A survey sounds good, but honestly the data we need already exists. The city council published a report last March.\nA: Last March? I thought it came out in May.\nB: The draft was in March; the final version came out in May. We should use the final one.\nA: Fine. So you'll handle the report and I'll design the poster?\nB: Actually, could we swap? I'm much better with graphics than with numbers.\nA: Sure, that works. Ms. Chen said the presentation is fifteen minutes, right?\nB: Fifty. Sorry, I mean fifteen minutes for the talk, plus five minutes for questions.\nA: Twenty in total, then. Shall we meet again on Thursday after school?\nB: I have band practice on Thursday. Can we do Friday lunchtime instead?\nA: Friday it is. I'll book a room in the library.",
+  "group_id": "HL1-G01",
+  "stem": "Why do the students change their meeting to Friday?",
+  "options": [
+   "The library is closed on Thursday.",
+   "Their teacher is busy on Thursday.",
+   "The report will not be ready until Friday.",
+   "One of them has band practice on Thursday."
+  ],
+  "answer": 3,
+  "explain_zh": "B 說 I have band practice on Thursday，所以改到週五中午。其他三個原因稿中都沒提到，是根據常識編造的誘答。推論題要找「因為…所以改期」的因果訊號。",
+  "vocab": [
+   {
+    "w": "band practice",
+    "zh": "樂團練習",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0006",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Congratulations on becoming the new president of the photography club!\nB: Thanks. I'm a bit nervous, though. What should I do first?\nA: First, check the equipment list. We have fourteen cameras. Sorry, forty. Fourteen of them are digital and the rest are film.\nB: Forty cameras altogether? That's a lot to look after.\nA: It is. And the key to the storage room is with our adviser, Mr. Lin, not in the club office.\nB: Got it. When is the first meeting of the new term?\nA: September the eighth. Hold on, the school moved it to the fifteenth because of sports day.\nB: The fifteenth. And how much money is left in the club account?\nA: About three thousand two hundred dollars. Keep every receipt, because the school checks the accounts twice a year.\nB: Twice a year. Anything else?\nA: Just one thing. Reply to members' messages quickly. That matters more than anything else you do.",
+  "group_id": "HL1-G02",
+  "stem": "How many cameras does the photography club have altogether?",
+  "options": [
+   "Four",
+   "Fourteen",
+   "Forty",
+   "Forty-four"
+  ],
+  "answer": 2,
+  "explain_zh": "A 先說 fourteen 再更正為 forty，並說明其中十四台是數位的。題目問 altogether，答案是四十台。fourteen 與 forty 是聽力最常見的混淆組。",
+  "vocab": [
+   {
+    "w": "equipment",
+    "zh": "設備、器材",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0007",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Congratulations on becoming the new president of the photography club!\nB: Thanks. I'm a bit nervous, though. What should I do first?\nA: First, check the equipment list. We have fourteen cameras. Sorry, forty. Fourteen of them are digital and the rest are film.\nB: Forty cameras altogether? That's a lot to look after.\nA: It is. And the key to the storage room is with our adviser, Mr. Lin, not in the club office.\nB: Got it. When is the first meeting of the new term?\nA: September the eighth. Hold on, the school moved it to the fifteenth because of sports day.\nB: The fifteenth. And how much money is left in the club account?\nA: About three thousand two hundred dollars. Keep every receipt, because the school checks the accounts twice a year.\nB: Twice a year. Anything else?\nA: Just one thing. Reply to members' messages quickly. That matters more than anything else you do.",
+  "group_id": "HL1-G02",
+  "stem": "Where is the key to the club's storage room kept?",
+  "options": [
+   "In the club office",
+   "With the club adviser",
+   "In the door of the storage room",
+   "With the school guard"
+  ],
+  "answer": 1,
+  "explain_zh": "A 明說 the key is with our adviser, Mr. Lin, not in the club office，特別用 not 排除了辦公室。其他兩個地點稿中未提及。這種 A not B 的句型答案一定在 not 前面。",
+  "vocab": [
+   {
+    "w": "adviser",
+    "zh": "指導老師",
+    "pos": "n."
+   },
+   {
+    "w": "storage",
+    "zh": "儲藏",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0008",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Congratulations on becoming the new president of the photography club!\nB: Thanks. I'm a bit nervous, though. What should I do first?\nA: First, check the equipment list. We have fourteen cameras. Sorry, forty. Fourteen of them are digital and the rest are film.\nB: Forty cameras altogether? That's a lot to look after.\nA: It is. And the key to the storage room is with our adviser, Mr. Lin, not in the club office.\nB: Got it. When is the first meeting of the new term?\nA: September the eighth. Hold on, the school moved it to the fifteenth because of sports day.\nB: The fifteenth. And how much money is left in the club account?\nA: About three thousand two hundred dollars. Keep every receipt, because the school checks the accounts twice a year.\nB: Twice a year. Anything else?\nA: Just one thing. Reply to members' messages quickly. That matters more than anything else you do.",
+  "group_id": "HL1-G02",
+  "stem": "When will the club hold its first meeting of the new term?",
+  "options": [
+   "On September the eighth",
+   "On September the fifteenth",
+   "On September the eighteenth",
+   "On September the twenty-fifth"
+  ],
+  "answer": 1,
+  "explain_zh": "A 先說八號，再說學校因為運動會改到 the fifteenth，B 也複誦一次確認。改口後的日期才是答案，第一個日期是陷阱。",
+  "vocab": [
+   {
+    "w": "term",
+    "zh": "學期",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0009",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Congratulations on becoming the new president of the photography club!\nB: Thanks. I'm a bit nervous, though. What should I do first?\nA: First, check the equipment list. We have fourteen cameras. Sorry, forty. Fourteen of them are digital and the rest are film.\nB: Forty cameras altogether? That's a lot to look after.\nA: It is. And the key to the storage room is with our adviser, Mr. Lin, not in the club office.\nB: Got it. When is the first meeting of the new term?\nA: September the eighth. Hold on, the school moved it to the fifteenth because of sports day.\nB: The fifteenth. And how much money is left in the club account?\nA: About three thousand two hundred dollars. Keep every receipt, because the school checks the accounts twice a year.\nB: Twice a year. Anything else?\nA: Just one thing. Reply to members' messages quickly. That matters more than anything else you do.",
+  "group_id": "HL1-G02",
+  "stem": "Why does the former president tell the new president to keep every receipt?",
+  "options": [
+   "The club must pay for the cameras.",
+   "Members want to see the prices.",
+   "The receipts are needed for a competition.",
+   "The school checks the club accounts twice a year."
+  ],
+  "answer": 3,
+  "explain_zh": "原因就在 because the school checks the accounts twice a year。其他選項把稿中提過的相機、社員等名詞硬湊成理由，屬於關鍵字誤導。",
+  "vocab": [
+   {
+    "w": "receipt",
+    "zh": "收據",
+    "pos": "n."
+   },
+   {
+    "w": "account",
+    "zh": "帳戶、帳目",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0010",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:speaker-attitude",
+  "tag_zh": "說話者態度",
+  "passage": "A: Congratulations on becoming the new president of the photography club!\nB: Thanks. I'm a bit nervous, though. What should I do first?\nA: First, check the equipment list. We have fourteen cameras. Sorry, forty. Fourteen of them are digital and the rest are film.\nB: Forty cameras altogether? That's a lot to look after.\nA: It is. And the key to the storage room is with our adviser, Mr. Lin, not in the club office.\nB: Got it. When is the first meeting of the new term?\nA: September the eighth. Hold on, the school moved it to the fifteenth because of sports day.\nB: The fifteenth. And how much money is left in the club account?\nA: About three thousand two hundred dollars. Keep every receipt, because the school checks the accounts twice a year.\nB: Twice a year. Anything else?\nA: Just one thing. Reply to members' messages quickly. That matters more than anything else you do.",
+  "group_id": "HL1-G02",
+  "stem": "What does the former president think matters most for the new president?",
+  "options": [
+   "Answering members' messages quickly",
+   "Buying more film cameras",
+   "Saving money in the account",
+   "Holding meetings every week"
+  ],
+  "answer": 0,
+  "explain_zh": "最後一句 That matters more than anything else you do 直接點出他認為最重要的事是快速回覆社員訊息。態度題要聽 most important、matters more 這類比較級訊號。",
+  "vocab": [
+   {
+    "w": "reply",
+    "zh": "回覆",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0011",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A: Thanks for coming in. So you're applying for the weekend position at the bakery?\nB: Yes. I saw the notice in your window last Friday.\nA: Good. Have you ever worked in a shop before?\nB: Not in a shop, but I helped at my uncle's coffee stand every summer for two years.\nA: That's useful experience. The pay starts at one hundred and ninety dollars an hour, and it goes up to two hundred and ten after three months.\nB: Two hundred and ten. That sounds fair. What are the hours?\nA: Saturdays and Sundays, eight in the morning until one in the afternoon.\nB: Five hours a day, then. I can manage that.\nA: One more thing. We ask everyone to wear black trousers. We provide the apron and the cap.\nB: Do I need special shoes?\nA: Just flat, closed shoes. No sandals, for safety reasons.\nB: Understood. When would I start?\nA: If everything goes well, the first Saturday of next month.",
+  "group_id": "HL1-G03",
+  "stem": "What is the main purpose of this conversation?",
+  "options": [
+   "Ordering cakes for a party",
+   "Interviewing someone for a weekend job",
+   "Complaining about low pay",
+   "Booking a training course"
+  ],
+  "answer": 1,
+  "explain_zh": "第一句 you're applying for the weekend position 就定調是週末打工面試，後面談薪水、工時、服裝都是面試內容。其他選項與對話功能不符。",
+  "vocab": [
+   {
+    "w": "apply for",
+    "zh": "應徵、申請",
+    "pos": "v. phr."
+   },
+   {
+    "w": "position",
+    "zh": "職位",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0012",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Thanks for coming in. So you're applying for the weekend position at the bakery?\nB: Yes. I saw the notice in your window last Friday.\nA: Good. Have you ever worked in a shop before?\nB: Not in a shop, but I helped at my uncle's coffee stand every summer for two years.\nA: That's useful experience. The pay starts at one hundred and ninety dollars an hour, and it goes up to two hundred and ten after three months.\nB: Two hundred and ten. That sounds fair. What are the hours?\nA: Saturdays and Sundays, eight in the morning until one in the afternoon.\nB: Five hours a day, then. I can manage that.\nA: One more thing. We ask everyone to wear black trousers. We provide the apron and the cap.\nB: Do I need special shoes?\nA: Just flat, closed shoes. No sandals, for safety reasons.\nB: Understood. When would I start?\nA: If everything goes well, the first Saturday of next month.",
+  "group_id": "HL1-G03",
+  "stem": "What work experience does the applicant already have?",
+  "options": [
+   "She managed a bakery for two years.",
+   "She worked in a clothes shop.",
+   "She has never had any job at all.",
+   "She helped at a relative's coffee stand."
+  ],
+  "answer": 3,
+  "explain_zh": "B 說 Not in a shop, but I helped at my uncle's coffee stand，uncle 就是 relative。選項一把 helped 誇大成 managed，選項三與 but 之後的內容矛盾。",
+  "vocab": [
+   {
+    "w": "stand",
+    "zh": "攤位",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0013",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Thanks for coming in. So you're applying for the weekend position at the bakery?\nB: Yes. I saw the notice in your window last Friday.\nA: Good. Have you ever worked in a shop before?\nB: Not in a shop, but I helped at my uncle's coffee stand every summer for two years.\nA: That's useful experience. The pay starts at one hundred and ninety dollars an hour, and it goes up to two hundred and ten after three months.\nB: Two hundred and ten. That sounds fair. What are the hours?\nA: Saturdays and Sundays, eight in the morning until one in the afternoon.\nB: Five hours a day, then. I can manage that.\nA: One more thing. We ask everyone to wear black trousers. We provide the apron and the cap.\nB: Do I need special shoes?\nA: Just flat, closed shoes. No sandals, for safety reasons.\nB: Understood. When would I start?\nA: If everything goes well, the first Saturday of next month.",
+  "group_id": "HL1-G03",
+  "stem": "How much will the applicant earn per hour after three months?",
+  "options": [
+   "One hundred and ninety dollars",
+   "Two hundred dollars",
+   "Two hundred and ten dollars",
+   "Two hundred and thirty dollars"
+  ],
+  "answer": 2,
+  "explain_zh": "起薪 190，三個月後升到 two hundred and ten。題目問三個月後，所以選 210。190 是起薪，容易被先聽到的數字帶走。",
+  "vocab": [
+   {
+    "w": "hourly",
+    "zh": "按小時的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0014",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Thanks for coming in. So you're applying for the weekend position at the bakery?\nB: Yes. I saw the notice in your window last Friday.\nA: Good. Have you ever worked in a shop before?\nB: Not in a shop, but I helped at my uncle's coffee stand every summer for two years.\nA: That's useful experience. The pay starts at one hundred and ninety dollars an hour, and it goes up to two hundred and ten after three months.\nB: Two hundred and ten. That sounds fair. What are the hours?\nA: Saturdays and Sundays, eight in the morning until one in the afternoon.\nB: Five hours a day, then. I can manage that.\nA: One more thing. We ask everyone to wear black trousers. We provide the apron and the cap.\nB: Do I need special shoes?\nA: Just flat, closed shoes. No sandals, for safety reasons.\nB: Understood. When would I start?\nA: If everything goes well, the first Saturday of next month.",
+  "group_id": "HL1-G03",
+  "stem": "How many hours will the applicant work each weekend day?",
+  "options": [
+   "Four hours",
+   "Five hours",
+   "Eight hours",
+   "Thirteen hours"
+  ],
+  "answer": 1,
+  "explain_zh": "工時是早上八點到下午一點，B 自己算出 Five hours a day。eight 與 thirteen 是從 eight in the morning、one in the afternoon 誤讀來的干擾項。",
+  "vocab": [
+   {
+    "w": "shift",
+    "zh": "輪班、班次",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0015",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Thanks for coming in. So you're applying for the weekend position at the bakery?\nB: Yes. I saw the notice in your window last Friday.\nA: Good. Have you ever worked in a shop before?\nB: Not in a shop, but I helped at my uncle's coffee stand every summer for two years.\nA: That's useful experience. The pay starts at one hundred and ninety dollars an hour, and it goes up to two hundred and ten after three months.\nB: Two hundred and ten. That sounds fair. What are the hours?\nA: Saturdays and Sundays, eight in the morning until one in the afternoon.\nB: Five hours a day, then. I can manage that.\nA: One more thing. We ask everyone to wear black trousers. We provide the apron and the cap.\nB: Do I need special shoes?\nA: Just flat, closed shoes. No sandals, for safety reasons.\nB: Understood. When would I start?\nA: If everything goes well, the first Saturday of next month.",
+  "group_id": "HL1-G03",
+  "stem": "What does the applicant have to provide herself?",
+  "options": [
+   "An apron",
+   "A cap",
+   "Black trousers",
+   "Sandals"
+  ],
+  "answer": 2,
+  "explain_zh": "店家提供 apron 和 cap，只有 black trousers 要求員工自備；sandals 則是明確禁止的。聽到 We provide 就知道那些不用自己買。",
+  "vocab": [
+   {
+    "w": "apron",
+    "zh": "圍裙",
+    "pos": "n."
+   },
+   {
+    "w": "trousers",
+    "zh": "長褲",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0016",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: This is the studio I mentioned on the phone. It's on the fourth floor.\nB: There's no lift, is there?\nA: I'm afraid not. That's exactly why the rent is lower than the other flats on this street. Thirteen thousand a month.\nB: Thirteen thousand. Does that include water and electricity?\nA: Water is included. Electricity you pay separately, usually about eight hundred in summer.\nB: What about the deposit?\nA: Two months' rent, returned when you move out, as long as nothing is damaged.\nB: The window faces the road. Is it noisy at night?\nA: The buses stop running at eleven, so it's quiet after that, and the glass is double-glazed.\nB: That's good. Am I allowed to paint the walls?\nA: Small changes are fine, but please ask me before you drill any holes.\nB: Fair enough. How soon could I move in?\nA: The current tenant leaves on the thirtieth, so from the first of next month.",
+  "group_id": "HL1-G04",
+  "stem": "How much is the monthly rent for this studio?",
+  "options": [
+   "Three thousand dollars",
+   "Eight hundred dollars",
+   "Thirteen thousand dollars",
+   "Thirty thousand dollars"
+  ],
+  "answer": 2,
+  "explain_zh": "房東說 Thirteen thousand a month，房客也複誦一次。八百是夏天的電費，三萬是把 thirteen 聽成 thirty 的典型錯誤。",
+  "vocab": [
+   {
+    "w": "rent",
+    "zh": "租金",
+    "pos": "n."
+   },
+   {
+    "w": "studio",
+    "zh": "套房",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0017",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: This is the studio I mentioned on the phone. It's on the fourth floor.\nB: There's no lift, is there?\nA: I'm afraid not. That's exactly why the rent is lower than the other flats on this street. Thirteen thousand a month.\nB: Thirteen thousand. Does that include water and electricity?\nA: Water is included. Electricity you pay separately, usually about eight hundred in summer.\nB: What about the deposit?\nA: Two months' rent, returned when you move out, as long as nothing is damaged.\nB: The window faces the road. Is it noisy at night?\nA: The buses stop running at eleven, so it's quiet after that, and the glass is double-glazed.\nB: That's good. Am I allowed to paint the walls?\nA: Small changes are fine, but please ask me before you drill any holes.\nB: Fair enough. How soon could I move in?\nA: The current tenant leaves on the thirtieth, so from the first of next month.",
+  "group_id": "HL1-G04",
+  "stem": "Which cost is already included in the rent?",
+  "options": [
+   "Electricity",
+   "Water",
+   "Internet",
+   "Parking"
+  ],
+  "answer": 1,
+  "explain_zh": "Water is included，電費則是 you pay separately。網路與停車位完全沒提到，是憑生活經驗亂猜的誘答。",
+  "vocab": [
+   {
+    "w": "include",
+    "zh": "包含",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0018",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: This is the studio I mentioned on the phone. It's on the fourth floor.\nB: There's no lift, is there?\nA: I'm afraid not. That's exactly why the rent is lower than the other flats on this street. Thirteen thousand a month.\nB: Thirteen thousand. Does that include water and electricity?\nA: Water is included. Electricity you pay separately, usually about eight hundred in summer.\nB: What about the deposit?\nA: Two months' rent, returned when you move out, as long as nothing is damaged.\nB: The window faces the road. Is it noisy at night?\nA: The buses stop running at eleven, so it's quiet after that, and the glass is double-glazed.\nB: That's good. Am I allowed to paint the walls?\nA: Small changes are fine, but please ask me before you drill any holes.\nB: Fair enough. How soon could I move in?\nA: The current tenant leaves on the thirtieth, so from the first of next month.",
+  "group_id": "HL1-G04",
+  "stem": "How large a deposit does the landlord ask for?",
+  "options": [
+   "One month's rent",
+   "Half a month's rent",
+   "Three months' rent",
+   "Two months' rent"
+  ],
+  "answer": 3,
+  "explain_zh": "房東回答 Two months' rent，並說退租且無損壞時會退還。押金題常見一到三個月的干擾項，要聽清楚數字本身。",
+  "vocab": [
+   {
+    "w": "deposit",
+    "zh": "押金",
+    "pos": "n."
+   },
+   {
+    "w": "damage",
+    "zh": "損壞",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0019",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A: This is the studio I mentioned on the phone. It's on the fourth floor.\nB: There's no lift, is there?\nA: I'm afraid not. That's exactly why the rent is lower than the other flats on this street. Thirteen thousand a month.\nB: Thirteen thousand. Does that include water and electricity?\nA: Water is included. Electricity you pay separately, usually about eight hundred in summer.\nB: What about the deposit?\nA: Two months' rent, returned when you move out, as long as nothing is damaged.\nB: The window faces the road. Is it noisy at night?\nA: The buses stop running at eleven, so it's quiet after that, and the glass is double-glazed.\nB: That's good. Am I allowed to paint the walls?\nA: Small changes are fine, but please ask me before you drill any holes.\nB: Fair enough. How soon could I move in?\nA: The current tenant leaves on the thirtieth, so from the first of next month.",
+  "group_id": "HL1-G04",
+  "stem": "Why is this flat cheaper than others on the same street?",
+  "options": [
+   "The building has no lift.",
+   "The room is very small.",
+   "The street is extremely noisy.",
+   "The contract is only for six months."
+  ],
+  "answer": 0,
+  "explain_zh": "房東說 That's exactly why the rent is lower，前一句正是 there's no lift。噪音問題房東反而說十一點後就安靜了，不是降價原因。",
+  "vocab": [
+   {
+    "w": "lift",
+    "zh": "電梯",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0020",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: This is the studio I mentioned on the phone. It's on the fourth floor.\nB: There's no lift, is there?\nA: I'm afraid not. That's exactly why the rent is lower than the other flats on this street. Thirteen thousand a month.\nB: Thirteen thousand. Does that include water and electricity?\nA: Water is included. Electricity you pay separately, usually about eight hundred in summer.\nB: What about the deposit?\nA: Two months' rent, returned when you move out, as long as nothing is damaged.\nB: The window faces the road. Is it noisy at night?\nA: The buses stop running at eleven, so it's quiet after that, and the glass is double-glazed.\nB: That's good. Am I allowed to paint the walls?\nA: Small changes are fine, but please ask me before you drill any holes.\nB: Fair enough. How soon could I move in?\nA: The current tenant leaves on the thirtieth, so from the first of next month.",
+  "group_id": "HL1-G04",
+  "stem": "What must the tenant ask the landlord about in advance?",
+  "options": [
+   "Inviting friends to visit",
+   "Using the washing machine",
+   "Opening the window at night",
+   "Drilling holes in the walls"
+  ],
+  "answer": 3,
+  "explain_zh": "房東說 please ask me before you drill any holes，小改變則不用問。其他三件事稿中根本沒討論。",
+  "vocab": [
+   {
+    "w": "drill",
+    "zh": "鑽（孔）",
+    "pos": "v."
+   },
+   {
+    "w": "tenant",
+    "zh": "房客",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0021",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Good morning. I'd like to open a savings account, please.\nB: Certainly. Could I see your ID card and one other document with your photo on it?\nA: I have my student card. Is that all right?\nB: That's fine. Now, how do you spell your family name?\nA: It's Hsu. H-S-U. My given name is Wei-ting, W-E-I, hyphen, T-I-N-G.\nB: Thank you. The minimum opening deposit is one thousand dollars.\nA: I thought the poster outside said five hundred.\nB: Five hundred is for the youth account, which is only for customers under eighteen. May I ask how old you are?\nA: I turned nineteen in June.\nB: Then it's one thousand. Your card will be ready in about five working days, and we'll send you a text message when it arrives.\nA: Can I collect it at a different branch?\nB: Only at the branch where the account was opened, I'm afraid.",
+  "group_id": "HL1-G05",
+  "stem": "Which second document does the customer show to the bank clerk?",
+  "options": [
+   "A driving licence",
+   "A student card",
+   "A health insurance card",
+   "A library card"
+  ],
+  "answer": 1,
+  "explain_zh": "行員要求 one other document with your photo，客戶回答 I have my student card 並獲得同意。其他證件稿中都沒出現。",
+  "vocab": [
+   {
+    "w": "document",
+    "zh": "證件、文件",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0022",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Good morning. I'd like to open a savings account, please.\nB: Certainly. Could I see your ID card and one other document with your photo on it?\nA: I have my student card. Is that all right?\nB: That's fine. Now, how do you spell your family name?\nA: It's Hsu. H-S-U. My given name is Wei-ting, W-E-I, hyphen, T-I-N-G.\nB: Thank you. The minimum opening deposit is one thousand dollars.\nA: I thought the poster outside said five hundred.\nB: Five hundred is for the youth account, which is only for customers under eighteen. May I ask how old you are?\nA: I turned nineteen in June.\nB: Then it's one thousand. Your card will be ready in about five working days, and we'll send you a text message when it arrives.\nA: Can I collect it at a different branch?\nB: Only at the branch where the account was opened, I'm afraid.",
+  "group_id": "HL1-G05",
+  "stem": "How does the customer spell her family name?",
+  "options": [
+   "H-S-U",
+   "H-U-S",
+   "S-H-U",
+   "H-S-E"
+  ],
+  "answer": 0,
+  "explain_zh": "客戶清楚拼出 H-S-U。拼字題必須一個字母一個字母跟著記，順序顛倒的 H-U-S、S-H-U 就是最常見的錯誤。",
+  "vocab": [
+   {
+    "w": "spell",
+    "zh": "拼寫",
+    "pos": "v."
+   },
+   {
+    "w": "given name",
+    "zh": "名字",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0023",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Good morning. I'd like to open a savings account, please.\nB: Certainly. Could I see your ID card and one other document with your photo on it?\nA: I have my student card. Is that all right?\nB: That's fine. Now, how do you spell your family name?\nA: It's Hsu. H-S-U. My given name is Wei-ting, W-E-I, hyphen, T-I-N-G.\nB: Thank you. The minimum opening deposit is one thousand dollars.\nA: I thought the poster outside said five hundred.\nB: Five hundred is for the youth account, which is only for customers under eighteen. May I ask how old you are?\nA: I turned nineteen in June.\nB: Then it's one thousand. Your card will be ready in about five working days, and we'll send you a text message when it arrives.\nA: Can I collect it at a different branch?\nB: Only at the branch where the account was opened, I'm afraid.",
+  "group_id": "HL1-G05",
+  "stem": "How much money must the customer pay in to open this account?",
+  "options": [
+   "Five hundred dollars",
+   "One thousand dollars",
+   "One thousand five hundred dollars",
+   "Five thousand dollars"
+  ],
+  "answer": 1,
+  "explain_zh": "一般帳戶最低開戶金額是 one thousand dollars；五百元只適用於未滿十八歲的青年帳戶。海報上的數字是設計來誤導的。",
+  "vocab": [
+   {
+    "w": "minimum",
+    "zh": "最低的",
+    "pos": "adj."
+   },
+   {
+    "w": "savings account",
+    "zh": "儲蓄帳戶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0024",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A: Good morning. I'd like to open a savings account, please.\nB: Certainly. Could I see your ID card and one other document with your photo on it?\nA: I have my student card. Is that all right?\nB: That's fine. Now, how do you spell your family name?\nA: It's Hsu. H-S-U. My given name is Wei-ting, W-E-I, hyphen, T-I-N-G.\nB: Thank you. The minimum opening deposit is one thousand dollars.\nA: I thought the poster outside said five hundred.\nB: Five hundred is for the youth account, which is only for customers under eighteen. May I ask how old you are?\nA: I turned nineteen in June.\nB: Then it's one thousand. Your card will be ready in about five working days, and we'll send you a text message when it arrives.\nA: Can I collect it at a different branch?\nB: Only at the branch where the account was opened, I'm afraid.",
+  "group_id": "HL1-G05",
+  "stem": "Why can the customer not open the cheaper youth account?",
+  "options": [
+   "She has no student card.",
+   "She does not live in this city.",
+   "She is over eighteen years old.",
+   "She already has another account."
+  ],
+  "answer": 2,
+  "explain_zh": "青年帳戶限 under eighteen，而客戶說 I turned nineteen in June，所以不符資格。推論題要把兩句資訊連起來算。",
+  "vocab": [
+   {
+    "w": "youth",
+    "zh": "青少年",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0025",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Good morning. I'd like to open a savings account, please.\nB: Certainly. Could I see your ID card and one other document with your photo on it?\nA: I have my student card. Is that all right?\nB: That's fine. Now, how do you spell your family name?\nA: It's Hsu. H-S-U. My given name is Wei-ting, W-E-I, hyphen, T-I-N-G.\nB: Thank you. The minimum opening deposit is one thousand dollars.\nA: I thought the poster outside said five hundred.\nB: Five hundred is for the youth account, which is only for customers under eighteen. May I ask how old you are?\nA: I turned nineteen in June.\nB: Then it's one thousand. Your card will be ready in about five working days, and we'll send you a text message when it arrives.\nA: Can I collect it at a different branch?\nB: Only at the branch where the account was opened, I'm afraid.",
+  "group_id": "HL1-G05",
+  "stem": "Where can the customer pick up her new bank card?",
+  "options": [
+   "At any branch in the city",
+   "At the post office",
+   "It will be sent to her home.",
+   "Only at this branch"
+  ],
+  "answer": 3,
+  "explain_zh": "行員說 Only at the branch where the account was opened，也就是本分行。銀行只會發簡訊通知，不會寄卡到家。",
+  "vocab": [
+   {
+    "w": "branch",
+    "zh": "分行",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0026",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Hello, I'm looking for a four-day trip to Japan in November.\nB: We have two options. The Osaka tour leaves on the twelfth, and the Hokkaido tour leaves on the twentieth.\nA: The twentieth suits me better. How much is it?\nB: Twenty-nine thousand eight hundred per person, sharing a twin room. A single room costs four thousand more.\nA: I'll share with my sister. Does the price include meals?\nB: Breakfast every day and two dinners. Lunches are on your own, so you can try the local markets.\nA: That sounds fine. Is the flight direct?\nB: Yes, direct both ways, about four hours.\nA: And travel insurance?\nB: It's included, but it only covers medical costs. Cover for cancellation is an extra six hundred.\nA: I'll take the extra cover, then. When do I have to pay in full?\nB: A deposit of five thousand today, and the rest thirty days before departure.",
+  "group_id": "HL1-G06",
+  "stem": "Which tour does the customer decide to book?",
+  "options": [
+   "The Osaka tour leaving on the twelfth",
+   "The Hokkaido tour leaving on the twentieth",
+   "The Osaka tour leaving on the twentieth",
+   "The Hokkaido tour leaving on the twelfth"
+  ],
+  "answer": 1,
+  "explain_zh": "旅行社說北海道團 leaves on the twentieth，客戶回 The twentieth suits me better，因此是北海道團二十號出發。選項故意把目的地和日期交叉組合。",
+  "vocab": [
+   {
+    "w": "tour",
+    "zh": "旅行團",
+    "pos": "n."
+   },
+   {
+    "w": "suit",
+    "zh": "適合",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0027",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Hello, I'm looking for a four-day trip to Japan in November.\nB: We have two options. The Osaka tour leaves on the twelfth, and the Hokkaido tour leaves on the twentieth.\nA: The twentieth suits me better. How much is it?\nB: Twenty-nine thousand eight hundred per person, sharing a twin room. A single room costs four thousand more.\nA: I'll share with my sister. Does the price include meals?\nB: Breakfast every day and two dinners. Lunches are on your own, so you can try the local markets.\nA: That sounds fine. Is the flight direct?\nB: Yes, direct both ways, about four hours.\nA: And travel insurance?\nB: It's included, but it only covers medical costs. Cover for cancellation is an extra six hundred.\nA: I'll take the extra cover, then. When do I have to pay in full?\nB: A deposit of five thousand today, and the rest thirty days before departure.",
+  "group_id": "HL1-G06",
+  "stem": "How much will the customer pay per person for the tour itself?",
+  "options": [
+   "Four thousand dollars",
+   "Five thousand dollars",
+   "Twenty-nine thousand eight hundred dollars",
+   "Thirty-three thousand eight hundred dollars"
+  ],
+  "answer": 2,
+  "explain_zh": "雙人房每人 29,800；單人房才多加四千變成 33,800，但客戶說要和姊姊同住。五千是訂金，不是團費。",
+  "vocab": [
+   {
+    "w": "per person",
+    "zh": "每人",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0028",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Hello, I'm looking for a four-day trip to Japan in November.\nB: We have two options. The Osaka tour leaves on the twelfth, and the Hokkaido tour leaves on the twentieth.\nA: The twentieth suits me better. How much is it?\nB: Twenty-nine thousand eight hundred per person, sharing a twin room. A single room costs four thousand more.\nA: I'll share with my sister. Does the price include meals?\nB: Breakfast every day and two dinners. Lunches are on your own, so you can try the local markets.\nA: That sounds fine. Is the flight direct?\nB: Yes, direct both ways, about four hours.\nA: And travel insurance?\nB: It's included, but it only covers medical costs. Cover for cancellation is an extra six hundred.\nA: I'll take the extra cover, then. When do I have to pay in full?\nB: A deposit of five thousand today, and the rest thirty days before departure.",
+  "group_id": "HL1-G06",
+  "stem": "Which meals must the travellers pay for themselves?",
+  "options": [
+   "Lunches",
+   "Breakfasts",
+   "All dinners",
+   "All meals"
+  ],
+  "answer": 0,
+  "explain_zh": "團費含每天早餐和兩頓晚餐，Lunches are on your own，所以午餐自理。on your own 就是自費的訊號。",
+  "vocab": [
+   {
+    "w": "on one's own",
+    "zh": "自行負擔",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0029",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Hello, I'm looking for a four-day trip to Japan in November.\nB: We have two options. The Osaka tour leaves on the twelfth, and the Hokkaido tour leaves on the twentieth.\nA: The twentieth suits me better. How much is it?\nB: Twenty-nine thousand eight hundred per person, sharing a twin room. A single room costs four thousand more.\nA: I'll share with my sister. Does the price include meals?\nB: Breakfast every day and two dinners. Lunches are on your own, so you can try the local markets.\nA: That sounds fine. Is the flight direct?\nB: Yes, direct both ways, about four hours.\nA: And travel insurance?\nB: It's included, but it only covers medical costs. Cover for cancellation is an extra six hundred.\nA: I'll take the extra cover, then. When do I have to pay in full?\nB: A deposit of five thousand today, and the rest thirty days before departure.",
+  "group_id": "HL1-G06",
+  "stem": "What does the extra six hundred dollars pay for?",
+  "options": [
+   "A single room",
+   "Airport transport",
+   "Medical treatment abroad",
+   "Insurance against cancelling the trip"
+  ],
+  "answer": 3,
+  "explain_zh": "隨團保險已含醫療，額外六百元買的是 cover for cancellation，也就是取消行程的保障。單人房加價是四千，別混淆。",
+  "vocab": [
+   {
+    "w": "insurance",
+    "zh": "保險",
+    "pos": "n."
+   },
+   {
+    "w": "cancellation",
+    "zh": "取消",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0030",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Hello, I'm looking for a four-day trip to Japan in November.\nB: We have two options. The Osaka tour leaves on the twelfth, and the Hokkaido tour leaves on the twentieth.\nA: The twentieth suits me better. How much is it?\nB: Twenty-nine thousand eight hundred per person, sharing a twin room. A single room costs four thousand more.\nA: I'll share with my sister. Does the price include meals?\nB: Breakfast every day and two dinners. Lunches are on your own, so you can try the local markets.\nA: That sounds fine. Is the flight direct?\nB: Yes, direct both ways, about four hours.\nA: And travel insurance?\nB: It's included, but it only covers medical costs. Cover for cancellation is an extra six hundred.\nA: I'll take the extra cover, then. When do I have to pay in full?\nB: A deposit of five thousand today, and the rest thirty days before departure.",
+  "group_id": "HL1-G06",
+  "stem": "When must the rest of the money be paid?",
+  "options": [
+   "On the day of departure",
+   "Thirty days before departure",
+   "Twenty days before departure",
+   "Within four days"
+  ],
+  "answer": 1,
+  "explain_zh": "旅行社說 the rest thirty days before departure，今天只先付五千訂金。其他時間點都是稿中數字重新拼湊出來的干擾項。",
+  "vocab": [
+   {
+    "w": "departure",
+    "zh": "出發",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0031",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Welcome to City Fit. Are you thinking of joining?\nB: Yes, but I've never been to a gym before. What do beginners usually do?\nA: Everyone starts with a free assessment with a trainer. It takes about forty minutes.\nB: Only forty? I thought I heard fourteen.\nA: Fourteen would be far too short. Forty minutes, four zero.\nB: Right. And how much is the membership?\nA: The standard plan is eight hundred and fifty a month with a twelve-month contract. If you pay month by month, it's nine hundred and fifty.\nB: I'm a student. Is there any discount?\nA: Students get twenty percent off the standard plan, but you must show a valid student card every September.\nB: Great. What are your opening hours?\nA: Six in the morning to eleven at night on weekdays. At weekends we close at nine.\nB: Do I have to book the classes?\nA: Yes, through our app, up to three days in advance. Saturday morning places go very quickly.",
+  "group_id": "HL1-G07",
+  "stem": "How long does the free assessment with a trainer last?",
+  "options": [
+   "Four minutes",
+   "Fourteen minutes",
+   "Forty minutes",
+   "Forty-five minutes"
+  ],
+  "answer": 2,
+  "explain_zh": "櫃檯先說 about forty minutes，客人聽成 fourteen，櫃檯還特別強調 Forty minutes, four zero。答案是四十分鐘。",
+  "vocab": [
+   {
+    "w": "assessment",
+    "zh": "評估",
+    "pos": "n."
+   },
+   {
+    "w": "trainer",
+    "zh": "教練",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0032",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Welcome to City Fit. Are you thinking of joining?\nB: Yes, but I've never been to a gym before. What do beginners usually do?\nA: Everyone starts with a free assessment with a trainer. It takes about forty minutes.\nB: Only forty? I thought I heard fourteen.\nA: Fourteen would be far too short. Forty minutes, four zero.\nB: Right. And how much is the membership?\nA: The standard plan is eight hundred and fifty a month with a twelve-month contract. If you pay month by month, it's nine hundred and fifty.\nB: I'm a student. Is there any discount?\nA: Students get twenty percent off the standard plan, but you must show a valid student card every September.\nB: Great. What are your opening hours?\nA: Six in the morning to eleven at night on weekdays. At weekends we close at nine.\nB: Do I have to book the classes?\nA: Yes, through our app, up to three days in advance. Saturday morning places go very quickly.",
+  "group_id": "HL1-G07",
+  "stem": "How much does the gym cost each month if you pay month by month?",
+  "options": [
+   "Eight hundred and fifty dollars",
+   "Nine hundred and fifty dollars",
+   "One thousand and fifty dollars",
+   "Twelve hundred dollars"
+  ],
+  "answer": 1,
+  "explain_zh": "綁一年合約是 850，按月付是 nine hundred and fifty。題目問按月付款，所以是 950。850 是有綁約的價格。",
+  "vocab": [
+   {
+    "w": "membership",
+    "zh": "會員資格",
+    "pos": "n."
+   },
+   {
+    "w": "contract",
+    "zh": "合約",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0033",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Welcome to City Fit. Are you thinking of joining?\nB: Yes, but I've never been to a gym before. What do beginners usually do?\nA: Everyone starts with a free assessment with a trainer. It takes about forty minutes.\nB: Only forty? I thought I heard fourteen.\nA: Fourteen would be far too short. Forty minutes, four zero.\nB: Right. And how much is the membership?\nA: The standard plan is eight hundred and fifty a month with a twelve-month contract. If you pay month by month, it's nine hundred and fifty.\nB: I'm a student. Is there any discount?\nA: Students get twenty percent off the standard plan, but you must show a valid student card every September.\nB: Great. What are your opening hours?\nA: Six in the morning to eleven at night on weekdays. At weekends we close at nine.\nB: Do I have to book the classes?\nA: Yes, through our app, up to three days in advance. Saturday morning places go very quickly.",
+  "group_id": "HL1-G07",
+  "stem": "What must student members show every September?",
+  "options": [
+   "A valid student card",
+   "A doctor's letter",
+   "Their last receipt",
+   "A new photograph"
+  ],
+  "answer": 0,
+  "explain_zh": "櫃檯說 you must show a valid student card every September 才能享有八折。其他文件稿中都沒提到。",
+  "vocab": [
+   {
+    "w": "valid",
+    "zh": "有效的",
+    "pos": "adj."
+   },
+   {
+    "w": "discount",
+    "zh": "折扣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0034",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Welcome to City Fit. Are you thinking of joining?\nB: Yes, but I've never been to a gym before. What do beginners usually do?\nA: Everyone starts with a free assessment with a trainer. It takes about forty minutes.\nB: Only forty? I thought I heard fourteen.\nA: Fourteen would be far too short. Forty minutes, four zero.\nB: Right. And how much is the membership?\nA: The standard plan is eight hundred and fifty a month with a twelve-month contract. If you pay month by month, it's nine hundred and fifty.\nB: I'm a student. Is there any discount?\nA: Students get twenty percent off the standard plan, but you must show a valid student card every September.\nB: Great. What are your opening hours?\nA: Six in the morning to eleven at night on weekdays. At weekends we close at nine.\nB: Do I have to book the classes?\nA: Yes, through our app, up to three days in advance. Saturday morning places go very quickly.",
+  "group_id": "HL1-G07",
+  "stem": "What time does the gym close at weekends?",
+  "options": [
+   "At nine at night",
+   "At eleven at night",
+   "At six in the evening",
+   "At midnight"
+  ],
+  "answer": 0,
+  "explain_zh": "平日營業到晚上十一點，但 At weekends we close at nine。題目問週末，所以是九點。十一點是平日的時間。",
+  "vocab": [
+   {
+    "w": "weekday",
+    "zh": "平日",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0035",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Welcome to City Fit. Are you thinking of joining?\nB: Yes, but I've never been to a gym before. What do beginners usually do?\nA: Everyone starts with a free assessment with a trainer. It takes about forty minutes.\nB: Only forty? I thought I heard fourteen.\nA: Fourteen would be far too short. Forty minutes, four zero.\nB: Right. And how much is the membership?\nA: The standard plan is eight hundred and fifty a month with a twelve-month contract. If you pay month by month, it's nine hundred and fifty.\nB: I'm a student. Is there any discount?\nA: Students get twenty percent off the standard plan, but you must show a valid student card every September.\nB: Great. What are your opening hours?\nA: Six in the morning to eleven at night on weekdays. At weekends we close at nine.\nB: Do I have to book the classes?\nA: Yes, through our app, up to three days in advance. Saturday morning places go very quickly.",
+  "group_id": "HL1-G07",
+  "stem": "How can members reserve a place in a class?",
+  "options": [
+   "By phoning the trainer",
+   "By signing a list at the door",
+   "By emailing the gym",
+   "Through the gym's app, up to three days ahead"
+  ],
+  "answer": 3,
+  "explain_zh": "櫃檯說 through our app, up to three days in advance。電話、簽名單、電子郵件都不是稿中提到的方式。",
+  "vocab": [
+   {
+    "w": "in advance",
+    "zh": "提前",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0036",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Hi, I'd like two tickets for Saturday's concert at Riverside Hall.\nB: Saturday is sold out, I'm afraid. We still have seats for Friday and Sunday.\nA: Sunday, then. What's available?\nB: Standing tickets at one thousand two hundred, and seats in the balcony at one thousand eight hundred.\nA: My grandmother is coming with me, so we'll definitely need seats.\nB: Then the balcony is best. Two tickets comes to three thousand six hundred.\nA: Do you take cash?\nB: Card only, I'm afraid. And there's a handling fee of fifty dollars per ticket.\nA: So three thousand seven hundred altogether. What time do the doors open?\nB: Doors at half past six, and the show starts at seven thirty. Please come early, because latecomers must wait until the first break.\nA: Can I collect the tickets at the door?\nB: Yes. Just bring this booking number and the card you paid with.",
+  "group_id": "HL1-G08",
+  "stem": "Why does the customer not buy tickets for Saturday?",
+  "options": [
+   "Saturday's concert is sold out.",
+   "Saturday tickets are too expensive.",
+   "Her grandmother is busy on Saturday.",
+   "The hall is closed on Saturday."
+  ],
+  "answer": 0,
+  "explain_zh": "售票員一開口就說 Saturday is sold out。價格與祖母的行程都不是原因，是把稿中其他訊息拼進來的誘答。",
+  "vocab": [
+   {
+    "w": "sold out",
+    "zh": "售完",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0037",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Hi, I'd like two tickets for Saturday's concert at Riverside Hall.\nB: Saturday is sold out, I'm afraid. We still have seats for Friday and Sunday.\nA: Sunday, then. What's available?\nB: Standing tickets at one thousand two hundred, and seats in the balcony at one thousand eight hundred.\nA: My grandmother is coming with me, so we'll definitely need seats.\nB: Then the balcony is best. Two tickets comes to three thousand six hundred.\nA: Do you take cash?\nB: Card only, I'm afraid. And there's a handling fee of fifty dollars per ticket.\nA: So three thousand seven hundred altogether. What time do the doors open?\nB: Doors at half past six, and the show starts at seven thirty. Please come early, because latecomers must wait until the first break.\nA: Can I collect the tickets at the door?\nB: Yes. Just bring this booking number and the card you paid with.",
+  "group_id": "HL1-G08",
+  "stem": "How much will the customer pay in total, including the fees?",
+  "options": [
+   "One thousand eight hundred dollars",
+   "Three thousand six hundred dollars",
+   "Three thousand seven hundred dollars",
+   "Four thousand dollars"
+  ],
+  "answer": 2,
+  "explain_zh": "兩張看台票 3,600，加上每張五十元手續費共一百元，客戶自己算出 three thousand seven hundred。3,600 是未含手續費的金額。",
+  "vocab": [
+   {
+    "w": "handling fee",
+    "zh": "手續費",
+    "pos": "n."
+   },
+   {
+    "w": "balcony",
+    "zh": "看台區",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0038",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A: Hi, I'd like two tickets for Saturday's concert at Riverside Hall.\nB: Saturday is sold out, I'm afraid. We still have seats for Friday and Sunday.\nA: Sunday, then. What's available?\nB: Standing tickets at one thousand two hundred, and seats in the balcony at one thousand eight hundred.\nA: My grandmother is coming with me, so we'll definitely need seats.\nB: Then the balcony is best. Two tickets comes to three thousand six hundred.\nA: Do you take cash?\nB: Card only, I'm afraid. And there's a handling fee of fifty dollars per ticket.\nA: So three thousand seven hundred altogether. What time do the doors open?\nB: Doors at half past six, and the show starts at seven thirty. Please come early, because latecomers must wait until the first break.\nA: Can I collect the tickets at the door?\nB: Yes. Just bring this booking number and the card you paid with.",
+  "group_id": "HL1-G08",
+  "stem": "Why does the customer choose balcony tickets instead of standing tickets?",
+  "options": [
+   "They are cheaper.",
+   "She is going with her grandmother and needs seats.",
+   "The sound is better upstairs.",
+   "Standing tickets have already sold out."
+  ],
+  "answer": 1,
+  "explain_zh": "客戶說 My grandmother is coming with me, so we'll definitely need seats，可推知是為了有位子坐。看台票其實比站票貴，選項一與事實相反。",
+  "vocab": [
+   {
+    "w": "standing ticket",
+    "zh": "站票",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0039",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Hi, I'd like two tickets for Saturday's concert at Riverside Hall.\nB: Saturday is sold out, I'm afraid. We still have seats for Friday and Sunday.\nA: Sunday, then. What's available?\nB: Standing tickets at one thousand two hundred, and seats in the balcony at one thousand eight hundred.\nA: My grandmother is coming with me, so we'll definitely need seats.\nB: Then the balcony is best. Two tickets comes to three thousand six hundred.\nA: Do you take cash?\nB: Card only, I'm afraid. And there's a handling fee of fifty dollars per ticket.\nA: So three thousand seven hundred altogether. What time do the doors open?\nB: Doors at half past six, and the show starts at seven thirty. Please come early, because latecomers must wait until the first break.\nA: Can I collect the tickets at the door?\nB: Yes. Just bring this booking number and the card you paid with.",
+  "group_id": "HL1-G08",
+  "stem": "What time does the concert itself begin?",
+  "options": [
+   "At six o'clock",
+   "At half past six",
+   "At seven o'clock",
+   "At half past seven"
+  ],
+  "answer": 3,
+  "explain_zh": "開門是 half past six，但 the show starts at seven thirty。題目問表演開始時間，答案是七點半，六點半是入場時間。",
+  "vocab": [
+   {
+    "w": "latecomer",
+    "zh": "遲到者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0040",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Hi, I'd like two tickets for Saturday's concert at Riverside Hall.\nB: Saturday is sold out, I'm afraid. We still have seats for Friday and Sunday.\nA: Sunday, then. What's available?\nB: Standing tickets at one thousand two hundred, and seats in the balcony at one thousand eight hundred.\nA: My grandmother is coming with me, so we'll definitely need seats.\nB: Then the balcony is best. Two tickets comes to three thousand six hundred.\nA: Do you take cash?\nB: Card only, I'm afraid. And there's a handling fee of fifty dollars per ticket.\nA: So three thousand seven hundred altogether. What time do the doors open?\nB: Doors at half past six, and the show starts at seven thirty. Please come early, because latecomers must wait until the first break.\nA: Can I collect the tickets at the door?\nB: Yes. Just bring this booking number and the card you paid with.",
+  "group_id": "HL1-G08",
+  "stem": "What must the customer bring in order to collect the tickets?",
+  "options": [
+   "The booking number and the card used to pay",
+   "Cash and an ID card",
+   "A printed poster and cash",
+   "Only a photo ID"
+  ],
+  "answer": 0,
+  "explain_zh": "售票員說 bring this booking number and the card you paid with。因為只能刷卡，帶現金沒有意義，其他選項都與此矛盾。",
+  "vocab": [
+   {
+    "w": "booking",
+    "zh": "訂位、訂票",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0041",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Welcome, everyone, and thank you for signing up as volunteers for the river clean-up. Let me go through the arrangements. We meet at the east gate of Riverside Park at eight fifteen, not eight fifty as the first email said. The bus leaves at eight thirty sharp and will not wait for anyone. Please wear long trousers and closed shoes. Gloves and rubbish bags are provided, so there is no need to buy your own. Do bring a water bottle, because we will not be handing out plastic bottles. The work lasts until noon, and lunch boxes are given out at the end. If it rains lightly we still go ahead. Only a typhoon warning cancels the event, and we would announce that on the club page by seven in the morning. Finally, each of you will receive a certificate for six service hours to add to your school record.",
+  "group_id": "HL1-G09",
+  "stem": "What time should the volunteers arrive at the park?",
+  "options": [
+   "At seven o'clock",
+   "At eight thirty",
+   "At eight fifty",
+   "At eight fifteen"
+  ],
+  "answer": 3,
+  "explain_zh": "講者說 We meet at eight fifteen, not eight fifty as the first email said，八點五十是舊資訊。八點半是巴士開車時間，不是集合時間。",
+  "vocab": [
+   {
+    "w": "volunteer",
+    "zh": "志工",
+    "pos": "n."
+   },
+   {
+    "w": "arrangement",
+    "zh": "安排",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0042",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Welcome, everyone, and thank you for signing up as volunteers for the river clean-up. Let me go through the arrangements. We meet at the east gate of Riverside Park at eight fifteen, not eight fifty as the first email said. The bus leaves at eight thirty sharp and will not wait for anyone. Please wear long trousers and closed shoes. Gloves and rubbish bags are provided, so there is no need to buy your own. Do bring a water bottle, because we will not be handing out plastic bottles. The work lasts until noon, and lunch boxes are given out at the end. If it rains lightly we still go ahead. Only a typhoon warning cancels the event, and we would announce that on the club page by seven in the morning. Finally, each of you will receive a certificate for six service hours to add to your school record.",
+  "group_id": "HL1-G09",
+  "stem": "What are the volunteers asked to bring themselves?",
+  "options": [
+   "Gloves",
+   "Rubbish bags",
+   "A water bottle",
+   "A lunch box"
+  ],
+  "answer": 2,
+  "explain_zh": "手套和垃圾袋主辦單位提供，午餐盒最後會發，只有 Do bring a water bottle 要自備。聽到 provided 就代表不用自己帶。",
+  "vocab": [
+   {
+    "w": "rubbish",
+    "zh": "垃圾",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0043",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Welcome, everyone, and thank you for signing up as volunteers for the river clean-up. Let me go through the arrangements. We meet at the east gate of Riverside Park at eight fifteen, not eight fifty as the first email said. The bus leaves at eight thirty sharp and will not wait for anyone. Please wear long trousers and closed shoes. Gloves and rubbish bags are provided, so there is no need to buy your own. Do bring a water bottle, because we will not be handing out plastic bottles. The work lasts until noon, and lunch boxes are given out at the end. If it rains lightly we still go ahead. Only a typhoon warning cancels the event, and we would announce that on the club page by seven in the morning. Finally, each of you will receive a certificate for six service hours to add to your school record.",
+  "group_id": "HL1-G09",
+  "stem": "In which situation will the activity be cancelled?",
+  "options": [
+   "If it rains lightly",
+   "If fewer than ten people come",
+   "If the bus arrives late",
+   "If a typhoon warning is issued"
+  ],
+  "answer": 3,
+  "explain_zh": "講者強調 If it rains lightly we still go ahead，Only a typhoon warning cancels the event。only 後面的條件才是唯一取消原因。",
+  "vocab": [
+   {
+    "w": "cancel",
+    "zh": "取消",
+    "pos": "v."
+   },
+   {
+    "w": "warning",
+    "zh": "警報",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0044",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Welcome, everyone, and thank you for signing up as volunteers for the river clean-up. Let me go through the arrangements. We meet at the east gate of Riverside Park at eight fifteen, not eight fifty as the first email said. The bus leaves at eight thirty sharp and will not wait for anyone. Please wear long trousers and closed shoes. Gloves and rubbish bags are provided, so there is no need to buy your own. Do bring a water bottle, because we will not be handing out plastic bottles. The work lasts until noon, and lunch boxes are given out at the end. If it rains lightly we still go ahead. Only a typhoon warning cancels the event, and we would announce that on the club page by seven in the morning. Finally, each of you will receive a certificate for six service hours to add to your school record.",
+  "group_id": "HL1-G09",
+  "stem": "How many service hours will each volunteer receive?",
+  "options": [
+   "Four hours",
+   "Six hours",
+   "Eight hours",
+   "Twelve hours"
+  ],
+  "answer": 1,
+  "explain_zh": "最後說 a certificate for six service hours。活動到中午結束，容易被 noon、eight fifteen 這些時間誤導成別的數字。",
+  "vocab": [
+   {
+    "w": "certificate",
+    "zh": "證明、證書",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0045",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "Welcome, everyone, and thank you for signing up as volunteers for the river clean-up. Let me go through the arrangements. We meet at the east gate of Riverside Park at eight fifteen, not eight fifty as the first email said. The bus leaves at eight thirty sharp and will not wait for anyone. Please wear long trousers and closed shoes. Gloves and rubbish bags are provided, so there is no need to buy your own. Do bring a water bottle, because we will not be handing out plastic bottles. The work lasts until noon, and lunch boxes are given out at the end. If it rains lightly we still go ahead. Only a typhoon warning cancels the event, and we would announce that on the club page by seven in the morning. Finally, each of you will receive a certificate for six service hours to add to your school record.",
+  "group_id": "HL1-G09",
+  "stem": "What is the speaker mainly doing in this talk?",
+  "options": [
+   "Explaining the arrangements for a volunteer activity",
+   "Persuading students to protect rivers",
+   "Reporting the results of last year's clean-up",
+   "Teaching volunteers how to sort rubbish"
+  ],
+  "answer": 0,
+  "explain_zh": "整段都在說集合時間、穿著、用品、取消規則與時數，屬於行前說明。講者並未說服、回顧成果或教分類方法。",
+  "vocab": [
+   {
+    "w": "clean-up",
+    "zh": "清掃活動",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0046",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Hi everyone. I did a summer internship at a small design studio, and our teacher asked me to share three things I learned. First, apply early. I sent my application in February, and by March all the places at the bigger companies were already taken. Second, the work is not what you imagine. I thought I would be drawing all day. In fact I spent the first two weeks answering emails and tidying files. That felt boring at the time, but it taught me how a real office actually runs. Third, ask questions. My supervisor told me she would much rather answer ten silly questions than fix one big mistake. The internship itself was unpaid, though they covered my transport, about two hundred dollars a day. Would I do it again? Honestly, yes. Not because of the work, but because I finally understood what kind of job suits me.",
+  "group_id": "HL1-G10",
+  "stem": "When did the speaker send in her internship application?",
+  "options": [
+   "In January",
+   "In February",
+   "In March",
+   "In June"
+  ],
+  "answer": 1,
+  "explain_zh": "講者說 I sent my application in February，到了三月大公司的名額就滿了。March 是名額被搶完的時間，不是投遞時間。",
+  "vocab": [
+   {
+    "w": "internship",
+    "zh": "實習",
+    "pos": "n."
+   },
+   {
+    "w": "application",
+    "zh": "申請",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0047",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Hi everyone. I did a summer internship at a small design studio, and our teacher asked me to share three things I learned. First, apply early. I sent my application in February, and by March all the places at the bigger companies were already taken. Second, the work is not what you imagine. I thought I would be drawing all day. In fact I spent the first two weeks answering emails and tidying files. That felt boring at the time, but it taught me how a real office actually runs. Third, ask questions. My supervisor told me she would much rather answer ten silly questions than fix one big mistake. The internship itself was unpaid, though they covered my transport, about two hundred dollars a day. Would I do it again? Honestly, yes. Not because of the work, but because I finally understood what kind of job suits me.",
+  "group_id": "HL1-G10",
+  "stem": "What did the speaker mainly do during her first two weeks?",
+  "options": [
+   "She designed posters.",
+   "She met clients with her supervisor.",
+   "She answered emails and tidied files.",
+   "She was trained in new software."
+  ],
+  "answer": 2,
+  "explain_zh": "她說原本以為整天畫圖，實際上 I spent the first two weeks answering emails and tidying files。畫圖是她的想像，不是事實。",
+  "vocab": [
+   {
+    "w": "tidy",
+    "zh": "整理",
+    "pos": "v."
+   },
+   {
+    "w": "supervisor",
+    "zh": "主管",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0048",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:speaker-attitude",
+  "tag_zh": "說話者態度",
+  "passage": "Hi everyone. I did a summer internship at a small design studio, and our teacher asked me to share three things I learned. First, apply early. I sent my application in February, and by March all the places at the bigger companies were already taken. Second, the work is not what you imagine. I thought I would be drawing all day. In fact I spent the first two weeks answering emails and tidying files. That felt boring at the time, but it taught me how a real office actually runs. Third, ask questions. My supervisor told me she would much rather answer ten silly questions than fix one big mistake. The internship itself was unpaid, though they covered my transport, about two hundred dollars a day. Would I do it again? Honestly, yes. Not because of the work, but because I finally understood what kind of job suits me.",
+  "group_id": "HL1-G10",
+  "stem": "How does the speaker describe those first two weeks?",
+  "options": [
+   "Exciting and creative",
+   "Completely useless",
+   "Easier than she expected",
+   "Boring, but useful in the end"
+  ],
+  "answer": 3,
+  "explain_zh": "原句 That felt boring at the time, but it taught me how a real office actually runs，前半無聊、後半有收穫。but 之後才是她真正的評價。",
+  "vocab": [
+   {
+    "w": "boring",
+    "zh": "無聊的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0049",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Hi everyone. I did a summer internship at a small design studio, and our teacher asked me to share three things I learned. First, apply early. I sent my application in February, and by March all the places at the bigger companies were already taken. Second, the work is not what you imagine. I thought I would be drawing all day. In fact I spent the first two weeks answering emails and tidying files. That felt boring at the time, but it taught me how a real office actually runs. Third, ask questions. My supervisor told me she would much rather answer ten silly questions than fix one big mistake. The internship itself was unpaid, though they covered my transport, about two hundred dollars a day. Would I do it again? Honestly, yes. Not because of the work, but because I finally understood what kind of job suits me.",
+  "group_id": "HL1-G10",
+  "stem": "What did the company pay the speaker?",
+  "options": [
+   "Nothing at all",
+   "One hundred dollars a day",
+   "About two hundred dollars a day for transport",
+   "Two thousand dollars a month in wages"
+  ],
+  "answer": 2,
+  "explain_zh": "實習本身 unpaid，但公司補助交通費 about two hundred dollars a day。選項一忽略交通補助，選項四把補助說成薪水。",
+  "vocab": [
+   {
+    "w": "unpaid",
+    "zh": "無薪的",
+    "pos": "adj."
+   },
+   {
+    "w": "transport",
+    "zh": "交通",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0050",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Hi everyone. I did a summer internship at a small design studio, and our teacher asked me to share three things I learned. First, apply early. I sent my application in February, and by March all the places at the bigger companies were already taken. Second, the work is not what you imagine. I thought I would be drawing all day. In fact I spent the first two weeks answering emails and tidying files. That felt boring at the time, but it taught me how a real office actually runs. Third, ask questions. My supervisor told me she would much rather answer ten silly questions than fix one big mistake. The internship itself was unpaid, though they covered my transport, about two hundred dollars a day. Would I do it again? Honestly, yes. Not because of the work, but because I finally understood what kind of job suits me.",
+  "group_id": "HL1-G10",
+  "stem": "Why would the speaker take the internship again?",
+  "options": [
+   "It helped her understand what kind of work suits her.",
+   "The pay was better than she expected.",
+   "She was offered a full-time job there.",
+   "The studio was close to her home."
+  ],
+  "answer": 0,
+  "explain_zh": "她說 Not because of the work, but because I finally understood what kind of job suits me。薪水、正職、地點稿中都沒有支持。",
+  "vocab": [
+   {
+    "w": "suit",
+    "zh": "適合",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0051",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Good afternoon, class. A few notes before Wednesday's trip to the science museum. The coach leaves from the school gate at seven forty, so please be here by seven thirty at the latest. We should be back at about four fifteen. Wear your school sports uniform, not the formal one, and bring a light jacket, because the exhibition halls are strongly air-conditioned. Each of you should bring three hundred dollars: two hundred for the guided tour and one hundred for the workshop. Lunch is not included, but there is a food court on the second floor. Please do not take drinks into the exhibition halls; water is allowed in the rest area only. Your worksheet must be handed in on Friday, not on the day of the trip. One last reminder: stay with your group of four at all times, and if you get lost, wait at the main information desk.",
+  "group_id": "HL1-G11",
+  "stem": "What time must the students arrive at the school gate?",
+  "options": [
+   "At seven fifteen",
+   "At seven forty",
+   "At seven thirty",
+   "At four fifteen"
+  ],
+  "answer": 2,
+  "explain_zh": "遊覽車七點四十開車，老師要求 be here by seven thirty at the latest，題目問學生要到校的時間，所以是七點半。四點十五分是回程時間。",
+  "vocab": [
+   {
+    "w": "coach",
+    "zh": "遊覽車",
+    "pos": "n."
+   },
+   {
+    "w": "at the latest",
+    "zh": "最晚",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0052",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Good afternoon, class. A few notes before Wednesday's trip to the science museum. The coach leaves from the school gate at seven forty, so please be here by seven thirty at the latest. We should be back at about four fifteen. Wear your school sports uniform, not the formal one, and bring a light jacket, because the exhibition halls are strongly air-conditioned. Each of you should bring three hundred dollars: two hundred for the guided tour and one hundred for the workshop. Lunch is not included, but there is a food court on the second floor. Please do not take drinks into the exhibition halls; water is allowed in the rest area only. Your worksheet must be handed in on Friday, not on the day of the trip. One last reminder: stay with your group of four at all times, and if you get lost, wait at the main information desk.",
+  "group_id": "HL1-G11",
+  "stem": "What are the students told to wear?",
+  "options": [
+   "The school sports uniform",
+   "The formal school uniform",
+   "Any comfortable clothes",
+   "A raincoat"
+  ],
+  "answer": 0,
+  "explain_zh": "老師說 Wear your school sports uniform, not the formal one，用 not 排除了制服。雨衣沒提到，外套是另外要帶的東西。",
+  "vocab": [
+   {
+    "w": "uniform",
+    "zh": "制服",
+    "pos": "n."
+   },
+   {
+    "w": "air-conditioned",
+    "zh": "有空調的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0053",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Good afternoon, class. A few notes before Wednesday's trip to the science museum. The coach leaves from the school gate at seven forty, so please be here by seven thirty at the latest. We should be back at about four fifteen. Wear your school sports uniform, not the formal one, and bring a light jacket, because the exhibition halls are strongly air-conditioned. Each of you should bring three hundred dollars: two hundred for the guided tour and one hundred for the workshop. Lunch is not included, but there is a food court on the second floor. Please do not take drinks into the exhibition halls; water is allowed in the rest area only. Your worksheet must be handed in on Friday, not on the day of the trip. One last reminder: stay with your group of four at all times, and if you get lost, wait at the main information desk.",
+  "group_id": "HL1-G11",
+  "stem": "How much of the money is for the guided tour?",
+  "options": [
+   "One hundred dollars",
+   "Two hundred dollars",
+   "Three hundred dollars",
+   "Four hundred dollars"
+  ],
+  "answer": 1,
+  "explain_zh": "總共要帶三百元，其中 two hundred for the guided tour，一百元是工作坊費用。題目只問導覽費，不要選總額。",
+  "vocab": [
+   {
+    "w": "guided tour",
+    "zh": "導覽",
+    "pos": "n."
+   },
+   {
+    "w": "workshop",
+    "zh": "工作坊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0054",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Good afternoon, class. A few notes before Wednesday's trip to the science museum. The coach leaves from the school gate at seven forty, so please be here by seven thirty at the latest. We should be back at about four fifteen. Wear your school sports uniform, not the formal one, and bring a light jacket, because the exhibition halls are strongly air-conditioned. Each of you should bring three hundred dollars: two hundred for the guided tour and one hundred for the workshop. Lunch is not included, but there is a food court on the second floor. Please do not take drinks into the exhibition halls; water is allowed in the rest area only. Your worksheet must be handed in on Friday, not on the day of the trip. One last reminder: stay with your group of four at all times, and if you get lost, wait at the main information desk.",
+  "group_id": "HL1-G11",
+  "stem": "When is the worksheet due?",
+  "options": [
+   "On Tuesday",
+   "On Wednesday",
+   "On Friday",
+   "Before the trip starts"
+  ],
+  "answer": 2,
+  "explain_zh": "老師強調 handed in on Friday, not on the day of the trip，而校外教學是週三。這是典型的「先給一個看似合理的日子再否定」設計。",
+  "vocab": [
+   {
+    "w": "worksheet",
+    "zh": "學習單",
+    "pos": "n."
+   },
+   {
+    "w": "hand in",
+    "zh": "繳交",
+    "pos": "v. phr."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0055",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Good afternoon, class. A few notes before Wednesday's trip to the science museum. The coach leaves from the school gate at seven forty, so please be here by seven thirty at the latest. We should be back at about four fifteen. Wear your school sports uniform, not the formal one, and bring a light jacket, because the exhibition halls are strongly air-conditioned. Each of you should bring three hundred dollars: two hundred for the guided tour and one hundred for the workshop. Lunch is not included, but there is a food court on the second floor. Please do not take drinks into the exhibition halls; water is allowed in the rest area only. Your worksheet must be handed in on Friday, not on the day of the trip. One last reminder: stay with your group of four at all times, and if you get lost, wait at the main information desk.",
+  "group_id": "HL1-G11",
+  "stem": "What should students do if they get lost?",
+  "options": [
+   "Phone the coach driver",
+   "Go back to the coach",
+   "Look for another group",
+   "Wait at the main information desk"
+  ],
+  "answer": 3,
+  "explain_zh": "最後一句 if you get lost, wait at the main information desk。其他做法聽起來合理，但稿中完全沒說。",
+  "vocab": [
+   {
+    "w": "information desk",
+    "zh": "服務台",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0056",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Welcome to the school library. Here are the rules you need to remember. Students may borrow up to five books at a time, five, not fifteen, and you keep them for two weeks. Each book can be renewed once online. If a book is late there is no fine, but your borrowing rights are frozen for the same number of days the book is overdue. Reference books and magazines must stay inside the building. The group study rooms on the third floor have to be booked at the front desk, and a booking is cancelled if nobody arrives within ten minutes. Food is not allowed anywhere in the library, although a closed water bottle is fine. During exam weeks we stay open until nine in the evening instead of five thirty. Finally, if you cannot find a book on the shelf, do not assume it is lost. Check the returns trolley near the entrance first.",
+  "group_id": "HL1-G12",
+  "stem": "How many books may a student borrow at one time?",
+  "options": [
+   "Two",
+   "Five",
+   "Ten",
+   "Fifteen"
+  ],
+  "answer": 1,
+  "explain_zh": "館員說 up to five books at a time, five, not fifteen，還特別重複澄清。fifteen 是刻意設計的混淆數字。",
+  "vocab": [
+   {
+    "w": "borrow",
+    "zh": "借出",
+    "pos": "v."
+   },
+   {
+    "w": "renew",
+    "zh": "續借",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0057",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Welcome to the school library. Here are the rules you need to remember. Students may borrow up to five books at a time, five, not fifteen, and you keep them for two weeks. Each book can be renewed once online. If a book is late there is no fine, but your borrowing rights are frozen for the same number of days the book is overdue. Reference books and magazines must stay inside the building. The group study rooms on the third floor have to be booked at the front desk, and a booking is cancelled if nobody arrives within ten minutes. Food is not allowed anywhere in the library, although a closed water bottle is fine. During exam weeks we stay open until nine in the evening instead of five thirty. Finally, if you cannot find a book on the shelf, do not assume it is lost. Check the returns trolley near the entrance first.",
+  "group_id": "HL1-G12",
+  "stem": "What happens if a student returns a book late?",
+  "options": [
+   "They must pay a fine each day.",
+   "They lose their library card.",
+   "They cannot borrow for the same number of days.",
+   "They must write a letter of apology."
+  ],
+  "answer": 2,
+  "explain_zh": "規則是 no fine，但 borrowing rights are frozen for the same number of days the book is overdue。選項一與 no fine 直接矛盾。",
+  "vocab": [
+   {
+    "w": "overdue",
+    "zh": "逾期的",
+    "pos": "adj."
+   },
+   {
+    "w": "fine",
+    "zh": "罰款",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0058",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Welcome to the school library. Here are the rules you need to remember. Students may borrow up to five books at a time, five, not fifteen, and you keep them for two weeks. Each book can be renewed once online. If a book is late there is no fine, but your borrowing rights are frozen for the same number of days the book is overdue. Reference books and magazines must stay inside the building. The group study rooms on the third floor have to be booked at the front desk, and a booking is cancelled if nobody arrives within ten minutes. Food is not allowed anywhere in the library, although a closed water bottle is fine. During exam weeks we stay open until nine in the evening instead of five thirty. Finally, if you cannot find a book on the shelf, do not assume it is lost. Check the returns trolley near the entrance first.",
+  "group_id": "HL1-G12",
+  "stem": "How can students use a group study room?",
+  "options": [
+   "They must book it at the front desk.",
+   "They can simply walk in.",
+   "They need a teacher's signature.",
+   "They must book it by email."
+  ],
+  "answer": 0,
+  "explain_zh": "館員說 have to be booked at the front desk，且十分鐘沒到就取消。老師簽名與電子郵件都沒提到。",
+  "vocab": [
+   {
+    "w": "book",
+    "zh": "預約",
+    "pos": "v."
+   },
+   {
+    "w": "front desk",
+    "zh": "櫃檯",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0059",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Welcome to the school library. Here are the rules you need to remember. Students may borrow up to five books at a time, five, not fifteen, and you keep them for two weeks. Each book can be renewed once online. If a book is late there is no fine, but your borrowing rights are frozen for the same number of days the book is overdue. Reference books and magazines must stay inside the building. The group study rooms on the third floor have to be booked at the front desk, and a booking is cancelled if nobody arrives within ten minutes. Food is not allowed anywhere in the library, although a closed water bottle is fine. During exam weeks we stay open until nine in the evening instead of five thirty. Finally, if you cannot find a book on the shelf, do not assume it is lost. Check the returns trolley near the entrance first.",
+  "group_id": "HL1-G12",
+  "stem": "What time does the library close during exam weeks?",
+  "options": [
+   "At five thirty",
+   "At seven o'clock",
+   "At nine in the evening",
+   "At ten in the evening"
+  ],
+  "answer": 2,
+  "explain_zh": "考試週延長到 nine in the evening，平時才是 five thirty。題目問考試週，不要選平時的關門時間。",
+  "vocab": [
+   {
+    "w": "exam week",
+    "zh": "考試週",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0060",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Welcome to the school library. Here are the rules you need to remember. Students may borrow up to five books at a time, five, not fifteen, and you keep them for two weeks. Each book can be renewed once online. If a book is late there is no fine, but your borrowing rights are frozen for the same number of days the book is overdue. Reference books and magazines must stay inside the building. The group study rooms on the third floor have to be booked at the front desk, and a booking is cancelled if nobody arrives within ten minutes. Food is not allowed anywhere in the library, although a closed water bottle is fine. During exam weeks we stay open until nine in the evening instead of five thirty. Finally, if you cannot find a book on the shelf, do not assume it is lost. Check the returns trolley near the entrance first.",
+  "group_id": "HL1-G12",
+  "stem": "What does the librarian suggest doing if a book is missing from the shelf?",
+  "options": [
+   "Report it to the teacher immediately",
+   "Buy a new copy",
+   "Search the third floor study rooms",
+   "Look on the returns trolley by the entrance"
+  ],
+  "answer": 3,
+  "explain_zh": "館員說 do not assume it is lost. Check the returns trolley near the entrance first，暗示書多半只是還沒上架。其他做法都太早放棄尋找。",
+  "vocab": [
+   {
+    "w": "trolley",
+    "zh": "推車",
+    "pos": "n."
+   },
+   {
+    "w": "shelf",
+    "zh": "書架",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0061",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Good morning, Greenfield Community Centre. How can I help?\nB: Hello, I'd like to enrol in the evening pottery course.\nA: Of course. Could I take your name?\nB: It's Rebecca Maddox. That's M-A-D-D-O-X.\nA: M-A-D-D-O-X. And a contact number?\nB: Oh nine two one, four three six, seven one eight.\nA: Let me read that back. Oh nine two one, four three six, seven one eight.\nB: That's right.\nA: The course runs for eight weeks, starting on the third of October. Sorry, I'm reading last year's sheet. It's the thirteenth of October, every Tuesday, seven to nine.\nB: The thirteenth. And the fee?\nA: Eighty-five pounds for members and one hundred and ten for non-members. Are you a member?\nB: Not yet. Can I join today?\nA: Yes. Membership is twenty pounds a year, so joining still saves you five pounds.\nB: I'll do that, then. Do I need to bring anything?\nA: Just an apron. Clay and tools are provided. And note that the first session is in Room Four, not the main hall.",
+  "group_id": "HL1-IG01",
+  "stem": "How does the caller spell her family name?",
+  "options": [
+   "M-A-D-D-O-X",
+   "M-A-D-O-X",
+   "M-A-D-D-O-C-K-S",
+   "M-A-D-O-C-K"
+  ],
+  "answer": 0,
+  "explain_zh": "來電者拼出 M-A-D-D-O-X，櫃檯也複誦一次確認。雅思 Section 1 的拼字題常在雙寫字母（DD）和字尾（X 或 CKS）設陷阱。",
+  "vocab": [
+   {
+    "w": "enrol",
+    "zh": "報名、註冊",
+    "pos": "v."
+   },
+   {
+    "w": "pottery",
+    "zh": "陶藝",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0062",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Good morning, Greenfield Community Centre. How can I help?\nB: Hello, I'd like to enrol in the evening pottery course.\nA: Of course. Could I take your name?\nB: It's Rebecca Maddox. That's M-A-D-D-O-X.\nA: M-A-D-D-O-X. And a contact number?\nB: Oh nine two one, four three six, seven one eight.\nA: Let me read that back. Oh nine two one, four three six, seven one eight.\nB: That's right.\nA: The course runs for eight weeks, starting on the third of October. Sorry, I'm reading last year's sheet. It's the thirteenth of October, every Tuesday, seven to nine.\nB: The thirteenth. And the fee?\nA: Eighty-five pounds for members and one hundred and ten for non-members. Are you a member?\nB: Not yet. Can I join today?\nA: Yes. Membership is twenty pounds a year, so joining still saves you five pounds.\nB: I'll do that, then. Do I need to bring anything?\nA: Just an apron. Clay and tools are provided. And note that the first session is in Room Four, not the main hall.",
+  "group_id": "HL1-IG01",
+  "stem": "What is the caller's contact number?",
+  "options": [
+   "0921 436 718",
+   "0921 436 780",
+   "0912 436 718",
+   "0921 463 718"
+  ],
+  "answer": 0,
+  "explain_zh": "號碼唸作 oh nine two one, four three six, seven one eight，且對方完整複誦一次。其他選項只調換其中兩個數字，必須逐段跟讀。",
+  "vocab": [
+   {
+    "w": "contact number",
+    "zh": "聯絡電話",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0063",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Good morning, Greenfield Community Centre. How can I help?\nB: Hello, I'd like to enrol in the evening pottery course.\nA: Of course. Could I take your name?\nB: It's Rebecca Maddox. That's M-A-D-D-O-X.\nA: M-A-D-D-O-X. And a contact number?\nB: Oh nine two one, four three six, seven one eight.\nA: Let me read that back. Oh nine two one, four three six, seven one eight.\nB: That's right.\nA: The course runs for eight weeks, starting on the third of October. Sorry, I'm reading last year's sheet. It's the thirteenth of October, every Tuesday, seven to nine.\nB: The thirteenth. And the fee?\nA: Eighty-five pounds for members and one hundred and ten for non-members. Are you a member?\nB: Not yet. Can I join today?\nA: Yes. Membership is twenty pounds a year, so joining still saves you five pounds.\nB: I'll do that, then. Do I need to bring anything?\nA: Just an apron. Clay and tools are provided. And note that the first session is in Room Four, not the main hall.",
+  "group_id": "HL1-IG01",
+  "stem": "On which date does the pottery course begin?",
+  "options": [
+   "The third of October",
+   "The thirteenth of October",
+   "The thirtieth of October",
+   "The third of November"
+  ],
+  "answer": 1,
+  "explain_zh": "櫃檯先誤唸 the third of October，隨即說那是去年的表格，正確是 the thirteenth of October。改口後的資訊才算數。",
+  "vocab": [
+   {
+    "w": "session",
+    "zh": "課次、場次",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0064",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Good morning, Greenfield Community Centre. How can I help?\nB: Hello, I'd like to enrol in the evening pottery course.\nA: Of course. Could I take your name?\nB: It's Rebecca Maddox. That's M-A-D-D-O-X.\nA: M-A-D-D-O-X. And a contact number?\nB: Oh nine two one, four three six, seven one eight.\nA: Let me read that back. Oh nine two one, four three six, seven one eight.\nB: That's right.\nA: The course runs for eight weeks, starting on the third of October. Sorry, I'm reading last year's sheet. It's the thirteenth of October, every Tuesday, seven to nine.\nB: The thirteenth. And the fee?\nA: Eighty-five pounds for members and one hundred and ten for non-members. Are you a member?\nB: Not yet. Can I join today?\nA: Yes. Membership is twenty pounds a year, so joining still saves you five pounds.\nB: I'll do that, then. Do I need to bring anything?\nA: Just an apron. Clay and tools are provided. And note that the first session is in Room Four, not the main hall.",
+  "group_id": "HL1-IG01",
+  "stem": "How much will the caller pay altogether today?",
+  "options": [
+   "Eighty-five pounds",
+   "One hundred and five pounds",
+   "One hundred and ten pounds",
+   "One hundred and thirty pounds"
+  ],
+  "answer": 1,
+  "explain_zh": "她先付二十鎊會費，再付會員價八十五鎊，共一百零五鎊，正好比非會員價一百一十鎊省五鎊。這是需要邊聽邊加總的金額題。",
+  "vocab": [
+   {
+    "w": "fee",
+    "zh": "費用",
+    "pos": "n."
+   },
+   {
+    "w": "membership",
+    "zh": "會員資格",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0065",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Good morning, Greenfield Community Centre. How can I help?\nB: Hello, I'd like to enrol in the evening pottery course.\nA: Of course. Could I take your name?\nB: It's Rebecca Maddox. That's M-A-D-D-O-X.\nA: M-A-D-D-O-X. And a contact number?\nB: Oh nine two one, four three six, seven one eight.\nA: Let me read that back. Oh nine two one, four three six, seven one eight.\nB: That's right.\nA: The course runs for eight weeks, starting on the third of October. Sorry, I'm reading last year's sheet. It's the thirteenth of October, every Tuesday, seven to nine.\nB: The thirteenth. And the fee?\nA: Eighty-five pounds for members and one hundred and ten for non-members. Are you a member?\nB: Not yet. Can I join today?\nA: Yes. Membership is twenty pounds a year, so joining still saves you five pounds.\nB: I'll do that, then. Do I need to bring anything?\nA: Just an apron. Clay and tools are provided. And note that the first session is in Room Four, not the main hall.",
+  "group_id": "HL1-IG01",
+  "stem": "What is the caller told to bring to the first class?",
+  "options": [
+   "Clay",
+   "A set of tools",
+   "An apron",
+   "A photograph"
+  ],
+  "answer": 2,
+  "explain_zh": "櫃檯說 Just an apron. Clay and tools are provided，黏土與工具由中心提供。聽到 provided 就能刪掉那些選項。",
+  "vocab": [
+   {
+    "w": "apron",
+    "zh": "圍裙",
+    "pos": "n."
+   },
+   {
+    "w": "clay",
+    "zh": "黏土",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0066",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Sunrise Car Hire, Daniel speaking.\nB: Hello, I'd like to book a car for next week.\nA: Certainly. Could I have your name, please?\nB: Yes, it's Ingrid Chalmers. C-H-A-L-M-E-R-S.\nA: Thank you, Ms Chalmers. And when do you need the car?\nB: From Monday the ninth until Thursday the twelfth. Actually, make that Friday the thirteenth. My meeting has been moved.\nA: Friday the thirteenth, so that's five days. What size of car would you like?\nB: Something small. There are only two of us and we have very little luggage.\nA: The economy class is forty-two pounds a day, and that includes basic insurance. Full insurance is fifteen pounds extra per day.\nB: I'll take the full insurance. Is there a charge for a second driver?\nA: Normally thirty pounds, but it's free this month.\nB: Excellent. Where do I pick the car up?\nA: Either the airport or the station branch. The airport adds a surcharge of eighteen pounds.\nB: The station, then. Could you email me the confirmation?",
+  "group_id": "HL1-IG02",
+  "stem": "How is the customer's family name spelled?",
+  "options": [
+   "C-H-A-M-B-E-R-S",
+   "C-H-A-L-M-A-N-S",
+   "C-H-A-L-M-E-R-S",
+   "C-H-A-R-M-E-R-S"
+  ],
+  "answer": 2,
+  "explain_zh": "客戶拼出 C-H-A-L-M-E-R-S。Chambers 與 Charmers 發音相近但少了 L 或把 L 換成 R，是拼字題最常見的混淆。",
+  "vocab": [
+   {
+    "w": "car hire",
+    "zh": "租車",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0067",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Sunrise Car Hire, Daniel speaking.\nB: Hello, I'd like to book a car for next week.\nA: Certainly. Could I have your name, please?\nB: Yes, it's Ingrid Chalmers. C-H-A-L-M-E-R-S.\nA: Thank you, Ms Chalmers. And when do you need the car?\nB: From Monday the ninth until Thursday the twelfth. Actually, make that Friday the thirteenth. My meeting has been moved.\nA: Friday the thirteenth, so that's five days. What size of car would you like?\nB: Something small. There are only two of us and we have very little luggage.\nA: The economy class is forty-two pounds a day, and that includes basic insurance. Full insurance is fifteen pounds extra per day.\nB: I'll take the full insurance. Is there a charge for a second driver?\nA: Normally thirty pounds, but it's free this month.\nB: Excellent. Where do I pick the car up?\nA: Either the airport or the station branch. The airport adds a surcharge of eighteen pounds.\nB: The station, then. Could you email me the confirmation?",
+  "group_id": "HL1-IG02",
+  "stem": "How many days will the customer keep the car?",
+  "options": [
+   "Three days",
+   "Four days",
+   "Five days",
+   "Six days"
+  ],
+  "answer": 2,
+  "explain_zh": "客戶原本說到週四十二日，馬上改成 Friday the thirteenth，櫃檯算出 that's five days。若沒聽到改口就會答成四天。",
+  "vocab": [
+   {
+    "w": "book",
+    "zh": "預訂",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0068",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Sunrise Car Hire, Daniel speaking.\nB: Hello, I'd like to book a car for next week.\nA: Certainly. Could I have your name, please?\nB: Yes, it's Ingrid Chalmers. C-H-A-L-M-E-R-S.\nA: Thank you, Ms Chalmers. And when do you need the car?\nB: From Monday the ninth until Thursday the twelfth. Actually, make that Friday the thirteenth. My meeting has been moved.\nA: Friday the thirteenth, so that's five days. What size of car would you like?\nB: Something small. There are only two of us and we have very little luggage.\nA: The economy class is forty-two pounds a day, and that includes basic insurance. Full insurance is fifteen pounds extra per day.\nB: I'll take the full insurance. Is there a charge for a second driver?\nA: Normally thirty pounds, but it's free this month.\nB: Excellent. Where do I pick the car up?\nA: Either the airport or the station branch. The airport adds a surcharge of eighteen pounds.\nB: The station, then. Could you email me the confirmation?",
+  "group_id": "HL1-IG02",
+  "stem": "How much will the car cost per day in total?",
+  "options": [
+   "Forty-two pounds",
+   "Fifty-seven pounds",
+   "Sixty pounds",
+   "Seventy-two pounds"
+  ],
+  "answer": 1,
+  "explain_zh": "經濟型每天四十二鎊，全險每天再加十五鎊，客戶選了全險，所以每日共五十七鎊。四十二鎊只含基本險。",
+  "vocab": [
+   {
+    "w": "insurance",
+    "zh": "保險",
+    "pos": "n."
+   },
+   {
+    "w": "economy class",
+    "zh": "經濟型",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0069",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Sunrise Car Hire, Daniel speaking.\nB: Hello, I'd like to book a car for next week.\nA: Certainly. Could I have your name, please?\nB: Yes, it's Ingrid Chalmers. C-H-A-L-M-E-R-S.\nA: Thank you, Ms Chalmers. And when do you need the car?\nB: From Monday the ninth until Thursday the twelfth. Actually, make that Friday the thirteenth. My meeting has been moved.\nA: Friday the thirteenth, so that's five days. What size of car would you like?\nB: Something small. There are only two of us and we have very little luggage.\nA: The economy class is forty-two pounds a day, and that includes basic insurance. Full insurance is fifteen pounds extra per day.\nB: I'll take the full insurance. Is there a charge for a second driver?\nA: Normally thirty pounds, but it's free this month.\nB: Excellent. Where do I pick the car up?\nA: Either the airport or the station branch. The airport adds a surcharge of eighteen pounds.\nB: The station, then. Could you email me the confirmation?",
+  "group_id": "HL1-IG02",
+  "stem": "Which charge has been waived this month?",
+  "options": [
+   "The airport surcharge",
+   "The full insurance charge",
+   "The confirmation fee",
+   "The second driver charge"
+  ],
+  "answer": 3,
+  "explain_zh": "櫃檯說 Normally thirty pounds, but it's free this month，指的正是第二駕駛費用。機場附加費十八鎊仍要收，所以客戶才選車站。",
+  "vocab": [
+   {
+    "w": "surcharge",
+    "zh": "附加費",
+    "pos": "n."
+   },
+   {
+    "w": "waive",
+    "zh": "免除",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0070",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Sunrise Car Hire, Daniel speaking.\nB: Hello, I'd like to book a car for next week.\nA: Certainly. Could I have your name, please?\nB: Yes, it's Ingrid Chalmers. C-H-A-L-M-E-R-S.\nA: Thank you, Ms Chalmers. And when do you need the car?\nB: From Monday the ninth until Thursday the twelfth. Actually, make that Friday the thirteenth. My meeting has been moved.\nA: Friday the thirteenth, so that's five days. What size of car would you like?\nB: Something small. There are only two of us and we have very little luggage.\nA: The economy class is forty-two pounds a day, and that includes basic insurance. Full insurance is fifteen pounds extra per day.\nB: I'll take the full insurance. Is there a charge for a second driver?\nA: Normally thirty pounds, but it's free this month.\nB: Excellent. Where do I pick the car up?\nA: Either the airport or the station branch. The airport adds a surcharge of eighteen pounds.\nB: The station, then. Could you email me the confirmation?",
+  "group_id": "HL1-IG02",
+  "stem": "Where will the customer collect the car?",
+  "options": [
+   "At the airport branch",
+   "At the station branch",
+   "At her hotel",
+   "At the city centre office"
+  ],
+  "answer": 1,
+  "explain_zh": "聽到機場要多付十八鎊後，客戶回答 The station, then，選擇車站取車。飯店與市中心門市稿中並不存在。",
+  "vocab": [
+   {
+    "w": "branch",
+    "zh": "分店",
+    "pos": "n."
+   },
+   {
+    "w": "confirmation",
+    "zh": "確認函",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0071",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Good morning and welcome to Hartwell House. I'm Patrick, and I'll be your guide for the next hour. Before we start, a few practical points. Photography without flash is allowed everywhere except the Long Gallery, where the paintings are extremely sensitive to light. The toilets are at the end of this corridor on your left, and the shop is by the exit, not near the entrance as some of the older signs still suggest. Our tour begins in the kitchens, which are the oldest part of the house, dating from fourteen ninety, not fifteen ninety as several guidebooks still print. From there we go upstairs to the library, which holds nine thousand volumes, and we finish in the walled garden. If the weather turns, we will visit the stables instead of the garden. The house is run entirely by volunteers, so do consider leaving something in the box by the door. Last year those donations paid for a new roof over the east wing.",
+  "group_id": "HL1-IG03",
+  "stem": "Where are visitors not allowed to take photographs?",
+  "options": [
+   "In the kitchens",
+   "In the library",
+   "In the Long Gallery",
+   "In the walled garden"
+  ],
+  "answer": 2,
+  "explain_zh": "導覽員說 allowed everywhere except the Long Gallery，因為畫作對光線極為敏感。except 之後就是唯一的禁止地點。",
+  "vocab": [
+   {
+    "w": "sensitive",
+    "zh": "敏感的",
+    "pos": "adj."
+   },
+   {
+    "w": "gallery",
+    "zh": "展覽室、畫廊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0072",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Good morning and welcome to Hartwell House. I'm Patrick, and I'll be your guide for the next hour. Before we start, a few practical points. Photography without flash is allowed everywhere except the Long Gallery, where the paintings are extremely sensitive to light. The toilets are at the end of this corridor on your left, and the shop is by the exit, not near the entrance as some of the older signs still suggest. Our tour begins in the kitchens, which are the oldest part of the house, dating from fourteen ninety, not fifteen ninety as several guidebooks still print. From there we go upstairs to the library, which holds nine thousand volumes, and we finish in the walled garden. If the weather turns, we will visit the stables instead of the garden. The house is run entirely by volunteers, so do consider leaving something in the box by the door. Last year those donations paid for a new roof over the east wing.",
+  "group_id": "HL1-IG03",
+  "stem": "When were the kitchens built?",
+  "options": [
+   "In fourteen oh nine",
+   "In fourteen ninety",
+   "In fifteen ninety",
+   "In nineteen hundred"
+  ],
+  "answer": 1,
+  "explain_zh": "導覽員說 dating from fourteen ninety, not fifteen ninety as several guidebooks still print，特別澄清導覽手冊印錯。年代題要聽清楚前兩位數。",
+  "vocab": [
+   {
+    "w": "date from",
+    "zh": "追溯自",
+    "pos": "v. phr."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0073",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Good morning and welcome to Hartwell House. I'm Patrick, and I'll be your guide for the next hour. Before we start, a few practical points. Photography without flash is allowed everywhere except the Long Gallery, where the paintings are extremely sensitive to light. The toilets are at the end of this corridor on your left, and the shop is by the exit, not near the entrance as some of the older signs still suggest. Our tour begins in the kitchens, which are the oldest part of the house, dating from fourteen ninety, not fifteen ninety as several guidebooks still print. From there we go upstairs to the library, which holds nine thousand volumes, and we finish in the walled garden. If the weather turns, we will visit the stables instead of the garden. The house is run entirely by volunteers, so do consider leaving something in the box by the door. Last year those donations paid for a new roof over the east wing.",
+  "group_id": "HL1-IG03",
+  "stem": "Where is the shop located?",
+  "options": [
+   "Near the entrance",
+   "Inside the Long Gallery",
+   "At the end of the corridor",
+   "By the exit"
+  ],
+  "answer": 3,
+  "explain_zh": "導覽員說 the shop is by the exit, not near the entrance as some of the older signs still suggest。走廊盡頭是廁所，不是商店。",
+  "vocab": [
+   {
+    "w": "corridor",
+    "zh": "走廊",
+    "pos": "n."
+   },
+   {
+    "w": "exit",
+    "zh": "出口",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0074",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Good morning and welcome to Hartwell House. I'm Patrick, and I'll be your guide for the next hour. Before we start, a few practical points. Photography without flash is allowed everywhere except the Long Gallery, where the paintings are extremely sensitive to light. The toilets are at the end of this corridor on your left, and the shop is by the exit, not near the entrance as some of the older signs still suggest. Our tour begins in the kitchens, which are the oldest part of the house, dating from fourteen ninety, not fifteen ninety as several guidebooks still print. From there we go upstairs to the library, which holds nine thousand volumes, and we finish in the walled garden. If the weather turns, we will visit the stables instead of the garden. The house is run entirely by volunteers, so do consider leaving something in the box by the door. Last year those donations paid for a new roof over the east wing.",
+  "group_id": "HL1-IG03",
+  "stem": "Under what circumstances will the group visit the stables?",
+  "options": [
+   "If the weather becomes bad",
+   "If the garden is already full",
+   "If the tour finishes early",
+   "If enough visitors ask to see them"
+  ],
+  "answer": 0,
+  "explain_zh": "原句 If the weather turns, we will visit the stables instead of the garden，weather turns 就是天氣轉壞。其他條件稿中完全沒提。",
+  "vocab": [
+   {
+    "w": "stable",
+    "zh": "馬廄",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0075",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:speaker-attitude",
+  "tag_zh": "說話者態度",
+  "passage": "Good morning and welcome to Hartwell House. I'm Patrick, and I'll be your guide for the next hour. Before we start, a few practical points. Photography without flash is allowed everywhere except the Long Gallery, where the paintings are extremely sensitive to light. The toilets are at the end of this corridor on your left, and the shop is by the exit, not near the entrance as some of the older signs still suggest. Our tour begins in the kitchens, which are the oldest part of the house, dating from fourteen ninety, not fifteen ninety as several guidebooks still print. From there we go upstairs to the library, which holds nine thousand volumes, and we finish in the walled garden. If the weather turns, we will visit the stables instead of the garden. The house is run entirely by volunteers, so do consider leaving something in the box by the door. Last year those donations paid for a new roof over the east wing.",
+  "group_id": "HL1-IG03",
+  "stem": "Why does the guide mention the box by the door?",
+  "options": [
+   "To warn visitors not to touch it",
+   "To explain where lost property is kept",
+   "Because the house depends on visitors' donations",
+   "Because tickets must be paid for there"
+  ],
+  "answer": 2,
+  "explain_zh": "他先說 run entirely by volunteers，再請大家捐款，並舉去年捐款修屋頂為例，顯示古宅仰賴捐助。門票與失物招領稿中沒提到。",
+  "vocab": [
+   {
+    "w": "donation",
+    "zh": "捐款",
+    "pos": "n."
+   },
+   {
+    "w": "volunteer",
+    "zh": "志工",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0076",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Thank you for coming to this briefing on the new city cycle hire scheme, which opens on the first of April. Let me explain how it will work. There will be two hundred and forty docking stations across the city. Two hundred and forty, although you may have read four hundred in the local newspaper, which was simply an error. The first thirty minutes of every journey are free. After that you pay one pound for each additional half hour, up to a daily maximum of eight pounds. You unlock a bike with the app or with a travel card, and you must return it to a docking station, not simply leave it on the pavement. A common misunderstanding is that the scheme is aimed at tourists. In fact our own research suggests that short commuting trips, especially the last stretch between the station and the office, will make up most of the use. Helmets are not provided, and although they are not required by law, we strongly recommend them.",
+  "group_id": "HL1-IG04",
+  "stem": "How many docking stations will the scheme have?",
+  "options": [
+   "Forty",
+   "Two hundred",
+   "Two hundred and forty",
+   "Four hundred"
+  ],
+  "answer": 2,
+  "explain_zh": "講者說 two hundred and forty 並重複一次，同時指出報紙寫的四百是錯誤。報紙上的數字是刻意設計的干擾。",
+  "vocab": [
+   {
+    "w": "docking station",
+    "zh": "租借站",
+    "pos": "n."
+   },
+   {
+    "w": "scheme",
+    "zh": "方案、計畫",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0077",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Thank you for coming to this briefing on the new city cycle hire scheme, which opens on the first of April. Let me explain how it will work. There will be two hundred and forty docking stations across the city. Two hundred and forty, although you may have read four hundred in the local newspaper, which was simply an error. The first thirty minutes of every journey are free. After that you pay one pound for each additional half hour, up to a daily maximum of eight pounds. You unlock a bike with the app or with a travel card, and you must return it to a docking station, not simply leave it on the pavement. A common misunderstanding is that the scheme is aimed at tourists. In fact our own research suggests that short commuting trips, especially the last stretch between the station and the office, will make up most of the use. Helmets are not provided, and although they are not required by law, we strongly recommend them.",
+  "group_id": "HL1-IG04",
+  "stem": "How much of each journey is free of charge?",
+  "options": [
+   "The first fifteen minutes",
+   "The first thirty minutes",
+   "The first hour",
+   "Nothing is free."
+  ],
+  "answer": 1,
+  "explain_zh": "The first thirty minutes of every journey are free，超過後每半小時一鎊。half hour 這個詞容易被誤聽成十五分鐘。",
+  "vocab": [
+   {
+    "w": "journey",
+    "zh": "行程",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0078",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Thank you for coming to this briefing on the new city cycle hire scheme, which opens on the first of April. Let me explain how it will work. There will be two hundred and forty docking stations across the city. Two hundred and forty, although you may have read four hundred in the local newspaper, which was simply an error. The first thirty minutes of every journey are free. After that you pay one pound for each additional half hour, up to a daily maximum of eight pounds. You unlock a bike with the app or with a travel card, and you must return it to a docking station, not simply leave it on the pavement. A common misunderstanding is that the scheme is aimed at tourists. In fact our own research suggests that short commuting trips, especially the last stretch between the station and the office, will make up most of the use. Helmets are not provided, and although they are not required by law, we strongly recommend them.",
+  "group_id": "HL1-IG04",
+  "stem": "What is the most a rider can be charged in one day?",
+  "options": [
+   "One pound",
+   "Four pounds",
+   "Eight pounds",
+   "Ten pounds"
+  ],
+  "answer": 2,
+  "explain_zh": "講者說 up to a daily maximum of eight pounds。一鎊是每半小時的單價，不是上限，兩個數字要分清楚。",
+  "vocab": [
+   {
+    "w": "maximum",
+    "zh": "上限",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0079",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Thank you for coming to this briefing on the new city cycle hire scheme, which opens on the first of April. Let me explain how it will work. There will be two hundred and forty docking stations across the city. Two hundred and forty, although you may have read four hundred in the local newspaper, which was simply an error. The first thirty minutes of every journey are free. After that you pay one pound for each additional half hour, up to a daily maximum of eight pounds. You unlock a bike with the app or with a travel card, and you must return it to a docking station, not simply leave it on the pavement. A common misunderstanding is that the scheme is aimed at tourists. In fact our own research suggests that short commuting trips, especially the last stretch between the station and the office, will make up most of the use. Helmets are not provided, and although they are not required by law, we strongly recommend them.",
+  "group_id": "HL1-IG04",
+  "stem": "Who does the speaker expect to use the scheme most?",
+  "options": [
+   "Local people travelling to and from work",
+   "Tourists visiting the city",
+   "Schoolchildren at the weekend",
+   "Delivery riders"
+  ],
+  "answer": 0,
+  "explain_zh": "講者說「以為是給觀光客用」是常見誤解，實際研究顯示 short commuting trips 才是主要用途。選項二正是被否定的說法。",
+  "vocab": [
+   {
+    "w": "commuting",
+    "zh": "通勤",
+    "pos": "n."
+   },
+   {
+    "w": "misunderstanding",
+    "zh": "誤解",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0080",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Thank you for coming to this briefing on the new city cycle hire scheme, which opens on the first of April. Let me explain how it will work. There will be two hundred and forty docking stations across the city. Two hundred and forty, although you may have read four hundred in the local newspaper, which was simply an error. The first thirty minutes of every journey are free. After that you pay one pound for each additional half hour, up to a daily maximum of eight pounds. You unlock a bike with the app or with a travel card, and you must return it to a docking station, not simply leave it on the pavement. A common misunderstanding is that the scheme is aimed at tourists. In fact our own research suggests that short commuting trips, especially the last stretch between the station and the office, will make up most of the use. Helmets are not provided, and although they are not required by law, we strongly recommend them.",
+  "group_id": "HL1-IG04",
+  "stem": "What does the speaker say about helmets?",
+  "options": [
+   "They are supplied with every bike.",
+   "They must be worn by law.",
+   "They can be rented for one pound.",
+   "They are not provided, but are strongly advised."
+  ],
+  "answer": 3,
+  "explain_zh": "原句 Helmets are not provided, and although they are not required by law, we strongly recommend them，三個重點都在同一句。前三個選項都與此矛盾。",
+  "vocab": [
+   {
+    "w": "helmet",
+    "zh": "安全帽",
+    "pos": "n."
+   },
+   {
+    "w": "recommend",
+    "zh": "建議",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0081",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Come in, Marcus. You wanted to talk about your report on urban green space?\nB: Yes. I've collected the survey data, but I'm not sure the sample is big enough. I have ninety-four responses.\nA: Ninety-four is respectable for an undergraduate study. The problem isn't the number, it's who answered. Where did you collect them?\nB: Mostly outside the campus library.\nA: So your sample is almost entirely students. If you're making claims about city residents in general, that's a serious limitation.\nB: Should I go out and collect more data, then?\nA: You could, but with only three weeks left I'd rather you kept what you have and wrote honestly about the limitation. Examiners reward that.\nB: All right. And the literature review is currently two thousand words, which feels long.\nA: It is long. Cut it to about twelve hundred and use the space for your discussion. That's the weakest section at the moment.\nB: Understood. Should I include the raw questionnaire?\nA: In the appendix, yes. It doesn't count towards the word limit.",
+  "group_id": "HL1-IG05",
+  "stem": "How many survey responses has the student collected?",
+  "options": [
+   "Forty-nine",
+   "Ninety-four",
+   "One hundred and ninety-four",
+   "Nine hundred"
+  ],
+  "answer": 1,
+  "explain_zh": "學生說 I have ninety-four responses，導師也複誦 Ninety-four。forty-nine 與 ninety-four 由相同音節重組而成，是設計過的混淆項。",
+  "vocab": [
+   {
+    "w": "sample",
+    "zh": "樣本",
+    "pos": "n."
+   },
+   {
+    "w": "response",
+    "zh": "回覆、答卷",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0082",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Come in, Marcus. You wanted to talk about your report on urban green space?\nB: Yes. I've collected the survey data, but I'm not sure the sample is big enough. I have ninety-four responses.\nA: Ninety-four is respectable for an undergraduate study. The problem isn't the number, it's who answered. Where did you collect them?\nB: Mostly outside the campus library.\nA: So your sample is almost entirely students. If you're making claims about city residents in general, that's a serious limitation.\nB: Should I go out and collect more data, then?\nA: You could, but with only three weeks left I'd rather you kept what you have and wrote honestly about the limitation. Examiners reward that.\nB: All right. And the literature review is currently two thousand words, which feels long.\nA: It is long. Cut it to about twelve hundred and use the space for your discussion. That's the weakest section at the moment.\nB: Understood. Should I include the raw questionnaire?\nA: In the appendix, yes. It doesn't count towards the word limit.",
+  "group_id": "HL1-IG05",
+  "stem": "What does the tutor say is the real problem with the data?",
+  "options": [
+   "There are too few responses.",
+   "The questions were badly written.",
+   "Nearly all the respondents are students.",
+   "The survey took place too early."
+  ],
+  "answer": 2,
+  "explain_zh": "導師明說 The problem isn't the number, it's who answered，因為都在圖書館外收集，樣本幾乎全是學生。選項一正是導師否定的說法。",
+  "vocab": [
+   {
+    "w": "respondent",
+    "zh": "受訪者",
+    "pos": "n."
+   },
+   {
+    "w": "limitation",
+    "zh": "研究限制",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0083",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:speaker-attitude",
+  "tag_zh": "說話者態度",
+  "passage": "A: Come in, Marcus. You wanted to talk about your report on urban green space?\nB: Yes. I've collected the survey data, but I'm not sure the sample is big enough. I have ninety-four responses.\nA: Ninety-four is respectable for an undergraduate study. The problem isn't the number, it's who answered. Where did you collect them?\nB: Mostly outside the campus library.\nA: So your sample is almost entirely students. If you're making claims about city residents in general, that's a serious limitation.\nB: Should I go out and collect more data, then?\nA: You could, but with only three weeks left I'd rather you kept what you have and wrote honestly about the limitation. Examiners reward that.\nB: All right. And the literature review is currently two thousand words, which feels long.\nA: It is long. Cut it to about twelve hundred and use the space for your discussion. That's the weakest section at the moment.\nB: Understood. Should I include the raw questionnaire?\nA: In the appendix, yes. It doesn't count towards the word limit.",
+  "group_id": "HL1-IG05",
+  "stem": "What does the tutor advise the student to do about this problem?",
+  "options": [
+   "Keep the data and discuss the limitation openly",
+   "Collect another hundred responses",
+   "Change the topic of the report",
+   "Delete the survey section completely"
+  ],
+  "answer": 0,
+  "explain_zh": "導師說 I'd rather you kept what you have and wrote honestly about the limitation. Examiners reward that，顯示他偏好誠實說明而非重新收資料。",
+  "vocab": [
+   {
+    "w": "examiner",
+    "zh": "評分者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0084",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Come in, Marcus. You wanted to talk about your report on urban green space?\nB: Yes. I've collected the survey data, but I'm not sure the sample is big enough. I have ninety-four responses.\nA: Ninety-four is respectable for an undergraduate study. The problem isn't the number, it's who answered. Where did you collect them?\nB: Mostly outside the campus library.\nA: So your sample is almost entirely students. If you're making claims about city residents in general, that's a serious limitation.\nB: Should I go out and collect more data, then?\nA: You could, but with only three weeks left I'd rather you kept what you have and wrote honestly about the limitation. Examiners reward that.\nB: All right. And the literature review is currently two thousand words, which feels long.\nA: It is long. Cut it to about twelve hundred and use the space for your discussion. That's the weakest section at the moment.\nB: Understood. Should I include the raw questionnaire?\nA: In the appendix, yes. It doesn't count towards the word limit.",
+  "group_id": "HL1-IG05",
+  "stem": "How long should the literature review be after revision?",
+  "options": [
+   "About two thousand words",
+   "About twelve hundred words",
+   "About fifteen hundred words",
+   "About eight hundred words"
+  ],
+  "answer": 1,
+  "explain_zh": "目前兩千字太長，導師要求 Cut it to about twelve hundred。兩千字是修改前的長度，不是目標字數。",
+  "vocab": [
+   {
+    "w": "literature review",
+    "zh": "文獻回顧",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0085",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Come in, Marcus. You wanted to talk about your report on urban green space?\nB: Yes. I've collected the survey data, but I'm not sure the sample is big enough. I have ninety-four responses.\nA: Ninety-four is respectable for an undergraduate study. The problem isn't the number, it's who answered. Where did you collect them?\nB: Mostly outside the campus library.\nA: So your sample is almost entirely students. If you're making claims about city residents in general, that's a serious limitation.\nB: Should I go out and collect more data, then?\nA: You could, but with only three weeks left I'd rather you kept what you have and wrote honestly about the limitation. Examiners reward that.\nB: All right. And the literature review is currently two thousand words, which feels long.\nA: It is long. Cut it to about twelve hundred and use the space for your discussion. That's the weakest section at the moment.\nB: Understood. Should I include the raw questionnaire?\nA: In the appendix, yes. It doesn't count towards the word limit.",
+  "group_id": "HL1-IG05",
+  "stem": "Where should the raw questionnaire be placed?",
+  "options": [
+   "In the introduction",
+   "In the discussion section",
+   "On the title page",
+   "In the appendix"
+  ],
+  "answer": 3,
+  "explain_zh": "導師回答 In the appendix, yes. It doesn't count towards the word limit，附錄不計入字數。其他位置稿中都沒提到。",
+  "vocab": [
+   {
+    "w": "appendix",
+    "zh": "附錄",
+    "pos": "n."
+   },
+   {
+    "w": "questionnaire",
+    "zh": "問卷",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0086",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Professor Ito, we'd like to check our plan for the river water quality project.\nB: Go ahead. What exactly are you measuring?\nA: Nitrate levels at six sites, once a week for two months.\nB: Six sites is ambitious for two people. And sampling once a week may hide short-term changes. After heavy rain, for instance, nitrate levels can double within hours.\nA: So should we sample more often?\nB: Reduce it to four sites and sample twice a week. Fewer sites, better data.\nA: That makes sense. We were also planning to borrow the portable meter.\nB: The department meter is being calibrated until the eighteenth. Book it after that, and remember it must be returned the same day.\nA: Right. And for the write-up, do you want the raw readings?\nB: Put the readings in a table in the appendix and only the averages in the main text. One more thing. Photograph each site every single time. Students always forget, and reviewers always ask.",
+  "group_id": "HL1-IG06",
+  "stem": "What will the two students measure in their project?",
+  "options": [
+   "Nitrate levels in a river",
+   "Water temperature in a lake",
+   "Rainfall across the city",
+   "Fish populations in a stream"
+  ],
+  "answer": 0,
+  "explain_zh": "學生一開口就說 Nitrate levels at six sites。雨量只是教授舉例說明濃度變化的情境，不是測量對象。",
+  "vocab": [
+   {
+    "w": "nitrate",
+    "zh": "硝酸鹽",
+    "pos": "n."
+   },
+   {
+    "w": "site",
+    "zh": "採樣地點",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0087",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Professor Ito, we'd like to check our plan for the river water quality project.\nB: Go ahead. What exactly are you measuring?\nA: Nitrate levels at six sites, once a week for two months.\nB: Six sites is ambitious for two people. And sampling once a week may hide short-term changes. After heavy rain, for instance, nitrate levels can double within hours.\nA: So should we sample more often?\nB: Reduce it to four sites and sample twice a week. Fewer sites, better data.\nA: That makes sense. We were also planning to borrow the portable meter.\nB: The department meter is being calibrated until the eighteenth. Book it after that, and remember it must be returned the same day.\nA: Right. And for the write-up, do you want the raw readings?\nB: Put the readings in a table in the appendix and only the averages in the main text. One more thing. Photograph each site every single time. Students always forget, and reviewers always ask.",
+  "group_id": "HL1-IG06",
+  "stem": "What change does the professor recommend?",
+  "options": [
+   "More sites and less frequent sampling",
+   "Fewer sites but more frequent sampling",
+   "More sites and more frequent sampling",
+   "The same sites over a longer period"
+  ],
+  "answer": 1,
+  "explain_zh": "教授說 Reduce it to four sites and sample twice a week. Fewer sites, better data，也就是減少地點、增加頻率。其餘組合都與建議相反。",
+  "vocab": [
+   {
+    "w": "sampling",
+    "zh": "採樣",
+    "pos": "n."
+   },
+   {
+    "w": "frequent",
+    "zh": "頻繁的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0088",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Professor Ito, we'd like to check our plan for the river water quality project.\nB: Go ahead. What exactly are you measuring?\nA: Nitrate levels at six sites, once a week for two months.\nB: Six sites is ambitious for two people. And sampling once a week may hide short-term changes. After heavy rain, for instance, nitrate levels can double within hours.\nA: So should we sample more often?\nB: Reduce it to four sites and sample twice a week. Fewer sites, better data.\nA: That makes sense. We were also planning to borrow the portable meter.\nB: The department meter is being calibrated until the eighteenth. Book it after that, and remember it must be returned the same day.\nA: Right. And for the write-up, do you want the raw readings?\nB: Put the readings in a table in the appendix and only the averages in the main text. One more thing. Photograph each site every single time. Students always forget, and reviewers always ask.",
+  "group_id": "HL1-IG06",
+  "stem": "When can the students book the portable meter?",
+  "options": [
+   "Immediately",
+   "Only after two months",
+   "After the eighteenth",
+   "Only on the eighteenth"
+  ],
+  "answer": 2,
+  "explain_zh": "教授說儀器 being calibrated until the eighteenth，並要他們 Book it after that，所以十八號之後才能借。until 表示到那天為止都不能用。",
+  "vocab": [
+   {
+    "w": "calibrate",
+    "zh": "校準",
+    "pos": "v."
+   },
+   {
+    "w": "portable",
+    "zh": "可攜式的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0089",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "A: Professor Ito, we'd like to check our plan for the river water quality project.\nB: Go ahead. What exactly are you measuring?\nA: Nitrate levels at six sites, once a week for two months.\nB: Six sites is ambitious for two people. And sampling once a week may hide short-term changes. After heavy rain, for instance, nitrate levels can double within hours.\nA: So should we sample more often?\nB: Reduce it to four sites and sample twice a week. Fewer sites, better data.\nA: That makes sense. We were also planning to borrow the portable meter.\nB: The department meter is being calibrated until the eighteenth. Book it after that, and remember it must be returned the same day.\nA: Right. And for the write-up, do you want the raw readings?\nB: Put the readings in a table in the appendix and only the averages in the main text. One more thing. Photograph each site every single time. Students always forget, and reviewers always ask.",
+  "group_id": "HL1-IG06",
+  "stem": "What should appear in the main text of the report?",
+  "options": [
+   "Every individual reading",
+   "The site photographs",
+   "The calibration record",
+   "Only the average figures"
+  ],
+  "answer": 3,
+  "explain_zh": "教授說 readings in a table in the appendix and only the averages in the main text，原始數據放附錄，正文只放平均值。",
+  "vocab": [
+   {
+    "w": "average",
+    "zh": "平均值",
+    "pos": "n."
+   },
+   {
+    "w": "reading",
+    "zh": "讀數",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0090",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A: Professor Ito, we'd like to check our plan for the river water quality project.\nB: Go ahead. What exactly are you measuring?\nA: Nitrate levels at six sites, once a week for two months.\nB: Six sites is ambitious for two people. And sampling once a week may hide short-term changes. After heavy rain, for instance, nitrate levels can double within hours.\nA: So should we sample more often?\nB: Reduce it to four sites and sample twice a week. Fewer sites, better data.\nA: That makes sense. We were also planning to borrow the portable meter.\nB: The department meter is being calibrated until the eighteenth. Book it after that, and remember it must be returned the same day.\nA: Right. And for the write-up, do you want the raw readings?\nB: Put the readings in a table in the appendix and only the averages in the main text. One more thing. Photograph each site every single time. Students always forget, and reviewers always ask.",
+  "group_id": "HL1-IG06",
+  "stem": "Why does the professor insist on photographs of each site?",
+  "options": [
+   "To help the students find their way back",
+   "To prove the meter was returned",
+   "Because reviewers commonly ask for such evidence",
+   "Because photographs can replace the readings"
+  ],
+  "answer": 2,
+  "explain_zh": "教授說 Students always forget, and reviewers always ask，表示審查者常要求這類佐證。照片是補充證據，不能取代讀數。",
+  "vocab": [
+   {
+    "w": "reviewer",
+    "zh": "審查者",
+    "pos": "n."
+   },
+   {
+    "w": "evidence",
+    "zh": "證據",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0091",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:academic-lecture",
+  "tag_zh": "學術講座",
+  "passage": "Today we turn to the urban heat island effect, the observation that cities are consistently warmer than the countryside around them. In very large cities the difference can reach seven degrees Celsius at night, though two to three degrees is far more typical. Three mechanisms explain most of this. First, materials. Concrete and asphalt absorb solar radiation during the day and release it slowly after sunset, which is why the gap is largest at night rather than at noon, as students often assume. Second, geometry. Tall buildings form narrow canyons that trap heat and block the open sky, reducing the rate at which surfaces can cool. Third, waste heat from vehicles, factories and above all air conditioning. Note the feedback here: hotter cities use more air conditioning, which pushes still more heat outdoors. Vegetation is the single most effective remedy, because trees both shade surfaces and cool the air through evaporation. Reflective, light coloured roofs help too, but only where they are widely adopted.",
+  "group_id": "HL1-IG07",
+  "stem": "What is the lecture mainly about?",
+  "options": [
+   "Why cities are warmer than the areas around them",
+   "How air conditioning technology has developed",
+   "Why concrete is used in modern buildings",
+   "How trees are planted in city centres"
+  ],
+  "answer": 0,
+  "explain_zh": "第一句就定義 urban heat island effect 是城市比周邊鄉村熱的現象，之後三個機制與解方都圍繞這個主題。其餘選項只是講座中的細節。",
+  "vocab": [
+   {
+    "w": "urban",
+    "zh": "都市的",
+    "pos": "adj."
+   },
+   {
+    "w": "mechanism",
+    "zh": "機制",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0092",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Today we turn to the urban heat island effect, the observation that cities are consistently warmer than the countryside around them. In very large cities the difference can reach seven degrees Celsius at night, though two to three degrees is far more typical. Three mechanisms explain most of this. First, materials. Concrete and asphalt absorb solar radiation during the day and release it slowly after sunset, which is why the gap is largest at night rather than at noon, as students often assume. Second, geometry. Tall buildings form narrow canyons that trap heat and block the open sky, reducing the rate at which surfaces can cool. Third, waste heat from vehicles, factories and above all air conditioning. Note the feedback here: hotter cities use more air conditioning, which pushes still more heat outdoors. Vegetation is the single most effective remedy, because trees both shade surfaces and cool the air through evaporation. Reflective, light coloured roofs help too, but only where they are widely adopted.",
+  "group_id": "HL1-IG07",
+  "stem": "What temperature difference does the lecturer describe as typical?",
+  "options": [
+   "Seven degrees",
+   "Two to three degrees",
+   "Ten degrees",
+   "Half a degree"
+  ],
+  "answer": 1,
+  "explain_zh": "七度是超大城市夜間的極端值，講者用 far more typical 指出 two to three degrees 才是常態。聽到 though 就要注意語氣轉折。",
+  "vocab": [
+   {
+    "w": "typical",
+    "zh": "典型的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0093",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Today we turn to the urban heat island effect, the observation that cities are consistently warmer than the countryside around them. In very large cities the difference can reach seven degrees Celsius at night, though two to three degrees is far more typical. Three mechanisms explain most of this. First, materials. Concrete and asphalt absorb solar radiation during the day and release it slowly after sunset, which is why the gap is largest at night rather than at noon, as students often assume. Second, geometry. Tall buildings form narrow canyons that trap heat and block the open sky, reducing the rate at which surfaces can cool. Third, waste heat from vehicles, factories and above all air conditioning. Note the feedback here: hotter cities use more air conditioning, which pushes still more heat outdoors. Vegetation is the single most effective remedy, because trees both shade surfaces and cool the air through evaporation. Reflective, light coloured roofs help too, but only where they are widely adopted.",
+  "group_id": "HL1-IG07",
+  "stem": "When is the temperature gap between city and countryside greatest?",
+  "options": [
+   "At noon",
+   "In the early morning",
+   "At night",
+   "In mid-afternoon"
+  ],
+  "answer": 2,
+  "explain_zh": "建材白天吸熱、日落後緩慢釋放，所以 the gap is largest at night rather than at noon, as students often assume。中午正是被點名的常見誤解。",
+  "vocab": [
+   {
+    "w": "absorb",
+    "zh": "吸收",
+    "pos": "v."
+   },
+   {
+    "w": "radiation",
+    "zh": "輻射",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0094",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "Today we turn to the urban heat island effect, the observation that cities are consistently warmer than the countryside around them. In very large cities the difference can reach seven degrees Celsius at night, though two to three degrees is far more typical. Three mechanisms explain most of this. First, materials. Concrete and asphalt absorb solar radiation during the day and release it slowly after sunset, which is why the gap is largest at night rather than at noon, as students often assume. Second, geometry. Tall buildings form narrow canyons that trap heat and block the open sky, reducing the rate at which surfaces can cool. Third, waste heat from vehicles, factories and above all air conditioning. Note the feedback here: hotter cities use more air conditioning, which pushes still more heat outdoors. Vegetation is the single most effective remedy, because trees both shade surfaces and cool the air through evaporation. Reflective, light coloured roofs help too, but only where they are widely adopted.",
+  "group_id": "HL1-IG07",
+  "stem": "Which measure does the lecturer call the single most effective remedy?",
+  "options": [
+   "Reflective roofs",
+   "Restricting vehicles",
+   "Building narrower streets",
+   "Planting vegetation"
+  ],
+  "answer": 3,
+  "explain_zh": "講者說 Vegetation is the single most effective remedy，因為樹木既遮蔭又靠蒸發降溫。反射屋頂只是 help too，效果有條件。",
+  "vocab": [
+   {
+    "w": "vegetation",
+    "zh": "植被",
+    "pos": "n."
+   },
+   {
+    "w": "evaporation",
+    "zh": "蒸發",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0095",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Today we turn to the urban heat island effect, the observation that cities are consistently warmer than the countryside around them. In very large cities the difference can reach seven degrees Celsius at night, though two to three degrees is far more typical. Three mechanisms explain most of this. First, materials. Concrete and asphalt absorb solar radiation during the day and release it slowly after sunset, which is why the gap is largest at night rather than at noon, as students often assume. Second, geometry. Tall buildings form narrow canyons that trap heat and block the open sky, reducing the rate at which surfaces can cool. Third, waste heat from vehicles, factories and above all air conditioning. Note the feedback here: hotter cities use more air conditioning, which pushes still more heat outdoors. Vegetation is the single most effective remedy, because trees both shade surfaces and cool the air through evaporation. Reflective, light coloured roofs help too, but only where they are widely adopted.",
+  "group_id": "HL1-IG07",
+  "stem": "What feedback loop does the lecturer describe?",
+  "options": [
+   "Narrow streets make buildings taller over time.",
+   "Heat drives up air conditioning use, which releases more heat.",
+   "Trees cool the city, so fewer trees are planted.",
+   "Reflective roofs raise temperatures inside buildings."
+  ],
+  "answer": 1,
+  "explain_zh": "原句 hotter cities use more air conditioning, which pushes still more heat outdoors，正是越熱越開冷氣、越開冷氣越熱的循環。其他選項稿中沒有依據。",
+  "vocab": [
+   {
+    "w": "feedback",
+    "zh": "回饋循環",
+    "pos": "n."
+   },
+   {
+    "w": "waste heat",
+    "zh": "廢熱",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0096",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:academic-lecture",
+  "tag_zh": "學術講座",
+  "passage": "In this lecture I want to look at the relationship between sleep and memory. The traditional view was that sleep simply gives the brain a rest. Evidence from the last thirty years suggests something far more active: during sleep the brain replays and reorganises the day's experiences. In one well known experiment, participants learned a list of word pairs and were tested twelve hours later. Those who slept in between recalled roughly forty per cent more than those who stayed awake. Forty, not fourteen, which is the figure sometimes misquoted. Different stages seem to matter for different kinds of learning. Deep slow wave sleep, concentrated in the first half of the night, appears to support factual memory, while REM sleep, which dominates the second half, is linked to skills and to creative problem solving. This has a practical consequence. Cutting your night short by two hours does not remove a fixed slice of sleep; it removes most of your REM. So a student who revises facts all night may keep the facts and lose the flexibility to use them.",
+  "group_id": "HL1-IG08",
+  "stem": "Which traditional idea does the lecturer reject?",
+  "options": [
+   "That sleep is merely a period of rest for the brain",
+   "That memory declines with age",
+   "That dreams predict future events",
+   "That students need twelve hours of sleep"
+  ],
+  "answer": 0,
+  "explain_zh": "講者說 The traditional view was that sleep simply gives the brain a rest，接著用 Evidence... suggests something far more active 推翻它。這是講座常見的「舊觀點被新證據取代」結構。",
+  "vocab": [
+   {
+    "w": "traditional",
+    "zh": "傳統的",
+    "pos": "adj."
+   },
+   {
+    "w": "reorganise",
+    "zh": "重新組織",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0097",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "In this lecture I want to look at the relationship between sleep and memory. The traditional view was that sleep simply gives the brain a rest. Evidence from the last thirty years suggests something far more active: during sleep the brain replays and reorganises the day's experiences. In one well known experiment, participants learned a list of word pairs and were tested twelve hours later. Those who slept in between recalled roughly forty per cent more than those who stayed awake. Forty, not fourteen, which is the figure sometimes misquoted. Different stages seem to matter for different kinds of learning. Deep slow wave sleep, concentrated in the first half of the night, appears to support factual memory, while REM sleep, which dominates the second half, is linked to skills and to creative problem solving. This has a practical consequence. Cutting your night short by two hours does not remove a fixed slice of sleep; it removes most of your REM. So a student who revises facts all night may keep the facts and lose the flexibility to use them.",
+  "group_id": "HL1-IG08",
+  "stem": "How much more did the sleeping participants recall?",
+  "options": [
+   "Fourteen per cent more",
+   "Thirty per cent more",
+   "Forty per cent more",
+   "Twelve per cent more"
+  ],
+  "answer": 2,
+  "explain_zh": "講者說 roughly forty per cent more，並補一句 Forty, not fourteen, which is the figure sometimes misquoted。twelve 則來自測驗間隔十二小時。",
+  "vocab": [
+   {
+    "w": "participant",
+    "zh": "受試者",
+    "pos": "n."
+   },
+   {
+    "w": "recall",
+    "zh": "回想起",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0098",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "細節理解",
+  "passage": "In this lecture I want to look at the relationship between sleep and memory. The traditional view was that sleep simply gives the brain a rest. Evidence from the last thirty years suggests something far more active: during sleep the brain replays and reorganises the day's experiences. In one well known experiment, participants learned a list of word pairs and were tested twelve hours later. Those who slept in between recalled roughly forty per cent more than those who stayed awake. Forty, not fourteen, which is the figure sometimes misquoted. Different stages seem to matter for different kinds of learning. Deep slow wave sleep, concentrated in the first half of the night, appears to support factual memory, while REM sleep, which dominates the second half, is linked to skills and to creative problem solving. This has a practical consequence. Cutting your night short by two hours does not remove a fixed slice of sleep; it removes most of your REM. So a student who revises facts all night may keep the facts and lose the flexibility to use them.",
+  "group_id": "HL1-IG08",
+  "stem": "Which kind of sleep is linked to remembering facts?",
+  "options": [
+   "REM sleep in the second half of the night",
+   "Slow wave sleep in the first half of the night",
+   "REM sleep in the first half of the night",
+   "Light sleep just before waking"
+  ],
+  "answer": 1,
+  "explain_zh": "講者說 Deep slow wave sleep, concentrated in the first half of the night, appears to support factual memory；REM 對應的是技能與創意。兩組配對不能交換。",
+  "vocab": [
+   {
+    "w": "slow wave sleep",
+    "zh": "慢波睡眠",
+    "pos": "n."
+   },
+   {
+    "w": "factual",
+    "zh": "事實的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0099",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "推論判斷",
+  "passage": "In this lecture I want to look at the relationship between sleep and memory. The traditional view was that sleep simply gives the brain a rest. Evidence from the last thirty years suggests something far more active: during sleep the brain replays and reorganises the day's experiences. In one well known experiment, participants learned a list of word pairs and were tested twelve hours later. Those who slept in between recalled roughly forty per cent more than those who stayed awake. Forty, not fourteen, which is the figure sometimes misquoted. Different stages seem to matter for different kinds of learning. Deep slow wave sleep, concentrated in the first half of the night, appears to support factual memory, while REM sleep, which dominates the second half, is linked to skills and to creative problem solving. This has a practical consequence. Cutting your night short by two hours does not remove a fixed slice of sleep; it removes most of your REM. So a student who revises facts all night may keep the facts and lose the flexibility to use them.",
+  "group_id": "HL1-IG08",
+  "stem": "Why is losing two hours of sleep especially damaging?",
+  "options": [
+   "It removes an equal amount of every sleep stage.",
+   "It prevents the brain from resting at all.",
+   "It shortens slow wave sleep only.",
+   "It removes most of the night's REM sleep."
+  ],
+  "answer": 3,
+  "explain_zh": "講者說少睡兩小時 does not remove a fixed slice of sleep; it removes most of your REM，因為 REM 集中在後半夜。選項一正是被否定的想法。",
+  "vocab": [
+   {
+    "w": "consequence",
+    "zh": "後果",
+    "pos": "n."
+   },
+   {
+    "w": "dominate",
+    "zh": "佔主要部分",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HL1-0100",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "listening",
+  "tag": "listening:academic-lecture",
+  "tag_zh": "學術講座",
+  "passage": "In this lecture I want to look at the relationship between sleep and memory. The traditional view was that sleep simply gives the brain a rest. Evidence from the last thirty years suggests something far more active: during sleep the brain replays and reorganises the day's experiences. In one well known experiment, participants learned a list of word pairs and were tested twelve hours later. Those who slept in between recalled roughly forty per cent more than those who stayed awake. Forty, not fourteen, which is the figure sometimes misquoted. Different stages seem to matter for different kinds of learning. Deep slow wave sleep, concentrated in the first half of the night, appears to support factual memory, while REM sleep, which dominates the second half, is linked to skills and to creative problem solving. This has a practical consequence. Cutting your night short by two hours does not remove a fixed slice of sleep; it removes most of your REM. So a student who revises facts all night may keep the facts and lose the flexibility to use them.",
+  "group_id": "HL1-IG08",
+  "stem": "What conclusion does the lecturer draw for students?",
+  "options": [
+   "Facts should only ever be revised in the morning.",
+   "Sleep has no measurable effect on practical skills.",
+   "Twelve hours of sleep are needed before any test.",
+   "Revising all night may preserve facts but reduce flexible thinking."
+  ],
+  "answer": 3,
+  "explain_zh": "結尾說 a student who revises facts all night may keep the facts and lose the flexibility to use them，正是這個結論。其他選項誇大或與內容相反。",
+  "vocab": [
+   {
+    "w": "revise",
+    "zh": "複習",
+    "pos": "v."
+   },
+   {
+    "w": "flexibility",
+    "zh": "靈活性",
+    "pos": "n."
+   }
+  ]
+ }
+]

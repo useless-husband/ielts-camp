@@ -1,0 +1,4652 @@
+[
+  {
+    "id": "HV1-0001",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "In most developed countries, school attendance is ____ until the age of sixteen, and parents who ignore this rule face fines.",
+    "options": [
+      "compulsory",
+      "voluntary",
+      "optional",
+      "flexible"
+    ],
+    "answer": 0,
+    "explain_zh": "法律規定必須上學、不上學還要罰錢，所以是 compulsory（義務的、強制的）。voluntary 與 optional 都是「自願、可選擇的」，意思正好相反；flexible 是「有彈性的」，和罰款的語氣不合。記住 compulsory education = 義務教育。",
+    "vocab": [
+      {
+        "w": "compulsory",
+        "zh": "義務的、強制的",
+        "pos": "adj."
+      },
+      {
+        "w": "attendance",
+        "zh": "出席率",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0002",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "The university has revised its ____ to include more practical courses that prepare students for the changing job market.",
+    "options": [
+      "career",
+      "curriculum",
+      "certificate",
+      "campus"
+    ],
+    "answer": 1,
+    "explain_zh": "學校「修訂」的、裡面裝著課程的東西是 curriculum（課程大綱、全部課程）。career 是職涯、certificate 是證書、campus 是校園，都不能用 include more courses 來修訂。記住 revise the curriculum = 修訂課程。",
+    "vocab": [
+      {
+        "w": "curriculum",
+        "zh": "課程、課程大綱",
+        "pos": "n."
+      },
+      {
+        "w": "revise",
+        "zh": "修訂",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0003",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Adult ____ programmes in rural areas have helped thousands of farmers read contracts and fill in official forms by themselves.",
+    "options": [
+      "literature",
+      "literal",
+      "literacy",
+      "literally"
+    ],
+    "answer": 2,
+    "explain_zh": "能讀合約、填表格講的是「識字能力」literacy。literature 是文學作品、literal 是形容詞「字面上的」、literally 是副詞，詞性與語意都不合。同字根但意思差很多，要分清楚。",
+    "vocab": [
+      {
+        "w": "literacy",
+        "zh": "識字能力、讀寫能力",
+        "pos": "n."
+      },
+      {
+        "w": "contract",
+        "zh": "合約",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0004",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Rising ____ fees have discouraged many working-class students from applying to private universities in the capital city.",
+    "options": [
+      "tradition",
+      "intuition",
+      "institution",
+      "tuition"
+    ],
+    "answer": 3,
+    "explain_zh": "和 fees 連用、會讓學生念不起大學的是 tuition（學費）。tradition 是傳統、intuition 是直覺、institution 是機構，放進 ____ fees 都不成立。記住 tuition fees = 學費。",
+    "vocab": [
+      {
+        "w": "tuition",
+        "zh": "學費",
+        "pos": "n."
+      },
+      {
+        "w": "discourage",
+        "zh": "使卻步、勸阻",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0005",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "More than two thousand students have ____ in the online language course since the university made it free last year.",
+    "options": [
+      "enrolled",
+      "employed",
+      "engaged",
+      "enclosed"
+    ],
+    "answer": 0,
+    "explain_zh": "學生「報名、註冊」課程用 enrol in，所以選 enrolled。employed 是僱用、engaged 是從事或訂婚、enclosed 是隨函附上，都不能接 in the course 表示修課。記住 enrol in a course = 選修課程。",
+    "vocab": [
+      {
+        "w": "enrol",
+        "zh": "註冊、報名",
+        "pos": "v."
+      },
+      {
+        "w": "course",
+        "zh": "課程",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0006",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Teachers agree that ____ matters more than natural talent, because students who keep practising usually outperform those who give up early.",
+    "options": [
+      "motion",
+      "motivation",
+      "movement",
+      "emotion"
+    ],
+    "answer": 1,
+    "explain_zh": "後面說「持續練習的人表現較好」，指的是學習動機 motivation。motion 是運動或動議、movement 是移動或運動風潮、emotion 是情緒，都無法解釋「肯不肯持續練習」。同字根字要看語境挑。",
+    "vocab": [
+      {
+        "w": "motivation",
+        "zh": "動機、積極性",
+        "pos": "n."
+      },
+      {
+        "w": "outperform",
+        "zh": "表現勝過",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0007",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Continuous ____ of student progress allows teachers to spot weaknesses early instead of relying on a single final examination.",
+    "options": [
+      "assignment",
+      "argument",
+      "assessment",
+      "adjustment"
+    ],
+    "answer": 2,
+    "explain_zh": "與 final examination 對比、用來評量學習狀況的是 assessment（評量）。assignment 是作業、argument 是爭論、adjustment 是調整，都不能說 continuous ____ of student progress。記住 continuous assessment = 持續性評量。",
+    "vocab": [
+      {
+        "w": "assessment",
+        "zh": "評量、評估",
+        "pos": "n."
+      },
+      {
+        "w": "spot",
+        "zh": "察覺、發現",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0008",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "She won a full ____ that covered her tuition and living costs for four years of study abroad.",
+    "options": [
+      "sponsorship",
+      "membership",
+      "partnership",
+      "scholarship"
+    ],
+    "answer": 3,
+    "explain_zh": "學生「贏得」並支付學費與生活費的是 scholarship（獎學金）。sponsorship 是企業贊助、membership 是會員資格、partnership 是合夥關係，都不會用 win a full ____ 來形容學生求學。",
+    "vocab": [
+      {
+        "w": "scholarship",
+        "zh": "獎學金",
+        "pos": "n."
+      },
+      {
+        "w": "cover",
+        "zh": "支付、涵蓋",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0009",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Employers increasingly ask for a formal ____ in data analysis, even for positions that were once open to any graduate.",
+    "options": [
+      "qualification",
+      "quality",
+      "quantity",
+      "qualifier"
+    ],
+    "answer": 0,
+    "explain_zh": "雇主要求的正式資格證明是 qualification。quality 是品質、quantity 是數量、qualifier 是預賽或修飾語，都不能說 a formal ____ in data analysis。記住 qualification 指學經歷資格。",
+    "vocab": [
+      {
+        "w": "qualification",
+        "zh": "資格、學歷證明",
+        "pos": "n."
+      },
+      {
+        "w": "graduate",
+        "zh": "畢業生",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0010",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Her ____ performance improved dramatically after she learned how to manage her time and take clearer notes in class.",
+    "options": [
+      "academy",
+      "academic",
+      "academically",
+      "academics"
+    ],
+    "answer": 1,
+    "explain_zh": "空格後面是名詞 performance，需要形容詞 academic（學業的）。academy 是學院（名詞）、academically 是副詞、academics 是學者或學術科目（名詞），詞性都不對。判斷詞性是這類題的關鍵。",
+    "vocab": [
+      {
+        "w": "academic",
+        "zh": "學業的、學術的",
+        "pos": "adj."
+      },
+      {
+        "w": "dramatically",
+        "zh": "大幅地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0011",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Students are advised to ____ their notes regularly rather than trying to memorise everything the night before the exam.",
+    "options": [
+      "rewind",
+      "reverse",
+      "revise",
+      "revive"
+    ],
+    "answer": 2,
+    "explain_zh": "複習筆記用 revise（複習、修訂）。rewind 是倒帶、reverse 是倒轉或逆轉、revive 是復甦，都不能拿來接 notes。英式英文裡 revise for an exam 就是「準備考試」。",
+    "vocab": [
+      {
+        "w": "revise",
+        "zh": "複習、修訂",
+        "pos": "v."
+      },
+      {
+        "w": "memorise",
+        "zh": "背誦",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0012",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Studying at home requires strong self-____, because nobody will remind you to switch off your phone and open the textbook.",
+    "options": [
+      "disciple",
+      "description",
+      "decision",
+      "discipline"
+    ],
+    "answer": 3,
+    "explain_zh": "沒人提醒仍能管好自己，靠的是 self-discipline（自律）。disciple 是門徒、description 是描述、decision 是決定，都無法組成 self- 開頭的複合字表達自我管理。",
+    "vocab": [
+      {
+        "w": "discipline",
+        "zh": "紀律、自制力",
+        "pos": "n."
+      },
+      {
+        "w": "remind",
+        "zh": "提醒",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0013",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "Poor ____ at morning classes forced the college to introduce an electronic system that records when each student arrives.",
+    "options": [
+      "attendance",
+      "attention",
+      "attempt",
+      "attitude"
+    ],
+    "answer": 0,
+    "explain_zh": "系統記錄學生幾點到校，處理的是出席率 attendance。attention 是注意力、attempt 是嘗試、attitude 是態度，都不會用電子報到系統來記錄。記住 attendance 指到課、出席。",
+    "vocab": [
+      {
+        "w": "attendance",
+        "zh": "出席、到課",
+        "pos": "n."
+      },
+      {
+        "w": "record",
+        "zh": "記錄",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0014",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ feedback encourages learners to read each other's essays carefully and to explain clearly why a paragraph is confusing.",
+    "options": [
+      "Pair",
+      "Peer",
+      "Peel",
+      "Peak"
+    ],
+    "answer": 1,
+    "explain_zh": "同學互相看作文、給意見叫 peer feedback（同儕回饋）。pair 是一雙、peel 是果皮或削皮、peak 是頂峰，拼字相近但意思完全不同。記住 peer = 同輩、同儕。",
+    "vocab": [
+      {
+        "w": "peer",
+        "zh": "同儕、同輩",
+        "pos": "n."
+      },
+      {
+        "w": "feedback",
+        "zh": "回饋意見",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0015",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ training offers a practical alternative for teenagers who prefer learning a trade to sitting in academic classrooms.",
+    "options": [
+      "Vocal",
+      "Vocabulary",
+      "Vocational",
+      "Local"
+    ],
+    "answer": 2,
+    "explain_zh": "學一門手藝、和學術課堂對比的是 vocational training（職業訓練）。vocal 是聲音的、vocabulary 是字彙（名詞）、local 是當地的，都無法表達「職業導向」。",
+    "vocab": [
+      {
+        "w": "vocational",
+        "zh": "職業的、技職的",
+        "pos": "adj."
+      },
+      {
+        "w": "trade",
+        "zh": "技藝、行業",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0016",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "The government promised to cut carbon ____ by half before 2035 by closing its remaining coal-fired power stations.",
+    "options": [
+      "omissions",
+      "admissions",
+      "permissions",
+      "emissions"
+    ],
+    "answer": 3,
+    "explain_zh": "關閉燃煤電廠是為了減少碳排放，carbon emissions 是固定搭配。omissions 是遺漏、admissions 是入學許可或承認、permissions 是許可，和 carbon 都搭不起來。",
+    "vocab": [
+      {
+        "w": "emission",
+        "zh": "排放（物）",
+        "pos": "n."
+      },
+      {
+        "w": "coal-fired",
+        "zh": "燃煤的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0017",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ energy sources such as wind and solar now supply almost a third of the country's electricity.",
+    "options": [
+      "Renewable",
+      "Removable",
+      "Remarkable",
+      "Reliable"
+    ],
+    "answer": 0,
+    "explain_zh": "風力與太陽能屬於可再生能源 renewable energy。removable 是可移除的、remarkable 是了不起的、reliable 是可靠的，都無法說明「風和太陽」這個舉例。",
+    "vocab": [
+      {
+        "w": "renewable",
+        "zh": "可再生的",
+        "pos": "adj."
+      },
+      {
+        "w": "supply",
+        "zh": "供應",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0018",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Marine ____ groups are campaigning to ban fishing in areas where coral reefs are recovering from bleaching.",
+    "options": [
+      "conversation",
+      "conservation",
+      "construction",
+      "concentration"
+    ],
+    "answer": 1,
+    "explain_zh": "保護海洋生態的團體是 marine conservation groups（海洋保育團體）。conversation 是對話、construction 是建造、concentration 是專注或濃度，都與禁止捕魚的訴求無關。conservation 與 conversation 只差一個字母，要看清楚。",
+    "vocab": [
+      {
+        "w": "conservation",
+        "zh": "保育、保護",
+        "pos": "n."
+      },
+      {
+        "w": "coral reef",
+        "zh": "珊瑚礁",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0019",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Air ____ in the city centre reaches dangerous levels every winter, when cold air traps exhaust fumes near the ground.",
+    "options": [
+      "population",
+      "solution",
+      "pollution",
+      "publication"
+    ],
+    "answer": 2,
+    "explain_zh": "廢氣累積在地面造成的是空氣污染 air pollution。population 是人口、solution 是解決方法或溶液、publication 是出版品，都不會被 exhaust fumes 造成。pollution 與 population 常被混淆。",
+    "vocab": [
+      {
+        "w": "pollution",
+        "zh": "污染",
+        "pos": "n."
+      },
+      {
+        "w": "exhaust fumes",
+        "zh": "廢氣",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0020",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Hunting has left the species ____, and fewer than four hundred individuals now survive in the wild.",
+    "options": [
+      "dangerous",
+      "daring",
+      "endless",
+      "endangered"
+    ],
+    "answer": 3,
+    "explain_zh": "只剩不到四百隻，代表該物種瀕臨絕種 endangered。dangerous 是「危險的」，是指牠會傷害別人；daring 是大膽的、endless 是無止盡的，語意都不合。記住 endangered species = 瀕危物種。",
+    "vocab": [
+      {
+        "w": "endangered",
+        "zh": "瀕臨絕種的",
+        "pos": "adj."
+      },
+      {
+        "w": "species",
+        "zh": "物種",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0021",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many cafés now charge extra for ____ cups in order to persuade customers to bring their own containers.",
+    "options": [
+      "disposable",
+      "disposal",
+      "dispensable",
+      "displaced"
+    ],
+    "answer": 0,
+    "explain_zh": "用完就丟的杯子是 disposable cups（免洗杯）。disposal 是名詞「處理」、dispensable 是「非必要的」、displaced 是「被迫遷離的」，詞性或語意都不合。",
+    "vocab": [
+      {
+        "w": "disposable",
+        "zh": "用完即丟的",
+        "pos": "adj."
+      },
+      {
+        "w": "container",
+        "zh": "容器",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0022",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "A severe ____ lasting three summers dried up village wells and destroyed almost the entire wheat harvest.",
+    "options": [
+      "draught",
+      "drought",
+      "drain",
+      "flood"
+    ],
+    "answer": 1,
+    "explain_zh": "井水乾涸、作物枯死是乾旱 drought。draught 是氣流或生啤酒、drain 是排水管、flood 是洪水，洪水更不可能讓井水乾掉。drought 與 draught 拼字極像，要特別留意。",
+    "vocab": [
+      {
+        "w": "drought",
+        "zh": "乾旱",
+        "pos": "n."
+      },
+      {
+        "w": "harvest",
+        "zh": "收成",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0023",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Farmers are turning to ____ methods that protect the soil so that the land can still be farmed by future generations.",
+    "options": [
+      "sustained",
+      "substantial",
+      "sustainable",
+      "suspicious"
+    ],
+    "answer": 2,
+    "explain_zh": "能讓後代繼續耕作，說的是永續的 sustainable。sustained 是「持續不斷的」、substantial 是「大量的」、suspicious 是「可疑的」，都表達不出「不耗盡資源」的概念。",
+    "vocab": [
+      {
+        "w": "sustainable",
+        "zh": "永續的",
+        "pos": "adj."
+      },
+      {
+        "w": "soil",
+        "zh": "土壤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0024",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Clearing forests for palm oil destroys the ____ of orangutans, leaving them without food or safe places to sleep.",
+    "options": [
+      "habit",
+      "inhabitant",
+      "hibernation",
+      "habitat"
+    ],
+    "answer": 3,
+    "explain_zh": "動物居住的自然環境是 habitat（棲地）。habit 是習慣、inhabitant 是居民（指人）、hibernation 是冬眠，都不會因為砍樹而被 destroy。字根相近但用法不同。",
+    "vocab": [
+      {
+        "w": "habitat",
+        "zh": "棲息地",
+        "pos": "n."
+      },
+      {
+        "w": "clear",
+        "zh": "清除、砍伐",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0025",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Most household rubbish still ends up in a ____, where it may take centuries to break down.",
+    "options": [
+      "landfill",
+      "landslide",
+      "landmark",
+      "landscape"
+    ],
+    "answer": 0,
+    "explain_zh": "垃圾最後被送到掩埋場 landfill。landslide 是山崩、landmark 是地標、landscape 是景觀，都不是垃圾的去處。記住 end up in a landfill = 最後進了掩埋場。",
+    "vocab": [
+      {
+        "w": "landfill",
+        "zh": "垃圾掩埋場",
+        "pos": "n."
+      },
+      {
+        "w": "break down",
+        "zh": "分解",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0026",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Chemicals leaking from the factory ____ the river, and local people were warned not to drink the water.",
+    "options": [
+      "contained",
+      "contaminated",
+      "continued",
+      "contributed"
+    ],
+    "answer": 1,
+    "explain_zh": "化學物質外洩使河水受污染，用 contaminate（污染）。contain 是容納、continue 是繼續、contribute 是貢獻，都不能解釋「不要喝這水」的警告。",
+    "vocab": [
+      {
+        "w": "contaminate",
+        "zh": "污染",
+        "pos": "v."
+      },
+      {
+        "w": "leak",
+        "zh": "洩漏",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0027",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Household water ____ rises sharply in summer, so the city council is offering discounts on efficient washing machines.",
+    "options": [
+      "consumer",
+      "assumption",
+      "consumption",
+      "completion"
+    ],
+    "answer": 2,
+    "explain_zh": "家庭用水量是 water consumption。consumer 是消費者（人）、assumption 是假設、completion 是完成，都不能用 rises sharply in summer 來描述。記住 consumption = 消耗量。",
+    "vocab": [
+      {
+        "w": "consumption",
+        "zh": "消耗量、消費",
+        "pos": "n."
+      },
+      {
+        "w": "council",
+        "zh": "議會、市政府",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0028",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Removing a single predator can damage the whole ____, because the animals it once hunted multiply out of control.",
+    "options": [
+      "economy",
+      "ecotourism",
+      "epidemic",
+      "ecosystem"
+    ],
+    "answer": 3,
+    "explain_zh": "掠食者與獵物互相牽動的整體是 ecosystem（生態系）。economy 是經濟、ecotourism 是生態旅遊、epidemic 是流行病，都無法被「移除一隻掠食者」破壞。",
+    "vocab": [
+      {
+        "w": "ecosystem",
+        "zh": "生態系統",
+        "pos": "n."
+      },
+      {
+        "w": "predator",
+        "zh": "掠食者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0029",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "The wetland is famous for its ____, supporting more than six hundred species of plants, birds and insects.",
+    "options": [
+      "biodiversity",
+      "biography",
+      "biology",
+      "biotechnology"
+    ],
+    "answer": 0,
+    "explain_zh": "物種數量多樣，講的是生物多樣性 biodiversity。biography 是傳記、biology 是生物學這門學科、biotechnology 是生物科技，都不能用來形容濕地擁有六百種生物。",
+    "vocab": [
+      {
+        "w": "biodiversity",
+        "zh": "生物多樣性",
+        "pos": "n."
+      },
+      {
+        "w": "wetland",
+        "zh": "濕地",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0030",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "passage": null,
+    "group_id": null,
+    "stem": "Travelling by train instead of flying is one simple way to reduce your personal carbon ____.",
+    "options": [
+      "footstep",
+      "footprint",
+      "fingerprint",
+      "footpath"
+    ],
+    "answer": 1,
+    "explain_zh": "個人造成的碳排放總量叫 carbon footprint（碳足跡）。footstep 是腳步聲、fingerprint 是指紋、footpath 是人行小徑，都不能和 carbon 搭配。",
+    "vocab": [
+      {
+        "w": "carbon footprint",
+        "zh": "碳足跡",
+        "pos": "n."
+      },
+      {
+        "w": "reduce",
+        "zh": "減少",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0031",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Researchers want to know how constant notifications ____ the ability of teenagers to concentrate on long reading tasks.",
+    "options": [
+      "effect",
+      "efficient",
+      "affect",
+      "effective"
+    ],
+    "answer": 2,
+    "explain_zh": "空格前有主詞 notifications、後面接受詞，需要動詞 affect（影響）。effect 通常是名詞「影響」，efficient 與 effective 都是形容詞。記住口訣：affect 是動詞、effect 是名詞。",
+    "vocab": [
+      {
+        "w": "affect",
+        "zh": "影響",
+        "pos": "v."
+      },
+      {
+        "w": "notification",
+        "zh": "通知訊息",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0032",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "A wearable ____ can now track your heart rate and warn you when the rhythm becomes irregular.",
+    "options": [
+      "advice",
+      "devise",
+      "division",
+      "device"
+    ],
+    "answer": 3,
+    "explain_zh": "穿戴在身上、能測心跳的是 device（裝置）。advice 是建議、devise 是動詞「設計」、division 是分割或部門，詞性或語意都不合。device（名詞）與 devise（動詞）常被搞混。",
+    "vocab": [
+      {
+        "w": "device",
+        "zh": "裝置、設備",
+        "pos": "n."
+      },
+      {
+        "w": "track",
+        "zh": "追蹤",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0033",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Increasing ____ in factories has cut production costs, although it has also removed thousands of low-skilled jobs.",
+    "options": [
+      "automation",
+      "automobile",
+      "autonomy",
+      "authority"
+    ],
+    "answer": 0,
+    "explain_zh": "工廠用機器取代人力叫 automation（自動化）。automobile 是汽車、autonomy 是自治權、authority 是權威或當局，都無法解釋「降低成本又減少工作」。",
+    "vocab": [
+      {
+        "w": "automation",
+        "zh": "自動化",
+        "pos": "n."
+      },
+      {
+        "w": "low-skilled",
+        "zh": "低技術的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0034",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company rewards ____ employees who suggest new ways of solving problems that nobody else has noticed.",
+    "options": [
+      "innovation",
+      "innovative",
+      "imaginary",
+      "informative"
+    ],
+    "answer": 1,
+    "explain_zh": "空格修飾名詞 employees，要用形容詞 innovative（創新的）。innovation 是名詞、imaginary 是「虛構的」、informative 是「資訊豐富的」，都不符合「想出新方法」。",
+    "vocab": [
+      {
+        "w": "innovative",
+        "zh": "創新的",
+        "pos": "adj."
+      },
+      {
+        "w": "reward",
+        "zh": "獎勵",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0035",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Villages without reliable internet ____ find it almost impossible to use online banking or government services.",
+    "options": [
+      "assess",
+      "excess",
+      "access",
+      "accent"
+    ],
+    "answer": 2,
+    "explain_zh": "internet access 是「網路連線、使用權」的固定說法。assess 是動詞「評估」、excess 是過量、accent 是口音，都不能和 internet 連用表示能否上網。",
+    "vocab": [
+      {
+        "w": "access",
+        "zh": "使用權、連線",
+        "pos": "n."
+      },
+      {
+        "w": "reliable",
+        "zh": "可靠的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0036",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ intelligence is already used to translate documents, detect diseases and recommend films to millions of viewers.",
+    "options": [
+      "Artistic",
+      "Artificially",
+      "Official",
+      "Artificial"
+    ],
+    "answer": 3,
+    "explain_zh": "artificial intelligence（人工智慧）是固定名詞組合。artistic 是「有藝術性的」、artificially 是副詞不能修飾名詞、official 是「官方的」，都不能組成這個專有說法。",
+    "vocab": [
+      {
+        "w": "artificial intelligence",
+        "zh": "人工智慧",
+        "pos": "n."
+      },
+      {
+        "w": "detect",
+        "zh": "偵測",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0037",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Before buying a second-hand laptop, check reviews to make sure the battery is ____ enough for long journeys.",
+    "options": [
+      "reliable",
+      "reliant",
+      "relative",
+      "religious"
+    ],
+    "answer": 0,
+    "explain_zh": "電池要「靠得住」用 reliable。reliant 是「依賴的」（be reliant on）、relative 是相對的或親戚、religious 是宗教的，語意都不合。reliable 與 reliant 同字根但意思相反方向。",
+    "vocab": [
+      {
+        "w": "reliable",
+        "zh": "可靠的",
+        "pos": "adj."
+      },
+      {
+        "w": "second-hand",
+        "zh": "二手的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0038",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "The new engine is far more ____ than the old one, using thirty percent less fuel for the same distance.",
+    "options": [
+      "effective",
+      "efficient",
+      "sufficient",
+      "deficient"
+    ],
+    "answer": 1,
+    "explain_zh": "用較少燃料跑同樣距離，強調「效率高」用 efficient。effective 是「有效果的」（做得到，但不談成本）、sufficient 是足夠的、deficient 是不足的，都無法表達省油。",
+    "vocab": [
+      {
+        "w": "efficient",
+        "zh": "有效率的",
+        "pos": "adj."
+      },
+      {
+        "w": "fuel",
+        "zh": "燃料",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0039",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "The library has scanned its oldest manuscripts so that ____ copies can be studied by researchers anywhere.",
+    "options": [
+      "digit",
+      "dignity",
+      "digital",
+      "diligent"
+    ],
+    "answer": 2,
+    "explain_zh": "掃描後產生的是數位副本 digital copies。digit 是數字（名詞）、dignity 是尊嚴、diligent 是勤奮的，詞性或語意都不對。",
+    "vocab": [
+      {
+        "w": "digital",
+        "zh": "數位的",
+        "pos": "adj."
+      },
+      {
+        "w": "manuscript",
+        "zh": "手稿",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0040",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Users worry about ____ when apps quietly collect location data and sell it to advertising companies.",
+    "options": [
+      "private",
+      "priority",
+      "policy",
+      "privacy"
+    ],
+    "answer": 3,
+    "explain_zh": "擔心個資被蒐集，講的是 privacy（隱私）這個名詞。private 是形容詞、priority 是優先順序、policy 是政策，放在 worry about 之後意思都不通。",
+    "vocab": [
+      {
+        "w": "privacy",
+        "zh": "隱私",
+        "pos": "n."
+      },
+      {
+        "w": "location data",
+        "zh": "位置資料",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0041",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Engineers are laying cables to extend the mobile ____ into mountain areas that have never had a signal.",
+    "options": [
+      "network",
+      "framework",
+      "workshop",
+      "paperwork"
+    ],
+    "answer": 0,
+    "explain_zh": "手機收得到訊號靠的是 mobile network（行動網路）。framework 是架構、workshop 是工作坊、paperwork 是文書作業，都不能用 extend into mountain areas 來談訊號。",
+    "vocab": [
+      {
+        "w": "network",
+        "zh": "網路、通訊網",
+        "pos": "n."
+      },
+      {
+        "w": "signal",
+        "zh": "訊號",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0042",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Medical students practise difficult operations in a ____ environment before they are allowed to touch a real patient.",
+    "options": [
+      "virtuous",
+      "virtual",
+      "visual",
+      "vital"
+    ],
+    "answer": 1,
+    "explain_zh": "與 real patient 對比的是虛擬環境 virtual environment。virtuous 是品德高尚的、visual 是視覺的、vital 是至關重要的，都無法和 real 形成對比。",
+    "vocab": [
+      {
+        "w": "virtual",
+        "zh": "虛擬的",
+        "pos": "adj."
+      },
+      {
+        "w": "operation",
+        "zh": "手術",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0043",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "You must ____ the latest security software; otherwise hackers can easily read the files stored on your computer.",
+    "options": [
+      "instant",
+      "instruct",
+      "install",
+      "insist"
+    ],
+    "answer": 2,
+    "explain_zh": "安裝軟體用 install。instant 是形容詞「立即的」、instruct 是指導、insist 是堅持，都不能接 software 表示安裝。",
+    "vocab": [
+      {
+        "w": "install",
+        "zh": "安裝",
+        "pos": "v."
+      },
+      {
+        "w": "hacker",
+        "zh": "駭客",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0044",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Video tapes became ____ within a decade, and today almost nobody owns a machine that can play them.",
+    "options": [
+      "absolute",
+      "obstacle",
+      "obvious",
+      "obsolete"
+    ],
+    "answer": 3,
+    "explain_zh": "沒人再用、被淘汰的東西是 obsolete（過時的）。absolute 是絕對的、obstacle 是障礙物（名詞）、obvious 是明顯的，都無法解釋「沒人有播放機」。",
+    "vocab": [
+      {
+        "w": "obsolete",
+        "zh": "過時的、淘汰的",
+        "pos": "adj."
+      },
+      {
+        "w": "decade",
+        "zh": "十年",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0045",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:technology",
+    "tag_zh": "科技發展",
+    "passage": null,
+    "group_id": null,
+    "stem": "Satellites ____ weather data to ground stations every few minutes, allowing forecasters to track storms in real time.",
+    "options": [
+      "transmit",
+      "transport",
+      "translate",
+      "transform"
+    ],
+    "answer": 0,
+    "explain_zh": "把資料傳送出去用 transmit（傳輸）。transport 是運送實體物品、translate 是翻譯、transform 是徹底改變，資料傳輸只能用 transmit。",
+    "vocab": [
+      {
+        "w": "transmit",
+        "zh": "傳送、傳輸",
+        "pos": "v."
+      },
+      {
+        "w": "forecaster",
+        "zh": "預報員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0046",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Some children are extremely ____ to peanuts, and even a tiny amount can cause a life-threatening reaction.",
+    "options": [
+      "sensible",
+      "sensitive",
+      "sensitively",
+      "senseless"
+    ],
+    "answer": 1,
+    "explain_zh": "對食物過敏用 be sensitive to（對……敏感）。sensible 是「明智的」，講的是判斷力；sensitively 是副詞、senseless 是「無意義的」，都不能描述過敏反應。sensible 與 sensitive 是經典易混字。",
+    "vocab": [
+      {
+        "w": "sensitive",
+        "zh": "敏感的、過敏的",
+        "pos": "adj."
+      },
+      {
+        "w": "reaction",
+        "zh": "反應",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0047",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "A balanced ____ that includes vegetables, whole grains and fish lowers the risk of heart disease considerably.",
+    "options": [
+      "diary",
+      "dairy",
+      "diet",
+      "dialect"
+    ],
+    "answer": 2,
+    "explain_zh": "包含蔬菜、全穀與魚的是飲食內容 diet。diary 是日記、dairy 是乳製品、dialect 是方言，都不能說 a balanced ____ that includes vegetables。這三個字拼法相近要小心。",
+    "vocab": [
+      {
+        "w": "diet",
+        "zh": "飲食",
+        "pos": "n."
+      },
+      {
+        "w": "whole grain",
+        "zh": "全穀類",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0048",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "The most common ____ of the illness is a high fever that lasts for more than three days.",
+    "options": [
+      "system",
+      "sympathy",
+      "summary",
+      "symptom"
+    ],
+    "answer": 3,
+    "explain_zh": "生病時出現的高燒是症狀 symptom。system 是系統、sympathy 是同情、summary 是摘要，都不能用來指發燒。記住 symptom of an illness = 疾病症狀。",
+    "vocab": [
+      {
+        "w": "symptom",
+        "zh": "症狀",
+        "pos": "n."
+      },
+      {
+        "w": "fever",
+        "zh": "發燒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0049",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Regular sleep strengthens the ____ system, helping the body fight off infections during the cold winter months.",
+    "options": [
+      "immune",
+      "immature",
+      "imitate",
+      "immediate"
+    ],
+    "answer": 0,
+    "explain_zh": "抵抗感染的是免疫系統 immune system。immature 是不成熟的、imitate 是動詞「模仿」、immediate 是立即的，都無法組成對抗感染的系統。",
+    "vocab": [
+      {
+        "w": "immune system",
+        "zh": "免疫系統",
+        "pos": "n."
+      },
+      {
+        "w": "infection",
+        "zh": "感染",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0050",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Childhood ____ has doubled in twenty years, partly because children walk less and drink more sugary beverages.",
+    "options": [
+      "obedience",
+      "obesity",
+      "objective",
+      "obscurity"
+    ],
+    "answer": 1,
+    "explain_zh": "少走路又喝含糖飲料導致的是兒童肥胖 obesity。obedience 是服從、objective 是目標或客觀的、obscurity 是默默無聞，都與體重無關。",
+    "vocab": [
+      {
+        "w": "obesity",
+        "zh": "肥胖症",
+        "pos": "n."
+      },
+      {
+        "w": "beverage",
+        "zh": "飲料",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0051",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Doctors should not ____ antibiotics for a common cold, because these drugs have no effect on viruses.",
+    "options": [
+      "describe",
+      "subscribe",
+      "prescribe",
+      "inscribe"
+    ],
+    "answer": 2,
+    "explain_zh": "醫生「開藥」用 prescribe。describe 是描述、subscribe 是訂閱、inscribe 是刻字，字根相同但意思差很遠。名詞 prescription 就是處方箋。",
+    "vocab": [
+      {
+        "w": "prescribe",
+        "zh": "開（藥）處方",
+        "pos": "v."
+      },
+      {
+        "w": "antibiotic",
+        "zh": "抗生素",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0052",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Early ____ greatly improves the chances of recovery, so patients are urged to report unusual pain immediately.",
+    "options": [
+      "treaty",
+      "retirement",
+      "agreement",
+      "treatment"
+    ],
+    "answer": 3,
+    "explain_zh": "提高康復機率的是及早治療 early treatment。treaty 是條約、retirement 是退休、agreement 是協議，都與康復無關。treatment 與 treaty 拼字接近但語意不同。",
+    "vocab": [
+      {
+        "w": "treatment",
+        "zh": "治療",
+        "pos": "n."
+      },
+      {
+        "w": "recovery",
+        "zh": "康復",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0053",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "School canteens are required to offer ____ meals containing fresh vegetables rather than fried snacks and sweet drinks.",
+    "options": [
+      "nutritious",
+      "nutrition",
+      "delicious",
+      "suspicious"
+    ],
+    "answer": 0,
+    "explain_zh": "修飾 meals 要用形容詞 nutritious（有營養的）。nutrition 是名詞「營養」，不能直接修飾名詞；delicious 只講好吃、suspicious 是可疑的，都不符合「取代油炸食物」的重點。",
+    "vocab": [
+      {
+        "w": "nutritious",
+        "zh": "有營養的",
+        "pos": "adj."
+      },
+      {
+        "w": "canteen",
+        "zh": "餐廳、福利社",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0054",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Universities have hired more counsellors because ____ health problems among students rose sharply during the pandemic.",
+    "options": [
+      "mentally",
+      "mental",
+      "manual",
+      "normal"
+    ],
+    "answer": 1,
+    "explain_zh": "與 health 搭配、需要輔導員處理的是 mental health（心理健康）。mentally 是副詞不能修飾名詞、manual 是手動的、normal 是正常的，都無法組成這個固定說法。",
+    "vocab": [
+      {
+        "w": "mental health",
+        "zh": "心理健康",
+        "pos": "n."
+      },
+      {
+        "w": "counsellor",
+        "zh": "輔導員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0055",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Public health experts argue that ____ is cheaper than cure, since vaccines cost far less than hospital care.",
+    "options": [
+      "protection",
+      "provision",
+      "prevention",
+      "promotion"
+    ],
+    "answer": 2,
+    "explain_zh": "與 cure（治療）相對的是 prevention（預防），諺語 prevention is better than cure 也是這樣搭配。protection 是保護、provision 是提供、promotion 是推廣或升遷，都無法和 cure 形成對比。",
+    "vocab": [
+      {
+        "w": "prevention",
+        "zh": "預防",
+        "pos": "n."
+      },
+      {
+        "w": "vaccine",
+        "zh": "疫苗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0056",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Smoking ____ is difficult to overcome, and most people need several attempts before they finally give up.",
+    "options": [
+      "addition",
+      "attraction",
+      "adoption",
+      "addiction"
+    ],
+    "answer": 3,
+    "explain_zh": "戒不掉的是菸癮 addiction（成癮）。addition 是加法或增添、attraction 是吸引力、adoption 是採用或領養，都不需要 give up 好幾次。addiction 與 addition 只差一個字母。",
+    "vocab": [
+      {
+        "w": "addiction",
+        "zh": "成癮",
+        "pos": "n."
+      },
+      {
+        "w": "overcome",
+        "zh": "克服",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0057",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Millions of adults live with ____ back pain that lasts for years and limits what they can do at work.",
+    "options": [
+      "chronic",
+      "chronicle",
+      "chronological",
+      "comic"
+    ],
+    "answer": 0,
+    "explain_zh": "持續多年的疼痛是慢性的 chronic。chronicle 是編年史（名詞）、chronological 是「按時間順序的」、comic 是滑稽的，都不能形容 pain。chronic 的反義是 acute（急性的）。",
+    "vocab": [
+      {
+        "w": "chronic",
+        "zh": "慢性的、長期的",
+        "pos": "adj."
+      },
+      {
+        "w": "limit",
+        "zh": "限制",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0058",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Simple rules of personal ____, such as washing hands before meals, prevent a surprising number of stomach infections.",
+    "options": [
+      "height",
+      "hygiene",
+      "heritage",
+      "hierarchy"
+    ],
+    "answer": 1,
+    "explain_zh": "洗手講的是個人衛生 personal hygiene。height 是高度、heritage 是文化遺產、hierarchy 是階級制度，都無法解釋為什麼能減少腸胃感染。形容詞形是 hygienic。",
+    "vocab": [
+      {
+        "w": "hygiene",
+        "zh": "衛生",
+        "pos": "n."
+      },
+      {
+        "w": "measure",
+        "zh": "措施",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0059",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Most patients ____ fully within a fortnight, although a few continue to feel tired for several months.",
+    "options": [
+      "recall",
+      "recycle",
+      "recover",
+      "recognize"
+    ],
+    "answer": 2,
+    "explain_zh": "病人痊癒用 recover（康復）。recall 是回想或召回、recycle 是回收、recognize 是認出，都不能和 fully within a fortnight 一起描述病情。",
+    "vocab": [
+      {
+        "w": "recover",
+        "zh": "康復、復原",
+        "pos": "v."
+      },
+      {
+        "w": "fortnight",
+        "zh": "兩星期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0060",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康醫療",
+    "passage": null,
+    "group_id": null,
+    "stem": "Reducing your daily salt ____ by a small amount can lower blood pressure within just a few weeks.",
+    "options": [
+      "intact",
+      "income",
+      "outbreak",
+      "intake"
+    ],
+    "answer": 3,
+    "explain_zh": "每天吃進去的量是 intake（攝取量）。intact 是形容詞「完整無損的」、income 是收入、outbreak 是疫情爆發，都不能接在 salt 後面。記住 salt intake = 鹽分攝取量。",
+    "vocab": [
+      {
+        "w": "intake",
+        "zh": "攝取量",
+        "pos": "n."
+      },
+      {
+        "w": "blood pressure",
+        "zh": "血壓",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0061",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Neighbours should be ____ about noise, especially late at night when other families are trying to sleep.",
+    "options": [
+      "considerate",
+      "considerable",
+      "considering",
+      "consideration"
+    ],
+    "answer": 0,
+    "explain_zh": "體貼別人用 considerate（體貼的）。considerable 是「相當大量的」，講數量不是人品；considering 是介系詞「考慮到」、consideration 是名詞，詞性與語意都不合。這組字是常考陷阱。",
+    "vocab": [
+      {
+        "w": "considerate",
+        "zh": "體貼的",
+        "pos": "adj."
+      },
+      {
+        "w": "neighbour",
+        "zh": "鄰居",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0062",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ populations keep growing as young people leave farming villages in search of better-paid factory work.",
+    "options": [
+      "Urgent",
+      "Urban",
+      "Suburb",
+      "Rural"
+    ],
+    "answer": 1,
+    "explain_zh": "年輕人離開農村進城，增加的是都市人口 urban populations。urgent 是緊急的、suburb 是名詞「郊區」不能直接修飾名詞、rural 是「鄉村的」意思正好相反。",
+    "vocab": [
+      {
+        "w": "urban",
+        "zh": "都市的",
+        "pos": "adj."
+      },
+      {
+        "w": "in search of",
+        "zh": "尋找",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0063",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Income ____ has widened in many countries, with the richest tenth now earning more than the poorest half combined.",
+    "options": [
+      "unequal",
+      "equality",
+      "inequality",
+      "inability"
+    ],
+    "answer": 2,
+    "explain_zh": "貧富差距擴大是 income inequality（所得不平等）。unequal 是形容詞、equality 是「平等」意思相反、inability 是「無能力」，都不符合後半句的對比數據。",
+    "vocab": [
+      {
+        "w": "inequality",
+        "zh": "不平等、差距",
+        "pos": "n."
+      },
+      {
+        "w": "widen",
+        "zh": "擴大",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0064",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Volunteers run a ____ centre where elderly residents can share meals and join free computer classes.",
+    "options": [
+      "commodity",
+      "committee",
+      "communication",
+      "community"
+    ],
+    "answer": 3,
+    "explain_zh": "社區活動中心是 community centre。commodity 是商品、committee 是委員會、communication 是溝通，都不能組成提供共餐與課程的場所名稱。",
+    "vocab": [
+      {
+        "w": "community",
+        "zh": "社區",
+        "pos": "n."
+      },
+      {
+        "w": "resident",
+        "zh": "居民",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0065",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "The new law makes ____ on the grounds of age illegal when companies advertise or fill vacant posts.",
+    "options": [
+      "discrimination",
+      "determination",
+      "distribution",
+      "destination"
+    ],
+    "answer": 0,
+    "explain_zh": "因年齡而差別待遇是 discrimination（歧視）。determination 是決心、distribution 是分配、destination 是目的地，都不會被法律以 on the grounds of age 禁止。",
+    "vocab": [
+      {
+        "w": "discrimination",
+        "zh": "歧視",
+        "pos": "n."
+      },
+      {
+        "w": "vacant",
+        "zh": "空缺的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0066",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Rural-to-urban ____ has emptied hundreds of villages, leaving only elderly residents behind in many mountain regions.",
+    "options": [
+      "migrant",
+      "migration",
+      "imagination",
+      "integration"
+    ],
+    "answer": 1,
+    "explain_zh": "人口由鄉村移往都市的現象是 migration（遷徙）。migrant 是「移居者」指人、imagination 是想像力、integration 是整合，都不能造成村莊人去樓空。",
+    "vocab": [
+      {
+        "w": "migration",
+        "zh": "遷徙、人口移動",
+        "pos": "n."
+      },
+      {
+        "w": "empty",
+        "zh": "使空無一人",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0067",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "The country's ____ system supports families who lose their income through illness, unemployment or the death of a parent.",
+    "options": [
+      "warfare",
+      "farewell",
+      "welfare",
+      "wealth"
+    ],
+    "answer": 2,
+    "explain_zh": "照顧弱勢家庭的制度是 welfare system（社會福利制度）。warfare 是戰爭行為、farewell 是道別、wealth 是財富，都不能組成這個制度名稱。welfare 與 warfare 只差兩個字母。",
+    "vocab": [
+      {
+        "w": "welfare",
+        "zh": "福利",
+        "pos": "n."
+      },
+      {
+        "w": "income",
+        "zh": "收入",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0068",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Festivals help younger generations understand the ____ values that their grandparents once took completely for granted.",
+    "options": [
+      "culture",
+      "agricultural",
+      "cultivated",
+      "cultural"
+    ],
+    "answer": 3,
+    "explain_zh": "修飾 values 要用形容詞 cultural（文化的）。culture 是名詞、agricultural 是「農業的」、cultivated 是「耕作過的、有教養的」，都不符合節慶與世代傳承的語境。",
+    "vocab": [
+      {
+        "w": "cultural",
+        "zh": "文化的",
+        "pos": "adj."
+      },
+      {
+        "w": "take for granted",
+        "zh": "視為理所當然",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0069",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "The ____ rate has fallen steadily since the council installed street lighting and opened youth clubs in the area.",
+    "options": [
+      "crime",
+      "criminal",
+      "crisis",
+      "credit"
+    ],
+    "answer": 0,
+    "explain_zh": "裝路燈、開青少年中心是為了降低犯罪率 crime rate。criminal 指罪犯或形容詞「犯罪的」、crisis 是危機、credit 是信用，都無法組成 ____ rate 這個常見搭配。",
+    "vocab": [
+      {
+        "w": "crime rate",
+        "zh": "犯罪率",
+        "pos": "n."
+      },
+      {
+        "w": "install",
+        "zh": "裝設",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0070",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Free school meals were introduced to make sure that children living in ____ still receive one hot meal daily.",
+    "options": [
+      "property",
+      "poverty",
+      "priority",
+      "purity"
+    ],
+    "answer": 1,
+    "explain_zh": "live in poverty 是「生活貧困」的固定說法。property 是財產、priority 是優先事項、purity 是純度，都不能解釋為什麼需要免費營養午餐。poverty 與 property 拼字相近。",
+    "vocab": [
+      {
+        "w": "poverty",
+        "zh": "貧窮",
+        "pos": "n."
+      },
+      {
+        "w": "introduce",
+        "zh": "推行、引進",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0071",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Local ____ have been criticised for failing to repair the damaged bridge before the rainy season began.",
+    "options": [
+      "authors",
+      "authorship",
+      "authorities",
+      "authentic"
+    ],
+    "answer": 2,
+    "explain_zh": "負責修橋、會被批評的是地方政府當局 local authorities。authors 是作者、authorship 是著作權或作者身分、authentic 是形容詞「真正的」，詞性或語意都不合。",
+    "vocab": [
+      {
+        "w": "authorities",
+        "zh": "當局、政府機關",
+        "pos": "n."
+      },
+      {
+        "w": "criticise",
+        "zh": "批評",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0072",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Hundreds of people ____ every weekend to clean beaches, plant trees and repair paths in the national park.",
+    "options": [
+      "voluntary",
+      "volunteering",
+      "voluntarily",
+      "volunteer"
+    ],
+    "answer": 3,
+    "explain_zh": "主詞 people 後面缺少動詞，volunteer 可當動詞「當志工、自願做」。voluntary 是形容詞、volunteering 是動名詞、voluntarily 是副詞，都不能單獨當本句的主要動詞。",
+    "vocab": [
+      {
+        "w": "volunteer",
+        "zh": "自願參與、當志工",
+        "pos": "v."
+      },
+      {
+        "w": "path",
+        "zh": "步道",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0073",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "Elderly people who live alone often feel ____, especially when public transport to the town centre is poor.",
+    "options": [
+      "isolated",
+      "insulated",
+      "isolation",
+      "idle"
+    ],
+    "answer": 0,
+    "explain_zh": "感到孤立無援用 feel isolated。insulated 是「有隔熱或隔音的」、isolation 是名詞不能接在 feel 後當形容詞用於此、idle 是「閒置的、懶散的」，語意不合。",
+    "vocab": [
+      {
+        "w": "isolated",
+        "zh": "孤立的、與世隔絕的",
+        "pos": "adj."
+      },
+      {
+        "w": "elderly",
+        "zh": "年長的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0074",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "The ____ collects unwanted clothes and sells them cheaply to raise money for homeless shelters in the city.",
+    "options": [
+      "chance",
+      "charity",
+      "charge",
+      "chapter"
+    ],
+    "answer": 1,
+    "explain_zh": "募款幫助遊民的組織是 charity（慈善機構）。chance 是機會、charge 是費用或指控、chapter 是章節，都不會 raise money for shelters。",
+    "vocab": [
+      {
+        "w": "charity",
+        "zh": "慈善機構",
+        "pos": "n."
+      },
+      {
+        "w": "shelter",
+        "zh": "收容所",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0075",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會現象",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is a local ____ to remove your shoes and bow slightly before entering somebody else's home.",
+    "options": [
+      "customer",
+      "costume",
+      "custom",
+      "customs"
+    ],
+    "answer": 2,
+    "explain_zh": "當地的習俗是 custom。customer 是顧客、costume 是戲服、customs 加了 s 變成「海關」，意思完全不同。單複數與拼字都要看清楚。",
+    "vocab": [
+      {
+        "w": "custom",
+        "zh": "習俗",
+        "pos": "n."
+      },
+      {
+        "w": "bow",
+        "zh": "鞠躬",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0076",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "A small diesel car is more ____ on long journeys, since it burns much less fuel per kilometre.",
+    "options": [
+      "economic",
+      "economy",
+      "economics",
+      "economical"
+    ],
+    "answer": 3,
+    "explain_zh": "強調「省錢、省油」用 economical。economic 是「經濟（層面）的」，談的是國家或產業；economy 是名詞、economics 是經濟學。記住 economical = 節省的。",
+    "vocab": [
+      {
+        "w": "economical",
+        "zh": "節省的、省油的",
+        "pos": "adj."
+      },
+      {
+        "w": "fuel",
+        "zh": "燃料",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0077",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "The country enjoyed rapid ____ growth for a decade before rising oil prices slowed its factories down.",
+    "options": [
+      "economic",
+      "economical",
+      "economically",
+      "economist"
+    ],
+    "answer": 0,
+    "explain_zh": "economic growth（經濟成長）是固定搭配，指整體經濟。economical 是「省錢的」、economically 是副詞不能修飾名詞 growth、economist 是經濟學家。這組字要靠語境分辨。",
+    "vocab": [
+      {
+        "w": "economic growth",
+        "zh": "經濟成長",
+        "pos": "n."
+      },
+      {
+        "w": "decade",
+        "zh": "十年",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0078",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "When ____ reaches double figures, families notice that their wages buy far less food than the year before.",
+    "options": [
+      "inflammation",
+      "inflation",
+      "information",
+      "installation"
+    ],
+    "answer": 1,
+    "explain_zh": "薪水買到的東西變少是通貨膨脹 inflation。inflammation 是發炎、information 是資訊、installation 是安裝，都不會讓 wages 的購買力下降。",
+    "vocab": [
+      {
+        "w": "inflation",
+        "zh": "通貨膨脹",
+        "pos": "n."
+      },
+      {
+        "w": "wage",
+        "zh": "工資",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0079",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "The government raised the minimum ____ so that full-time workers could afford rent in the capital.",
+    "options": [
+      "charge",
+      "fare",
+      "wage",
+      "fee"
+    ],
+    "answer": 2,
+    "explain_zh": "minimum wage（基本工資）是固定說法。charge 是收費、fare 是車資、fee 是規費或學費，都不是勞工領的薪水。",
+    "vocab": [
+      {
+        "w": "minimum wage",
+        "zh": "基本工資",
+        "pos": "n."
+      },
+      {
+        "w": "afford",
+        "zh": "負擔得起",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0080",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ rose sharply when the shipyard closed, leaving nearly two thousand skilled workers without a regular income.",
+    "options": [
+      "Employment",
+      "Employer",
+      "Deployment",
+      "Unemployment"
+    ],
+    "answer": 3,
+    "explain_zh": "工廠關閉導致失業率上升，用 unemployment（失業）。employment 是就業，方向相反；employer 是雇主；deployment 是部署，語意都不合。字首 un- 是關鍵。",
+    "vocab": [
+      {
+        "w": "unemployment",
+        "zh": "失業",
+        "pos": "n."
+      },
+      {
+        "w": "shipyard",
+        "zh": "造船廠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0081",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "Foreign ____ in the region increased after the government promised lower taxes and simpler customs procedures.",
+    "options": [
+      "investment",
+      "investigation",
+      "involvement",
+      "instalment"
+    ],
+    "answer": 0,
+    "explain_zh": "降稅吸引的是外來投資 foreign investment。investigation 是調查、involvement 是參與、instalment 是分期付款，都不會因為減稅而增加。",
+    "vocab": [
+      {
+        "w": "investment",
+        "zh": "投資",
+        "pos": "n."
+      },
+      {
+        "w": "procedure",
+        "zh": "程序",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0082",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many young couples cannot ____ to buy a flat in the city, so they rent for years instead.",
+    "options": [
+      "afraid",
+      "afford",
+      "effort",
+      "offer"
+    ],
+    "answer": 1,
+    "explain_zh": "買不起用 cannot afford to。afraid 是形容詞、effort 是名詞、offer 是提供，放在 cannot 後面當動詞都不合。記住 afford 常與 can/cannot 連用。",
+    "vocab": [
+      {
+        "w": "afford",
+        "zh": "負擔得起",
+        "pos": "v."
+      },
+      {
+        "w": "flat",
+        "zh": "公寓",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0083",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company made a record ____ last year, and shareholders were paid the largest dividend in its history.",
+    "options": [
+      "profile",
+      "prophet",
+      "profit",
+      "progress"
+    ],
+    "answer": 2,
+    "explain_zh": "公司賺的錢是 profit（利潤），make a profit 是固定搭配。profile 是側寫或簡介、prophet 是先知、progress 是進展，都不能配發股利。profit 與 prophet 發音相近要注意。",
+    "vocab": [
+      {
+        "w": "profit",
+        "zh": "利潤",
+        "pos": "n."
+      },
+      {
+        "w": "dividend",
+        "zh": "股利",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0084",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "Students on a tight ____ often cook at home rather than eating in restaurants near the campus.",
+    "options": [
+      "bargain",
+      "baggage",
+      "bucket",
+      "budget"
+    ],
+    "answer": 3,
+    "explain_zh": "on a tight budget 是「預算吃緊」的固定說法。bargain 是便宜貨、baggage 是行李、bucket 是水桶，都不能用 tight 修飾表示錢不夠。",
+    "vocab": [
+      {
+        "w": "budget",
+        "zh": "預算",
+        "pos": "n."
+      },
+      {
+        "w": "tight",
+        "zh": "吃緊的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0085",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "Strong ____ for electric vehicles has pushed up the price of the metals used inside their batteries.",
+    "options": [
+      "demand",
+      "command",
+      "remand",
+      "demanding"
+    ],
+    "answer": 0,
+    "explain_zh": "需求量大會推升價格，用 demand（需求），常搭配 demand for。command 是命令、remand 是還押、demanding 是形容詞「要求高的」，詞性或語意都不合。",
+    "vocab": [
+      {
+        "w": "demand",
+        "zh": "需求",
+        "pos": "n."
+      },
+      {
+        "w": "push up",
+        "zh": "推升",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0086",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "Tourists complain that the local ____ is difficult to exchange once they leave the country's main airports.",
+    "options": [
+      "current",
+      "currency",
+      "currently",
+      "urgency"
+    ],
+    "answer": 1,
+    "explain_zh": "可以兌換的是當地貨幣 currency。current 是形容詞「現在的」或名詞「水流」、currently 是副詞、urgency 是急迫性，都不能被 exchange。",
+    "vocab": [
+      {
+        "w": "currency",
+        "zh": "貨幣",
+        "pos": "n."
+      },
+      {
+        "w": "exchange",
+        "zh": "兌換",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0087",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "She took out a small ____ from the bank to pay for equipment when she started her bakery.",
+    "options": [
+      "lend",
+      "borrow",
+      "loan",
+      "own"
+    ],
+    "answer": 2,
+    "explain_zh": "take out a loan 是「辦貸款」的固定說法，loan 是名詞。lend、borrow、own 都是動詞，不能接在冠詞 a 與形容詞 small 之後。",
+    "vocab": [
+      {
+        "w": "loan",
+        "zh": "貸款",
+        "pos": "n."
+      },
+      {
+        "w": "equipment",
+        "zh": "設備",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0088",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "Coffee remains the country's most valuable ____, earning more foreign money than tourism and mining combined.",
+    "options": [
+      "expert",
+      "expose",
+      "explore",
+      "export"
+    ],
+    "answer": 3,
+    "explain_zh": "替國家賺外匯的出口商品是 export。expert 是專家、expose 是暴露、explore 是探索，後兩者是動詞，放在 most valuable 之後也不通。",
+    "vocab": [
+      {
+        "w": "export",
+        "zh": "出口（品）",
+        "pos": "n."
+      },
+      {
+        "w": "mining",
+        "zh": "採礦業",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0089",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ confidence fell after the news, and shoppers postponed buying furniture, cars and other expensive items.",
+    "options": [
+      "Consumer",
+      "Consumption",
+      "Consuming",
+      "Consumed"
+    ],
+    "answer": 0,
+    "explain_zh": "consumer confidence（消費者信心）是固定經濟名詞。consumption 是消耗量、consuming 與 consumed 是動詞變化形，都不能組成這個說法。",
+    "vocab": [
+      {
+        "w": "consumer confidence",
+        "zh": "消費者信心",
+        "pos": "n."
+      },
+      {
+        "w": "postpone",
+        "zh": "延後",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0090",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "passage": null,
+    "group_id": null,
+    "stem": "Government ____ keep bus tickets cheap, so people on low incomes can still travel to work every day.",
+    "options": [
+      "substitutes",
+      "subsidies",
+      "supplements",
+      "surpluses"
+    ],
+    "answer": 1,
+    "explain_zh": "政府補助讓票價便宜，用 subsidies（補助金）。substitutes 是替代品、supplements 是補充品或增刊、surpluses 是盈餘，都不能直接讓票價變低。",
+    "vocab": [
+      {
+        "w": "subsidy",
+        "zh": "補助金",
+        "pos": "n."
+      },
+      {
+        "w": "low income",
+        "zh": "低收入",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0091",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ about the exam results, he checked his phone every few minutes throughout the whole afternoon.",
+    "options": [
+      "Anxiety",
+      "Anxiously",
+      "Anxious",
+      "Ambitious"
+    ],
+    "answer": 2,
+    "explain_zh": "分詞構句開頭要用形容詞 anxious（焦慮的），be anxious about 是固定搭配。anxiety 是名詞、anxiously 是副詞、ambitious 是「有野心的」，都不符合不停看手機的心情。",
+    "vocab": [
+      {
+        "w": "anxious",
+        "zh": "焦慮的",
+        "pos": "adj."
+      },
+      {
+        "w": "result",
+        "zh": "結果",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0092",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "After months of practice she felt ____ enough to give her presentation without reading from her notes.",
+    "options": [
+      "confidence",
+      "confidential",
+      "comfortable",
+      "confident"
+    ],
+    "answer": 3,
+    "explain_zh": "feel 後面接形容詞 confident（有自信的）。confidence 是名詞、confidential 是「機密的」、comfortable 是身體上的舒適，都無法表達「不看小抄也敢上台」。",
+    "vocab": [
+      {
+        "w": "confident",
+        "zh": "有自信的",
+        "pos": "adj."
+      },
+      {
+        "w": "presentation",
+        "zh": "簡報",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0093",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "Older employees were ____ to use the new software, mainly because nobody had explained its advantages to them.",
+    "options": [
+      "reluctant",
+      "reluctance",
+      "relevant",
+      "reliant"
+    ],
+    "answer": 0,
+    "explain_zh": "be reluctant to 是「不情願做某事」。reluctance 是名詞、relevant 是「相關的」、reliant 是「依賴的」，後面接 to 的用法與語意都不符。",
+    "vocab": [
+      {
+        "w": "reluctant",
+        "zh": "不情願的",
+        "pos": "adj."
+      },
+      {
+        "w": "advantage",
+        "zh": "好處",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0094",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "Passengers grew ____ as the delay stretched into a third hour with no explanation from the airline staff.",
+    "options": [
+      "frustrating",
+      "frustrated",
+      "fascinated",
+      "flattered"
+    ],
+    "answer": 1,
+    "explain_zh": "人感到受挫、惱火用 -ed 形的 frustrated。frustrating 是形容事情令人挫折、fascinated 是著迷的、flattered 是感到受寵若驚，都不符合久候無人說明的情境。",
+    "vocab": [
+      {
+        "w": "frustrated",
+        "zh": "感到挫折惱火的",
+        "pos": "adj."
+      },
+      {
+        "w": "delay",
+        "zh": "誤點、延遲",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0095",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "She wrote a short letter to say how ____ she was for the stranger who returned her wallet.",
+    "options": [
+      "gratitude",
+      "graceful",
+      "grateful",
+      "greedy"
+    ],
+    "answer": 2,
+    "explain_zh": "how 後面接形容詞，感謝用 grateful。gratitude 是名詞「感激」、graceful 是「優雅的」、greedy 是「貪心的」，詞性或語意都不合。be grateful for 是固定搭配。",
+    "vocab": [
+      {
+        "w": "grateful",
+        "zh": "感激的",
+        "pos": "adj."
+      },
+      {
+        "w": "wallet",
+        "zh": "皮夾",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0096",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "Despite the poor weather, the farmers remained ____ that the harvest would still be large enough to sell.",
+    "options": [
+      "optional",
+      "opposite",
+      "obvious",
+      "optimistic"
+    ],
+    "answer": 3,
+    "explain_zh": "天氣不好仍相信收成會好，是樂觀 optimistic。optional 是可選擇的、opposite 是相反的、obvious 是明顯的，都不能接 that 子句表達正面預期。",
+    "vocab": [
+      {
+        "w": "optimistic",
+        "zh": "樂觀的",
+        "pos": "adj."
+      },
+      {
+        "w": "despite",
+        "zh": "儘管",
+        "pos": "prep."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0097",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "He felt ____ when he realised he had called his new teacher by completely the wrong name.",
+    "options": [
+      "embarrassed",
+      "embarrassing",
+      "embraced",
+      "empowered"
+    ],
+    "answer": 0,
+    "explain_zh": "人覺得尷尬用 embarrassed；embarrassing 是形容那件事令人尷尬。embraced 是被擁抱、empowered 是被賦予力量，語意都不合。-ed 修飾人、-ing 修飾事。",
+    "vocab": [
+      {
+        "w": "embarrassed",
+        "zh": "感到尷尬的",
+        "pos": "adj."
+      },
+      {
+        "w": "realise",
+        "zh": "發覺",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0098",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "The manager was ____ when I explained the situation, and she allowed me to change my shift.",
+    "options": [
+      "sympathy",
+      "sympathetic",
+      "symbolic",
+      "systematic"
+    ],
+    "answer": 1,
+    "explain_zh": "be 動詞後面要形容詞 sympathetic（有同情心的）。sympathy 是名詞、symbolic 是象徵性的、systematic 是有系統的，都不符合主管體諒員工的情境。",
+    "vocab": [
+      {
+        "w": "sympathetic",
+        "zh": "有同情心的、體諒的",
+        "pos": "adj."
+      },
+      {
+        "w": "shift",
+        "zh": "輪班",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0099",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "Voters seemed ____ to the debate, and fewer than a third bothered to visit the polling station.",
+    "options": [
+      "different",
+      "indefinite",
+      "indifferent",
+      "independent"
+    ],
+    "answer": 2,
+    "explain_zh": "投票率極低顯示選民漠不關心，be indifferent to 是「對……冷淡」。different 是不同的、indefinite 是無限期的、independent 是獨立的，都無法解釋沒人去投票。",
+    "vocab": [
+      {
+        "w": "indifferent",
+        "zh": "漠不關心的",
+        "pos": "adj."
+      },
+      {
+        "w": "polling station",
+        "zh": "投票所",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0100",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "Residents were ____ by the constant noise from the building site, which started before seven every morning.",
+    "options": [
+      "annoying",
+      "announced",
+      "amused",
+      "annoyed"
+    ],
+    "answer": 3,
+    "explain_zh": "人被吵到很煩用 annoyed；annoying 是形容噪音本身令人厭煩，但主詞是 residents。announced 是宣布、amused 是覺得有趣，語意不合。",
+    "vocab": [
+      {
+        "w": "annoyed",
+        "zh": "惱怒的",
+        "pos": "adj."
+      },
+      {
+        "w": "constant",
+        "zh": "持續不斷的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0101",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "The children were so ____ about the science club that they arrived half an hour before it opened.",
+    "options": [
+      "enthusiastic",
+      "enthusiasm",
+      "enthusiastically",
+      "ethical"
+    ],
+    "answer": 0,
+    "explain_zh": "so 後面接形容詞 enthusiastic（熱衷的），be enthusiastic about 是固定搭配。enthusiasm 是名詞、enthusiastically 是副詞、ethical 是「合乎道德的」，都不適合。",
+    "vocab": [
+      {
+        "w": "enthusiastic",
+        "zh": "熱衷的、興致高昂的",
+        "pos": "adj."
+      },
+      {
+        "w": "science club",
+        "zh": "科學社",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0102",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "Fans were deeply ____ when the concert was cancelled just two days before it was due to start.",
+    "options": [
+      "disappointing",
+      "disappointed",
+      "disapproved",
+      "disappeared"
+    ],
+    "answer": 1,
+    "explain_zh": "人感到失望用 disappointed；disappointing 用來形容令人失望的事。disapproved 是不贊成、disappeared 是消失，語意都不合。再次提醒 -ed 修飾人的感受。",
+    "vocab": [
+      {
+        "w": "disappointed",
+        "zh": "失望的",
+        "pos": "adj."
+      },
+      {
+        "w": "cancel",
+        "zh": "取消",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0103",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "Investors have become more ____ since the crash, preferring safe savings accounts to shares in new companies.",
+    "options": [
+      "caution",
+      "curious",
+      "cautious",
+      "conscious"
+    ],
+    "answer": 2,
+    "explain_zh": "改買安全的儲蓄帳戶表示變得謹慎 cautious。caution 是名詞、curious 是好奇的、conscious 是有意識的，都無法說明避開高風險股票的行為。",
+    "vocab": [
+      {
+        "w": "cautious",
+        "zh": "謹慎的",
+        "pos": "adj."
+      },
+      {
+        "w": "share",
+        "zh": "股票",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0104",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "Her parents were extremely ____ of her when she became the first in the family to graduate.",
+    "options": [
+      "pride",
+      "prouder",
+      "prone",
+      "proud"
+    ],
+    "answer": 3,
+    "explain_zh": "be proud of 是「以……為榮」。pride 是名詞、prouder 是比較級但句中沒有比較對象且有 extremely 修飾、prone 是「易於（發生壞事）的」，都不適合。",
+    "vocab": [
+      {
+        "w": "proud",
+        "zh": "驕傲的、感到光榮的",
+        "pos": "adj."
+      },
+      {
+        "w": "graduate",
+        "zh": "畢業",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0105",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒與態度",
+    "passage": null,
+    "group_id": null,
+    "stem": "City life has made him more ____ of opinions that differ sharply from the ones he grew up with.",
+    "options": [
+      "tolerant",
+      "tolerance",
+      "talented",
+      "turbulent"
+    ],
+    "answer": 0,
+    "explain_zh": "能接受不同意見是 tolerant（寬容的），be tolerant of 是固定搭配。tolerance 是名詞、talented 是有才華的、turbulent 是動盪的，語意都不合。",
+    "vocab": [
+      {
+        "w": "tolerant",
+        "zh": "寬容的",
+        "pos": "adj."
+      },
+      {
+        "w": "differ",
+        "zh": "不同",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0106",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Sales of electric bicycles rose ____ between 2015 and 2022, more than trebling in only seven years.",
+    "options": [
+      "dramatic",
+      "dramatically",
+      "drama",
+      "dramatize"
+    ],
+    "answer": 1,
+    "explain_zh": "修飾動詞 rose 要用副詞 dramatically（大幅地）。dramatic 是形容詞、drama 是名詞、dramatize 是動詞，詞性都不對。雅思圖表題常用 rise dramatically。",
+    "vocab": [
+      {
+        "w": "dramatically",
+        "zh": "大幅地、劇烈地",
+        "pos": "adv."
+      },
+      {
+        "w": "treble",
+        "zh": "變成三倍",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0107",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The number of visitors climbed ____ over the whole period, with no sudden jumps or falls.",
+    "options": [
+      "steady",
+      "sturdy",
+      "steadily",
+      "suddenly"
+    ],
+    "answer": 2,
+    "explain_zh": "句尾說沒有突然的起伏，代表穩定上升，副詞用 steadily。steady 是形容詞、sturdy 是「堅固的」、suddenly 與 no sudden jumps 互相矛盾。",
+    "vocab": [
+      {
+        "w": "steadily",
+        "zh": "穩定地",
+        "pos": "adv."
+      },
+      {
+        "w": "period",
+        "zh": "期間",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0108",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The report records a sharp ____ in newspaper sales, which have halved since smartphones became common.",
+    "options": [
+      "recline",
+      "incline",
+      "deny",
+      "decline"
+    ],
+    "answer": 3,
+    "explain_zh": "銷量腰斬是急遽下滑 a sharp decline。recline 是身體向後躺、incline 是傾斜或坡度、deny 是否認，都不能描述銷售數字。a decline in 是雅思圖表常用說法。",
+    "vocab": [
+      {
+        "w": "decline",
+        "zh": "下降、衰退",
+        "pos": "n."
+      },
+      {
+        "w": "halve",
+        "zh": "減半",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0109",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Temperatures ____ widely in the desert, rising above forty degrees by day and falling near zero at night.",
+    "options": [
+      "fluctuate",
+      "flatter",
+      "flourish",
+      "frustrate"
+    ],
+    "answer": 0,
+    "explain_zh": "忽高忽低用 fluctuate（波動）。flatter 是奉承、flourish 是繁盛、frustrate 是使受挫，都無法描述白天熱、晚上冷的變化。",
+    "vocab": [
+      {
+        "w": "fluctuate",
+        "zh": "波動、起伏",
+        "pos": "v."
+      },
+      {
+        "w": "desert",
+        "zh": "沙漠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0110",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Scientists recorded a ____ rise in sea level of about three millimetres each year since 1993.",
+    "options": [
+      "graduate",
+      "gradual",
+      "gradually",
+      "grateful"
+    ],
+    "answer": 1,
+    "explain_zh": "修飾名詞 rise 要用形容詞 gradual（逐漸的）。graduate 是動詞或名詞、gradually 是副詞、grateful 是感激的，詞性或語意都不合。",
+    "vocab": [
+      {
+        "w": "gradual",
+        "zh": "逐漸的",
+        "pos": "adj."
+      },
+      {
+        "w": "sea level",
+        "zh": "海平面",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0111",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The city's population ____ between 1990 and 2020, growing from two million to just over four million.",
+    "options": [
+      "halved",
+      "divided",
+      "doubled",
+      "dominated"
+    ],
+    "answer": 2,
+    "explain_zh": "從兩百萬變成四百多萬是翻了一倍，用 doubled。halved 是減半、divided 是分割、dominated 是支配，都與數據方向不符。",
+    "vocab": [
+      {
+        "w": "double",
+        "zh": "變成兩倍",
+        "pos": "v."
+      },
+      {
+        "w": "population",
+        "zh": "人口",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0112",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Electricity use reaches its ____ at about seven in the evening, when most families cook and switch on heaters.",
+    "options": [
+      "peek",
+      "pick",
+      "pack",
+      "peak"
+    ],
+    "answer": 3,
+    "explain_zh": "用電量最高點是 peak（高峰），reach its peak 是固定說法。peek 是偷看、pick 是挑選、pack 是打包，發音或拼字相近但意思不同。",
+    "vocab": [
+      {
+        "w": "peak",
+        "zh": "高峰、頂點",
+        "pos": "n."
+      },
+      {
+        "w": "heater",
+        "zh": "暖氣機",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0113",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Unemployment remained ____ at around five percent for three years before the pandemic changed everything.",
+    "options": [
+      "stable",
+      "stability",
+      "stale",
+      "sustainable"
+    ],
+    "answer": 0,
+    "explain_zh": "remain 後面接形容詞 stable（穩定的）。stability 是名詞、stale 是「不新鮮的」、sustainable 是「永續的」，都不能描述數字持平。remain stable 是圖表常用語。",
+    "vocab": [
+      {
+        "w": "stable",
+        "zh": "穩定的",
+        "pos": "adj."
+      },
+      {
+        "w": "pandemic",
+        "zh": "全球疫情",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0114",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Waiting times in emergency departments have lengthened ____ since the hospital closed two of its wards.",
+    "options": [
+      "significant",
+      "significantly",
+      "signature",
+      "specifically"
+    ],
+    "answer": 1,
+    "explain_zh": "修飾動詞 have lengthened 要用副詞 significantly（顯著地）。significant 是形容詞、signature 是簽名、specifically 是「具體而言」，都不合。",
+    "vocab": [
+      {
+        "w": "significantly",
+        "zh": "顯著地",
+        "pos": "adv."
+      },
+      {
+        "w": "ward",
+        "zh": "病房",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0115",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The rapid ____ of the airport has brought more flights but also far more noise for nearby villages.",
+    "options": [
+      "expense",
+      "expedition",
+      "expansion",
+      "exposure"
+    ],
+    "answer": 2,
+    "explain_zh": "機場規模變大是 expansion（擴建、擴張）。expense 是費用、expedition 是探險隊、exposure 是曝光或暴露，都不會直接帶來更多航班。",
+    "vocab": [
+      {
+        "w": "expansion",
+        "zh": "擴張、擴建",
+        "pos": "n."
+      },
+      {
+        "w": "nearby",
+        "zh": "附近的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0116",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Planting native trees may ____ some of the damage caused by decades of intensive cattle farming.",
+    "options": [
+      "revive",
+      "reserve",
+      "review",
+      "reverse"
+    ],
+    "answer": 3,
+    "explain_zh": "讓損害逆轉、恢復原狀用 reverse（扭轉）。revive 是使復甦但不接 damage、reserve 是預訂或保留、review 是檢討，語意都不合。reverse the damage 是常見搭配。",
+    "vocab": [
+      {
+        "w": "reverse",
+        "zh": "扭轉、逆轉",
+        "pos": "v."
+      },
+      {
+        "w": "intensive",
+        "zh": "密集的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0117",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "There was only a ____ increase in rainfall last autumn, far too small to end the water shortage.",
+    "options": [
+      "slight",
+      "slightly",
+      "slide",
+      "sight"
+    ],
+    "answer": 0,
+    "explain_zh": "修飾名詞 increase 要用形容詞 slight（輕微的）。slightly 是副詞、slide 是滑動、sight 是視力或景象，詞性與語意都不對。a slight increase 是圖表常用語。",
+    "vocab": [
+      {
+        "w": "slight",
+        "zh": "輕微的",
+        "pos": "adj."
+      },
+      {
+        "w": "shortage",
+        "zh": "短缺",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0118",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The overall ____ was upward, although figures for individual months moved up and down quite unpredictably.",
+    "options": [
+      "trendy",
+      "trend",
+      "thread",
+      "tread"
+    ],
+    "answer": 1,
+    "explain_zh": "整體走勢是 trend（趨勢）。trendy 是形容詞「時髦的」、thread 是線或討論串、tread 是踩踏，都不能用 overall 與 upward 來描述。",
+    "vocab": [
+      {
+        "w": "trend",
+        "zh": "趨勢",
+        "pos": "n."
+      },
+      {
+        "w": "upward",
+        "zh": "向上的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0119",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Glaciers continue to ____ every summer, and several small ones have already disappeared from the mountain range.",
+    "options": [
+      "shrug",
+      "sink",
+      "shrink",
+      "shrine"
+    ],
+    "answer": 2,
+    "explain_zh": "冰河面積變小用 shrink（縮小）。shrug 是聳肩、sink 是下沉、shrine 是神龕，都不能描述冰河逐年消失。",
+    "vocab": [
+      {
+        "w": "shrink",
+        "zh": "縮小",
+        "pos": "v."
+      },
+      {
+        "w": "glacier",
+        "zh": "冰河",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0120",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "描述變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Cheap solar panels could ____ rural life, bringing light and refrigeration to villages far from any power line.",
+    "options": [
+      "transfer",
+      "transplant",
+      "transaction",
+      "transform"
+    ],
+    "answer": 3,
+    "explain_zh": "徹底改變生活樣貌用 transform。transfer 是轉移、transplant 是移植、transaction 是交易（名詞），都不能接 rural life 表示全面改變。",
+    "vocab": [
+      {
+        "w": "transform",
+        "zh": "徹底改變",
+        "pos": "v."
+      },
+      {
+        "w": "refrigeration",
+        "zh": "冷藏設備",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0121",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "Long working hours have a negative ____ on family life, leaving parents too tired to talk to their children.",
+    "options": [
+      "effect",
+      "affect",
+      "affection",
+      "effective"
+    ],
+    "answer": 0,
+    "explain_zh": "have a negative ____ on 中間要放名詞，用 effect（影響）。affect 是動詞、affection 是「情感、喜愛」、effective 是形容詞。口訣：affect 動詞、effect 名詞。",
+    "vocab": [
+      {
+        "w": "effect",
+        "zh": "影響、效果",
+        "pos": "n."
+      },
+      {
+        "w": "negative",
+        "zh": "負面的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0122",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "One ____ of the drought was that food prices in the capital rose by almost forty percent.",
+    "options": [
+      "consequently",
+      "consequence",
+      "sequence",
+      "conference"
+    ],
+    "answer": 1,
+    "explain_zh": "One ____ of... 需要名詞，consequence 是「後果」。consequently 是副詞、sequence 是順序、conference 是會議，詞性或語意都不合。",
+    "vocab": [
+      {
+        "w": "consequence",
+        "zh": "後果",
+        "pos": "n."
+      },
+      {
+        "w": "drought",
+        "zh": "乾旱",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0123",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "Heavy rain in the north ____ in serious flooding that forced thousands of families to leave their homes.",
+    "options": [
+      "caused",
+      "affected",
+      "resulted",
+      "produced"
+    ],
+    "answer": 2,
+    "explain_zh": "result in 是「導致」的固定用法，空格後有 in。caused、affected、produced 後面都直接接受詞，不能加 in。要記住 result in（導致）與 result from（起因於）方向相反。",
+    "vocab": [
+      {
+        "w": "result in",
+        "zh": "導致",
+        "pos": "v. phr."
+      },
+      {
+        "w": "flooding",
+        "zh": "淹水",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0124",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "The invention of cheap printing ____ to a sudden rise in literacy across northern Europe.",
+    "options": [
+      "lead",
+      "leads",
+      "leading",
+      "led"
+    ],
+    "answer": 3,
+    "explain_zh": "句子在講歷史，要用過去式 led，lead to 是「導致」。lead 與 leads 是現在式、leading 是現在分詞，時態或形式都不對。",
+    "vocab": [
+      {
+        "w": "lead to",
+        "zh": "導致",
+        "pos": "v. phr."
+      },
+      {
+        "w": "invention",
+        "zh": "發明",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0125",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "A small earthquake can ____ a landslide if the soil on the hillside is already soaked with rain.",
+    "options": [
+      "trigger",
+      "trace",
+      "trap",
+      "trail"
+    ],
+    "answer": 0,
+    "explain_zh": "引發、觸發某事用 trigger。trace 是追溯、trap 是困住、trail 是小徑或尾隨，都不能表示「引起山崩」。",
+    "vocab": [
+      {
+        "w": "trigger",
+        "zh": "引發、觸發",
+        "pos": "v."
+      },
+      {
+        "w": "landslide",
+        "zh": "山崩",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0126",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "The bridge was unsafe and was ____ closed to lorries until engineers had finished the repair work.",
+    "options": [
+      "however",
+      "therefore",
+      "although",
+      "whereas"
+    ],
+    "answer": 1,
+    "explain_zh": "前後是因果關係（不安全→封閉），要用 therefore（因此）。however、although、whereas 都表示對比或轉折，語意方向不對。",
+    "vocab": [
+      {
+        "w": "therefore",
+        "zh": "因此",
+        "pos": "adv."
+      },
+      {
+        "w": "lorry",
+        "zh": "貨車",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0127",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "Historians ____ the city's rapid decline to the collapse of the silk trade in the sixteenth century.",
+    "options": [
+      "contribute",
+      "distribute",
+      "attribute",
+      "tribute"
+    ],
+    "answer": 2,
+    "explain_zh": "attribute A to B 是「把 A 歸因於 B」。contribute to 是「促成」但方向相反且不能接受詞 decline 再接 to、distribute 是分配、tribute 是名詞「致敬」。",
+    "vocab": [
+      {
+        "w": "attribute A to B",
+        "zh": "把A歸因於B",
+        "pos": "v. phr."
+      },
+      {
+        "w": "collapse",
+        "zh": "崩潰、瓦解",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0128",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "Burning fossil fuels in power stations ____ more to climate change than any other single human activity.",
+    "options": [
+      "consumes",
+      "confirms",
+      "conducts",
+      "contributes"
+    ],
+    "answer": 3,
+    "explain_zh": "contribute to 是「造成、促成」，後面有 to 正好搭配。consumes、confirms、conducts 後面都不接 to 表示「促成」，語意也不合。",
+    "vocab": [
+      {
+        "w": "contribute to",
+        "zh": "促成、造成",
+        "pos": "v. phr."
+      },
+      {
+        "w": "fossil fuel",
+        "zh": "化石燃料",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0129",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "The closure of the factory had a lasting ____ on the town, which never fully recovered its former prosperity.",
+    "options": [
+      "impact",
+      "import",
+      "impulse",
+      "implant"
+    ],
+    "answer": 0,
+    "explain_zh": "have an impact on 是「對……有影響」。import 是進口、impulse 是衝動、implant 是植入物，都不能用在這個固定句型裡。",
+    "vocab": [
+      {
+        "w": "impact",
+        "zh": "衝擊、影響",
+        "pos": "n."
+      },
+      {
+        "w": "prosperity",
+        "zh": "繁榮",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0130",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many of the region's problems ____ from a shortage of clean water rather than from a lack of money.",
+    "options": [
+      "stand",
+      "stem",
+      "stick",
+      "steam"
+    ],
+    "answer": 1,
+    "explain_zh": "stem from 是「源自於」。stand 是站立、stick 是黏住（stick to 是堅持）、steam 是蒸氣，後面接 from 都不能表示起因。",
+    "vocab": [
+      {
+        "w": "stem from",
+        "zh": "源自於",
+        "pos": "v. phr."
+      },
+      {
+        "w": "shortage",
+        "zh": "短缺",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0131",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "Fuel became scarce; ____, the price of almost every imported product doubled within a few months.",
+    "options": [
+      "consequent",
+      "consequence",
+      "consequently",
+      "conveniently"
+    ],
+    "answer": 2,
+    "explain_zh": "分號後面要副詞連接結果，用 consequently（因此）。consequent 是形容詞、consequence 是名詞、conveniently 是「方便地」，詞性或語意都不合。",
+    "vocab": [
+      {
+        "w": "consequently",
+        "zh": "因此",
+        "pos": "adv."
+      },
+      {
+        "w": "scarce",
+        "zh": "稀少的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0132",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "Careless drivers are ____ for most of the accidents that happen on this narrow mountain road.",
+    "options": [
+      "response",
+      "responsive",
+      "respectable",
+      "responsible"
+    ],
+    "answer": 3,
+    "explain_zh": "be responsible for 是「對……負責、造成」。response 是名詞、responsive 是「反應靈敏的」、respectable 是「體面的」，都不能接 for 表示肇因。",
+    "vocab": [
+      {
+        "w": "responsible for",
+        "zh": "造成、應對……負責",
+        "pos": "adj. phr."
+      },
+      {
+        "w": "careless",
+        "zh": "粗心的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0133",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "Serious problems ____ when governments introduce new rules without explaining them clearly to the public.",
+    "options": [
+      "arise",
+      "arouse",
+      "raise",
+      "arrive"
+    ],
+    "answer": 0,
+    "explain_zh": "問題「產生、出現」用不及物動詞 arise。arouse 與 raise 都是及物動詞，後面必須接受詞；arrive 是抵達，不能用在 problems 上。",
+    "vocab": [
+      {
+        "w": "arise",
+        "zh": "發生、產生",
+        "pos": "v."
+      },
+      {
+        "w": "introduce",
+        "zh": "推行",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0134",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ to the strike, all trains between the two cities were cancelled for the entire weekend.",
+    "options": [
+      "Owning",
+      "Owing",
+      "Owed",
+      "Own"
+    ],
+    "answer": 1,
+    "explain_zh": "owing to 等於 because of，是「由於」。owning 是「擁有」的動名詞、owed 是欠款的過去分詞、own 是動詞或形容詞，都不能組成這個片語。",
+    "vocab": [
+      {
+        "w": "owing to",
+        "zh": "由於",
+        "pos": "prep. phr."
+      },
+      {
+        "w": "strike",
+        "zh": "罷工",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0135",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:cause-effect",
+    "tag_zh": "因果關係",
+    "passage": null,
+    "group_id": null,
+    "stem": "The shocking documentary ____ thousands of viewers to write to their representatives about factory farming.",
+    "options": [
+      "promoted",
+      "proposed",
+      "prompted",
+      "protested"
+    ],
+    "answer": 2,
+    "explain_zh": "prompt somebody to do 是「促使某人做某事」。promoted 是推廣或升遷、proposed 是提議、protested 是抗議，都不能接 somebody to do 表示促使。",
+    "vocab": [
+      {
+        "w": "prompt",
+        "zh": "促使",
+        "pos": "v."
+      },
+      {
+        "w": "representative",
+        "zh": "民意代表",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0136",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Before writing the essay, you should ____ the question carefully and decide exactly what the examiner wants.",
+    "options": [
+      "analysis",
+      "analyst",
+      "analytical",
+      "analyse"
+    ],
+    "answer": 3,
+    "explain_zh": "should 後面要接原形動詞 analyse（分析）。analysis 是名詞、analyst 是分析師、analytical 是形容詞，詞性都不對。美式拼法寫作 analyze。",
+    "vocab": [
+      {
+        "w": "analyse",
+        "zh": "分析",
+        "pos": "v."
+      },
+      {
+        "w": "examiner",
+        "zh": "主考官",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0137",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The experiment was designed to ____ that plants grow faster when they receive a longer period of light.",
+    "options": [
+      "demonstrate",
+      "demonstration",
+      "dominate",
+      "demolish"
+    ],
+    "answer": 0,
+    "explain_zh": "實驗要「證明」某個結論，用 demonstrate 並可接 that 子句。demonstration 是名詞、dominate 是支配、demolish 是拆除，都不能接 that 子句表示證明。",
+    "vocab": [
+      {
+        "w": "demonstrate",
+        "zh": "證明、展示",
+        "pos": "v."
+      },
+      {
+        "w": "experiment",
+        "zh": "實驗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0138",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The figures ____ that younger drivers are involved in far more accidents than those aged over fifty.",
+    "options": [
+      "indicator",
+      "indicate",
+      "indict",
+      "dedicate"
+    ],
+    "answer": 1,
+    "explain_zh": "數據「顯示」某事用 indicate，後接 that 子句。indicator 是名詞「指標」、indict 是起訴、dedicate 是奉獻，語意或詞性都不合。",
+    "vocab": [
+      {
+        "w": "indicate",
+        "zh": "顯示、指出",
+        "pos": "v."
+      },
+      {
+        "w": "figures",
+        "zh": "數據",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0139",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Researchers cannot simply ____ that the pattern found in one country applies everywhere else in the world.",
+    "options": [
+      "assure",
+      "resume",
+      "assume",
+      "consume"
+    ],
+    "answer": 2,
+    "explain_zh": "未經證實就認定用 assume（假定）。assure 是向某人保證（要接人）、resume 是恢復、consume 是消耗，都不能接 that 子句表示「想當然耳」。",
+    "vocab": [
+      {
+        "w": "assume",
+        "zh": "假定、認定",
+        "pos": "v."
+      },
+      {
+        "w": "pattern",
+        "zh": "模式",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0140",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Students are asked to ____ two competing theories and explain which one the evidence supports more strongly.",
+    "options": [
+      "evacuate",
+      "elevate",
+      "evaluation",
+      "evaluate"
+    ],
+    "answer": 3,
+    "explain_zh": "衡量、評估理論用 evaluate。evacuate 是疏散、elevate 是提升高度、evaluation 是名詞，放在 to 後面當原形動詞也不對。",
+    "vocab": [
+      {
+        "w": "evaluate",
+        "zh": "評估、評價",
+        "pos": "v."
+      },
+      {
+        "w": "evidence",
+        "zh": "證據",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0141",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The chart below is used to ____ how household spending changed during the first year of the recession.",
+    "options": [
+      "illustrate",
+      "illustration",
+      "frustrate",
+      "illuminate"
+    ],
+    "answer": 0,
+    "explain_zh": "用圖表「說明」某現象是 illustrate。illustration 是名詞、frustrate 是使受挫、illuminate 是照亮，都不能接 how 子句表示圖表說明。",
+    "vocab": [
+      {
+        "w": "illustrate",
+        "zh": "說明、圖解",
+        "pos": "v."
+      },
+      {
+        "w": "recession",
+        "zh": "經濟衰退",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0142",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is important to ____ your key terms early, because readers may understand them in different ways.",
+    "options": [
+      "defend",
+      "define",
+      "refine",
+      "confine"
+    ],
+    "answer": 1,
+    "explain_zh": "為名詞下定義用 define。defend 是辯護、refine 是精煉或改良、confine 是限制，都不能解釋「避免讀者理解不同」。名詞是 definition。",
+    "vocab": [
+      {
+        "w": "define",
+        "zh": "定義",
+        "pos": "v."
+      },
+      {
+        "w": "term",
+        "zh": "術語",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0143",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "In the final paragraph you should ____ your main points without introducing any new evidence or examples.",
+    "options": [
+      "summary",
+      "surmise",
+      "summarise",
+      "supervise"
+    ],
+    "answer": 2,
+    "explain_zh": "should 後接原形動詞 summarise（總結）。summary 是名詞、surmise 是推測、supervise 是監督，詞性或語意都不合。美式拼法為 summarize。",
+    "vocab": [
+      {
+        "w": "summarise",
+        "zh": "總結、摘要",
+        "pos": "v."
+      },
+      {
+        "w": "paragraph",
+        "zh": "段落",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0144",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Scientists ____ that the ice sheet has lost more than two hundred billion tonnes of mass annually.",
+    "options": [
+      "estimation",
+      "eliminate",
+      "intimate",
+      "estimate"
+    ],
+    "answer": 3,
+    "explain_zh": "科學家「估計」用動詞 estimate，後接 that 子句。estimation 是名詞、eliminate 是消除、intimate 是親密的，都不能當本句主要動詞表示估算。",
+    "vocab": [
+      {
+        "w": "estimate",
+        "zh": "估計",
+        "pos": "v."
+      },
+      {
+        "w": "ice sheet",
+        "zh": "冰原",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0145",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The team plans to ____ a survey of five thousand households before publishing any firm conclusions.",
+    "options": [
+      "conduct",
+      "conductor",
+      "conclude",
+      "construct"
+    ],
+    "answer": 0,
+    "explain_zh": "做調查、執行研究用 conduct a survey。conductor 是指揮或車掌、conclude 是下結論、construct 是建造，都不能和 a survey 搭配。",
+    "vocab": [
+      {
+        "w": "conduct",
+        "zh": "執行、進行",
+        "pos": "v."
+      },
+      {
+        "w": "survey",
+        "zh": "調查",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0146",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Interviews with former employees ____ that the safety warnings had been ignored for at least three years.",
+    "options": [
+      "recall",
+      "reveal",
+      "repeal",
+      "relieve"
+    ],
+    "answer": 1,
+    "explain_zh": "揭露原本不為人知的事用 reveal。recall 是回想或召回、repeal 是廢除法令、relieve 是減輕，都不能接 that 子句表示揭露真相。",
+    "vocab": [
+      {
+        "w": "reveal",
+        "zh": "揭露",
+        "pos": "v."
+      },
+      {
+        "w": "former",
+        "zh": "先前的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0147",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Inspectors visit each school every four years to ____ the quality of teaching and the progress of pupils.",
+    "options": [
+      "access",
+      "asset",
+      "assess",
+      "assist"
+    ],
+    "answer": 2,
+    "explain_zh": "評鑑教學品質用 assess（評估）。access 當動詞是「存取」、asset 是名詞「資產」、assist 是協助，語意都不合。assess 與 access 只差一個字母。",
+    "vocab": [
+      {
+        "w": "assess",
+        "zh": "評估、評鑑",
+        "pos": "v."
+      },
+      {
+        "w": "inspector",
+        "zh": "督學、檢查員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0148",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The professor wanted to ____ that reading widely matters far more than memorising a list of definitions.",
+    "options": [
+      "emphasis",
+      "empathise",
+      "emphatic",
+      "emphasise"
+    ],
+    "answer": 3,
+    "explain_zh": "強調某個重點用動詞 emphasise。emphasis 是名詞、empathise 是「有同理心」（接 with）、emphatic 是形容詞，詞性或語意都不合。",
+    "vocab": [
+      {
+        "w": "emphasise",
+        "zh": "強調",
+        "pos": "v."
+      },
+      {
+        "w": "definition",
+        "zh": "定義",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0149",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many English words ____ from Latin, which is why they look similar to words used in Spanish.",
+    "options": [
+      "derive",
+      "deprive",
+      "drive",
+      "derivative"
+    ],
+    "answer": 0,
+    "explain_zh": "derive from 是「源自於」。deprive 是剝奪（deprive somebody of）、drive 是駕駛或驅使、derivative 是名詞或形容詞，都不能接 from 表示字源。",
+    "vocab": [
+      {
+        "w": "derive from",
+        "zh": "源自於",
+        "pos": "v. phr."
+      },
+      {
+        "w": "Latin",
+        "zh": "拉丁文",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "HV1-0150",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The author does not say this directly, but the final sentence seems to ____ that the policy failed.",
+    "options": [
+      "apply",
+      "imply",
+      "reply",
+      "employ"
+    ],
+    "answer": 1,
+    "explain_zh": "沒有明說卻讓人推得出來，用 imply（暗示）。apply 是申請或應用、reply 是回覆、employ 是僱用，都不能接 that 子句表示言外之意。名詞是 implication。",
+    "vocab": [
+      {
+        "w": "imply",
+        "zh": "暗示",
+        "pos": "v."
+      },
+      {
+        "w": "policy",
+        "zh": "政策",
+        "pos": "n."
+      }
+    ]
+  }
+]

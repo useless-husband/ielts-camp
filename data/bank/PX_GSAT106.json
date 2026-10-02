@@ -1,0 +1,1444 @@
+[
+ {
+  "id": "PX-GSAT106-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:daily-life",
+  "tag_zh": "生活用品",
+  "stem": "John's clock is not functioning ____. The alarm rings even when it's not set to go off.",
+  "options": [
+   "tenderly",
+   "properly",
+   "solidly",
+   "favorably"
+  ],
+  "answer": 1,
+  "explain_zh": "鬧鐘在沒設定的情況下自己響，表示運作「不正常」，故選 properly（正常地）的反義搭配 not functioning properly。tenderly（溫柔地）、solidly（堅固地）、favorably（有利地）皆無法形容機器的運作狀態。function properly 是描述機器是否正常運轉的常見說法。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "properly",
+    "zh": "正常地、適當地",
+    "pos": "adv."
+   },
+   {
+    "w": "function",
+    "zh": "運作",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:education",
+  "tag_zh": "生涯發展",
+  "stem": "Michael has decided to ____ a career in physics and has set his mind on becoming a professor.",
+  "options": [
+   "pursue",
+   "swear",
+   "reserve",
+   "draft"
+  ],
+  "answer": 0,
+  "explain_zh": "麥可下定決心要「追求」物理學術生涯並立志當教授，pursue a career 是固定搭配，故選 pursue。swear（發誓）、reserve（保留）、draft（起草）皆無法與 a career 搭配出「追求生涯」的語意。pursue 常用於描述追求夢想、目標或職業。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "pursue",
+    "zh": "追求",
+    "pos": "v."
+   },
+   {
+    "w": "career",
+    "zh": "生涯、職業",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:travel",
+  "tag_zh": "地理環境",
+  "stem": "Peter plans to hike in a ____ part of Africa, where he might not meet another human being for days.",
+  "options": [
+   "native",
+   "tricky",
+   "remote",
+   "vacant"
+  ],
+  "answer": 2,
+  "explain_zh": "彼得計畫去非洲一處可能連續好幾天遇不到人的「偏遠」地區健行，故選 remote。native 指「本土的」、tricky 指「棘手的」、vacant 指「空缺的」，皆無法形容「人煙稀少的偏遠地帶」。remote area 是常見的地理描述用語。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "remote",
+    "zh": "偏遠的",
+    "pos": "adj."
+   },
+   {
+    "w": "hike",
+    "zh": "健行",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "社會認同",
+  "stem": "People in this community tend to ____ with the group they belong to, and often put group interests before personal ones.",
+  "options": [
+   "appoint",
+   "eliminate",
+   "occupy",
+   "identify"
+  ],
+  "answer": 3,
+  "explain_zh": "這個社區的人傾向與所屬群體「認同一致」，常把團體利益放在個人利益之前，identify with 表示「認同」，故選 identify。appoint（指派）、eliminate（消除）、occupy（占據）皆無法與 with the group 搭配出「認同」的語意。identify with 是描述歸屬感的常見片語。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "identify with",
+    "zh": "認同",
+    "pos": "phr."
+   },
+   {
+    "w": "interest",
+    "zh": "利益",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:emotion",
+  "tag_zh": "情緒感受",
+  "stem": "I mistook the man for a well-known actor and asked for his autograph; it was really ____.",
+  "options": [
+   "relaxing",
+   "embarrassing",
+   "appealing",
+   "defending"
+  ],
+  "answer": 1,
+  "explain_zh": "說話者誤認陌生人為知名演員並開口要簽名，事後發現認錯人讓自己覺得「尷尬」，故選 embarrassing。relaxing（放鬆的）、appealing（吸引人的）、defending（防禦的）皆與「認錯人的窘境」不符。embarrassing 常用來形容令人難堪的情境。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "embarrassing",
+    "zh": "令人尷尬的",
+    "pos": "adj."
+   },
+   {
+    "w": "autograph",
+    "zh": "簽名",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "生活理財",
+  "stem": "After spending most of her salary on rent and food, Amelia ____ had any money left for entertainment and other expenses.",
+  "options": [
+   "barely",
+   "fairly",
+   "merely",
+   "readily"
+  ],
+  "answer": 0,
+  "explain_zh": "艾蜜莉亞把大部分薪水花在房租與食物上，導致她「幾乎沒有」剩餘的錢可以娛樂或做其他花費，故選 barely。fairly（相當地）、merely（僅僅）、readily（欣然地）皆無法表達「幾乎不、勉強」的語意。barely 常用於描述勉強達到某狀態或幾乎沒有的情況。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "barely",
+    "zh": "幾乎不",
+    "pos": "adv."
+   },
+   {
+    "w": "expense",
+    "zh": "花費",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:travel",
+  "tag_zh": "神秘現象",
+  "stem": "In the Bermuda Triangle, a region in the western part of the North Atlantic Ocean, some airplanes and ships were reported to have mysteriously disappeared without a ____.",
+  "options": [
+   "guide",
+   "trace",
+   "code",
+   "print"
+  ],
+  "answer": 1,
+  "explain_zh": "百慕達三角洲傳說中飛機和船隻神秘消失得「無影無蹤」，without a trace 是固定搭配，故選 trace。guide（嚮導）、code（密碼）、print（印刷、痕跡但用法不同）皆無法與 without a 搭配出此固定用語。disappear without a trace 常用來描述人事物憑空消失。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "trace",
+    "zh": "蹤跡",
+    "pos": "n."
+   },
+   {
+    "w": "mysteriously",
+    "zh": "神秘地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "商業招攬",
+  "stem": "Shouting greetings and waving a big sign, Tony ____ the passing shoppers to visit his shop and buy the freshly baked bread.",
+  "options": [
+   "accessed",
+   "edited",
+   "imposed",
+   "urged"
+  ],
+  "answer": 3,
+  "explain_zh": "湯尼大聲吆喝、揮舞大招牌，「力勸」路過的顧客進店買剛出爐的麵包，故選 urged。accessed（存取）、edited（編輯）、imposed（強加）皆無法形容「招攬顧客」的動作語意。urge sb to V 是常見句型，表示極力勸說某人做某事。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "urge",
+    "zh": "力勸、敦促",
+    "pos": "v."
+   },
+   {
+    "w": "passing",
+    "zh": "路過的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:art",
+  "tag_zh": "藝術創作",
+  "stem": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing ____ with its fine soft sand.",
+  "options": [
+   "constitutions",
+   "objections",
+   "sculptures",
+   "adventures"
+  ],
+  "answer": 2,
+  "explain_zh": "這片黃金沙灘每年夏天吸引各國藝術家前來，用細軟的沙子創作出驚人的「雕塑」，故選 sculptures。constitutions（憲法）、objections（反對）、adventures（冒險）皆與「用沙子創作藝術品」的語意無關。sand sculpture（沙雕）是常見的海灘藝術活動。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "sculpture",
+    "zh": "雕塑",
+    "pos": "n."
+   },
+   {
+    "w": "stretch",
+    "zh": "一片、一段",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:nature",
+  "tag_zh": "自然景象",
+  "stem": "The clouds parted and a ____ of light fell on the church, through the windows, and onto the floor.",
+  "options": [
+   "dip",
+   "beam",
+   "spark",
+   "path"
+  ],
+  "answer": 1,
+  "explain_zh": "雲層散開後，一「道」光線穿過窗戶灑落在教堂地板上，a beam of light 是固定搭配，故選 beam。dip（下陷、浸泡）、spark（火花）、path（路徑）皆無法與 of light 搭配出此固定用法。beam 專指一道光束，常用於描述陽光穿透的畫面。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "beam",
+    "zh": "光束、一道光",
+    "pos": "n."
+   },
+   {
+    "w": "part",
+    "zh": "分開",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:family",
+  "tag_zh": "家庭互動",
+  "stem": "Instead of a gift, Tim's grandmother always ____ some money in the birthday card she gave him.",
+  "options": [
+   "enclosed",
+   "installed",
+   "preserved",
+   "rewarded"
+  ],
+  "answer": 0,
+  "explain_zh": "提姆的祖母沒有送禮物，而是總把一些錢「附在」給他的生日卡片裡，故選 enclosed。installed（安裝）、preserved（保存）、rewarded（獎賞）皆無法與 in the birthday card 搭配出「附在信件中」的語意。enclose 常用於描述信件或包裹中附帶的物品。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "enclose",
+    "zh": "附在（信件中）",
+    "pos": "v."
+   },
+   {
+    "w": "instead of",
+    "zh": "取代、而非",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:sports",
+  "tag_zh": "體育競賽",
+  "stem": "While winning a gold ____ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+  "options": [
+   "signal",
+   "glory",
+   "medal",
+   "profit"
+  ],
+  "answer": 2,
+  "explain_zh": "每位奧運選手都夢想贏得金「牌」，gold medal 是固定搭配，故選 medal。signal（訊號）、glory（榮耀，語意接近但不能與 gold 直接搭配出「獎牌」的具體物品）、profit（利益）皆不符合此語境。若靠作弊獲得，這面獎牌就毫無意義。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "medal",
+    "zh": "獎牌",
+    "pos": "n."
+   },
+   {
+    "w": "cheating",
+    "zh": "作弊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "犯罪案件",
+  "stem": "The thief went into the apartment building and stole some jewelry. He then ____ himself as a security guard and walked out the front gate.",
+  "options": [
+   "balanced",
+   "calculated",
+   "disguised",
+   "registered"
+  ],
+  "answer": 2,
+  "explain_zh": "小偷偷走珠寶後，把自己「偽裝」成保全走出大門，disguise oneself as 表示喬裝成某身分，故選 disguised。balanced（平衡）、calculated（計算）、registered（登記）皆無法與 himself as 搭配出「偽裝成」的語意。disguise 常用於描述喬裝掩飾身分的行為。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "disguise",
+    "zh": "偽裝",
+    "pos": "v."
+   },
+   {
+    "w": "jewelry",
+    "zh": "珠寶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:safety",
+  "tag_zh": "安全提醒",
+  "stem": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be ____ of possible dangers in the environment.",
+  "options": [
+   "aware",
+   "ashamed",
+   "doubtful",
+   "guilty"
+  ],
+  "answer": 0,
+  "explain_zh": "因為玩 Pokémon GO 發生多起意外，玩家被提醒要「留意」環境中可能的危險，be aware of 是固定搭配，故選 aware。ashamed（羞愧的）、doubtful（懷疑的）、guilty（有罪惡感的）皆與「留意危險」的語意不符。aware of 常用於安全提醒的句子中。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "aware",
+    "zh": "留意、意識到的",
+    "pos": "adj."
+   },
+   {
+    "w": "numerous",
+    "zh": "眾多的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:art",
+  "tag_zh": "文學人物",
+  "stem": "Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of ____ and his knowledge of trivial facts.",
+  "options": [
+   "innocence",
+   "estimation",
+   "assurance",
+   "observation"
+  ],
+  "answer": 3,
+  "explain_zh": "福爾摩斯以過人的「觀察」力與對瑣碎知識的掌握聞名，故選 observation。innocence（清白）、estimation（估計）、assurance（保證）皆無法形容偵探破案時運用的能力。powers of observation 是描述敏銳觀察力的常見說法。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "observation",
+    "zh": "觀察",
+    "pos": "n."
+   },
+   {
+    "w": "trivial",
+    "zh": "瑣碎的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "片語動詞",
+  "passage": "You begin to notice a bit of pain on your eyelid each time you blink. You (16) the mirror to find a tiny red spot on the base of your lower lashes. These (17) are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily (18) to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n(19) a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth (20) your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+  "group_id": "PX-GSAT106-G01",
+  "stem": "(16) 應填入：You ____ the mirror to find a tiny red spot on the base of your lower lashes.",
+  "options": [
+   "check out",
+   "look into",
+   "watch over",
+   "see through"
+  ],
+  "answer": 1,
+  "explain_zh": "眼皮不舒服時，人會拿鏡子「仔細查看」下睫毛根部是否有紅點，look into 表示深入查看，故選 look into。check out（瀏覽、查看，語氣較輕）、watch over（看顧）、see through（看穿）皆不符合「湊近鏡子檢查」的動作情境。look into 常用於仔細檢視某狀況。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "look into",
+    "zh": "仔細查看",
+    "pos": "phr."
+   },
+   {
+    "w": "lash",
+    "zh": "睫毛",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "You begin to notice a bit of pain on your eyelid each time you blink. You (16) the mirror to find a tiny red spot on the base of your lower lashes. These (17) are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily (18) to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n(19) a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth (20) your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+  "group_id": "PX-GSAT106-G01",
+  "stem": "(17) 應填入：These ____ are probably the beginning of an eye stye.",
+  "options": [
+   "incidents",
+   "measures",
+   "symptoms",
+   "explanations"
+  ],
+  "answer": 2,
+  "explain_zh": "紅腫刺痛的小紅點正是針眼發作前的「症狀」，故選 symptoms。incidents（事件）、measures（措施）、explanations（解釋）皆無法形容身體上出現的病徵。symptom 是醫學情境中常見的字，指疾病顯現的徵兆。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "symptom",
+    "zh": "症狀",
+    "pos": "n."
+   },
+   {
+    "w": "stye",
+    "zh": "針眼",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "You begin to notice a bit of pain on your eyelid each time you blink. You (16) the mirror to find a tiny red spot on the base of your lower lashes. These (17) are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily (18) to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n(19) a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth (20) your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+  "group_id": "PX-GSAT106-G01",
+  "stem": "(18) 應填入：These bacteria are found in the nose and are easily ____ to the eye when you rub your nose, then your eye.",
+  "options": [
+   "attracted",
+   "contributed",
+   "exposed",
+   "transferred"
+  ],
+  "answer": 3,
+  "explain_zh": "揉完鼻子又揉眼睛，鼻腔內的細菌就容易被「轉移」到眼睛而引發感染，故選 transferred。attracted（被吸引）、contributed（貢獻）、exposed（暴露）皆無法準確表達「細菌從一處轉移到另一處」的動作。transfer A to B 常用於描述物質或病菌的傳遞。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "transfer",
+    "zh": "轉移",
+    "pos": "v."
+   },
+   {
+    "w": "bacteria",
+    "zh": "細菌",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "讓步連接詞",
+  "passage": "You begin to notice a bit of pain on your eyelid each time you blink. You (16) the mirror to find a tiny red spot on the base of your lower lashes. These (17) are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily (18) to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n(19) a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth (20) your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+  "group_id": "PX-GSAT106-G01",
+  "stem": "(19) 應填入：____ a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems.",
+  "options": [
+   "As",
+   "If",
+   "Unless",
+   "Although"
+  ],
+  "answer": 3,
+  "explain_zh": "前後句意為「雖然針眼外觀不佳，但通常無害」，屬於讓步關係，故選 Although。As（因為、當……時）、If（如果）、Unless（除非）皆無法表達「雖然……但是」的讓步語氣，與後句轉折不合。Although 是常考的讓步連接詞。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "although",
+    "zh": "雖然",
+    "pos": "conj."
+   },
+   {
+    "w": "unpleasant",
+    "zh": "令人不快的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定介系詞搭配",
+  "passage": "You begin to notice a bit of pain on your eyelid each time you blink. You (16) the mirror to find a tiny red spot on the base of your lower lashes. These (17) are probably the beginning of an eye stye. An eye stye is a small bump, resembling a pimple, that develops when an oil gland at the edge of an eyelid becomes infected by bacteria. These bacteria are found in the nose and are easily (18) to the eye when you rub your nose, then your eye. Pus will build up in the center of the stye, causing a yellowish spot. Usually a stye is accompanied by a swollen eye.\n(19) a stye can look unpleasant at times, it is usually harmless and doesn't cause vision problems. Most styes heal on their own within a few days. You might speed up healing time by gently pressing a warm washcloth (20) your eyelid for 10 minutes, 3 or 4 times a day. Make sure you don't squeeze or pop a stye like you would a pimple. Doing so may cause a severe eye infection.",
+  "group_id": "PX-GSAT106-G01",
+  "stem": "(20) 應填入：You might speed up healing time by gently pressing a warm washcloth ____ your eyelid.",
+  "options": [
+   "against",
+   "among",
+   "about",
+   "after"
+  ],
+  "answer": 0,
+  "explain_zh": "用溫熱毛巾輕輕「敷貼在」眼皮上可加速癒合，press against 表示按壓貼緊，故選 against。among（在……之中）、about（大約、關於）、after（在……之後）皆無法與 press 搭配出「貼緊」的語意。press A against B 是描述物體緊貼的常見搭配。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "against",
+    "zh": "緊貼、抵住",
+    "pos": "prep."
+   },
+   {
+    "w": "washcloth",
+    "zh": "毛巾",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-021",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定片語",
+  "passage": "Shoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, (21) shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to (22) with shoes that are too small.\nThe Shoe That Grows, created by a charity called Because International, changes all this. It allows children to (23) their shoes' size as their feet grow.\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come (24) two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, (25) the two on either side allow for different widths. With this special design, the shoes can “grow” up to five sizes and last for at least five years.",
+  "group_id": "PX-GSAT106-G02",
+  "stem": "(21) 應填入：Shoes are not always readily available for people living in poverty, ____ shoes that are the right size.",
+  "options": [
+   "except for",
+   "provided with",
+   "far from",
+   "let alone"
+  ],
+  "answer": 3,
+  "explain_zh": "貧窮地區的人連基本的鞋子都不容易取得，「更別說」合腳尺寸的鞋子了，let alone 表示「更不用說」，故選 let alone。except for（除了）、provided with（備有）、far from（遠非）皆無法表達「程度遞進的否定」語氣。let alone 常用於強調前面已提到的困難程度更甚於後者。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "let alone",
+    "zh": "更別說",
+    "pos": "phr."
+   },
+   {
+    "w": "poverty",
+    "zh": "貧窮",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-022",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "片語動詞",
+  "passage": "Shoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, (21) shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to (22) with shoes that are too small.\nThe Shoe That Grows, created by a charity called Because International, changes all this. It allows children to (23) their shoes' size as their feet grow.\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come (24) two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, (25) the two on either side allow for different widths. With this special design, the shoes can “grow” up to five sizes and last for at least five years.",
+  "group_id": "PX-GSAT106-G02",
+  "stem": "(22) 應填入：Then the child has to ____ with shoes that are too small.",
+  "options": [
+   "get done",
+   "get lost",
+   "make do",
+   "make believe"
+  ],
+  "answer": 2,
+  "explain_zh": "鞋子穿不下後，孩子只能「將就」穿著太小的鞋子，make do with 表示勉強應付、將就使用，故選 make do。get done（完成）、get lost（迷路）、make believe（假裝）皆無法與 with shoes 搭配出「將就穿」的語意。make do with 是描述資源不足時勉強應付的常見片語。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "make do",
+    "zh": "將就",
+    "pos": "phr."
+   },
+   {
+    "w": "grow out of",
+    "zh": "長大而穿不下",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-023",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Shoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, (21) shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to (22) with shoes that are too small.\nThe Shoe That Grows, created by a charity called Because International, changes all this. It allows children to (23) their shoes' size as their feet grow.\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come (24) two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, (25) the two on either side allow for different widths. With this special design, the shoes can “grow” up to five sizes and last for at least five years.",
+  "group_id": "PX-GSAT106-G02",
+  "stem": "(23) 應填入：It allows children to ____ their shoes' size as their feet grow.",
+  "options": [
+   "adjust",
+   "explore",
+   "insert",
+   "overlook"
+  ],
+  "answer": 0,
+  "explain_zh": "這款鞋子讓孩童能隨著腳掌成長「調整」尺寸，故選 adjust。explore（探索）、insert（插入）、overlook（俯瞰、忽略）皆無法形容「調整鞋子大小」的動作。adjust 常用於描述依據需求調節尺寸、設定等。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "adjust",
+    "zh": "調整",
+    "pos": "v."
+   },
+   {
+    "w": "innovative",
+    "zh": "創新的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-024",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定搭配 come in",
+  "passage": "Shoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, (21) shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to (22) with shoes that are too small.\nThe Shoe That Grows, created by a charity called Because International, changes all this. It allows children to (23) their shoes' size as their feet grow.\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come (24) two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, (25) the two on either side allow for different widths. With this special design, the shoes can “grow” up to five sizes and last for at least five years.",
+  "group_id": "PX-GSAT106-G02",
+  "stem": "(24) 應填入：They come ____ two sizes, and can expand in three places.",
+  "options": [
+   "by",
+   "in",
+   "from",
+   "down"
+  ],
+  "answer": 1,
+  "explain_zh": "這款鞋「有」兩種尺寸可供選擇，come in + 尺寸/顏色/款式 是固定搭配，表示「有……款式」，故選 in。by、from、down 皆無法與 come 搭配出此固定用語。come in two sizes 常用於商品介紹的描述句。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "come in",
+    "zh": "有（某款式、尺寸）",
+    "pos": "phr."
+   },
+   {
+    "w": "expand",
+    "zh": "擴張",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-025",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "對比連接詞",
+  "passage": "Shoes are hugely important for protecting our feet, especially in places like Africa, where healthcare provision is limited. Unfortunately, shoes are not always readily available for people living in poverty, (21) shoes that are the right size. Almost as soon as a child receives shoes to wear, he/she is likely to have grown out of them. Then the child has to (22) with shoes that are too small.\nThe Shoe That Grows, created by a charity called Because International, changes all this. It allows children to (23) their shoes' size as their feet grow.\nThe innovative footwear resembles a common sandal and is made of leather straps and rubber soles, a material similar to that used in tires. They come (24) two sizes, and can expand in three places. The straps on the heel and toe control the length of the shoe, (25) the two on either side allow for different widths. With this special design, the shoes can “grow” up to five sizes and last for at least five years.",
+  "group_id": "PX-GSAT106-G02",
+  "stem": "(25) 應填入：The straps on the heel and toe control the length of the shoe, ____ the two on either side allow for different widths.",
+  "options": [
+   "whether",
+   "while",
+   "with",
+   "for"
+  ],
+  "answer": 1,
+  "explain_zh": "前句說腳跟與腳尖的鞋帶控制長度，後句說兩側的鞋帶控制寬度，兩者功能不同、形成對照，while 表示「而」的對比連接，故選 while。whether（是否）、with（與）、for（因為）皆無法表達此種並列對比的語意。while 常用於連接兩個對照的子句。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "while",
+    "zh": "而（表對比）",
+    "pos": "conj."
+   },
+   {
+    "w": "strap",
+    "zh": "帶子",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-026",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "因果連接詞",
+  "passage": "Research has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. (26), many people believe that bad weather can reduce productivity and efficiency.\nThere is, however, a significant (27) between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments (28) observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could (29) outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus (30) their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+  "group_id": "PX-GSAT106-G03",
+  "stem": "(26) 應填入：____, many people believe that bad weather can reduce productivity and efficiency.",
+  "options": [
+   "At most",
+   "In contrast",
+   "Literally",
+   "Accordingly"
+  ],
+  "answer": 3,
+  "explain_zh": "前句說明壞天氣會帶來焦慮與疲憊，「因此」許多人認為壞天氣會降低工作效率，故選 Accordingly，表示因果關係的承接。At most（頂多）、In contrast（相反地）、Literally（照字面地）皆無法表達「因此」的推論邏輯。Accordingly 常用於連接原因與其導致的普遍看法。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "accordingly",
+    "zh": "因此",
+    "pos": "adv."
+   },
+   {
+    "w": "productivity",
+    "zh": "生產力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-027",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Research has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. (26), many people believe that bad weather can reduce productivity and efficiency.\nThere is, however, a significant (27) between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments (28) observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could (29) outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus (30) their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+  "group_id": "PX-GSAT106-G03",
+  "stem": "(27) 應填入：There is, however, a significant ____ between such beliefs and the actual effect of weather on people's performance at work.",
+  "options": [
+   "gap",
+   "link",
+   "clue",
+   "ratio"
+  ],
+  "answer": 0,
+  "explain_zh": "一般人的既定看法與天氣對工作表現的實際效果之間，存在明顯的「落差」，故選 gap。link（連結）、clue（線索）、ratio（比率）皆無法表達「認知與現實不符」的落差概念。gap between A and B 是常見的固定搭配，表示兩者間的差距。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "gap",
+    "zh": "落差",
+    "pos": "n."
+   },
+   {
+    "w": "performance",
+    "zh": "表現",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-028",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "對等連接",
+  "passage": "Research has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. (26), many people believe that bad weather can reduce productivity and efficiency.\nThere is, however, a significant (27) between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments (28) observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could (29) outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus (30) their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+  "group_id": "PX-GSAT106-G03",
+  "stem": "(28) 應填入：Using empirical data from laboratory experiments ____ observations of a mid-sized Japanese bank in real life.",
+  "options": [
+   "out of",
+   "as well as",
+   "in case of",
+   "due to"
+  ],
+  "answer": 1,
+  "explain_zh": "研究同時結合實驗室數據「以及」日本銀行的真實觀察資料，as well as 表示「以及、也」，用來並列兩種資料來源，故選 as well as。out of（出於）、in case of（萬一）、due to（由於）皆無法表達「並列兩項資料」的語意。as well as 常用於連接對等的補充訊息。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "as well as",
+    "zh": "以及",
+    "pos": "conj."
+   },
+   {
+    "w": "empirical",
+    "zh": "實證的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-029",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "片語動詞",
+  "passage": "Research has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. (26), many people believe that bad weather can reduce productivity and efficiency.\nThere is, however, a significant (27) between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments (28) observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could (29) outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus (30) their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+  "group_id": "PX-GSAT106-G03",
+  "stem": "(29) 應填入：Individuals tend to focus more on their work rather than thinking about activities they could ____ outside of work.",
+  "options": [
+   "break off",
+   "approve of",
+   "engage in",
+   "take over"
+  ],
+  "answer": 2,
+  "explain_zh": "天氣不好時，員工反而更專心工作，較少去想下班後可以「從事」的活動，engage in 表示參與、從事某活動，故選 engage in。break off（中斷）、approve of（贊成）、take over（接管）皆無法與 activities 搭配出「從事活動」的語意。engage in 常用於描述參與某項活動。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "engage in",
+    "zh": "從事",
+    "pos": "phr."
+   },
+   {
+    "w": "focus",
+    "zh": "專注",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-030",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "動詞搭配",
+  "passage": "Research has proven that weather plays a part in our moods: Warmer temperatures and exposure to sunshine increase positive thinking, whereas cold, rainy days bring anxiety and fatigue. (26), many people believe that bad weather can reduce productivity and efficiency.\nThere is, however, a significant (27) between such beliefs and the actual effect of weather on people's performance at work. Using empirical data from laboratory experiments (28) observations of a mid-sized Japanese bank in real life, researchers find that weather conditions indeed influence a worker's focus. When the weather is bad, individuals tend to focus more on their work rather than thinking about activities they could (29) outside of work. But photos showing outdoor activities, such as sailing on a sunny day or walking in the woods, can greatly distract workers and thus (30) their productivity. The findings conclude that workers are actually most productive when the weather is lousy—and only if nothing reminds them of good weather.",
+  "group_id": "PX-GSAT106-G03",
+  "stem": "(30) 應填入：Photos showing outdoor activities can greatly distract workers and thus ____ their productivity.",
+  "options": [
+   "reform",
+   "lower",
+   "switch",
+   "demand"
+  ],
+  "answer": 1,
+  "explain_zh": "展示戶外活動的照片會讓員工分心，進而「降低」他們的生產力，故選 lower。reform（改革）、switch（切換）、demand（要求）皆無法與 productivity 搭配出「降低」的語意。lower 作動詞使用時常見於描述數值或表現的下滑。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "lower",
+    "zh": "降低",
+    "pos": "v."
+   },
+   {
+    "w": "distract",
+    "zh": "使分心",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-041",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "段落主旨",
+  "passage": "Is your dog an Einstein or a Charmer? For US $60, a recently-founded company called Dognition will help you learn more about your dog's cognitive traits. It offers an online test telling you about the brain behind the bark.\nDognition's test measures a dog's intellect in several aspects—from empathy to memory to reasoning skills. But don't expect it to measure your pet's IQ. Dr. Hare, one of the venture's co-founders, says a dog's intelligence can't be described with a single number. Just as humans have a wide range of intelligences, so do dogs. The question is what type your dog relies on more.\nAfter you plunk your money down, Dognition's website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children? Do fireworks scare your pup? Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek. At the end, you get a report of your dog's cognitive profile.\nYour dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog. That can give you something to brag about on Dognition's Facebook page. It also can shed new light on why dogs do the things they do. For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.\nDognition helps people understand their dogs in ways that they have never been able to do. This new understanding can enrich the relationship between dogs and their owners.",
+  "group_id": "PX-GSAT106-G04",
+  "stem": "What is the third paragraph mainly about?",
+  "options": [
+   "The theory behind the questionnaire used in the Dognition test.",
+   "The procedure for evaluating a dog's intellect on Dognition.",
+   "The products one can get by paying a fee to Dognition.",
+   "The characteristics of the activities Dognition offers."
+  ],
+  "answer": 1,
+  "explain_zh": "第三段依序描述使用者先填問卷、再進行像玩遊戲般的測驗、最後取得報告的完整「流程」，故選 B。選項 A 誤把段落內容當成理論說明、C 只提到付費得到報告一項，範圍過窄、D 只聚焦活動特色而非整個流程，皆不符合段落主旨。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "procedure",
+    "zh": "流程",
+    "pos": "n."
+   },
+   {
+    "w": "cognitive",
+    "zh": "認知的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-042",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Is your dog an Einstein or a Charmer? For US $60, a recently-founded company called Dognition will help you learn more about your dog's cognitive traits. It offers an online test telling you about the brain behind the bark.\nDognition's test measures a dog's intellect in several aspects—from empathy to memory to reasoning skills. But don't expect it to measure your pet's IQ. Dr. Hare, one of the venture's co-founders, says a dog's intelligence can't be described with a single number. Just as humans have a wide range of intelligences, so do dogs. The question is what type your dog relies on more.\nAfter you plunk your money down, Dognition's website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children? Do fireworks scare your pup? Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek. At the end, you get a report of your dog's cognitive profile.\nYour dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog. That can give you something to brag about on Dognition's Facebook page. It also can shed new light on why dogs do the things they do. For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.\nDognition helps people understand their dogs in ways that they have never been able to do. This new understanding can enrich the relationship between dogs and their owners.",
+  "group_id": "PX-GSAT106-G04",
+  "stem": "According to the passage, which of the following statements is true?",
+  "options": [
+   "Different dogs display strengths in different intelligences.",
+   "A dog's cognitive profile is composed of nine cognitive skills.",
+   "The purpose of Dognition's testing is to control a dog's behavior.",
+   "A dog's intelligence can be ranked based on the score of a Dognition's test."
+  ],
+  "answer": 0,
+  "explain_zh": "文中說明狗和人類一樣有多種不同類型的智力，無法用單一分數衡量，每隻狗依賴的智力類型不同，故選 A。選項 B 誤把九種類型當成智力組成、C 與文章「增進理解」的宗旨相反、D 文章明確否定用單一分數評比，皆與原文不符。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "intellect",
+    "zh": "智力",
+    "pos": "n."
+   },
+   {
+    "w": "empathy",
+    "zh": "同理心",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-043",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜字",
+  "passage": "Is your dog an Einstein or a Charmer? For US $60, a recently-founded company called Dognition will help you learn more about your dog's cognitive traits. It offers an online test telling you about the brain behind the bark.\nDognition's test measures a dog's intellect in several aspects—from empathy to memory to reasoning skills. But don't expect it to measure your pet's IQ. Dr. Hare, one of the venture's co-founders, says a dog's intelligence can't be described with a single number. Just as humans have a wide range of intelligences, so do dogs. The question is what type your dog relies on more.\nAfter you plunk your money down, Dognition's website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children? Do fireworks scare your pup? Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek. At the end, you get a report of your dog's cognitive profile.\nYour dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog. That can give you something to brag about on Dognition's Facebook page. It also can shed new light on why dogs do the things they do. For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.\nDognition helps people understand their dogs in ways that they have never been able to do. This new understanding can enrich the relationship between dogs and their owners.",
+  "group_id": "PX-GSAT106-G04",
+  "stem": "Which of the following is closest in meaning to the word “venture” in the second paragraph?",
+  "options": [
+   "Creative measurement.",
+   "Risky attempt.",
+   "Non-profit organization.",
+   "New business."
+  ],
+  "answer": 3,
+  "explain_zh": "venture 在此指的是 Dognition 這家「新創公司」，故選 D new business。Creative measurement（創意測量）、Risky attempt（冒險嘗試，字面義但非此處用法）、Non-profit organization（非營利組織，與文中收費服務矛盾）皆不符合上下文，需依語境判斷字義而非字典本義。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "venture",
+    "zh": "新創事業",
+    "pos": "n."
+   },
+   {
+    "w": "co-founder",
+    "zh": "共同創辦人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-044",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Is your dog an Einstein or a Charmer? For US $60, a recently-founded company called Dognition will help you learn more about your dog's cognitive traits. It offers an online test telling you about the brain behind the bark.\nDognition's test measures a dog's intellect in several aspects—from empathy to memory to reasoning skills. But don't expect it to measure your pet's IQ. Dr. Hare, one of the venture's co-founders, says a dog's intelligence can't be described with a single number. Just as humans have a wide range of intelligences, so do dogs. The question is what type your dog relies on more.\nAfter you plunk your money down, Dognition's website will take you through a questionnaire about your dog: For example, how excited does your dog get around other dogs, or children? Do fireworks scare your pup? Then, Dognition guides you through tests that are as fun as playing fetch or hide-and-seek. At the end, you get a report of your dog's cognitive profile.\nYour dog could fall into one of nine categories: Ace, Stargazer, Maverick, Charmer, Socialite, Protodog, Einstein, Expert, or Renaissance Dog. That can give you something to brag about on Dognition's Facebook page. It also can shed new light on why dogs do the things they do. For example, a Charmer is a dog that trusts you so much that it would prefer to solve problems using information you give it rather than information it can get with its own eyes.\nDognition helps people understand their dogs in ways that they have never been able to do. This new understanding can enrich the relationship between dogs and their owners.",
+  "group_id": "PX-GSAT106-G04",
+  "stem": "According to the passage, what would a Charmer most likely do?",
+  "options": [
+   "Stay away from people whenever possible.",
+   "Imitate how other dogs solve problems.",
+   "Rely on its owner to point out where a treat is.",
+   "Follow its own senses to get what it wants."
+  ],
+  "answer": 2,
+  "explain_zh": "文中定義 Charmer 型的狗「較信任主人給的訊息，而非依靠自己觀察」來解決問題，故選 C。選項 A、B、D 皆描述獨立行動或依靠自身感官，與 Charmer 依賴主人的特質相反，是常見的錯誤推論陷阱。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "charmer",
+    "zh": "迷人者（此指狗的性格類型）",
+    "pos": "n."
+   },
+   {
+    "w": "trust",
+    "zh": "信任",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-045",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "Capoeira is a martial art that combines elements of fight, acrobatics, drumming, singing, dance, and rituals. It involves a variety of techniques that make use of the hands, feet, legs, arms, and head. Although Capoeira appears dancelike, many of its basic techniques are similar to those in other martial arts.\nCapoeira was created nearly 500 years ago in Brazil by African slaves. It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman. In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense. But it soon became a strong weapon in the life-or-death struggle against their oppressors. When the slave owners realized the power of Capoeira, they began to punish those who practiced it. Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.\nAt first, Capoeira was considered illegal in Brazil. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style. He succeeded in his endeavor and transformed the martial art into Brazil's national sport. He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world. Nowadays, it is performed in movies and music clips. Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+  "group_id": "PX-GSAT106-G05",
+  "stem": "What is the passage mainly about?",
+  "options": [
+   "The history of Capoeira.",
+   "The values of Capoeira.",
+   "The contribution of Capoeira.",
+   "The techniques of Capoeira."
+  ],
+  "answer": 0,
+  "explain_zh": "全文依照非洲部落格鬥、奴隸時期形成、被禁止、後來正式化、傳播至世界各地的時間順序，介紹卡波耶拉的「發展歷史」，故選 A。選項 B、C、D 都只涵蓋文章的部分內容，並非通篇主旨。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "martial art",
+    "zh": "武術",
+    "pos": "n."
+   },
+   {
+    "w": "slave",
+    "zh": "奴隸",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-046",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷（反向題）",
+  "passage": "Capoeira is a martial art that combines elements of fight, acrobatics, drumming, singing, dance, and rituals. It involves a variety of techniques that make use of the hands, feet, legs, arms, and head. Although Capoeira appears dancelike, many of its basic techniques are similar to those in other martial arts.\nCapoeira was created nearly 500 years ago in Brazil by African slaves. It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman. In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense. But it soon became a strong weapon in the life-or-death struggle against their oppressors. When the slave owners realized the power of Capoeira, they began to punish those who practiced it. Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.\nAt first, Capoeira was considered illegal in Brazil. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style. He succeeded in his endeavor and transformed the martial art into Brazil's national sport. He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world. Nowadays, it is performed in movies and music clips. Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+  "group_id": "PX-GSAT106-G05",
+  "stem": "Which of the following will probably NOT be found in the performance of Capoeira?",
+  "options": [
+   "Singing with drums.",
+   "Sweeping with the legs.",
+   "Stabbing with swords.",
+   "Striking with the hands."
+  ],
+  "answer": 2,
+  "explain_zh": "卡波耶拉是奴隸徒手自衛演變而成的武術，強調手腳與身體技巧、不使用武器，故「持劍刺擊」不會出現在表演中，選 C。選項 A、B、D 描述的擊打、掃踢、歌唱擊掌等，皆符合文中提到的技巧元素。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "stab",
+    "zh": "刺、戳",
+    "pos": "v."
+   },
+   {
+    "w": "strike",
+    "zh": "擊打",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-047",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:attitude",
+  "tag_zh": "作者態度",
+  "passage": "Capoeira is a martial art that combines elements of fight, acrobatics, drumming, singing, dance, and rituals. It involves a variety of techniques that make use of the hands, feet, legs, arms, and head. Although Capoeira appears dancelike, many of its basic techniques are similar to those in other martial arts.\nCapoeira was created nearly 500 years ago in Brazil by African slaves. It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman. In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense. But it soon became a strong weapon in the life-or-death struggle against their oppressors. When the slave owners realized the power of Capoeira, they began to punish those who practiced it. Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.\nAt first, Capoeira was considered illegal in Brazil. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style. He succeeded in his endeavor and transformed the martial art into Brazil's national sport. He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world. Nowadays, it is performed in movies and music clips. Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+  "group_id": "PX-GSAT106-G05",
+  "stem": "What is the author's attitude toward Capoeira as a sport?",
+  "options": [
+   "Admiring.",
+   "Objective.",
+   "Doubtful.",
+   "Harsh."
+  ],
+  "answer": 1,
+  "explain_zh": "作者以中性語氣依時間順序陳述卡波耶拉的起源、演變與現況，未明顯加入讚賞或批評的主觀用詞，態度屬「客觀」，故選 B。Admiring（讚賞的）、Doubtful（懷疑的）、Harsh（嚴苛的）皆帶有明顯情緒色彩，與全文平實的敘述語氣不符。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "objective",
+    "zh": "客觀的",
+    "pos": "adj."
+   },
+   {
+    "w": "attitude",
+    "zh": "態度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-048",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Capoeira is a martial art that combines elements of fight, acrobatics, drumming, singing, dance, and rituals. It involves a variety of techniques that make use of the hands, feet, legs, arms, and head. Although Capoeira appears dancelike, many of its basic techniques are similar to those in other martial arts.\nCapoeira was created nearly 500 years ago in Brazil by African slaves. It is believed that the martial art was connected with tribal fighting in Africa, in which people fought body to body, without weapons, in order to acquire a bride or desired woman. In the sixteenth century, when the Africans were taken from their homes to Brazil against their will and kept in slavery, Capoeira began to take form among the community of slaves for self-defense. But it soon became a strong weapon in the life-or-death struggle against their oppressors. When the slave owners realized the power of Capoeira, they began to punish those who practiced it. Capoeiristas learned to camouflage the forbidden fights with singing, clapping, and dancing as though it were simply entertainment.\nAt first, Capoeira was considered illegal in Brazil. However, a man known as Mestre Bimba devoted a great deal of time and effort to convincing the Brazilian authorities that Capoeira has great cultural value and should become an official fighting style. He succeeded in his endeavor and transformed the martial art into Brazil's national sport. He and Mestre Pastinha were the first to open schools, and the Capoeira tree grew, spreading its branches across the world. Nowadays, it is performed in movies and music clips. Capoeira is also believed to have influenced several dancing styles like breaking and hip-hop.",
+  "group_id": "PX-GSAT106-G05",
+  "stem": "According to the passage, which of the following statements is true about Capoeira?",
+  "options": [
+   "It was greatly influenced by modern dancing styles.",
+   "It was initially created as a type of dance and ritual.",
+   "It was mainly performed to protect a bride or desired woman.",
+   "It was officially recognized in Brazil through the effort of Mestre Bimba."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到 Mestre Bimba 花費心力說服巴西當局承認卡波耶拉的文化價值，使其成為官方認可的國技，故選 D。選項 A、B 與文章起源（部落格鬥而非舞蹈儀式）不符，C 只是傳說中的起源之一，並非其被官方認可的主因。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "recognize",
+    "zh": "承認、認可",
+    "pos": "v."
+   },
+   {
+    "w": "authority",
+    "zh": "當局",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-049",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷（文章出處）",
+  "passage": "Winslow Homer (1836-1910) is regarded by many as the greatest American painter of the nineteenth century. Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company. Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children's books.\nHe then moved to New York City, where he worked as a freelance illustrator with Harper's Weekly, a popular magazine of the time, and began painting. Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War. His pictures of the Union troops won international recognition. Homer moved to England and, after a two-year stay, returned to America. He settled permanently in Maine in 1883.\nFrom the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions. A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor. Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life. Others speak to more universal themes such as the primal relationship of humans to nature.\nThis two-week exhibition highlights a wide and representative range of Homer's art. It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean. The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+  "group_id": "PX-GSAT106-G06",
+  "stem": "Where does this passage most likely appear?",
+  "options": [
+   "On an ad featuring contemporary arts.",
+   "On a website of an art gallery.",
+   "In a booklet on American-born British artists.",
+   "In an encyclopedia on the art of printing."
+  ],
+  "answer": 1,
+  "explain_zh": "文末段落介紹畫家生平後接著描述「展覽」的內容與範圍，具有宣傳性質，最可能出現在藝廊網站上，故選 B。選項 A 侷限於當代藝術、C 誤把他當成英美混血畫家、D 主題錯置為印刷術百科，皆與文章性質不符。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "exhibition",
+    "zh": "展覽",
+    "pos": "n."
+   },
+   {
+    "w": "gallery",
+    "zh": "藝廊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-050",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Winslow Homer (1836-1910) is regarded by many as the greatest American painter of the nineteenth century. Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company. Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children's books.\nHe then moved to New York City, where he worked as a freelance illustrator with Harper's Weekly, a popular magazine of the time, and began painting. Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War. His pictures of the Union troops won international recognition. Homer moved to England and, after a two-year stay, returned to America. He settled permanently in Maine in 1883.\nFrom the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions. A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor. Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life. Others speak to more universal themes such as the primal relationship of humans to nature.\nThis two-week exhibition highlights a wide and representative range of Homer's art. It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean. The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+  "group_id": "PX-GSAT106-G06",
+  "stem": "Which of the following is true about Homer's career?",
+  "options": [
+   "He achieved international fame with his vivid paintings of England.",
+   "He is considered the greatest illustrator in the history of American art.",
+   "He is better known for his watercolors than his illustrations and oil paintings.",
+   "He first established his reputation as an illustrator in his hometown of Boston."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到荷馬十八歲時就在故鄉波士頓的印刷公司當學徒，並以「插畫家」身分闖出名號，故選 D。選項 A 誤把英國當成成名地、B 誇大成「最偉大插畫家」、C 與原文三項才能並重的描述不符。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "reputation",
+    "zh": "名聲",
+    "pos": "n."
+   },
+   {
+    "w": "apprentice",
+    "zh": "學徒",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-051",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Winslow Homer (1836-1910) is regarded by many as the greatest American painter of the nineteenth century. Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company. Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children's books.\nHe then moved to New York City, where he worked as a freelance illustrator with Harper's Weekly, a popular magazine of the time, and began painting. Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War. His pictures of the Union troops won international recognition. Homer moved to England and, after a two-year stay, returned to America. He settled permanently in Maine in 1883.\nFrom the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions. A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor. Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life. Others speak to more universal themes such as the primal relationship of humans to nature.\nThis two-week exhibition highlights a wide and representative range of Homer's art. It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean. The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+  "group_id": "PX-GSAT106-G06",
+  "stem": "According to the passage, which of the following best characterizes Homer's art?",
+  "options": [
+   "His pictures vividly portrayed the life of nineteenth-century Americans.",
+   "His art thoughtfully expressed the voices of people suffering from war.",
+   "His style faithfully conformed to the artistic traditions of his time.",
+   "His paintings constantly reflected his desire to escape from society."
+  ],
+  "answer": 0,
+  "explain_zh": "文中說他的作品成為「十九世紀美國人生活的經典畫面」，生動描繪當時人們的日常，故選 A。選項 B 誇大成戰爭受難者心聲、C 與文中強調他「獨立於藝術傳統之外」矛盾、D 文章並未提及逃避社會的主題。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "portray",
+    "zh": "描繪",
+    "pos": "v."
+   },
+   {
+    "w": "vividly",
+    "zh": "生動地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-052",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指涉判斷",
+  "passage": "Winslow Homer (1836-1910) is regarded by many as the greatest American painter of the nineteenth century. Born and raised in Boston, he began his career at age eighteen in his hometown, working as an apprentice at a printing company. Skilled at drawing, he soon made a name for himself making illustrations for novels, sheet music, magazines, and children's books.\nHe then moved to New York City, where he worked as a freelance illustrator with Harper's Weekly, a popular magazine of the time, and began painting. Homer was assigned to cover the inauguration of President Lincoln and, later, the Civil War. His pictures of the Union troops won international recognition. Homer moved to England and, after a two-year stay, returned to America. He settled permanently in Maine in 1883.\nFrom the late 1850s until his death in 1910, Winslow Homer produced a body of work distinguished by its thoughtful expression and its independence from artistic conventions. A man of multiple talents, Homer excelled equally in the arts of illustration, oil painting, and watercolor. Many of his works—depictions of children at play and in school, farm girls attending to their work, hunters and their prey—have become classic images of nineteenth-century American life. Others speak to more universal themes such as the primal relationship of humans to nature.\nThis two-week exhibition highlights a wide and representative range of Homer's art. It shows his extraordinary career from the battlefields, farmland, and coastal villages of America, to the North Sea fishing village of Cullercoats, the rocky coast of Maine, the Adirondacks, and the Caribbean. The exhibition offers viewers an opportunity to experience and appreciate the breadth of his remarkable artistic achievement.",
+  "group_id": "PX-GSAT106-G06",
+  "stem": "What does “Others” in the third paragraph refer to?",
+  "options": [
+   "Other artists.",
+   "Other themes.",
+   "Other works.",
+   "Other images."
+  ],
+  "answer": 2,
+  "explain_zh": "前句提到 Many of his works（他的許多作品）描繪特定主題，接續的 Others 是承接同一類事物的複數代名詞，指的是「其他作品」，故選 C。選項 A、B、D 皆非 works 的正確代稱對象，需從句子的主詞一致性判斷指涉。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "refer to",
+    "zh": "指涉",
+    "pos": "phr."
+   },
+   {
+    "w": "universal",
+    "zh": "普世的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-053",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:organization",
+  "tag_zh": "文章結構",
+  "passage": "Tea, the most typical English drink, became established in Britain because of the influence of a foreign princess, Catherine of Braganza, the queen of Charles II. A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century. The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day. Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the “tea break.” However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people. It came with a high price tag and tea was taxed as well.\nAround 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o'clock. Until then, people did not usually eat or drink anything between lunch and dinner. At approximately the same time, the Earl of Sandwich popularized a new way of eating bread—in thin slices, with something (e.g., jam or cucumbers) between them. Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.\nAs tea became much cheaper during the nineteenth century, its popularity spread right through all corners of the British society. Thus, tea became Britain's favorite drink. In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day's labor. This meal has become known as “high tea.”\nToday, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.",
+  "group_id": "PX-GSAT106-G07",
+  "stem": "How is this passage organized?",
+  "options": [
+   "By cause and effect.",
+   "In the order of importance.",
+   "In the sequence of time.",
+   "By comparison and contrast."
+  ],
+  "answer": 2,
+  "explain_zh": "全文依照十七世紀凱瑟琳王后引進飲茶、1800年左右下午茶興起、十九世紀茶價下跌普及的「時間先後順序」介紹紅茶在英國的發展，故選 C。文章並非在講因果、重要性排序或比較對照，故 A、B、D 皆不符合文章結構。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "organize",
+    "zh": "組織、安排",
+    "pos": "v."
+   },
+   {
+    "w": "sequence",
+    "zh": "順序",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-054",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜義",
+  "passage": "Tea, the most typical English drink, became established in Britain because of the influence of a foreign princess, Catherine of Braganza, the queen of Charles II. A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century. The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day. Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the “tea break.” However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people. It came with a high price tag and tea was taxed as well.\nAround 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o'clock. Until then, people did not usually eat or drink anything between lunch and dinner. At approximately the same time, the Earl of Sandwich popularized a new way of eating bread—in thin slices, with something (e.g., jam or cucumbers) between them. Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.\nAs tea became much cheaper during the nineteenth century, its popularity spread right through all corners of the British society. Thus, tea became Britain's favorite drink. In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day's labor. This meal has become known as “high tea.”\nToday, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.",
+  "group_id": "PX-GSAT106-G07",
+  "stem": "What does the phrase “a lasting British institution” in the first paragraph mean?",
+  "options": [
+   "The most popular British organization.",
+   "A long-standing tradition in the UK.",
+   "The last tea company in London.",
+   "A well-established British business."
+  ],
+  "answer": 1,
+  "explain_zh": "tea break（下午茶休息）成為英國「行之有年的傳統」，institution 在此指根深蒂固的社會習慣，故選 B a long-standing tradition。A 誤解為組織機構、C 曲解成公司行號、D 誤譯為既有企業，皆偏離 institution 在此處的引申義。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "institution",
+    "zh": "制度、傳統習慣",
+    "pos": "n."
+   },
+   {
+    "w": "long-standing",
+    "zh": "由來已久的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-055",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Tea, the most typical English drink, became established in Britain because of the influence of a foreign princess, Catherine of Braganza, the queen of Charles II. A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century. The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day. Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the “tea break.” However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people. It came with a high price tag and tea was taxed as well.\nAround 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o'clock. Until then, people did not usually eat or drink anything between lunch and dinner. At approximately the same time, the Earl of Sandwich popularized a new way of eating bread—in thin slices, with something (e.g., jam or cucumbers) between them. Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.\nAs tea became much cheaper during the nineteenth century, its popularity spread right through all corners of the British society. Thus, tea became Britain's favorite drink. In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day's labor. This meal has become known as “high tea.”\nToday, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.",
+  "group_id": "PX-GSAT106-G07",
+  "stem": "According to the passage, why was tea NOT a common drink of everyday life in the seventeenth century?",
+  "options": [
+   "It was only served at coffee houses in London.",
+   "It was taxed as an alcoholic drink.",
+   "It was forbidden outside of the business setting.",
+   "It was too expensive for most people."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到茶「價格昂貴，還要課稅」，因此在十七世紀大多數人負擔不起在職場外喝茶的社交場合，故選 D。選項 A、B、C 皆非文中提及的真正原因，屬於過度延伸或無中生有的陷阱選項。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "beyond the means",
+    "zh": "負擔不起",
+    "pos": "phr."
+   },
+   {
+    "w": "tax",
+    "zh": "課稅",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT106-056",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Tea, the most typical English drink, became established in Britain because of the influence of a foreign princess, Catherine of Braganza, the queen of Charles II. A lover of tea since her childhood in Portugal, she brought tea-drinking to the English royal court and set a trend for the beverage in the seventeenth century. The fashion soon spread beyond the circle of the nobility to the middle classes, and tea became a popular drink at the London coffee houses where people met to do business and discuss events of the day. Many employers served a cup of tea to their workers in the middle of the morning, thus inventing a lasting British institution, the “tea break.” However, drinking tea in social settings outside the workplace was beyond the means of the majority of British people. It came with a high price tag and tea was taxed as well.\nAround 1800, the seventh Duchess of Bedford, Anne Maria, began the popular practice of “afternoon tea,” a ceremony taking place at about four o'clock. Until then, people did not usually eat or drink anything between lunch and dinner. At approximately the same time, the Earl of Sandwich popularized a new way of eating bread—in thin slices, with something (e.g., jam or cucumbers) between them. Before long, a small meal at the end of the afternoon, involving tea and sandwiches, had become part of the British way of life.\nAs tea became much cheaper during the nineteenth century, its popularity spread right through all corners of the British society. Thus, tea became Britain's favorite drink. In working-class households, it was served with the main meal of the day, eaten when workers returned home after a day's labor. This meal has become known as “high tea.”\nToday, tea can be drunk at any time of the day, and accounts for over two-fifths of all beverages consumed in Britain—with the exception of water.",
+  "group_id": "PX-GSAT106-G07",
+  "stem": "According to the passage, which of the following is true?",
+  "options": [
+   "High tea was served later in the day than afternoon tea in the nineteenth century.",
+   "British people had tea breaks twice a day in the eighteenth century.",
+   "Princess Catherine brought tea to England after visiting Portugal.",
+   "The Earl of Sandwich started the afternoon tea ceremony."
+  ],
+  "answer": 0,
+  "explain_zh": "high tea 是勞工下班回家後才吃的正餐，時間比約下午四點的 afternoon tea 更晚，故選 A。選項 B 誇大成每天兩次、C 誤把凱瑟琳王后的家鄉葡萄牙說成她造訪的地方、D 把下午茶的發起人誤植為三明治伯爵，皆與原文不符。",
+  "source": "106學測",
+  "vocab": [
+   {
+    "w": "high tea",
+    "zh": "英式晚茶",
+    "pos": "n."
+   },
+   {
+    "w": "working-class",
+    "zh": "勞工階層的",
+    "pos": "adj."
+   }
+  ]
+ }
+]

@@ -1,0 +1,1412 @@
+[
+ {
+  "id": "PX-GSAT110-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Tom is really a naughty boy. He likes to ____ and play jokes on his younger sister when their parents are not around.",
+  "options": [
+   "alert",
+   "spare",
+   "tease",
+   "oppose"
+  ],
+  "answer": 2,
+  "explain_zh": "湯姆是個調皮的男孩，趁爸媽不在時喜歡「捉弄」妹妹、開她玩笑，故選 tease。alert（警示）、spare（饒恕、騰出）、oppose（反對）皆無法與 play jokes on 並列出「捉弄」的語意。tease 常用於描述帶點玩笑性質的逗弄行為。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "tease",
+    "zh": "捉弄",
+    "pos": "v."
+   },
+   {
+    "w": "naughty",
+    "zh": "調皮的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Elderly shoppers in this store are advised to take the elevator rather than the ____, which may move too fast for them to keep their balance.",
+  "options": [
+   "airway",
+   "operator",
+   "escalator",
+   "instrument"
+  ],
+  "answer": 2,
+  "explain_zh": "年長顧客被建議搭電梯而非「手扶梯」，因為手扶梯移動速度較快，不易保持平衡，故選 escalator。airway（航線、氣道）、operator（操作員）、instrument（儀器）皆無法形容這種會移動的樓梯設備。escalator 專指電動手扶梯。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "escalator",
+    "zh": "手扶梯",
+    "pos": "n."
+   },
+   {
+    "w": "balance",
+    "zh": "平衡",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Upon hearing its master's call, the dog wagged its tail, and followed her out of the room ____.",
+  "options": [
+   "obediently",
+   "apparently",
+   "logically",
+   "thoroughly"
+  ],
+  "answer": 0,
+  "explain_zh": "狗聽到主人呼喚便搖著尾巴、「乖順地」跟著走出房間，故選 obediently。apparently（顯然地）、logically（合乎邏輯地）、thoroughly（徹底地）皆無法形容狗聽話跟隨的態度。obediently 常用來描述服從、聽話的行為方式。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "obediently",
+    "zh": "乖順地",
+    "pos": "adv."
+   },
+   {
+    "w": "wag",
+    "zh": "搖（尾巴）",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Since many of our house plants are from humid jungle environments, they need ____ air to keep them green and healthy.",
+  "options": [
+   "moist",
+   "stale",
+   "crisp",
+   "fertile"
+  ],
+  "answer": 0,
+  "explain_zh": "許多室內植物原生於潮濕的叢林環境，因此需要「潮濕」的空氣才能保持翠綠健康，故選 moist。stale（不新鮮的）、crisp（清脆的、乾冷的）、fertile（肥沃的，通常形容土壤而非空氣）皆不符合語境。moist 常用於形容適度濕潤的狀態。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "moist",
+    "zh": "潮濕的",
+    "pos": "adj."
+   },
+   {
+    "w": "humid",
+    "zh": "潮濕的（氣候）",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The skydiver managed to land safely after jumping out of the aircraft, even though her ____ failed to open in midair.",
+  "options": [
+   "glimpse",
+   "latitude",
+   "segment",
+   "parachute"
+  ],
+  "answer": 3,
+  "explain_zh": "跳傘者從飛機躍下後，即使「降落傘」在半空中未能順利打開，仍成功安全著陸，故選 parachute。glimpse（一瞥）、latitude（緯度）、segment（片段）皆與跳傘裝備無關。parachute 是跳傘運動中不可或缺的關鍵字。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "parachute",
+    "zh": "降落傘",
+    "pos": "n."
+   },
+   {
+    "w": "midair",
+    "zh": "半空中",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The invention of the steam engine, which was used to power heavy machines, brought about a ____ change in society.",
+  "options": [
+   "persuasive",
+   "harmonious",
+   "conventional",
+   "revolutionary"
+  ],
+  "answer": 3,
+  "explain_zh": "蒸汽機的發明用來驅動重型機械，為社會帶來「革命性」的改變，故選 revolutionary。persuasive（有說服力的）、harmonious（和諧的）、conventional（傳統的，與「革命性」語意相反）皆無法形容這種劃時代的巨變。revolutionary change 是常見的固定搭配。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "revolutionary",
+    "zh": "革命性的",
+    "pos": "adj."
+   },
+   {
+    "w": "invention",
+    "zh": "發明",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "To encourage classroom ____, the teacher divided the class into groups and asked them to solve a problem together with their partners.",
+  "options": [
+   "operation",
+   "interaction",
+   "adjustment",
+   "explanation"
+  ],
+  "answer": 1,
+  "explain_zh": "老師把班級分組、要求同學一起解決問題，是為了促進課堂「互動」，故選 interaction。operation（操作）、adjustment（調整）、explanation（解釋）皆無法形容學生之間合作交流的過程。classroom interaction 常用於描述課堂上的師生或同儕互動。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "interaction",
+    "zh": "互動",
+    "pos": "n."
+   },
+   {
+    "w": "encourage",
+    "zh": "促進、鼓勵",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Lisa ____ onto the ground and injured her ankle while she was playing basketball yesterday.",
+  "options": [
+   "buried",
+   "punched",
+   "scattered",
+   "tumbled"
+  ],
+  "answer": 3,
+  "explain_zh": "麗莎昨天打籃球時「摔倒」在地，傷到了腳踝，故選 tumbled。buried（埋葬）、punched（毆打）、scattered（散落）皆無法形容「跌倒在地」的動作。tumble 常用於描述失去平衡而跌倒的情景。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "tumble",
+    "zh": "跌倒",
+    "pos": "v."
+   },
+   {
+    "w": "injure",
+    "zh": "使受傷",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Hundreds of residents received free testing ____ from the city government to find out if their water contained any harmful chemicals.",
+  "options": [
+   "kits",
+   "trials",
+   "zones",
+   "proofs"
+  ],
+  "answer": 0,
+  "explain_zh": "市政府提供數百位居民免費的檢測「工具組」，用來檢查自家用水是否含有害化學物質，故選 kits。trials（試驗）、zones（區域）、proofs（證明）皆無法與 testing 搭配出「檢測工具組」的語意。testing kit 常見於居家檢測用品的描述。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "kit",
+    "zh": "工具組",
+    "pos": "n."
+   },
+   {
+    "w": "harmful",
+    "zh": "有害的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The 2011 Nobel Peace Prize was awarded ____ to three women for the efforts they made in fighting for women's rights.",
+  "options": [
+   "actively",
+   "earnestly",
+   "jointly",
+   "naturally"
+  ],
+  "answer": 2,
+  "explain_zh": "2011年諾貝爾和平獎由三位女性「共同」獲得，表彰她們為女權奮鬥的貢獻，故選 jointly。actively（積極地）、earnestly（誠懇地）、naturally（自然地）皆無法表達「共同獲獎」的語意。be awarded jointly 是描述多人共享獎項的常見說法。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "jointly",
+    "zh": "共同地",
+    "pos": "adv."
+   },
+   {
+    "w": "award",
+    "zh": "頒發、授予",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The company is ____ and making great profits under the wise leadership of the chief executive officer.",
+  "options": [
+   "applauding",
+   "flourishing",
+   "circulating",
+   "exceeding"
+  ],
+  "answer": 1,
+  "explain_zh": "這家公司在執行長的英明領導下「蓬勃發展」，賺取豐厚利潤，故選 flourishing。applauding（鼓掌，不及物用法且語意不合）、circulating（流通）、exceeding（超越）皆無法形容公司經營興盛的狀態。flourish 常用於描述事業或生態的繁榮興旺。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "flourish",
+    "zh": "蓬勃發展",
+    "pos": "v."
+   },
+   {
+    "w": "leadership",
+    "zh": "領導",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "It is absolutely ____ to waste your money on an expensive car when you cannot even get a driver's license.",
+  "options": [
+   "absurd",
+   "cautious",
+   "vigorous",
+   "obstinate"
+  ],
+  "answer": 0,
+  "explain_zh": "連駕照都還沒考到，卻把錢浪費在買昂貴的車上，這種行為非常「荒謬」，故選 absurd。cautious（謹慎的）、vigorous（充滿活力的）、obstinate（固執的）皆無法形容這種不合理的行為。absurd 常用於形容荒唐可笑、不合邏輯的事情。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "absurd",
+    "zh": "荒謬的",
+    "pos": "adj."
+   },
+   {
+    "w": "driver's license",
+    "zh": "駕照",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The problem of illegal drug use is very complex and cannot be traced to merely one ____ reason.",
+  "options": [
+   "singular",
+   "countable",
+   "favorable",
+   "defensive"
+  ],
+  "answer": 0,
+  "explain_zh": "毒品濫用問題非常複雜，不能只歸咎於「單一的」原因，故選 singular，在此指「單一、個別的」。countable（可數的）、favorable（有利的）、defensive（防禦性的）皆無法形容「單一原因」的概念。singular reason 強調成因並非只有一個。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "singular",
+    "zh": "單一的",
+    "pos": "adj."
+   },
+   {
+    "w": "trace to",
+    "zh": "歸因於",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The non-profit organization has ____ $1 million over five years to finance the construction of the medical center.",
+  "options": [
+   "equipped",
+   "resolved",
+   "committed",
+   "associated"
+  ],
+  "answer": 2,
+  "explain_zh": "這家非營利組織「承諾投入」一百萬美元，分五年用來資助醫療中心的興建，故選 committed。equipped（配備）、resolved（解決）、associated（使有關聯）皆無法與 $1 million 搭配出「承諾投入資金」的語意。commit money to 是常見的資金投入用語。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "commit",
+    "zh": "承諾投入",
+    "pos": "v."
+   },
+   {
+    "w": "finance",
+    "zh": "資助",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "One week after the typhoon, some bridges were finally opened and bus service ____ in the country's most severely damaged areas.",
+  "options": [
+   "departed",
+   "resumed",
+   "transported",
+   "corresponded"
+  ],
+  "answer": 1,
+  "explain_zh": "颱風過後一週，部分橋樑終於重新開放，受創最嚴重地區的公車服務也「恢復」了，故選 resumed。departed（出發、離開）、transported（運輸）、corresponded（通信、相符）皆無法表達「中斷後重新開始」的語意。resume 常用於描述服務或活動的恢復。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "resume",
+    "zh": "恢復",
+    "pos": "v."
+   },
+   {
+    "w": "severely",
+    "zh": "嚴重地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Street pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same (16) encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to (17) the city's historic center, pooping on monuments, buildings, and even tourists.\nThe city council originally proposed (18) the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another (19) effective method: giving the pigeons birth control.\nIn 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders (20) throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+  "group_id": "PX-GSAT110-G01",
+  "stem": "(16) 應填入：A visit to a major European city just would not be the same ____ encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares.",
+  "options": [
+   "as",
+   "for",
+   "though",
+   "without"
+  ],
+  "answer": 3,
+  "explain_zh": "造訪歐洲大城市「若沒有」遇見這些街頭鴿子，感覺就會不一樣，without + Ving 表示「沒有……的話」，故選 without。as（作為）、for（為了）、though（雖然）皆無法與句子搭配出「沒有這項經歷就不完整」的語意。此句隱含虛擬語氣的固定用法。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "encounter",
+    "zh": "遇見",
+    "pos": "v."
+   },
+   {
+    "w": "flock",
+    "zh": "成群聚集",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Street pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same (16) encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to (17) the city's historic center, pooping on monuments, buildings, and even tourists.\nThe city council originally proposed (18) the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another (19) effective method: giving the pigeons birth control.\nIn 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders (20) throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+  "group_id": "PX-GSAT110-G01",
+  "stem": "(17) 應填入：In Barcelona, however, the birds are now threatening to ____ the city's historic center, pooping on monuments, buildings, and even tourists.",
+  "options": [
+   "set up",
+   "hang on",
+   "take over",
+   "break down"
+  ],
+  "answer": 2,
+  "explain_zh": "巴塞隆納的鴿子數量過多，威脅要「佔據」市中心，在古蹟、建築甚至遊客身上排泄，take over 表示「佔據、接管」，故選 take over。set up（設立）、hang on（堅持）、break down（故障、崩潰）皆無法與 the city's historic center 搭配出此語意。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "take over",
+    "zh": "佔據",
+    "pos": "phr."
+   },
+   {
+    "w": "monument",
+    "zh": "古蹟",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Street pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same (16) encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to (17) the city's historic center, pooping on monuments, buildings, and even tourists.\nThe city council originally proposed (18) the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another (19) effective method: giving the pigeons birth control.\nIn 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders (20) throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+  "group_id": "PX-GSAT110-G01",
+  "stem": "(18) 應填入：The city council originally proposed ____ the pigeon population by gathering the birds and shooting them.",
+  "options": [
+   "counting",
+   "reducing",
+   "displaying",
+   "maintaining"
+  ],
+  "answer": 1,
+  "explain_zh": "市議會原本提議透過捕捉並射殺鴿子來「減少」其數量，故選 reducing。counting（計算）、displaying（展示）、maintaining（維持，語意與「減少數量」相反）皆不符合此語境。reduce the population 是常見的族群控制用語。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "reduce",
+    "zh": "減少",
+    "pos": "v."
+   },
+   {
+    "w": "gather",
+    "zh": "聚集、集合",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Street pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same (16) encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to (17) the city's historic center, pooping on monuments, buildings, and even tourists.\nThe city council originally proposed (18) the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another (19) effective method: giving the pigeons birth control.\nIn 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders (20) throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+  "group_id": "PX-GSAT110-G01",
+  "stem": "(19) 應填入：the government was finally persuaded to consider another ____ effective method: giving the pigeons birth control.",
+  "options": [
+   "nearly",
+   "shortly",
+   "precisely",
+   "similarly"
+  ],
+  "answer": 3,
+  "explain_zh": "在動保團體強烈抗議後，政府被說服考慮另一個「同樣」有效的方法：讓鴿子節育，故選 similarly，表示效果相仿。nearly（幾乎）、shortly（不久後）、precisely（精確地）皆無法表達「同樣有效」的比較語意。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "similarly",
+    "zh": "同樣地",
+    "pos": "adv."
+   },
+   {
+    "w": "protest",
+    "zh": "抗議",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Street pigeons are a common sight in many European cities. In fact, a visit to a major European city just would not be the same (16) encountering them: bathing in fountains, perching on historic buildings, and flocking in public squares. In Barcelona, however, the birds are now threatening to (17) the city's historic center, pooping on monuments, buildings, and even tourists.\nThe city council originally proposed (18) the pigeon population by gathering the birds and shooting them. But that idea led to strong protests from numerous animal rights groups. After heated debates and discussions, the government was finally persuaded to consider another (19) effective method: giving the pigeons birth control.\nIn 2016, the city council decided to put its 85,000 pigeon population on a birth control pill to block the formation of eggs in birds. Starting from April 2017, the pills were placed in 40 bird feeders (20) throughout the city. It was predicted that there would be a decrease of 20 percent in the pigeon population in the first year and between 70 and 80 percent in four or five years.",
+  "group_id": "PX-GSAT110-G01",
+  "stem": "(20) 應填入：Starting from April 2017, the pills were placed in 40 bird feeders ____ throughout the city.",
+  "options": [
+   "installing",
+   "installed",
+   "to install",
+   "having installed"
+  ],
+  "answer": 1,
+  "explain_zh": "藥丸被放置在全市 40 個「被安裝好的」餵食器中，feeders 與 install 之間為被動關係，須用過去分詞當形容詞修飾名詞，故選 installed。installing（現在分詞，表主動）、to install（不定詞）、having installed（完成式分詞）皆不符合被動修飾的文法。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "install",
+    "zh": "安裝",
+    "pos": "v."
+   },
+   {
+    "w": "feeder",
+    "zh": "餵食器",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-021",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Being hit by lightning is a rare event. Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, (21) the probability of being struck seven different times. Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being. Over his 36-year career, Sullivan was struck by lightning seven times—and (22) each shock!\nStrikes one, two, and three were pure bad luck, he thought. But after strike four, Sullivan became (23) death and took precautions during lightning strikes. Strike five occurred in 1973 when Sullivan was on patrol. A storm cloud \"chased\" him until he was struck. The same thing happened again in 1976. Sullivan, while surveying a campground, felt that a cloud was (24) him, and tried all he could to run—but it got him anyway. Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond. \"I don't believe God is after me,\" he theorized. \"If he was, the first bolt (25) enough. Best I can figure is that I have some chemical, some mineral, in my body that draws lightning. I just wish I knew.\"",
+  "group_id": "PX-GSAT110-G02",
+  "stem": "(21) 應填入：Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, ____ the probability of being struck seven different times.",
+  "options": [
+   "if it isn't",
+   "as you can see",
+   "not to mention",
+   "with regard to"
+  ],
+  "answer": 2,
+  "explain_zh": "80年人生中被閃電擊中的機率是三千分之一，「更別說」被擊中七次的機率有多低，not to mention 表示「更不用說」，用來強調更極端的情況，故選 not to mention。if it isn't（如果不是）、as you can see（如你所見）、with regard to（關於）皆不符合此語意。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "not to mention",
+    "zh": "更別說",
+    "pos": "phr."
+   },
+   {
+    "w": "odds",
+    "zh": "機率",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-022",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Being hit by lightning is a rare event. Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, (21) the probability of being struck seven different times. Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being. Over his 36-year career, Sullivan was struck by lightning seven times—and (22) each shock!\nStrikes one, two, and three were pure bad luck, he thought. But after strike four, Sullivan became (23) death and took precautions during lightning strikes. Strike five occurred in 1973 when Sullivan was on patrol. A storm cloud \"chased\" him until he was struck. The same thing happened again in 1976. Sullivan, while surveying a campground, felt that a cloud was (24) him, and tried all he could to run—but it got him anyway. Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond. \"I don't believe God is after me,\" he theorized. \"If he was, the first bolt (25) enough. Best I can figure is that I have some chemical, some mineral, in my body that draws lightning. I just wish I knew.\"",
+  "group_id": "PX-GSAT110-G02",
+  "stem": "(22) 應填入：Over his 36-year career, Sullivan was struck by lightning seven times—and ____ each shock!",
+  "options": [
+   "piloted",
+   "rejected",
+   "survived",
+   "tracked"
+  ],
+  "answer": 2,
+  "explain_zh": "蘇利文在36年的職業生涯中被閃電擊中七次，卻都「存活」下來，故選 survived。piloted（駕駛）、rejected（拒絕）、tracked（追蹤）皆無法與 each shock 搭配出「挺過每次電擊」的語意。survive 常用於描述在危險中倖存下來。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "survive",
+    "zh": "存活、倖存",
+    "pos": "v."
+   },
+   {
+    "w": "shock",
+    "zh": "電擊、衝擊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-023",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Being hit by lightning is a rare event. Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, (21) the probability of being struck seven different times. Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being. Over his 36-year career, Sullivan was struck by lightning seven times—and (22) each shock!\nStrikes one, two, and three were pure bad luck, he thought. But after strike four, Sullivan became (23) death and took precautions during lightning strikes. Strike five occurred in 1973 when Sullivan was on patrol. A storm cloud \"chased\" him until he was struck. The same thing happened again in 1976. Sullivan, while surveying a campground, felt that a cloud was (24) him, and tried all he could to run—but it got him anyway. Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond. \"I don't believe God is after me,\" he theorized. \"If he was, the first bolt (25) enough. Best I can figure is that I have some chemical, some mineral, in my body that draws lightning. I just wish I knew.\"",
+  "group_id": "PX-GSAT110-G02",
+  "stem": "(23) 應填入：But after strike four, Sullivan became ____ death and took precautions during lightning strikes.",
+  "options": [
+   "fearful of",
+   "critical of",
+   "doubtful about",
+   "positive about"
+  ],
+  "answer": 0,
+  "explain_zh": "前三次被劈純屬運氣不好，但第四次過後，蘇利文開始「害怕」死亡並採取預防措施，be fearful of 表示「畏懼」，故選 fearful of。critical of（批評）、doubtful about（懷疑）、positive about（正面看待，語意相反）皆不符合此處他心生恐懼的轉變。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "fearful",
+    "zh": "害怕的",
+    "pos": "adj."
+   },
+   {
+    "w": "precaution",
+    "zh": "預防措施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-024",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Being hit by lightning is a rare event. Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, (21) the probability of being struck seven different times. Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being. Over his 36-year career, Sullivan was struck by lightning seven times—and (22) each shock!\nStrikes one, two, and three were pure bad luck, he thought. But after strike four, Sullivan became (23) death and took precautions during lightning strikes. Strike five occurred in 1973 when Sullivan was on patrol. A storm cloud \"chased\" him until he was struck. The same thing happened again in 1976. Sullivan, while surveying a campground, felt that a cloud was (24) him, and tried all he could to run—but it got him anyway. Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond. \"I don't believe God is after me,\" he theorized. \"If he was, the first bolt (25) enough. Best I can figure is that I have some chemical, some mineral, in my body that draws lightning. I just wish I knew.\"",
+  "group_id": "PX-GSAT110-G02",
+  "stem": "(24) 應填入：Sullivan, while surveying a campground, felt that a cloud was ____ him, and tried all he could to run.",
+  "options": [
+   "coming after",
+   "getting over",
+   "holding on to",
+   "watching out for"
+  ],
+  "answer": 0,
+  "explain_zh": "蘇利文在勘查露營地時，感覺一朵雲彷彿在「追著」他，拼命想逃卻還是被擊中，coming after 表示「追趕、緊跟」，故選 coming after。getting over（克服）、holding on to（抓住不放）、watching out for（提防）皆無法表達「被追趕」的語意。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "come after",
+    "zh": "追趕",
+    "pos": "phr."
+   },
+   {
+    "w": "survey",
+    "zh": "勘查",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-025",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Being hit by lightning is a rare event. Over the course of an 80-year life span, the odds of being hit by lightning are 1 in 3,000, (21) the probability of being struck seven different times. Roy Sullivan, a park ranger in the United States, was struck by lightning more recorded times than any other human being. Over his 36-year career, Sullivan was struck by lightning seven times—and (22) each shock!\nStrikes one, two, and three were pure bad luck, he thought. But after strike four, Sullivan became (23) death and took precautions during lightning strikes. Strike five occurred in 1973 when Sullivan was on patrol. A storm cloud \"chased\" him until he was struck. The same thing happened again in 1976. Sullivan, while surveying a campground, felt that a cloud was (24) him, and tried all he could to run—but it got him anyway. Finally, on 25 June 1977, a seventh and final bolt struck Sullivan as he was fishing in a pond. \"I don't believe God is after me,\" he theorized. \"If he was, the first bolt (25) enough. Best I can figure is that I have some chemical, some mineral, in my body that draws lightning. I just wish I knew.\"",
+  "group_id": "PX-GSAT110-G02",
+  "stem": "(25) 應填入：\"If he was, the first bolt ____ enough,\" he theorized.",
+  "options": [
+   "was",
+   "had been",
+   "would be",
+   "would have been"
+  ],
+  "answer": 3,
+  "explain_zh": "此句是與過去事實相反的假設語氣：「如果神真的在追殺我，第一次雷劈『早就』夠了」，主要子句須用 would have been，故選 would have been。was、had been、would be 皆不符合過去式假設句主要子句的固定文法形式。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "theorize",
+    "zh": "推測、提出理論",
+    "pos": "v."
+   },
+   {
+    "w": "bolt",
+    "zh": "閃電",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-026",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Glaciers are usually associated with colder climates. But some mountain ranges of South America, Africa, and Indonesia are also (26) glaciers and ice sheets. These tropical glaciers serve as a major source of water supply to one-sixth of the world's population.\nA newly published study, however, revealed that rising temperatures are posing an (27) threat to the last tropical glaciers in Indonesia's Papua region. The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago. (28) already shrunk by 85% to a mere 0.5 square kilometers, Papua's glaciers will completely disappear within a decade, researchers have predicted.\nThe disappearance of the glaciers will also leave a significant (29) impact. For many indigenous Papuans, the ice sheets represent a sacred symbol. \"The mountains and valleys are the arms and legs of their god and the glaciers are the head,\" explained the head researcher.\nThe study warned that Papua's glaciers are only the \"first to go\" if greenhouse gases are (30) and temperatures continue rising. And this is certainly a serious warning about the depressing fate of other glaciers around the world.",
+  "group_id": "PX-GSAT110-G03",
+  "stem": "(26) 應填入：some mountain ranges of South America, Africa, and Indonesia are also ____ glaciers and ice sheets.",
+  "options": [
+   "home to",
+   "covers of",
+   "roofs over",
+   "room for"
+  ],
+  "answer": 0,
+  "explain_zh": "南美、非洲、印尼的部分山脈也「有」冰河與冰原分布，be home to 表示「是……的所在地」，故選 home to。covers of、roofs over、room for 皆非正確的固定搭配用語，無法表達「某地存在某物」的語意。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "be home to",
+    "zh": "是……的所在地",
+    "pos": "phr."
+   },
+   {
+    "w": "glacier",
+    "zh": "冰河",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-027",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Glaciers are usually associated with colder climates. But some mountain ranges of South America, Africa, and Indonesia are also (26) glaciers and ice sheets. These tropical glaciers serve as a major source of water supply to one-sixth of the world's population.\nA newly published study, however, revealed that rising temperatures are posing an (27) threat to the last tropical glaciers in Indonesia's Papua region. The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago. (28) already shrunk by 85% to a mere 0.5 square kilometers, Papua's glaciers will completely disappear within a decade, researchers have predicted.\nThe disappearance of the glaciers will also leave a significant (29) impact. For many indigenous Papuans, the ice sheets represent a sacred symbol. \"The mountains and valleys are the arms and legs of their god and the glaciers are the head,\" explained the head researcher.\nThe study warned that Papua's glaciers are only the \"first to go\" if greenhouse gases are (30) and temperatures continue rising. And this is certainly a serious warning about the depressing fate of other glaciers around the world.",
+  "group_id": "PX-GSAT110-G03",
+  "stem": "(27) 應填入：rising temperatures are posing an ____ threat to the last tropical glaciers in Indonesia's Papua region.",
+  "options": [
+   "occasional",
+   "elaborate",
+   "immediate",
+   "offensive"
+  ],
+  "answer": 2,
+  "explain_zh": "氣溫上升對印尼巴布亞省僅存的熱帶冰河構成「立即」的威脅，故選 immediate。occasional（偶爾的）、elaborate（精心製作的）、offensive（冒犯的）皆無法形容「迫在眉睫」的威脅程度。immediate threat 常用於強調事態的緊迫性。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "immediate",
+    "zh": "立即的",
+    "pos": "adj."
+   },
+   {
+    "w": "threat",
+    "zh": "威脅",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-028",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Glaciers are usually associated with colder climates. But some mountain ranges of South America, Africa, and Indonesia are also (26) glaciers and ice sheets. These tropical glaciers serve as a major source of water supply to one-sixth of the world's population.\nA newly published study, however, revealed that rising temperatures are posing an (27) threat to the last tropical glaciers in Indonesia's Papua region. The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago. (28) already shrunk by 85% to a mere 0.5 square kilometers, Papua's glaciers will completely disappear within a decade, researchers have predicted.\nThe disappearance of the glaciers will also leave a significant (29) impact. For many indigenous Papuans, the ice sheets represent a sacred symbol. \"The mountains and valleys are the arms and legs of their god and the glaciers are the head,\" explained the head researcher.\nThe study warned that Papua's glaciers are only the \"first to go\" if greenhouse gases are (30) and temperatures continue rising. And this is certainly a serious warning about the depressing fate of other glaciers around the world.",
+  "group_id": "PX-GSAT110-G03",
+  "stem": "(28) 應填入：____ already shrunk by 85% to a mere 0.5 square kilometers, Papua's glaciers will completely disappear within a decade.",
+  "options": [
+   "Have",
+   "Had",
+   "Having",
+   "Having been"
+  ],
+  "answer": 2,
+  "explain_zh": "此句為分詞構句表原因，冰原「已經」萎縮了85%，主詞與 shrink 為主動關係且需完成式概念，故用 Having already shrunk，選 Having。Have（現在式動詞，非分詞）、Had（過去式動詞）、Having been（被動完成分詞，與 shrink 不及物動詞不合）皆不符合文法。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "shrink",
+    "zh": "萎縮",
+    "pos": "v."
+   },
+   {
+    "w": "span",
+    "zh": "横跨、佔地",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-029",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Glaciers are usually associated with colder climates. But some mountain ranges of South America, Africa, and Indonesia are also (26) glaciers and ice sheets. These tropical glaciers serve as a major source of water supply to one-sixth of the world's population.\nA newly published study, however, revealed that rising temperatures are posing an (27) threat to the last tropical glaciers in Indonesia's Papua region. The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago. (28) already shrunk by 85% to a mere 0.5 square kilometers, Papua's glaciers will completely disappear within a decade, researchers have predicted.\nThe disappearance of the glaciers will also leave a significant (29) impact. For many indigenous Papuans, the ice sheets represent a sacred symbol. \"The mountains and valleys are the arms and legs of their god and the glaciers are the head,\" explained the head researcher.\nThe study warned that Papua's glaciers are only the \"first to go\" if greenhouse gases are (30) and temperatures continue rising. And this is certainly a serious warning about the depressing fate of other glaciers around the world.",
+  "group_id": "PX-GSAT110-G03",
+  "stem": "(29) 應填入：The disappearance of the glaciers will also leave a significant ____ impact.",
+  "options": [
+   "cultural",
+   "moral",
+   "political",
+   "environmental"
+  ],
+  "answer": 0,
+  "explain_zh": "對巴布亞原住民而言，冰原是神聖的象徵，因此冰河消失也會帶來重大的「文化」衝擊，故選 cultural。moral（道德的）、political（政治的）、environmental（環境的，雖相關但文章此處強調宗教信仰意涵）皆不如 cultural 貼切呼應後文「神聖象徵」的描述。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "cultural",
+    "zh": "文化的",
+    "pos": "adj."
+   },
+   {
+    "w": "sacred",
+    "zh": "神聖的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-030",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Glaciers are usually associated with colder climates. But some mountain ranges of South America, Africa, and Indonesia are also (26) glaciers and ice sheets. These tropical glaciers serve as a major source of water supply to one-sixth of the world's population.\nA newly published study, however, revealed that rising temperatures are posing an (27) threat to the last tropical glaciers in Indonesia's Papua region. The ice sheets, which once spanned 20 square kilometers, are thinning over five times as quickly compared to a few years ago. (28) already shrunk by 85% to a mere 0.5 square kilometers, Papua's glaciers will completely disappear within a decade, researchers have predicted.\nThe disappearance of the glaciers will also leave a significant (29) impact. For many indigenous Papuans, the ice sheets represent a sacred symbol. \"The mountains and valleys are the arms and legs of their god and the glaciers are the head,\" explained the head researcher.\nThe study warned that Papua's glaciers are only the \"first to go\" if greenhouse gases are (30) and temperatures continue rising. And this is certainly a serious warning about the depressing fate of other glaciers around the world.",
+  "group_id": "PX-GSAT110-G03",
+  "stem": "(30) 應填入：The study warned that Papua's glaciers are only the \"first to go\" if greenhouse gases are ____ and temperatures continue rising.",
+  "options": [
+   "kept balanced",
+   "made released",
+   "seen dismissed",
+   "left unchecked"
+  ],
+  "answer": 3,
+  "explain_zh": "研究警告，若溫室氣體排放「持續不受控制」且氣溫持續上升，巴布亞的冰河將只是第一個消失的，故選 left unchecked，表示放任不管。kept balanced（保持平衡）、made released（被釋放，文法與語意皆不合）、seen dismissed（被視為不予理會）皆不符合此語境。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "unchecked",
+    "zh": "不受控制的",
+    "pos": "adj."
+   },
+   {
+    "w": "greenhouse gas",
+    "zh": "溫室氣體",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-031",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico's national flag. The plant was considered sacred by the ancient Aztecs, and modern-day Mexicans eat it, drink it, and even use it in medicines and shampoos. Now scientists have come up with a new use for the bright green plant: producing renewable energy.\nKnown locally as nopal, the prickly pear is farmed on a massive scale in Mexico. Over the years, only the edible soft inner flesh has been used. The cactus's thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.\nThe pilot project dedicated to developing the cactus biogas generator began in the south of Mexico City. The area produces 200,000 tons a year of prickly pear cactus—up to 10 tons of which ends up as waste on the floor of the cactus market each day. Then, a local green energy startup company got the idea to turn that waste into energy. The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.\nThe prickly pear has a number of advantages over other biofuel crops, such as wheat, sugarcane, and soybeans. For one thing, only the husk of the cactus is used for generating biofuel, while its inner flesh is still preserved for food. Therefore, using the plant as a fuel source will not put pressure on food prices. Moreover, the cactus requires minimum water, and thus is not grown on traditional agricultural pasture. This means that no increased competition arises for the water or land presently used for food production.\nThe project in Mexico City has brought new hope to reducing the use of fossil fuels. If it can be expanded, the prickly pear could be the key to Mexico's energy future.",
+  "group_id": "PX-GSAT110-G04",
+  "stem": "What is the purpose of this passage?",
+  "options": [
+   "To argue for the benefits of nopales.",
+   "To introduce a new source of energy.",
+   "To predict the future agriculture policy of Mexico.",
+   "To change people's ideas about energy consumption."
+  ],
+  "answer": 1,
+  "explain_zh": "全文詳細介紹科學家如何把仙人掌廢棄外皮轉製成沼氣發電的新方法，屬於引介一種「新能源來源」的說明文，故選 B。選項 A 過度窄化成單純論證仙人掌好處、C、D 皆非文章重點，文章聚焦在技術與應用本身。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "introduce",
+    "zh": "介紹",
+    "pos": "v."
+   },
+   {
+    "w": "renewable",
+    "zh": "可再生的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-032",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico's national flag. The plant was considered sacred by the ancient Aztecs, and modern-day Mexicans eat it, drink it, and even use it in medicines and shampoos. Now scientists have come up with a new use for the bright green plant: producing renewable energy.\nKnown locally as nopal, the prickly pear is farmed on a massive scale in Mexico. Over the years, only the edible soft inner flesh has been used. The cactus's thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.\nThe pilot project dedicated to developing the cactus biogas generator began in the south of Mexico City. The area produces 200,000 tons a year of prickly pear cactus—up to 10 tons of which ends up as waste on the floor of the cactus market each day. Then, a local green energy startup company got the idea to turn that waste into energy. The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.\nThe prickly pear has a number of advantages over other biofuel crops, such as wheat, sugarcane, and soybeans. For one thing, only the husk of the cactus is used for generating biofuel, while its inner flesh is still preserved for food. Therefore, using the plant as a fuel source will not put pressure on food prices. Moreover, the cactus requires minimum water, and thus is not grown on traditional agricultural pasture. This means that no increased competition arises for the water or land presently used for food production.\nThe project in Mexico City has brought new hope to reducing the use of fossil fuels. If it can be expanded, the prickly pear could be the key to Mexico's energy future.",
+  "group_id": "PX-GSAT110-G04",
+  "stem": "Which of the following is NOT mentioned as a function of the prickly pear?",
+  "options": [
+   "For treating illnesses.",
+   "For personal hygiene.",
+   "For food and beverage.",
+   "For gardening and landscaping."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到仙人掌可食用、可飲用、可製成藥品與洗髮精，但並未提及用於「園藝景觀」，故選 D。選項 A、B、C 皆能在文章第一段中找到對應的敘述，屬於已提及的用途。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "landscaping",
+    "zh": "園藝景觀",
+    "pos": "n."
+   },
+   {
+    "w": "hygiene",
+    "zh": "衛生",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-033",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico's national flag. The plant was considered sacred by the ancient Aztecs, and modern-day Mexicans eat it, drink it, and even use it in medicines and shampoos. Now scientists have come up with a new use for the bright green plant: producing renewable energy.\nKnown locally as nopal, the prickly pear is farmed on a massive scale in Mexico. Over the years, only the edible soft inner flesh has been used. The cactus's thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.\nThe pilot project dedicated to developing the cactus biogas generator began in the south of Mexico City. The area produces 200,000 tons a year of prickly pear cactus—up to 10 tons of which ends up as waste on the floor of the cactus market each day. Then, a local green energy startup company got the idea to turn that waste into energy. The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.\nThe prickly pear has a number of advantages over other biofuel crops, such as wheat, sugarcane, and soybeans. For one thing, only the husk of the cactus is used for generating biofuel, while its inner flesh is still preserved for food. Therefore, using the plant as a fuel source will not put pressure on food prices. Moreover, the cactus requires minimum water, and thus is not grown on traditional agricultural pasture. This means that no increased competition arises for the water or land presently used for food production.\nThe project in Mexico City has brought new hope to reducing the use of fossil fuels. If it can be expanded, the prickly pear could be the key to Mexico's energy future.",
+  "group_id": "PX-GSAT110-G04",
+  "stem": "Which of the following statements about the prickly pear cactus is true?",
+  "options": [
+   "Its soft inner part is often discarded.",
+   "It was not discovered until the modern era.",
+   "It turns into 200,000 tons of waste in Mexico each year.",
+   "It appears in a prominent place on Mexico's national flag."
+  ],
+  "answer": 3,
+  "explain_zh": "文章第一段明確指出仙人掌圖案「佔據墨西哥國旗上顯著的位置」，故選 D。選項 A 與原文相反（果肉是被保留食用而非丟棄）、B 錯誤（阿茲特克人早已視其為聖物）、C 誇大了每日的廢棄量數字，皆與原文不符。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "prominent",
+    "zh": "顯著的",
+    "pos": "adj."
+   },
+   {
+    "w": "occupy",
+    "zh": "佔據",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-034",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "The prickly pear cactus is such a powerful symbol in Mexico that it occupies a prime spot on Mexico's national flag. The plant was considered sacred by the ancient Aztecs, and modern-day Mexicans eat it, drink it, and even use it in medicines and shampoos. Now scientists have come up with a new use for the bright green plant: producing renewable energy.\nKnown locally as nopal, the prickly pear is farmed on a massive scale in Mexico. Over the years, only the edible soft inner flesh has been used. The cactus's thick outer layer (i.e., husk), with all those spines, had always been viewed as a waste product until researchers developed a biogas generator to turn the husks into electricity.\nThe pilot project dedicated to developing the cactus biogas generator began in the south of Mexico City. The area produces 200,000 tons a year of prickly pear cactus—up to 10 tons of which ends up as waste on the floor of the cactus market each day. Then, a local green energy startup company got the idea to turn that waste into energy. The generator is now in place at the cactus market, where the vendors are enthusiastic about this new way to utilize the tons of cactus husks that once went directly into the trash.\nThe prickly pear has a number of advantages over other biofuel crops, such as wheat, sugarcane, and soybeans. For one thing, only the husk of the cactus is used for generating biofuel, while its inner flesh is still preserved for food. Therefore, using the plant as a fuel source will not put pressure on food prices. Moreover, the cactus requires minimum water, and thus is not grown on traditional agricultural pasture. This means that no increased competition arises for the water or land presently used for food production.\nThe project in Mexico City has brought new hope to reducing the use of fossil fuels. If it can be expanded, the prickly pear could be the key to Mexico's energy future.",
+  "group_id": "PX-GSAT110-G04",
+  "stem": "What advantage does the prickly pear cactus have over other biofuel crops?",
+  "options": [
+   "It generates more energy.",
+   "It will not influence food prices.",
+   "It may replace feed for livestock.",
+   "It can increase global food production."
+  ],
+  "answer": 1,
+  "explain_zh": "仙人掌只利用外皮製造生質燃料、果肉仍保留食用，因此「不會影響糧食價格」，這是它相對於小麥、甘蔗等作物的優勢，故選 B。選項 A、C、D 文章皆未提及或與原文描述不符。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "biofuel",
+    "zh": "生質燃料",
+    "pos": "n."
+   },
+   {
+    "w": "pressure",
+    "zh": "壓力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-035",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "The concept of a travel document, which shows a person is under a ruler's protection while in a foreign land, has probably existed since rulers and states were first invented. But the earliest mention of an object which we might recognize as a passport appeared in about 450 B.C. The Hebrew Bible states that Nehemiah, an official serving King Artaxerxes of ancient Persia, asked permission to travel to Judah. The King agreed and gave Nehemiah a letter \"to the governors of the province beyond the river,\" requesting safe passage for him as he travelled through their lands.\nLater, in the medieval Islamic Caliphate, a form of passport was the bara'a, a receipt for taxes paid. Only people who paid their taxes were permitted to travel to different regions of the Caliphate. In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through. On the whole, documents were not required for travel to seaports, which were considered open trading points, but documents were required to travel inland from seaports.\nKing Henry V of England is credited with having invented the first true passport, as a way of helping his subjects prove who they were in foreign lands. The earliest reference to these documents is found in a 15th-century Act of Parliament, while the term \"passport\" came into use about a century later. Nevertheless, passports were not generally required for international travel until the First World War. It was at this time that passports as we would recognize them today began to be used.",
+  "group_id": "PX-GSAT110-G05",
+  "stem": "How is the information in the passage organized?",
+  "options": [
+   "In order of time.",
+   "By cause and effect.",
+   "In order of importance.",
+   "By definition and illustration."
+  ],
+  "answer": 0,
+  "explain_zh": "全文依照波斯時期、中世紀伊斯蘭哈里發、中世紀歐洲、亨利五世到一戰的先後年代，敘述護照概念的演進，屬於典型的「時間順序」結構，故選 A。文章並非在講因果關係、重要性排序或比較對照。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "organize",
+    "zh": "組織、安排",
+    "pos": "v."
+   },
+   {
+    "w": "chronological",
+    "zh": "按時間順序的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-036",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "The concept of a travel document, which shows a person is under a ruler's protection while in a foreign land, has probably existed since rulers and states were first invented. But the earliest mention of an object which we might recognize as a passport appeared in about 450 B.C. The Hebrew Bible states that Nehemiah, an official serving King Artaxerxes of ancient Persia, asked permission to travel to Judah. The King agreed and gave Nehemiah a letter \"to the governors of the province beyond the river,\" requesting safe passage for him as he travelled through their lands.\nLater, in the medieval Islamic Caliphate, a form of passport was the bara'a, a receipt for taxes paid. Only people who paid their taxes were permitted to travel to different regions of the Caliphate. In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through. On the whole, documents were not required for travel to seaports, which were considered open trading points, but documents were required to travel inland from seaports.\nKing Henry V of England is credited with having invented the first true passport, as a way of helping his subjects prove who they were in foreign lands. The earliest reference to these documents is found in a 15th-century Act of Parliament, while the term \"passport\" came into use about a century later. Nevertheless, passports were not generally required for international travel until the First World War. It was at this time that passports as we would recognize them today began to be used.",
+  "group_id": "PX-GSAT110-G05",
+  "stem": "Which of the following statements is true about the earliest travel document?",
+  "options": [
+   "It was issued by the king of Judah.",
+   "It was given to an official of Persia.",
+   "It appeared more than three thousand years ago.",
+   "It served to invite people to travel beyond the river."
+  ],
+  "answer": 1,
+  "explain_zh": "最早的旅行文件是波斯國王亞達薛西給官員尼希米的一封信，用來保障他安全通行，故選 B。選項 A 誤把發文者說成猶大王、C 誇大成三千多年前（實際約2500年前）、D 誤解書信內容是邀請信而非通行證，皆與原文不符。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "official",
+    "zh": "官員",
+    "pos": "n."
+   },
+   {
+    "w": "safe passage",
+    "zh": "安全通行",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-037",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "The concept of a travel document, which shows a person is under a ruler's protection while in a foreign land, has probably existed since rulers and states were first invented. But the earliest mention of an object which we might recognize as a passport appeared in about 450 B.C. The Hebrew Bible states that Nehemiah, an official serving King Artaxerxes of ancient Persia, asked permission to travel to Judah. The King agreed and gave Nehemiah a letter \"to the governors of the province beyond the river,\" requesting safe passage for him as he travelled through their lands.\nLater, in the medieval Islamic Caliphate, a form of passport was the bara'a, a receipt for taxes paid. Only people who paid their taxes were permitted to travel to different regions of the Caliphate. In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through. On the whole, documents were not required for travel to seaports, which were considered open trading points, but documents were required to travel inland from seaports.\nKing Henry V of England is credited with having invented the first true passport, as a way of helping his subjects prove who they were in foreign lands. The earliest reference to these documents is found in a 15th-century Act of Parliament, while the term \"passport\" came into use about a century later. Nevertheless, passports were not generally required for international travel until the First World War. It was at this time that passports as we would recognize them today began to be used.",
+  "group_id": "PX-GSAT110-G05",
+  "stem": "When did the term \"passport\" start being used?",
+  "options": [
+   "In about 450 B.C.",
+   "During World War I.",
+   "In the 16th century.",
+   "During King Henry V's reign."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到15世紀的國會法案首次出現相關文件記載，而「passport」一詞則是約一世紀後（即16世紀）才開始被使用，故選 C。選項 A、B、D 皆為文章提到的其他時間點，並非術語開始使用的時間。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "term",
+    "zh": "術語",
+    "pos": "n."
+   },
+   {
+    "w": "reign",
+    "zh": "統治時期",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-038",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "The concept of a travel document, which shows a person is under a ruler's protection while in a foreign land, has probably existed since rulers and states were first invented. But the earliest mention of an object which we might recognize as a passport appeared in about 450 B.C. The Hebrew Bible states that Nehemiah, an official serving King Artaxerxes of ancient Persia, asked permission to travel to Judah. The King agreed and gave Nehemiah a letter \"to the governors of the province beyond the river,\" requesting safe passage for him as he travelled through their lands.\nLater, in the medieval Islamic Caliphate, a form of passport was the bara'a, a receipt for taxes paid. Only people who paid their taxes were permitted to travel to different regions of the Caliphate. In medieval Europe, on the other hand, travel documents were issued by local authorities, and generally contained a list of towns and cities which the document holder was permitted to enter or pass through. On the whole, documents were not required for travel to seaports, which were considered open trading points, but documents were required to travel inland from seaports.\nKing Henry V of England is credited with having invented the first true passport, as a way of helping his subjects prove who they were in foreign lands. The earliest reference to these documents is found in a 15th-century Act of Parliament, while the term \"passport\" came into use about a century later. Nevertheless, passports were not generally required for international travel until the First World War. It was at this time that passports as we would recognize them today began to be used.",
+  "group_id": "PX-GSAT110-G05",
+  "stem": "Which of the following is NOT mentioned in the passage as a form of passport?",
+  "options": [
+   "A letter.",
+   "A receipt.",
+   "A proof of identity.",
+   "A list of seaports."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到的護照形式包括書信、完稅收據、城鎮清單，但並未提及「海港清單」，事實上海港反而通常不需要文件，故選 D。選項 A、B、C 皆能在文章中找到對應敘述。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "receipt",
+    "zh": "收據",
+    "pos": "n."
+   },
+   {
+    "w": "identity",
+    "zh": "身分",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-039",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Benjamin Franklin, one of the Founding Fathers of the United States, was not only a great politician but also a highly accomplished scientist and inventor. Of his many achievements, probably the least well-known are his accomplishments in music. He invented an instrument for which both Mozart and Beethoven composed music—the glass armonica.\nIn 1761, while living in England, Franklin heard a performer playing musical glasses. Franklin was charmed by the music, but felt that there was a better way to create the same sound. He had a glassmaker create thirty-seven hemispheres made of glass, with each being a different size and thickness to produce different pitches. The glass hemispheres were color coded with paint to identify the notes. Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest. He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate. Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound. He mastered the instrument and took it to parties and gatherings to play for his friends and acquaintances. The instrument became so popular that thousands were built and sold.\nBut musical fashions changed. Music was moving out of the relatively small halls of Mozart's day into the large concert halls of the 19th century, and without amplification, the glass armonica simply couldn't be heard. Concert reviews from the period mourned the fact that the armonica sounded wonderful—only when it could be heard. So, alas, Franklin's marvelous invention was ultimately abandoned. The popularity of the instrument faded early in the 19th century, but it is still played occasionally today.",
+  "group_id": "PX-GSAT110-G06",
+  "stem": "Which of the following statements is true about how the glass armonica works?",
+  "options": [
+   "Water has to be poured into the glass hemispheres.",
+   "Colored paint makes it sound better and last longer.",
+   "An iron rod is used to strike the thicker glass hemispheres.",
+   "The performer's fingers have to be slightly wet when playing it."
+  ],
+  "answer": 3,
+  "explain_zh": "文中描述富蘭克林演奏玻璃口琴時，需先「沾濕手指」再觸碰旋轉中的玻璃半球邊緣才能發出獨特樂音，故選 D。選項 A、B、C 皆與原文描述的運作方式不符，屬於細節混淆的陷阱選項。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "moisten",
+    "zh": "沾濕",
+    "pos": "v."
+   },
+   {
+    "w": "rim",
+    "zh": "邊緣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-040",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Benjamin Franklin, one of the Founding Fathers of the United States, was not only a great politician but also a highly accomplished scientist and inventor. Of his many achievements, probably the least well-known are his accomplishments in music. He invented an instrument for which both Mozart and Beethoven composed music—the glass armonica.\nIn 1761, while living in England, Franklin heard a performer playing musical glasses. Franklin was charmed by the music, but felt that there was a better way to create the same sound. He had a glassmaker create thirty-seven hemispheres made of glass, with each being a different size and thickness to produce different pitches. The glass hemispheres were color coded with paint to identify the notes. Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest. He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate. Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound. He mastered the instrument and took it to parties and gatherings to play for his friends and acquaintances. The instrument became so popular that thousands were built and sold.\nBut musical fashions changed. Music was moving out of the relatively small halls of Mozart's day into the large concert halls of the 19th century, and without amplification, the glass armonica simply couldn't be heard. Concert reviews from the period mourned the fact that the armonica sounded wonderful—only when it could be heard. So, alas, Franklin's marvelous invention was ultimately abandoned. The popularity of the instrument faded early in the 19th century, but it is still played occasionally today.",
+  "group_id": "PX-GSAT110-G06",
+  "stem": "According to the passage, why did the glass armonica lose its popularity?",
+  "options": [
+   "The skill of playing the glass armonica was very hard to master.",
+   "Famous musicians like Beethoven had problems composing for it.",
+   "Concert halls became too big for its music to be heard by the audience.",
+   "Reviewers in that time indicated that it was clumsy and not fashionable."
+  ],
+  "answer": 2,
+  "explain_zh": "十九世紀音樂廳規模變大，玻璃口琴的聲音在沒有擴音設備下「無法被聽見」，因而逐漸式微，故選 C。選項 A、B、D 文章皆未提及，屬於無中生有的陷阱選項，須留意原文提到的真正原因。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "amplification",
+    "zh": "擴音",
+    "pos": "n."
+   },
+   {
+    "w": "fade",
+    "zh": "逐漸消退",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-041",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Benjamin Franklin, one of the Founding Fathers of the United States, was not only a great politician but also a highly accomplished scientist and inventor. Of his many achievements, probably the least well-known are his accomplishments in music. He invented an instrument for which both Mozart and Beethoven composed music—the glass armonica.\nIn 1761, while living in England, Franklin heard a performer playing musical glasses. Franklin was charmed by the music, but felt that there was a better way to create the same sound. He had a glassmaker create thirty-seven hemispheres made of glass, with each being a different size and thickness to produce different pitches. The glass hemispheres were color coded with paint to identify the notes. Franklin ran an iron rod through a hole in the top of each hemisphere so that they could nest together from largest to smallest. He linked all of this to a device shaped like a spinning wheel, with a foot control that turned the rod, making the glass hemispheres rotate. Franklin moistened his fingers and held them against the rims of the glass hemispheres as they turned, producing a unique sound. He mastered the instrument and took it to parties and gatherings to play for his friends and acquaintances. The instrument became so popular that thousands were built and sold.\nBut musical fashions changed. Music was moving out of the relatively small halls of Mozart's day into the large concert halls of the 19th century, and without amplification, the glass armonica simply couldn't be heard. Concert reviews from the period mourned the fact that the armonica sounded wonderful—only when it could be heard. So, alas, Franklin's marvelous invention was ultimately abandoned. The popularity of the instrument faded early in the 19th century, but it is still played occasionally today.",
+  "group_id": "PX-GSAT110-G06",
+  "stem": "What does the highlighted \"they\" in the second paragraph refer to?",
+  "options": [
+   "Iron rods.",
+   "Hemispheres.",
+   "Colored notes.",
+   "Musical pitches."
+  ],
+  "answer": 1,
+  "explain_zh": "前文描述玻璃「半球」能大小相疊、旋轉並被手指觸碰發出樂音，they 承接的正是這些玻璃半球，故選 B hemispheres。Iron rods（鐵桿，是貫穿半球的零件而非會旋轉發聲的主體）、Colored notes、Musical pitches 皆非代名詞指涉的對象。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "hemisphere",
+    "zh": "半球",
+    "pos": "n."
+   },
+   {
+    "w": "rotate",
+    "zh": "旋轉",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-042",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Morgan's Wonderland, located in San Antonio, Texas, is a theme park geared mainly toward mentally or physically disabled children. The park was built by Gordon Hartman, a former real estate developer. The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.\nThe world's first ultra-accessible family fun park, Morgan's Wonderland opened in the spring of 2010. Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.\nCompletely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park. The rides are custom-designed to accommodate wheelchair riders so that every family member can enjoy the fun. The adapted rides include the Off-Road Adventure, where guests can test their driving skills in sporty vehicles. Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park. The band also enables them to take part in electronic activities. For example, when the riders scan the band at the Off-Road Adventure, a photo will be taken and sent to their email.\nIn June 2017, Morgan's Wonderland celebrated the opening of Morgan's Inspiration Island. The new expansion is composed of five themed splash pads and a River Boat Adventure Ride. The wheelchair guests can transfer out of their chairs into unique, waterproof chairs and enjoy the splash park without risking damage to their personal wheelchairs.\n\"Morgan taught me that there's more to life in many ways than what I saw before,\" said Hartman. \"The blessing that Morgan has brought is beyond anything that I ever could have imagined and could explain.\"",
+  "group_id": "PX-GSAT110-G07",
+  "stem": "What is the passage mainly about?",
+  "options": [
+   "The new addition to Morgan's Wonderland.",
+   "The establishment and features of a special theme park.",
+   "The advanced technological devices in Morgan's Wonderland.",
+   "The needs of people who suffer from physical and mental disabilities."
+  ],
+  "answer": 1,
+  "explain_zh": "全文介紹這座專為身心障礙兒童設計的主題樂園的創立緣由與各項無障礙設施，主軸是樂園「本身的建立與特色」，故選 B。選項 A、C、D 都只涵蓋部分內容，並非通篇主旨。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "establishment",
+    "zh": "創立",
+    "pos": "n."
+   },
+   {
+    "w": "feature",
+    "zh": "以……為特色",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-043",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Morgan's Wonderland, located in San Antonio, Texas, is a theme park geared mainly toward mentally or physically disabled children. The park was built by Gordon Hartman, a former real estate developer. The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.\nThe world's first ultra-accessible family fun park, Morgan's Wonderland opened in the spring of 2010. Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.\nCompletely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park. The rides are custom-designed to accommodate wheelchair riders so that every family member can enjoy the fun. The adapted rides include the Off-Road Adventure, where guests can test their driving skills in sporty vehicles. Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park. The band also enables them to take part in electronic activities. For example, when the riders scan the band at the Off-Road Adventure, a photo will be taken and sent to their email.\nIn June 2017, Morgan's Wonderland celebrated the opening of Morgan's Inspiration Island. The new expansion is composed of five themed splash pads and a River Boat Adventure Ride. The wheelchair guests can transfer out of their chairs into unique, waterproof chairs and enjoy the splash park without risking damage to their personal wheelchairs.\n\"Morgan taught me that there's more to life in many ways than what I saw before,\" said Hartman. \"The blessing that Morgan has brought is beyond anything that I ever could have imagined and could explain.\"",
+  "group_id": "PX-GSAT110-G07",
+  "stem": "What does \"ultra-accessible\" in the second paragraph imply?",
+  "options": [
+   "It's easy for all visitors to use the facilities.",
+   "Admission is free for people young and old.",
+   "Wheelchairs are provided for every featured attraction.",
+   "Morgan's Wonderland is situated in a convenient location."
+  ],
+  "answer": 0,
+  "explain_zh": "ultra-accessible 意指這座樂園「所有遊客都能輕鬆使用園內各項設施」，強調無障礙的普及程度，故選 A。選項 B、C、D 雖是文章提到的其他事實，但並非 ultra-accessible 這個詞本身所隱含的意思。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "accessible",
+    "zh": "易於使用的、無障礙的",
+    "pos": "adj."
+   },
+   {
+    "w": "imply",
+    "zh": "暗示",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-044",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Morgan's Wonderland, located in San Antonio, Texas, is a theme park geared mainly toward mentally or physically disabled children. The park was built by Gordon Hartman, a former real estate developer. The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.\nThe world's first ultra-accessible family fun park, Morgan's Wonderland opened in the spring of 2010. Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.\nCompletely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park. The rides are custom-designed to accommodate wheelchair riders so that every family member can enjoy the fun. The adapted rides include the Off-Road Adventure, where guests can test their driving skills in sporty vehicles. Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park. The band also enables them to take part in electronic activities. For example, when the riders scan the band at the Off-Road Adventure, a photo will be taken and sent to their email.\nIn June 2017, Morgan's Wonderland celebrated the opening of Morgan's Inspiration Island. The new expansion is composed of five themed splash pads and a River Boat Adventure Ride. The wheelchair guests can transfer out of their chairs into unique, waterproof chairs and enjoy the splash park without risking damage to their personal wheelchairs.\n\"Morgan taught me that there's more to life in many ways than what I saw before,\" said Hartman. \"The blessing that Morgan has brought is beyond anything that I ever could have imagined and could explain.\"",
+  "group_id": "PX-GSAT110-G07",
+  "stem": "Which of the following is NOT mentioned as a fun activity in the park?",
+  "options": [
+   "Fishing.",
+   "Driving.",
+   "Hiking.",
+   "Picnicking."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到樂園設有釣魚湖、越野駕駛遊具與野餐區，但並未提及「健行」活動，故選 C。選項 A、B、D 皆能在文章第三段中找到對應的敘述。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "hiking",
+    "zh": "健行",
+    "pos": "n."
+   },
+   {
+    "w": "attraction",
+    "zh": "遊樂設施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT110-045",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Morgan's Wonderland, located in San Antonio, Texas, is a theme park geared mainly toward mentally or physically disabled children. The park was built by Gordon Hartman, a former real estate developer. The creation of the park was inspired by his daughter, Morgan, who suffers from severe cognitive delay and physical challenges.\nThe world's first ultra-accessible family fun park, Morgan's Wonderland opened in the spring of 2010. Admission for guests with special needs is free, and fees for the general public are set at a much discounted price so that people of all ages and abilities can come together and play in a fun and safe environment.\nCompletely wheelchair-accessible, the park features 25 acres of attractions including rides, playgrounds, a catch-and-release fishing lake, and picnic areas throughout the park. The rides are custom-designed to accommodate wheelchair riders so that every family member can enjoy the fun. The adapted rides include the Off-Road Adventure, where guests can test their driving skills in sporty vehicles. Moreover, each visitor is offered the option to wear a GPS Adventure Band, which allows them to keep track of each other while in the park. The band also enables them to take part in electronic activities. For example, when the riders scan the band at the Off-Road Adventure, a photo will be taken and sent to their email.\nIn June 2017, Morgan's Wonderland celebrated the opening of Morgan's Inspiration Island. The new expansion is composed of five themed splash pads and a River Boat Adventure Ride. The wheelchair guests can transfer out of their chairs into unique, waterproof chairs and enjoy the splash park without risking damage to their personal wheelchairs.\n\"Morgan taught me that there's more to life in many ways than what I saw before,\" said Hartman. \"The blessing that Morgan has brought is beyond anything that I ever could have imagined and could explain.\"",
+  "group_id": "PX-GSAT110-G07",
+  "stem": "Which of the following statements is true about Morgan's Wonderland?",
+  "options": [
+   "Waterproof chairs enable visitors to roam all over the park.",
+   "Morgan's Inspiration Island includes 25 acres of attractions.",
+   "The success of the park is exactly what Morgan intended to achieve.",
+   "GPS bands allow visitors to enjoy the convenience of the electronic devices."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到每位遊客可配戴 GPS 手環，方便彼此定位並參與電子互動活動，享受科技帶來的便利，故選 D。選項 A 誤把防水椅說成可暢遊全園、B 把地點與面積數字錯置給新園區、C 過度詮釋創辦人女兒的心願，皆與原文不符。",
+  "source": "110學測",
+  "vocab": [
+   {
+    "w": "convenience",
+    "zh": "便利",
+    "pos": "n."
+   },
+   {
+    "w": "device",
+    "zh": "裝置",
+    "pos": "n."
+   }
+  ]
+ }
+]

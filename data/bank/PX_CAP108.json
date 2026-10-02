@@ -1,0 +1,1190 @@
+[
+ {
+  "id": "PX-CAP108-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "轉折連接詞",
+  "stem": "Ms. Liu usually gives us a lot of homework, ____ she didn't give us any today.",
+  "options": [
+   "but",
+   "if",
+   "or",
+   "so"
+  ],
+  "answer": 0,
+  "explain_zh": "劉老師平常出很多功課，今天卻沒出，前後語意明顯轉折、出乎意料，故選 but。if 表條件、or 表選擇、so 表結果，都無法呈現「平常…今天卻…」的對比語氣。記住 but 前後常是意料之外的結果。",
+  "vocab": [
+   {
+    "w": "homework",
+    "zh": "功課",
+    "pos": "n."
+   },
+   {
+    "w": "but",
+    "zh": "但是",
+    "pos": "conj."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "動名詞片語主詞單數",
+  "stem": "Playing games on the cellphone ____ popular with high school students.",
+  "options": [
+   "is",
+   "are",
+   "being",
+   "to be"
+  ],
+  "answer": 0,
+  "explain_zh": "Playing games on the cellphone 是動名詞片語當主詞，文法上視為單數，動詞要用 is，故選 is。are 是複數動詞、being 是現在分詞不能單獨作述語動詞、to be 是不定詞，都不能直接接在動名詞主詞後面當主要動詞。",
+  "vocab": [
+   {
+    "w": "popular with",
+    "zh": "受…歡迎",
+    "pos": "phr."
+   },
+   {
+    "w": "playing games",
+    "zh": "玩遊戲",
+    "pos": "phr."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:there-be",
+  "tag_zh": "there be 句型",
+  "stem": "There ____ more than twenty clubs in our school.  Which one would you like to join?",
+  "options": [
+   "has",
+   "have",
+   "is",
+   "are"
+  ],
+  "answer": 3,
+  "explain_zh": "twenty clubs 是複數名詞，there be 句型的 be 動詞要與後面的名詞一致，故選 are。has、have 不是 there be 句型的正確用法，is 則是單數動詞，與複數的 clubs 不一致。",
+  "vocab": [
+   {
+    "w": "club",
+    "zh": "社團",
+    "pos": "n."
+   },
+   {
+    "w": "join",
+    "zh": "加入",
+    "pos": "v."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "形容詞語意",
+  "stem": "Diane had a bad cold last week.  She is still too ____ to go mountain climbing with you.",
+  "options": [
+   "busy",
+   "short",
+   "weak",
+   "young"
+  ],
+  "answer": 2,
+  "explain_zh": "Diane 上週感冒，句意是她身體還很「虛弱」，沒辦法去爬山，故選 weak。busy（忙碌的）、short（矮的）、young（年輕的）都無法解釋「感冒剛好、不能去爬山」的原因。",
+  "vocab": [
+   {
+    "w": "weak",
+    "zh": "虛弱的",
+    "pos": "adj."
+   },
+   {
+    "w": "mountain climbing",
+    "zh": "爬山",
+    "pos": "n."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:possessive-pronoun",
+  "tag_zh": "獨立所有格",
+  "stem": "The book under Mary's desk is ____, but I don't know why it is there.",
+  "options": [
+   "us",
+   "me",
+   "my",
+   "mine"
+  ],
+  "answer": 3,
+  "explain_zh": "book is + 所有格代名詞 表示「這本書是我的」，用獨立所有格 mine 代替 my book，故選 mine。us、me 是受格代名詞、my 是所有格形容詞（後面必須再接名詞），都不能單獨當主詞補語表示「屬於某人」。",
+  "vocab": [
+   {
+    "w": "mine",
+    "zh": "我的（東西）",
+    "pos": "pron."
+   },
+   {
+    "w": "desk",
+    "zh": "書桌",
+    "pos": "n."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "形容詞語意",
+  "stem": "Last night a garbage truck hit a tree and turned over.  Now the street is ____ with lots of garbage.",
+  "options": [
+   "dark",
+   "dirty",
+   "heavy",
+   "poor"
+  ],
+  "answer": 1,
+  "explain_zh": "垃圾車撞倒樹又翻車，垃圾散落一地，讓街道變得「髒亂」，故選 dirty。dark（暗的）、heavy（重的）、poor（貧窮的）都無法呼應垃圾散落造成的髒亂景象。be dirty with 表示「因…而變髒」。",
+  "vocab": [
+   {
+    "w": "dirty",
+    "zh": "髒的",
+    "pos": "adj."
+   },
+   {
+    "w": "turn over",
+    "zh": "翻覆",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:pronouns",
+  "tag_zh": "代名詞指代不定量",
+  "stem": "It almost killed Kevin to take care of his baby sister for one afternoon.  He wondered how his mom could do ____ every day.",
+  "options": [
+   "her",
+   "it",
+   "one",
+   "them"
+  ],
+  "answer": 1,
+  "explain_zh": "Kevin 照顧妹妹一下午就快累垮了，好奇媽媽怎麼能天天做「這件事」，it 用來代替前面提到的「照顧baby sister」這整件事，故選 it。her（她）、one（一個，不特定的人事物）、them（它們，複數）在此都沒有明確可代替的對象，語意不合。",
+  "vocab": [
+   {
+    "w": "take care of",
+    "zh": "照顧",
+    "pos": "phr."
+   },
+   {
+    "w": "wonder",
+    "zh": "好奇、想知道",
+    "pos": "v."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verb",
+  "tag_zh": "動詞語意",
+  "stem": "Joyce tells her brother everything.  She never ____ anything from him.",
+  "options": [
+   "covers",
+   "believes",
+   "hides",
+   "takes"
+  ],
+  "answer": 2,
+  "explain_zh": "Joyce 什麼事都跟哥哥說，表示她從不對他「隱瞞」任何事，故選 hides。covers（覆蓋）、believes（相信）、takes（拿取）都無法表達「對某人隱瞞某事」，hide something from somebody 是常見搭配。",
+  "vocab": [
+   {
+    "w": "hide",
+    "zh": "隱瞞",
+    "pos": "v."
+   },
+   {
+    "w": "tell",
+    "zh": "告訴",
+    "pos": "v."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:noun",
+  "tag_zh": "名詞語意",
+  "stem": "Ben always uses his birthday as a(n) ____ to ask Dad to buy him something expensive.",
+  "options": [
+   "action",
+   "excuse",
+   "prize",
+   "rule"
+  ],
+  "answer": 1,
+  "explain_zh": "Ben 每次都拿生日當「藉口」，要求爸爸買貴重的東西給他，故選 excuse。action（行動）、prize（獎品）、rule（規則）都與「藉口、託辭」的語意無關，use...as an excuse 是常見搭配。",
+  "vocab": [
+   {
+    "w": "excuse",
+    "zh": "藉口",
+    "pos": "n."
+   },
+   {
+    "w": "expensive",
+    "zh": "昂貴的",
+    "pos": "adj."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:present-perfect",
+  "tag_zh": "現在完成式疑問句",
+  "stem": "____ that last piece of pie?  If not, can I have it?  I didn't eat much this morning.",
+  "options": [
+   "Had you eaten",
+   "Were you eating",
+   "Do you eat",
+   "Are you going to eat"
+  ],
+  "answer": 3,
+  "explain_zh": "後句問「如果沒有的話，可以給我嗎」，可知問句是在問對方「是否即將要」吃掉最後一塊派，用 be going to 表達近期即將發生的打算，故選 Are you going to eat。Had you eaten 是過去完成式問句、Were you eating 是過去進行式、Do you eat 是現在簡單式，都不符合「即將要吃」的未來意圖。",
+  "vocab": [
+   {
+    "w": "be going to",
+    "zh": "即將要",
+    "pos": "phr."
+   },
+   {
+    "w": "piece",
+    "zh": "一塊、一片",
+    "pos": "n."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞語意",
+  "stem": "Everyone in the class enjoys playing chess ____ Bill; he thinks the game is boring.",
+  "options": [
+   "except",
+   "for",
+   "like",
+   "of"
+  ],
+  "answer": 0,
+  "explain_zh": "後句說 Bill 覺得下棋很無聊，可知「除了」Bill 以外，班上其他人都喜歡下棋，故選 except（除了…之外）。for（為了）、like（像）、of（的）都無法表達「唯獨某人例外」的語意。",
+  "vocab": [
+   {
+    "w": "except",
+    "zh": "除了…之外",
+    "pos": "prep."
+   },
+   {
+    "w": "boring",
+    "zh": "無聊的",
+    "pos": "adj."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:used-to",
+  "tag_zh": "used to 表過去習慣",
+  "stem": "In my school days, I ____ to English radio programs every day.  That was how I learned English at that time.",
+  "options": [
+   "listen",
+   "have listened",
+   "used to listen",
+   "was listening"
+  ],
+  "answer": 2,
+  "explain_zh": "描述過去求學時期每天聽英語廣播的習慣，現在已經不再這樣做，used to + 原形動詞 表示「過去經常、現在已不再」，故選 used to listen。listen 是現在式、have listened 是現在完成式、was listening 是過去進行式，都不符合「過去的習慣、現在已改變」的語境。",
+  "vocab": [
+   {
+    "w": "used to",
+    "zh": "過去經常",
+    "pos": "phr."
+   },
+   {
+    "w": "radio program",
+    "zh": "廣播節目",
+    "pos": "n."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verb",
+  "tag_zh": "動詞語意",
+  "stem": "Tom's voice ____ when he talks about his neighbors.  He speaks faster, his face becomes redder and you can almost see fire in his eyes.",
+  "options": [
+   "appears",
+   "drops",
+   "grows",
+   "rises"
+  ],
+  "answer": 3,
+  "explain_zh": "後文描述他講話變快、臉變紅、眼睛冒火，都是生氣的表現，可知他的聲音也跟著「提高」，故選 rises。appears（出現）、drops（下降，語意相反）、grows（成長，較不精確）都不如 rises 貼切表達生氣時音調升高的畫面。",
+  "vocab": [
+   {
+    "w": "rise",
+    "zh": "升高",
+    "pos": "v."
+   },
+   {
+    "w": "neighbor",
+    "zh": "鄰居",
+    "pos": "n."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:quantifiers",
+  "tag_zh": "數量詞語意",
+  "stem": "____ other waiters in the restaurant have worked here longer than Clark; only Lois and Lana started working here before him.",
+  "options": [
+   "All",
+   "Most",
+   "Some",
+   "Few"
+  ],
+  "answer": 3,
+  "explain_zh": "後句說只有 Lois 和 Lana 比 Clark 資深，可知比 Clark 資深的服務生「很少」，故選 Few（修飾可數複數名詞，表示「幾乎沒有」）。All（全部）、Most（大部分）語意過多、Some（一些）語氣也不夠強烈，都與「只有兩人」的事實不符。",
+  "vocab": [
+   {
+    "w": "few",
+    "zh": "很少的（可數名詞）",
+    "pos": "adj."
+   },
+   {
+    "w": "waiter",
+    "zh": "服務生",
+    "pos": "n."
+   }
+  ],
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-015",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "詩句情境理解",
+  "stem": "What are \"Daddy and me\" doing in the poem?",
+  "options": [
+   "Eating.",
+   "Singing.",
+   "Dancing.",
+   "Cooking."
+  ],
+  "answer": 3,
+  "explain_zh": "整首詩描述父子一起切肉、讓馬鈴薯在水裡翻滾、聽湯在鍋裡沸騰歌唱，標題〈Making goulash〉也點明這是在「煮」燉菜的過程，故選 D（Cooking）。詩中沒有描寫吃（A）、唱歌（B，只是比喻聲音）或跳舞（C，也是比喻馬鈴薯翻滾的樣子）的實際動作。",
+  "vocab": [
+   {
+    "w": "goulash",
+    "zh": "匈牙利燉菜",
+    "pos": "n."
+   },
+   {
+    "w": "cook",
+    "zh": "烹煮",
+    "pos": "v."
+   }
+  ],
+  "passage": "Making goulash\nwe don't talk much,\nDaddy and me.\n\"The talking's in the making, son,\"\nhe smiles.\nI see what he means.\nIt's in the knife\nmeeting the beef,\nin the dancing of potatoes\nas they turn in the water,\nin the singing\nof boiling soup in the pot.\nThere are enough words\nin the way\nDaddy teaches me his famous dish\nand the way he hugs me\nwhen we finish.\nMaking goulash\nwe don't talk much,\nDaddy and me,\nbut everything is said.\n(Ideas from Candace Pearson's poem)",
+  "group_id": "PX-CAP108-G01",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-016",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "詩句情感推論",
+  "stem": "What can we most likely know about the speaker?",
+  "options": [
+   "He seldom understands his father.",
+   "He enjoys his time with his father.",
+   "He often makes goulash for his father.",
+   "He wants to be as famous as his father."
+  ],
+  "answer": 1,
+  "explain_zh": "詩末說雖然父子倆話不多，但「一切盡在不言中」，加上結尾提到的擁抱，可知說話者很享受與父親相處、一起做菜的這段時光，故選 B。詩中沒有暗示他不懂父親（A）、常常自己做燉菜給爸爸吃（C，是父親教他做），也沒提到想和父親一樣有名（D）。",
+  "vocab": [
+   {
+    "w": "enjoy",
+    "zh": "享受",
+    "pos": "v."
+   },
+   {
+    "w": "hug",
+    "zh": "擁抱",
+    "pos": "n."
+   }
+  ],
+  "passage": "Making goulash\nwe don't talk much,\nDaddy and me.\n\"The talking's in the making, son,\"\nhe smiles.\nI see what he means.\nIt's in the knife\nmeeting the beef,\nin the dancing of potatoes\nas they turn in the water,\nin the singing\nof boiling soup in the pot.\nThere are enough words\nin the way\nDaddy teaches me his famous dish\nand the way he hugs me\nwhen we finish.\nMaking goulash\nwe don't talk much,\nDaddy and me,\nbut everything is said.\n(Ideas from Candace Pearson's poem)",
+  "group_id": "PX-CAP108-G01",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-017",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "票價規則細節",
+  "stem": "Which is true about City Sight Bus tickets?",
+  "options": [
+   "It costs less to buy tickets on the Internet.",
+   "People must pay the full ticket price for a pet.",
+   "Tickets are more expensive in the high season.",
+   "People save 10% if they buy two tickets for the same line."
+  ],
+  "answer": 0,
+  "explain_zh": "廣告明確寫著「Save 10% if you buy tickets on the Internet」，也就是網路訂票比較便宜，故選 A。廣告中寵物只需付半價、並非全票（B錯），淡旺季只有營業時間不同、票價文中並未說旺季較貴（C），同時買兩條路線的票才有折扣，並非買同路線兩張票（D）。",
+  "vocab": [
+   {
+    "w": "save",
+    "zh": "省下",
+    "pos": "v."
+   },
+   {
+    "w": "ticket price",
+    "zh": "票價",
+    "pos": "phr."
+   }
+  ],
+  "passage": "City Sight Bus, www.citysightbus.org.  OPENING HOURS: High Season (April to September) 9:00-18:00 every day; Low Season (October to March) 9:00-17:00 every day.\nTICKET PRICES: Line A: $20 each person.  Line B: $18 each person.\nTHINGS YOU SHOULD KNOW: Buses for both lines leave every hour from Central Station.  Line A takes one hour; Line B takes 50 minutes.  If you are taking your pet with you, please buy a seat for it at half price.  Save 10% if you buy tickets on the Internet.  Save 10% if you buy tickets for both lines.  Go to www.citysightbus.org for more information.",
+  "group_id": "PX-CAP108-G02",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-018",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "路線細節比對",
+  "stem": "Which is true about the bus lines?",
+  "options": [
+   "Line B takes more time.",
+   "Both lines cross Farmers' Bridge.",
+   "Both lines leave from Central Station.",
+   "There are more gardens to see on Line A."
+  ],
+  "answer": 2,
+  "explain_zh": "廣告寫著兩條路線的巴士都是「從 Central Station 出發」，故選 C。文中反而是 Line B 比 Line A 省時間（A敘述相反），並未提到兩條路線都會經過 Farmers' Bridge（B）或 Line A 沿途花園較多（D，文中未提及花園）。",
+  "vocab": [
+   {
+    "w": "leave from",
+    "zh": "從…出發",
+    "pos": "phr."
+   },
+   {
+    "w": "line",
+    "zh": "路線",
+    "pos": "n."
+   }
+  ],
+  "passage": "City Sight Bus, www.citysightbus.org.  OPENING HOURS: High Season (April to September) 9:00-18:00 every day; Low Season (October to March) 9:00-17:00 every day.\nTICKET PRICES: Line A: $20 each person.  Line B: $18 each person.\nTHINGS YOU SHOULD KNOW: Buses for both lines leave every hour from Central Station.  Line A takes one hour; Line B takes 50 minutes.  If you are taking your pet with you, please buy a seat for it at half price.  Save 10% if you buy tickets on the Internet.  Save 10% if you buy tickets for both lines.  Go to www.citysightbus.org for more information.",
+  "group_id": "PX-CAP108-G02",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-019",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "對話推論",
+  "stem": "Why were there seventeen calls asking for Mike?",
+  "options": [
+   "His team was angry at him.",
+   "He is a popular soccer player.",
+   "He did not show up for the game on Friday.",
+   "His name did not appear on the list of players."
+  ],
+  "answer": 0,
+  "explain_zh": "對話最後才揭曉 Mike 忘記去幫球隊拿球衣，隔天又有重要比賽，可知隊友們（包括 Johnny、Ricky 等）氣得紛紛打電話找他理論，故選 A。文中並未提到他是受歡迎的球員（B）、星期五缺席比賽（C，其實是忘記拿球衣），也沒說他的名字沒被列入名單（D）。",
+  "vocab": [
+   {
+    "w": "be angry at",
+    "zh": "對…生氣",
+    "pos": "phr."
+   },
+   {
+    "w": "team",
+    "zh": "隊伍",
+    "pos": "n."
+   }
+  ],
+  "passage": "Sarah: You're VERY popular today.  I've had seventeen calls asking for you.\nMike: Finally!  After all these years of kicking and running, I've got my own fans!  So what did they want?  My photos?  Do I need to sign my name?  Are they starting a fan club for me?\nSarah: Well, let me ask you this: What day was yesterday?\nMike: Friday… Why?\nSarah: Did you forget something?\nMike: Did I forget… OH, NO!  I didn't pick up my soccer team's sport shirts from the shop!  And we're having this big game tomorrow!\nSarah: Yeah.  And from what I've heard, it's your team's most important game this season.\nMike: OK.  I have to go fix this now.\nSarah: Too late.  They've tried.  It's not open on the weekend.  And if you want to know, they are Johnny, Ricky, Archie, Freddie…\nMike: I know, I know, everyone on my team.  Oh, I'm a dead man now.\nSarah: Yeah, that was what they said on the phone, seventeen times.",
+  "group_id": "PX-CAP108-G03",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-020",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What does It mean in the dialogue?",
+  "options": [
+   "The shop.",
+   "The fan club.",
+   "The soccer game.",
+   "The soccer season."
+  ],
+  "answer": 0,
+  "explain_zh": "Sarah 說「It's not open on the weekend」，指的正是 Mike 忘記去拿球衣的那間「店」，週末沒有營業，故選 A。並非指粉絲俱樂部（B）、足球比賽（C）或足球季（D），這些在對話中都不是「週末不營業」的合理對象。",
+  "vocab": [
+   {
+    "w": "open",
+    "zh": "營業的",
+    "pos": "adj."
+   },
+   {
+    "w": "shop",
+    "zh": "店家",
+    "pos": "n."
+   }
+  ],
+  "passage": "Sarah: You're VERY popular today.  I've had seventeen calls asking for you.\nMike: Finally!  After all these years of kicking and running, I've got my own fans!  So what did they want?  My photos?  Do I need to sign my name?  Are they starting a fan club for me?\nSarah: Well, let me ask you this: What day was yesterday?\nMike: Friday… Why?\nSarah: Did you forget something?\nMike: Did I forget… OH, NO!  I didn't pick up my soccer team's sport shirts from the shop!  And we're having this big game tomorrow!\nSarah: Yeah.  And from what I've heard, it's your team's most important game this season.\nMike: OK.  I have to go fix this now.\nSarah: Too late.  They've tried.  It's not open on the weekend.  And if you want to know, they are Johnny, Ricky, Archie, Freddie…\nMike: I know, I know, everyone on my team.  Oh, I'm a dead man now.\nSarah: Yeah, that was what they said on the phone, seventeen times.",
+  "group_id": "PX-CAP108-G03",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-021",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "對話推論",
+  "stem": "What can we learn about Mike?",
+  "options": [
+   "He is nice to people from his fan club.",
+   "He plays soccer with Johnny and Ricky.",
+   "He found a way to fix the trouble he made.",
+   "He decided not to go to the game on Sunday."
+  ],
+  "answer": 1,
+  "explain_zh": "打電話興師問罪的人（Johnny、Ricky、Archie、Freddie 等）正是 Mike 隊上的所有隊友，可知他和他們是隊友、一起踢球，故選 B。文中沒有提到他對粉絲很好（A），他其實正打算設法補救、不是放棄補救（C錯，他說要馬上去處理），也沒決定放棄週日比賽（D，反而急著想辦法解決）。",
+  "vocab": [
+   {
+    "w": "teammate",
+    "zh": "隊友",
+    "pos": "n."
+   },
+   {
+    "w": "play soccer",
+    "zh": "踢足球",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Sarah: You're VERY popular today.  I've had seventeen calls asking for you.\nMike: Finally!  After all these years of kicking and running, I've got my own fans!  So what did they want?  My photos?  Do I need to sign my name?  Are they starting a fan club for me?\nSarah: Well, let me ask you this: What day was yesterday?\nMike: Friday… Why?\nSarah: Did you forget something?\nMike: Did I forget… OH, NO!  I didn't pick up my soccer team's sport shirts from the shop!  And we're having this big game tomorrow!\nSarah: Yeah.  And from what I've heard, it's your team's most important game this season.\nMike: OK.  I have to go fix this now.\nSarah: Too late.  They've tried.  It's not open on the weekend.  And if you want to know, they are Johnny, Ricky, Archie, Freddie…\nMike: I know, I know, everyone on my team.  Oh, I'm a dead man now.\nSarah: Yeah, that was what they said on the phone, seventeen times.",
+  "group_id": "PX-CAP108-G03",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-022",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:title",
+  "tag_zh": "文章標題選擇",
+  "stem": "Which is the best title for this reading?",
+  "options": [
+   "Australia: The Best Place for Birds.",
+   "Mother Bird Fights Weather Changes.",
+   "Larger Mother Birds Have Larger Eggs.",
+   "Family Love: Brothers & Sisters Work Together."
+  ],
+  "answer": 1,
+  "explain_zh": "全文說明澳洲小藍鳥「天鵝妖精」會依天氣冷暖調整蛋的大小，藉此幫助幼鳥在惡劣氣候下存活，這是母鳥對抗天氣變化的生存策略，故選 B。文章重點不是澳洲適合賞鳥（A）、單純比較蛋的大小（C，只是策略之一環）或强調兄弟姐妹合作（D，重點其實在母鳥的策略與兒子的協助）。",
+  "vocab": [
+   {
+    "w": "title",
+    "zh": "標題",
+    "pos": "n."
+   },
+   {
+    "w": "weather",
+    "zh": "天氣",
+    "pos": "n."
+   }
+  ],
+  "passage": "Animals have their special ways to deal with hard times in nature.  The superb fairy-wren, one kind of bright-blue bird in Australia, is one example.  This year, a ten-year study showed that this small bird has eggs of different sizes in different kinds of weather.  When the weather is hot and dry, there is less food for young superb fairy-wrens, and they die easily.  So the mother bird will make larger eggs to help her babies grow stronger inside before they break out of the eggs into the \"hungry\" world.\nHowever, not all mother birds are able to do this trick.  Only those with at least one male child can.  When the weather is \"good,\" the mother will make smaller eggs, and her sons will bring food back for their baby brothers and sisters from the eggs.  With her sons' help, the mother can save more energy to make larger eggs when the weather is bad.  Isn't this amazing?",
+  "group_id": "PX-CAP108-G04",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-023",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What does this trick mean in the reading?",
+  "options": [
+   "Having eggs of different sizes.",
+   "Growing stronger inside the egg.",
+   "Saving food for weaker baby birds.",
+   "Helping baby birds break out of the eggs."
+  ],
+  "answer": 0,
+  "explain_zh": "this trick 承接前段所說「母鳥會依天氣冷暖做出大小不同的蛋，幫助幼鳥在惡劣氣候下更強壯」這項本領，故選 A（做出不同大小的蛋）。它不是指幼鳥在蛋裡長得更強壯的結果（B）、幫弱小幼鳥留糧食（C）或幫幼鳥破殼（D），這些都是這項本領帶來的效果，而非本領本身。",
+  "vocab": [
+   {
+    "w": "trick",
+    "zh": "訣竅、本領",
+    "pos": "n."
+   },
+   {
+    "w": "refer to",
+    "zh": "指的是",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Animals have their special ways to deal with hard times in nature.  The superb fairy-wren, one kind of bright-blue bird in Australia, is one example.  This year, a ten-year study showed that this small bird has eggs of different sizes in different kinds of weather.  When the weather is hot and dry, there is less food for young superb fairy-wrens, and they die easily.  So the mother bird will make larger eggs to help her babies grow stronger inside before they break out of the eggs into the \"hungry\" world.\nHowever, not all mother birds are able to do this trick.  Only those with at least one male child can.  When the weather is \"good,\" the mother will make smaller eggs, and her sons will bring food back for their baby brothers and sisters from the eggs.  With her sons' help, the mother can save more energy to make larger eggs when the weather is bad.  Isn't this amazing?",
+  "group_id": "PX-CAP108-G04",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-024",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "文章細節",
+  "stem": "What can we learn about superb fairy-wrens from the reading?",
+  "options": [
+   "Male birds can usually live for ten years.",
+   "Baby birds grow well in hot, dry weather.",
+   "Young male birds share the job of feeding the baby birds.",
+   "Mother birds make smaller eggs when there is less food outside."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到只有家中有兒子的母鳥才能施展這項本領，因為天氣好時兒子會幫忙從蛋外帶食物回來餵年幼的弟妹，故選 C。文章沒說公鳥能活十年（A，十年是研究期間），天氣炎熱乾燥其實對幼鳥不利（B錯），母鳥反而是在天氣不好、食物少時做出「較大」的蛋（D錯，恰好相反）。",
+  "vocab": [
+   {
+    "w": "share",
+    "zh": "分擔",
+    "pos": "v."
+   },
+   {
+    "w": "feed",
+    "zh": "餵食",
+    "pos": "v."
+   }
+  ],
+  "passage": "Animals have their special ways to deal with hard times in nature.  The superb fairy-wren, one kind of bright-blue bird in Australia, is one example.  This year, a ten-year study showed that this small bird has eggs of different sizes in different kinds of weather.  When the weather is hot and dry, there is less food for young superb fairy-wrens, and they die easily.  So the mother bird will make larger eggs to help her babies grow stronger inside before they break out of the eggs into the \"hungry\" world.\nHowever, not all mother birds are able to do this trick.  Only those with at least one male child can.  When the weather is \"good,\" the mother will make smaller eggs, and her sons will bring food back for their baby brothers and sisters from the eggs.  With her sons' help, the mother can save more energy to make larger eggs when the weather is bad.  Isn't this amazing?",
+  "group_id": "PX-CAP108-G04",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-025",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "共通主旨",
+  "stem": "What idea is talked about in both pieces of news?",
+  "options": [
+   "More young people need to join in making art.",
+   "People's ways of enjoying art change with time.",
+   "Bringing important art works to Taiwan from abroad.",
+   "Giving new life to old arts that were almost forgotten."
+  ],
+  "answer": 3,
+  "explain_zh": "兩則新聞分別介紹瀕臨失傳的紙紮工藝因法國人賞識而重新受到矚目，以及相聲因賴聲川的作品而再度流行，共同主題是讓「幾乎被遺忘的傳統藝術重獲新生」，故選 D。文章重點不是呼籲年輕人加入創作（A）、藝術欣賞方式隨時代改變（B，較籠統）或把國外作品引進台灣（C，其實方向相反，是台灣文化被介紹到海外）。",
+  "vocab": [
+   {
+    "w": "forgotten",
+    "zh": "被遺忘的",
+    "pos": "adj."
+   },
+   {
+    "w": "traditional art",
+    "zh": "傳統藝術",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Here are two pieces of news that Annie collected for her report.\nPapier-mâché is works of art that are made of paper.  In Taiwan, it is known as zhizha and is usually burned as a gift for dead people.  Taiwan's papier-mâché is dying because it is not much needed now.  However, this dying art won a Frenchman's heart when he visited the island.  He then invited one of the papier-mâché shops, Hsin Hsin Paper Offering Store, to show their beautiful works in France.  The shop owner's son also used papier-mâché in a way that no one ever thought of—making a movie with it.\nStan Lai is very important in Taiwan's theater.  He brought changes to Chinese theater art of the old days to make it closer to our life experiences and easier to understand.  One of his most famous works is That Evening, We Performed Crosstalk (1985).  It was such a smash hit that people became interested again in xiangsheng, a show of funny talk between two actors.  This art used to be a hobby that only a few people shared, but Lai has opened a bigger market for it.  Now it has fans across all ages.",
+  "group_id": "PX-CAP108-G05",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-026",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "stem": "What does it mean when something is a smash hit?",
+  "options": [
+   "It is old.",
+   "It is successful.",
+   "It is foreign.",
+   "It is useful."
+  ],
+  "answer": 1,
+  "explain_zh": "文中說《那一夜，我們說相聲》讓大家重新對相聲感興趣，是一部大受歡迎的作品，smash hit 表示「大獲成功、爆紅」，故選 B。它並非指老舊（A）、來自國外（C，相聲並非賴聲川從國外引進的新事物）或有用（D），都與「大受歡迎」的核心語意不符。",
+  "vocab": [
+   {
+    "w": "smash hit",
+    "zh": "轟動一時的作品",
+    "pos": "phr."
+   },
+   {
+    "w": "successful",
+    "zh": "成功的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Here are two pieces of news that Annie collected for her report.\nPapier-mâché is works of art that are made of paper.  In Taiwan, it is known as zhizha and is usually burned as a gift for dead people.  Taiwan's papier-mâché is dying because it is not much needed now.  However, this dying art won a Frenchman's heart when he visited the island.  He then invited one of the papier-mâché shops, Hsin Hsin Paper Offering Store, to show their beautiful works in France.  The shop owner's son also used papier-mâché in a way that no one ever thought of—making a movie with it.\nStan Lai is very important in Taiwan's theater.  He brought changes to Chinese theater art of the old days to make it closer to our life experiences and easier to understand.  One of his most famous works is That Evening, We Performed Crosstalk (1985).  It was such a smash hit that people became interested again in xiangsheng, a show of funny talk between two actors.  This art used to be a hobby that only a few people shared, but Lai has opened a bigger market for it.  Now it has fans across all ages.",
+  "group_id": "PX-CAP108-G05",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-027",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "文章細節",
+  "stem": "What do we know from the news?",
+  "options": [
+   "Lai has taught xiangsheng in many schools.",
+   "Lai often puts his own life stories into his art works.",
+   "The owner of Hsin Hsin Paper Offering Store is a Frenchman.",
+   "People do not burn papier-mâché for dead people as often as before."
+  ],
+  "answer": 3,
+  "explain_zh": "文章開頭說紙紮工藝「逐漸式微，因為現代已較少被需要」，暗示燒紙紮這個習俗已經不像過去那樣普遍，故選 D。文中沒說賴聲川在很多學校教相聲（A）或常把自己的人生故事寫進作品（B，文中只說他讓相聲貼近生活經驗），新興紙紮店老闆也不是法國人（C，是法國人受邀去欣賞展出）。",
+  "vocab": [
+   {
+    "w": "less often",
+    "zh": "較不頻繁",
+    "pos": "phr."
+   },
+   {
+    "w": "custom",
+    "zh": "習俗",
+    "pos": "n."
+   }
+  ],
+  "passage": "Here are two pieces of news that Annie collected for her report.\nPapier-mâché is works of art that are made of paper.  In Taiwan, it is known as zhizha and is usually burned as a gift for dead people.  Taiwan's papier-mâché is dying because it is not much needed now.  However, this dying art won a Frenchman's heart when he visited the island.  He then invited one of the papier-mâché shops, Hsin Hsin Paper Offering Store, to show their beautiful works in France.  The shop owner's son also used papier-mâché in a way that no one ever thought of—making a movie with it.\nStan Lai is very important in Taiwan's theater.  He brought changes to Chinese theater art of the old days to make it closer to our life experiences and easier to understand.  One of his most famous works is That Evening, We Performed Crosstalk (1985).  It was such a smash hit that people became interested again in xiangsheng, a show of funny talk between two actors.  This art used to be a hobby that only a few people shared, but Lai has opened a bigger market for it.  Now it has fans across all ages.",
+  "group_id": "PX-CAP108-G05",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-028",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "stem": "Which idea is talked about in the news?",
+  "options": [
+   "How often we should drink coffee.",
+   "What happens when we have too much coffee.",
+   "How to help the body make the cortisol we need.",
+   "What happens when we have coffee at the wrong time."
+  ],
+  "answer": 3,
+  "explain_zh": "全文討論剛起床時喝咖啡效果反而不好的原因（皮質醇濃度已高），並建議在皮質醇濃度下降時再喝咖啡才有效，重點在「什麼時候喝咖啡效果不好、該怎麼喝才對」，故選 D。文章沒有建議喝咖啡的頻率（A）、喝過量的後果（B），也沒教人如何促進皮質醇分泌（C）。",
+  "vocab": [
+   {
+    "w": "cortisol",
+    "zh": "皮質醇",
+    "pos": "n."
+   },
+   {
+    "w": "wrong time",
+    "zh": "錯的時機",
+    "pos": "phr."
+   }
+  ],
+  "passage": "For many people, having a cup of coffee right out of bed is the best way to start a day.  But a report from Asap Science says otherwise.  It says the worst time for coffee is soon after we get up.  When we wake up, our bodies start to make cortisol.  Cortisol helps us to think clearly and be quick to understand and act.  The cortisol levels rise after we wake up and climb to the highest in about an hour.  So there are two problems when we drink coffee during this time: (1) our bodies will make less cortisol, and (2) the cortisol will make coffee less useful.  And that's why some of us drink more and more coffee.\nThen, when's the best time to have coffee?  When the cortisol levels are going down, the report says.  Cortisol levels are usually highest between 8 a.m. and 9 a.m., between noon and 1 p.m., and between 5:30 p.m. and 6:30 p.m.  So if you want to have coffee, enjoy it after these times, and this popular drink will help you the most.\n16/01/2015 VOF News\nFour people wrote comments after reading the news:\nMike: \"The best time to drink coffee is when you want to drink coffee.\"\nSarah: \"I usually wake up AFTER I drink coffee!\"\nCharlie: \"The worst time to drink coffee is when you're DEAD.\"\nLisa: \"If you need someone to tell you when to drink coffee, well, that's just sad.\"",
+  "group_id": "PX-CAP108-G06",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-029",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "stem": "What does it mean when someone thinks otherwise about something?",
+  "options": [
+   "They are serious about it.",
+   "They have no idea about it.",
+   "They think differently about it.",
+   "They do not think it is a problem."
+  ],
+  "answer": 2,
+  "explain_zh": "otherwise 承接前一句「許多人認為起床後馬上喝咖啡是一天最好的開始」，但這篇報告卻「有不同看法」，故選 C（他們的想法不一樣）。並非表示他們對此很認真（A）、毫無概念（B）或不認為這是個問題（D），這些都偏離 otherwise 的語意。",
+  "vocab": [
+   {
+    "w": "otherwise",
+    "zh": "不同地、另外",
+    "pos": "adv."
+   },
+   {
+    "w": "think differently",
+    "zh": "想法不同",
+    "pos": "phr."
+   }
+  ],
+  "passage": "For many people, having a cup of coffee right out of bed is the best way to start a day.  But a report from Asap Science says otherwise.  It says the worst time for coffee is soon after we get up.  When we wake up, our bodies start to make cortisol.  Cortisol helps us to think clearly and be quick to understand and act.  The cortisol levels rise after we wake up and climb to the highest in about an hour.  So there are two problems when we drink coffee during this time: (1) our bodies will make less cortisol, and (2) the cortisol will make coffee less useful.  And that's why some of us drink more and more coffee.\nThen, when's the best time to have coffee?  When the cortisol levels are going down, the report says.  Cortisol levels are usually highest between 8 a.m. and 9 a.m., between noon and 1 p.m., and between 5:30 p.m. and 6:30 p.m.  So if you want to have coffee, enjoy it after these times, and this popular drink will help you the most.\n16/01/2015 VOF News\nFour people wrote comments after reading the news:\nMike: \"The best time to drink coffee is when you want to drink coffee.\"\nSarah: \"I usually wake up AFTER I drink coffee!\"\nCharlie: \"The worst time to drink coffee is when you're DEAD.\"\nLisa: \"If you need someone to tell you when to drink coffee, well, that's just sad.\"",
+  "group_id": "PX-CAP108-G06",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-030",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "讀者留言態度推論",
+  "stem": "Four people read the news and wrote what they thought about it.  What did they think about the news?",
+  "options": [
+   "They wanted to try what it said.",
+   "They were sad about what it said.",
+   "They did not agree with what it said.",
+   "They were not surprised at what it said."
+  ],
+  "answer": 2,
+  "explain_zh": "四則留言都帶著諷刺語氣（例如「想喝的時候喝就好」「都死了還在乎什麼時候喝」），顯示他們並不認同報告建議要看時機喝咖啡的說法，故選 C。他們並非想嘗試報告的建議（A）、對報告內容感到難過（B），也並非不感到意外（D，語氣其實是覺得這個建議很沒必要）。",
+  "vocab": [
+   {
+    "w": "agree with",
+    "zh": "同意",
+    "pos": "phr."
+   },
+   {
+    "w": "comment",
+    "zh": "留言、評論",
+    "pos": "n."
+   }
+  ],
+  "passage": "For many people, having a cup of coffee right out of bed is the best way to start a day.  But a report from Asap Science says otherwise.  It says the worst time for coffee is soon after we get up.  When we wake up, our bodies start to make cortisol.  Cortisol helps us to think clearly and be quick to understand and act.  The cortisol levels rise after we wake up and climb to the highest in about an hour.  So there are two problems when we drink coffee during this time: (1) our bodies will make less cortisol, and (2) the cortisol will make coffee less useful.  And that's why some of us drink more and more coffee.\nThen, when's the best time to have coffee?  When the cortisol levels are going down, the report says.  Cortisol levels are usually highest between 8 a.m. and 9 a.m., between noon and 1 p.m., and between 5:30 p.m. and 6:30 p.m.  So if you want to have coffee, enjoy it after these times, and this popular drink will help you the most.\n16/01/2015 VOF News\nFour people wrote comments after reading the news:\nMike: \"The best time to drink coffee is when you want to drink coffee.\"\nSarah: \"I usually wake up AFTER I drink coffee!\"\nCharlie: \"The worst time to drink coffee is when you're DEAD.\"\nLisa: \"If you need someone to tell you when to drink coffee, well, that's just sad.\"",
+  "group_id": "PX-CAP108-G06",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-031",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:critical-thinking",
+  "tag_zh": "建議內容判讀",
+  "stem": "What does the report NOT suggest?",
+  "options": [
+   "Having more free buses for shoppers.",
+   "Changing the opening hours on weekdays.",
+   "Making plans to help weekday morning business.",
+   "Changing the time of the special sale on weekends."
+  ],
+  "answer": 2,
+  "explain_zh": "報告建議增加免費接駁車、延長平日營業時間、把特賣時段從週六晚上移到下午，但完全沒有提到「如何改善平日早上業績」的對策，故選 C。其餘三項都是報告中明確提出的建議。",
+  "vocab": [
+   {
+    "w": "suggest",
+    "zh": "建議",
+    "pos": "v."
+   },
+   {
+    "w": "weekday",
+    "zh": "平日",
+    "pos": "n."
+   }
+  ],
+  "passage": "Below is part of a new shopping center's market report.\nOur busiest time is weekend afternoons, between 1:30 p.m. and 3:30 p.m.  About half the business of the week is done then.  So it would be better if we move Weekend's Best Buy from Saturday evening to Saturday afternoon when there may be more shoppers during the sale.  We should also think about having more free buses during the weekend, as 75% of the shoppers who were interviewed said two buses an hour are just not enough.\nWeekend evenings are second busiest, though it is not as good as last season.  An interesting fact is that business is better on weekday evenings, usually one hour before closing, than on weekend mornings.  Most of the shoppers then are people who live near or working parents who do their last-minute shopping.  They together make up almost 60% of the business on weekday evenings.  It might bring in more business if we open half an hour longer during weekdays, until 10:30 p.m.",
+  "group_id": "PX-CAP108-G07",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-032",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "報告數據細節",
+  "stem": "What does the report say about the shopping center?",
+  "options": [
+   "Its business on weekdays is not as good as last season.",
+   "It has a special sale one hour before closing every day.",
+   "Most of the shoppers take the free buses to the shopping center.",
+   "A large part of its shoppers on weekday evenings are working parents."
+  ],
+  "answer": 3,
+  "explain_zh": "報告提到平日傍晚打烊前一小時生意最好，顧客中住附近的人和下班採買的上班族父母加起來將近六成，故選 D。報告其實說平日傍晚生意比去年同季更好、並非變差（A錯），特賣是在週末而非每天（B），也沒提到多數人是搭免費巴士來的（C，接駁車是給週末購物者的建議）。",
+  "vocab": [
+   {
+    "w": "working parent",
+    "zh": "上班族父母",
+    "pos": "phr."
+   },
+   {
+    "w": "a large part of",
+    "zh": "一大部分的",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Below is part of a new shopping center's market report.\nOur busiest time is weekend afternoons, between 1:30 p.m. and 3:30 p.m.  About half the business of the week is done then.  So it would be better if we move Weekend's Best Buy from Saturday evening to Saturday afternoon when there may be more shoppers during the sale.  We should also think about having more free buses during the weekend, as 75% of the shoppers who were interviewed said two buses an hour are just not enough.\nWeekend evenings are second busiest, though it is not as good as last season.  An interesting fact is that business is better on weekday evenings, usually one hour before closing, than on weekend mornings.  Most of the shoppers then are people who live near or working parents who do their last-minute shopping.  They together make up almost 60% of the business on weekday evenings.  It might bring in more business if we open half an hour longer during weekdays, until 10:30 p.m.",
+  "group_id": "PX-CAP108-G07",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-033",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "It hurts me to think that you're going to ____.",
+  "options": [
+   "change the way you are",
+   "give up being an actress",
+   "travel with a theater group",
+   "run away from your friends"
+  ],
+  "answer": 0,
+  "explain_zh": "後文提到 Maggie 一直想要像那些大眼睛、細長腿的女演員一樣，也提到即使動手術也無法真正解決問題，可知讓 Linda 心疼的是 Maggie「想改變自己原本的樣子」，故選 A（change the way you are）。其餘選項（放棄當演員、跟劇團旅行、逃離朋友）在後文都沒有依據支持。",
+  "vocab": [
+   {
+    "w": "change",
+    "zh": "改變",
+    "pos": "v."
+   },
+   {
+    "w": "hurt",
+    "zh": "使心痛",
+    "pos": "v."
+   }
+  ],
+  "passage": "Dear Maggie,\nI know you won't be happy but I still have to say this again.  It hurts me to think that you're going to ____.  I know you've always wanted to be like those actresses with big eyes and slim legs, but in fact you are already beautiful.  What you are born with makes you special because nobody looks the same as you.\nIt worries me more that ____.  But sadly, there's no quick fix to this, not even with the doctor's help.  If you don't try to like yourself first, no one else will.  People like you not because of your face, but because of your heart.  You need to understand this first.  Until you understand this, nothing is going to be different even if you have this change.\nI truly hope you think this through again.\nLove,\nLinda",
+  "group_id": "PX-CAP108-G08",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-034",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "It worries me more that ____.",
+  "options": [
+   "you're too shy to talk with people",
+   "you just don't want to be like others",
+   "you don't think you're good enough",
+   "you don't know what you've missed"
+  ],
+  "answer": 2,
+  "explain_zh": "後文安慰 Maggie「要先喜歡自己，否則沒有人能真正幫得了妳」「人們喜歡妳不是因為外表，而是因為妳的內心」，可知真正讓 Linda 擔心的是 Maggie「覺得自己不夠好」，故選 C。並非她太害羞不敢跟人說話（A）、不想跟別人一樣（B，其實剛好相反，她想變得跟別人一樣）或不知道自己錯過了什麼（D）。",
+  "vocab": [
+   {
+    "w": "worry",
+    "zh": "擔心",
+    "pos": "v."
+   },
+   {
+    "w": "good enough",
+    "zh": "足夠好的",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Dear Maggie,\nI know you won't be happy but I still have to say this again.  It hurts me to think that you're going to ____.  I know you've always wanted to be like those actresses with big eyes and slim legs, but in fact you are already beautiful.  What you are born with makes you special because nobody looks the same as you.\nIt worries me more that ____.  But sadly, there's no quick fix to this, not even with the doctor's help.  If you don't try to like yourself first, no one else will.  People like you not because of your face, but because of your heart.  You need to understand this first.  Until you understand this, nothing is going to be different even if you have this change.\nI truly hope you think this through again.\nLove,\nLinda",
+  "group_id": "PX-CAP108-G08",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-035",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "時態語意",
+  "stem": "No one thought one day she ____ the queen of the UK.",
+  "options": [
+   "has become",
+   "became",
+   "had become",
+   "would become"
+  ],
+  "answer": 3,
+  "explain_zh": "從過去某個時間點（她出生時）回頭看「有一天會成為女王」這件尚未發生、屬於未來的事，用過去式的未來（過去未來式）would become 來表達，故選 D。has become 是現在完成式、became 是簡單過去式、had become 是過去完成式，時態上都無法表達「站在過去看未來」的語感。",
+  "vocab": [
+   {
+    "w": "would",
+    "zh": "（過去未來式）將會",
+    "pos": "aux."
+   },
+   {
+    "w": "queen",
+    "zh": "女王",
+    "pos": "n."
+   }
+  ],
+  "passage": "Elizabeth Alexandra Mary Windsor was born in London on April 21, 1926.  No one thought one day she ____ the queen of the UK.  After her grandfather, King George V, died in 1936, Elizabeth's uncle, Prince Edward, became King Edward VIII.  Edward ____ in love with a married American woman long before, and he decided to marry her after he became the king.  However, Edward was asked to choose between the throne and his love.  Finally, he decided to give up the throne.\n____.  After Edward VIII gave up the throne, Elizabeth's father became King George VI.  As the oldest child without any brothers, Elizabeth became next in line to the throne.  She needed to say goodbye to her good old life and prepare to be a queen.  After her father died in 1952, she became Queen Elizabeth II.\nEver since she became head of her country, Queen Elizabeth II ____: She has held meetings with important people in the UK, and has visited many foreign countries.  In the few hours she keeps to herself, however, she reads and enjoys horseback riding.",
+  "group_id": "PX-CAP108-G09",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-036",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "時態語意",
+  "stem": "Edward ____ in love with a married American woman long before, and he decided to marry her after he became the king.",
+  "options": [
+   "has fallen",
+   "is falling",
+   "had fallen",
+   "would fall"
+  ],
+  "answer": 2,
+  "explain_zh": "long before 表示這件事發生得比「成為國王」還早，屬於「過去的過去」，要用過去完成式，故選 C（had fallen）。has fallen 是現在完成式、is falling 是現在進行式，時態都與 long before 不符；would fall 則不能用來表達單純比某過去時間點更早發生的事。",
+  "vocab": [
+   {
+    "w": "fall in love with",
+    "zh": "愛上",
+    "pos": "phr."
+   },
+   {
+    "w": "long before",
+    "zh": "很久以前",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Elizabeth Alexandra Mary Windsor was born in London on April 21, 1926.  No one thought one day she ____ the queen of the UK.  After her grandfather, King George V, died in 1936, Elizabeth's uncle, Prince Edward, became King Edward VIII.  Edward ____ in love with a married American woman long before, and he decided to marry her after he became the king.  However, Edward was asked to choose between the throne and his love.  Finally, he decided to give up the throne.\n____.  After Edward VIII gave up the throne, Elizabeth's father became King George VI.  As the oldest child without any brothers, Elizabeth became next in line to the throne.  She needed to say goodbye to her good old life and prepare to be a queen.  After her father died in 1952, she became Queen Elizabeth II.\nEver since she became head of her country, Queen Elizabeth II ____: She has held meetings with important people in the UK, and has visited many foreign countries.  In the few hours she keeps to herself, however, she reads and enjoys horseback riding.",
+  "group_id": "PX-CAP108-G09",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-037",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "____.  After Edward VIII gave up the throne, Elizabeth's father became King George VI.",
+  "options": [
+   "This changed Elizabeth's life",
+   "It was not easy to give up the throne",
+   "It was good news to Elizabeth and her family",
+   "This part of history made the UK a strong country"
+  ],
+  "answer": 0,
+  "explain_zh": "因為愛德華八世退位，伊莉莎白的父親才繼位為喬治六世，伊莉莎白也因此成了王位繼承人，這件事徹底改變了她原本的人生規劃，故選 A（This changed Elizabeth's life）。其餘選項與「退位」對伊莉莎白個人命運的直接影響無關，或語意過於片面。",
+  "vocab": [
+   {
+    "w": "change one's life",
+    "zh": "改變某人的一生",
+    "pos": "phr."
+   },
+   {
+    "w": "throne",
+    "zh": "王位",
+    "pos": "n."
+   }
+  ],
+  "passage": "Elizabeth Alexandra Mary Windsor was born in London on April 21, 1926.  No one thought one day she ____ the queen of the UK.  After her grandfather, King George V, died in 1936, Elizabeth's uncle, Prince Edward, became King Edward VIII.  Edward ____ in love with a married American woman long before, and he decided to marry her after he became the king.  However, Edward was asked to choose between the throne and his love.  Finally, he decided to give up the throne.\n____.  After Edward VIII gave up the throne, Elizabeth's father became King George VI.  As the oldest child without any brothers, Elizabeth became next in line to the throne.  She needed to say goodbye to her good old life and prepare to be a queen.  After her father died in 1952, she became Queen Elizabeth II.\nEver since she became head of her country, Queen Elizabeth II ____: She has held meetings with important people in the UK, and has visited many foreign countries.  In the few hours she keeps to herself, however, she reads and enjoys horseback riding.",
+  "group_id": "PX-CAP108-G09",
+  "source": "108會考"
+ },
+ {
+  "id": "PX-CAP108-038",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "Ever since she became head of her country, Queen Elizabeth II ____: She has held meetings with important people in the UK, and has visited many foreign countries.",
+  "options": [
+   "has worked hard for the UK",
+   "has been popular with the people of the UK",
+   "has been the queen of the UK for a long time",
+   "has brought the people of the UK much closer"
+  ],
+  "answer": 0,
+  "explain_zh": "後文列舉她一直以來召開會議、出訪各國等公務行程，說明她自登基以來「一直很努力地為國家工作」，故選 A。文章重點是她的付出與工作表現，並非在講她多受歡迎（B）、在位多久（C）或讓國民感情更緊密（D），這些都沒有直接對應後文列舉的具體事蹟。",
+  "vocab": [
+   {
+    "w": "work hard for",
+    "zh": "為…努力",
+    "pos": "phr."
+   },
+   {
+    "w": "visit",
+    "zh": "訪問",
+    "pos": "v."
+   }
+  ],
+  "passage": "Elizabeth Alexandra Mary Windsor was born in London on April 21, 1926.  No one thought one day she ____ the queen of the UK.  After her grandfather, King George V, died in 1936, Elizabeth's uncle, Prince Edward, became King Edward VIII.  Edward ____ in love with a married American woman long before, and he decided to marry her after he became the king.  However, Edward was asked to choose between the throne and his love.  Finally, he decided to give up the throne.\n____.  After Edward VIII gave up the throne, Elizabeth's father became King George VI.  As the oldest child without any brothers, Elizabeth became next in line to the throne.  She needed to say goodbye to her good old life and prepare to be a queen.  After her father died in 1952, she became Queen Elizabeth II.\nEver since she became head of her country, Queen Elizabeth II ____: She has held meetings with important people in the UK, and has visited many foreign countries.  In the few hours she keeps to herself, however, she reads and enjoys horseback riding.",
+  "group_id": "PX-CAP108-G09",
+  "source": "108會考"
+ }
+]

@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "NHL-0001",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good afternoon, passengers. This is a boarding announcement for Flight BA 216 to London, leaving from Gate 14 at three forty-five. We will begin boarding shortly, starting with passengers who need extra time and those travelling with small children. Please have your boarding pass and passport ready for the gate agent. If your hand luggage does not fit in the sizer beside the check-in desk, it will need to go in the hold for a small fee. Passengers in seats thirty to fifty will board next, followed by the remaining rows. The gate will close ten minutes before departure, so any passenger who has not boarded by then may not be allowed to fly today. If you hear your name called over the speaker, please come to the desk immediately. Thank you for your patience, and enjoy your flight to London.",
+    "group_id": "NHL-G01",
+    "stem": "What is this announcement mainly about?",
+    "options": [
+      "Instructions for boarding a flight",
+      "A notice that a flight has been cancelled",
+      "A change of departure gate",
+      "Information about collecting checked baggage"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播從頭到尾都在說明登機順序與規定,所以主旨是「登機說明」。取消班機、更換登機門、領取行李都沒有在文中提到,屬於未提及的混淆選項。抓住開頭 boarding announcement 就是最大線索。",
+    "vocab": [
+      {
+        "w": "boarding",
+        "zh": "登機",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0002",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good afternoon, passengers. This is a boarding announcement for Flight BA 216 to London, leaving from Gate 14 at three forty-five. We will begin boarding shortly, starting with passengers who need extra time and those travelling with small children. Please have your boarding pass and passport ready for the gate agent. If your hand luggage does not fit in the sizer beside the check-in desk, it will need to go in the hold for a small fee. Passengers in seats thirty to fifty will board next, followed by the remaining rows. The gate will close ten minutes before departure, so any passenger who has not boarded by then may not be allowed to fly today. If you hear your name called over the speaker, please come to the desk immediately. Thank you for your patience, and enjoy your flight to London.",
+    "group_id": "NHL-G01",
+    "stem": "What time does Flight BA 216 depart?",
+    "options": [
+      "3:15",
+      "3:45",
+      "4:35",
+      "4:45"
+    ],
+    "answer": 1,
+    "explain_zh": "廣播中說 at three forty-five,forty 和 fifteen 尾音相近,容易聽混,要抓住重音落在哪個音節。3:15 和 4:45 都是常見的相近數字陷阱。",
+    "vocab": [
+      {
+        "w": "depart",
+        "zh": "出發;起飛",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0003",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Good afternoon, passengers. This is a boarding announcement for Flight BA 216 to London, leaving from Gate 14 at three forty-five. We will begin boarding shortly, starting with passengers who need extra time and those travelling with small children. Please have your boarding pass and passport ready for the gate agent. If your hand luggage does not fit in the sizer beside the check-in desk, it will need to go in the hold for a small fee. Passengers in seats thirty to fifty will board next, followed by the remaining rows. The gate will close ten minutes before departure, so any passenger who has not boarded by then may not be allowed to fly today. If you hear your name called over the speaker, please come to the desk immediately. Thank you for your patience, and enjoy your flight to London.",
+    "group_id": "NHL-G01",
+    "stem": "Who is invited to board first?",
+    "options": [
+      "Passengers with the most luggage",
+      "Frequent flyer club members",
+      "Passengers who need extra time and those with small children",
+      "Passengers sitting in the last rows"
+    ],
+    "answer": 2,
+    "explain_zh": "廣播明確說先讓需要額外時間的乘客與帶小小孩的乘客登機。行李最多、常客會員、最後排座位都沒有被提到,是混淆選項。",
+    "vocab": [
+      {
+        "w": "extra",
+        "zh": "額外的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0004",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good afternoon, passengers. This is a boarding announcement for Flight BA 216 to London, leaving from Gate 14 at three forty-five. We will begin boarding shortly, starting with passengers who need extra time and those travelling with small children. Please have your boarding pass and passport ready for the gate agent. If your hand luggage does not fit in the sizer beside the check-in desk, it will need to go in the hold for a small fee. Passengers in seats thirty to fifty will board next, followed by the remaining rows. The gate will close ten minutes before departure, so any passenger who has not boarded by then may not be allowed to fly today. If you hear your name called over the speaker, please come to the desk immediately. Thank you for your patience, and enjoy your flight to London.",
+    "group_id": "NHL-G01",
+    "stem": "Which seat rows board after the first group?",
+    "options": [
+      "Rows 13 to 50",
+      "Rows 30 to 15",
+      "Rows 3 to 15",
+      "Rows 30 to 50"
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說 seats thirty to fifty will board next,thirty(三十)和 thirteen(十三)發音容易搞混,聽力測驗常在這裡設陷阱,答案是 30 到 50 排。",
+    "vocab": [
+      {
+        "w": "row",
+        "zh": "排",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0005",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Good afternoon, passengers. This is a boarding announcement for Flight BA 216 to London, leaving from Gate 14 at three forty-five. We will begin boarding shortly, starting with passengers who need extra time and those travelling with small children. Please have your boarding pass and passport ready for the gate agent. If your hand luggage does not fit in the sizer beside the check-in desk, it will need to go in the hold for a small fee. Passengers in seats thirty to fifty will board next, followed by the remaining rows. The gate will close ten minutes before departure, so any passenger who has not boarded by then may not be allowed to fly today. If you hear your name called over the speaker, please come to the desk immediately. Thank you for your patience, and enjoy your flight to London.",
+    "group_id": "NHL-G01",
+    "stem": "What will most likely happen to a passenger who arrives after the gate closes?",
+    "options": [
+      "They may not be allowed to board the plane",
+      "They will be given a seat upgrade",
+      "They will board with priority next time",
+      "They will get their ticket refunded automatically"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說登機門會在起飛前十分鐘關閉,遲到乘客「可能無法登機」,這是合理推論。升等、優先登機、自動退票都是廣播沒有提到的臆測選項。",
+    "vocab": [
+      {
+        "w": "allow",
+        "zh": "允許",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0006",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I have a bad cough and a sore throat. Could you recommend something?\nB: Sure. How long have you had these symptoms?\nA: About four days now, and it's getting worse at night.\nB: Do you have a fever, or any allergies to medicine?\nA: No fever, but I'm allergic to aspirin.\nB: Okay, I'd suggest this cough syrup. It doesn't contain aspirin. Take two teaspoons every six hours, but no more than four times a day.\nA: Got it. Is it okay to take it with food?\nB: Yes, actually it's better with food, so it doesn't upset your stomach. Also, avoid driving right after taking it, because it can make you sleepy.\nA: Thanks. How much is it?\nB: That's three hundred and fifty dollars for the bottle. It should last about a week if you take it as directed.",
+    "group_id": "NHL-G02",
+    "stem": "What is the customer's main problem?",
+    "options": [
+      "A headache and fever",
+      "A cough and sore throat",
+      "A stomach ache",
+      "An allergic skin rash"
+    ],
+    "answer": 1,
+    "explain_zh": "顧客一開始就說 a bad cough and a sore throat,這就是對話的主要問題。發燒在對話中被提及是「沒有」發生的狀況,容易誤選,要注意否定句。",
+    "vocab": [
+      {
+        "w": "cough",
+        "zh": "咳嗽",
+        "pos": "n."
+      },
+      {
+        "w": "sore throat",
+        "zh": "喉嚨痛",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0007",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I have a bad cough and a sore throat. Could you recommend something?\nB: Sure. How long have you had these symptoms?\nA: About four days now, and it's getting worse at night.\nB: Do you have a fever, or any allergies to medicine?\nA: No fever, but I'm allergic to aspirin.\nB: Okay, I'd suggest this cough syrup. It doesn't contain aspirin. Take two teaspoons every six hours, but no more than four times a day.\nA: Got it. Is it okay to take it with food?\nB: Yes, actually it's better with food, so it doesn't upset your stomach. Also, avoid driving right after taking it, because it can make you sleepy.\nA: Thanks. How much is it?\nB: That's three hundred and fifty dollars for the bottle. It should last about a week if you take it as directed.",
+    "group_id": "NHL-G02",
+    "stem": "What is the customer allergic to?",
+    "options": [
+      "Penicillin",
+      "Pollen",
+      "Aspirin",
+      "Peanuts"
+    ],
+    "answer": 2,
+    "explain_zh": "顧客明確說 I'm allergic to aspirin,藥師才推薦不含阿斯匹靈的糖漿。其餘選項都沒有在對話中出現,屬於混淆選項。",
+    "vocab": [
+      {
+        "w": "allergic",
+        "zh": "過敏的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0008",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I have a bad cough and a sore throat. Could you recommend something?\nB: Sure. How long have you had these symptoms?\nA: About four days now, and it's getting worse at night.\nB: Do you have a fever, or any allergies to medicine?\nA: No fever, but I'm allergic to aspirin.\nB: Okay, I'd suggest this cough syrup. It doesn't contain aspirin. Take two teaspoons every six hours, but no more than four times a day.\nA: Got it. Is it okay to take it with food?\nB: Yes, actually it's better with food, so it doesn't upset your stomach. Also, avoid driving right after taking it, because it can make you sleepy.\nA: Thanks. How much is it?\nB: That's three hundred and fifty dollars for the bottle. It should last about a week if you take it as directed.",
+    "group_id": "NHL-G02",
+    "stem": "How often should the customer take the syrup?",
+    "options": [
+      "Every sixteen hours, up to four times a day",
+      "Every six hours, up to fourteen times a day",
+      "Every hour, up to six times a day",
+      "Every six hours, up to four times a day"
+    ],
+    "answer": 3,
+    "explain_zh": "藥師說 every six hours, but no more than four times a day,six 和 sixteen 發音相近,要聽清楚有沒有 -teen 的音節,答案是每六小時一次、一天最多四次。",
+    "vocab": [
+      {
+        "w": "teaspoon",
+        "zh": "茶匙",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0009",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I have a bad cough and a sore throat. Could you recommend something?\nB: Sure. How long have you had these symptoms?\nA: About four days now, and it's getting worse at night.\nB: Do you have a fever, or any allergies to medicine?\nA: No fever, but I'm allergic to aspirin.\nB: Okay, I'd suggest this cough syrup. It doesn't contain aspirin. Take two teaspoons every six hours, but no more than four times a day.\nA: Got it. Is it okay to take it with food?\nB: Yes, actually it's better with food, so it doesn't upset your stomach. Also, avoid driving right after taking it, because it can make you sleepy.\nA: Thanks. How much is it?\nB: That's three hundred and fifty dollars for the bottle. It should last about a week if you take it as directed.",
+    "group_id": "NHL-G02",
+    "stem": "What should the customer avoid after taking the medicine?",
+    "options": [
+      "Driving",
+      "Eating food",
+      "Drinking water",
+      "Exercising outdoors"
+    ],
+    "answer": 0,
+    "explain_zh": "藥師提醒吃藥後容易想睡,所以要避免開車。對話中反而建議配食物吃,所以吃東西不是要避免的事。",
+    "vocab": [
+      {
+        "w": "sleepy",
+        "zh": "想睡的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0010",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I have a bad cough and a sore throat. Could you recommend something?\nB: Sure. How long have you had these symptoms?\nA: About four days now, and it's getting worse at night.\nB: Do you have a fever, or any allergies to medicine?\nA: No fever, but I'm allergic to aspirin.\nB: Okay, I'd suggest this cough syrup. It doesn't contain aspirin. Take two teaspoons every six hours, but no more than four times a day.\nA: Got it. Is it okay to take it with food?\nB: Yes, actually it's better with food, so it doesn't upset your stomach. Also, avoid driving right after taking it, because it can make you sleepy.\nA: Thanks. How much is it?\nB: That's three hundred and fifty dollars for the bottle. It should last about a week if you take it as directed.",
+    "group_id": "NHL-G02",
+    "stem": "How much does the bottle of syrup cost?",
+    "options": [
+      "$315",
+      "$350",
+      "$305",
+      "$650"
+    ],
+    "answer": 1,
+    "explain_zh": "藥師說 three hundred and fifty dollars,要聽清楚 fifty 的尾音,315 和 305 都是容易聽錯的相近數字陷阱。",
+    "vocab": [
+      {
+        "w": "bottle",
+        "zh": "瓶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0011",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:purpose",
+    "tag_zh": "目的",
+    "passage": "Attention, passengers. Due to a signal problem near Central Station, trains on the Blue Line are running about fifteen minutes behind schedule. We apologise for the delay and any inconvenience this may cause. The next train to Riverside will now arrive at platform two at eight twenty instead of eight oh five. Passengers who need to reach the airport are advised to change to the Green Line at Central Station, as it is currently running normally. Please mind the gap between the train and the platform when boarding, and let passengers exit before you enter. For safety, please stand behind the yellow line while waiting. Staff in orange vests are available on the platform if you need any help finding your connection. We expect normal service to resume within the hour, and updates will be posted on the screens above each platform. Thank you for your patience, and we're sorry again for the delay.",
+    "group_id": "NHL-G03",
+    "stem": "What is the main purpose of this announcement?",
+    "options": [
+      "To announce a new MRT line opening",
+      "To warn passengers about a fare increase",
+      "To inform passengers about a train delay",
+      "To remind passengers to buy tickets"
+    ],
+    "answer": 2,
+    "explain_zh": "廣播一開始就說 Blue Line 因訊號問題延誤,目的是通知乘客誤點狀況。新路線、漲價、買票提醒都沒有被提到,是混淆選項。",
+    "vocab": [
+      {
+        "w": "delay",
+        "zh": "延誤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0012",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Attention, passengers. Due to a signal problem near Central Station, trains on the Blue Line are running about fifteen minutes behind schedule. We apologise for the delay and any inconvenience this may cause. The next train to Riverside will now arrive at platform two at eight twenty instead of eight oh five. Passengers who need to reach the airport are advised to change to the Green Line at Central Station, as it is currently running normally. Please mind the gap between the train and the platform when boarding, and let passengers exit before you enter. For safety, please stand behind the yellow line while waiting. Staff in orange vests are available on the platform if you need any help finding your connection. We expect normal service to resume within the hour, and updates will be posted on the screens above each platform. Thank you for your patience, and we're sorry again for the delay.",
+    "group_id": "NHL-G03",
+    "stem": "How late are Blue Line trains running?",
+    "options": [
+      "About 50 minutes",
+      "About 5 minutes",
+      "About 30 minutes",
+      "About 15 minutes"
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說 about fifteen minutes behind schedule,fifteen 和 fifty 發音相似,要聽清楚重音位置,答案是十五分鐘。",
+    "vocab": [
+      {
+        "w": "schedule",
+        "zh": "時刻表;行程",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0013",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Attention, passengers. Due to a signal problem near Central Station, trains on the Blue Line are running about fifteen minutes behind schedule. We apologise for the delay and any inconvenience this may cause. The next train to Riverside will now arrive at platform two at eight twenty instead of eight oh five. Passengers who need to reach the airport are advised to change to the Green Line at Central Station, as it is currently running normally. Please mind the gap between the train and the platform when boarding, and let passengers exit before you enter. For safety, please stand behind the yellow line while waiting. Staff in orange vests are available on the platform if you need any help finding your connection. We expect normal service to resume within the hour, and updates will be posted on the screens above each platform. Thank you for your patience, and we're sorry again for the delay.",
+    "group_id": "NHL-G03",
+    "stem": "What time will the next train to Riverside arrive?",
+    "options": [
+      "8:20",
+      "8:05",
+      "8:12",
+      "8:50"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播提到原本 8:05 的車延誤到 eight twenty,要留意 instead of 前後兩個時間,答案是延後後的時間 8:20,而不是原定時間。",
+    "vocab": [
+      {
+        "w": "platform",
+        "zh": "月台",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0014",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Attention, passengers. Due to a signal problem near Central Station, trains on the Blue Line are running about fifteen minutes behind schedule. We apologise for the delay and any inconvenience this may cause. The next train to Riverside will now arrive at platform two at eight twenty instead of eight oh five. Passengers who need to reach the airport are advised to change to the Green Line at Central Station, as it is currently running normally. Please mind the gap between the train and the platform when boarding, and let passengers exit before you enter. For safety, please stand behind the yellow line while waiting. Staff in orange vests are available on the platform if you need any help finding your connection. We expect normal service to resume within the hour, and updates will be posted on the screens above each platform. Thank you for your patience, and we're sorry again for the delay.",
+    "group_id": "NHL-G03",
+    "stem": "What should passengers going to the airport do?",
+    "options": [
+      "Wait for the next Blue Line train",
+      "Change to the Green Line at Central Station",
+      "Take a bus instead",
+      "Get off at Riverside station"
+    ],
+    "answer": 1,
+    "explain_zh": "廣播建議要去機場的乘客在 Central Station 轉乘 Green Line,因為該線目前運作正常,其餘選項都與廣播內容不符。",
+    "vocab": [
+      {
+        "w": "advise",
+        "zh": "建議",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0015",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Attention, passengers. Due to a signal problem near Central Station, trains on the Blue Line are running about fifteen minutes behind schedule. We apologise for the delay and any inconvenience this may cause. The next train to Riverside will now arrive at platform two at eight twenty instead of eight oh five. Passengers who need to reach the airport are advised to change to the Green Line at Central Station, as it is currently running normally. Please mind the gap between the train and the platform when boarding, and let passengers exit before you enter. For safety, please stand behind the yellow line while waiting. Staff in orange vests are available on the platform if you need any help finding your connection. We expect normal service to resume within the hour, and updates will be posted on the screens above each platform. Thank you for your patience, and we're sorry again for the delay.",
+    "group_id": "NHL-G03",
+    "stem": "What are passengers asked to do while waiting for the train?",
+    "options": [
+      "Stand close to the platform edge",
+      "Form two lines at the door",
+      "Stand behind the yellow line",
+      "Keep their tickets ready for inspection"
+    ],
+    "answer": 2,
+    "explain_zh": "廣播提醒為了安全要站在黃線後方等車,這是月台常見的安全規定,其餘選項都沒有在廣播中出現。",
+    "vocab": [
+      {
+        "w": "safety",
+        "zh": "安全",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0016",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good morning, and here's your weather update for the week. Today will be mostly cloudy with a high of twenty-two degrees, and there's a thirty percent chance of light rain in the afternoon, so you might want to carry an umbrella just in case. Tomorrow will be sunnier and slightly warmer, reaching twenty-five degrees, with a gentle breeze from the north. However, conditions will change on Wednesday, when a cold front moves in, bringing heavy rain and strong winds, with temperatures dropping to about seventeen degrees. Farmers in the northern region are advised to protect young crops before Wednesday evening. By the weekend, skies should clear up again, and Saturday looks like a great day for outdoor activities, with plenty of sunshine and a high near twenty-four degrees. Stay tuned for further updates throughout the week.",
+    "group_id": "NHL-G04",
+    "stem": "What is this report mainly about?",
+    "options": [
+      "A warning about a typhoon",
+      "Farming tips for winter",
+      "Traffic conditions for the weekend",
+      "This week's weather forecast"
+    ],
+    "answer": 3,
+    "explain_zh": "整段廣播都在描述本週每天的天氣變化,所以主旨是「本週天氣預報」。颱風警報、冬季農作建議、交通狀況都不是重點,是混淆選項。",
+    "vocab": [
+      {
+        "w": "forecast",
+        "zh": "預報",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0017",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning, and here's your weather update for the week. Today will be mostly cloudy with a high of twenty-two degrees, and there's a thirty percent chance of light rain in the afternoon, so you might want to carry an umbrella just in case. Tomorrow will be sunnier and slightly warmer, reaching twenty-five degrees, with a gentle breeze from the north. However, conditions will change on Wednesday, when a cold front moves in, bringing heavy rain and strong winds, with temperatures dropping to about seventeen degrees. Farmers in the northern region are advised to protect young crops before Wednesday evening. By the weekend, skies should clear up again, and Saturday looks like a great day for outdoor activities, with plenty of sunshine and a high near twenty-four degrees. Stay tuned for further updates throughout the week.",
+    "group_id": "NHL-G04",
+    "stem": "What is today's high temperature?",
+    "options": [
+      "22 degrees",
+      "25 degrees",
+      "20 degrees",
+      "12 degrees"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說 a high of twenty-two degrees,twenty-two 和 twenty 容易聽混,要抓住 two 的尾音,答案是二十二度。",
+    "vocab": [
+      {
+        "w": "cloudy",
+        "zh": "多雲的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0018",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Good morning, and here's your weather update for the week. Today will be mostly cloudy with a high of twenty-two degrees, and there's a thirty percent chance of light rain in the afternoon, so you might want to carry an umbrella just in case. Tomorrow will be sunnier and slightly warmer, reaching twenty-five degrees, with a gentle breeze from the north. However, conditions will change on Wednesday, when a cold front moves in, bringing heavy rain and strong winds, with temperatures dropping to about seventeen degrees. Farmers in the northern region are advised to protect young crops before Wednesday evening. By the weekend, skies should clear up again, and Saturday looks like a great day for outdoor activities, with plenty of sunshine and a high near twenty-four degrees. Stay tuned for further updates throughout the week.",
+    "group_id": "NHL-G04",
+    "stem": "What is expected on Wednesday?",
+    "options": [
+      "Clear skies all day",
+      "Heavy rain and strong winds",
+      "Light snow in the morning",
+      "Very hot and humid weather"
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說週三冷鋒會帶來 heavy rain and strong winds,晴天、下雪、悶熱都與廣播內容不符,是混淆選項。",
+    "vocab": [
+      {
+        "w": "cold front",
+        "zh": "冷鋒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0019",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning, and here's your weather update for the week. Today will be mostly cloudy with a high of twenty-two degrees, and there's a thirty percent chance of light rain in the afternoon, so you might want to carry an umbrella just in case. Tomorrow will be sunnier and slightly warmer, reaching twenty-five degrees, with a gentle breeze from the north. However, conditions will change on Wednesday, when a cold front moves in, bringing heavy rain and strong winds, with temperatures dropping to about seventeen degrees. Farmers in the northern region are advised to protect young crops before Wednesday evening. By the weekend, skies should clear up again, and Saturday looks like a great day for outdoor activities, with plenty of sunshine and a high near twenty-four degrees. Stay tuned for further updates throughout the week.",
+    "group_id": "NHL-G04",
+    "stem": "What is Wednesday's temperature expected to drop to?",
+    "options": [
+      "70 degrees",
+      "13 degrees",
+      "17 degrees",
+      "27 degrees"
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說 temperatures dropping to about seventeen degrees,seventeen 和 seventy 發音很像,要聽清楚重音在前段還是後段,答案是十七度。",
+    "vocab": [
+      {
+        "w": "drop",
+        "zh": "下降",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0020",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Good morning, and here's your weather update for the week. Today will be mostly cloudy with a high of twenty-two degrees, and there's a thirty percent chance of light rain in the afternoon, so you might want to carry an umbrella just in case. Tomorrow will be sunnier and slightly warmer, reaching twenty-five degrees, with a gentle breeze from the north. However, conditions will change on Wednesday, when a cold front moves in, bringing heavy rain and strong winds, with temperatures dropping to about seventeen degrees. Farmers in the northern region are advised to protect young crops before Wednesday evening. By the weekend, skies should clear up again, and Saturday looks like a great day for outdoor activities, with plenty of sunshine and a high near twenty-four degrees. Stay tuned for further updates throughout the week.",
+    "group_id": "NHL-G04",
+    "stem": "Why are farmers in the northern region advised to act before Wednesday?",
+    "options": [
+      "To harvest crops early for a festival",
+      "To prepare for a drought",
+      "To avoid a heat wave",
+      "To protect young crops from the coming storm"
+    ],
+    "answer": 3,
+    "explain_zh": "廣播提到週三會有強風豪雨,所以建議農民在那之前保護幼苗,這是合理推論。豐收慶典、乾旱、熱浪都沒有在廣播中提到。",
+    "vocab": [
+      {
+        "w": "crop",
+        "zh": "農作物",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0021",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'd like to rent a bike for the afternoon. How much does it cost?\nB: It's two hundred dollars for four hours, or three hundred and fifty for the whole day until six p.m.\nA: I think four hours is enough. Do you have any bikes with a basket? I need to carry a bag.\nB: Yes, we have a few with baskets, but they're a bit more popular, so let me check... We have one left in your size.\nA: Great, I'll take that one. Do I need to leave a deposit?\nB: Yes, please leave your ID card or five hundred dollars as a deposit. You'll get it back when you return the bike.\nA: Sure, here's my student ID. One more thing, is there a map of the bike paths?\nB: Of course, here you go. Please return the bike by six, or there's an extra fee of fifty dollars per hour.",
+    "group_id": "NHL-G05",
+    "stem": "What is the customer doing?",
+    "options": [
+      "Renting a bicycle",
+      "Buying a new bicycle",
+      "Fixing a broken bicycle",
+      "Selling an old bicycle"
+    ],
+    "answer": 0,
+    "explain_zh": "顧客一開始就說 I'd like to rent a bike,所以是租借腳踏車,不是購買、維修或出售,這些都與對話內容不符。",
+    "vocab": [
+      {
+        "w": "rent",
+        "zh": "租借",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0022",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to rent a bike for the afternoon. How much does it cost?\nB: It's two hundred dollars for four hours, or three hundred and fifty for the whole day until six p.m.\nA: I think four hours is enough. Do you have any bikes with a basket? I need to carry a bag.\nB: Yes, we have a few with baskets, but they're a bit more popular, so let me check... We have one left in your size.\nA: Great, I'll take that one. Do I need to leave a deposit?\nB: Yes, please leave your ID card or five hundred dollars as a deposit. You'll get it back when you return the bike.\nA: Sure, here's my student ID. One more thing, is there a map of the bike paths?\nB: Of course, here you go. Please return the bike by six, or there's an extra fee of fifty dollars per hour.",
+    "group_id": "NHL-G05",
+    "stem": "How much does a four-hour rental cost?",
+    "options": [
+      "$350",
+      "$200",
+      "$250",
+      "$20"
+    ],
+    "answer": 1,
+    "explain_zh": "店員說 two hundred dollars for four hours,350 元是一整天的價格,要注意題目問的是四小時價位,不要混淆兩種方案。",
+    "vocab": [
+      {
+        "w": "deposit",
+        "zh": "訂金;押金",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0023",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'd like to rent a bike for the afternoon. How much does it cost?\nB: It's two hundred dollars for four hours, or three hundred and fifty for the whole day until six p.m.\nA: I think four hours is enough. Do you have any bikes with a basket? I need to carry a bag.\nB: Yes, we have a few with baskets, but they're a bit more popular, so let me check... We have one left in your size.\nA: Great, I'll take that one. Do I need to leave a deposit?\nB: Yes, please leave your ID card or five hundred dollars as a deposit. You'll get it back when you return the bike.\nA: Sure, here's my student ID. One more thing, is there a map of the bike paths?\nB: Of course, here you go. Please return the bike by six, or there's an extra fee of fifty dollars per hour.",
+    "group_id": "NHL-G05",
+    "stem": "What does the customer need the basket for?",
+    "options": [
+      "To carry a pet",
+      "To carry groceries for a friend",
+      "To carry a bag",
+      "To carry a child"
+    ],
+    "answer": 2,
+    "explain_zh": "顧客說 I need to carry a bag,所以要有籃子的腳踏車,寵物、雜貨、小孩都沒有在對話中被提到。",
+    "vocab": [
+      {
+        "w": "basket",
+        "zh": "籃子",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0024",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'd like to rent a bike for the afternoon. How much does it cost?\nB: It's two hundred dollars for four hours, or three hundred and fifty for the whole day until six p.m.\nA: I think four hours is enough. Do you have any bikes with a basket? I need to carry a bag.\nB: Yes, we have a few with baskets, but they're a bit more popular, so let me check... We have one left in your size.\nA: Great, I'll take that one. Do I need to leave a deposit?\nB: Yes, please leave your ID card or five hundred dollars as a deposit. You'll get it back when you return the bike.\nA: Sure, here's my student ID. One more thing, is there a map of the bike paths?\nB: Of course, here you go. Please return the bike by six, or there's an extra fee of fifty dollars per hour.",
+    "group_id": "NHL-G05",
+    "stem": "What can the customer leave as a deposit?",
+    "options": [
+      "A credit card only",
+      "$200 in cash only",
+      "A phone number",
+      "An ID card or $500"
+    ],
+    "answer": 3,
+    "explain_zh": "店員說 leave your ID card or five hundred dollars as a deposit,兩者選一即可,其餘選項都與對話不符。",
+    "vocab": [
+      {
+        "w": "return",
+        "zh": "歸還",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0025",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to rent a bike for the afternoon. How much does it cost?\nB: It's two hundred dollars for four hours, or three hundred and fifty for the whole day until six p.m.\nA: I think four hours is enough. Do you have any bikes with a basket? I need to carry a bag.\nB: Yes, we have a few with baskets, but they're a bit more popular, so let me check... We have one left in your size.\nA: Great, I'll take that one. Do I need to leave a deposit?\nB: Yes, please leave your ID card or five hundred dollars as a deposit. You'll get it back when you return the bike.\nA: Sure, here's my student ID. One more thing, is there a map of the bike paths?\nB: Of course, here you go. Please return the bike by six, or there's an extra fee of fifty dollars per hour.",
+    "group_id": "NHL-G05",
+    "stem": "What happens if the bike is returned late?",
+    "options": [
+      "An extra fee of $50 per hour",
+      "An extra fee of $15 per hour",
+      "The deposit is not returned at all",
+      "The customer cannot rent again"
+    ],
+    "answer": 0,
+    "explain_zh": "店員說 an extra fee of fifty dollars per hour,fifty 和 fifteen 容易聽混,要聽清楚尾音,答案是每小時五十元。",
+    "vocab": [
+      {
+        "w": "extra fee",
+        "zh": "額外費用",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0026",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I bought two tickets for Saturday's jazz concert, but I can't go anymore. Can I get a refund?\nB: Let me check... I'm sorry, but tickets are non-refundable after the date of purchase. However, you can exchange them for a different show within the next thirty days.\nA: Oh, I didn't know that. What shows are available next month?\nB: There's a rock concert on the tenth and a classical concert on the twenty-second.\nA: I'll take the rock concert then. Is there any price difference?\nB: The rock concert tickets are a bit cheaper, so you'll get eighty dollars back per ticket, that's one hundred and sixty dollars total.\nA: That sounds good. How will I get the refund?\nB: It'll be returned to the card you used originally, within five to seven business days.\nA: Perfect, thank you for your help.",
+    "group_id": "NHL-G06",
+    "stem": "What does the customer originally want?",
+    "options": [
+      "A complaint about the seats",
+      "A refund for concert tickets",
+      "New tickets for a bigger venue",
+      "Directions to the concert hall"
+    ],
+    "answer": 1,
+    "explain_zh": "顧客一開始就問 Can I get a refund,所以主要目的是要求退票退款,座位抱怨、換場地、問路都沒有在對話中出現。",
+    "vocab": [
+      {
+        "w": "refund",
+        "zh": "退款",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0027",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I bought two tickets for Saturday's jazz concert, but I can't go anymore. Can I get a refund?\nB: Let me check... I'm sorry, but tickets are non-refundable after the date of purchase. However, you can exchange them for a different show within the next thirty days.\nA: Oh, I didn't know that. What shows are available next month?\nB: There's a rock concert on the tenth and a classical concert on the twenty-second.\nA: I'll take the rock concert then. Is there any price difference?\nB: The rock concert tickets are a bit cheaper, so you'll get eighty dollars back per ticket, that's one hundred and sixty dollars total.\nA: That sounds good. How will I get the refund?\nB: It'll be returned to the card you used originally, within five to seven business days.\nA: Perfect, thank you for your help.",
+    "group_id": "NHL-G06",
+    "stem": "Why can't the customer get a refund?",
+    "options": [
+      "The concert has already happened",
+      "The tickets were bought from another site",
+      "Tickets are non-refundable after purchase",
+      "The customer lost the tickets"
+    ],
+    "answer": 2,
+    "explain_zh": "店員明確說 tickets are non-refundable after the date of purchase,這是規定,不是因為演出已結束或票券遺失。",
+    "vocab": [
+      {
+        "w": "non-refundable",
+        "zh": "不可退款的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0028",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I bought two tickets for Saturday's jazz concert, but I can't go anymore. Can I get a refund?\nB: Let me check... I'm sorry, but tickets are non-refundable after the date of purchase. However, you can exchange them for a different show within the next thirty days.\nA: Oh, I didn't know that. What shows are available next month?\nB: There's a rock concert on the tenth and a classical concert on the twenty-second.\nA: I'll take the rock concert then. Is there any price difference?\nB: The rock concert tickets are a bit cheaper, so you'll get eighty dollars back per ticket, that's one hundred and sixty dollars total.\nA: That sounds good. How will I get the refund?\nB: It'll be returned to the card you used originally, within five to seven business days.\nA: Perfect, thank you for your help.",
+    "group_id": "NHL-G06",
+    "stem": "Which date is the rock concert?",
+    "options": [
+      "The 22nd",
+      "The 12th",
+      "The 20th",
+      "The 10th"
+    ],
+    "answer": 3,
+    "explain_zh": "店員說搖滾演唱會在 the tenth,古典音樂會才是 the twenty-second,ten 和 twelve、twenty 發音相近,要聽清楚才不會選錯。",
+    "vocab": [
+      {
+        "w": "exchange",
+        "zh": "換;交換",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0029",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I bought two tickets for Saturday's jazz concert, but I can't go anymore. Can I get a refund?\nB: Let me check... I'm sorry, but tickets are non-refundable after the date of purchase. However, you can exchange them for a different show within the next thirty days.\nA: Oh, I didn't know that. What shows are available next month?\nB: There's a rock concert on the tenth and a classical concert on the twenty-second.\nA: I'll take the rock concert then. Is there any price difference?\nB: The rock concert tickets are a bit cheaper, so you'll get eighty dollars back per ticket, that's one hundred and sixty dollars total.\nA: That sounds good. How will I get the refund?\nB: It'll be returned to the card you used originally, within five to seven business days.\nA: Perfect, thank you for your help.",
+    "group_id": "NHL-G06",
+    "stem": "How much will the customer get back in total?",
+    "options": [
+      "$160",
+      "$80",
+      "$180",
+      "$116"
+    ],
+    "answer": 0,
+    "explain_zh": "店員說每張票退八十元,兩張共 one hundred and sixty dollars,80 元是單張票的差額,不是題目要問的總額。",
+    "vocab": [
+      {
+        "w": "total",
+        "zh": "總計",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0030",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I bought two tickets for Saturday's jazz concert, but I can't go anymore. Can I get a refund?\nB: Let me check... I'm sorry, but tickets are non-refundable after the date of purchase. However, you can exchange them for a different show within the next thirty days.\nA: Oh, I didn't know that. What shows are available next month?\nB: There's a rock concert on the tenth and a classical concert on the twenty-second.\nA: I'll take the rock concert then. Is there any price difference?\nB: The rock concert tickets are a bit cheaper, so you'll get eighty dollars back per ticket, that's one hundred and sixty dollars total.\nA: That sounds good. How will I get the refund?\nB: It'll be returned to the card you used originally, within five to seven business days.\nA: Perfect, thank you for your help.",
+    "group_id": "NHL-G06",
+    "stem": "How will the customer receive the money?",
+    "options": [
+      "As cash at the box office today",
+      "Returned to the original card within 5 to 7 business days",
+      "As a gift voucher next week",
+      "Mailed as a cheque"
+    ],
+    "answer": 1,
+    "explain_zh": "店員說款項會退回原本刷卡的信用卡,並在五到七個工作天內完成,現金、禮券、支票都與對話內容不符。",
+    "vocab": [
+      {
+        "w": "business day",
+        "zh": "工作天",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0031",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'd like to book a study room for this Friday afternoon.\nB: Sure, how many people will be using it, and for how long?\nA: There will be four of us, and we need it for two hours, from three to five.\nB: Let me check the system... Room B is free at that time, and it fits up to six people.\nA: Perfect. Do we need to bring our own laptop chargers?\nB: There are power outlets in the room, but only two, so you might want to bring an extension cord.\nA: Good to know. Is there a time limit if other students want the room after us?\nB: If no one else has booked it, you can stay longer, but you'll need to check with the desk first.\nA: Got it. One last question, can we bring drinks inside?\nB: Water is fine, but no other drinks or food are allowed in the study rooms.",
+    "group_id": "NHL-G07",
+    "stem": "What is the student trying to do?",
+    "options": [
+      "Renew a library book",
+      "Report a broken computer",
+      "Book a study room",
+      "Apply for a library card"
+    ],
+    "answer": 2,
+    "explain_zh": "學生一開始就說 I'd like to book a study room,所以目的是預約自習室,還書、報修電腦、辦借書證都沒有在對話中出現。",
+    "vocab": [
+      {
+        "w": "book",
+        "zh": "預約",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0032",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to book a study room for this Friday afternoon.\nB: Sure, how many people will be using it, and for how long?\nA: There will be four of us, and we need it for two hours, from three to five.\nB: Let me check the system... Room B is free at that time, and it fits up to six people.\nA: Perfect. Do we need to bring our own laptop chargers?\nB: There are power outlets in the room, but only two, so you might want to bring an extension cord.\nA: Good to know. Is there a time limit if other students want the room after us?\nB: If no one else has booked it, you can stay longer, but you'll need to check with the desk first.\nA: Got it. One last question, can we bring drinks inside?\nB: Water is fine, but no other drinks or food are allowed in the study rooms.",
+    "group_id": "NHL-G07",
+    "stem": "How many people will use the room?",
+    "options": [
+      "Six",
+      "Fourteen",
+      "Two",
+      "Four"
+    ],
+    "answer": 3,
+    "explain_zh": "學生說 there will be four of us,六人是房間容納上限,不是使用人數,要注意兩者不要搞混。",
+    "vocab": [
+      {
+        "w": "fit",
+        "zh": "容納",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0033",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to book a study room for this Friday afternoon.\nB: Sure, how many people will be using it, and for how long?\nA: There will be four of us, and we need it for two hours, from three to five.\nB: Let me check the system... Room B is free at that time, and it fits up to six people.\nA: Perfect. Do we need to bring our own laptop chargers?\nB: There are power outlets in the room, but only two, so you might want to bring an extension cord.\nA: Good to know. Is there a time limit if other students want the room after us?\nB: If no one else has booked it, you can stay longer, but you'll need to check with the desk first.\nA: Got it. One last question, can we bring drinks inside?\nB: Water is fine, but no other drinks or food are allowed in the study rooms.",
+    "group_id": "NHL-G07",
+    "stem": "What time will the booking start and end?",
+    "options": [
+      "3 to 5 p.m.",
+      "3 to 5 a.m.",
+      "5 to 7 p.m.",
+      "1 to 3 p.m."
+    ],
+    "answer": 0,
+    "explain_zh": "對話提到週五下午 from three to five,是下午時段而非清晨,答案是下午三點到五點。",
+    "vocab": [
+      {
+        "w": "outlet",
+        "zh": "插座",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0034",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'd like to book a study room for this Friday afternoon.\nB: Sure, how many people will be using it, and for how long?\nA: There will be four of us, and we need it for two hours, from three to five.\nB: Let me check the system... Room B is free at that time, and it fits up to six people.\nA: Perfect. Do we need to bring our own laptop chargers?\nB: There are power outlets in the room, but only two, so you might want to bring an extension cord.\nA: Good to know. Is there a time limit if other students want the room after us?\nB: If no one else has booked it, you can stay longer, but you'll need to check with the desk first.\nA: Got it. One last question, can we bring drinks inside?\nB: Water is fine, but no other drinks or food are allowed in the study rooms.",
+    "group_id": "NHL-G07",
+    "stem": "What does the librarian suggest the student bring?",
+    "options": [
+      "Their own chair",
+      "An extension cord",
+      "A printed ID card",
+      "Headphones"
+    ],
+    "answer": 1,
+    "explain_zh": "館員說房間只有兩個插座,建議自備延長線,座椅、識別證、耳機都沒有被提到。",
+    "vocab": [
+      {
+        "w": "extension cord",
+        "zh": "延長線",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0035",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'd like to book a study room for this Friday afternoon.\nB: Sure, how many people will be using it, and for how long?\nA: There will be four of us, and we need it for two hours, from three to five.\nB: Let me check the system... Room B is free at that time, and it fits up to six people.\nA: Perfect. Do we need to bring our own laptop chargers?\nB: There are power outlets in the room, but only two, so you might want to bring an extension cord.\nA: Good to know. Is there a time limit if other students want the room after us?\nB: If no one else has booked it, you can stay longer, but you'll need to check with the desk first.\nA: Got it. One last question, can we bring drinks inside?\nB: Water is fine, but no other drinks or food are allowed in the study rooms.",
+    "group_id": "NHL-G07",
+    "stem": "What is allowed inside the study room?",
+    "options": [
+      "Coffee and snacks",
+      "Any kind of drink",
+      "Water",
+      "Only bottled soda"
+    ],
+    "answer": 2,
+    "explain_zh": "館員說 water is fine, but no other drinks or food,所以只有水可以帶進去,其他飲料和零食都不行。",
+    "vocab": [
+      {
+        "w": "allowed",
+        "zh": "被允許的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0036",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:purpose",
+    "tag_zh": "目的",
+    "passage": "A: Thanks for coming in. So, you're applying for the weekend cashier position?\nB: Yes, that's right. I saw the ad in the shop window.\nA: Great. Do you have any experience working with customers before?\nB: I worked at my uncle's fruit stand last summer, so I'm used to handling money and talking to customers.\nA: That's useful experience. The shift is from nine in the morning until four in the afternoon, on Saturdays and Sundays. Would that work for you?\nB: Yes, that's fine, I don't have any classes on weekends.\nA: Good. The pay is one hundred and eighty dollars an hour, and we also give staff a free pastry each shift.\nB: That sounds great. When would I start, if I get the job?\nA: If everything goes well, you could start this coming Saturday. We'll call you by Thursday to confirm.",
+    "group_id": "NHL-G08",
+    "stem": "What is the main purpose of this conversation?",
+    "options": [
+      "To train a new full-time employee",
+      "To fire an underperforming worker",
+      "To advertise a new bakery product",
+      "To interview an applicant for a weekend job"
+    ],
+    "answer": 3,
+    "explain_zh": "對話從頭到尾都在詢問應徵者的經驗與條件,目的是面試週末收銀員,訓練、解雇、宣傳新產品都與對話不符。",
+    "vocab": [
+      {
+        "w": "cashier",
+        "zh": "收銀員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0037",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Thanks for coming in. So, you're applying for the weekend cashier position?\nB: Yes, that's right. I saw the ad in the shop window.\nA: Great. Do you have any experience working with customers before?\nB: I worked at my uncle's fruit stand last summer, so I'm used to handling money and talking to customers.\nA: That's useful experience. The shift is from nine in the morning until four in the afternoon, on Saturdays and Sundays. Would that work for you?\nB: Yes, that's fine, I don't have any classes on weekends.\nA: Good. The pay is one hundred and eighty dollars an hour, and we also give staff a free pastry each shift.\nB: That sounds great. When would I start, if I get the job?\nA: If everything goes well, you could start this coming Saturday. We'll call you by Thursday to confirm.",
+    "group_id": "NHL-G08",
+    "stem": "What experience does the applicant have?",
+    "options": [
+      "Working at a fruit stand",
+      "Working at a bakery before",
+      "Working as a tutor",
+      "Working at a restaurant"
+    ],
+    "answer": 0,
+    "explain_zh": "應徵者說 I worked at my uncle's fruit stand last summer,所以是水果攤經驗,不是麵包店、家教或餐廳。",
+    "vocab": [
+      {
+        "w": "handle",
+        "zh": "處理",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0038",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Thanks for coming in. So, you're applying for the weekend cashier position?\nB: Yes, that's right. I saw the ad in the shop window.\nA: Great. Do you have any experience working with customers before?\nB: I worked at my uncle's fruit stand last summer, so I'm used to handling money and talking to customers.\nA: That's useful experience. The shift is from nine in the morning until four in the afternoon, on Saturdays and Sundays. Would that work for you?\nB: Yes, that's fine, I don't have any classes on weekends.\nA: Good. The pay is one hundred and eighty dollars an hour, and we also give staff a free pastry each shift.\nB: That sounds great. When would I start, if I get the job?\nA: If everything goes well, you could start this coming Saturday. We'll call you by Thursday to confirm.",
+    "group_id": "NHL-G08",
+    "stem": "What are the working hours?",
+    "options": [
+      "9 a.m. to 9 p.m.",
+      "9 a.m. to 4 p.m.",
+      "7 a.m. to 4 p.m.",
+      "9 a.m. to 4 a.m."
+    ],
+    "answer": 1,
+    "explain_zh": "店長說 from nine in the morning until four in the afternoon,要注意上午和下午的區別,答案是早上九點到下午四點。",
+    "vocab": [
+      {
+        "w": "shift",
+        "zh": "班次;輪班",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0039",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Thanks for coming in. So, you're applying for the weekend cashier position?\nB: Yes, that's right. I saw the ad in the shop window.\nA: Great. Do you have any experience working with customers before?\nB: I worked at my uncle's fruit stand last summer, so I'm used to handling money and talking to customers.\nA: That's useful experience. The shift is from nine in the morning until four in the afternoon, on Saturdays and Sundays. Would that work for you?\nB: Yes, that's fine, I don't have any classes on weekends.\nA: Good. The pay is one hundred and eighty dollars an hour, and we also give staff a free pastry each shift.\nB: That sounds great. When would I start, if I get the job?\nA: If everything goes well, you could start this coming Saturday. We'll call you by Thursday to confirm.",
+    "group_id": "NHL-G08",
+    "stem": "How much is the hourly pay?",
+    "options": [
+      "$108",
+      "$118",
+      "$180",
+      "$800"
+    ],
+    "answer": 2,
+    "explain_zh": "店長說 one hundred and eighty dollars an hour,eighty 和 eighteen、hundred and eight 容易聽混,要聽清楚完整的數字順序。",
+    "vocab": [
+      {
+        "w": "pastry",
+        "zh": "糕點",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0040",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Thanks for coming in. So, you're applying for the weekend cashier position?\nB: Yes, that's right. I saw the ad in the shop window.\nA: Great. Do you have any experience working with customers before?\nB: I worked at my uncle's fruit stand last summer, so I'm used to handling money and talking to customers.\nA: That's useful experience. The shift is from nine in the morning until four in the afternoon, on Saturdays and Sundays. Would that work for you?\nB: Yes, that's fine, I don't have any classes on weekends.\nA: Good. The pay is one hundred and eighty dollars an hour, and we also give staff a free pastry each shift.\nB: That sounds great. When would I start, if I get the job?\nA: If everything goes well, you could start this coming Saturday. We'll call you by Thursday to confirm.",
+    "group_id": "NHL-G08",
+    "stem": "When will the applicant most likely find out if she got the job?",
+    "options": [
+      "By Saturday morning",
+      "Immediately after the interview",
+      "By next Sunday",
+      "By Thursday"
+    ],
+    "answer": 3,
+    "explain_zh": "店長說 we'll call you by Thursday to confirm,所以最晚星期四就會知道結果,星期六是預計上班日,不是通知結果的時間。",
+    "vocab": [
+      {
+        "w": "confirm",
+        "zh": "確認",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0041",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'm worried about my dog. He hasn't been eating much for the past two days.\nB: I see. Has he been drinking water normally?\nA: Yes, he still drinks, but he seems tired and doesn't want to play.\nB: Okay, let's take a look. Has he eaten anything unusual recently, like something from the trash?\nA: Actually, yes, he got into the trash two days ago before this started.\nB: That could explain it. I'll do a quick check of his stomach, and we may need a blood test to be safe.\nA: How much would the blood test cost?\nB: It's six hundred dollars, and results usually come back within a day.\nA: Okay, let's do it. Should I keep him from eating anything today?\nB: Just give him small amounts of plain rice and chicken tonight, and bring him back tomorrow if he's not better.",
+    "group_id": "NHL-G09",
+    "stem": "Why did the owner bring the dog to the vet?",
+    "options": [
+      "The dog has not been eating much",
+      "The dog was hit by a car",
+      "The dog has a skin problem",
+      "The dog needs a vaccination"
+    ],
+    "answer": 0,
+    "explain_zh": "飼主一開始就說 he hasn't been eating much for the past two days,所以主要原因是食慾不振,車禍、皮膚問題、疫苗都沒有被提到。",
+    "vocab": [
+      {
+        "w": "worried",
+        "zh": "擔心的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0042",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'm worried about my dog. He hasn't been eating much for the past two days.\nB: I see. Has he been drinking water normally?\nA: Yes, he still drinks, but he seems tired and doesn't want to play.\nB: Okay, let's take a look. Has he eaten anything unusual recently, like something from the trash?\nA: Actually, yes, he got into the trash two days ago before this started.\nB: That could explain it. I'll do a quick check of his stomach, and we may need a blood test to be safe.\nA: How much would the blood test cost?\nB: It's six hundred dollars, and results usually come back within a day.\nA: Okay, let's do it. Should I keep him from eating anything today?\nB: Just give him small amounts of plain rice and chicken tonight, and bring him back tomorrow if he's not better.",
+    "group_id": "NHL-G09",
+    "stem": "What might have caused the dog's problem?",
+    "options": [
+      "He ate a new brand of dog food",
+      "He got into the trash",
+      "He was bitten by another dog",
+      "He swam in a dirty pond"
+    ],
+    "answer": 1,
+    "explain_zh": "飼主說狗狗兩天前翻了垃圾桶,獸醫認為這可能是原因,新飼料、被咬、游泳都沒有在對話中出現。",
+    "vocab": [
+      {
+        "w": "trash",
+        "zh": "垃圾",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0043",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm worried about my dog. He hasn't been eating much for the past two days.\nB: I see. Has he been drinking water normally?\nA: Yes, he still drinks, but he seems tired and doesn't want to play.\nB: Okay, let's take a look. Has he eaten anything unusual recently, like something from the trash?\nA: Actually, yes, he got into the trash two days ago before this started.\nB: That could explain it. I'll do a quick check of his stomach, and we may need a blood test to be safe.\nA: How much would the blood test cost?\nB: It's six hundred dollars, and results usually come back within a day.\nA: Okay, let's do it. Should I keep him from eating anything today?\nB: Just give him small amounts of plain rice and chicken tonight, and bring him back tomorrow if he's not better.",
+    "group_id": "NHL-G09",
+    "stem": "How much does the blood test cost?",
+    "options": [
+      "$60",
+      "$616",
+      "$600",
+      "$900"
+    ],
+    "answer": 2,
+    "explain_zh": "獸醫說 it's six hundred dollars,要聽清楚 hundred 這個單位詞,不要漏聽變成六十元。",
+    "vocab": [
+      {
+        "w": "blood test",
+        "zh": "驗血",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0044",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm worried about my dog. He hasn't been eating much for the past two days.\nB: I see. Has he been drinking water normally?\nA: Yes, he still drinks, but he seems tired and doesn't want to play.\nB: Okay, let's take a look. Has he eaten anything unusual recently, like something from the trash?\nA: Actually, yes, he got into the trash two days ago before this started.\nB: That could explain it. I'll do a quick check of his stomach, and we may need a blood test to be safe.\nA: How much would the blood test cost?\nB: It's six hundred dollars, and results usually come back within a day.\nA: Okay, let's do it. Should I keep him from eating anything today?\nB: Just give him small amounts of plain rice and chicken tonight, and bring him back tomorrow if he's not better.",
+    "group_id": "NHL-G09",
+    "stem": "When will the test results come back?",
+    "options": [
+      "Within an hour",
+      "Within a week",
+      "Within a month",
+      "Within a day"
+    ],
+    "answer": 3,
+    "explain_zh": "獸醫說 results usually come back within a day,所以大約一天內就能拿到結果,其餘時間長度都與對話不符。",
+    "vocab": [
+      {
+        "w": "result",
+        "zh": "結果",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0045",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'm worried about my dog. He hasn't been eating much for the past two days.\nB: I see. Has he been drinking water normally?\nA: Yes, he still drinks, but he seems tired and doesn't want to play.\nB: Okay, let's take a look. Has he eaten anything unusual recently, like something from the trash?\nA: Actually, yes, he got into the trash two days ago before this started.\nB: That could explain it. I'll do a quick check of his stomach, and we may need a blood test to be safe.\nA: How much would the blood test cost?\nB: It's six hundred dollars, and results usually come back within a day.\nA: Okay, let's do it. Should I keep him from eating anything today?\nB: Just give him small amounts of plain rice and chicken tonight, and bring him back tomorrow if he's not better.",
+    "group_id": "NHL-G09",
+    "stem": "What does the vet suggest feeding the dog tonight?",
+    "options": [
+      "Small amounts of plain rice and chicken",
+      "His usual dog food, but less of it",
+      "Only water, nothing else",
+      "A special canned diet food"
+    ],
+    "answer": 0,
+    "explain_zh": "獸醫建議今晚只餵少量的白飯和雞肉,平常的狗食、只給水、特殊罐頭飼料都沒有被提到。",
+    "vocab": [
+      {
+        "w": "plain",
+        "zh": "原味的;簡單的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0046",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, my laptop won't turn on anymore. It was fine yesterday.\nB: Let's see... Did it get wet, or was it dropped recently?\nA: No, but the battery has been getting worse for weeks, and it was very low before it shut off.\nB: That sounds like the battery might be dead. I can test it for free, but a new battery would cost about one thousand two hundred dollars.\nA: How long would that take?\nB: If we have the part in stock, it's usually ready the next day. If not, it could take about a week to order.\nA: Okay, please go ahead and test it first.\nB: Sure. While we're at it, would you like us to also clean the fan? It's fifty dollars extra and helps prevent overheating.\nA: Yes, let's do that too. Should I back up my files before I bring it back?\nB: It's not necessary for a battery repair, but it's always a good habit anyway.",
+    "group_id": "NHL-G10",
+    "stem": "What problem does the customer have?",
+    "options": [
+      "Their laptop screen is cracked",
+      "Their laptop won't turn on",
+      "Their laptop was stolen",
+      "Their laptop is running very slowly"
+    ],
+    "answer": 1,
+    "explain_zh": "顧客一開始就說 my laptop won't turn on anymore,所以主要問題是無法開機,螢幕破裂、失竊、變慢都沒有在對話中出現。",
+    "vocab": [
+      {
+        "w": "turn on",
+        "zh": "開機",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0047",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, my laptop won't turn on anymore. It was fine yesterday.\nB: Let's see... Did it get wet, or was it dropped recently?\nA: No, but the battery has been getting worse for weeks, and it was very low before it shut off.\nB: That sounds like the battery might be dead. I can test it for free, but a new battery would cost about one thousand two hundred dollars.\nA: How long would that take?\nB: If we have the part in stock, it's usually ready the next day. If not, it could take about a week to order.\nA: Okay, please go ahead and test it first.\nB: Sure. While we're at it, would you like us to also clean the fan? It's fifty dollars extra and helps prevent overheating.\nA: Yes, let's do that too. Should I back up my files before I bring it back?\nB: It's not necessary for a battery repair, but it's always a good habit anyway.",
+    "group_id": "NHL-G10",
+    "stem": "What does the technician think is the likely cause?",
+    "options": [
+      "The screen is broken",
+      "The laptop got wet",
+      "The battery is dead",
+      "The hard drive failed"
+    ],
+    "answer": 2,
+    "explain_zh": "技師聽到電池一直變差、關機前電量很低,推測 the battery might be dead,對話也提到並沒有進水,所以進水選項是錯的。",
+    "vocab": [
+      {
+        "w": "battery",
+        "zh": "電池",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0048",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, my laptop won't turn on anymore. It was fine yesterday.\nB: Let's see... Did it get wet, or was it dropped recently?\nA: No, but the battery has been getting worse for weeks, and it was very low before it shut off.\nB: That sounds like the battery might be dead. I can test it for free, but a new battery would cost about one thousand two hundred dollars.\nA: How long would that take?\nB: If we have the part in stock, it's usually ready the next day. If not, it could take about a week to order.\nA: Okay, please go ahead and test it first.\nB: Sure. While we're at it, would you like us to also clean the fan? It's fifty dollars extra and helps prevent overheating.\nA: Yes, let's do that too. Should I back up my files before I bring it back?\nB: It's not necessary for a battery repair, but it's always a good habit anyway.",
+    "group_id": "NHL-G10",
+    "stem": "How much would a new battery cost?",
+    "options": [
+      "$1,020",
+      "$200",
+      "$12,000",
+      "$1,200"
+    ],
+    "answer": 3,
+    "explain_zh": "技師說 one thousand two hundred dollars,要注意 thousand 和 hundred 的順序,答案是一千兩百元。",
+    "vocab": [
+      {
+        "w": "cost",
+        "zh": "花費",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0049",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, my laptop won't turn on anymore. It was fine yesterday.\nB: Let's see... Did it get wet, or was it dropped recently?\nA: No, but the battery has been getting worse for weeks, and it was very low before it shut off.\nB: That sounds like the battery might be dead. I can test it for free, but a new battery would cost about one thousand two hundred dollars.\nA: How long would that take?\nB: If we have the part in stock, it's usually ready the next day. If not, it could take about a week to order.\nA: Okay, please go ahead and test it first.\nB: Sure. While we're at it, would you like us to also clean the fan? It's fifty dollars extra and helps prevent overheating.\nA: Yes, let's do that too. Should I back up my files before I bring it back?\nB: It's not necessary for a battery repair, but it's always a good habit anyway.",
+    "group_id": "NHL-G10",
+    "stem": "How long could the repair take if the part is not in stock?",
+    "options": [
+      "About a week",
+      "About a month",
+      "About a day",
+      "About an hour"
+    ],
+    "answer": 0,
+    "explain_zh": "技師說如果沒現貨 it could take about a week to order,有現貨才是隔天可拿,要分清楚兩種情況分別對應的時間。",
+    "vocab": [
+      {
+        "w": "in stock",
+        "zh": "有現貨",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0050",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, my laptop won't turn on anymore. It was fine yesterday.\nB: Let's see... Did it get wet, or was it dropped recently?\nA: No, but the battery has been getting worse for weeks, and it was very low before it shut off.\nB: That sounds like the battery might be dead. I can test it for free, but a new battery would cost about one thousand two hundred dollars.\nA: How long would that take?\nB: If we have the part in stock, it's usually ready the next day. If not, it could take about a week to order.\nA: Okay, please go ahead and test it first.\nB: Sure. While we're at it, would you like us to also clean the fan? It's fifty dollars extra and helps prevent overheating.\nA: Yes, let's do that too. Should I back up my files before I bring it back?\nB: It's not necessary for a battery repair, but it's always a good habit anyway.",
+    "group_id": "NHL-G10",
+    "stem": "What extra service does the technician offer?",
+    "options": [
+      "Replacing the screen",
+      "Cleaning the fan",
+      "Installing new software",
+      "Upgrading the memory"
+    ],
+    "answer": 1,
+    "explain_zh": "技師主動問要不要順便 clean the fan,並說明可以避免過熱,換螢幕、灌軟體、升級記憶體都沒有被提到。",
+    "vocab": [
+      {
+        "w": "overheat",
+        "zh": "過熱",
+        "pos": "v."
+      }
+    ]
+  }
+]

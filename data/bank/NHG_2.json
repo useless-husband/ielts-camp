@@ -1,0 +1,3057 @@
+[
+  {
+    "id": "NHG-0101",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect-continuous",
+    "tag_zh": "現在完成進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The robotics team ____ their competition robot for the past three weekends straight.",
+    "options": [
+      "has been testing",
+      "tested",
+      "is testing",
+      "had been testing"
+    ],
+    "answer": 0,
+    "explain_zh": "for the past three weekends 表示動作從過去持續到現在，須用現在完成進行式 has been testing。tested 是過去簡單式；is testing 只表現在正在做；had been testing 是過去完成進行式，時間基準點不對。for + 期間並延續到現在時，適合用現在完成進行式。",
+    "vocab": [
+      {
+        "w": "robotics",
+        "zh": "機器人學",
+        "pos": "n."
+      },
+      {
+        "w": "competition",
+        "zh": "比賽",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0102",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:past-perfect",
+    "tag_zh": "過去完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The customer complained that the online store ____ his order without any notice.",
+    "options": [
+      "has cancelled",
+      "had cancelled",
+      "cancels",
+      "was cancelling"
+    ],
+    "answer": 1,
+    "explain_zh": "顧客抱怨這件事發生在過去，而商店取消訂單的動作發生得更早，須用過去完成式 had cancelled。has cancelled 是現在完成式基準點不對；cancels 是現在式；was cancelling 是過去進行式，都無法表示先後順序。",
+    "vocab": [
+      {
+        "w": "complain",
+        "zh": "抱怨",
+        "pos": "v."
+      },
+      {
+        "w": "notice",
+        "zh": "通知",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0103",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:future-perfect",
+    "tag_zh": "未來完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "By next spring, volunteers ____ over ten thousand trees along this riverbank.",
+    "options": [
+      "will plant",
+      "have planted",
+      "will have planted",
+      "plant"
+    ],
+    "answer": 2,
+    "explain_zh": "by next spring 是未來時間點，動作要在此之前完成，須用未來完成式 will have planted。will plant 只是單純未來式；have planted 是現在完成式；plant 是現在式，都沒有未來某時間點前已完成的語感。",
+    "vocab": [
+      {
+        "w": "riverbank",
+        "zh": "河岸",
+        "pos": "n."
+      },
+      {
+        "w": "volunteer",
+        "zh": "志工",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0104",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:modal-perfect",
+    "tag_zh": "情態動詞完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The hotel room smells like fresh paint; the staff ____ it just before we checked in.",
+    "options": [
+      "should have painted",
+      "can't have painted",
+      "would have painted",
+      "must have painted"
+    ],
+    "answer": 3,
+    "explain_zh": "房間有油漆味，最合理的推測是員工一定在我們入住前才剛油漆過，須用 must have + p.p. 表示肯定推測。should have 是責備語氣；can't have 表示不可能；would have 用於與過去事實相反的假設，都不符合這裡推測原因的語境。",
+    "vocab": [
+      {
+        "w": "paint",
+        "zh": "油漆",
+        "pos": "n."
+      },
+      {
+        "w": "check in",
+        "zh": "辦理入住",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0105",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:relative-clause",
+    "tag_zh": "關係子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The employee ____ suggestion saved the company thousands of dollars received a bonus.",
+    "options": [
+      "whose",
+      "who",
+      "which",
+      "that"
+    ],
+    "answer": 0,
+    "explain_zh": "空格後面接名詞 suggestion，表示那位員工的建議，須用所有格關係代名詞 whose。who 只能作主詞或受詞，不能表所有格；which 代替物且不能表所有格；that 也不能表示所有格。whose + 名詞是判斷所有格關係子句的關鍵。",
+    "vocab": [
+      {
+        "w": "bonus",
+        "zh": "獎金",
+        "pos": "n."
+      },
+      {
+        "w": "suggestion",
+        "zh": "建議",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0106",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:noun-clause",
+    "tag_zh": "名詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the new gym will open before winter break is a question many students keep asking.",
+    "options": [
+      "If",
+      "Whether",
+      "That",
+      "What"
+    ],
+    "answer": 1,
+    "explain_zh": "名詞子句當主詞且表達是否時，句首要用 Whether，不能用 If。That 表事實而非是否；What 是疑問代名詞，句中缺少對應名詞角色，都不符合。句首名詞子句表是否一律用 Whether。",
+    "vocab": [
+      {
+        "w": "gym",
+        "zh": "健身房",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0107",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:adverb-clause",
+    "tag_zh": "副詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the software was updated last week, users still report the same annoying bugs.",
+    "options": [
+      "Because",
+      "So that",
+      "Even though",
+      "As soon as"
+    ],
+    "answer": 2,
+    "explain_zh": "句意是雖然軟體上週已更新，使用者卻仍回報相同的惱人錯誤，屬於讓步關係，須用 Even though。Because 表原因；So that 表目的；As soon as 表一…就…，都不符合前後對比的讓步語意。",
+    "vocab": [
+      {
+        "w": "bug",
+        "zh": "程式錯誤",
+        "pos": "n."
+      },
+      {
+        "w": "annoying",
+        "zh": "惱人的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0108",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:passive-advanced",
+    "tag_zh": "進階被動語態",
+    "passage": null,
+    "group_id": null,
+    "stem": "The contaminated soil ____ before the community garden can safely be planted next spring.",
+    "options": [
+      "will treat",
+      "is treated",
+      "has been treated",
+      "will have been treated"
+    ],
+    "answer": 3,
+    "explain_zh": "土壤是被處理，屬於被動關係，且要在明年春天種植前完成，須用未來完成被動 will have been treated。will treat 是主動語態；is treated 是現在簡單被動；has been treated 是現在完成被動，時態基準點都不對。",
+    "vocab": [
+      {
+        "w": "contaminated",
+        "zh": "受污染的",
+        "pos": "adj."
+      },
+      {
+        "w": "soil",
+        "zh": "土壤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0109",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:infinitive-gerund",
+    "tag_zh": "不定詞與動名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The couple finally agreed ____ their honeymoon until after the busy tourist season ends.",
+    "options": [
+      "to postpone",
+      "postponing",
+      "postpone",
+      "having postponed"
+    ],
+    "answer": 0,
+    "explain_zh": "agree 後面固定接不定詞 to V，故選 to postpone。postponing 是動名詞，不符合 agree 的固定用法；postpone 是原形動詞前面缺少 to；having postponed 是完成式動名詞，語意也不合。",
+    "vocab": [
+      {
+        "w": "honeymoon",
+        "zh": "蜜月",
+        "pos": "n."
+      },
+      {
+        "w": "tourist season",
+        "zh": "旅遊旺季",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0110",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:participle-adjective",
+    "tag_zh": "分詞形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The staff meeting about layoffs left everyone feeling deeply ____ about their job security.",
+    "options": [
+      "worrying",
+      "worried",
+      "worry",
+      "to worry"
+    ],
+    "answer": 1,
+    "explain_zh": "everyone 是感到擔心的一方，須用過去分詞當形容詞 worried。worrying 是現在分詞形容造成擔心的事物，主詞卻是人；worry 是原形動詞不能當形容詞；to worry 是不定詞，都不符合 feeling + 形容詞的結構。",
+    "vocab": [
+      {
+        "w": "layoff",
+        "zh": "裁員",
+        "pos": "n."
+      },
+      {
+        "w": "security",
+        "zh": "保障",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0111",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conditionals",
+    "tag_zh": "條件句",
+    "passage": null,
+    "group_id": null,
+    "stem": "If the school offered more elective courses, students ____ their true interests earlier.",
+    "options": [
+      "will discover",
+      "discover",
+      "would discover",
+      "had discovered"
+    ],
+    "answer": 2,
+    "explain_zh": "if 子句用過去式 offered，表示與現在事實相反的假設，主要子句須用 would + 原形動詞，故選 would discover。will discover 屬於第一句型；discover 是現在式；had discovered 是過去完成式屬於第三句型，都不搭配。",
+    "vocab": [
+      {
+        "w": "elective",
+        "zh": "選修的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0112",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:wish-as-if",
+    "tag_zh": "假設語氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "He describes the new headset as if he ____ every version since it first launched.",
+    "options": [
+      "tries",
+      "has tried",
+      "will try",
+      "had tried"
+    ],
+    "answer": 3,
+    "explain_zh": "as if 後面談的是與過去事實相反的誇張情況，須用過去完成式 had tried 表示比現在更早的假設。tries 是現在式直述；has tried 是現在完成式；will try 是未來式，都不符合 as if 描述比現在更早的虛擬語氣。",
+    "vocab": [
+      {
+        "w": "headset",
+        "zh": "耳機；頭戴裝置",
+        "pos": "n."
+      },
+      {
+        "w": "launch",
+        "zh": "推出",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0113",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:comparison-advanced",
+    "tag_zh": "進階比較句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The faster the glaciers melt, ____ the sea levels around the world will rise.",
+    "options": [
+      "the higher",
+      "higher",
+      "the more high",
+      "most high"
+    ],
+    "answer": 0,
+    "explain_zh": "the + 比較級, the + 比較級表示兩件事同步變化，此處須選 the higher。higher 前面漏掉 the；the more high 及 most high 都是形容詞比較級用法錯誤，high 是短音節形容詞應加 -er。",
+    "vocab": [
+      {
+        "w": "glacier",
+        "zh": "冰河",
+        "pos": "n."
+      },
+      {
+        "w": "sea level",
+        "zh": "海平面",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0114",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conjunctions-transition",
+    "tag_zh": "連接詞與轉折語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The airport was extremely crowded during the holidays; ____, our flight left right on time.",
+    "options": [
+      "therefore",
+      "surprisingly",
+      "for example",
+      "that is"
+    ],
+    "answer": 1,
+    "explain_zh": "句意是機場很擁擠，但意外地班機還是準時起飛，前後帶有意外轉折語氣，須用 surprisingly。therefore 表因果；for example 表舉例；that is 表換句話說，都不符合這裡的意外轉折語意。",
+    "vocab": [
+      {
+        "w": "crowded",
+        "zh": "擁擠的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0115",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:subject-verb-agreement",
+    "tag_zh": "主詞動詞一致",
+    "passage": null,
+    "group_id": null,
+    "stem": "The majority of the staff ____ in favor of switching to a four-day workweek.",
+    "options": [
+      "is",
+      "has been",
+      "are",
+      "was"
+    ],
+    "answer": 2,
+    "explain_zh": "majority of + 複數（集合）名詞在描述其中多數個體時，動詞常用複數，故選 are。is、has been、was 都是單數動詞，忽略了 staff 在此表示多數個別員工的複數概念。",
+    "vocab": [
+      {
+        "w": "majority",
+        "zh": "多數",
+        "pos": "n."
+      },
+      {
+        "w": "in favor of",
+        "zh": "贊成",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0116",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:causative",
+    "tag_zh": "使役動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The teacher had every student ____ a short paragraph summarizing the chapter's main idea.",
+    "options": [
+      "to write",
+      "writing",
+      "written",
+      "write"
+    ],
+    "answer": 3,
+    "explain_zh": "have + 人 + 原形動詞表示請某人做某事，故選 write。to write 不符合 have 使役動詞的固定句型；writing 及 written 也不符合這個主動請人做事的結構。have/let/make 這三個使役動詞後面接人時都用原形動詞。",
+    "vocab": [
+      {
+        "w": "paragraph",
+        "zh": "段落",
+        "pos": "n."
+      },
+      {
+        "w": "summarize",
+        "zh": "摘要",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0117",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:reported-speech",
+    "tag_zh": "間接引語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The technician told me that the printer ____ working properly for almost a week.",
+    "options": [
+      "had stopped",
+      "has stopped",
+      "stops",
+      "will stop"
+    ],
+    "answer": 0,
+    "explain_zh": "轉述過去說的話，且提到的動作發生在說話之前，須用過去完成式 had stopped 做時態倒退。has stopped 是現在完成式基準點不對；stops 是現在式；will stop 是未來式，都不符合轉述過去已完成動作的邏輯。",
+    "vocab": [
+      {
+        "w": "technician",
+        "zh": "技術人員",
+        "pos": "n."
+      },
+      {
+        "w": "properly",
+        "zh": "正常地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0118",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect-continuous",
+    "tag_zh": "現在完成進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Local fishermen ____ about declining fish stocks for several years now.",
+    "options": [
+      "complained",
+      "have been complaining",
+      "are complaining",
+      "had been complaining"
+    ],
+    "answer": 1,
+    "explain_zh": "for several years now 表示動作從過去持續到現在，須用現在完成進行式 have been complaining。complained 是過去式；are complaining 只表現在正在做；had been complaining 是過去完成進行式基準點不對。",
+    "vocab": [
+      {
+        "w": "fisherman",
+        "zh": "漁夫",
+        "pos": "n."
+      },
+      {
+        "w": "stock",
+        "zh": "存量",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0119",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:past-perfect",
+    "tag_zh": "過去完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "When we finally reached the summit, most other hikers ____ already back to the base camp.",
+    "options": [
+      "have returned",
+      "returned",
+      "had returned",
+      "were returning"
+    ],
+    "answer": 2,
+    "explain_zh": "when we reached the summit 是過去某一時間點，其他登山客已經返回發生在這之前，須用過去完成式 had returned。have returned 是現在完成式基準點不對；returned 是過去簡單式無法表達先後順序；were returning 是過去進行式語意也不符合。",
+    "vocab": [
+      {
+        "w": "summit",
+        "zh": "山頂",
+        "pos": "n."
+      },
+      {
+        "w": "base camp",
+        "zh": "基地營",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0120",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:future-perfect",
+    "tag_zh": "未來完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "By the time she retires, my aunt ____ at the same company for over thirty years.",
+    "options": [
+      "works",
+      "has worked",
+      "will work",
+      "will have worked"
+    ],
+    "answer": 3,
+    "explain_zh": "by the time she retires 是未來時間點，動作要延續到那之前，須用未來完成式 will have worked。works 是現在式；has worked 是現在完成式；will work 只是單純未來式，都沒有未來某時間點前已完成的語感。",
+    "vocab": [
+      {
+        "w": "retire",
+        "zh": "退休",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0121",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:modal-perfect",
+    "tag_zh": "情態動詞完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The classroom lights were still on at midnight, so someone ____ to turn them off.",
+    "options": [
+      "must have forgotten",
+      "can't have forgotten",
+      "should have forgotten",
+      "would have forgotten"
+    ],
+    "answer": 0,
+    "explain_zh": "半夜教室的燈還亮著，最合理的推測是有人一定忘記關燈了，須用 must have + p.p. 表示肯定推測。can't have 表示不可能；should have 是責備語氣；would have 用於與過去事實相反的假設，都不符合這裡單純推測的語境。",
+    "vocab": [
+      {
+        "w": "midnight",
+        "zh": "半夜",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0122",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:relative-clause",
+    "tag_zh": "關係子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The app developer, ____ latest update crashed thousands of phones, has issued a public apology.",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "answer": 1,
+    "explain_zh": "空格後面接名詞 update，表示那位開發者的更新，須用所有格關係代名詞 whose。who 只能作主詞不能表所有格；which 代替物且不能表所有格；whom 是受格關係代名詞，都不符合。",
+    "vocab": [
+      {
+        "w": "crash",
+        "zh": "當機",
+        "pos": "v."
+      },
+      {
+        "w": "apology",
+        "zh": "道歉",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0123",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:noun-clause",
+    "tag_zh": "名詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "Researchers are trying to figure out ____ triggered the coral bleaching in this bay.",
+    "options": [
+      "that",
+      "whether",
+      "what",
+      "if"
+    ],
+    "answer": 2,
+    "explain_zh": "空格缺少 triggered 的主詞角色，須用疑問代名詞 what 引導名詞子句並兼作主詞。that 引導的子句需要結構完整，本身不能當主詞；whether 和 if 表示是否，語意不符合是什麼原因。",
+    "vocab": [
+      {
+        "w": "trigger",
+        "zh": "引發",
+        "pos": "v."
+      },
+      {
+        "w": "bleaching",
+        "zh": "白化",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0124",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:adverb-clause",
+    "tag_zh": "副詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the ferry ticket was quite expensive, the view from the deck made it worthwhile.",
+    "options": [
+      "Because",
+      "Unless",
+      "So that",
+      "Although"
+    ],
+    "answer": 3,
+    "explain_zh": "句意是雖然船票有點貴，但甲板上的景色讓一切都值得，屬於讓步關係，須用 Although。Because 表原因；Unless 表除非；So that 表目的，都不符合前後對比的讓步語意。",
+    "vocab": [
+      {
+        "w": "deck",
+        "zh": "甲板",
+        "pos": "n."
+      },
+      {
+        "w": "worthwhile",
+        "zh": "值得的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0125",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:passive-advanced",
+    "tag_zh": "進階被動語態",
+    "passage": null,
+    "group_id": null,
+    "stem": "All overtime requests ____ by the department head before they take effect.",
+    "options": [
+      "must be approved",
+      "must approve",
+      "is approving",
+      "has approved"
+    ],
+    "answer": 0,
+    "explain_zh": "加班申請是被部門主管核准，屬於被動關係，且句意帶有必須的情態，須用 must be approved。must approve 是主動語態，主詞卻是申請本身；is approving 及 has approved 也都是主動語態，都與被動語意不符。",
+    "vocab": [
+      {
+        "w": "overtime",
+        "zh": "加班",
+        "pos": "n."
+      },
+      {
+        "w": "take effect",
+        "zh": "生效",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0126",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:infinitive-gerund",
+    "tag_zh": "不定詞與動名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The counselor recommended ____ a study group instead of preparing for finals alone.",
+    "options": [
+      "to join",
+      "joining",
+      "join",
+      "having joined"
+    ],
+    "answer": 1,
+    "explain_zh": "recommend 後面接受詞時習慣用動名詞 V-ing，故選 joining。to join 是不定詞不符合 recommend 的固定用法；join 是原形動詞；having joined 是完成式動名詞語意也不合。",
+    "vocab": [
+      {
+        "w": "counselor",
+        "zh": "輔導老師",
+        "pos": "n."
+      },
+      {
+        "w": "finals",
+        "zh": "期末考",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0127",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:participle-adjective",
+    "tag_zh": "分詞形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The keynote speech about quantum computing was genuinely ____ to every student in the hall.",
+    "options": [
+      "fascinated",
+      "fascinate",
+      "fascinating",
+      "to fascinate"
+    ],
+    "answer": 2,
+    "explain_zh": "speech（演講本身）是造成著迷感覺的原因，主動使人著迷要用現在分詞當形容詞 fascinating。fascinated 是過去分詞形容詞用來形容感到著迷的人，主詞卻是 speech；fascinate 是原形動詞不能當形容詞；to fascinate 是不定詞都不符合。",
+    "vocab": [
+      {
+        "w": "keynote speech",
+        "zh": "專題演講",
+        "pos": "n."
+      },
+      {
+        "w": "quantum computing",
+        "zh": "量子運算",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0128",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conditionals",
+    "tag_zh": "條件句",
+    "passage": null,
+    "group_id": null,
+    "stem": "If the factory had followed the emission rules, the nearby lake ____ so polluted today.",
+    "options": [
+      "wouldn't have been",
+      "isn't",
+      "won't be",
+      "wouldn't be"
+    ],
+    "answer": 3,
+    "explain_zh": "if 子句是與過去事實相反的假設（had followed），但主要子句的結果落在現在（today），屬於混合假設句，須用 would + 原形動詞，故選 wouldn't be。wouldn't have been 結果也在過去跟 today 矛盾；isn't 是直述現在事實；won't be 是第一句型，都不符合混合假設的規則。",
+    "vocab": [
+      {
+        "w": "emission",
+        "zh": "排放",
+        "pos": "n."
+      },
+      {
+        "w": "nearby",
+        "zh": "附近的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0129",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:wish-as-if",
+    "tag_zh": "假設語氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "I wish I ____ a lighter suitcase before this long backpacking trip through Europe.",
+    "options": [
+      "had packed",
+      "packed",
+      "would pack",
+      "have packed"
+    ],
+    "answer": 0,
+    "explain_zh": "wish 後面談的是對過去已發生的事感到後悔，須用過去完成式 had packed。packed 只能表示對現在狀態的假設；would pack 用於希望未來改變；have packed 是現在完成式，時態不符合 wish 的虛擬語氣規則。",
+    "vocab": [
+      {
+        "w": "backpacking",
+        "zh": "背包旅行",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0130",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:comparison-advanced",
+    "tag_zh": "進階比較句",
+    "passage": null,
+    "group_id": null,
+    "stem": "Of all the candidates we interviewed this month, she was by far ____ qualified.",
+    "options": [
+      "more",
+      "the most",
+      "as much",
+      "most than"
+    ],
+    "answer": 1,
+    "explain_zh": "由 of all the candidates 可知是在多數中比較，須用最高級 the most qualified。more 是比較級只能比較兩者；as much 是同級比較用法；most than 文法錯誤，most 不能跟 than 連用。",
+    "vocab": [
+      {
+        "w": "candidate",
+        "zh": "候選人",
+        "pos": "n."
+      },
+      {
+        "w": "qualified",
+        "zh": "合格的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0131",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conjunctions-transition",
+    "tag_zh": "連接詞與轉折語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The library extended its hours during exam week; ____, more students began studying there at night.",
+    "options": [
+      "even so",
+      "in other words",
+      "as a result",
+      "on the other hand"
+    ],
+    "answer": 2,
+    "explain_zh": "句意是圖書館延長開放時間，因此更多學生開始晚上到那裡念書，前後是因果關係，須用 as a result。even so 表儘管如此；in other words 表換句話說；on the other hand 表對比，都不符合這裡的因果語意。",
+    "vocab": [
+      {
+        "w": "extend",
+        "zh": "延長",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0132",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:subject-verb-agreement",
+    "tag_zh": "主詞動詞一致",
+    "passage": null,
+    "group_id": null,
+    "stem": "Neither the update nor the new settings ____ responsible for the sudden battery drain.",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "are"
+    ],
+    "answer": 3,
+    "explain_zh": "neither...nor 連接兩個主詞時，動詞要跟最靠近它的主詞一致，此處 settings 是複數，故用 are。is、was、has been 都是單數動詞，忽略了就近原則。",
+    "vocab": [
+      {
+        "w": "battery drain",
+        "zh": "電力消耗",
+        "pos": "n."
+      },
+      {
+        "w": "setting",
+        "zh": "設定",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0133",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:causative",
+    "tag_zh": "使役動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The environmental agency finally got the abandoned factory ____ of hazardous chemicals.",
+    "options": [
+      "cleared",
+      "clear",
+      "to clear",
+      "clearing"
+    ],
+    "answer": 0,
+    "explain_zh": "get + 受詞 + 過去分詞表示使某事被完成，factory 是被清除有害物質，屬於被動關係，故選 cleared。clear 是原形動詞用於 get + 人 + to V 的句型而非物品被做；to clear 及 clearing 也不符合 get + 受詞 + p.p. 的使役句型。",
+    "vocab": [
+      {
+        "w": "hazardous",
+        "zh": "有害的",
+        "pos": "adj."
+      },
+      {
+        "w": "chemical",
+        "zh": "化學物質",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0134",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:reported-speech",
+    "tag_zh": "間接引語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The pilot announced that the flight ____ to Bangkok twice a week during peak season.",
+    "options": [
+      "operates",
+      "operated",
+      "has operated",
+      "was operating"
+    ],
+    "answer": 1,
+    "explain_zh": "轉述過去說的話時，一般動詞須做時態倒退，原本的現在簡單式改為過去簡單式，故選 operated。operates 保留現在式沒有倒退；has operated 是現在完成式；was operating 是過去進行式，都不符合單純轉述固定班表的用法。",
+    "vocab": [
+      {
+        "w": "pilot",
+        "zh": "飛行員",
+        "pos": "n."
+      },
+      {
+        "w": "peak season",
+        "zh": "旺季",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0135",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect-continuous",
+    "tag_zh": "現在完成進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Our sales team ____ to close this deal for nearly three weeks without success.",
+    "options": [
+      "tried",
+      "tries",
+      "has been trying",
+      "had been trying"
+    ],
+    "answer": 2,
+    "explain_zh": "for nearly three weeks 表示動作從過去持續到現在，須用現在完成進行式 has been trying。tried 是過去式；tries 是現在式；had been trying 是過去完成進行式基準點不對。",
+    "vocab": [
+      {
+        "w": "deal",
+        "zh": "交易",
+        "pos": "n."
+      },
+      {
+        "w": "success",
+        "zh": "成功",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0136",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:past-perfect",
+    "tag_zh": "過去完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The librarian noticed that someone ____ several pages out of the reference book.",
+    "options": [
+      "tears",
+      "has torn",
+      "tore",
+      "had torn"
+    ],
+    "answer": 3,
+    "explain_zh": "圖書館員發現這件事是在過去，而撕書頁的動作發生得更早，須用過去完成式 had torn。tears 是現在式；has torn 是現在完成式；tore 是過去簡單式無法表示先後順序，都不符合。",
+    "vocab": [
+      {
+        "w": "librarian",
+        "zh": "圖書館員",
+        "pos": "n."
+      },
+      {
+        "w": "reference book",
+        "zh": "參考書",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0137",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:future-perfect",
+    "tag_zh": "未來完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "By the end of the year, the app ____ over one million downloads worldwide.",
+    "options": [
+      "will have reached",
+      "reaches",
+      "has reached",
+      "will reach"
+    ],
+    "answer": 0,
+    "explain_zh": "by the end of the year 是未來時間點，動作要在此之前完成，須用未來完成式 will have reached。reaches 是現在式；has reached 是現在完成式；will reach 只是單純未來式，都沒有未來某時間點前已完成的語感。",
+    "vocab": [
+      {
+        "w": "download",
+        "zh": "下載",
+        "pos": "n."
+      },
+      {
+        "w": "worldwide",
+        "zh": "全球地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0138",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:modal-perfect",
+    "tag_zh": "情態動詞完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The trail is completely clear of litter now; the volunteers ____ it earlier this morning.",
+    "options": [
+      "should have cleaned",
+      "must have cleaned",
+      "can't have cleaned",
+      "would have cleaned"
+    ],
+    "answer": 1,
+    "explain_zh": "步道現在完全沒有垃圾，最合理的推測是志工一定今天稍早清理過，須用 must have + p.p. 表示肯定推測。should have 是責備語氣；can't have 表示不可能；would have 用於與過去事實相反的假設，都不符合這裡單純推測的語境。",
+    "vocab": [
+      {
+        "w": "trail",
+        "zh": "步道",
+        "pos": "n."
+      },
+      {
+        "w": "litter",
+        "zh": "垃圾",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0139",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:relative-clause",
+    "tag_zh": "關係子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The small guesthouse ____ we stayed had a beautiful garden full of tropical flowers.",
+    "options": [
+      "which",
+      "that",
+      "where",
+      "when"
+    ],
+    "answer": 2,
+    "explain_zh": "空格後面是完整句子，且先行詞 guesthouse 是地方，須用關係副詞 where。which 和 that 是關係代名詞，後面應該接不完整句子；when 是表示時間的關係副詞，不符合地方語意。",
+    "vocab": [
+      {
+        "w": "guesthouse",
+        "zh": "民宿",
+        "pos": "n."
+      },
+      {
+        "w": "tropical",
+        "zh": "熱帶的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0140",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:noun-clause",
+    "tag_zh": "名詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The success of the project depends largely on ____ efficiently the two departments communicate.",
+    "options": [
+      "that",
+      "which",
+      "whether",
+      "how"
+    ],
+    "answer": 3,
+    "explain_zh": "介系詞 on 後面需要一個名詞子句表達溝通的程度，須用疑問副詞 how 引導。that 不能直接接在介系詞後面；which 缺少明確指涉對象；whether 表是否，語意與溝通得多好不符。",
+    "vocab": [
+      {
+        "w": "efficiently",
+        "zh": "有效率地",
+        "pos": "adv."
+      },
+      {
+        "w": "department",
+        "zh": "部門",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0141",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:adverb-clause",
+    "tag_zh": "副詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ it rains during the outdoor ceremony, the school has already booked a backup hall.",
+    "options": [
+      "In case",
+      "As long as",
+      "Now that",
+      "Even if"
+    ],
+    "answer": 0,
+    "explain_zh": "in case + 子句表示以防萬一，此處學校已經預訂備用場地以防下雨，語意吻合。As long as 表只要的條件；Now that 表既然；Even if 表即使，都不符合預防的語意。",
+    "vocab": [
+      {
+        "w": "ceremony",
+        "zh": "典禮",
+        "pos": "n."
+      },
+      {
+        "w": "backup",
+        "zh": "備用的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0142",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:passive-advanced",
+    "tag_zh": "進階被動語態",
+    "passage": null,
+    "group_id": null,
+    "stem": "The missing files are believed ____ during the sudden power outage last night.",
+    "options": [
+      "to delete",
+      "to have been deleted",
+      "deleting",
+      "having deleted"
+    ],
+    "answer": 1,
+    "explain_zh": "believe 常用主詞 + be believed + to V 的句型表推測，且檔案遺失發生在被相信之前並且是被動關係，須用完成式被動不定詞 to have been deleted。to delete 是主動不定詞語意矛盾；deleting 和 having deleted 也不符合 be believed to 的固定句型。",
+    "vocab": [
+      {
+        "w": "outage",
+        "zh": "停電",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0143",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:infinitive-gerund",
+    "tag_zh": "不定詞與動名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The city stopped ____ single-use straws after the new ocean protection law passed.",
+    "options": [
+      "to distribute",
+      "distribute",
+      "distributing",
+      "having distributed"
+    ],
+    "answer": 2,
+    "explain_zh": "stop + V-ing 表示停止正在做的事，此處是城市不再發放一次性吸管，故選 distributing。stop + to V 則表示停下來去做另一件事，語意完全不同；distribute 是原形動詞前面缺少適當連接方式；having distributed 也不符合。",
+    "vocab": [
+      {
+        "w": "single-use",
+        "zh": "一次性的",
+        "pos": "adj."
+      },
+      {
+        "w": "distribute",
+        "zh": "發放",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0144",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:participle-adjective",
+    "tag_zh": "分詞形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Passengers ____ by the sudden turbulence gripped their armrests tightly throughout the flight.",
+    "options": [
+      "startling",
+      "to startle",
+      "startle",
+      "startled"
+    ],
+    "answer": 3,
+    "explain_zh": "乘客是被突如其來的亂流嚇到，屬於被動關係，須用過去分詞 startled 當形容詞修飾 passengers。startling 是現在分詞表示主動造成的動作，語意相反；to startle 是不定詞；startle 是原形動詞，都不能直接放在名詞後面當被動修飾語。",
+    "vocab": [
+      {
+        "w": "turbulence",
+        "zh": "亂流",
+        "pos": "n."
+      },
+      {
+        "w": "armrest",
+        "zh": "扶手",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0145",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conditionals",
+    "tag_zh": "條件句",
+    "passage": null,
+    "group_id": null,
+    "stem": "If the manager had approved the budget sooner, the campaign ____ already launched.",
+    "options": [
+      "would have",
+      "will have",
+      "would",
+      "had"
+    ],
+    "answer": 0,
+    "explain_zh": "if 子句是與過去事實相反的假設（had approved），主要子句須用 would have + 過去分詞，故選 would have。will have 是未來完成式時態不符合第三句型；would 少了 have，句意不完整；had 也不符合主要子句的結構。",
+    "vocab": [
+      {
+        "w": "approve",
+        "zh": "核准",
+        "pos": "v."
+      },
+      {
+        "w": "launch",
+        "zh": "推出",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0146",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:wish-as-if",
+    "tag_zh": "假設語氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "The transfer student talks about the campus as if he ____ here since freshman year.",
+    "options": [
+      "studies",
+      "had studied",
+      "studied",
+      "will study"
+    ],
+    "answer": 1,
+    "explain_zh": "as if 後面談的是與過去事實相反的情況（他其實才剛轉學），須用過去完成式 had studied 表示更早之前的假設。studies 是現在事實直述；studied 只能表示與現在事實相反；will study 是未來式，都不符合。",
+    "vocab": [
+      {
+        "w": "transfer student",
+        "zh": "轉學生",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0147",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:comparison-advanced",
+    "tag_zh": "進階比較句",
+    "passage": null,
+    "group_id": null,
+    "stem": "This new tablet is not ____ expensive as the previous model my sister owns.",
+    "options": [
+      "so as",
+      "more",
+      "as",
+      "than"
+    ],
+    "answer": 2,
+    "explain_zh": "not as + 形容詞 + as 表示同級比較的否定，句中已有 not，空格須填第二個 as，構成 not as expensive as。so as 用法錯誤；more 是比較級用法跟句型不符；than 只用於比較級句型，不能搭配 as。",
+    "vocab": [
+      {
+        "w": "tablet",
+        "zh": "平板電腦",
+        "pos": "n."
+      },
+      {
+        "w": "previous",
+        "zh": "先前的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0148",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conjunctions-transition",
+    "tag_zh": "連接詞與轉折語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The city banned plastic straws last year; ____, beach litter has dropped only slightly.",
+    "options": [
+      "therefore",
+      "in addition",
+      "for example",
+      "nevertheless"
+    ],
+    "answer": 3,
+    "explain_zh": "句意是城市去年禁用塑膠吸管，但海灘垃圾卻只減少一點點，前後是轉折對比，須用 nevertheless。therefore 表因果；in addition 表補充；for example 表舉例，都不符合這裡的對比語意。",
+    "vocab": [
+      {
+        "w": "ban",
+        "zh": "禁止",
+        "pos": "v."
+      },
+      {
+        "w": "slightly",
+        "zh": "些微地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0149",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:subject-verb-agreement",
+    "tag_zh": "主詞動詞一致",
+    "passage": null,
+    "group_id": null,
+    "stem": "A number of flights to the island ____ delayed due to the approaching typhoon.",
+    "options": [
+      "were",
+      "was",
+      "has been",
+      "is"
+    ],
+    "answer": 0,
+    "explain_zh": "a number of + 複數名詞當主詞時，動詞要用複數，因為它表示許多，故選 were。was、has been、is 都是單數動詞，忽略了 a number of 當主詞時應視為複數。",
+    "vocab": [
+      {
+        "w": "approaching",
+        "zh": "逼近的",
+        "pos": "adj."
+      },
+      {
+        "w": "typhoon",
+        "zh": "颱風",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0150",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:causative",
+    "tag_zh": "使役動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The director made every team leader ____ a short progress report every Friday.",
+    "options": [
+      "to submit",
+      "submit",
+      "submitting",
+      "submits"
+    ],
+    "answer": 1,
+    "explain_zh": "make + 人 + 原形動詞表示強迫某人做某事，故選 submit。to submit 不符合 make 使役動詞的固定句型；submitting 及 submits 也不符合這個結構。make/let/have 這三個使役動詞後面接受詞都要用原形動詞。",
+    "vocab": [
+      {
+        "w": "director",
+        "zh": "主管",
+        "pos": "n."
+      },
+      {
+        "w": "progress report",
+        "zh": "進度報告",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0151",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:reported-speech",
+    "tag_zh": "間接引語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The principal announced that the school ____ a new bike-sharing program the following semester.",
+    "options": [
+      "launches",
+      "launched",
+      "would launch",
+      "has launched"
+    ],
+    "answer": 2,
+    "explain_zh": "轉述過去說的話，原本的 will 須倒退為 would，故選 would launch。launches 是現在簡單式沒有倒退；launched 是過去簡單式語意像單純過去動作而非未來計畫；has launched 是現在完成式，都不符合轉述未來計畫的用法。",
+    "vocab": [
+      {
+        "w": "bike-sharing",
+        "zh": "共享單車",
+        "pos": "n."
+      },
+      {
+        "w": "semester",
+        "zh": "學期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0152",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect-continuous",
+    "tag_zh": "現在完成進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The security team ____ suspicious login attempts on the network since early this morning.",
+    "options": [
+      "tracked",
+      "track",
+      "had been tracking",
+      "have been tracking"
+    ],
+    "answer": 3,
+    "explain_zh": "since early this morning 表示動作從過去持續到現在，須用現在完成進行式 have been tracking。tracked 是過去式；track 是現在式；had been tracking 是過去完成進行式基準點不對，這裡沒有更早的過去事件可對照。",
+    "vocab": [
+      {
+        "w": "suspicious",
+        "zh": "可疑的",
+        "pos": "adj."
+      },
+      {
+        "w": "attempt",
+        "zh": "嘗試",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0153",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:past-perfect",
+    "tag_zh": "過去完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Marine biologists confirmed that the oil spill ____ far more damage than first reported.",
+    "options": [
+      "had caused",
+      "has caused",
+      "causes",
+      "was causing"
+    ],
+    "answer": 0,
+    "explain_zh": "生物學家確認這件事發生在過去，而漏油造成損害的動作發生得更早，須用過去完成式 had caused。has caused 是現在完成式基準點不對；causes 是現在式；was causing 是過去進行式，都無法表示先後順序。",
+    "vocab": [
+      {
+        "w": "marine biologist",
+        "zh": "海洋生物學家",
+        "pos": "n."
+      },
+      {
+        "w": "oil spill",
+        "zh": "漏油事件",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0154",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:future-perfect",
+    "tag_zh": "未來完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "By the time our connecting flight boards, we ____ nearly nine hours in this terminal.",
+    "options": [
+      "spend",
+      "will have spent",
+      "have spent",
+      "will spend"
+    ],
+    "answer": 1,
+    "explain_zh": "by the time our flight boards 是未來時間點，動作要在此之前累積完成，須用未來完成式 will have spent。spend 是現在式；have spent 是現在完成式；will spend 只是單純未來式，都沒有未來某時間點前已完成的語感。",
+    "vocab": [
+      {
+        "w": "connecting flight",
+        "zh": "轉機航班",
+        "pos": "n."
+      },
+      {
+        "w": "terminal",
+        "zh": "航廈",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0155",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:modal-perfect",
+    "tag_zh": "情態動詞完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The client's contact details are completely wrong in the system; someone ____ them carelessly.",
+    "options": [
+      "should have entered",
+      "can't have entered",
+      "must have entered",
+      "would have entered"
+    ],
+    "answer": 2,
+    "explain_zh": "客戶資料在系統裡完全錯誤，最合理的推測是有人一定粗心輸入錯了，須用 must have + p.p. 表示肯定推測。should have 是責備語氣；can't have 表示不可能；would have 用於與過去事實相反的假設，都不符合這裡單純推測原因的語境。",
+    "vocab": [
+      {
+        "w": "contact details",
+        "zh": "聯絡資訊",
+        "pos": "n."
+      },
+      {
+        "w": "carelessly",
+        "zh": "粗心地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0156",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:relative-clause",
+    "tag_zh": "關係子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The exchange student, ____ presentation on climate policy won first prize, is from Norway.",
+    "options": [
+      "who",
+      "which",
+      "that",
+      "whose"
+    ],
+    "answer": 3,
+    "explain_zh": "空格後面接名詞 presentation，表示那位交換學生的報告，須用所有格關係代名詞 whose。who 只能作主詞或受詞不能表所有格；which 代替物且不能表所有格；that 同樣不能表示所有格關係。",
+    "vocab": [
+      {
+        "w": "exchange student",
+        "zh": "交換學生",
+        "pos": "n."
+      },
+      {
+        "w": "climate policy",
+        "zh": "氣候政策",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0157",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:noun-clause",
+    "tag_zh": "名詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ triggered the massive server outage is still a mystery to the entire engineering team.",
+    "options": [
+      "What",
+      "That",
+      "Whether",
+      "If"
+    ],
+    "answer": 0,
+    "explain_zh": "空格在句首當主詞，且句子缺少一個名詞角色，須用疑問代名詞 What 引導名詞子句並兼作主詞。That 引導的子句需要完整結構本身不能當主詞；Whether 和 If 表示是否，語意不符合是什麼原因。",
+    "vocab": [
+      {
+        "w": "massive",
+        "zh": "大規模的",
+        "pos": "adj."
+      },
+      {
+        "w": "mystery",
+        "zh": "謎團",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0158",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:adverb-clause",
+    "tag_zh": "副詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the drought worsens further, farmers in this region may lose their entire harvest.",
+    "options": [
+      "Although",
+      "If",
+      "Whereas",
+      "While"
+    ],
+    "answer": 1,
+    "explain_zh": "句意是如果乾旱進一步惡化，農民恐將損失全部收成，屬於條件關係，須用 If。Although 表讓步；Whereas 表對比；While 表然而或當…的時候，都不符合這裡單純的條件假設語意。",
+    "vocab": [
+      {
+        "w": "drought",
+        "zh": "乾旱",
+        "pos": "n."
+      },
+      {
+        "w": "harvest",
+        "zh": "收成",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0159",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:passive-advanced",
+    "tag_zh": "進階被動語態",
+    "passage": null,
+    "group_id": null,
+    "stem": "This historic railway line ____ regularly since it first opened over a century ago.",
+    "options": [
+      "maintains",
+      "is maintaining",
+      "has been maintained",
+      "maintained"
+    ],
+    "answer": 2,
+    "explain_zh": "鐵路線是被定期維護，屬於被動關係，且動作從過去持續到現在，須用現在完成被動 has been maintained。maintains 及 maintained 是主動語態，主詞卻是被維護的鐵路，不合理；is maintaining 也是主動進行式，都與被動語意不符。",
+    "vocab": [
+      {
+        "w": "railway",
+        "zh": "鐵路",
+        "pos": "n."
+      },
+      {
+        "w": "century",
+        "zh": "世紀",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0160",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:infinitive-gerund",
+    "tag_zh": "不定詞與動名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "She regrets ____ the job offer from the smaller startup two years ago.",
+    "options": [
+      "to turn down",
+      "turn down",
+      "to have turned down",
+      "turning down"
+    ],
+    "answer": 3,
+    "explain_zh": "regret + V-ing 表示對過去做過的事感到後悔，此處是她後悔當初拒絕了工作機會，故選 turning down。regret + to V 則表示很遺憾要去做某事，語意不同；turn down 是原形動詞；to have turned down 也不符合這個固定句型。",
+    "vocab": [
+      {
+        "w": "turn down",
+        "zh": "拒絕",
+        "pos": "phr."
+      },
+      {
+        "w": "startup",
+        "zh": "新創公司",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0161",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:participle-adjective",
+    "tag_zh": "分詞形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The graduation ceremony was so ____ that even the strict principal was seen wiping away tears.",
+    "options": [
+      "moving",
+      "moved",
+      "move",
+      "to move"
+    ],
+    "answer": 0,
+    "explain_zh": "ceremony（典禮本身）是造成感動的原因，主動使人感動要用現在分詞當形容詞 moving。moved 是過去分詞形容詞用來形容感到感動的人，主詞卻是 ceremony；move 是原形動詞不能當形容詞；to move 是不定詞都不符合。",
+    "vocab": [
+      {
+        "w": "strict",
+        "zh": "嚴格的",
+        "pos": "adj."
+      },
+      {
+        "w": "wipe away",
+        "zh": "擦去",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0162",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conditionals",
+    "tag_zh": "條件句",
+    "passage": null,
+    "group_id": null,
+    "stem": "If this platform verified every account with a phone number, scam messages ____ far less common.",
+    "options": [
+      "will be",
+      "would be",
+      "are",
+      "had been"
+    ],
+    "answer": 1,
+    "explain_zh": "if 子句用過去式 verified，表示與現在事實相反的假設，主要子句須用 would + 原形動詞，故選 would be。will be 屬於第一句型；are 是現在式直述；had been 是過去完成式屬於第三句型，都不搭配。",
+    "vocab": [
+      {
+        "w": "verify",
+        "zh": "驗證",
+        "pos": "v."
+      },
+      {
+        "w": "scam",
+        "zh": "詐騙",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0163",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:wish-as-if",
+    "tag_zh": "假設語氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "I wish our neighborhood ____ a proper recycling system instead of one shared bin for everything.",
+    "options": [
+      "has",
+      "will have",
+      "had",
+      "had had"
+    ],
+    "answer": 2,
+    "explain_zh": "wish 後面談的是對現在狀態的不滿，須用過去式表示與現在事實相反，故選 had。has 是現在式直述；will have 是未來式；had had 是過去完成式用於對過去的遺憾，都不符合這裡希望現在情況不同的語意。",
+    "vocab": [
+      {
+        "w": "neighborhood",
+        "zh": "社區",
+        "pos": "n."
+      },
+      {
+        "w": "shared bin",
+        "zh": "共用垃圾桶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0164",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:comparison-advanced",
+    "tag_zh": "進階比較句",
+    "passage": null,
+    "group_id": null,
+    "stem": "No sooner ____ the ferry departed than a sudden storm forced it to turn back to port.",
+    "options": [
+      "did",
+      "was",
+      "has",
+      "had"
+    ],
+    "answer": 3,
+    "explain_zh": "no sooner...than 表示一…就…，且句子要倒裝並用過去完成式，故選 had（構成 had the ferry departed）。did、was、has 都不符合 no sooner 後面固定接過去完成式倒裝的句型。",
+    "vocab": [
+      {
+        "w": "depart",
+        "zh": "出發",
+        "pos": "v."
+      },
+      {
+        "w": "port",
+        "zh": "港口",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0165",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conjunctions-transition",
+    "tag_zh": "連接詞與轉折語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The merger was expected to cause major layoffs; ____, every employee kept their position.",
+    "options": [
+      "surprisingly",
+      "as a result",
+      "in other words",
+      "similarly"
+    ],
+    "answer": 0,
+    "explain_zh": "句意是原本預期合併會造成大量裁員，但意外地每位員工都保住了職位，帶有意外轉折語氣，須用 surprisingly。as a result 表因果；in other words 表換句話說；similarly 表相似，都不符合這裡的意外轉折語意。",
+    "vocab": [
+      {
+        "w": "merger",
+        "zh": "合併",
+        "pos": "n."
+      },
+      {
+        "w": "layoff",
+        "zh": "裁員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0166",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:subject-verb-agreement",
+    "tag_zh": "主詞動詞一致",
+    "passage": null,
+    "group_id": null,
+    "stem": "Each of the exchange students ____ required to attend the orientation session next Monday.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been"
+    ],
+    "answer": 1,
+    "explain_zh": "each of + 複數名詞當主詞時，動詞仍須用單數，因為 each 強調個別，故選 is。are、were、have been 都是複數或過去式動詞，忽略了 each 所帶來的單數概念。each/every 開頭的主詞，動詞一律用單數。",
+    "vocab": [
+      {
+        "w": "orientation",
+        "zh": "新生訓練",
+        "pos": "n."
+      },
+      {
+        "w": "session",
+        "zh": "場次",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0167",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:causative",
+    "tag_zh": "使役動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company finally had its outdated database system ____ by an outside consulting firm.",
+    "options": [
+      "upgrade",
+      "upgrading",
+      "upgraded",
+      "to upgrade"
+    ],
+    "answer": 2,
+    "explain_zh": "have + 受詞 + 過去分詞表示請人完成某事，database system 是被升級，屬於被動關係，故選 upgraded。upgrade 是原形動詞用於 have + 人 + 原形動詞而非物品被做；upgrading 及 to upgrade 都不符合這個使役句型結構。",
+    "vocab": [
+      {
+        "w": "consulting firm",
+        "zh": "顧問公司",
+        "pos": "n."
+      },
+      {
+        "w": "database",
+        "zh": "資料庫",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0168",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:reported-speech",
+    "tag_zh": "間接引語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The inspector insisted that the factory ____ its emissions before receiving a new operating permit.",
+    "options": [
+      "reduces",
+      "will reduce",
+      "reduced",
+      "reduce"
+    ],
+    "answer": 3,
+    "explain_zh": "insist 表示堅持要求時，後面的 that 子句常用（should）+ 原形動詞的虛擬語氣，故選 reduce。reduces 是現在式；will reduce 是未來式；reduced 是過去式，都不符合這種要求類動詞後面接原形動詞的用法。",
+    "vocab": [
+      {
+        "w": "inspector",
+        "zh": "檢查員",
+        "pos": "n."
+      },
+      {
+        "w": "permit",
+        "zh": "許可證",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0169",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect-continuous",
+    "tag_zh": "現在完成進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The cruise line ____ passengers about the itinerary change for almost two hours now.",
+    "options": [
+      "has been notifying",
+      "notified",
+      "notifies",
+      "had been notifying"
+    ],
+    "answer": 0,
+    "explain_zh": "for almost two hours now 表示動作從過去持續到現在，須用現在完成進行式 has been notifying。notified 是過去式；notifies 是現在式；had been notifying 是過去完成進行式基準點不對。",
+    "vocab": [
+      {
+        "w": "cruise line",
+        "zh": "郵輪公司",
+        "pos": "n."
+      },
+      {
+        "w": "itinerary",
+        "zh": "行程",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0170",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:past-perfect",
+    "tag_zh": "過去完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "HR discovered that the new hire ____ several key qualifications on his resume.",
+    "options": [
+      "has exaggerated",
+      "had exaggerated",
+      "exaggerates",
+      "was exaggerating"
+    ],
+    "answer": 1,
+    "explain_zh": "人資發現這件事發生在過去，而新進員工誇大資歷的動作發生得更早，須用過去完成式 had exaggerated。has exaggerated 是現在完成式基準點不對；exaggerates 是現在式；was exaggerating 是過去進行式，都無法表示先後順序。",
+    "vocab": [
+      {
+        "w": "qualification",
+        "zh": "資歷",
+        "pos": "n."
+      },
+      {
+        "w": "resume",
+        "zh": "履歷",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0171",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:future-perfect",
+    "tag_zh": "未來完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "By the time the semester ends, this research group ____ three separate studies on memory.",
+    "options": [
+      "complete",
+      "have completed",
+      "will have completed",
+      "will complete"
+    ],
+    "answer": 2,
+    "explain_zh": "by the time the semester ends 是未來時間點，動作要在此之前完成，須用未來完成式 will have completed。complete 是現在式；have completed 是現在完成式；will complete 只是單純未來式，都沒有未來某時間點前已完成的語感。",
+    "vocab": [
+      {
+        "w": "separate",
+        "zh": "個別的",
+        "pos": "adj."
+      },
+      {
+        "w": "memory",
+        "zh": "記憶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0172",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:modal-perfect",
+    "tag_zh": "情態動詞完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The document opens instantly today; the IT team ____ the slow loading issue overnight.",
+    "options": [
+      "should have fixed",
+      "can't have fixed",
+      "would have fixed",
+      "must have fixed"
+    ],
+    "answer": 3,
+    "explain_zh": "文件今天秒開，最合理的推測是資訊團隊一定在一夜之間修好了讀取緩慢的問題，須用 must have + p.p. 表示肯定推測。should have 是責備語氣；can't have 表示不可能；would have 用於與過去事實相反的假設，都不符合這裡單純推測原因的語境。",
+    "vocab": [
+      {
+        "w": "instantly",
+        "zh": "立即地",
+        "pos": "adv."
+      },
+      {
+        "w": "loading",
+        "zh": "讀取",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0173",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:relative-clause",
+    "tag_zh": "關係子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The wildlife sanctuary ____ population of elephants has doubled now welcomes eco-tourists.",
+    "options": [
+      "whose",
+      "who",
+      "which",
+      "that"
+    ],
+    "answer": 0,
+    "explain_zh": "空格後面接名詞 population，表示那個保護區的大象數量，須用所有格關係代名詞 whose。who 只能作主詞或受詞不能表所有格；which 代替物但不能表所有格；that 同樣不能表示所有格關係。",
+    "vocab": [
+      {
+        "w": "sanctuary",
+        "zh": "保護區",
+        "pos": "n."
+      },
+      {
+        "w": "eco-tourist",
+        "zh": "生態旅遊客",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0174",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:noun-clause",
+    "tag_zh": "名詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The itinerary does not specify ____ the group will visit the museum or the palace first.",
+    "options": [
+      "that",
+      "whether",
+      "what",
+      "how"
+    ],
+    "answer": 1,
+    "explain_zh": "空格後面接 or，表示兩者選一的是否概念，須用 whether。that 引導的子句表事實而非選擇；what 是疑問代名詞句中缺少對應角色；how 詢問方式，都不符合這裡兩者擇一的語意。",
+    "vocab": [
+      {
+        "w": "itinerary",
+        "zh": "行程表",
+        "pos": "n."
+      },
+      {
+        "w": "palace",
+        "zh": "皇宮",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0175",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:adverb-clause",
+    "tag_zh": "副詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The supervisor double-checked every figure in the report ____ no mistakes would reach the client.",
+    "options": [
+      "because",
+      "even though",
+      "so that",
+      "as if"
+    ],
+    "answer": 2,
+    "explain_zh": "句意是主管重複核對報告裡的每個數字，目的是不讓任何錯誤傳到客戶手中，屬於目的關係，須用 so that。because 表原因；even though 表讓步；as if 表好像的假設，都不符合這裡的目的語意。",
+    "vocab": [
+      {
+        "w": "figure",
+        "zh": "數字",
+        "pos": "n."
+      },
+      {
+        "w": "double-check",
+        "zh": "仔細核對",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0176",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:passive-advanced",
+    "tag_zh": "進階被動語態",
+    "passage": null,
+    "group_id": null,
+    "stem": "The final grades ____ to every student's online portal by midnight this Friday.",
+    "options": [
+      "upload",
+      "are uploading",
+      "have uploaded",
+      "will be uploaded"
+    ],
+    "answer": 3,
+    "explain_zh": "成績是被上傳到學生的線上入口，屬於被動關係，且時間點在未來，須用未來被動式 will be uploaded。upload 及 are uploading、have uploaded 都是主動語態，主詞卻是被上傳的成績，不合理。",
+    "vocab": [
+      {
+        "w": "portal",
+        "zh": "入口網站",
+        "pos": "n."
+      },
+      {
+        "w": "midnight",
+        "zh": "午夜",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0177",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:infinitive-gerund",
+    "tag_zh": "不定詞與動名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The startup finally managed ____ a reliable investor after nearly a year of pitching.",
+    "options": [
+      "to secure",
+      "securing",
+      "secure",
+      "having secured"
+    ],
+    "answer": 0,
+    "explain_zh": "manage 固定接不定詞 to V，表示設法做到某事，故選 to secure。securing 是動名詞不符合 manage 的固定用法；secure 是原形動詞前面缺少 to；having secured 是完成式動名詞語意也不符合。",
+    "vocab": [
+      {
+        "w": "reliable",
+        "zh": "可靠的",
+        "pos": "adj."
+      },
+      {
+        "w": "pitching",
+        "zh": "提案簡報",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0178",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:participle-adjective",
+    "tag_zh": "分詞形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The documentary about vanishing rainforests left the audience feeling utterly ____ and helpless.",
+    "options": [
+      "devastating",
+      "devastated",
+      "devastate",
+      "to devastate"
+    ],
+    "answer": 1,
+    "explain_zh": "audience（觀眾）是感到極度難過的一方，須用過去分詞當形容詞 devastated。devastating 是現在分詞用來形容造成難過感覺的事物，主詞卻是 audience 本身；devastate 是原形動詞不能當形容詞；to devastate 是不定詞都不符合。",
+    "vocab": [
+      {
+        "w": "vanishing",
+        "zh": "消失中的",
+        "pos": "adj."
+      },
+      {
+        "w": "helpless",
+        "zh": "無助的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0179",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conditionals",
+    "tag_zh": "條件句",
+    "passage": null,
+    "group_id": null,
+    "stem": "If you reserve the mountain cabin online today, you ____ a twenty percent discount.",
+    "options": [
+      "would get",
+      "get",
+      "will get",
+      "had gotten"
+    ],
+    "answer": 2,
+    "explain_zh": "if 子句用現在簡單式 reserve，表示真實可能發生的未來條件，主要子句須用 will + 原形動詞，故選 will get。would get 屬於第二句型；get 是現在式不能單獨當未來結果；had gotten 是過去完成式，都不符合第一句型的規則。",
+    "vocab": [
+      {
+        "w": "cabin",
+        "zh": "小木屋",
+        "pos": "n."
+      },
+      {
+        "w": "discount",
+        "zh": "折扣",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0180",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:wish-as-if",
+    "tag_zh": "假設語氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "The trainee handles client complaints as if he ____ this job for many years already.",
+    "options": [
+      "does",
+      "is doing",
+      "has done",
+      "had done"
+    ],
+    "answer": 3,
+    "explain_zh": "as if 後面談的是與事實相反的誇張情況（他其實才剛入職），須用過去完成式 had done 表示比現在更早的假設。does 及 has done 是現在事實直述或現在完成式；is doing 是現在進行式，都無法表達好像做這份工作很久的誇張虛擬語氣。",
+    "vocab": [
+      {
+        "w": "trainee",
+        "zh": "受訓人員",
+        "pos": "n."
+      },
+      {
+        "w": "complaint",
+        "zh": "客訴",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0181",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:comparison-advanced",
+    "tag_zh": "進階比較句",
+    "passage": null,
+    "group_id": null,
+    "stem": "Attendance at the science fair is growing ____ and more impressive every single year.",
+    "options": [
+      "more",
+      "much",
+      "the most",
+      "most"
+    ],
+    "answer": 0,
+    "explain_zh": "比較級 and 比較級表示程度逐漸增加，impressive 是多音節形容詞須加 more 構成比較級，故選 more，完整為 more and more impressive。much 不能單獨構成比較級；the most 和 most 是最高級用法，不符合這個逐漸遞增的句型。",
+    "vocab": [
+      {
+        "w": "attendance",
+        "zh": "出席人數",
+        "pos": "n."
+      },
+      {
+        "w": "impressive",
+        "zh": "令人印象深刻的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0182",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conjunctions-transition",
+    "tag_zh": "連接詞與轉折語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The new encryption method protects user data far better; ____, it slows the app down noticeably.",
+    "options": [
+      "therefore",
+      "however",
+      "for instance",
+      "likewise"
+    ],
+    "answer": 1,
+    "explain_zh": "句意是新的加密方式能更好地保護用戶資料，但卻明顯拖慢應用程式速度，前後是轉折對比，須用 however。therefore 表因果；for instance 表舉例；likewise 表相似，都不符合這裡的對比語意。",
+    "vocab": [
+      {
+        "w": "encryption",
+        "zh": "加密",
+        "pos": "n."
+      },
+      {
+        "w": "noticeably",
+        "zh": "明顯地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0183",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:subject-verb-agreement",
+    "tag_zh": "主詞動詞一致",
+    "passage": null,
+    "group_id": null,
+    "stem": "A great deal of research ____ needed before scientists can confirm the cause of the coral die-off.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "answer": 2,
+    "explain_zh": "a great deal of + 不可數名詞當主詞時，動詞要用單數，因為 deal 本身是單數概念，故選 is。are、were、have been 都是複數形式的動詞，忽略了不可數名詞搭配單數動詞的規則。",
+    "vocab": [
+      {
+        "w": "die-off",
+        "zh": "大量死亡",
+        "pos": "n."
+      },
+      {
+        "w": "confirm",
+        "zh": "確認",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0184",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:causative",
+    "tag_zh": "使役動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The resort manager had the damaged swimming pool ____ before the peak season began.",
+    "options": [
+      "repair",
+      "repairing",
+      "to repair",
+      "repaired"
+    ],
+    "answer": 3,
+    "explain_zh": "have + 受詞 + 過去分詞表示請人完成某事，swimming pool 是被修理，屬於被動關係，故選 repaired。repair 是原形動詞用於 have + 人 + 原形動詞而非物品被做；repairing 及 to repair 都不符合這個使役句型結構。",
+    "vocab": [
+      {
+        "w": "resort",
+        "zh": "度假村",
+        "pos": "n."
+      },
+      {
+        "w": "peak season",
+        "zh": "旺季",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0185",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:reported-speech",
+    "tag_zh": "間接引語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The HR manager announced that the company ____ remote work permanently starting next quarter.",
+    "options": [
+      "would allow",
+      "allows",
+      "allowed",
+      "has allowed"
+    ],
+    "answer": 0,
+    "explain_zh": "轉述過去說的話，原本的 will 須倒退為 would，故選 would allow。allows 是現在簡單式沒有倒退；allowed 是過去簡單式語意上比較像單純過去動作而非未來計畫；has allowed 是現在完成式，都不符合轉述未來計畫的用法。",
+    "vocab": [
+      {
+        "w": "permanently",
+        "zh": "永久地",
+        "pos": "adv."
+      },
+      {
+        "w": "quarter",
+        "zh": "（一年的）季",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0186",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect-continuous",
+    "tag_zh": "現在完成進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The debate coach ____ the same three students for the national tournament all semester.",
+    "options": [
+      "trained",
+      "has been training",
+      "trains",
+      "had been training"
+    ],
+    "answer": 1,
+    "explain_zh": "all semester 表示動作從過去持續到現在，須用現在完成進行式 has been training。trained 是過去式；trains 是現在式；had been training 是過去完成進行式基準點不對，這裡沒有更早的過去事件可對照。",
+    "vocab": [
+      {
+        "w": "tournament",
+        "zh": "錦標賽",
+        "pos": "n."
+      },
+      {
+        "w": "coach",
+        "zh": "教練",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0187",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:past-perfect",
+    "tag_zh": "過去完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The audit revealed that a former employee ____ confidential files before leaving the company.",
+    "options": [
+      "downloads",
+      "has downloaded",
+      "had downloaded",
+      "was downloading"
+    ],
+    "answer": 2,
+    "explain_zh": "稽核發現這件事是在過去，而前員工下載機密檔案的動作發生得更早，須用過去完成式 had downloaded。downloads 是現在式；has downloaded 是現在完成式；was downloading 是過去進行式，都無法表示先後順序。",
+    "vocab": [
+      {
+        "w": "audit",
+        "zh": "稽核",
+        "pos": "n."
+      },
+      {
+        "w": "confidential",
+        "zh": "機密的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0188",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:future-perfect",
+    "tag_zh": "未來完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "By 2050, this wetland restoration project ____ over five hundred hectares of degraded land.",
+    "options": [
+      "restores",
+      "has restored",
+      "will restore",
+      "will have restored"
+    ],
+    "answer": 3,
+    "explain_zh": "by 2050 是未來時間點，動作要在此之前完成，須用未來完成式 will have restored。restores 是現在式；has restored 是現在完成式；will restore 只是單純未來式，都沒有未來某時間點前已完成的語感。",
+    "vocab": [
+      {
+        "w": "restoration",
+        "zh": "復育",
+        "pos": "n."
+      },
+      {
+        "w": "hectare",
+        "zh": "公頃",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0189",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:modal-perfect",
+    "tag_zh": "情態動詞完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The tour group is nowhere near the meeting point; the guide ____ the itinerary at the last minute.",
+    "options": [
+      "must have changed",
+      "should have changed",
+      "can't have changed",
+      "would have changed"
+    ],
+    "answer": 0,
+    "explain_zh": "旅行團完全不在集合地點附近，最合理的推測是導遊一定在最後一刻改了行程，須用 must have + p.p. 表示肯定推測。should have 是責備語氣；can't have 表示不可能；would have 用於與過去事實相反的假設，都不符合這裡單純推測原因的語境。",
+    "vocab": [
+      {
+        "w": "meeting point",
+        "zh": "集合點",
+        "pos": "n."
+      },
+      {
+        "w": "last minute",
+        "zh": "最後一刻",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0190",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:relative-clause",
+    "tag_zh": "關係子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The vendor ____ prices had risen sharply was quietly dropped from our supplier list.",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "that"
+    ],
+    "answer": 1,
+    "explain_zh": "空格後面接名詞 prices，表示那家廠商的價格，須用所有格關係代名詞 whose。who 只能作主詞或受詞不能表所有格；which 代替物且不能表所有格；that 也不能表示所有格關係。",
+    "vocab": [
+      {
+        "w": "vendor",
+        "zh": "廠商",
+        "pos": "n."
+      },
+      {
+        "w": "supplier",
+        "zh": "供應商",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0191",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:noun-clause",
+    "tag_zh": "名詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the committee ultimately selects for the exchange program remains a closely guarded secret.",
+    "options": [
+      "Whether",
+      "That",
+      "Who",
+      "If"
+    ],
+    "answer": 2,
+    "explain_zh": "空格在句首當名詞子句的受詞角色，指選出誰，須用疑問代名詞 Who 引導。Whether 和 If 表示是否，語意不符合選出誰；That 引導的子句需要完整結構，無法直接兼任受詞角色。",
+    "vocab": [
+      {
+        "w": "guarded",
+        "zh": "嚴守的",
+        "pos": "adj."
+      },
+      {
+        "w": "secret",
+        "zh": "秘密",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0192",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:adverb-clause",
+    "tag_zh": "副詞子句",
+    "passage": null,
+    "group_id": null,
+    "stem": "The app remains popular ____ several competitors have launched cheaper alternatives recently.",
+    "options": [
+      "because",
+      "unless",
+      "so that",
+      "even though"
+    ],
+    "answer": 3,
+    "explain_zh": "句意是雖然幾個競爭對手最近推出更便宜的替代方案，這款應用程式仍然受歡迎，屬於讓步關係，須用 even though。because 表原因；unless 表除非；so that 表目的，都不符合前後對比的讓步語意。",
+    "vocab": [
+      {
+        "w": "competitor",
+        "zh": "競爭對手",
+        "pos": "n."
+      },
+      {
+        "w": "alternative",
+        "zh": "替代方案",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0193",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:passive-advanced",
+    "tag_zh": "進階被動語態",
+    "passage": null,
+    "group_id": null,
+    "stem": "This protected forest ____ constantly to prevent illegal logging and poaching.",
+    "options": [
+      "is being patrolled",
+      "patrols",
+      "has patrolled",
+      "patrolled"
+    ],
+    "answer": 0,
+    "explain_zh": "森林是被持續巡邏，屬於被動關係，且動作正在進行，須用現在進行被動 is being patrolled。patrols、has patrolled、patrolled 都是主動語態，主詞卻是被巡邏的森林，語意矛盾。",
+    "vocab": [
+      {
+        "w": "poaching",
+        "zh": "盜獵",
+        "pos": "n."
+      },
+      {
+        "w": "patrol",
+        "zh": "巡邏",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0194",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:infinitive-gerund",
+    "tag_zh": "不定詞與動名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The airline avoided ____ passengers' luggage even during the worst storm delays.",
+    "options": [
+      "to lose",
+      "losing",
+      "lose",
+      "having lost"
+    ],
+    "answer": 1,
+    "explain_zh": "avoid 後面固定接動名詞 V-ing，表示避免做某事，故選 losing。to lose 是不定詞不符合 avoid 的固定用法；lose 是原形動詞；having lost 是完成式動名詞語意也不合。",
+    "vocab": [
+      {
+        "w": "luggage",
+        "zh": "行李",
+        "pos": "n."
+      },
+      {
+        "w": "storm delay",
+        "zh": "暴風雨延誤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0195",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:participle-adjective",
+    "tag_zh": "分詞形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The quarterly review turned out to be far more ____ than the team had originally expected.",
+    "options": [
+      "demanded",
+      "demand",
+      "demanding",
+      "to demand"
+    ],
+    "answer": 2,
+    "explain_zh": "review（審查本身）是造成高要求感覺的原因，主動使人感到吃力要用現在分詞當形容詞 demanding。demanded 是過去分詞形容詞用來形容感到吃力的人，主詞卻是 review；demand 是原形動詞不能當形容詞；to demand 是不定詞都不符合。",
+    "vocab": [
+      {
+        "w": "quarterly",
+        "zh": "季度的",
+        "pos": "adj."
+      },
+      {
+        "w": "originally",
+        "zh": "原本",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0196",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conditionals",
+    "tag_zh": "條件句",
+    "passage": null,
+    "group_id": null,
+    "stem": "If the cafeteria served healthier options, more students ____ balanced meals every day.",
+    "options": [
+      "will eat",
+      "eat",
+      "had eaten",
+      "would eat"
+    ],
+    "answer": 3,
+    "explain_zh": "if 子句用過去式 served，表示與現在事實相反的假設，主要子句須用 would + 原形動詞，故選 would eat。will eat 屬於第一句型；eat 是現在式直述；had eaten 是過去完成式屬於第三句型，都不搭配。",
+    "vocab": [
+      {
+        "w": "cafeteria",
+        "zh": "自助餐廳",
+        "pos": "n."
+      },
+      {
+        "w": "balanced",
+        "zh": "均衡的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0197",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:wish-as-if",
+    "tag_zh": "假設語氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "I wish this streaming service ____ more reliable during peak evening hours.",
+    "options": [
+      "were",
+      "is",
+      "had been",
+      "will be"
+    ],
+    "answer": 0,
+    "explain_zh": "wish 後面談的是對現在狀態的不滿，須用過去式（be 動詞用 were）表示與現在事實相反，故選 were。is 是現在式直述；had been 是過去完成式用於對過去的遺憾；will be 是未來式，都不符合這裡希望現在情況不同的語意。",
+    "vocab": [
+      {
+        "w": "streaming service",
+        "zh": "串流服務",
+        "pos": "n."
+      },
+      {
+        "w": "peak hours",
+        "zh": "尖峰時段",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0198",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:comparison-advanced",
+    "tag_zh": "進階比較句",
+    "passage": null,
+    "group_id": null,
+    "stem": "Wind energy is becoming ____ competitive than fossil fuels in many regions today.",
+    "options": [
+      "much most",
+      "far more",
+      "as more",
+      "the more"
+    ],
+    "answer": 1,
+    "explain_zh": "far 可以加強比較級語氣，構成 far more competitive than，表示比…更有競爭力，故選 far more。much most 是形容詞誤用；as more 及 the more 都不符合這個單純比較級句型。",
+    "vocab": [
+      {
+        "w": "fossil fuel",
+        "zh": "化石燃料",
+        "pos": "n."
+      },
+      {
+        "w": "competitive",
+        "zh": "具競爭力的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0199",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:conjunctions-transition",
+    "tag_zh": "連接詞與轉折語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The trekking permit was extremely difficult to obtain; ____, we managed to secure two.",
+    "options": [
+      "as a result",
+      "for example",
+      "even so",
+      "in other words"
+    ],
+    "answer": 2,
+    "explain_zh": "句意是健行許可很難取得，儘管如此我們還是成功拿到兩張，屬於讓步轉折，須用 even so。as a result 表因果；for example 表舉例；in other words 表換句話說，都不符合這裡的讓步語意。",
+    "vocab": [
+      {
+        "w": "permit",
+        "zh": "許可證",
+        "pos": "n."
+      },
+      {
+        "w": "obtain",
+        "zh": "取得",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHG-0200",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "grammar",
+    "tag": "grammar:subject-verb-agreement",
+    "tag_zh": "主詞動詞一致",
+    "passage": null,
+    "group_id": null,
+    "stem": "The entire staff, including part-time workers, ____ eligible for the year-end bonus this year.",
+    "options": [
+      "are",
+      "were",
+      "have been",
+      "is"
+    ],
+    "answer": 3,
+    "explain_zh": "主詞核心是 the entire staff，視為一個整體時動詞用單數，中間插入的 including part-time workers 只是補充說明，不影響動詞單複數，故選 is。are、were、have been 都是複數或過去式動詞，誤把插入語當成主詞的一部分。",
+    "vocab": [
+      {
+        "w": "eligible",
+        "zh": "符合資格的",
+        "pos": "adj."
+      },
+      {
+        "w": "part-time",
+        "zh": "兼職的",
+        "pos": "adj."
+      }
+    ]
+  }
+]

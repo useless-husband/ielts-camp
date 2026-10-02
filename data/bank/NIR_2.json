@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "NIR-0051",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Gothic cathedrals grew dramatically taller between the twelfth and fourteenth centuries, and architectural historians have long debated what drove the change. Bertrand, surveying 40 major cathedrals built across northern France in this period, found that average vault height increased by roughly 45 percent over two centuries, with several sharp jumps rather than a steady climb.\n\nB. One explanation credits structural innovation: the flying buttress, which transfers the outward thrust of a stone vault to external piers, allowed walls to be thinner and taller than earlier Romanesque techniques permitted. Under this view, height increased whenever a new structural solution made it physically possible.\n\nC. Bertrand's data complicates a purely structural account. Several of the sharpest height increases coincide not with new engineering techniques but with periods when neighbouring towns were competing for prestige, each attempting to outbuild the cathedral of a rival diocese. In at least three cases, a cathedral was significantly heightened using no new structural method, apparently duplicating a solution already available for decades.\n\nD. Bertrand therefore argues that civic rivalry supplied the motive while engineering supplied the means, and that neither factor alone explains the pattern. Some architectural historians remain unconvinced, arguing that documentary evidence of explicit competition between towns is too thin to support such a strong claim, and that apparent copying may simply reflect the ordinary spread of a successful technique among masons who trained together.",
+    "group_id": "NIR-G11",
+    "stem": "What central argument does Bertrand make about the increasing height of Gothic cathedrals?",
+    "options": [
+      "Height increases resulted from a combination of civic rivalry and available engineering solutions, not engineering alone",
+      "Flying buttresses were the sole cause of every increase in cathedral height",
+      "Civic rivalry between towns has been definitively proven by newly found documents",
+      "Cathedral height actually declined steadily throughout the period studied"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 總結 Bertrand 的主張：civic rivalry supplied the motive while engineering supplied the means, and that neither factor alone explains the pattern，對應選項 A，故選 A。B 忽略了段落 C 指出「有些案例根本沒用到新技術」，並非飛扶壁單一造成所有增高；C 段落 D 明確說其他學者認為文獻證據 too thin，並非「已被證實」；D 與段落 A 的 45 percent 增加趨勢矛盾。技巧：主旨題若文章提出「兩個因素共同作用」的論點，答案要同時包含兩個因素，不能只選其中一個。",
+    "vocab": [
+      {
+        "w": "vault",
+        "zh": "拱頂",
+        "pos": "n."
+      },
+      {
+        "w": "buttress",
+        "zh": "扶壁",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0052",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Gothic cathedrals grew dramatically taller between the twelfth and fourteenth centuries, and architectural historians have long debated what drove the change. Bertrand, surveying 40 major cathedrals built across northern France in this period, found that average vault height increased by roughly 45 percent over two centuries, with several sharp jumps rather than a steady climb.\n\nB. One explanation credits structural innovation: the flying buttress, which transfers the outward thrust of a stone vault to external piers, allowed walls to be thinner and taller than earlier Romanesque techniques permitted. Under this view, height increased whenever a new structural solution made it physically possible.\n\nC. Bertrand's data complicates a purely structural account. Several of the sharpest height increases coincide not with new engineering techniques but with periods when neighbouring towns were competing for prestige, each attempting to outbuild the cathedral of a rival diocese. In at least three cases, a cathedral was significantly heightened using no new structural method, apparently duplicating a solution already available for decades.\n\nD. Bertrand therefore argues that civic rivalry supplied the motive while engineering supplied the means, and that neither factor alone explains the pattern. Some architectural historians remain unconvinced, arguing that documentary evidence of explicit competition between towns is too thin to support such a strong claim, and that apparent copying may simply reflect the ordinary spread of a successful technique among masons who trained together.",
+    "group_id": "NIR-G11",
+    "stem": "According to Bertrand's survey, by roughly what percentage did average vault height increase over the two centuries studied?",
+    "options": [
+      "Roughly 45 percent",
+      "Roughly 54 percent",
+      "Roughly 40 percent",
+      "The survey did not measure vault height"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 A 寫 average vault height increased by roughly 45 percent，選 A。40 percent 其實是段落 A 提到的「調查的大教堂數量」，容易被誤看成百分比；54 percent 是數字顛倒的誘答；文章確實有測量拱頂高度並給出數字。技巧：段落中若同時出現「調查數量」與「增加比例」兩個數字，作答前務必分清楚哪個數字對應哪個問題。",
+    "vocab": [
+      {
+        "w": "diocese",
+        "zh": "教區",
+        "pos": "n."
+      },
+      {
+        "w": "prestige",
+        "zh": "聲望",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0053",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Gothic cathedrals grew dramatically taller between the twelfth and fourteenth centuries, and architectural historians have long debated what drove the change. Bertrand, surveying 40 major cathedrals built across northern France in this period, found that average vault height increased by roughly 45 percent over two centuries, with several sharp jumps rather than a steady climb.\n\nB. One explanation credits structural innovation: the flying buttress, which transfers the outward thrust of a stone vault to external piers, allowed walls to be thinner and taller than earlier Romanesque techniques permitted. Under this view, height increased whenever a new structural solution made it physically possible.\n\nC. Bertrand's data complicates a purely structural account. Several of the sharpest height increases coincide not with new engineering techniques but with periods when neighbouring towns were competing for prestige, each attempting to outbuild the cathedral of a rival diocese. In at least three cases, a cathedral was significantly heightened using no new structural method, apparently duplicating a solution already available for decades.\n\nD. Bertrand therefore argues that civic rivalry supplied the motive while engineering supplied the means, and that neither factor alone explains the pattern. Some architectural historians remain unconvinced, arguing that documentary evidence of explicit competition between towns is too thin to support such a strong claim, and that apparent copying may simply reflect the ordinary spread of a successful technique among masons who trained together.",
+    "group_id": "NIR-G11",
+    "stem": "What can be inferred from the cases in which a cathedral was heightened using no new structural method?",
+    "options": [
+      "Motives other than technical necessity, such as competition, may have driven some height increases.",
+      "Those cathedrals were built earlier than every other cathedral in the survey.",
+      "Flying buttresses were never used in any Gothic cathedral.",
+      "Bertrand considers those cases to be measurement errors in her data."
+    ],
+    "answer": 0,
+    "explain_zh": "段落 C 指出這些案例「複製既有數十年的舊技術」卻仍拉高教堂，暗示驅動力並非新技術本身，而可能是競爭心理，對應選項 A，故選 A。C 與段落 B 描述飛扶壁廣泛使用矛盾；B 原文沒有比較這些案例的建造時間先後；D 段落 C 是把這些案例當作重要證據討論，並非視為誤差。技巧：推論題常考「當某個常見解釋（新技術）不適用時，還剩下什麼可能原因」，答案通常呼應段落中另一個被強調的因素。",
+    "vocab": [
+      {
+        "w": "duplicate",
+        "zh": "複製",
+        "pos": "v."
+      },
+      {
+        "w": "heighten",
+        "zh": "加高",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0054",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Gothic cathedrals grew dramatically taller between the twelfth and fourteenth centuries, and architectural historians have long debated what drove the change. Bertrand, surveying 40 major cathedrals built across northern France in this period, found that average vault height increased by roughly 45 percent over two centuries, with several sharp jumps rather than a steady climb.\n\nB. One explanation credits structural innovation: the flying buttress, which transfers the outward thrust of a stone vault to external piers, allowed walls to be thinner and taller than earlier Romanesque techniques permitted. Under this view, height increased whenever a new structural solution made it physically possible.\n\nC. Bertrand's data complicates a purely structural account. Several of the sharpest height increases coincide not with new engineering techniques but with periods when neighbouring towns were competing for prestige, each attempting to outbuild the cathedral of a rival diocese. In at least three cases, a cathedral was significantly heightened using no new structural method, apparently duplicating a solution already available for decades.\n\nD. Bertrand therefore argues that civic rivalry supplied the motive while engineering supplied the means, and that neither factor alone explains the pattern. Some architectural historians remain unconvinced, arguing that documentary evidence of explicit competition between towns is too thin to support such a strong claim, and that apparent copying may simply reflect the ordinary spread of a successful technique among masons who trained together.",
+    "group_id": "NIR-G11",
+    "stem": "Statement: All architectural historians now fully accept Bertrand's explanation involving civic rivalry.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 D 明確寫 Some architectural historians remain unconvinced，直接反駁「所有學者都完全接受」的說法，選 False。技巧：題幹的 all 這類絕對詞，只要原文出現 some... remain unconvinced 這種反例，就可以直接判定為 False，不必猜測是否被提及。",
+    "vocab": [
+      {
+        "w": "unconvinced",
+        "zh": "存疑的",
+        "pos": "adj."
+      },
+      {
+        "w": "documentary evidence",
+        "zh": "文獻證據",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0055",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Gothic cathedrals grew dramatically taller between the twelfth and fourteenth centuries, and architectural historians have long debated what drove the change. Bertrand, surveying 40 major cathedrals built across northern France in this period, found that average vault height increased by roughly 45 percent over two centuries, with several sharp jumps rather than a steady climb.\n\nB. One explanation credits structural innovation: the flying buttress, which transfers the outward thrust of a stone vault to external piers, allowed walls to be thinner and taller than earlier Romanesque techniques permitted. Under this view, height increased whenever a new structural solution made it physically possible.\n\nC. Bertrand's data complicates a purely structural account. Several of the sharpest height increases coincide not with new engineering techniques but with periods when neighbouring towns were competing for prestige, each attempting to outbuild the cathedral of a rival diocese. In at least three cases, a cathedral was significantly heightened using no new structural method, apparently duplicating a solution already available for decades.\n\nD. Bertrand therefore argues that civic rivalry supplied the motive while engineering supplied the means, and that neither factor alone explains the pattern. Some architectural historians remain unconvinced, arguing that documentary evidence of explicit competition between towns is too thin to support such a strong claim, and that apparent copying may simply reflect the ordinary spread of a successful technique among masons who trained together.",
+    "group_id": "NIR-G11",
+    "stem": "Which paragraph presents an alternative view that doubts the civic rivalry explanation?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 後半段寫 Some architectural historians remain unconvinced, arguing that documentary evidence... is too thin，正是提出質疑競爭論的另一種觀點，答案是 Paragraph D。段落 A 介紹調查數據；段落 B 說明結構論；段落 C 提出 Bertrand 反駁結構論的證據。技巧：段落配對題要留意「誰在質疑誰」，本題問的是質疑「競爭論」，而不是質疑「結構論」，兩者容易混淆。",
+    "vocab": [
+      {
+        "w": "mason",
+        "zh": "石匠",
+        "pos": "n."
+      },
+      {
+        "w": "rivalry",
+        "zh": "競爭；對抗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0056",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Dung beetles that roll balls of dung away from a manure pile do so in a straight line, an efficient strategy for escaping competitors clustered at the source. Larsson and colleagues showed in a series of night-time experiments that beetles keep this straight path even under a clear, starlit sky with no moon, raising the question of what cue they are using to steer.\n\nB. When the researchers fitted beetles with small cardboard caps that blocked their view of the sky, the beetles' paths became noticeably less straight, wandering by an average of several times more than uncapped beetles tested under the same conditions. This confirmed that some feature of the night sky, rather than landmarks on the ground, was providing directional information.\n\nC. The most striking test placed beetles inside a planetarium, where the researchers could control exactly which features of the sky were visible. Beetles rolled straight paths when shown a full simulated starfield, and continued to do so even when only the bright band of the Milky Way was displayed, with individual stars removed. Larsson concludes that beetles are likely using the gradient of light across the Milky Way, rather than recognising specific star patterns, since insect eyes generally lack the resolution to distinguish individual stars clearly.\n\nD. This finding was unexpected because most animals known to use celestial navigation, including some birds, appear to rely on constellations or the position of specific stars. A dung beetle would be the first animal shown to navigate by a diffuse band of light rather than by point-like sources, suggesting that a sophisticated navigational strategy does not necessarily require a nervous system capable of resolving fine visual detail.",
+    "group_id": "NIR-G12",
+    "stem": "What happened to the beetles' paths when researchers fitted them with caps that blocked their view of the sky?",
+    "options": [
+      "There was no measurable change in the paths",
+      "The paths became perfectly straighter than before",
+      "The paths became noticeably less straight than those of uncapped beetles",
+      "The beetles stopped moving altogether"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 B 寫 the beetles' paths became noticeably less straight, wandering by an average of several times more than uncapped beetles，對應選項 C「noticeably less straight」，故選 C。A 與原文「有明顯變化」矛盾；B 方向剛好相反；D 原文沒有提到甲蟲停止移動。技巧：實驗類文章找到「操縱變因→結果改變」的敘述後，緊接的句子通常就是結果，需與選項逐字核對方向是否一致。",
+    "vocab": [
+      {
+        "w": "wander",
+        "zh": "游移；偏離",
+        "pos": "v."
+      },
+      {
+        "w": "landmark",
+        "zh": "地標",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0057",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Dung beetles that roll balls of dung away from a manure pile do so in a straight line, an efficient strategy for escaping competitors clustered at the source. Larsson and colleagues showed in a series of night-time experiments that beetles keep this straight path even under a clear, starlit sky with no moon, raising the question of what cue they are using to steer.\n\nB. When the researchers fitted beetles with small cardboard caps that blocked their view of the sky, the beetles' paths became noticeably less straight, wandering by an average of several times more than uncapped beetles tested under the same conditions. This confirmed that some feature of the night sky, rather than landmarks on the ground, was providing directional information.\n\nC. The most striking test placed beetles inside a planetarium, where the researchers could control exactly which features of the sky were visible. Beetles rolled straight paths when shown a full simulated starfield, and continued to do so even when only the bright band of the Milky Way was displayed, with individual stars removed. Larsson concludes that beetles are likely using the gradient of light across the Milky Way, rather than recognising specific star patterns, since insect eyes generally lack the resolution to distinguish individual stars clearly.\n\nD. This finding was unexpected because most animals known to use celestial navigation, including some birds, appear to rely on constellations or the position of specific stars. A dung beetle would be the first animal shown to navigate by a diffuse band of light rather than by point-like sources, suggesting that a sophisticated navigational strategy does not necessarily require a nervous system capable of resolving fine visual detail.",
+    "group_id": "NIR-G12",
+    "stem": "What can be inferred about why Larsson believes beetles use the Milky Way's light gradient rather than individual star patterns?",
+    "options": [
+      "The beetles performed worse when only the Milky Way band was shown.",
+      "Birds and beetles have been proven to use identical navigational structures.",
+      "Beetles were shown to ignore the Milky Way completely during the planetarium test.",
+      "Insect eyes generally lack the resolution needed to distinguish individual stars clearly."
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 明確給出理由：since insect eyes generally lack the resolution to distinguish individual stars clearly，對應選項 D，故選 D。A、C 都與段落 C 描述「只顯示銀河光帶時甲蟲仍能走直線」矛盾；B 段落 D 特別強調甲蟲與鳥類的導航方式不同，並非相同結構。技巧：推論題常直接對應原文 since／because 引導的原因子句，找到它幾乎就等於找到答案。",
+    "vocab": [
+      {
+        "w": "resolution",
+        "zh": "解析度；辨識能力",
+        "pos": "n."
+      },
+      {
+        "w": "gradient",
+        "zh": "漸層；梯度",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0058",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Dung beetles that roll balls of dung away from a manure pile do so in a straight line, an efficient strategy for escaping competitors clustered at the source. Larsson and colleagues showed in a series of night-time experiments that beetles keep this straight path even under a clear, starlit sky with no moon, raising the question of what cue they are using to steer.\n\nB. When the researchers fitted beetles with small cardboard caps that blocked their view of the sky, the beetles' paths became noticeably less straight, wandering by an average of several times more than uncapped beetles tested under the same conditions. This confirmed that some feature of the night sky, rather than landmarks on the ground, was providing directional information.\n\nC. The most striking test placed beetles inside a planetarium, where the researchers could control exactly which features of the sky were visible. Beetles rolled straight paths when shown a full simulated starfield, and continued to do so even when only the bright band of the Milky Way was displayed, with individual stars removed. Larsson concludes that beetles are likely using the gradient of light across the Milky Way, rather than recognising specific star patterns, since insect eyes generally lack the resolution to distinguish individual stars clearly.\n\nD. This finding was unexpected because most animals known to use celestial navigation, including some birds, appear to rely on constellations or the position of specific stars. A dung beetle would be the first animal shown to navigate by a diffuse band of light rather than by point-like sources, suggesting that a sophisticated navigational strategy does not necessarily require a nervous system capable of resolving fine visual detail.",
+    "group_id": "NIR-G12",
+    "stem": "In paragraph D, the word 'diffuse' is closest in meaning to which of the following?",
+    "options": [
+      "invisible to the human eye",
+      "extremely bright and concentrated",
+      "spread out and not sharply defined",
+      "artificially created in a laboratory"
+    ],
+    "answer": 2,
+    "explain_zh": "diffuse 指「擴散、不集中」，段落 D 用 a diffuse band of light 對比 point-like sources（點狀光源，如單一顆星），對應選項 C「spread out and not sharply defined」，故選 C。B「集中明亮」與 diffuse 意思相反；A、D 都偏離了原文描述銀河光帶「擴散」的物理特性。技巧：diffuse 常與 light、band、glow 等字搭配，用來形容「範圍廣但不集中」的光線或氣體。",
+    "vocab": [
+      {
+        "w": "diffuse",
+        "zh": "擴散的",
+        "pos": "adj."
+      },
+      {
+        "w": "starfield",
+        "zh": "星場",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0059",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Dung beetles that roll balls of dung away from a manure pile do so in a straight line, an efficient strategy for escaping competitors clustered at the source. Larsson and colleagues showed in a series of night-time experiments that beetles keep this straight path even under a clear, starlit sky with no moon, raising the question of what cue they are using to steer.\n\nB. When the researchers fitted beetles with small cardboard caps that blocked their view of the sky, the beetles' paths became noticeably less straight, wandering by an average of several times more than uncapped beetles tested under the same conditions. This confirmed that some feature of the night sky, rather than landmarks on the ground, was providing directional information.\n\nC. The most striking test placed beetles inside a planetarium, where the researchers could control exactly which features of the sky were visible. Beetles rolled straight paths when shown a full simulated starfield, and continued to do so even when only the bright band of the Milky Way was displayed, with individual stars removed. Larsson concludes that beetles are likely using the gradient of light across the Milky Way, rather than recognising specific star patterns, since insect eyes generally lack the resolution to distinguish individual stars clearly.\n\nD. This finding was unexpected because most animals known to use celestial navigation, including some birds, appear to rely on constellations or the position of specific stars. A dung beetle would be the first animal shown to navigate by a diffuse band of light rather than by point-like sources, suggesting that a sophisticated navigational strategy does not necessarily require a nervous system capable of resolving fine visual detail.",
+    "group_id": "NIR-G12",
+    "stem": "Which paragraph describes the planetarium experiment that isolated the Milky Way as a possible navigational cue?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 描述 placed beetles inside a planetarium... even when only the bright band of the Milky Way was displayed, with individual stars removed，正是隔離銀河光帶進行測試的實驗，答案是 Paragraph C。段落 A 介紹背景問題；段落 B 是遮蔽視野的初步實驗；段落 D 討論此發現的意義。技巧：找特定實驗設計的段落，留意描述「控制變因」的具體字眼，如 removed、only、controlled。",
+    "vocab": [
+      {
+        "w": "planetarium",
+        "zh": "天文館",
+        "pos": "n."
+      },
+      {
+        "w": "constellation",
+        "zh": "星座",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0060",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Dung beetles that roll balls of dung away from a manure pile do so in a straight line, an efficient strategy for escaping competitors clustered at the source. Larsson and colleagues showed in a series of night-time experiments that beetles keep this straight path even under a clear, starlit sky with no moon, raising the question of what cue they are using to steer.\n\nB. When the researchers fitted beetles with small cardboard caps that blocked their view of the sky, the beetles' paths became noticeably less straight, wandering by an average of several times more than uncapped beetles tested under the same conditions. This confirmed that some feature of the night sky, rather than landmarks on the ground, was providing directional information.\n\nC. The most striking test placed beetles inside a planetarium, where the researchers could control exactly which features of the sky were visible. Beetles rolled straight paths when shown a full simulated starfield, and continued to do so even when only the bright band of the Milky Way was displayed, with individual stars removed. Larsson concludes that beetles are likely using the gradient of light across the Milky Way, rather than recognising specific star patterns, since insect eyes generally lack the resolution to distinguish individual stars clearly.\n\nD. This finding was unexpected because most animals known to use celestial navigation, including some birds, appear to rely on constellations or the position of specific stars. A dung beetle would be the first animal shown to navigate by a diffuse band of light rather than by point-like sources, suggesting that a sophisticated navigational strategy does not necessarily require a nervous system capable of resolving fine visual detail.",
+    "group_id": "NIR-G12",
+    "stem": "How does the writer characterise the significance of Larsson's finding about dung beetles?",
+    "options": [
+      "As evidence that birds and beetles share an identical navigational nervous system",
+      "As a minor curiosity with no broader relevance to animal navigation research",
+      "As definitive proof that all insects navigate using the Milky Way",
+      "As an unexpected result suggesting sophisticated navigation does not require fine visual detail"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 說 This finding was unexpected...suggesting that a sophisticated navigational strategy does not necessarily require a nervous system capable of resolving fine visual detail，對應選項 D，故選 D。B 與 unexpected 且整段花篇幅討論意義矛盾；C 過度推廣到「所有昆蟲」，原文只談糞金龜；A 段落 D 特別區分甲蟲與鳥類導航方式的不同，並未說兩者相同。技巧：作者觀點題常藏在結尾段的評價句，留意 unexpected、first animal shown to 這類強調「重要性」的用語。",
+    "vocab": [
+      {
+        "w": "sophisticated",
+        "zh": "精密複雜的",
+        "pos": "adj."
+      },
+      {
+        "w": "curiosity",
+        "zh": "奇聞軼事",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0061",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Climate models generally agree on the broad direction of future warming but differ substantially in how much warming a given increase in atmospheric carbon dioxide will eventually produce. Kowalski and colleagues compared 30 major models in 2021 and found that their estimates of long-term warming from a doubling of carbon dioxide ranged from 2.3 to 4.7 degrees Celsius, a spread that has narrowed only slightly since similar comparisons a decade earlier.\n\nB. Much of this spread traces back to how each model represents clouds, a process that occurs at a smaller scale than models can directly calculate and must instead be approximated using simplified rules. Low clouds tend to cool the surface by reflecting sunlight, while high clouds tend to trap outgoing heat; small differences in how a model handles cloud formation and movement can shift its overall warming estimate considerably.\n\nC. Kowalski's team found that models predicting stronger warming tended to project fewer low clouds forming over oceans as temperatures rise, reducing the cooling effect those clouds normally provide. Satellite observations offer some support for this pattern, though the observational record is too short, in Kowalski's assessment, to confirm which group of models is closer to how clouds will actually behave over coming decades.\n\nD. Narrowing this range matters for policy, since it affects estimates of how quickly emissions must fall to avoid a given temperature target. Kowalski cautions against treating any single model's estimate as authoritative, recommending instead that policymakers plan using the full range of outcomes rather than the midpoint alone, given how much still depends on unresolved questions about cloud behaviour.",
+    "group_id": "NIR-G13",
+    "stem": "What issue does the passage focus on regarding climate models?",
+    "options": [
+      "A proof that all climate models currently agree exactly on future warming",
+      "Why estimates of future warming vary so widely across different climate models, largely due to how clouds are represented",
+      "An argument that satellite observations are completely useless for climate science",
+      "A history of how the first computer climate models were built in the 1960s"
+    ],
+    "answer": 1,
+    "explain_zh": "全文核心是模型估計值差異很大（2.3～4.7度），並解釋雲的模擬方式是主因，最後給出政策建議，對應選項 B，故選 B。A 與段落 A 指出估計值差異很大矛盾；C 段落 C 提到衛星觀測「提供部分支持」，並未被說成無用；D 文章沒有談模型的歷史。技巧：主旨題如果文章開頭就丟出一個「範圍很大的數據」，通常全文接下來都在解釋這個範圍從何而來。",
+    "vocab": [
+      {
+        "w": "spread",
+        "zh": "（數值的）分布範圍",
+        "pos": "n."
+      },
+      {
+        "w": "approximate",
+        "zh": "以近似值估計",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0062",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Climate models generally agree on the broad direction of future warming but differ substantially in how much warming a given increase in atmospheric carbon dioxide will eventually produce. Kowalski and colleagues compared 30 major models in 2021 and found that their estimates of long-term warming from a doubling of carbon dioxide ranged from 2.3 to 4.7 degrees Celsius, a spread that has narrowed only slightly since similar comparisons a decade earlier.\n\nB. Much of this spread traces back to how each model represents clouds, a process that occurs at a smaller scale than models can directly calculate and must instead be approximated using simplified rules. Low clouds tend to cool the surface by reflecting sunlight, while high clouds tend to trap outgoing heat; small differences in how a model handles cloud formation and movement can shift its overall warming estimate considerably.\n\nC. Kowalski's team found that models predicting stronger warming tended to project fewer low clouds forming over oceans as temperatures rise, reducing the cooling effect those clouds normally provide. Satellite observations offer some support for this pattern, though the observational record is too short, in Kowalski's assessment, to confirm which group of models is closer to how clouds will actually behave over coming decades.\n\nD. Narrowing this range matters for policy, since it affects estimates of how quickly emissions must fall to avoid a given temperature target. Kowalski cautions against treating any single model's estimate as authoritative, recommending instead that policymakers plan using the full range of outcomes rather than the midpoint alone, given how much still depends on unresolved questions about cloud behaviour.",
+    "group_id": "NIR-G13",
+    "stem": "What can be inferred about models that predict stronger future warming?",
+    "options": [
+      "They predict that high clouds will disappear entirely by mid-century.",
+      "They have already been proven wrong by the full satellite record.",
+      "They completely ignore the role of clouds in their calculations.",
+      "They tend to project a reduced cooling effect from low clouds over oceans as temperatures rise."
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 說預測增溫較強的模型 tended to project fewer low clouds forming over oceans... reducing the cooling effect，對應選項 D，故選 D。B 與段落 C 明確說觀測紀錄 too short to confirm，尚未能證明對錯矛盾；C 與段落 B 說明雲的模擬是模型核心變因矛盾；A 原文沒有提到高雲會「完全消失」。技巧：推論題常要求把「模型為什麼預測較高溫度」轉換成「模型對某個物理過程的假設」。",
+    "vocab": [
+      {
+        "w": "authoritative",
+        "zh": "具權威性的",
+        "pos": "adj."
+      },
+      {
+        "w": "midpoint",
+        "zh": "中間值",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0063",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Climate models generally agree on the broad direction of future warming but differ substantially in how much warming a given increase in atmospheric carbon dioxide will eventually produce. Kowalski and colleagues compared 30 major models in 2021 and found that their estimates of long-term warming from a doubling of carbon dioxide ranged from 2.3 to 4.7 degrees Celsius, a spread that has narrowed only slightly since similar comparisons a decade earlier.\n\nB. Much of this spread traces back to how each model represents clouds, a process that occurs at a smaller scale than models can directly calculate and must instead be approximated using simplified rules. Low clouds tend to cool the surface by reflecting sunlight, while high clouds tend to trap outgoing heat; small differences in how a model handles cloud formation and movement can shift its overall warming estimate considerably.\n\nC. Kowalski's team found that models predicting stronger warming tended to project fewer low clouds forming over oceans as temperatures rise, reducing the cooling effect those clouds normally provide. Satellite observations offer some support for this pattern, though the observational record is too short, in Kowalski's assessment, to confirm which group of models is closer to how clouds will actually behave over coming decades.\n\nD. Narrowing this range matters for policy, since it affects estimates of how quickly emissions must fall to avoid a given temperature target. Kowalski cautions against treating any single model's estimate as authoritative, recommending instead that policymakers plan using the full range of outcomes rather than the midpoint alone, given how much still depends on unresolved questions about cloud behaviour.",
+    "group_id": "NIR-G13",
+    "stem": "In paragraph D, the word 'authoritative' is closest in meaning to which of the following?",
+    "options": [
+      "randomly generated without any basis",
+      "completely outdated and no longer used",
+      "definitively correct and to be trusted above others",
+      "openly disputed by every researcher involved"
+    ],
+    "answer": 2,
+    "explain_zh": "authoritative 指「具權威性、值得信賴到可視為定論」，段落 D 說 Kowalski cautions against treating any single model's estimate as authoritative，也就是不要把單一模型當成絕對正確的答案，對應選項 C，故選 C。A、B、D 都偏離了「被視為可信定論」這個核心意思。技巧：authoritative 常與 source、estimate、figure 等字搭配，表示「具公信力、可被引用依賴」。",
+    "vocab": [
+      {
+        "w": "authoritative",
+        "zh": "具權威性的",
+        "pos": "adj."
+      },
+      {
+        "w": "narrow",
+        "zh": "縮小；使變窄",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0064",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Climate models generally agree on the broad direction of future warming but differ substantially in how much warming a given increase in atmospheric carbon dioxide will eventually produce. Kowalski and colleagues compared 30 major models in 2021 and found that their estimates of long-term warming from a doubling of carbon dioxide ranged from 2.3 to 4.7 degrees Celsius, a spread that has narrowed only slightly since similar comparisons a decade earlier.\n\nB. Much of this spread traces back to how each model represents clouds, a process that occurs at a smaller scale than models can directly calculate and must instead be approximated using simplified rules. Low clouds tend to cool the surface by reflecting sunlight, while high clouds tend to trap outgoing heat; small differences in how a model handles cloud formation and movement can shift its overall warming estimate considerably.\n\nC. Kowalski's team found that models predicting stronger warming tended to project fewer low clouds forming over oceans as temperatures rise, reducing the cooling effect those clouds normally provide. Satellite observations offer some support for this pattern, though the observational record is too short, in Kowalski's assessment, to confirm which group of models is closer to how clouds will actually behave over coming decades.\n\nD. Narrowing this range matters for policy, since it affects estimates of how quickly emissions must fall to avoid a given temperature target. Kowalski cautions against treating any single model's estimate as authoritative, recommending instead that policymakers plan using the full range of outcomes rather than the midpoint alone, given how much still depends on unresolved questions about cloud behaviour.",
+    "group_id": "NIR-G13",
+    "stem": "Statement: Kowalski's comparison found that the range of model estimates has narrowed dramatically since a decade earlier.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 A 寫 a spread that has narrowed only slightly since similar comparisons a decade earlier，用的是 only slightly（只有些微縮小），與題幹的 dramatically（大幅縮小）明顯不符，屬於程度被誇大後與原文矛盾，選 False。技巧：True/False/Not Given 常考「程度副詞」陷阱，only slightly 與 dramatically 語意差距很大，一定要對照原文的程度用字。",
+    "vocab": [
+      {
+        "w": "dramatically",
+        "zh": "劇烈地",
+        "pos": "adv."
+      },
+      {
+        "w": "comparison",
+        "zh": "比較",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0065",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Climate models generally agree on the broad direction of future warming but differ substantially in how much warming a given increase in atmospheric carbon dioxide will eventually produce. Kowalski and colleagues compared 30 major models in 2021 and found that their estimates of long-term warming from a doubling of carbon dioxide ranged from 2.3 to 4.7 degrees Celsius, a spread that has narrowed only slightly since similar comparisons a decade earlier.\n\nB. Much of this spread traces back to how each model represents clouds, a process that occurs at a smaller scale than models can directly calculate and must instead be approximated using simplified rules. Low clouds tend to cool the surface by reflecting sunlight, while high clouds tend to trap outgoing heat; small differences in how a model handles cloud formation and movement can shift its overall warming estimate considerably.\n\nC. Kowalski's team found that models predicting stronger warming tended to project fewer low clouds forming over oceans as temperatures rise, reducing the cooling effect those clouds normally provide. Satellite observations offer some support for this pattern, though the observational record is too short, in Kowalski's assessment, to confirm which group of models is closer to how clouds will actually behave over coming decades.\n\nD. Narrowing this range matters for policy, since it affects estimates of how quickly emissions must fall to avoid a given temperature target. Kowalski cautions against treating any single model's estimate as authoritative, recommending instead that policymakers plan using the full range of outcomes rather than the midpoint alone, given how much still depends on unresolved questions about cloud behaviour.",
+    "group_id": "NIR-G13",
+    "stem": "What recommendation does Kowalski give to policymakers, and how does the writer present it?",
+    "options": [
+      "As a warning that no climate model should ever be used for policy purposes",
+      "As sound advice to plan using the full range of outcomes rather than relying on a single midpoint estimate",
+      "As proof that policymakers have already ignored all climate model data",
+      "As an unnecessary suggestion, since the model range is now considered irrelevant"
+    ],
+    "answer": 1,
+    "explain_zh": "段落 D 寫 Kowalski cautions against treating any single model's estimate as authoritative, recommending instead that policymakers plan using the full range of outcomes rather than the midpoint alone，這個建議以合理、審慎的方式呈現，對應選項 B，故選 B。A 過度極端，原文沒有說模型不該被使用；C 與全文詳細討論模型數據的重要性矛盾；D 段落 D 強調這個範圍「仍取決於未解決的雲的問題」，顯示它仍然重要而非不必要。技巧：找到建議句（recommending that...）後，檢查作者用的動詞語氣是否溫和合理（cautions、recommending）還是極端（must never）。",
+    "vocab": [
+      {
+        "w": "caution against",
+        "zh": "提醒不要…",
+        "pos": "phr."
+      },
+      {
+        "w": "outcome",
+        "zh": "結果",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0066",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. For over a decade, a body of research suggested that children raised speaking two languages from an early age develop stronger executive function, the set of cognitive skills involved in switching attention, ignoring distractions, and holding information in mind. Ibanez, among others, reported in earlier work that bilingual children outperformed monolingual peers by a noticeable margin on standard switching-attention tasks.\n\nB. More recent attempts to replicate these findings have produced mixed results. A 2020 meta-analysis combining data from 68 studies found that the average bilingual advantage, once studies with very small sample sizes were excluded, shrank to a difference too small to be considered reliable, roughly a tenth of what earlier influential studies had reported.\n\nC. Ibanez, revisiting the question, has argued that socioeconomic background may explain much of the original effect. Bilingual children in many earlier studies came disproportionately from families that also differed in income, parental education, and immigration history, any of which could independently influence executive function test scores. When Ibanez's team statistically controlled for these background factors in a new sample, the apparent bilingual advantage on switching tasks fell by roughly half.\n\nD. None of this means bilingualism carries no cognitive benefits at all; vocabulary flexibility and certain aspects of social understanding still show more consistent bilingual advantages across studies. Ibanez now argues specifically against the narrower claim that bilingualism produces a large, general boost to executive function, describing that particular claim as considerably overstated relative to the evidence currently available.",
+    "group_id": "NIR-G14",
+    "stem": "What development does the passage trace regarding the 'bilingual advantage' in executive function?",
+    "options": [
+      "Early claims of a strong bilingual advantage have been substantially weakened by later, more careful research",
+      "Executive function tests have been proven scientifically invalid for all age groups",
+      "The bilingual advantage in executive function has been fully confirmed by every recent study",
+      "Bilingual children have been shown to have no cognitive advantages of any kind"
+    ],
+    "answer": 0,
+    "explain_zh": "全文從早期研究支持雙語優勢，到後續統合分析與控制背景因素後效果大幅縮小，最後 Ibanez 認為原本的說法被過度誇大，對應選項 A，故選 A。B 原文沒有質疑執行功能測驗工具本身的有效性；C 與段落 B、C 描述效果大幅縮小甚至統計上不可靠矛盾；D 段落 D 明確說「詞彙靈活度與社會理解仍有較一致的雙語優勢」，並非完全沒有優勢。技巧：主旨題遇到「早期研究 vs 後續研究修正」的文章，答案通常是描述這個「修正、縮小」的過程本身。",
+    "vocab": [
+      {
+        "w": "executive function",
+        "zh": "執行功能",
+        "pos": "n."
+      },
+      {
+        "w": "replicate",
+        "zh": "複製（實驗結果）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0067",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. For over a decade, a body of research suggested that children raised speaking two languages from an early age develop stronger executive function, the set of cognitive skills involved in switching attention, ignoring distractions, and holding information in mind. Ibanez, among others, reported in earlier work that bilingual children outperformed monolingual peers by a noticeable margin on standard switching-attention tasks.\n\nB. More recent attempts to replicate these findings have produced mixed results. A 2020 meta-analysis combining data from 68 studies found that the average bilingual advantage, once studies with very small sample sizes were excluded, shrank to a difference too small to be considered reliable, roughly a tenth of what earlier influential studies had reported.\n\nC. Ibanez, revisiting the question, has argued that socioeconomic background may explain much of the original effect. Bilingual children in many earlier studies came disproportionately from families that also differed in income, parental education, and immigration history, any of which could independently influence executive function test scores. When Ibanez's team statistically controlled for these background factors in a new sample, the apparent bilingual advantage on switching tasks fell by roughly half.\n\nD. None of this means bilingualism carries no cognitive benefits at all; vocabulary flexibility and certain aspects of social understanding still show more consistent bilingual advantages across studies. Ibanez now argues specifically against the narrower claim that bilingualism produces a large, general boost to executive function, describing that particular claim as considerably overstated relative to the evidence currently available.",
+    "group_id": "NIR-G14",
+    "stem": "How many studies did the 2020 meta-analysis mentioned in the passage combine data from?",
+    "options": [
+      "68 studies",
+      "The passage does not give a number",
+      "86 studies",
+      "10 studies"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 B 寫 A 2020 meta-analysis combining data from 68 studies，選 A。86 studies 是數字顛倒的誘答；10 studies 容易與段落 B 提到「效果只剩原本的十分之一」混淆；文章確實有給出研究篇數。技巧：統合分析（meta-analysis）文章常同時出現「研究篇數」與「效果縮減比例」兩種數字，要分清楚各自對應的意思。",
+    "vocab": [
+      {
+        "w": "meta-analysis",
+        "zh": "統合分析",
+        "pos": "n."
+      },
+      {
+        "w": "sample size",
+        "zh": "樣本數",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0068",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. For over a decade, a body of research suggested that children raised speaking two languages from an early age develop stronger executive function, the set of cognitive skills involved in switching attention, ignoring distractions, and holding information in mind. Ibanez, among others, reported in earlier work that bilingual children outperformed monolingual peers by a noticeable margin on standard switching-attention tasks.\n\nB. More recent attempts to replicate these findings have produced mixed results. A 2020 meta-analysis combining data from 68 studies found that the average bilingual advantage, once studies with very small sample sizes were excluded, shrank to a difference too small to be considered reliable, roughly a tenth of what earlier influential studies had reported.\n\nC. Ibanez, revisiting the question, has argued that socioeconomic background may explain much of the original effect. Bilingual children in many earlier studies came disproportionately from families that also differed in income, parental education, and immigration history, any of which could independently influence executive function test scores. When Ibanez's team statistically controlled for these background factors in a new sample, the apparent bilingual advantage on switching tasks fell by roughly half.\n\nD. None of this means bilingualism carries no cognitive benefits at all; vocabulary flexibility and certain aspects of social understanding still show more consistent bilingual advantages across studies. Ibanez now argues specifically against the narrower claim that bilingualism produces a large, general boost to executive function, describing that particular claim as considerably overstated relative to the evidence currently available.",
+    "group_id": "NIR-G14",
+    "stem": "In paragraph D, the word 'overstated' is closest in meaning to which of the following?",
+    "options": [
+      "measured with extremely precise scientific instruments",
+      "completely ignored by all researchers in the field",
+      "proven true beyond any reasonable doubt",
+      "described as more significant than the evidence supports"
+    ],
+    "answer": 3,
+    "explain_zh": "overstated 由 over-（過度）加 stated（陳述）組成，指「言過其實」，段落 D 說 Ibanez 認為雙語能大幅提升執行功能的說法 considerably overstated relative to the evidence，對應選項 D，故選 D。A、B、C 都偏離了「誇大陳述」這個核心意思。技巧：over- 這個字首常表示「超過合理程度」，如 overstate、overestimate、overreact，可歸納成同一組字彙記憶。",
+    "vocab": [
+      {
+        "w": "overstated",
+        "zh": "誇大的",
+        "pos": "adj."
+      },
+      {
+        "w": "disproportionately",
+        "zh": "不成比例地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0069",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. For over a decade, a body of research suggested that children raised speaking two languages from an early age develop stronger executive function, the set of cognitive skills involved in switching attention, ignoring distractions, and holding information in mind. Ibanez, among others, reported in earlier work that bilingual children outperformed monolingual peers by a noticeable margin on standard switching-attention tasks.\n\nB. More recent attempts to replicate these findings have produced mixed results. A 2020 meta-analysis combining data from 68 studies found that the average bilingual advantage, once studies with very small sample sizes were excluded, shrank to a difference too small to be considered reliable, roughly a tenth of what earlier influential studies had reported.\n\nC. Ibanez, revisiting the question, has argued that socioeconomic background may explain much of the original effect. Bilingual children in many earlier studies came disproportionately from families that also differed in income, parental education, and immigration history, any of which could independently influence executive function test scores. When Ibanez's team statistically controlled for these background factors in a new sample, the apparent bilingual advantage on switching tasks fell by roughly half.\n\nD. None of this means bilingualism carries no cognitive benefits at all; vocabulary flexibility and certain aspects of social understanding still show more consistent bilingual advantages across studies. Ibanez now argues specifically against the narrower claim that bilingualism produces a large, general boost to executive function, describing that particular claim as considerably overstated relative to the evidence currently available.",
+    "group_id": "NIR-G14",
+    "stem": "Statement: Ibanez's later research found that controlling for socioeconomic background eliminated the bilingual advantage on switching tasks completely.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 C 寫 the apparent bilingual advantage on switching tasks fell by roughly half，是「減少了一半」而不是「完全消失」，題幹的 completely 與原文的 by roughly half 矛盾，選 False。技巧：碰到題幹使用 completely、entirely 等絕對用詞時，要特別檢查原文給的是「部分減少」還是「完全消除」，兩者常是命題陷阱的核心。",
+    "vocab": [
+      {
+        "w": "eliminate",
+        "zh": "消除",
+        "pos": "v."
+      },
+      {
+        "w": "control for",
+        "zh": "（統計上）控制…變因",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0070",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. For over a decade, a body of research suggested that children raised speaking two languages from an early age develop stronger executive function, the set of cognitive skills involved in switching attention, ignoring distractions, and holding information in mind. Ibanez, among others, reported in earlier work that bilingual children outperformed monolingual peers by a noticeable margin on standard switching-attention tasks.\n\nB. More recent attempts to replicate these findings have produced mixed results. A 2020 meta-analysis combining data from 68 studies found that the average bilingual advantage, once studies with very small sample sizes were excluded, shrank to a difference too small to be considered reliable, roughly a tenth of what earlier influential studies had reported.\n\nC. Ibanez, revisiting the question, has argued that socioeconomic background may explain much of the original effect. Bilingual children in many earlier studies came disproportionately from families that also differed in income, parental education, and immigration history, any of which could independently influence executive function test scores. When Ibanez's team statistically controlled for these background factors in a new sample, the apparent bilingual advantage on switching tasks fell by roughly half.\n\nD. None of this means bilingualism carries no cognitive benefits at all; vocabulary flexibility and certain aspects of social understanding still show more consistent bilingual advantages across studies. Ibanez now argues specifically against the narrower claim that bilingualism produces a large, general boost to executive function, describing that particular claim as considerably overstated relative to the evidence currently available.",
+    "group_id": "NIR-G14",
+    "stem": "Which paragraph proposes socioeconomic background as an explanation for the originally reported bilingual advantage?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 開頭寫 Ibanez, revisiting the question, has argued that socioeconomic background may explain much of the original effect，正是提出社經背景這項解釋，答案是 Paragraph C。段落 A 介紹早期研究主張；段落 B 呈現統合分析結果；段落 D 討論雙語仍保有的其他優勢。技巧：段落配對題常可直接鎖定題幹的關鍵詞（socioeconomic background），該詞第一次完整出現的段落通常就是答案。",
+    "vocab": [
+      {
+        "w": "socioeconomic",
+        "zh": "社會經濟的",
+        "pos": "adj."
+      },
+      {
+        "w": "immigration",
+        "zh": "移民",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0071",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. When cities widen roads or add new lanes to relieve congestion, traffic volumes often rise until the new capacity is just as congested as before, a pattern transport researchers call induced demand. Duffy and colleagues tracked traffic on 25 expanded highway corridors in North America over a five-year period and found that, on average, a 10 percent increase in road capacity was followed by an 8 to 9 percent increase in traffic within four years.\n\nB. The mechanism is not mysterious: faster, less congested roads make driving relatively more attractive compared with other options, so some trips shift from other times of day, other routes, or other modes of transport onto the newly expanded road, while some trips that would not otherwise have been made at all are added. Over time, new housing and businesses may also locate near the improved corridor, generating additional trips that would not have existed otherwise.\n\nC. Duffy's data suggests the effect is not uniform. Corridors in areas with few alternative routes or limited public transport showed a smaller induced-demand effect than corridors where drivers had many alternative ways to reach the same destination, since in the latter case there was a larger pool of suppressed or displaced trips ready to shift onto the improved road once it became available.\n\nD. The finding has practical implications for transport policy: expanding road capacity alone is unlikely to deliver lasting congestion relief in cities with well-developed alternative routes, according to Duffy, who argues that pairing road expansion with investment in public transport or congestion pricing produces more durable reductions in travel time than expanding roads on their own.",
+    "group_id": "NIR-G15",
+    "stem": "According to Duffy's tracking study, a 10 percent increase in road capacity was followed by what increase in traffic within four years?",
+    "options": [
+      "An 8 to 9 percent increase",
+      "A 5 percent increase",
+      "No measurable increase at all",
+      "A 25 percent increase"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 A 寫 a 10 percent increase in road capacity was followed by an 8 to 9 percent increase in traffic within four years，選 A。25 percent 其實是段落 A 提到的「調查的公路走廊數量」，容易與百分比混淆；5 percent 是憑印象猜測的誘答；文章明確測到有交通量增加，並非沒有變化。技巧：同一段落若同時出現「研究樣本數」與「百分比結果」，作答前要看清楚各自對應哪個問題。",
+    "vocab": [
+      {
+        "w": "corridor",
+        "zh": "（交通）走廊",
+        "pos": "n."
+      },
+      {
+        "w": "induced demand",
+        "zh": "誘發性需求",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0072",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. When cities widen roads or add new lanes to relieve congestion, traffic volumes often rise until the new capacity is just as congested as before, a pattern transport researchers call induced demand. Duffy and colleagues tracked traffic on 25 expanded highway corridors in North America over a five-year period and found that, on average, a 10 percent increase in road capacity was followed by an 8 to 9 percent increase in traffic within four years.\n\nB. The mechanism is not mysterious: faster, less congested roads make driving relatively more attractive compared with other options, so some trips shift from other times of day, other routes, or other modes of transport onto the newly expanded road, while some trips that would not otherwise have been made at all are added. Over time, new housing and businesses may also locate near the improved corridor, generating additional trips that would not have existed otherwise.\n\nC. Duffy's data suggests the effect is not uniform. Corridors in areas with few alternative routes or limited public transport showed a smaller induced-demand effect than corridors where drivers had many alternative ways to reach the same destination, since in the latter case there was a larger pool of suppressed or displaced trips ready to shift onto the improved road once it became available.\n\nD. The finding has practical implications for transport policy: expanding road capacity alone is unlikely to deliver lasting congestion relief in cities with well-developed alternative routes, according to Duffy, who argues that pairing road expansion with investment in public transport or congestion pricing produces more durable reductions in travel time than expanding roads on their own.",
+    "group_id": "NIR-G15",
+    "stem": "What can be inferred about why corridors with many alternative routes showed a larger induced-demand effect?",
+    "options": [
+      "Those corridors had no alternative routes available at all.",
+      "Public transport was completely unavailable in those areas.",
+      "A larger pool of trips that had previously been suppressed or displaced could shift onto the improved road.",
+      "Drivers in those areas were legally required to use the new road."
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 解釋 there was a larger pool of suppressed or displaced trips ready to shift onto the improved road once it became available，對應選項 C，故選 C。A 與題幹描述的「有很多替代路線」矛盾；B、D 原文都沒有提到完全沒有大眾運輸或法律規定的情況。技巧：推論題常考「原文用來解釋差異的關鍵子句」，找到 since 或 because 後面的內容即可作答。",
+    "vocab": [
+      {
+        "w": "suppressed",
+        "zh": "被壓抑的",
+        "pos": "adj."
+      },
+      {
+        "w": "displaced",
+        "zh": "被取代／移轉的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0073",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. When cities widen roads or add new lanes to relieve congestion, traffic volumes often rise until the new capacity is just as congested as before, a pattern transport researchers call induced demand. Duffy and colleagues tracked traffic on 25 expanded highway corridors in North America over a five-year period and found that, on average, a 10 percent increase in road capacity was followed by an 8 to 9 percent increase in traffic within four years.\n\nB. The mechanism is not mysterious: faster, less congested roads make driving relatively more attractive compared with other options, so some trips shift from other times of day, other routes, or other modes of transport onto the newly expanded road, while some trips that would not otherwise have been made at all are added. Over time, new housing and businesses may also locate near the improved corridor, generating additional trips that would not have existed otherwise.\n\nC. Duffy's data suggests the effect is not uniform. Corridors in areas with few alternative routes or limited public transport showed a smaller induced-demand effect than corridors where drivers had many alternative ways to reach the same destination, since in the latter case there was a larger pool of suppressed or displaced trips ready to shift onto the improved road once it became available.\n\nD. The finding has practical implications for transport policy: expanding road capacity alone is unlikely to deliver lasting congestion relief in cities with well-developed alternative routes, according to Duffy, who argues that pairing road expansion with investment in public transport or congestion pricing produces more durable reductions in travel time than expanding roads on their own.",
+    "group_id": "NIR-G15",
+    "stem": "In paragraph D, the word 'durable' is closest in meaning to which of the following?",
+    "options": [
+      "impossible to measure accurately",
+      "occurring only once and briefly",
+      "extremely expensive to implement",
+      "lasting over a long period of time"
+    ],
+    "answer": 3,
+    "explain_zh": "durable 指「持久的、耐用的」，段落 D 說搭配大眾運輸投資或壅塞收費能帶來 more durable reductions in travel time，也就是「更持久的」通勤時間改善，對應選項 D，故選 D。B「僅發生一次且短暫」與 durable 意思相反；A、C 都偏離了「持久性」這個核心意思。技巧：durable 常與 effect、benefit、solution 等字搭配，表示「效果能維持長久」，是學術文章常見的評價用詞。",
+    "vocab": [
+      {
+        "w": "durable",
+        "zh": "持久的",
+        "pos": "adj."
+      },
+      {
+        "w": "congestion pricing",
+        "zh": "壅塞收費",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0074",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. When cities widen roads or add new lanes to relieve congestion, traffic volumes often rise until the new capacity is just as congested as before, a pattern transport researchers call induced demand. Duffy and colleagues tracked traffic on 25 expanded highway corridors in North America over a five-year period and found that, on average, a 10 percent increase in road capacity was followed by an 8 to 9 percent increase in traffic within four years.\n\nB. The mechanism is not mysterious: faster, less congested roads make driving relatively more attractive compared with other options, so some trips shift from other times of day, other routes, or other modes of transport onto the newly expanded road, while some trips that would not otherwise have been made at all are added. Over time, new housing and businesses may also locate near the improved corridor, generating additional trips that would not have existed otherwise.\n\nC. Duffy's data suggests the effect is not uniform. Corridors in areas with few alternative routes or limited public transport showed a smaller induced-demand effect than corridors where drivers had many alternative ways to reach the same destination, since in the latter case there was a larger pool of suppressed or displaced trips ready to shift onto the improved road once it became available.\n\nD. The finding has practical implications for transport policy: expanding road capacity alone is unlikely to deliver lasting congestion relief in cities with well-developed alternative routes, according to Duffy, who argues that pairing road expansion with investment in public transport or congestion pricing produces more durable reductions in travel time than expanding roads on their own.",
+    "group_id": "NIR-G15",
+    "stem": "Which paragraph explains the everyday mechanism by which induced demand occurs?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 1,
+    "explain_zh": "段落 B 開頭寫 The mechanism is not mysterious，接著解釋車流如何從不同時段、路線、運具轉移到新擴建的道路上，正是解釋誘發性需求的日常機制，答案是 Paragraph B。段落 A 呈現整體數據；段落 C 說明效果因地區而異；段落 D 提出政策建議。技巧：找「機制說明」類段落時，留意 mechanism、because、the reason 這類提示詞。",
+    "vocab": [
+      {
+        "w": "mechanism",
+        "zh": "機制",
+        "pos": "n."
+      },
+      {
+        "w": "alternative route",
+        "zh": "替代路線",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0075",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. When cities widen roads or add new lanes to relieve congestion, traffic volumes often rise until the new capacity is just as congested as before, a pattern transport researchers call induced demand. Duffy and colleagues tracked traffic on 25 expanded highway corridors in North America over a five-year period and found that, on average, a 10 percent increase in road capacity was followed by an 8 to 9 percent increase in traffic within four years.\n\nB. The mechanism is not mysterious: faster, less congested roads make driving relatively more attractive compared with other options, so some trips shift from other times of day, other routes, or other modes of transport onto the newly expanded road, while some trips that would not otherwise have been made at all are added. Over time, new housing and businesses may also locate near the improved corridor, generating additional trips that would not have existed otherwise.\n\nC. Duffy's data suggests the effect is not uniform. Corridors in areas with few alternative routes or limited public transport showed a smaller induced-demand effect than corridors where drivers had many alternative ways to reach the same destination, since in the latter case there was a larger pool of suppressed or displaced trips ready to shift onto the improved road once it became available.\n\nD. The finding has practical implications for transport policy: expanding road capacity alone is unlikely to deliver lasting congestion relief in cities with well-developed alternative routes, according to Duffy, who argues that pairing road expansion with investment in public transport or congestion pricing produces more durable reductions in travel time than expanding roads on their own.",
+    "group_id": "NIR-G15",
+    "stem": "What is Duffy's overall recommendation for transport policy, as presented by the writer?",
+    "options": [
+      "Pairing road expansion with public transport investment or congestion pricing produces more durable results than expanding roads alone",
+      "Cities should stop building or expanding roads under all circumstances",
+      "Congestion pricing alone is sufficient and no other measures are needed",
+      "Public transport investment has been shown to have no effect on congestion"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 寫 Duffy...argues that pairing road expansion with investment in public transport or congestion pricing produces more durable reductions in travel time than expanding roads on their own，選 A。B 過度極端，原文沒有主張完全停止擴建道路；C 忽略了「搭配」而非「單靠壅塞收費」；D 與整段強調大眾運輸投資的重要性矛盾。技巧：政策建議題答案通常出現在文章結尾，留意 pairing... with、alongside 這類「兩者並行」的句型。",
+    "vocab": [
+      {
+        "w": "implication",
+        "zh": "意涵；影響",
+        "pos": "n."
+      },
+      {
+        "w": "relief",
+        "zh": "緩解",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0076",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Between the eighth and tenth centuries, scholars working in Baghdad translated a large body of Greek philosophical and scientific texts into Arabic, a project later historians have associated with an institution known as the House of Wisdom. Haddad has argued that popular accounts exaggerate the House of Wisdom's role, crediting it with a translation movement that was in fact carried out by scholars working across many patrons and households throughout the city.\n\nB. Surviving records suggest that translation work was funded by multiple wealthy patrons, including caliphs, merchants, and physicians, who competed to attract skilled translators to their own households rather than working through a single centralised academy. Haddad's analysis of patronage records found that fewer than a quarter of documented translations from this period can be directly linked to the House of Wisdom specifically, with the remainder tied to other sponsors.\n\nC. Another point of dispute concerns Byzantine involvement. Some accounts credit Byzantine manuscript collections almost entirely for supplying the Greek originals used in Baghdad, while Haddad's research points to a more varied picture, in which texts arrived through several channels, including manuscripts already circulating within Syriac Christian communities who had preserved and partly translated Greek learning generations earlier.\n\nD. None of this diminishes the scale of the achievement: within roughly two centuries, most surviving Greek works on medicine, mathematics, and philosophy had been rendered into Arabic, feeding directly into later scientific advances across the Islamic world and, eventually, into medieval Europe. Haddad's point is narrower than a wholesale rejection of the traditional story; it is that the process was more distributed among institutions and communities than the popular focus on a single named academy suggests.",
+    "group_id": "NIR-G16",
+    "stem": "What correction does Haddad's research make to the popular story of the Baghdad translation movement?",
+    "options": [
+      "No Greek texts were ever actually translated into Arabic during this period",
+      "The House of Wisdom alone was responsible for every translation produced",
+      "Byzantine manuscripts played absolutely no role in supplying Greek texts",
+      "The movement was more distributed across multiple patrons and communities than the focus on a single academy suggests"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 總結 Haddad 的論點：the process was more distributed among institutions and communities than the popular focus on a single named academy suggests，對應選項 D，故選 D。A 與段落 D 說「兩世紀內多數希臘著作已被譯成阿拉伯文」矛盾；B 與段落 B 提到「不到四分之一的翻譯能直接連結到智慧宮」矛盾；C 段落 C 說拜占庭手稿只是「多重來源之一」，並非完全沒有作用。技巧：主旨題若文章是在「修正而非推翻」一個既有說法，答案要精準抓住修正的幅度，不能誇大成全盤否定。",
+    "vocab": [
+      {
+        "w": "patron",
+        "zh": "贊助者",
+        "pos": "n."
+      },
+      {
+        "w": "institution",
+        "zh": "機構",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0077",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Between the eighth and tenth centuries, scholars working in Baghdad translated a large body of Greek philosophical and scientific texts into Arabic, a project later historians have associated with an institution known as the House of Wisdom. Haddad has argued that popular accounts exaggerate the House of Wisdom's role, crediting it with a translation movement that was in fact carried out by scholars working across many patrons and households throughout the city.\n\nB. Surviving records suggest that translation work was funded by multiple wealthy patrons, including caliphs, merchants, and physicians, who competed to attract skilled translators to their own households rather than working through a single centralised academy. Haddad's analysis of patronage records found that fewer than a quarter of documented translations from this period can be directly linked to the House of Wisdom specifically, with the remainder tied to other sponsors.\n\nC. Another point of dispute concerns Byzantine involvement. Some accounts credit Byzantine manuscript collections almost entirely for supplying the Greek originals used in Baghdad, while Haddad's research points to a more varied picture, in which texts arrived through several channels, including manuscripts already circulating within Syriac Christian communities who had preserved and partly translated Greek learning generations earlier.\n\nD. None of this diminishes the scale of the achievement: within roughly two centuries, most surviving Greek works on medicine, mathematics, and philosophy had been rendered into Arabic, feeding directly into later scientific advances across the Islamic world and, eventually, into medieval Europe. Haddad's point is narrower than a wholesale rejection of the traditional story; it is that the process was more distributed among institutions and communities than the popular focus on a single named academy suggests.",
+    "group_id": "NIR-G16",
+    "stem": "According to Haddad's analysis, what proportion of documented translations can be directly linked to the House of Wisdom specifically?",
+    "options": [
+      "Fewer than a quarter",
+      "More than three-quarters",
+      "Exactly half",
+      "The passage does not specify a proportion"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 B 寫 fewer than a quarter of documented translations from this period can be directly linked to the House of Wisdom specifically，選 A。More than three-quarters 與原文方向相反；Exactly half 是憑印象猜測的誘答；文章確實有給出具體比例。技巧：碰到 fewer than／more than 這類表示「上限、下限」的用語，要注意方向不能顛倒。",
+    "vocab": [
+      {
+        "w": "caliph",
+        "zh": "哈里發（伊斯蘭統治者稱號）",
+        "pos": "n."
+      },
+      {
+        "w": "sponsor",
+        "zh": "贊助者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0078",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Between the eighth and tenth centuries, scholars working in Baghdad translated a large body of Greek philosophical and scientific texts into Arabic, a project later historians have associated with an institution known as the House of Wisdom. Haddad has argued that popular accounts exaggerate the House of Wisdom's role, crediting it with a translation movement that was in fact carried out by scholars working across many patrons and households throughout the city.\n\nB. Surviving records suggest that translation work was funded by multiple wealthy patrons, including caliphs, merchants, and physicians, who competed to attract skilled translators to their own households rather than working through a single centralised academy. Haddad's analysis of patronage records found that fewer than a quarter of documented translations from this period can be directly linked to the House of Wisdom specifically, with the remainder tied to other sponsors.\n\nC. Another point of dispute concerns Byzantine involvement. Some accounts credit Byzantine manuscript collections almost entirely for supplying the Greek originals used in Baghdad, while Haddad's research points to a more varied picture, in which texts arrived through several channels, including manuscripts already circulating within Syriac Christian communities who had preserved and partly translated Greek learning generations earlier.\n\nD. None of this diminishes the scale of the achievement: within roughly two centuries, most surviving Greek works on medicine, mathematics, and philosophy had been rendered into Arabic, feeding directly into later scientific advances across the Islamic world and, eventually, into medieval Europe. Haddad's point is narrower than a wholesale rejection of the traditional story; it is that the process was more distributed among institutions and communities than the popular focus on a single named academy suggests.",
+    "group_id": "NIR-G16",
+    "stem": "What can be inferred about the role of Syriac Christian communities in the translation movement?",
+    "options": [
+      "They were the only community ever involved in translating Greek texts.",
+      "They had no contact with Greek learning at any point in history.",
+      "They actively opposed the translation of Greek philosophy into Arabic.",
+      "They may have preserved and partly translated Greek texts before the Baghdad movement began."
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 提到 manuscripts already circulating within Syriac Christian communities who had preserved and partly translated Greek learning generations earlier，可推知這些社群在巴格達翻譯運動之前，已經扮演保存與部分翻譯希臘學術的角色，對應選項 D，故選 D。B 與原文描述的角色直接矛盾；A 段落 C 說文本經由「多個管道」而來，敘利亞基督徒只是其中之一；C 原文沒有提到他們反對翻譯，反而是參與保存與翻譯的一方。技巧：推論題常要求把「時間先後」的線索（generations earlier）轉換成「角色定位」的答案。",
+    "vocab": [
+      {
+        "w": "circulate",
+        "zh": "流通",
+        "pos": "v."
+      },
+      {
+        "w": "render into",
+        "zh": "譯成（某語言）",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0079",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Between the eighth and tenth centuries, scholars working in Baghdad translated a large body of Greek philosophical and scientific texts into Arabic, a project later historians have associated with an institution known as the House of Wisdom. Haddad has argued that popular accounts exaggerate the House of Wisdom's role, crediting it with a translation movement that was in fact carried out by scholars working across many patrons and households throughout the city.\n\nB. Surviving records suggest that translation work was funded by multiple wealthy patrons, including caliphs, merchants, and physicians, who competed to attract skilled translators to their own households rather than working through a single centralised academy. Haddad's analysis of patronage records found that fewer than a quarter of documented translations from this period can be directly linked to the House of Wisdom specifically, with the remainder tied to other sponsors.\n\nC. Another point of dispute concerns Byzantine involvement. Some accounts credit Byzantine manuscript collections almost entirely for supplying the Greek originals used in Baghdad, while Haddad's research points to a more varied picture, in which texts arrived through several channels, including manuscripts already circulating within Syriac Christian communities who had preserved and partly translated Greek learning generations earlier.\n\nD. None of this diminishes the scale of the achievement: within roughly two centuries, most surviving Greek works on medicine, mathematics, and philosophy had been rendered into Arabic, feeding directly into later scientific advances across the Islamic world and, eventually, into medieval Europe. Haddad's point is narrower than a wholesale rejection of the traditional story; it is that the process was more distributed among institutions and communities than the popular focus on a single named academy suggests.",
+    "group_id": "NIR-G16",
+    "stem": "Statement: Haddad's research completely rejects the idea that any significant Greek-to-Arabic translation occurred in Baghdad during this period.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 D 明確寫 Haddad's point is narrower than a wholesale rejection of the traditional story，她並不是全盤否定巴格達翻譯運動的存在或規模，只是修正「單一機構主導」的說法，題幹的「完全否定」與原文直接矛盾，選 False。技巧：碰到題幹使用 completely rejects 這類極端說法時，要特別檢查原文是否明確用 narrower than a wholesale rejection 這類語句自我限定範圍。",
+    "vocab": [
+      {
+        "w": "wholesale",
+        "zh": "全面的；徹底的",
+        "pos": "adj."
+      },
+      {
+        "w": "distributed",
+        "zh": "分散的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0080",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Between the eighth and tenth centuries, scholars working in Baghdad translated a large body of Greek philosophical and scientific texts into Arabic, a project later historians have associated with an institution known as the House of Wisdom. Haddad has argued that popular accounts exaggerate the House of Wisdom's role, crediting it with a translation movement that was in fact carried out by scholars working across many patrons and households throughout the city.\n\nB. Surviving records suggest that translation work was funded by multiple wealthy patrons, including caliphs, merchants, and physicians, who competed to attract skilled translators to their own households rather than working through a single centralised academy. Haddad's analysis of patronage records found that fewer than a quarter of documented translations from this period can be directly linked to the House of Wisdom specifically, with the remainder tied to other sponsors.\n\nC. Another point of dispute concerns Byzantine involvement. Some accounts credit Byzantine manuscript collections almost entirely for supplying the Greek originals used in Baghdad, while Haddad's research points to a more varied picture, in which texts arrived through several channels, including manuscripts already circulating within Syriac Christian communities who had preserved and partly translated Greek learning generations earlier.\n\nD. None of this diminishes the scale of the achievement: within roughly two centuries, most surviving Greek works on medicine, mathematics, and philosophy had been rendered into Arabic, feeding directly into later scientific advances across the Islamic world and, eventually, into medieval Europe. Haddad's point is narrower than a wholesale rejection of the traditional story; it is that the process was more distributed among institutions and communities than the popular focus on a single named academy suggests.",
+    "group_id": "NIR-G16",
+    "stem": "Which paragraph addresses the debate over how much credit Byzantine manuscripts deserve for supplying Greek originals?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 開頭寫 Another point of dispute concerns Byzantine involvement，接著討論拜占庭手稿的角色，答案是 Paragraph C。段落 A 介紹智慧宮的傳統說法與 Haddad 的質疑；段落 B 談贊助者的分散情況；段落 D 總結整體意義與 Haddad 論點的範圍。技巧：段落配對題可先鎖定題幹關鍵詞（Byzantine），再找該詞第一次完整展開討論的段落。",
+    "vocab": [
+      {
+        "w": "dispute",
+        "zh": "爭議",
+        "pos": "n."
+      },
+      {
+        "w": "manuscript",
+        "zh": "手稿",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0081",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. A widely reported 1993 study found that university students who listened to ten minutes of a Mozart piano sonata performed slightly better on a subsequent spatial reasoning task than students who sat in silence, a result the media quickly popularised as the 'Mozart effect,' implying that classical music makes listeners generally more intelligent. Pelletier has spent much of the past decade examining how well this claim holds up.\n\nB. Pelletier's review of subsequent replication attempts found that the original spatial reasoning boost, when it appeared at all, was small, temporary, lasting no more than 10 to 15 minutes, and specific to certain spatial tasks rather than a general rise in intelligence. Several attempted replications using larger samples than the original study failed to detect any measurable effect once researchers controlled for participants' mood and arousal before the task.\n\nC. This last point turned out to be important. Pelletier's own experiments found that the apparent musical benefit largely disappeared when a comparably enjoyable non-musical activity, such as listening to an engaging short story, was used as the comparison instead of silence. This suggests that any short-term boost may come from being in a more alert, positive mood generally, rather than from any property specific to Mozart's music or to music at all.\n\nD. Pelletier does not conclude that music has no cognitive value; long-term music training in childhood has been linked to modest, more durable benefits in some studies, a separate question from the short-term 'Mozart effect.' Her concern is narrower: that a small, temporary, mood-related effect from one 1993 experiment became, through media simplification, a popular belief that merely playing classical music to infants would reliably raise their intelligence, a claim her research does not support.",
+    "group_id": "NIR-G17",
+    "stem": "What does Pelletier's research conclude about the popular 'Mozart effect'?",
+    "options": [
+      "Music has absolutely no cognitive benefits of any kind, at any age",
+      "The original effect was small, temporary, and likely due to mood rather than music specifically, contrary to the popularised claim",
+      "Listening to Mozart has been proven to permanently raise general intelligence",
+      "The 1993 study has never been replicated by any other researcher"
+    ],
+    "answer": 1,
+    "explain_zh": "全文說明原始效果小、短暫，且可能只是因為心情變好而非莫札特音樂本身，並澄清這與長期音樂訓練的效果是不同的問題，對應選項 B，故選 B。A 段落 D 提到「童年長期音樂訓練與較持久的溫和效益有關」，並非完全沒有益處；C 與段落 D 明確反駁「播放古典樂能提升嬰兒智力」的說法矛盾；D 段落 B 提到多次複製實驗的嘗試，並非從未被複製。技巧：主旨題要區分文章反駁的是「哪一個具體說法」，不要把反駁範圍擴大成全盤否定。",
+    "vocab": [
+      {
+        "w": "spatial reasoning",
+        "zh": "空間推理",
+        "pos": "n."
+      },
+      {
+        "w": "replication",
+        "zh": "複製（實驗）",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0082",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. A widely reported 1993 study found that university students who listened to ten minutes of a Mozart piano sonata performed slightly better on a subsequent spatial reasoning task than students who sat in silence, a result the media quickly popularised as the 'Mozart effect,' implying that classical music makes listeners generally more intelligent. Pelletier has spent much of the past decade examining how well this claim holds up.\n\nB. Pelletier's review of subsequent replication attempts found that the original spatial reasoning boost, when it appeared at all, was small, temporary, lasting no more than 10 to 15 minutes, and specific to certain spatial tasks rather than a general rise in intelligence. Several attempted replications using larger samples than the original study failed to detect any measurable effect once researchers controlled for participants' mood and arousal before the task.\n\nC. This last point turned out to be important. Pelletier's own experiments found that the apparent musical benefit largely disappeared when a comparably enjoyable non-musical activity, such as listening to an engaging short story, was used as the comparison instead of silence. This suggests that any short-term boost may come from being in a more alert, positive mood generally, rather than from any property specific to Mozart's music or to music at all.\n\nD. Pelletier does not conclude that music has no cognitive value; long-term music training in childhood has been linked to modest, more durable benefits in some studies, a separate question from the short-term 'Mozart effect.' Her concern is narrower: that a small, temporary, mood-related effect from one 1993 experiment became, through media simplification, a popular belief that merely playing classical music to infants would reliably raise their intelligence, a claim her research does not support.",
+    "group_id": "NIR-G17",
+    "stem": "What can be inferred from the finding that the musical benefit largely disappeared when an engaging short story replaced silence as the comparison?",
+    "options": [
+      "Pelletier's experiments found no comparison condition worked at all.",
+      "Silence has a uniquely negative effect on spatial reasoning performance.",
+      "A general boost in mood or alertness, not something specific to music, may explain the original result.",
+      "Short stories are proven to be more effective than music at improving spatial reasoning."
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 說明這個結果 suggests that any short-term boost may come from being in a more alert, positive mood generally, rather than from any property specific to Mozart's music，對應選項 C，故選 C。A 原文只是拿故事當作比較條件，並未說沒有任何條件有效；B 原文沒有說沉默本身有獨特的負面效果；D 與段落 C 描述「用故事作比較時效果消失」矛盾，代表故事這個比較條件確實有作用，而非「比音樂更有效」。技巧：推論題常考「當某個變因被替換後，原本的效果消失了，代表什麼」，答案通常指向「原效果其實來自那個被替換的共同因素」。",
+    "vocab": [
+      {
+        "w": "alertness",
+        "zh": "警覺度",
+        "pos": "n."
+      },
+      {
+        "w": "comparable",
+        "zh": "可相比的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0083",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. A widely reported 1993 study found that university students who listened to ten minutes of a Mozart piano sonata performed slightly better on a subsequent spatial reasoning task than students who sat in silence, a result the media quickly popularised as the 'Mozart effect,' implying that classical music makes listeners generally more intelligent. Pelletier has spent much of the past decade examining how well this claim holds up.\n\nB. Pelletier's review of subsequent replication attempts found that the original spatial reasoning boost, when it appeared at all, was small, temporary, lasting no more than 10 to 15 minutes, and specific to certain spatial tasks rather than a general rise in intelligence. Several attempted replications using larger samples than the original study failed to detect any measurable effect once researchers controlled for participants' mood and arousal before the task.\n\nC. This last point turned out to be important. Pelletier's own experiments found that the apparent musical benefit largely disappeared when a comparably enjoyable non-musical activity, such as listening to an engaging short story, was used as the comparison instead of silence. This suggests that any short-term boost may come from being in a more alert, positive mood generally, rather than from any property specific to Mozart's music or to music at all.\n\nD. Pelletier does not conclude that music has no cognitive value; long-term music training in childhood has been linked to modest, more durable benefits in some studies, a separate question from the short-term 'Mozart effect.' Her concern is narrower: that a small, temporary, mood-related effect from one 1993 experiment became, through media simplification, a popular belief that merely playing classical music to infants would reliably raise their intelligence, a claim her research does not support.",
+    "group_id": "NIR-G17",
+    "stem": "Which of the following is closest in meaning to the word 'durable' as used in paragraph D?",
+    "options": [
+      "lasting for a relatively long time",
+      "limited to a single laboratory experiment",
+      "occurring only during infancy",
+      "impossible to measure scientifically"
+    ],
+    "answer": 0,
+    "explain_zh": "durable 指「持久的」，段落 D 說長期音樂訓練與 more durable benefits 有關，對比前面提到 Mozart effect 只維持 10 到 15 分鐘，對應選項 A：維持較長時間，故選 A。C「僅限於嬰兒期」與 durable（持續長時間）方向不同；B、D 都偏離了「持久性」這個核心意思。技巧：這篇文章中 durable 與前段的 temporary（短暫的）形成對比，掌握這組反義詞有助於快速定位答案。",
+    "vocab": [
+      {
+        "w": "durable",
+        "zh": "持久的",
+        "pos": "adj."
+      },
+      {
+        "w": "modest",
+        "zh": "溫和的；不算太大的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0084",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. A widely reported 1993 study found that university students who listened to ten minutes of a Mozart piano sonata performed slightly better on a subsequent spatial reasoning task than students who sat in silence, a result the media quickly popularised as the 'Mozart effect,' implying that classical music makes listeners generally more intelligent. Pelletier has spent much of the past decade examining how well this claim holds up.\n\nB. Pelletier's review of subsequent replication attempts found that the original spatial reasoning boost, when it appeared at all, was small, temporary, lasting no more than 10 to 15 minutes, and specific to certain spatial tasks rather than a general rise in intelligence. Several attempted replications using larger samples than the original study failed to detect any measurable effect once researchers controlled for participants' mood and arousal before the task.\n\nC. This last point turned out to be important. Pelletier's own experiments found that the apparent musical benefit largely disappeared when a comparably enjoyable non-musical activity, such as listening to an engaging short story, was used as the comparison instead of silence. This suggests that any short-term boost may come from being in a more alert, positive mood generally, rather than from any property specific to Mozart's music or to music at all.\n\nD. Pelletier does not conclude that music has no cognitive value; long-term music training in childhood has been linked to modest, more durable benefits in some studies, a separate question from the short-term 'Mozart effect.' Her concern is narrower: that a small, temporary, mood-related effect from one 1993 experiment became, through media simplification, a popular belief that merely playing classical music to infants would reliably raise their intelligence, a claim her research does not support.",
+    "group_id": "NIR-G17",
+    "stem": "Statement: Pelletier's review found that the original spatial reasoning boost, when it appeared, lasted for several hours.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 B 明確寫 lasting no more than 10 to 15 minutes，與題幹的「持續數小時」直接矛盾，選 False。技巧：時間長度類的細節題要特別留意原文給的單位（分鐘 vs 小時），單位不同即使數字接近也是明確的錯誤。",
+    "vocab": [
+      {
+        "w": "arousal",
+        "zh": "（生理／心理）激發狀態",
+        "pos": "n."
+      },
+      {
+        "w": "boost",
+        "zh": "提升；助力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0085",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. A widely reported 1993 study found that university students who listened to ten minutes of a Mozart piano sonata performed slightly better on a subsequent spatial reasoning task than students who sat in silence, a result the media quickly popularised as the 'Mozart effect,' implying that classical music makes listeners generally more intelligent. Pelletier has spent much of the past decade examining how well this claim holds up.\n\nB. Pelletier's review of subsequent replication attempts found that the original spatial reasoning boost, when it appeared at all, was small, temporary, lasting no more than 10 to 15 minutes, and specific to certain spatial tasks rather than a general rise in intelligence. Several attempted replications using larger samples than the original study failed to detect any measurable effect once researchers controlled for participants' mood and arousal before the task.\n\nC. This last point turned out to be important. Pelletier's own experiments found that the apparent musical benefit largely disappeared when a comparably enjoyable non-musical activity, such as listening to an engaging short story, was used as the comparison instead of silence. This suggests that any short-term boost may come from being in a more alert, positive mood generally, rather than from any property specific to Mozart's music or to music at all.\n\nD. Pelletier does not conclude that music has no cognitive value; long-term music training in childhood has been linked to modest, more durable benefits in some studies, a separate question from the short-term 'Mozart effect.' Her concern is narrower: that a small, temporary, mood-related effect from one 1993 experiment became, through media simplification, a popular belief that merely playing classical music to infants would reliably raise their intelligence, a claim her research does not support.",
+    "group_id": "NIR-G17",
+    "stem": "What is Pelletier's attitude towards the popular belief that playing Mozart to infants reliably raises their intelligence?",
+    "options": [
+      "She has never studied this particular claim at all",
+      "She fully endorses the claim as scientifically well established",
+      "She believes the claim applies only to adults, not infants",
+      "She does not support this specific claim, though she does not dismiss all cognitive benefits of music"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 明確寫 a claim her research does not support，同時她也承認長期音樂訓練有溫和效益，顯示她的態度是「不支持這個特定誇大說法，但不否定音樂所有價值」，對應選項 D，故選 D。B 與她的研究結論直接矛盾；C 原文沒有做這種年齡上的區分；A 整篇文章都在描述她針對這個說法的研究過程。技巧：作者觀點題要注意「反對的是哪一個具體版本的說法」，Pelletier 反對的是「播放音樂→提升智力」這個簡化說法，而非否定音樂教育的一切價值。",
+    "vocab": [
+      {
+        "w": "dismiss",
+        "zh": "摒棄；不予理會",
+        "pos": "v."
+      },
+      {
+        "w": "endorse",
+        "zh": "背書；支持",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0086",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Prescribed burning, in which land managers deliberately set and control small fires to remove accumulated dry vegetation, has been promoted as a way to reduce the severity of later wildfires. Whitfield and colleagues compared wildfire behaviour across 120 forest sites in the western United States, some of which had received prescribed burns within the previous decade and some of which had not.\n\nB. Sites that had been treated with prescribed burning experienced wildfires that burned, on average, at roughly half the intensity of fires on untreated sites, measured by the height of scorching on tree trunks and the proportion of tree canopy destroyed. The effect was strongest when the prescribed burn had occurred within the previous five years and weaker, though still measurable, for burns conducted six to ten years earlier as vegetation regrew.\n\nC. Whitfield's data also revealed limits to the approach. In years with extreme drought and unusually high winds, the difference between treated and untreated sites narrowed considerably, suggesting that prescribed burning reduces fire severity under typical conditions but provides less protection during the most extreme weather events, which are themselves becoming more frequent. A small number of prescribed burns also escaped their intended boundaries, a risk land managers must weigh against the benefits.\n\nD. Whitfield argues that prescribed burning should be understood as one part of a broader strategy rather than a guaranteed solution on its own, since even treated sites still burned, only less intensely, and since the protective effect fades within about a decade without repeated treatment. She recommends combining prescribed burning with reduced logging of fire-resistant older trees and stricter limits on construction in the highest-risk areas.",
+    "group_id": "NIR-G18",
+    "stem": "What does Whitfield's research indicate about the effectiveness of prescribed burning?",
+    "options": [
+      "It has no measurable effect on wildfire intensity at all",
+      "It completely eliminates the risk of wildfire wherever it is used",
+      "It only works in years with extreme drought and high winds",
+      "It measurably reduces wildfire intensity under typical conditions but has limits and fades over time"
+    ],
+    "answer": 3,
+    "explain_zh": "全文說明計畫性燒除能降低野火強度（約減半），但在極端氣候下效果減弱，且保護力約十年後消退，整體是「有效但非萬靈丹」，對應選項 D，故選 D。A 與段落 B 的數據（強度減半）矛盾；B 與段落 C、D 描述「差異縮小」「仍會燃燒，只是強度較低」矛盾；C 段落 C 說極端天氣下「差異反而縮小」，並非「只在極端天氣下有效」，方向恰好相反。技巧：主旨題要能同時涵蓋「效果」與「限制」，不能只取其中一面。",
+    "vocab": [
+      {
+        "w": "prescribed burning",
+        "zh": "計畫性燒除",
+        "pos": "n."
+      },
+      {
+        "w": "vegetation",
+        "zh": "植被",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0087",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Prescribed burning, in which land managers deliberately set and control small fires to remove accumulated dry vegetation, has been promoted as a way to reduce the severity of later wildfires. Whitfield and colleagues compared wildfire behaviour across 120 forest sites in the western United States, some of which had received prescribed burns within the previous decade and some of which had not.\n\nB. Sites that had been treated with prescribed burning experienced wildfires that burned, on average, at roughly half the intensity of fires on untreated sites, measured by the height of scorching on tree trunks and the proportion of tree canopy destroyed. The effect was strongest when the prescribed burn had occurred within the previous five years and weaker, though still measurable, for burns conducted six to ten years earlier as vegetation regrew.\n\nC. Whitfield's data also revealed limits to the approach. In years with extreme drought and unusually high winds, the difference between treated and untreated sites narrowed considerably, suggesting that prescribed burning reduces fire severity under typical conditions but provides less protection during the most extreme weather events, which are themselves becoming more frequent. A small number of prescribed burns also escaped their intended boundaries, a risk land managers must weigh against the benefits.\n\nD. Whitfield argues that prescribed burning should be understood as one part of a broader strategy rather than a guaranteed solution on its own, since even treated sites still burned, only less intensely, and since the protective effect fades within about a decade without repeated treatment. She recommends combining prescribed burning with reduced logging of fire-resistant older trees and stricter limits on construction in the highest-risk areas.",
+    "group_id": "NIR-G18",
+    "stem": "According to the passage, treated sites experienced wildfires burning at roughly what proportion of the intensity of untreated sites, on average?",
+    "options": [
+      "Roughly a tenth of the intensity",
+      "Roughly double the intensity",
+      "Roughly half the intensity",
+      "The passage does not compare intensity levels"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 B 寫 wildfires that burned, on average, at roughly half the intensity of fires on untreated sites，對應選項 C，故選 C。A「十分之一」誇大了原文的減少幅度；B「加倍」與原文方向完全相反；D 文章確實有明確比較兩者強度。技巧：碰到「倍數、分數」類的細節題，要特別注意是「增加」還是「減少」，方向錯了即使數字對也算答錯。",
+    "vocab": [
+      {
+        "w": "intensity",
+        "zh": "強度",
+        "pos": "n."
+      },
+      {
+        "w": "canopy",
+        "zh": "（森林）樹冠層",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0088",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Prescribed burning, in which land managers deliberately set and control small fires to remove accumulated dry vegetation, has been promoted as a way to reduce the severity of later wildfires. Whitfield and colleagues compared wildfire behaviour across 120 forest sites in the western United States, some of which had received prescribed burns within the previous decade and some of which had not.\n\nB. Sites that had been treated with prescribed burning experienced wildfires that burned, on average, at roughly half the intensity of fires on untreated sites, measured by the height of scorching on tree trunks and the proportion of tree canopy destroyed. The effect was strongest when the prescribed burn had occurred within the previous five years and weaker, though still measurable, for burns conducted six to ten years earlier as vegetation regrew.\n\nC. Whitfield's data also revealed limits to the approach. In years with extreme drought and unusually high winds, the difference between treated and untreated sites narrowed considerably, suggesting that prescribed burning reduces fire severity under typical conditions but provides less protection during the most extreme weather events, which are themselves becoming more frequent. A small number of prescribed burns also escaped their intended boundaries, a risk land managers must weigh against the benefits.\n\nD. Whitfield argues that prescribed burning should be understood as one part of a broader strategy rather than a guaranteed solution on its own, since even treated sites still burned, only less intensely, and since the protective effect fades within about a decade without repeated treatment. She recommends combining prescribed burning with reduced logging of fire-resistant older trees and stricter limits on construction in the highest-risk areas.",
+    "group_id": "NIR-G18",
+    "stem": "In paragraph D, the phrase 'guaranteed solution' most nearly means which of the following?",
+    "options": [
+      "a method certain to fully solve the problem on its own",
+      "a method that has never been tested in practice",
+      "a method that only works in laboratory conditions",
+      "a method that land managers have already abandoned"
+    ],
+    "answer": 0,
+    "explain_zh": "guaranteed solution 指「保證有效、能完全解決問題的方法」，段落 D 說 prescribed burning should be understood as one part of a broader strategy rather than a guaranteed solution on its own，也就是否定它是萬靈丹，最接近 A。B、C、D 都偏離了「保證解決問題」這個核心意思，且與段落 A、B 描述已在 120 個實地場址測試的事實矛盾。技巧：guarantee 在學術文章中常與 alone、on its own 搭配出現，表示作者要強調「單靠這個方法還不夠」。",
+    "vocab": [
+      {
+        "w": "guarantee",
+        "zh": "保證",
+        "pos": "v./n."
+      },
+      {
+        "w": "fade",
+        "zh": "（效果）逐漸消退",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0089",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Prescribed burning, in which land managers deliberately set and control small fires to remove accumulated dry vegetation, has been promoted as a way to reduce the severity of later wildfires. Whitfield and colleagues compared wildfire behaviour across 120 forest sites in the western United States, some of which had received prescribed burns within the previous decade and some of which had not.\n\nB. Sites that had been treated with prescribed burning experienced wildfires that burned, on average, at roughly half the intensity of fires on untreated sites, measured by the height of scorching on tree trunks and the proportion of tree canopy destroyed. The effect was strongest when the prescribed burn had occurred within the previous five years and weaker, though still measurable, for burns conducted six to ten years earlier as vegetation regrew.\n\nC. Whitfield's data also revealed limits to the approach. In years with extreme drought and unusually high winds, the difference between treated and untreated sites narrowed considerably, suggesting that prescribed burning reduces fire severity under typical conditions but provides less protection during the most extreme weather events, which are themselves becoming more frequent. A small number of prescribed burns also escaped their intended boundaries, a risk land managers must weigh against the benefits.\n\nD. Whitfield argues that prescribed burning should be understood as one part of a broader strategy rather than a guaranteed solution on its own, since even treated sites still burned, only less intensely, and since the protective effect fades within about a decade without repeated treatment. She recommends combining prescribed burning with reduced logging of fire-resistant older trees and stricter limits on construction in the highest-risk areas.",
+    "group_id": "NIR-G18",
+    "stem": "Statement: According to Whitfield's data, prescribed burning provided the same level of protection regardless of drought or wind conditions.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 C 明確寫 the difference between treated and untreated sites narrowed considerably 在極端乾旱與強風年份，代表保護效果在這些條件下「並不相同」，與題幹「不論乾旱或強風條件都提供相同程度保護」直接矛盾，選 False。技巧：題幹的 regardless of（不論…）是常見陷阱字，只要原文明確指出某個條件下效果會改變，就可以判定為 False。",
+    "vocab": [
+      {
+        "w": "drought",
+        "zh": "乾旱",
+        "pos": "n."
+      },
+      {
+        "w": "narrow",
+        "zh": "縮小",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0090",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Prescribed burning, in which land managers deliberately set and control small fires to remove accumulated dry vegetation, has been promoted as a way to reduce the severity of later wildfires. Whitfield and colleagues compared wildfire behaviour across 120 forest sites in the western United States, some of which had received prescribed burns within the previous decade and some of which had not.\n\nB. Sites that had been treated with prescribed burning experienced wildfires that burned, on average, at roughly half the intensity of fires on untreated sites, measured by the height of scorching on tree trunks and the proportion of tree canopy destroyed. The effect was strongest when the prescribed burn had occurred within the previous five years and weaker, though still measurable, for burns conducted six to ten years earlier as vegetation regrew.\n\nC. Whitfield's data also revealed limits to the approach. In years with extreme drought and unusually high winds, the difference between treated and untreated sites narrowed considerably, suggesting that prescribed burning reduces fire severity under typical conditions but provides less protection during the most extreme weather events, which are themselves becoming more frequent. A small number of prescribed burns also escaped their intended boundaries, a risk land managers must weigh against the benefits.\n\nD. Whitfield argues that prescribed burning should be understood as one part of a broader strategy rather than a guaranteed solution on its own, since even treated sites still burned, only less intensely, and since the protective effect fades within about a decade without repeated treatment. She recommends combining prescribed burning with reduced logging of fire-resistant older trees and stricter limits on construction in the highest-risk areas.",
+    "group_id": "NIR-G18",
+    "stem": "Which paragraph discusses the limits of prescribed burning under extreme weather conditions?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 描述 In years with extreme drought and unusually high winds, the difference between treated and untreated sites narrowed considerably，正是討論極端天氣下的限制，答案是 Paragraph C。段落 A 介紹研究方法；段落 B 呈現整體強度降低的數據；段落 D 提出綜合策略的建議。技巧：段落配對題找「限制、例外」類內容時，留意 however、limits、narrowed 這類轉折或程度變化的用詞。",
+    "vocab": [
+      {
+        "w": "boundary",
+        "zh": "邊界",
+        "pos": "n."
+      },
+      {
+        "w": "fire-resistant",
+        "zh": "抗火的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0091",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Social robots designed to keep elderly residents company in care facilities have moved from research prototypes to small-scale commercial deployment over the past decade. Voss and colleagues followed 200 residents across 14 facilities that introduced such robots, comparing self-reported loneliness scores before and after a six-month trial period.\n\nB. Residents who interacted with the robot for at least 20 minutes daily showed a modest but statistically significant reduction in loneliness scores compared with a control group that received standard care without a robot. However, roughly 30 percent of residents in the robot group interacted with the device far less than the recommended amount, and this subgroup showed no measurable improvement at all.\n\nC. Voss's team also examined staff attitudes, finding a divide: some caregivers reported that the robots freed up time for tasks requiring human judgement, while others worried that facilities might use robots to justify reducing human staffing levels rather than supplementing them. Voss has stated explicitly that her data cannot settle this staffing question, since the trial facilities maintained their existing staff levels throughout the study period.\n\nD. Voss cautions against two opposite misreadings of her results: treating social robots as a proven substitute for human contact, which her data does not support given how much the effect depended on frequent voluntary engagement, and dismissing them as ineffective, given the measurable benefit among residents who did engage regularly. She argues the technology shows real but conditional promise, dependent on residents' willingness to interact with it consistently.",
+    "group_id": "NIR-G19",
+    "stem": "What does Voss's study conclude about social robots for elderly care?",
+    "options": [
+      "They have been proven to completely eliminate loneliness among all elderly residents",
+      "They have no measurable benefit whatsoever for any resident",
+      "They show a real but conditional benefit that depends heavily on how consistently residents engage with them",
+      "They have already replaced human caregiving staff in the trial facilities"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 D 總結 Voss 的立場：the technology shows real but conditional promise, dependent on residents' willingness to interact with it consistently，對應選項 C，故選 C。A 與段落 B 提到「約三成互動不足者沒有改善」矛盾，並非對所有人都有效；B 與段落 B 顯示部分居民確實有顯著改善矛盾；D 段落 C 明確說試驗機構「整個研究期間維持原有人力配置」，並未真的取代人力。技巧：主旨題若文章結尾明確用「有條件的效果」這種措辭，答案務必包含這個「條件」，不能簡化成全有或全無。",
+    "vocab": [
+      {
+        "w": "deployment",
+        "zh": "部署；投入使用",
+        "pos": "n."
+      },
+      {
+        "w": "loneliness",
+        "zh": "孤獨感",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0092",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Social robots designed to keep elderly residents company in care facilities have moved from research prototypes to small-scale commercial deployment over the past decade. Voss and colleagues followed 200 residents across 14 facilities that introduced such robots, comparing self-reported loneliness scores before and after a six-month trial period.\n\nB. Residents who interacted with the robot for at least 20 minutes daily showed a modest but statistically significant reduction in loneliness scores compared with a control group that received standard care without a robot. However, roughly 30 percent of residents in the robot group interacted with the device far less than the recommended amount, and this subgroup showed no measurable improvement at all.\n\nC. Voss's team also examined staff attitudes, finding a divide: some caregivers reported that the robots freed up time for tasks requiring human judgement, while others worried that facilities might use robots to justify reducing human staffing levels rather than supplementing them. Voss has stated explicitly that her data cannot settle this staffing question, since the trial facilities maintained their existing staff levels throughout the study period.\n\nD. Voss cautions against two opposite misreadings of her results: treating social robots as a proven substitute for human contact, which her data does not support given how much the effect depended on frequent voluntary engagement, and dismissing them as ineffective, given the measurable benefit among residents who did engage regularly. She argues the technology shows real but conditional promise, dependent on residents' willingness to interact with it consistently.",
+    "group_id": "NIR-G19",
+    "stem": "According to the passage, roughly what proportion of residents in the robot group interacted with the device far less than the recommended amount?",
+    "options": [
+      "Roughly 30 percent",
+      "All of the residents in the robot group",
+      "Roughly 20 percent",
+      "Roughly 14 percent"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 B 寫 roughly 30 percent of residents in the robot group interacted with the device far less than the recommended amount，選 A。20 percent 容易與段落 A 提到「每天至少 20 分鐘」的建議互動時間混淆；14 percent 其實是研究涵蓋的機構數量；「全部居民」與原文的「三成」矛盾。技巧：文章同時出現多個數字時（200 位居民、14 個機構、20 分鐘、30%），要仔細核對每個數字各自代表的意義。",
+    "vocab": [
+      {
+        "w": "subgroup",
+        "zh": "次群體",
+        "pos": "n."
+      },
+      {
+        "w": "statistically significant",
+        "zh": "統計上顯著的",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0093",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Social robots designed to keep elderly residents company in care facilities have moved from research prototypes to small-scale commercial deployment over the past decade. Voss and colleagues followed 200 residents across 14 facilities that introduced such robots, comparing self-reported loneliness scores before and after a six-month trial period.\n\nB. Residents who interacted with the robot for at least 20 minutes daily showed a modest but statistically significant reduction in loneliness scores compared with a control group that received standard care without a robot. However, roughly 30 percent of residents in the robot group interacted with the device far less than the recommended amount, and this subgroup showed no measurable improvement at all.\n\nC. Voss's team also examined staff attitudes, finding a divide: some caregivers reported that the robots freed up time for tasks requiring human judgement, while others worried that facilities might use robots to justify reducing human staffing levels rather than supplementing them. Voss has stated explicitly that her data cannot settle this staffing question, since the trial facilities maintained their existing staff levels throughout the study period.\n\nD. Voss cautions against two opposite misreadings of her results: treating social robots as a proven substitute for human contact, which her data does not support given how much the effect depended on frequent voluntary engagement, and dismissing them as ineffective, given the measurable benefit among residents who did engage regularly. She argues the technology shows real but conditional promise, dependent on residents' willingness to interact with it consistently.",
+    "group_id": "NIR-G19",
+    "stem": "What can be inferred about why Voss says her data cannot settle the question of whether robots might replace human staff?",
+    "options": [
+      "All caregivers in the study agreed that robots should replace human staff entirely.",
+      "Voss's team was legally prohibited from studying staffing questions.",
+      "Residents in the study never interacted with any human caregivers at all.",
+      "The trial facilities kept staffing levels unchanged throughout the study, so no direct comparison was possible."
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 明確寫 since the trial facilities maintained their existing staff levels throughout the study period，代表研究設計本身沒有改變人力配置，因此無法回答「機器人是否會取代人力」這個問題，對應選項 D，故選 D。A 與段落 C 描述照護人員意見分歧矛盾；B、C 原文都沒有提及。技巧：推論題常考「研究設計的限制導致某個問題無法被回答」，答案通常直接對應原文描述研究方法侷限的句子。",
+    "vocab": [
+      {
+        "w": "justify",
+        "zh": "為…辯護；合理化",
+        "pos": "v."
+      },
+      {
+        "w": "supplement",
+        "zh": "補充",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0094",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Social robots designed to keep elderly residents company in care facilities have moved from research prototypes to small-scale commercial deployment over the past decade. Voss and colleagues followed 200 residents across 14 facilities that introduced such robots, comparing self-reported loneliness scores before and after a six-month trial period.\n\nB. Residents who interacted with the robot for at least 20 minutes daily showed a modest but statistically significant reduction in loneliness scores compared with a control group that received standard care without a robot. However, roughly 30 percent of residents in the robot group interacted with the device far less than the recommended amount, and this subgroup showed no measurable improvement at all.\n\nC. Voss's team also examined staff attitudes, finding a divide: some caregivers reported that the robots freed up time for tasks requiring human judgement, while others worried that facilities might use robots to justify reducing human staffing levels rather than supplementing them. Voss has stated explicitly that her data cannot settle this staffing question, since the trial facilities maintained their existing staff levels throughout the study period.\n\nD. Voss cautions against two opposite misreadings of her results: treating social robots as a proven substitute for human contact, which her data does not support given how much the effect depended on frequent voluntary engagement, and dismissing them as ineffective, given the measurable benefit among residents who did engage regularly. She argues the technology shows real but conditional promise, dependent on residents' willingness to interact with it consistently.",
+    "group_id": "NIR-G19",
+    "stem": "Statement: Voss's data shows that social robots are a proven substitute for human contact among elderly residents.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 D 明確寫 treating social robots as a proven substitute for human contact, which her data does not support，直接反駁題幹的說法，選 False。技巧：這題的原文幾乎是題幹的逐字反向陳述（does not support），是最直接的 False 判斷依據，作答時可以直接找關鍵詞「substitute for human contact」在原文中的上下文。",
+    "vocab": [
+      {
+        "w": "substitute for",
+        "zh": "…的替代品",
+        "pos": "phr."
+      },
+      {
+        "w": "conditional",
+        "zh": "有條件的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0095",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Social robots designed to keep elderly residents company in care facilities have moved from research prototypes to small-scale commercial deployment over the past decade. Voss and colleagues followed 200 residents across 14 facilities that introduced such robots, comparing self-reported loneliness scores before and after a six-month trial period.\n\nB. Residents who interacted with the robot for at least 20 minutes daily showed a modest but statistically significant reduction in loneliness scores compared with a control group that received standard care without a robot. However, roughly 30 percent of residents in the robot group interacted with the device far less than the recommended amount, and this subgroup showed no measurable improvement at all.\n\nC. Voss's team also examined staff attitudes, finding a divide: some caregivers reported that the robots freed up time for tasks requiring human judgement, while others worried that facilities might use robots to justify reducing human staffing levels rather than supplementing them. Voss has stated explicitly that her data cannot settle this staffing question, since the trial facilities maintained their existing staff levels throughout the study period.\n\nD. Voss cautions against two opposite misreadings of her results: treating social robots as a proven substitute for human contact, which her data does not support given how much the effect depended on frequent voluntary engagement, and dismissing them as ineffective, given the measurable benefit among residents who did engage regularly. She argues the technology shows real but conditional promise, dependent on residents' willingness to interact with it consistently.",
+    "group_id": "NIR-G19",
+    "stem": "Which paragraph reports a divide among care staff regarding the robots' effect on staffing levels?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 寫 Voss's team also examined staff attitudes, finding a divide: some caregivers reported... while others worried...，正是描述照護人員意見分歧的段落，答案是 Paragraph C。段落 A 介紹研究設計；段落 B 呈現居民孤獨感的數據結果；段落 D 是 Voss 對結果的整體評價與提醒。技巧：段落配對題找「意見分歧」類內容時，留意 some... while others... 這種對比句型。",
+    "vocab": [
+      {
+        "w": "divide",
+        "zh": "分歧",
+        "pos": "n."
+      },
+      {
+        "w": "caregiver",
+        "zh": "照護者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0096",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. A papyrus fragment discovered in Egypt in the nineteenth century, and re-examined by Iyer's team in 2014, records a contract for a single shipment of goods from India to Roman Egypt in the second century AD, including pepper, ivory, and fine textiles valued at a sum equivalent to the annual pay of hundreds of Roman soldiers. The document has become central to debates about the scale of Roman trade with India.\n\nB. Iyer argues that if a single shipment carried cargo of this value, and shipping records suggest dozens of such voyages occurred annually using seasonal monsoon winds to cross the Arabian Sea, the aggregate trade in Indian goods may have represented a meaningful share of the Roman imperial economy, considerably larger than older estimates based on scattered literary references alone had suggested.\n\nC. Some historians caution against extrapolating too far from one exceptionally well-documented contract. The papyrus may record an unusually large or valuable shipment rather than a typical one, and the number of voyages per year is itself estimated from indirect evidence, including the size of Red Sea ports and the seasonal timing implied by monsoon patterns, rather than from a complete shipping register.\n\nD. Iyer accepts that her estimate carries real uncertainty but maintains that even a conservative reading of the evidence implies a trade volume too large to have been a marginal curiosity, as it was sometimes previously described. Ongoing excavation of Red Sea port sites, including the volume and origin of pottery fragments recovered there, is expected to provide an independent check on the shipping estimates over the coming years.",
+    "group_id": "NIR-G20",
+    "stem": "According to the passage, the goods recorded in the papyrus contract were valued at a sum equivalent to what?",
+    "options": [
+      "The cost of building one Red Sea port",
+      "The annual pay of hundreds of Roman soldiers",
+      "The annual pay of a single Roman soldier",
+      "The passage does not mention a value for the goods"
+    ],
+    "answer": 1,
+    "explain_zh": "段落 A 寫 valued at a sum equivalent to the annual pay of hundreds of Roman soldiers，對應選項 B，故選 B。C「單一士兵的年薪」把數量從「數百名」縮小成「一名」，是常見的縮小誘答；A「建造紅海港口的成本」原文未提及；文章確實有給出價值的比較基準。技巧：碰到「相當於…的價值」這類比較句，要注意數量詞（hundreds of）是否被誘答選項竄改。",
+    "vocab": [
+      {
+        "w": "papyrus",
+        "zh": "莎草紙",
+        "pos": "n."
+      },
+      {
+        "w": "ivory",
+        "zh": "象牙",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0097",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. A papyrus fragment discovered in Egypt in the nineteenth century, and re-examined by Iyer's team in 2014, records a contract for a single shipment of goods from India to Roman Egypt in the second century AD, including pepper, ivory, and fine textiles valued at a sum equivalent to the annual pay of hundreds of Roman soldiers. The document has become central to debates about the scale of Roman trade with India.\n\nB. Iyer argues that if a single shipment carried cargo of this value, and shipping records suggest dozens of such voyages occurred annually using seasonal monsoon winds to cross the Arabian Sea, the aggregate trade in Indian goods may have represented a meaningful share of the Roman imperial economy, considerably larger than older estimates based on scattered literary references alone had suggested.\n\nC. Some historians caution against extrapolating too far from one exceptionally well-documented contract. The papyrus may record an unusually large or valuable shipment rather than a typical one, and the number of voyages per year is itself estimated from indirect evidence, including the size of Red Sea ports and the seasonal timing implied by monsoon patterns, rather than from a complete shipping register.\n\nD. Iyer accepts that her estimate carries real uncertainty but maintains that even a conservative reading of the evidence implies a trade volume too large to have been a marginal curiosity, as it was sometimes previously described. Ongoing excavation of Red Sea port sites, including the volume and origin of pottery fragments recovered there, is expected to provide an independent check on the shipping estimates over the coming years.",
+    "group_id": "NIR-G20",
+    "stem": "What can be inferred about why some historians are cautious about Iyer's trade-volume estimate?",
+    "options": [
+      "They have found direct evidence that no Indian goods ever reached Roman Egypt.",
+      "The number of voyages per year is based on indirect evidence rather than a complete shipping register.",
+      "They agree completely with Iyer's estimate and raise no objections.",
+      "They believe the papyrus contract is a modern forgery."
+    ],
+    "answer": 1,
+    "explain_zh": "段落 C 說每年航次數量 is itself estimated from indirect evidence... rather than from a complete shipping register，可推知歷史學家的疑慮之一，正是這個關鍵數字本身也是間接推估而來，對應選項 B，故選 B。A、D 原文都沒有提及；C 與段落 C 開頭 Some historians caution against 矛盾。技巧：推論題常考「某個關鍵數字是怎麼來的」，若原文特別說明其推估方式帶有不確定性，這通常就是質疑者疑慮的根源。",
+    "vocab": [
+      {
+        "w": "extrapolate",
+        "zh": "外推；推斷",
+        "pos": "v."
+      },
+      {
+        "w": "register",
+        "zh": "登記紀錄",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0098",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. A papyrus fragment discovered in Egypt in the nineteenth century, and re-examined by Iyer's team in 2014, records a contract for a single shipment of goods from India to Roman Egypt in the second century AD, including pepper, ivory, and fine textiles valued at a sum equivalent to the annual pay of hundreds of Roman soldiers. The document has become central to debates about the scale of Roman trade with India.\n\nB. Iyer argues that if a single shipment carried cargo of this value, and shipping records suggest dozens of such voyages occurred annually using seasonal monsoon winds to cross the Arabian Sea, the aggregate trade in Indian goods may have represented a meaningful share of the Roman imperial economy, considerably larger than older estimates based on scattered literary references alone had suggested.\n\nC. Some historians caution against extrapolating too far from one exceptionally well-documented contract. The papyrus may record an unusually large or valuable shipment rather than a typical one, and the number of voyages per year is itself estimated from indirect evidence, including the size of Red Sea ports and the seasonal timing implied by monsoon patterns, rather than from a complete shipping register.\n\nD. Iyer accepts that her estimate carries real uncertainty but maintains that even a conservative reading of the evidence implies a trade volume too large to have been a marginal curiosity, as it was sometimes previously described. Ongoing excavation of Red Sea port sites, including the volume and origin of pottery fragments recovered there, is expected to provide an independent check on the shipping estimates over the coming years.",
+    "group_id": "NIR-G20",
+    "stem": "In paragraph D, the word 'marginal' is closest in meaning to which of the following?",
+    "options": [
+      "of minor importance, on the edge of significance",
+      "occurring only once in recorded history",
+      "extremely central and dominant",
+      "impossible to measure using any method"
+    ],
+    "answer": 0,
+    "explain_zh": "marginal 指「邊緣的、次要的」，段落 D 說貿易規模「太大，不可能只是 a marginal curiosity（邊緣的奇聞軼事）」，也就是反駁「不重要」的舊說法，對應選項 A，故選 A。C「極為核心且主導」與 marginal 意思相反；B、D 都偏離了「次要、不重要」這個核心意思。技巧：marginal 常與 minor、peripheral 同義，在學術文章中用來形容「規模小、不受重視」的事物。",
+    "vocab": [
+      {
+        "w": "marginal",
+        "zh": "邊緣的；次要的",
+        "pos": "adj."
+      },
+      {
+        "w": "conservative",
+        "zh": "保守的（估計）",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0099",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. A papyrus fragment discovered in Egypt in the nineteenth century, and re-examined by Iyer's team in 2014, records a contract for a single shipment of goods from India to Roman Egypt in the second century AD, including pepper, ivory, and fine textiles valued at a sum equivalent to the annual pay of hundreds of Roman soldiers. The document has become central to debates about the scale of Roman trade with India.\n\nB. Iyer argues that if a single shipment carried cargo of this value, and shipping records suggest dozens of such voyages occurred annually using seasonal monsoon winds to cross the Arabian Sea, the aggregate trade in Indian goods may have represented a meaningful share of the Roman imperial economy, considerably larger than older estimates based on scattered literary references alone had suggested.\n\nC. Some historians caution against extrapolating too far from one exceptionally well-documented contract. The papyrus may record an unusually large or valuable shipment rather than a typical one, and the number of voyages per year is itself estimated from indirect evidence, including the size of Red Sea ports and the seasonal timing implied by monsoon patterns, rather than from a complete shipping register.\n\nD. Iyer accepts that her estimate carries real uncertainty but maintains that even a conservative reading of the evidence implies a trade volume too large to have been a marginal curiosity, as it was sometimes previously described. Ongoing excavation of Red Sea port sites, including the volume and origin of pottery fragments recovered there, is expected to provide an independent check on the shipping estimates over the coming years.",
+    "group_id": "NIR-G20",
+    "stem": "Which paragraph mentions ongoing excavation that may independently verify the shipping estimates?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 提到 Ongoing excavation of Red Sea port sites... is expected to provide an independent check on the shipping estimates over the coming years，正是提到未來能驗證估計數字的考古工作，答案是 Paragraph D。段落 A 介紹莎草紙文件本身；段落 B 是 Iyer 的推論；段落 C 是歷史學家的質疑。技巧：找「未來驗證方法」類段落，留意 ongoing、expected to、independent check 這類提示詞。",
+    "vocab": [
+      {
+        "w": "excavation",
+        "zh": "挖掘",
+        "pos": "n."
+      },
+      {
+        "w": "verify",
+        "zh": "驗證",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0100",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. A papyrus fragment discovered in Egypt in the nineteenth century, and re-examined by Iyer's team in 2014, records a contract for a single shipment of goods from India to Roman Egypt in the second century AD, including pepper, ivory, and fine textiles valued at a sum equivalent to the annual pay of hundreds of Roman soldiers. The document has become central to debates about the scale of Roman trade with India.\n\nB. Iyer argues that if a single shipment carried cargo of this value, and shipping records suggest dozens of such voyages occurred annually using seasonal monsoon winds to cross the Arabian Sea, the aggregate trade in Indian goods may have represented a meaningful share of the Roman imperial economy, considerably larger than older estimates based on scattered literary references alone had suggested.\n\nC. Some historians caution against extrapolating too far from one exceptionally well-documented contract. The papyrus may record an unusually large or valuable shipment rather than a typical one, and the number of voyages per year is itself estimated from indirect evidence, including the size of Red Sea ports and the seasonal timing implied by monsoon patterns, rather than from a complete shipping register.\n\nD. Iyer accepts that her estimate carries real uncertainty but maintains that even a conservative reading of the evidence implies a trade volume too large to have been a marginal curiosity, as it was sometimes previously described. Ongoing excavation of Red Sea port sites, including the volume and origin of pottery fragments recovered there, is expected to provide an independent check on the shipping estimates over the coming years.",
+    "group_id": "NIR-G20",
+    "stem": "How does the writer present Iyer's overall position on the scale of Roman trade with India?",
+    "options": [
+      "As a reasoned estimate that acknowledges uncertainty while arguing the trade was clearly not marginal",
+      "As a claim Iyer herself has since withdrawn due to criticism",
+      "As an undisputed fact accepted by every historian in the field",
+      "As entirely unsupported speculation with no evidence behind it"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 寫 Iyer accepts that her estimate carries real uncertainty but maintains that even a conservative reading... implies a trade volume too large to have been a marginal curiosity，顯示她的立場是「承認不確定性，但仍主張規模不小」，對應選項 A，故選 A。C 與段落 C 明確有歷史學家提出質疑矛盾，並非「毫無爭議的事實」；B 原文沒有提到她撤回主張；D 忽略了段落 A、B 描述的莎草紙證據與航運推估基礎。技巧：作者觀點題常見的正解是「承認限制＋仍維持核心論點」這種折衷立場，留意 accepts that... but maintains that... 的句型。",
+    "vocab": [
+      {
+        "w": "acknowledge",
+        "zh": "承認",
+        "pos": "v."
+      },
+      {
+        "w": "speculation",
+        "zh": "臆測",
+        "pos": "n."
+      }
+    ]
+  }
+]

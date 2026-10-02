@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "NHL-0101",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'm calling about the desk lamp you posted online. Is it still available?\nB: Yes, it is. It's in good condition, only used for about six months.\nA: Great. You listed it for four hundred dollars, would you take three hundred?\nB: I could do three hundred and fifty, since it's barely used and still has the original box.\nA: That works for me. Can I pick it up this weekend?\nB: Sure, I'm free Saturday afternoon, anytime after two.\nA: Perfect, how about three o'clock at the MRT station near your place?\nB: That's fine. Please bring cash, since I don't have a mobile payment app set up.\nA: No problem. Is the light bulb included, or do I need to buy my own?\nB: It's included, but it's an older type, so you might want to replace it eventually.",
+    "group_id": "NHL-G21",
+    "stem": "What are the two people discussing?",
+    "options": [
+      "Buying and selling a used desk lamp",
+      "Renting a room together",
+      "Returning a broken lamp",
+      "Ordering a new lamp online"
+    ],
+    "answer": 0,
+    "explain_zh": "對話一開始就問 the desk lamp you posted online,所以主題是買賣二手檯燈,不是租房、退貨或訂購新品。",
+    "vocab": [
+      {
+        "w": "condition",
+        "zh": "狀況",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0102",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm calling about the desk lamp you posted online. Is it still available?\nB: Yes, it is. It's in good condition, only used for about six months.\nA: Great. You listed it for four hundred dollars, would you take three hundred?\nB: I could do three hundred and fifty, since it's barely used and still has the original box.\nA: That works for me. Can I pick it up this weekend?\nB: Sure, I'm free Saturday afternoon, anytime after two.\nA: Perfect, how about three o'clock at the MRT station near your place?\nB: That's fine. Please bring cash, since I don't have a mobile payment app set up.\nA: No problem. Is the light bulb included, or do I need to buy my own?\nB: It's included, but it's an older type, so you might want to replace it eventually.",
+    "group_id": "NHL-G21",
+    "stem": "What was the original asking price?",
+    "options": [
+      "$300",
+      "$400",
+      "$350",
+      "$40"
+    ],
+    "answer": 1,
+    "explain_zh": "賣家原本標價 four hundred dollars,三百是買家出的價,三百五十是最後成交價,要分清楚三個數字各代表什麼。",
+    "vocab": [
+      {
+        "w": "listed",
+        "zh": "標示;刊登",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0103",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm calling about the desk lamp you posted online. Is it still available?\nB: Yes, it is. It's in good condition, only used for about six months.\nA: Great. You listed it for four hundred dollars, would you take three hundred?\nB: I could do three hundred and fifty, since it's barely used and still has the original box.\nA: That works for me. Can I pick it up this weekend?\nB: Sure, I'm free Saturday afternoon, anytime after two.\nA: Perfect, how about three o'clock at the MRT station near your place?\nB: That's fine. Please bring cash, since I don't have a mobile payment app set up.\nA: No problem. Is the light bulb included, or do I need to buy my own?\nB: It's included, but it's an older type, so you might want to replace it eventually.",
+    "group_id": "NHL-G21",
+    "stem": "What price do they finally agree on?",
+    "options": [
+      "$300",
+      "$400",
+      "$350",
+      "$30"
+    ],
+    "answer": 2,
+    "explain_zh": "賣家說 I could do three hundred and fifty,買家答應了,所以最後成交價是三百五十元。",
+    "vocab": [
+      {
+        "w": "agree",
+        "zh": "同意",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0104",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm calling about the desk lamp you posted online. Is it still available?\nB: Yes, it is. It's in good condition, only used for about six months.\nA: Great. You listed it for four hundred dollars, would you take three hundred?\nB: I could do three hundred and fifty, since it's barely used and still has the original box.\nA: That works for me. Can I pick it up this weekend?\nB: Sure, I'm free Saturday afternoon, anytime after two.\nA: Perfect, how about three o'clock at the MRT station near your place?\nB: That's fine. Please bring cash, since I don't have a mobile payment app set up.\nA: No problem. Is the light bulb included, or do I need to buy my own?\nB: It's included, but it's an older type, so you might want to replace it eventually.",
+    "group_id": "NHL-G21",
+    "stem": "What time will they meet on Saturday?",
+    "options": [
+      "2:00",
+      "3:30",
+      "1:00",
+      "3:00"
+    ],
+    "answer": 3,
+    "explain_zh": "買家提議 three o'clock,兩點是賣家開始有空的時間,不是約定碰面的時間,要注意兩者差別。",
+    "vocab": [
+      {
+        "w": "pick up",
+        "zh": "取貨",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0105",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'm calling about the desk lamp you posted online. Is it still available?\nB: Yes, it is. It's in good condition, only used for about six months.\nA: Great. You listed it for four hundred dollars, would you take three hundred?\nB: I could do three hundred and fifty, since it's barely used and still has the original box.\nA: That works for me. Can I pick it up this weekend?\nB: Sure, I'm free Saturday afternoon, anytime after two.\nA: Perfect, how about three o'clock at the MRT station near your place?\nB: That's fine. Please bring cash, since I don't have a mobile payment app set up.\nA: No problem. Is the light bulb included, or do I need to buy my own?\nB: It's included, but it's an older type, so you might want to replace it eventually.",
+    "group_id": "NHL-G21",
+    "stem": "What does the buyer need to bring?",
+    "options": [
+      "Cash",
+      "A credit card",
+      "A mobile payment app",
+      "A bank transfer receipt"
+    ],
+    "answer": 0,
+    "explain_zh": "賣家說 please bring cash, since I don't have a mobile payment app set up,所以要準備現金,不是刷卡或行動支付。",
+    "vocab": [
+      {
+        "w": "cash",
+        "zh": "現金",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0106",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:purpose",
+    "tag_zh": "目的",
+    "passage": "A: Hi, I'm here to get the results of my health checkup from last week.\nB: Sure, let me pull that up. Overall, everything looks good. Your height is one hundred and seventy centimeters, and your weight is within a healthy range.\nA: That's good to hear. Was there anything I should be concerned about?\nB: Your vision test showed your eyesight has gotten a bit worse since last year, so we recommend getting glasses if you haven't already.\nA: I see, I did notice I've been squinting at the board in class. Anything else?\nB: Your blood pressure is completely normal, but your doctor noted that you should try to get more sleep, since you mentioned sleeping only about five hours a night.\nA: I'll try to fix that. When should I come back for a follow-up?\nB: We suggest coming back in six months just for a general check, unless something changes before then.",
+    "group_id": "NHL-G22",
+    "stem": "What is the main purpose of this visit?",
+    "options": [
+      "To get a vaccination",
+      "To receive health checkup results",
+      "To report an injury",
+      "To request a doctor's note"
+    ],
+    "answer": 1,
+    "explain_zh": "學生一開始就說 to get the results of my health checkup,所以目的是領取健檢報告,不是打疫苗、通報受傷或申請證明。",
+    "vocab": [
+      {
+        "w": "checkup",
+        "zh": "健康檢查",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0107",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm here to get the results of my health checkup from last week.\nB: Sure, let me pull that up. Overall, everything looks good. Your height is one hundred and seventy centimeters, and your weight is within a healthy range.\nA: That's good to hear. Was there anything I should be concerned about?\nB: Your vision test showed your eyesight has gotten a bit worse since last year, so we recommend getting glasses if you haven't already.\nA: I see, I did notice I've been squinting at the board in class. Anything else?\nB: Your blood pressure is completely normal, but your doctor noted that you should try to get more sleep, since you mentioned sleeping only about five hours a night.\nA: I'll try to fix that. When should I come back for a follow-up?\nB: We suggest coming back in six months just for a general check, unless something changes before then.",
+    "group_id": "NHL-G22",
+    "stem": "What is the student's height?",
+    "options": [
+      "107 cm",
+      "117 cm",
+      "170 cm",
+      "175 cm"
+    ],
+    "answer": 2,
+    "explain_zh": "護理師說 one hundred and seventy centimeters,seventy 和 seventeen 容易聽混,要聽清楚重音位置。",
+    "vocab": [
+      {
+        "w": "height",
+        "zh": "身高",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0108",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'm here to get the results of my health checkup from last week.\nB: Sure, let me pull that up. Overall, everything looks good. Your height is one hundred and seventy centimeters, and your weight is within a healthy range.\nA: That's good to hear. Was there anything I should be concerned about?\nB: Your vision test showed your eyesight has gotten a bit worse since last year, so we recommend getting glasses if you haven't already.\nA: I see, I did notice I've been squinting at the board in class. Anything else?\nB: Your blood pressure is completely normal, but your doctor noted that you should try to get more sleep, since you mentioned sleeping only about five hours a night.\nA: I'll try to fix that. When should I come back for a follow-up?\nB: We suggest coming back in six months just for a general check, unless something changes before then.",
+    "group_id": "NHL-G22",
+    "stem": "What health issue does the student have?",
+    "options": [
+      "High blood pressure",
+      "Low weight",
+      "A hearing problem",
+      "Worsening eyesight"
+    ],
+    "answer": 3,
+    "explain_zh": "護理師說 your eyesight has gotten a bit worse,血壓其實是正常的,體重也在健康範圍,聽力則完全沒有被提到。",
+    "vocab": [
+      {
+        "w": "eyesight",
+        "zh": "視力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0109",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm here to get the results of my health checkup from last week.\nB: Sure, let me pull that up. Overall, everything looks good. Your height is one hundred and seventy centimeters, and your weight is within a healthy range.\nA: That's good to hear. Was there anything I should be concerned about?\nB: Your vision test showed your eyesight has gotten a bit worse since last year, so we recommend getting glasses if you haven't already.\nA: I see, I did notice I've been squinting at the board in class. Anything else?\nB: Your blood pressure is completely normal, but your doctor noted that you should try to get more sleep, since you mentioned sleeping only about five hours a night.\nA: I'll try to fix that. When should I come back for a follow-up?\nB: We suggest coming back in six months just for a general check, unless something changes before then.",
+    "group_id": "NHL-G22",
+    "stem": "How many hours does the student sleep a night?",
+    "options": [
+      "About 5 hours",
+      "About 8 hours",
+      "About 15 hours",
+      "About 6 hours"
+    ],
+    "answer": 0,
+    "explain_zh": "學生說 sleeping only about five hours a night,five 和 fifteen 容易聽混,要注意有沒有 -teen 尾音。",
+    "vocab": [
+      {
+        "w": "blood pressure",
+        "zh": "血壓",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0110",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm here to get the results of my health checkup from last week.\nB: Sure, let me pull that up. Overall, everything looks good. Your height is one hundred and seventy centimeters, and your weight is within a healthy range.\nA: That's good to hear. Was there anything I should be concerned about?\nB: Your vision test showed your eyesight has gotten a bit worse since last year, so we recommend getting glasses if you haven't already.\nA: I see, I did notice I've been squinting at the board in class. Anything else?\nB: Your blood pressure is completely normal, but your doctor noted that you should try to get more sleep, since you mentioned sleeping only about five hours a night.\nA: I'll try to fix that. When should I come back for a follow-up?\nB: We suggest coming back in six months just for a general check, unless something changes before then.",
+    "group_id": "NHL-G22",
+    "stem": "When should the student come back for a follow-up?",
+    "options": [
+      "In six weeks",
+      "In six months",
+      "In sixteen months",
+      "Next week"
+    ],
+    "answer": 1,
+    "explain_zh": "護理師說 coming back in six months,six months 和 six weeks 容易聽混,要聽清楚單位是月還是週。",
+    "vocab": [
+      {
+        "w": "follow-up",
+        "zh": "追蹤回診",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0111",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Okay team, gather around before we go out. Tonight's game is against Central High, and remember, they're strong on defense but slow to switch positions, so we should attack quickly on the wings. I want Marcus and Jay to push forward whenever we get the ball back, and don't wait for the whole team to catch up. Our biggest weakness last game was in the second half, when we lost focus around the twenty-minute mark, so let's stay sharp especially after halftime. Defense, stay close to number seven, he scored three goals against us last season, so don't give him any open space near the goal. If we're leading by the final ten minutes, we'll slow the pace down and keep possession instead of taking risks. Let's warm up for five minutes, then get into position. I believe in this team, now let's go out there and win.",
+    "group_id": "NHL-G23",
+    "stem": "What is the coach mainly doing?",
+    "options": [
+      "Announcing that the game is cancelled",
+      "Explaining new team uniforms",
+      "Giving the team tactics before a game",
+      "Introducing a new player to the team"
+    ],
+    "answer": 2,
+    "explain_zh": "教練整段都在講對手弱點與戰術安排,所以主旨是「賽前戰術指示」,和取消比賽、新球衣、介紹新球員都無關。",
+    "vocab": [
+      {
+        "w": "tactic",
+        "zh": "戰術",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0112",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Okay team, gather around before we go out. Tonight's game is against Central High, and remember, they're strong on defense but slow to switch positions, so we should attack quickly on the wings. I want Marcus and Jay to push forward whenever we get the ball back, and don't wait for the whole team to catch up. Our biggest weakness last game was in the second half, when we lost focus around the twenty-minute mark, so let's stay sharp especially after halftime. Defense, stay close to number seven, he scored three goals against us last season, so don't give him any open space near the goal. If we're leading by the final ten minutes, we'll slow the pace down and keep possession instead of taking risks. Let's warm up for five minutes, then get into position. I believe in this team, now let's go out there and win.",
+    "group_id": "NHL-G23",
+    "stem": "What is Central High's weakness according to the coach?",
+    "options": [
+      "They have weak defense",
+      "They get tired quickly",
+      "They have few substitute players",
+      "They are slow to switch positions"
+    ],
+    "answer": 3,
+    "explain_zh": "教練說對手 strong on defense but slow to switch positions,所以弱點是換位慢,不是防守弱或體力差。",
+    "vocab": [
+      {
+        "w": "defense",
+        "zh": "防守",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0113",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Okay team, gather around before we go out. Tonight's game is against Central High, and remember, they're strong on defense but slow to switch positions, so we should attack quickly on the wings. I want Marcus and Jay to push forward whenever we get the ball back, and don't wait for the whole team to catch up. Our biggest weakness last game was in the second half, when we lost focus around the twenty-minute mark, so let's stay sharp especially after halftime. Defense, stay close to number seven, he scored three goals against us last season, so don't give him any open space near the goal. If we're leading by the final ten minutes, we'll slow the pace down and keep possession instead of taking risks. Let's warm up for five minutes, then get into position. I believe in this team, now let's go out there and win.",
+    "group_id": "NHL-G23",
+    "stem": "Around what time did the team lose focus last game?",
+    "options": [
+      "Around the 20-minute mark",
+      "Around the 12-minute mark",
+      "Around the 30-minute mark",
+      "Right at the start"
+    ],
+    "answer": 0,
+    "explain_zh": "教練說 lost focus around the twenty-minute mark,twenty 和 twelve 發音相近,要聽清楚重音位置才不會選錯。",
+    "vocab": [
+      {
+        "w": "focus",
+        "zh": "專注",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0114",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Okay team, gather around before we go out. Tonight's game is against Central High, and remember, they're strong on defense but slow to switch positions, so we should attack quickly on the wings. I want Marcus and Jay to push forward whenever we get the ball back, and don't wait for the whole team to catch up. Our biggest weakness last game was in the second half, when we lost focus around the twenty-minute mark, so let's stay sharp especially after halftime. Defense, stay close to number seven, he scored three goals against us last season, so don't give him any open space near the goal. If we're leading by the final ten minutes, we'll slow the pace down and keep possession instead of taking risks. Let's warm up for five minutes, then get into position. I believe in this team, now let's go out there and win.",
+    "group_id": "NHL-G23",
+    "stem": "How many goals did player number seven score last season?",
+    "options": [
+      "Seven",
+      "Three",
+      "Thirteen",
+      "Ten"
+    ],
+    "answer": 1,
+    "explain_zh": "教練說 number seven, he scored three goals against us,七號是球衣號碼,三球才是進球數,不要把兩個數字搞混。",
+    "vocab": [
+      {
+        "w": "score",
+        "zh": "得分",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0115",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Okay team, gather around before we go out. Tonight's game is against Central High, and remember, they're strong on defense but slow to switch positions, so we should attack quickly on the wings. I want Marcus and Jay to push forward whenever we get the ball back, and don't wait for the whole team to catch up. Our biggest weakness last game was in the second half, when we lost focus around the twenty-minute mark, so let's stay sharp especially after halftime. Defense, stay close to number seven, he scored three goals against us last season, so don't give him any open space near the goal. If we're leading by the final ten minutes, we'll slow the pace down and keep possession instead of taking risks. Let's warm up for five minutes, then get into position. I believe in this team, now let's go out there and win.",
+    "group_id": "NHL-G23",
+    "stem": "What will the team do if they are leading in the final ten minutes?",
+    "options": [
+      "Attack even more aggressively",
+      "Substitute all the main players",
+      "Slow the pace and keep possession",
+      "Call a timeout immediately"
+    ],
+    "answer": 2,
+    "explain_zh": "教練說如果最後十分鐘領先,we'll slow the pace down and keep possession instead of taking risks,所以會放慢節奏、控球求穩,不是更積極進攻。",
+    "vocab": [
+      {
+        "w": "possession",
+        "zh": "控球權",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0116",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:purpose",
+    "tag_zh": "目的",
+    "passage": "Hi everyone, thanks for coming to this short talk from the Green Campus Club. Today we want to introduce our new plan to reduce plastic waste on campus. Right now, students throw away about two hundred plastic cups every single day just from the cafeteria, so starting next month, the cafeteria will stop offering free plastic cups. Instead, we're encouraging everyone to bring a reusable bottle, and if you don't have one, you can buy a club bottle for just one hundred dollars, which is much cheaper than the store price. We're also setting up five new recycling stations around campus, near the library, the gym, and the main building. If your class collects the most recyclables by the end of the semester, you'll win a pizza party for twenty people. We really believe small changes like this can make a big difference, so please join us in making our campus greener.",
+    "group_id": "NHL-G24",
+    "stem": "What is the main purpose of this talk?",
+    "options": [
+      "To announce a new cafeteria menu",
+      "To recruit new club members only",
+      "To report the results of a survey",
+      "To introduce a plan to reduce plastic waste"
+    ],
+    "answer": 3,
+    "explain_zh": "廣播一開始就說 to reduce plastic waste on campus,所以目的是介紹減塑計畫,和菜單、單純招募社員、公布問卷結果都無關。",
+    "vocab": [
+      {
+        "w": "reduce",
+        "zh": "減少",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0117",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Hi everyone, thanks for coming to this short talk from the Green Campus Club. Today we want to introduce our new plan to reduce plastic waste on campus. Right now, students throw away about two hundred plastic cups every single day just from the cafeteria, so starting next month, the cafeteria will stop offering free plastic cups. Instead, we're encouraging everyone to bring a reusable bottle, and if you don't have one, you can buy a club bottle for just one hundred dollars, which is much cheaper than the store price. We're also setting up five new recycling stations around campus, near the library, the gym, and the main building. If your class collects the most recyclables by the end of the semester, you'll win a pizza party for twenty people. We really believe small changes like this can make a big difference, so please join us in making our campus greener.",
+    "group_id": "NHL-G24",
+    "stem": "About how many plastic cups are thrown away daily?",
+    "options": [
+      "About 200",
+      "About 20",
+      "About 2,000",
+      "About 12"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說 about two hundred plastic cups every single day,要聽清楚 hundred 這個單位詞,不要漏聽變成二十個。",
+    "vocab": [
+      {
+        "w": "waste",
+        "zh": "廢棄物",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0118",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Hi everyone, thanks for coming to this short talk from the Green Campus Club. Today we want to introduce our new plan to reduce plastic waste on campus. Right now, students throw away about two hundred plastic cups every single day just from the cafeteria, so starting next month, the cafeteria will stop offering free plastic cups. Instead, we're encouraging everyone to bring a reusable bottle, and if you don't have one, you can buy a club bottle for just one hundred dollars, which is much cheaper than the store price. We're also setting up five new recycling stations around campus, near the library, the gym, and the main building. If your class collects the most recyclables by the end of the semester, you'll win a pizza party for twenty people. We really believe small changes like this can make a big difference, so please join us in making our campus greener.",
+    "group_id": "NHL-G24",
+    "stem": "How much does a club reusable bottle cost?",
+    "options": [
+      "$1,000",
+      "$100",
+      "$10",
+      "$200"
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說 buy a club bottle for just one hundred dollars,比外面商店便宜,要聽清楚金額不是一千元。",
+    "vocab": [
+      {
+        "w": "reusable",
+        "zh": "可重複使用的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0119",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Hi everyone, thanks for coming to this short talk from the Green Campus Club. Today we want to introduce our new plan to reduce plastic waste on campus. Right now, students throw away about two hundred plastic cups every single day just from the cafeteria, so starting next month, the cafeteria will stop offering free plastic cups. Instead, we're encouraging everyone to bring a reusable bottle, and if you don't have one, you can buy a club bottle for just one hundred dollars, which is much cheaper than the store price. We're also setting up five new recycling stations around campus, near the library, the gym, and the main building. If your class collects the most recyclables by the end of the semester, you'll win a pizza party for twenty people. We really believe small changes like this can make a big difference, so please join us in making our campus greener.",
+    "group_id": "NHL-G24",
+    "stem": "Where will the new recycling stations be set up?",
+    "options": [
+      "Only in the cafeteria",
+      "Only in classrooms",
+      "Near the library, the gym, and the main building",
+      "Near the school gate only"
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說 five new recycling stations around campus, near the library, the gym, and the main building,不是只設在餐廳或教室。",
+    "vocab": [
+      {
+        "w": "recycling",
+        "zh": "回收",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0120",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Hi everyone, thanks for coming to this short talk from the Green Campus Club. Today we want to introduce our new plan to reduce plastic waste on campus. Right now, students throw away about two hundred plastic cups every single day just from the cafeteria, so starting next month, the cafeteria will stop offering free plastic cups. Instead, we're encouraging everyone to bring a reusable bottle, and if you don't have one, you can buy a club bottle for just one hundred dollars, which is much cheaper than the store price. We're also setting up five new recycling stations around campus, near the library, the gym, and the main building. If your class collects the most recyclables by the end of the semester, you'll win a pizza party for twenty people. We really believe small changes like this can make a big difference, so please join us in making our campus greener.",
+    "group_id": "NHL-G24",
+    "stem": "What prize can the class with the most recyclables win?",
+    "options": [
+      "A cash prize",
+      "A free trip",
+      "A trophy only",
+      "A pizza party for 20 people"
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說 you'll win a pizza party for twenty people,並沒有提到現金獎勵、免費旅行,或只有獎盃沒有實質獎勵。",
+    "vocab": [
+      {
+        "w": "collect",
+        "zh": "收集",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0121",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Welcome to the Riverside Art Museum audio guide for our Impressionist Paintings exhibition. You are now standing in front of Room 3, which holds twelve paintings created between eighteen seventy and eighteen ninety. To your left is the museum's most famous piece, a painting of a garden in soft morning light, painted by a French artist in eighteen seventy-four. Notice how the artist used small, quick brushstrokes instead of smooth lines, which was a new style at the time and shocked many art critics. Feel free to get close to see the brushstrokes, but please do not touch the paintings. When you're ready, press the green button on your device to hear about the next painting, a river scene painted just two years later. The exhibition continues in Room 4, where you'll find paintings from a slightly later period. This guide will take about thirty minutes to complete if you listen to every stop.",
+    "group_id": "NHL-G25",
+    "stem": "What is this audio guide mainly about?",
+    "options": [
+      "Impressionist paintings in Room 3",
+      "The history of the museum building",
+      "Rules for buying museum tickets",
+      "A schedule of guided tours"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播一開始就說 audio guide for our Impressionist Paintings exhibition,所以主旨是介紹印象派畫作,和建築歷史、購票規則、導覽時間表都無關。",
+    "vocab": [
+      {
+        "w": "exhibition",
+        "zh": "展覽",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0122",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome to the Riverside Art Museum audio guide for our Impressionist Paintings exhibition. You are now standing in front of Room 3, which holds twelve paintings created between eighteen seventy and eighteen ninety. To your left is the museum's most famous piece, a painting of a garden in soft morning light, painted by a French artist in eighteen seventy-four. Notice how the artist used small, quick brushstrokes instead of smooth lines, which was a new style at the time and shocked many art critics. Feel free to get close to see the brushstrokes, but please do not touch the paintings. When you're ready, press the green button on your device to hear about the next painting, a river scene painted just two years later. The exhibition continues in Room 4, where you'll find paintings from a slightly later period. This guide will take about thirty minutes to complete if you listen to every stop.",
+    "group_id": "NHL-G25",
+    "stem": "How many paintings are in Room 3?",
+    "options": [
+      "Twenty",
+      "Twelve",
+      "Two",
+      "Twenty-two"
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說 holds twelve paintings,twelve 和 twenty 發音容易搞混,要聽清楚字尾是 -ve 還是 -ty。",
+    "vocab": [
+      {
+        "w": "hold",
+        "zh": "容納;收藏",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0123",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Welcome to the Riverside Art Museum audio guide for our Impressionist Paintings exhibition. You are now standing in front of Room 3, which holds twelve paintings created between eighteen seventy and eighteen ninety. To your left is the museum's most famous piece, a painting of a garden in soft morning light, painted by a French artist in eighteen seventy-four. Notice how the artist used small, quick brushstrokes instead of smooth lines, which was a new style at the time and shocked many art critics. Feel free to get close to see the brushstrokes, but please do not touch the paintings. When you're ready, press the green button on your device to hear about the next painting, a river scene painted just two years later. The exhibition continues in Room 4, where you'll find paintings from a slightly later period. This guide will take about thirty minutes to complete if you listen to every stop.",
+    "group_id": "NHL-G25",
+    "stem": "What is special about the artist's brushstroke style?",
+    "options": [
+      "It only used black and white colors",
+      "It copied older classical paintings exactly",
+      "It used small, quick brushstrokes instead of smooth lines",
+      "It used no paint, only pencil sketches"
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說 small, quick brushstrokes instead of smooth lines,這在當時是新風格,並沒有提到黑白色或鉛筆素描。",
+    "vocab": [
+      {
+        "w": "brushstroke",
+        "zh": "筆觸",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0124",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Welcome to the Riverside Art Museum audio guide for our Impressionist Paintings exhibition. You are now standing in front of Room 3, which holds twelve paintings created between eighteen seventy and eighteen ninety. To your left is the museum's most famous piece, a painting of a garden in soft morning light, painted by a French artist in eighteen seventy-four. Notice how the artist used small, quick brushstrokes instead of smooth lines, which was a new style at the time and shocked many art critics. Feel free to get close to see the brushstrokes, but please do not touch the paintings. When you're ready, press the green button on your device to hear about the next painting, a river scene painted just two years later. The exhibition continues in Room 4, where you'll find paintings from a slightly later period. This guide will take about thirty minutes to complete if you listen to every stop.",
+    "group_id": "NHL-G25",
+    "stem": "What are visitors NOT allowed to do?",
+    "options": [
+      "Take photos of the paintings",
+      "Stand close to the paintings",
+      "Talk quietly near the paintings",
+      "Touch the paintings"
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說 please do not touch the paintings,反而鼓勵靠近看筆觸,所以不能做的是觸摸畫作,不是靠近或拍照。",
+    "vocab": [
+      {
+        "w": "touch",
+        "zh": "觸摸",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0125",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome to the Riverside Art Museum audio guide for our Impressionist Paintings exhibition. You are now standing in front of Room 3, which holds twelve paintings created between eighteen seventy and eighteen ninety. To your left is the museum's most famous piece, a painting of a garden in soft morning light, painted by a French artist in eighteen seventy-four. Notice how the artist used small, quick brushstrokes instead of smooth lines, which was a new style at the time and shocked many art critics. Feel free to get close to see the brushstrokes, but please do not touch the paintings. When you're ready, press the green button on your device to hear about the next painting, a river scene painted just two years later. The exhibition continues in Room 4, where you'll find paintings from a slightly later period. This guide will take about thirty minutes to complete if you listen to every stop.",
+    "group_id": "NHL-G25",
+    "stem": "How long will the full audio guide take?",
+    "options": [
+      "About 30 minutes",
+      "About 13 minutes",
+      "About 3 minutes",
+      "About 60 minutes"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說 will take about thirty minutes to complete,thirty 和 thirteen 容易聽混,要聽清楚重音位置。",
+    "vocab": [
+      {
+        "w": "complete",
+        "zh": "完成",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0126",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:purpose",
+    "tag_zh": "目的",
+    "passage": "Welcome, first-year students, to Kingsbridge University. Over the next hour, I'll walk you through what to expect during your first semester. Registration for courses opens this Thursday at nine in the morning, and popular electives tend to fill up within a day, so I strongly recommend logging in right when the system opens rather than waiting until the evening. Each student is assigned an academic advisor, whose job is to help you plan a balanced schedule and answer any questions about degree requirements. You'll find your advisor's name and office hours on the student portal by tomorrow afternoon. In terms of housing, students living in dormitories must move in by the Saturday before classes begin, while those living off campus should still attend the mandatory safety briefing that same weekend. Finally, orientation week ends with a welcome fair on Sunday, where over eighty student clubs will have booths, so it's a great chance to explore your interests beyond the classroom.",
+    "group_id": "NHL-G26",
+    "stem": "What is the main purpose of this talk?",
+    "options": [
+      "To announce a change in tuition fees",
+      "To help new students prepare for their first semester",
+      "To explain how to apply for graduation",
+      "To recruit students for a research project"
+    ],
+    "answer": 1,
+    "explain_zh": "講者整段都在說明第一學期要注意的事項,所以目的是幫新生做好準備,和學費調整、申請畢業、招募研究計畫都無關。",
+    "vocab": [
+      {
+        "w": "orientation",
+        "zh": "新生訓練",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0127",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome, first-year students, to Kingsbridge University. Over the next hour, I'll walk you through what to expect during your first semester. Registration for courses opens this Thursday at nine in the morning, and popular electives tend to fill up within a day, so I strongly recommend logging in right when the system opens rather than waiting until the evening. Each student is assigned an academic advisor, whose job is to help you plan a balanced schedule and answer any questions about degree requirements. You'll find your advisor's name and office hours on the student portal by tomorrow afternoon. In terms of housing, students living in dormitories must move in by the Saturday before classes begin, while those living off campus should still attend the mandatory safety briefing that same weekend. Finally, orientation week ends with a welcome fair on Sunday, where over eighty student clubs will have booths, so it's a great chance to explore your interests beyond the classroom.",
+    "group_id": "NHL-G26",
+    "stem": "What time does course registration open?",
+    "options": [
+      "9:00 p.m. Thursday",
+      "9:00 a.m. Tuesday",
+      "9:00 a.m. Thursday",
+      "7:00 a.m. Thursday"
+    ],
+    "answer": 2,
+    "explain_zh": "講者說 registration for courses opens this Thursday at nine in the morning,是星期四早上九點,不是晚上或星期二。",
+    "vocab": [
+      {
+        "w": "registration",
+        "zh": "註冊;選課",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0128",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Welcome, first-year students, to Kingsbridge University. Over the next hour, I'll walk you through what to expect during your first semester. Registration for courses opens this Thursday at nine in the morning, and popular electives tend to fill up within a day, so I strongly recommend logging in right when the system opens rather than waiting until the evening. Each student is assigned an academic advisor, whose job is to help you plan a balanced schedule and answer any questions about degree requirements. You'll find your advisor's name and office hours on the student portal by tomorrow afternoon. In terms of housing, students living in dormitories must move in by the Saturday before classes begin, while those living off campus should still attend the mandatory safety briefing that same weekend. Finally, orientation week ends with a welcome fair on Sunday, where over eighty student clubs will have booths, so it's a great chance to explore your interests beyond the classroom.",
+    "group_id": "NHL-G26",
+    "stem": "Why does the speaker recommend registering as soon as the system opens?",
+    "options": [
+      "The system closes after one hour",
+      "Late students are charged an extra fee",
+      "Only the first hundred students can register at all",
+      "Popular electives can fill up within a day"
+    ],
+    "answer": 3,
+    "explain_zh": "講者說 popular electives tend to fill up within a day,所以要盡早選課,並沒有提到系統一小時後關閉或加收費用。",
+    "vocab": [
+      {
+        "w": "elective",
+        "zh": "選修課",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0129",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome, first-year students, to Kingsbridge University. Over the next hour, I'll walk you through what to expect during your first semester. Registration for courses opens this Thursday at nine in the morning, and popular electives tend to fill up within a day, so I strongly recommend logging in right when the system opens rather than waiting until the evening. Each student is assigned an academic advisor, whose job is to help you plan a balanced schedule and answer any questions about degree requirements. You'll find your advisor's name and office hours on the student portal by tomorrow afternoon. In terms of housing, students living in dormitories must move in by the Saturday before classes begin, while those living off campus should still attend the mandatory safety briefing that same weekend. Finally, orientation week ends with a welcome fair on Sunday, where over eighty student clubs will have booths, so it's a great chance to explore your interests beyond the classroom.",
+    "group_id": "NHL-G26",
+    "stem": "By when will students find their advisor's information?",
+    "options": [
+      "By tomorrow afternoon",
+      "By tonight",
+      "By next Monday",
+      "By the end of orientation week"
+    ],
+    "answer": 0,
+    "explain_zh": "講者說 on the student portal by tomorrow afternoon,所以是明天下午前就能看到,不是今晚或下週一。",
+    "vocab": [
+      {
+        "w": "advisor",
+        "zh": "指導老師;輔導員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0130",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome, first-year students, to Kingsbridge University. Over the next hour, I'll walk you through what to expect during your first semester. Registration for courses opens this Thursday at nine in the morning, and popular electives tend to fill up within a day, so I strongly recommend logging in right when the system opens rather than waiting until the evening. Each student is assigned an academic advisor, whose job is to help you plan a balanced schedule and answer any questions about degree requirements. You'll find your advisor's name and office hours on the student portal by tomorrow afternoon. In terms of housing, students living in dormitories must move in by the Saturday before classes begin, while those living off campus should still attend the mandatory safety briefing that same weekend. Finally, orientation week ends with a welcome fair on Sunday, where over eighty student clubs will have booths, so it's a great chance to explore your interests beyond the classroom.",
+    "group_id": "NHL-G26",
+    "stem": "How many student clubs will have booths at the welcome fair?",
+    "options": [
+      "Over 18",
+      "Over 80",
+      "Over 800",
+      "Over 8"
+    ],
+    "answer": 1,
+    "explain_zh": "講者說 over eighty student clubs will have booths,eighty 和 eighteen 容易聽混,要聽清楚字尾是 -ty 還是 -teen。",
+    "vocab": [
+      {
+        "w": "booth",
+        "zh": "攤位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0131",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:purpose",
+    "tag_zh": "目的",
+    "passage": "Good morning, fellow students. My name is Alex, and I'm running for student council president this year. If elected, my main goal is to improve communication between the council and the student body, because right now, most students only hear about decisions after they've already been made. I plan to hold monthly open forums where anyone can raise concerns directly with council members, starting from the very first month of my term. I also want to address the cafeteria pricing issue that many of you have complained about, by negotiating directly with the school's catering company for at least a ten percent reduction on popular items. Lastly, I believe our school lacks enough quiet study spaces before exams, so I'll propose converting the unused room next to the library into a dedicated study hall by the end of the first semester. I know promises are easy to make, so I ask you to hold me accountable if elected. Thank you for listening, and I hope to earn your vote next week.",
+    "group_id": "NHL-G27",
+    "stem": "What is the main purpose of this speech?",
+    "options": [
+      "To announce the results of an election",
+      "To apologize for a council mistake",
+      "To present a candidate's election promises",
+      "To invite students to a school festival"
+    ],
+    "answer": 2,
+    "explain_zh": "講者一開始就說 I'm running for student council president,並列出自己的政見,所以目的是發表競選政見,不是公布結果或道歉。",
+    "vocab": [
+      {
+        "w": "candidate",
+        "zh": "候選人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0132",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Good morning, fellow students. My name is Alex, and I'm running for student council president this year. If elected, my main goal is to improve communication between the council and the student body, because right now, most students only hear about decisions after they've already been made. I plan to hold monthly open forums where anyone can raise concerns directly with council members, starting from the very first month of my term. I also want to address the cafeteria pricing issue that many of you have complained about, by negotiating directly with the school's catering company for at least a ten percent reduction on popular items. Lastly, I believe our school lacks enough quiet study spaces before exams, so I'll propose converting the unused room next to the library into a dedicated study hall by the end of the first semester. I know promises are easy to make, so I ask you to hold me accountable if elected. Thank you for listening, and I hope to earn your vote next week.",
+    "group_id": "NHL-G27",
+    "stem": "What is the current problem with council communication, according to Alex?",
+    "options": [
+      "The council never makes any decisions",
+      "Students are not allowed to attend meetings at all",
+      "The council communicates only through email",
+      "Students only hear about decisions after they are made"
+    ],
+    "answer": 3,
+    "explain_zh": "講者說 most students only hear about decisions after they've already been made,並沒有說完全不做決策或只用email溝通。",
+    "vocab": [
+      {
+        "w": "communication",
+        "zh": "溝通",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0133",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning, fellow students. My name is Alex, and I'm running for student council president this year. If elected, my main goal is to improve communication between the council and the student body, because right now, most students only hear about decisions after they've already been made. I plan to hold monthly open forums where anyone can raise concerns directly with council members, starting from the very first month of my term. I also want to address the cafeteria pricing issue that many of you have complained about, by negotiating directly with the school's catering company for at least a ten percent reduction on popular items. Lastly, I believe our school lacks enough quiet study spaces before exams, so I'll propose converting the unused room next to the library into a dedicated study hall by the end of the first semester. I know promises are easy to make, so I ask you to hold me accountable if elected. Thank you for listening, and I hope to earn your vote next week.",
+    "group_id": "NHL-G27",
+    "stem": "When will Alex start holding open forums if elected?",
+    "options": [
+      "From the first month of his term",
+      "Only during exam weeks",
+      "Starting next semester",
+      "Only once a year"
+    ],
+    "answer": 0,
+    "explain_zh": "講者說 starting from the very first month of my term,所以是上任第一個月就開始,不是考試週或下學期才開始。",
+    "vocab": [
+      {
+        "w": "forum",
+        "zh": "論壇;公開討論會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0134",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning, fellow students. My name is Alex, and I'm running for student council president this year. If elected, my main goal is to improve communication between the council and the student body, because right now, most students only hear about decisions after they've already been made. I plan to hold monthly open forums where anyone can raise concerns directly with council members, starting from the very first month of my term. I also want to address the cafeteria pricing issue that many of you have complained about, by negotiating directly with the school's catering company for at least a ten percent reduction on popular items. Lastly, I believe our school lacks enough quiet study spaces before exams, so I'll propose converting the unused room next to the library into a dedicated study hall by the end of the first semester. I know promises are easy to make, so I ask you to hold me accountable if elected. Thank you for listening, and I hope to earn your vote next week.",
+    "group_id": "NHL-G27",
+    "stem": "What price reduction does Alex hope to negotiate for cafeteria items?",
+    "options": [
+      "At least 50%",
+      "At least 10%",
+      "At least 1%",
+      "Exactly 100%"
+    ],
+    "answer": 1,
+    "explain_zh": "講者說 at least a ten percent reduction,ten 和 one 容易在快速唸法中聽混,要注意百分比後面接的數字。",
+    "vocab": [
+      {
+        "w": "negotiate",
+        "zh": "協商",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0135",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Good morning, fellow students. My name is Alex, and I'm running for student council president this year. If elected, my main goal is to improve communication between the council and the student body, because right now, most students only hear about decisions after they've already been made. I plan to hold monthly open forums where anyone can raise concerns directly with council members, starting from the very first month of my term. I also want to address the cafeteria pricing issue that many of you have complained about, by negotiating directly with the school's catering company for at least a ten percent reduction on popular items. Lastly, I believe our school lacks enough quiet study spaces before exams, so I'll propose converting the unused room next to the library into a dedicated study hall by the end of the first semester. I know promises are easy to make, so I ask you to hold me accountable if elected. Thank you for listening, and I hope to earn your vote next week.",
+    "group_id": "NHL-G27",
+    "stem": "What does Alex propose to do with the room next to the library?",
+    "options": [
+      "Turn it into a new cafeteria",
+      "Turn it into a club meeting room",
+      "Turn it into a study hall",
+      "Keep it closed for storage"
+    ],
+    "answer": 2,
+    "explain_zh": "講者說 converting the unused room next to the library into a dedicated study hall,不是餐廳、社團教室,也不是繼續當儲藏室。",
+    "vocab": [
+      {
+        "w": "convert",
+        "zh": "改造;轉變",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0136",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Thank you all for attending this briefing on our summer internship program. This year, we're offering forty positions across five departments, including marketing, finance, and product design. The program runs for eight weeks, from the third week of June through the second week of August, and interns will receive a monthly stipend of fifteen thousand dollars to help cover living expenses. Unlike previous years, this program is open to both third and fourth-year students, though priority will be given to those graduating within the next twelve months. To apply, you'll need to submit a resume and a short video introduction by the end of this month; there is no written test this year, which is a change from our usual process. Successful applicants will be notified by email within three weeks of the application deadline, and interviews will be conducted online rather than in person. We've found that about one in five interns receives a full-time job offer afterward, so this is a genuine opportunity worth considering seriously.",
+    "group_id": "NHL-G28",
+    "stem": "What is this briefing mainly about?",
+    "options": [
+      "A part-time job fair",
+      "A scholarship application process",
+      "A graduate school recruitment event",
+      "A summer internship program"
+    ],
+    "answer": 3,
+    "explain_zh": "講者一開始就說 this briefing on our summer internship program,所以主旨是暑期實習計畫說明,和工讀博覽會、獎學金申請、研究所招生都無關。",
+    "vocab": [
+      {
+        "w": "internship",
+        "zh": "實習",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0137",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Thank you all for attending this briefing on our summer internship program. This year, we're offering forty positions across five departments, including marketing, finance, and product design. The program runs for eight weeks, from the third week of June through the second week of August, and interns will receive a monthly stipend of fifteen thousand dollars to help cover living expenses. Unlike previous years, this program is open to both third and fourth-year students, though priority will be given to those graduating within the next twelve months. To apply, you'll need to submit a resume and a short video introduction by the end of this month; there is no written test this year, which is a change from our usual process. Successful applicants will be notified by email within three weeks of the application deadline, and interviews will be conducted online rather than in person. We've found that about one in five interns receives a full-time job offer afterward, so this is a genuine opportunity worth considering seriously.",
+    "group_id": "NHL-G28",
+    "stem": "How many internship positions are being offered this year?",
+    "options": [
+      "40",
+      "14",
+      "45",
+      "4"
+    ],
+    "answer": 0,
+    "explain_zh": "講者說 forty positions,forty 和 fourteen 發音相近,要聽清楚字尾是 -ty 還是 -teen。",
+    "vocab": [
+      {
+        "w": "position",
+        "zh": "職位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0138",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Thank you all for attending this briefing on our summer internship program. This year, we're offering forty positions across five departments, including marketing, finance, and product design. The program runs for eight weeks, from the third week of June through the second week of August, and interns will receive a monthly stipend of fifteen thousand dollars to help cover living expenses. Unlike previous years, this program is open to both third and fourth-year students, though priority will be given to those graduating within the next twelve months. To apply, you'll need to submit a resume and a short video introduction by the end of this month; there is no written test this year, which is a change from our usual process. Successful applicants will be notified by email within three weeks of the application deadline, and interviews will be conducted online rather than in person. We've found that about one in five interns receives a full-time job offer afterward, so this is a genuine opportunity worth considering seriously.",
+    "group_id": "NHL-G28",
+    "stem": "What is different about this year's application process?",
+    "options": [
+      "There is now a written test for the first time",
+      "There is no written test",
+      "Interviews are now held in person only",
+      "Only fourth-year students may apply"
+    ],
+    "answer": 1,
+    "explain_zh": "講者說 there is no written test this year, which is a change from our usual process,面試改成線上進行,並非取消線上面試,三、四年級生都可申請。",
+    "vocab": [
+      {
+        "w": "resume",
+        "zh": "履歷",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0139",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Thank you all for attending this briefing on our summer internship program. This year, we're offering forty positions across five departments, including marketing, finance, and product design. The program runs for eight weeks, from the third week of June through the second week of August, and interns will receive a monthly stipend of fifteen thousand dollars to help cover living expenses. Unlike previous years, this program is open to both third and fourth-year students, though priority will be given to those graduating within the next twelve months. To apply, you'll need to submit a resume and a short video introduction by the end of this month; there is no written test this year, which is a change from our usual process. Successful applicants will be notified by email within three weeks of the application deadline, and interviews will be conducted online rather than in person. We've found that about one in five interns receives a full-time job offer afterward, so this is a genuine opportunity worth considering seriously.",
+    "group_id": "NHL-G28",
+    "stem": "How soon after the deadline will successful applicants be notified?",
+    "options": [
+      "Within 13 weeks",
+      "Within 3 days",
+      "Within 3 weeks",
+      "Within 30 weeks"
+    ],
+    "answer": 2,
+    "explain_zh": "講者說 notified by email within three weeks of the application deadline,three 和 thirteen 容易聽混,要聽清楚字尾。",
+    "vocab": [
+      {
+        "w": "notify",
+        "zh": "通知",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0140",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Thank you all for attending this briefing on our summer internship program. This year, we're offering forty positions across five departments, including marketing, finance, and product design. The program runs for eight weeks, from the third week of June through the second week of August, and interns will receive a monthly stipend of fifteen thousand dollars to help cover living expenses. Unlike previous years, this program is open to both third and fourth-year students, though priority will be given to those graduating within the next twelve months. To apply, you'll need to submit a resume and a short video introduction by the end of this month; there is no written test this year, which is a change from our usual process. Successful applicants will be notified by email within three weeks of the application deadline, and interviews will be conducted online rather than in person. We've found that about one in five interns receives a full-time job offer afterward, so this is a genuine opportunity worth considering seriously.",
+    "group_id": "NHL-G28",
+    "stem": "What can be inferred about students who complete the internship?",
+    "options": [
+      "All of them are guaranteed a job offer",
+      "None of them are considered for future jobs",
+      "Only graduating students can get a job offer",
+      "About one in five may receive a full-time job offer"
+    ],
+    "answer": 3,
+    "explain_zh": "講者說 about one in five interns receives a full-time job offer afterward,所以並非全部或完全沒有機會,是合理的推論結果。",
+    "vocab": [
+      {
+        "w": "stipend",
+        "zh": "津貼",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0141",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:purpose",
+    "tag_zh": "目的",
+    "passage": "A: Hi, welcome to today's language exchange meetup. Are you here to practice English or to teach your own language?\nB: A bit of both, actually. I speak Korean natively, and I'm hoping to improve my English speaking, since my grammar is fine but I freeze up in conversation.\nA: That's really common. We usually pair people based on shared interests as well as language goals, so it doesn't feel like a formal lesson. Do you have any hobbies you'd like to talk about?\nB: I'm really into cooking and hiking, so anything related to those would be great.\nA: Perfect, I actually have someone in mind, a university student who's learning Korean and loves hiking too. Would you be comfortable meeting for an hour every week?\nB: Yes, that works for me. Should we meet here at the center, or somewhere else?\nA: Either is fine, some pairs prefer a café instead, since it's more relaxed. I'll send you her contact details today, and you two can arrange the details yourselves.\nB: Sounds great, thank you for setting this up.",
+    "group_id": "NHL-G29",
+    "stem": "What is the main purpose of this conversation?",
+    "options": [
+      "To pair someone up for a language exchange partner",
+      "To register someone for a formal language class",
+      "To sell language learning textbooks",
+      "To organize a hiking club event"
+    ],
+    "answer": 0,
+    "explain_zh": "對話一開始就在討論語言交換配對,所以目的是幫忙配對語言交換夥伴,不是報名正式課程、賣教材或辦登山活動。",
+    "vocab": [
+      {
+        "w": "pair",
+        "zh": "配對",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0142",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, welcome to today's language exchange meetup. Are you here to practice English or to teach your own language?\nB: A bit of both, actually. I speak Korean natively, and I'm hoping to improve my English speaking, since my grammar is fine but I freeze up in conversation.\nA: That's really common. We usually pair people based on shared interests as well as language goals, so it doesn't feel like a formal lesson. Do you have any hobbies you'd like to talk about?\nB: I'm really into cooking and hiking, so anything related to those would be great.\nA: Perfect, I actually have someone in mind, a university student who's learning Korean and loves hiking too. Would you be comfortable meeting for an hour every week?\nB: Yes, that works for me. Should we meet here at the center, or somewhere else?\nA: Either is fine, some pairs prefer a café instead, since it's more relaxed. I'll send you her contact details today, and you two can arrange the details yourselves.\nB: Sounds great, thank you for setting this up.",
+    "group_id": "NHL-G29",
+    "stem": "What does B say is difficult for her in English?",
+    "options": [
+      "Understanding grammar rules",
+      "Speaking in conversation, even though her grammar is fine",
+      "Reading long articles",
+      "Writing essays"
+    ],
+    "answer": 1,
+    "explain_zh": "B說 my grammar is fine but I freeze up in conversation,所以困難的是口說對話,不是文法、閱讀或寫作。",
+    "vocab": [
+      {
+        "w": "freeze up",
+        "zh": "腦筋一片空白;卡住",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0143",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, welcome to today's language exchange meetup. Are you here to practice English or to teach your own language?\nB: A bit of both, actually. I speak Korean natively, and I'm hoping to improve my English speaking, since my grammar is fine but I freeze up in conversation.\nA: That's really common. We usually pair people based on shared interests as well as language goals, so it doesn't feel like a formal lesson. Do you have any hobbies you'd like to talk about?\nB: I'm really into cooking and hiking, so anything related to those would be great.\nA: Perfect, I actually have someone in mind, a university student who's learning Korean and loves hiking too. Would you be comfortable meeting for an hour every week?\nB: Yes, that works for me. Should we meet here at the center, or somewhere else?\nA: Either is fine, some pairs prefer a café instead, since it's more relaxed. I'll send you her contact details today, and you two can arrange the details yourselves.\nB: Sounds great, thank you for setting this up.",
+    "group_id": "NHL-G29",
+    "stem": "What do the pairing staff consider besides language goals?",
+    "options": [
+      "Age only",
+      "School grades",
+      "Shared interests",
+      "Living location"
+    ],
+    "answer": 2,
+    "explain_zh": "工作人員說 we usually pair people based on shared interests as well as language goals,所以除了語言目標還會考慮共同興趣,年齡、成績、居住地都沒被提到。",
+    "vocab": [
+      {
+        "w": "interest",
+        "zh": "興趣",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0144",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, welcome to today's language exchange meetup. Are you here to practice English or to teach your own language?\nB: A bit of both, actually. I speak Korean natively, and I'm hoping to improve my English speaking, since my grammar is fine but I freeze up in conversation.\nA: That's really common. We usually pair people based on shared interests as well as language goals, so it doesn't feel like a formal lesson. Do you have any hobbies you'd like to talk about?\nB: I'm really into cooking and hiking, so anything related to those would be great.\nA: Perfect, I actually have someone in mind, a university student who's learning Korean and loves hiking too. Would you be comfortable meeting for an hour every week?\nB: Yes, that works for me. Should we meet here at the center, or somewhere else?\nA: Either is fine, some pairs prefer a café instead, since it's more relaxed. I'll send you her contact details today, and you two can arrange the details yourselves.\nB: Sounds great, thank you for setting this up.",
+    "group_id": "NHL-G29",
+    "stem": "How often will the pair meet, according to the plan?",
+    "options": [
+      "For an hour every month",
+      "For two hours every week",
+      "Every day for thirty minutes",
+      "For an hour every week"
+    ],
+    "answer": 3,
+    "explain_zh": "工作人員問 comfortable meeting for an hour every week,B也答應了,所以是每週一小時,不是每月或每天。",
+    "vocab": [
+      {
+        "w": "comfortable",
+        "zh": "自在的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0145",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hi, welcome to today's language exchange meetup. Are you here to practice English or to teach your own language?\nB: A bit of both, actually. I speak Korean natively, and I'm hoping to improve my English speaking, since my grammar is fine but I freeze up in conversation.\nA: That's really common. We usually pair people based on shared interests as well as language goals, so it doesn't feel like a formal lesson. Do you have any hobbies you'd like to talk about?\nB: I'm really into cooking and hiking, so anything related to those would be great.\nA: Perfect, I actually have someone in mind, a university student who's learning Korean and loves hiking too. Would you be comfortable meeting for an hour every week?\nB: Yes, that works for me. Should we meet here at the center, or somewhere else?\nA: Either is fine, some pairs prefer a café instead, since it's more relaxed. I'll send you her contact details today, and you two can arrange the details yourselves.\nB: Sounds great, thank you for setting this up.",
+    "group_id": "NHL-G29",
+    "stem": "What can be inferred about where these language exchange pairs meet?",
+    "options": [
+      "The location is flexible, such as the center or a café",
+      "They must always meet at the center",
+      "They are required to meet online only",
+      "They must meet at a public library"
+    ],
+    "answer": 0,
+    "explain_zh": "工作人員說 either is fine, some pairs prefer a café instead,可推論地點是彈性的,不是規定只能在中心或線上。",
+    "vocab": [
+      {
+        "w": "arrange",
+        "zh": "安排",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0146",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi there, thanks for stopping by our booth. Are you familiar with what our company does?\nB: A little, I know you work in renewable energy, but I'm not sure about the specific roles you're hiring for.\nA: Sure, we're mainly looking for graduates in engineering and data analysis this year, for both full-time roles and a smaller graduate trainee program.\nB: I'm actually studying data science, in my final year. What would the trainee program involve?\nA: It's a rotational program, so you'd spend about three months in each of four different departments over the course of a year, which helps you figure out where you fit best.\nB: That sounds interesting. Is there a specific GPA requirement to apply?\nA: We don't have a strict cutoff, but most successful applicants have above a three point two. More importantly, we look at project experience and internships.\nB: Good to know. When does the application open?\nA: It opens next Monday and closes in three weeks, so I'd suggest applying early since we review applications on a rolling basis.",
+    "group_id": "NHL-G30",
+    "stem": "What industry does the company work in?",
+    "options": [
+      "Software development",
+      "Renewable energy",
+      "Food manufacturing",
+      "Banking and finance"
+    ],
+    "answer": 1,
+    "explain_zh": "B一開始就說 I know you work in renewable energy,所以公司是做再生能源的,不是軟體、食品或金融業。",
+    "vocab": [
+      {
+        "w": "renewable",
+        "zh": "可再生的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0147",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi there, thanks for stopping by our booth. Are you familiar with what our company does?\nB: A little, I know you work in renewable energy, but I'm not sure about the specific roles you're hiring for.\nA: Sure, we're mainly looking for graduates in engineering and data analysis this year, for both full-time roles and a smaller graduate trainee program.\nB: I'm actually studying data science, in my final year. What would the trainee program involve?\nA: It's a rotational program, so you'd spend about three months in each of four different departments over the course of a year, which helps you figure out where you fit best.\nB: That sounds interesting. Is there a specific GPA requirement to apply?\nA: We don't have a strict cutoff, but most successful applicants have above a three point two. More importantly, we look at project experience and internships.\nB: Good to know. When does the application open?\nA: It opens next Monday and closes in three weeks, so I'd suggest applying early since we review applications on a rolling basis.",
+    "group_id": "NHL-G30",
+    "stem": "How long does the trainee program last in total?",
+    "options": [
+      "About three months",
+      "About four years",
+      "About a year",
+      "About six months"
+    ],
+    "answer": 2,
+    "explain_zh": "招募人員說 spend about three months in each of four different departments over the course of a year,三個月是每個部門的時間,一年才是總長度。",
+    "vocab": [
+      {
+        "w": "rotational",
+        "zh": "輪調的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0148",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi there, thanks for stopping by our booth. Are you familiar with what our company does?\nB: A little, I know you work in renewable energy, but I'm not sure about the specific roles you're hiring for.\nA: Sure, we're mainly looking for graduates in engineering and data analysis this year, for both full-time roles and a smaller graduate trainee program.\nB: I'm actually studying data science, in my final year. What would the trainee program involve?\nA: It's a rotational program, so you'd spend about three months in each of four different departments over the course of a year, which helps you figure out where you fit best.\nB: That sounds interesting. Is there a specific GPA requirement to apply?\nA: We don't have a strict cutoff, but most successful applicants have above a three point two. More importantly, we look at project experience and internships.\nB: Good to know. When does the application open?\nA: It opens next Monday and closes in three weeks, so I'd suggest applying early since we review applications on a rolling basis.",
+    "group_id": "NHL-G30",
+    "stem": "What GPA do most successful applicants have?",
+    "options": [
+      "Above 4.0",
+      "Exactly 3.0",
+      "Above 2.2",
+      "Above 3.2"
+    ],
+    "answer": 3,
+    "explain_zh": "招募人員說 most successful applicants have above a three point two,不是硬性門檻,但多數成功者的GPA高於3.2。",
+    "vocab": [
+      {
+        "w": "requirement",
+        "zh": "要求;條件",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0149",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi there, thanks for stopping by our booth. Are you familiar with what our company does?\nB: A little, I know you work in renewable energy, but I'm not sure about the specific roles you're hiring for.\nA: Sure, we're mainly looking for graduates in engineering and data analysis this year, for both full-time roles and a smaller graduate trainee program.\nB: I'm actually studying data science, in my final year. What would the trainee program involve?\nA: It's a rotational program, so you'd spend about three months in each of four different departments over the course of a year, which helps you figure out where you fit best.\nB: That sounds interesting. Is there a specific GPA requirement to apply?\nA: We don't have a strict cutoff, but most successful applicants have above a three point two. More importantly, we look at project experience and internships.\nB: Good to know. When does the application open?\nA: It opens next Monday and closes in three weeks, so I'd suggest applying early since we review applications on a rolling basis.",
+    "group_id": "NHL-G30",
+    "stem": "What does the company consider more important than GPA?",
+    "options": [
+      "Project experience and internships",
+      "Club leadership positions",
+      "Language test scores",
+      "Letters of recommendation"
+    ],
+    "answer": 0,
+    "explain_zh": "招募人員說 more importantly, we look at project experience and internships,並沒有提到社團經歷、語言成績或推薦信。",
+    "vocab": [
+      {
+        "w": "project",
+        "zh": "專案",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0150",
+    "level": "H3",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hi there, thanks for stopping by our booth. Are you familiar with what our company does?\nB: A little, I know you work in renewable energy, but I'm not sure about the specific roles you're hiring for.\nA: Sure, we're mainly looking for graduates in engineering and data analysis this year, for both full-time roles and a smaller graduate trainee program.\nB: I'm actually studying data science, in my final year. What would the trainee program involve?\nA: It's a rotational program, so you'd spend about three months in each of four different departments over the course of a year, which helps you figure out where you fit best.\nB: That sounds interesting. Is there a specific GPA requirement to apply?\nA: We don't have a strict cutoff, but most successful applicants have above a three point two. More importantly, we look at project experience and internships.\nB: Good to know. When does the application open?\nA: It opens next Monday and closes in three weeks, so I'd suggest applying early since we review applications on a rolling basis.",
+    "group_id": "NHL-G30",
+    "stem": "Why does the recruiter suggest applying early?",
+    "options": [
+      "Only ten spots are available in total",
+      "Applications are reviewed on a rolling basis",
+      "The application will close early this year",
+      "Late applicants are automatically rejected"
+    ],
+    "answer": 1,
+    "explain_zh": "招募人員說 we review applications on a rolling basis,所以是陸續審核,越早申請機會相對越大,並非名額只有十個或直接拒絕晚申請者。",
+    "vocab": [
+      {
+        "w": "rolling basis",
+        "zh": "滾動式審核",
+        "pos": "phr."
+      }
+    ]
+  }
+]

@@ -1,0 +1,4652 @@
+[
+  {
+    "id": "JV2-0001",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "May I ____ your eraser? I forgot to bring mine to school today.",
+    "options": [
+      "borrow",
+      "lend",
+      "rent",
+      "return"
+    ],
+    "answer": 0,
+    "explain_zh": "borrow 是「（向別人）借入」，跟自己沒帶東西的情境相符。lend 是「借出給別人」，主詞應該是東西的主人；rent 是付錢租用；return 是歸還，都不合。口訣：borrow 借進來、lend 借出去。",
+    "vocab": [
+      {
+        "w": "borrow",
+        "zh": "借入",
+        "pos": "v."
+      },
+      {
+        "w": "lend",
+        "zh": "借出",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0002",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "I am going to Japan next week, and I will ____ my camera with me.",
+    "options": [
+      "bring",
+      "take",
+      "come",
+      "send"
+    ],
+    "answer": 1,
+    "explain_zh": "從說話的地方「帶去」別的地方用 take。bring 是把東西「帶來」說話者這邊，方向相反；come 不能接受詞當「帶」；send 是寄送。口訣：take 帶去、bring 帶來。",
+    "vocab": [
+      {
+        "w": "take",
+        "zh": "帶去",
+        "pos": "v."
+      },
+      {
+        "w": "bring",
+        "zh": "帶來",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0003",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "I often ____ to English songs on the MRT to practice my listening.",
+    "options": [
+      "hear",
+      "see",
+      "listen",
+      "talk"
+    ],
+    "answer": 2,
+    "explain_zh": "listen to 是「主動去聽」，練習聽力要用它。hear 是「聽見」，而且後面不加 to；see 是看見；talk to 是跟人講話，都不合。記住：listen 要加 to，hear 不加。",
+    "vocab": [
+      {
+        "w": "listen to",
+        "zh": "（主動）聽",
+        "pos": "v. phr."
+      },
+      {
+        "w": "practice",
+        "zh": "練習",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0004",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ at the blackboard, everyone! I am going to explain this question.",
+    "options": [
+      "See",
+      "Watch",
+      "Hear",
+      "Look"
+    ],
+    "answer": 3,
+    "explain_zh": "look at 是「把視線移過去看」，叫學生看黑板要用 look。see 是「看見」不接 at；watch 是看會動的東西（電視、比賽）也不接 at；hear 是聽見。口訣：look at 看、see 看見、watch 觀看。",
+    "vocab": [
+      {
+        "w": "look at",
+        "zh": "看向",
+        "pos": "v. phr."
+      },
+      {
+        "w": "blackboard",
+        "zh": "黑板",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0005",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ me the truth; I promise I will not be angry with you.",
+    "options": [
+      "tell",
+      "say",
+      "speak",
+      "talk"
+    ],
+    "answer": 0,
+    "explain_zh": "tell 後面可以直接接「人」再接內容，tell me the truth 是固定用法。say 後面直接接說的話（say something to me）；speak 多接語言；talk 要用 talk to me，都不能直接接兩個受詞。",
+    "vocab": [
+      {
+        "w": "tell",
+        "zh": "告訴",
+        "pos": "v."
+      },
+      {
+        "w": "truth",
+        "zh": "事實",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0006",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "The sun ____ in the east and goes down in the west every day.",
+    "options": [
+      "raises",
+      "rises",
+      "raise",
+      "rose"
+    ],
+    "answer": 1,
+    "explain_zh": "rise 是不及物動詞「（自己）升起」，主詞是太陽，現在式第三人稱要用 rises。raise 是及物動詞「舉起、提高」，後面一定要有受詞；rose 是過去式，和後面的現在式 goes 不一致。",
+    "vocab": [
+      {
+        "w": "rise",
+        "zh": "升起",
+        "pos": "v."
+      },
+      {
+        "w": "east",
+        "zh": "東方",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0007",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Our class ____ first prize in the school singing contest last Friday.",
+    "options": [
+      "beat",
+      "defeated",
+      "won",
+      "fought"
+    ],
+    "answer": 2,
+    "explain_zh": "win 後面接「比賽、獎項」，所以 won first prize 正確。beat 和 defeat 後面要接「對手（人或隊伍）」，不能接獎項；fought 是打架、戰鬥，語意不合。口訣：win a prize、beat a team。",
+    "vocab": [
+      {
+        "w": "win",
+        "zh": "贏得（獎項）",
+        "pos": "v."
+      },
+      {
+        "w": "prize",
+        "zh": "獎項",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0008",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Could you ____ me your umbrella? I will give it back tomorrow morning.",
+    "options": [
+      "borrow",
+      "take",
+      "owe",
+      "lend"
+    ],
+    "answer": 3,
+    "explain_zh": "請對方把東西「借給我」要用 lend somebody something。borrow 是我向別人借入，主詞該是借的人；take 是拿走；owe 是欠錢，語意都不對。記住 lend 借出、borrow 借入。",
+    "vocab": [
+      {
+        "w": "lend",
+        "zh": "借出",
+        "pos": "v."
+      },
+      {
+        "w": "umbrella",
+        "zh": "雨傘",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0009",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "The weather turned cold, so I asked my sister to ____ me a jacket here.",
+    "options": [
+      "bring",
+      "take",
+      "carry",
+      "wear"
+    ],
+    "answer": 0,
+    "explain_zh": "句尾的 here 表示東西要「帶來」說話者這裡，所以用 bring。take 是帶去別的地方，方向相反；carry 是搬運、扛著，不強調方向；wear 是穿著，不能接兩個受詞。",
+    "vocab": [
+      {
+        "w": "bring",
+        "zh": "帶來",
+        "pos": "v."
+      },
+      {
+        "w": "jacket",
+        "zh": "外套",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0010",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Speak louder, please. I can't ____ you clearly on the phone.",
+    "options": [
+      "listen",
+      "hear",
+      "sound",
+      "notice"
+    ],
+    "answer": 1,
+    "explain_zh": "hear 是「聽見（聲音進到耳朵）」，電話裡聽不清楚用 hear。listen 是主動去聽，而且後面要加 to 才能接受詞；sound 是聽起來如何，不接人當受詞；notice 是注意到。",
+    "vocab": [
+      {
+        "w": "hear",
+        "zh": "聽見",
+        "pos": "v."
+      },
+      {
+        "w": "clearly",
+        "zh": "清楚地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0011",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ a beautiful rainbow in the sky after the rain stopped yesterday.",
+    "options": [
+      "looked",
+      "heard",
+      "saw",
+      "listened"
+    ],
+    "answer": 2,
+    "explain_zh": "彩虹是不小心映入眼簾的，用 see 的過去式 saw。look 是主動看，且要加 at 才能接受詞；heard 和 listened 都是聽覺動詞，和 rainbow 不合。",
+    "vocab": [
+      {
+        "w": "see",
+        "zh": "看見",
+        "pos": "v."
+      },
+      {
+        "w": "rainbow",
+        "zh": "彩虹",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0012",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "My uncle can ____ three languages: Chinese, English, and Japanese.",
+    "options": [
+      "say",
+      "tell",
+      "talk",
+      "speak"
+    ],
+    "answer": 3,
+    "explain_zh": "說某種「語言」固定用 speak + 語言。say 後面接說出的話；tell 後面接人或故事、事實；talk 是談話，不能直接接語言。口訣：speak English 但 talk about English。",
+    "vocab": [
+      {
+        "w": "speak",
+        "zh": "說（語言）",
+        "pos": "v."
+      },
+      {
+        "w": "language",
+        "zh": "語言",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0013",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "I feel dizzy right now. I need to ____ down on the sofa for a while.",
+    "options": [
+      "lie",
+      "lay",
+      "laid",
+      "lying"
+    ],
+    "answer": 0,
+    "explain_zh": "lie down 是「躺下」，不及物，to 後面要用原形 lie。lay 是及物動詞「放置」，後面一定要有受詞；laid 是 lay 的過去式；lying 是現在分詞，不能接在 to 後面。",
+    "vocab": [
+      {
+        "w": "lie down",
+        "zh": "躺下",
+        "pos": "v. phr."
+      },
+      {
+        "w": "dizzy",
+        "zh": "頭暈的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0014",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Too much noise can ____ your sleep and make you tired the next day.",
+    "options": [
+      "effect",
+      "affect",
+      "affection",
+      "effective"
+    ],
+    "answer": 1,
+    "explain_zh": "affect 是動詞「影響」，can 後面要接原形動詞。effect 是名詞「影響、效果」；affection 是名詞「情感」；effective 是形容詞「有效的」，詞性都不對。口訣：a-ffect 是動作（動詞），e-ffect 是結果（名詞）。",
+    "vocab": [
+      {
+        "w": "affect",
+        "zh": "影響",
+        "pos": "v."
+      },
+      {
+        "w": "noise",
+        "zh": "噪音",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0015",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:confusing-pairs",
+    "tag_zh": "易混淆字辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "This new smartphone ____ me twenty thousand dollars, so I saved for a year.",
+    "options": [
+      "spent",
+      "paid",
+      "cost",
+      "took"
+    ],
+    "answer": 2,
+    "explain_zh": "cost 的主詞是「東西」，句型是 something costs somebody + 金錢。spend 的主詞必須是人（I spent...）；pay 的主詞也是人且常接 for；take 用在花「時間」。口訣：物 cost 人錢、人 spend 錢。",
+    "vocab": [
+      {
+        "w": "cost",
+        "zh": "花費（錢）",
+        "pos": "v."
+      },
+      {
+        "w": "save",
+        "zh": "存（錢）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0016",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The government will ____ the price of train tickets next month.",
+    "options": [
+      "rise",
+      "rose",
+      "risen",
+      "raise"
+    ],
+    "answer": 3,
+    "explain_zh": "raise 是及物動詞「提高」，後面接受詞 the price。rise 是不及物動詞，後面不能接受詞；rose、risen 是 rise 的過去式與過去分詞，不能放在 will 後面。口訣：raise 有受詞、rise 沒有。",
+    "vocab": [
+      {
+        "w": "raise",
+        "zh": "提高",
+        "pos": "v."
+      },
+      {
+        "w": "price",
+        "zh": "價格",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0017",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Our team ____ the Tainan team three to one in yesterday's final game.",
+    "options": [
+      "beat",
+      "won",
+      "scored",
+      "lost"
+    ],
+    "answer": 0,
+    "explain_zh": "beat 後面接「對手」，beat the Tainan team 是打敗對方。won 後面要接比賽或獎項，不能接對手；scored 是得分；lost 是輸給（要用 lost to）。口訣：beat 人、win 比賽。",
+    "vocab": [
+      {
+        "w": "beat",
+        "zh": "打敗",
+        "pos": "v."
+      },
+      {
+        "w": "final",
+        "zh": "決賽的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0018",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ on the door before you walk into the teachers' office.",
+    "options": [
+      "hit",
+      "knock",
+      "push",
+      "ring"
+    ],
+    "answer": 1,
+    "explain_zh": "敲門的固定用法是 knock on the door。hit 是打擊但不接 on the door 表示敲門；push 是推；ring 用在按門鈴 ring the doorbell，介系詞也不對。",
+    "vocab": [
+      {
+        "w": "knock",
+        "zh": "敲（門）",
+        "pos": "v."
+      },
+      {
+        "w": "office",
+        "zh": "辦公室",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0019",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I will ____ ten classmates to my birthday party this Saturday evening.",
+    "options": [
+      "join",
+      "attend",
+      "invite",
+      "visit"
+    ],
+    "answer": 2,
+    "explain_zh": "invite somebody to something 是「邀請某人參加」。join 是自己加入（join the party）；attend 是自己出席；visit 是拜訪某人，都不能寫成「邀請別人來」的意思。",
+    "vocab": [
+      {
+        "w": "invite",
+        "zh": "邀請",
+        "pos": "v."
+      },
+      {
+        "w": "classmate",
+        "zh": "同學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0020",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The dog ____ the ball in the air and ran back to its owner.",
+    "options": [
+      "threw",
+      "kicked",
+      "missed",
+      "caught"
+    ],
+    "answer": 3,
+    "explain_zh": "接住空中的球用 catch 的過去式 caught。threw 是丟出去；kicked 是踢；missed 是沒接到，和後面高興跑回主人身邊的情境不合。",
+    "vocab": [
+      {
+        "w": "catch",
+        "zh": "接住",
+        "pos": "v."
+      },
+      {
+        "w": "owner",
+        "zh": "主人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0021",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The naughty boy ____ his sister's hair, and she started to cry loudly.",
+    "options": [
+      "pulled",
+      "pushed",
+      "kicked",
+      "washed"
+    ],
+    "answer": 0,
+    "explain_zh": "拉扯頭髮用 pull。push 是推，不會用在頭髮上；kick 是用腳踢；wash 是洗，都無法解釋妹妹大哭。記住 pull 拉、push 推。",
+    "vocab": [
+      {
+        "w": "pull",
+        "zh": "拉",
+        "pos": "v."
+      },
+      {
+        "w": "naughty",
+        "zh": "頑皮的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0022",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My mother taught me how to ____ my clothes neatly and put them away.",
+    "options": [
+      "wash",
+      "fold",
+      "dry",
+      "cut"
+    ],
+    "answer": 1,
+    "explain_zh": "把衣服「摺好」用 fold，和 neatly（整齊地）搭配。wash 是洗、dry 是烘乾，都不需要 neatly 也不會接著收起來；cut 是剪開，語意相反。",
+    "vocab": [
+      {
+        "w": "fold",
+        "zh": "摺疊",
+        "pos": "v."
+      },
+      {
+        "w": "neatly",
+        "zh": "整齊地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0023",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ the baby on the bed gently; she has just fallen asleep.",
+    "options": [
+      "lie",
+      "lied",
+      "lay",
+      "lying"
+    ],
+    "answer": 2,
+    "explain_zh": "lay 是及物動詞「把…放下」，後面接受詞 the baby。lie 是不及物的「躺」，後面不能接受詞；lied 是「說謊」的過去式；lying 不能用在祈使句開頭。口訣：lay 放東西、lie 自己躺。",
+    "vocab": [
+      {
+        "w": "lay",
+        "zh": "放置",
+        "pos": "v."
+      },
+      {
+        "w": "gently",
+        "zh": "輕輕地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0024",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father can ____ the broken chair by himself; he is good with tools.",
+    "options": [
+      "do",
+      "make",
+      "build",
+      "fix"
+    ],
+    "answer": 3,
+    "explain_zh": "修理壞掉的東西用 fix（= repair）。do 不能接 the broken chair 表示修理；make 和 build 都是「做出新的」，但椅子已經存在，只是壞了。",
+    "vocab": [
+      {
+        "w": "fix",
+        "zh": "修理",
+        "pos": "v."
+      },
+      {
+        "w": "tool",
+        "zh": "工具",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0025",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ the milk into the cup slowly so that it will not spill.",
+    "options": [
+      "pour",
+      "fill",
+      "drop",
+      "throw"
+    ],
+    "answer": 0,
+    "explain_zh": "把液體倒入容器用 pour...into...。fill 是「裝滿」，句型是 fill the cup with milk；drop 是掉落；throw 是丟，都和倒牛奶不合。",
+    "vocab": [
+      {
+        "w": "pour",
+        "zh": "倒（液體）",
+        "pos": "v."
+      },
+      {
+        "w": "spill",
+        "zh": "溢出",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0026",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "She ____ the key under the doormat so her brother could get in.",
+    "options": [
+      "found",
+      "hid",
+      "lost",
+      "threw"
+    ],
+    "answer": 1,
+    "explain_zh": "把鑰匙藏在腳踏墊下讓弟弟能進門，用 hide 的過去式 hid。found 是找到；lost 是弄丟，弟弟就進不去了；threw 是亂丟，都不合邏輯。",
+    "vocab": [
+      {
+        "w": "hide",
+        "zh": "藏",
+        "pos": "v."
+      },
+      {
+        "w": "doormat",
+        "zh": "腳踏墊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0027",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The postman ____ a big package to our house early this morning.",
+    "options": [
+      "received",
+      "ordered",
+      "delivered",
+      "packed"
+    ],
+    "answer": 2,
+    "explain_zh": "郵差把包裹「送達」用 deliver。received 是收到，收件的是我們不是郵差；ordered 是訂購；packed 是打包，都不是郵差的動作。",
+    "vocab": [
+      {
+        "w": "deliver",
+        "zh": "投遞",
+        "pos": "v."
+      },
+      {
+        "w": "package",
+        "zh": "包裹",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0028",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The workers ____ a deep hole in the ground to plant the young tree.",
+    "options": [
+      "built",
+      "filled",
+      "covered",
+      "dug"
+    ],
+    "answer": 3,
+    "explain_zh": "挖洞用 dig 的過去式 dug。built 是蓋房子之類的建造；filled 是把洞填滿，和「挖出洞」相反；covered 是覆蓋，種樹前要先挖洞。",
+    "vocab": [
+      {
+        "w": "dig",
+        "zh": "挖",
+        "pos": "v."
+      },
+      {
+        "w": "hole",
+        "zh": "洞",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0029",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "He ____ the volume down because the music was too loud for his sister.",
+    "options": [
+      "turned",
+      "put",
+      "made",
+      "got"
+    ],
+    "answer": 0,
+    "explain_zh": "調整音量大小的固定片語是 turn the volume up/down。put down 是放下；make down、get down 都沒有「調小聲」的意思。",
+    "vocab": [
+      {
+        "w": "turn down",
+        "zh": "調小（音量）",
+        "pos": "v. phr."
+      },
+      {
+        "w": "volume",
+        "zh": "音量",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0030",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:verbs-action",
+    "tag_zh": "動作動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "A strange man ____ me from the bus stop to my house, and I felt scared.",
+    "options": [
+      "met",
+      "followed",
+      "watched",
+      "waited"
+    ],
+    "answer": 1,
+    "explain_zh": "從公車站一路跟到家是 follow「跟蹤、跟隨」。met 是相遇，不會是一路跟著；watched 是站著看；waited 後面要加 for，句型也不對。",
+    "vocab": [
+      {
+        "w": "follow",
+        "zh": "跟隨",
+        "pos": "v."
+      },
+      {
+        "w": "scared",
+        "zh": "害怕的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0031",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I have two pens. One is blue, and the ____ one is black.",
+    "options": [
+      "another",
+      "others",
+      "other",
+      "other's"
+    ],
+    "answer": 2,
+    "explain_zh": "總共只有兩枝，指「剩下的那一枝」要用 the other。another 是「三個以上中再一個」，數量不合；others 是代名詞，後面不能再接名詞 one；other's 是所有格。",
+    "vocab": [
+      {
+        "w": "the other",
+        "zh": "（兩者中）另一個",
+        "pos": "phr."
+      },
+      {
+        "w": "pen",
+        "zh": "筆",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0032",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "This shirt is too small for me. Could you show me ____ one, please?",
+    "options": [
+      "other",
+      "others",
+      "the others",
+      "another"
+    ],
+    "answer": 3,
+    "explain_zh": "店裡衣服很多，要「再看另一件」用 another（an + other）。other 後面接單數名詞時前面一定要有 the 或 an；others 和 the others 是代名詞，後面不能再接 one。",
+    "vocab": [
+      {
+        "w": "another",
+        "zh": "另一個",
+        "pos": "det."
+      },
+      {
+        "w": "shirt",
+        "zh": "襯衫",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0033",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I have ____ friends in this new school, so I often feel lonely at lunch.",
+    "options": [
+      "few",
+      "a few",
+      "little",
+      "a little"
+    ],
+    "answer": 0,
+    "explain_zh": "few 表示「幾乎沒有」，才會覺得孤單；a few 是「有一些」，語意和後面矛盾。little 和 a little 只能修飾不可數名詞，friends 是可數複數。口訣：few 修可數、little 修不可數。",
+    "vocab": [
+      {
+        "w": "few",
+        "zh": "很少（可數）",
+        "pos": "det."
+      },
+      {
+        "w": "lonely",
+        "zh": "孤單的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0034",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The science show was so ____ that nobody wanted to leave the hall.",
+    "options": [
+      "interested",
+      "interesting",
+      "interest",
+      "interestingly"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞是「事物」，形容它本身有趣要用 -ing 的 interesting。interested 用來形容「人」感到有興趣；interest 是名詞；interestingly 是副詞，不能放在 so 後面當補語。",
+    "vocab": [
+      {
+        "w": "interesting",
+        "zh": "有趣的",
+        "pos": "adj."
+      },
+      {
+        "w": "hall",
+        "zh": "禮堂",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0035",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The night market was so ____ that we could hardly walk to the food stalls.",
+    "options": [
+      "quiet",
+      "empty",
+      "crowded",
+      "narrow"
+    ],
+    "answer": 2,
+    "explain_zh": "人多到走不動，要用 crowded（擁擠的）。quiet 是安靜、empty 是空的，都和走不動矛盾；narrow 是形容「路」很窄，主詞是夜市不合適。",
+    "vocab": [
+      {
+        "w": "crowded",
+        "zh": "擁擠的",
+        "pos": "adj."
+      },
+      {
+        "w": "stall",
+        "zh": "攤位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0036",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Be ____ when you cross that road; the cars there run very fast.",
+    "options": [
+      "careless",
+      "carefully",
+      "caring",
+      "careful"
+    ],
+    "answer": 3,
+    "explain_zh": "be 動詞後面要接形容詞 careful（小心的）。careless 是粗心的，語意相反；carefully 是副詞，不能放在 be 後面；caring 是「有愛心的」，語意不合。",
+    "vocab": [
+      {
+        "w": "careful",
+        "zh": "小心的",
+        "pos": "adj."
+      },
+      {
+        "w": "cross",
+        "zh": "穿越",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0037",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The soup my grandma made was so ____ that I ate three big bowls.",
+    "options": [
+      "delicious",
+      "terrible",
+      "awful",
+      "sour"
+    ],
+    "answer": 0,
+    "explain_zh": "吃了三大碗代表很好吃，用 delicious。terrible 和 awful 都是「很糟」，sour 是酸的，和吃三碗的反應矛盾。",
+    "vocab": [
+      {
+        "w": "delicious",
+        "zh": "美味的",
+        "pos": "adj."
+      },
+      {
+        "w": "bowl",
+        "zh": "碗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0038",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Hurry up! We have very ____ time before the movie starts.",
+    "options": [
+      "few",
+      "little",
+      "a few",
+      "many"
+    ],
+    "answer": 1,
+    "explain_zh": "time 是不可數名詞，表示「很少」要用 little，且可被 very 修飾。few、a few、many 都只能修飾可數名詞複數，文法上直接錯誤。",
+    "vocab": [
+      {
+        "w": "little",
+        "zh": "很少（不可數）",
+        "pos": "det."
+      },
+      {
+        "w": "hurry up",
+        "zh": "快一點",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0039",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The students looked ____ because the speech lasted for two long hours.",
+    "options": [
+      "boring",
+      "bore",
+      "bored",
+      "boredom"
+    ],
+    "answer": 2,
+    "explain_zh": "主詞是人、感到無聊要用 -ed 的 bored。boring 會變成「學生本身很無聊」，語意不對；bore 是動詞；boredom 是名詞，不能當 look 的補語。",
+    "vocab": [
+      {
+        "w": "bored",
+        "zh": "感到無聊的",
+        "pos": "adj."
+      },
+      {
+        "w": "speech",
+        "zh": "演講",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0040",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is very ____ to swim in the river right after a heavy rain.",
+    "options": [
+      "safe",
+      "careful",
+      "peaceful",
+      "dangerous"
+    ],
+    "answer": 3,
+    "explain_zh": "大雨後水流又急又濁，所以是 dangerous（危險的）。safe 語意相反；careful 用來形容人，不能形容這件事；peaceful 是平靜的，也和情境矛盾。",
+    "vocab": [
+      {
+        "w": "dangerous",
+        "zh": "危險的",
+        "pos": "adj."
+      },
+      {
+        "w": "river",
+        "zh": "河流",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0041",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "This dictionary app is really ____; I use it in every English class.",
+    "options": [
+      "useful",
+      "useless",
+      "used",
+      "using"
+    ],
+    "answer": 0,
+    "explain_zh": "每堂課都用，代表它很 useful（有用的）。useless 是沒用的，語意相反；used 和 using 是動詞變化，不能當 really 後面的形容詞補語。",
+    "vocab": [
+      {
+        "w": "useful",
+        "zh": "有用的",
+        "pos": "adj."
+      },
+      {
+        "w": "dictionary",
+        "zh": "字典",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0042",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Our new homeroom teacher is ____; she always smiles and helps us.",
+    "options": [
+      "strict",
+      "friendly",
+      "serious",
+      "shy"
+    ],
+    "answer": 1,
+    "explain_zh": "常常微笑又幫忙，是 friendly（友善的）。strict 是嚴格、serious 是嚴肅、shy 是害羞，都和「always smiles and helps us」不合。注意 friendly 字尾是 -ly 卻是形容詞。",
+    "vocab": [
+      {
+        "w": "friendly",
+        "zh": "友善的",
+        "pos": "adj."
+      },
+      {
+        "w": "homeroom teacher",
+        "zh": "導師",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0043",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The young singer became ____ around the world after her song went online.",
+    "options": [
+      "foreign",
+      "modern",
+      "famous",
+      "silent"
+    ],
+    "answer": 2,
+    "explain_zh": "全世界都認識她，用 famous（有名的）。foreign 是外國的、modern 是現代的、silent 是安靜無聲的，都不能表示「出名」。",
+    "vocab": [
+      {
+        "w": "famous",
+        "zh": "有名的",
+        "pos": "adj."
+      },
+      {
+        "w": "online",
+        "zh": "在網路上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0044",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My brother is too ____ to clean his room; he just lies on the sofa.",
+    "options": [
+      "busy",
+      "active",
+      "polite",
+      "lazy"
+    ],
+    "answer": 3,
+    "explain_zh": "躺在沙發上不整理房間是 lazy（懶惰的）。busy 的話就不會躺著；active 是好動的、polite 是有禮貌的，都和後半句矛盾。",
+    "vocab": [
+      {
+        "w": "lazy",
+        "zh": "懶惰的",
+        "pos": "adj."
+      },
+      {
+        "w": "sofa",
+        "zh": "沙發",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0045",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adjectives",
+    "tag_zh": "形容詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please be ____ to the old people on the bus and give them your seat.",
+    "options": [
+      "polite",
+      "rude",
+      "lucky",
+      "silly"
+    ],
+    "answer": 0,
+    "explain_zh": "讓座是有禮貌的行為，用 polite。rude 是無禮的，語意相反；lucky 是幸運的、silly 是傻的，都和讓座無關。",
+    "vocab": [
+      {
+        "w": "polite",
+        "zh": "有禮貌的",
+        "pos": "adj."
+      },
+      {
+        "w": "seat",
+        "zh": "座位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0046",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My sister likes hip-hop music, and I like it, ____.",
+    "options": [
+      "either",
+      "too",
+      "neither",
+      "yet"
+    ],
+    "answer": 1,
+    "explain_zh": "肯定句句尾表示「也」用 too。either 只用在否定句句尾；neither 要放句首且用倒裝；yet 用在否定句或疑問句表示「還（沒）」。口訣：肯定 too、否定 either。",
+    "vocab": [
+      {
+        "w": "too",
+        "zh": "也（肯定句）",
+        "pos": "adv."
+      },
+      {
+        "w": "hip-hop",
+        "zh": "嘻哈",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0047",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Tom doesn't like durian, and I don't like it, ____.",
+    "options": [
+      "too",
+      "also",
+      "either",
+      "so"
+    ],
+    "answer": 2,
+    "explain_zh": "否定句句尾的「也」要用 either。too 和 also 用在肯定句；so 表示「也」時要放句首並倒裝（So do I），放句尾不合文法。",
+    "vocab": [
+      {
+        "w": "either",
+        "zh": "也（否定句）",
+        "pos": "adv."
+      },
+      {
+        "w": "durian",
+        "zh": "榴槤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0048",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "She speaks English very ____ because she lived in Canada for six years.",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "well"
+    ],
+    "answer": 3,
+    "explain_zh": "修飾動詞 speaks 要用副詞 well。good 是形容詞，不能修飾動詞；better、best 是比較級和最高級，前面不能加 very，句中也沒有比較對象。",
+    "vocab": [
+      {
+        "w": "well",
+        "zh": "好地",
+        "pos": "adv."
+      },
+      {
+        "w": "speak",
+        "zh": "說（語言）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0049",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "He studies very ____ every night, so his grades are always good.",
+    "options": [
+      "hard",
+      "hardly",
+      "hardest",
+      "harder"
+    ],
+    "answer": 0,
+    "explain_zh": "hard 當副詞是「努力地」。hardly 是「幾乎不」，語意完全相反；hardest 是最高級要加 the；harder 是比較級，前面不能加 very。",
+    "vocab": [
+      {
+        "w": "hard",
+        "zh": "努力地",
+        "pos": "adv."
+      },
+      {
+        "w": "grade",
+        "zh": "成績",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0050",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "We were walking in the park when it ____ started to rain very hard.",
+    "options": [
+      "sudden",
+      "suddenly",
+      "slowly",
+      "quietly"
+    ],
+    "answer": 1,
+    "explain_zh": "修飾動詞要用副詞，突然下雨用 suddenly。sudden 是形容詞；slowly（慢慢地）和 quietly（安靜地）都不能表達「突然」。",
+    "vocab": [
+      {
+        "w": "suddenly",
+        "zh": "突然地",
+        "pos": "adv."
+      },
+      {
+        "w": "park",
+        "zh": "公園",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0051",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Peter is ____ late for class, but today he came ten minutes early.",
+    "options": [
+      "never",
+      "hardly",
+      "usually",
+      "already"
+    ],
+    "answer": 2,
+    "explain_zh": "but 表示今天和平常相反，所以平常是「通常」遲到，用 usually。never 和 hardly 都表示幾乎不遲到，與 but 的轉折不合；already 是「已經」，語意不通。",
+    "vocab": [
+      {
+        "w": "usually",
+        "zh": "通常",
+        "pos": "adv."
+      },
+      {
+        "w": "early",
+        "zh": "早地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0052",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "She closed the bedroom door ____ so she would not wake up the baby.",
+    "options": [
+      "quiet",
+      "loudly",
+      "quickly",
+      "quietly"
+    ],
+    "answer": 3,
+    "explain_zh": "修飾動詞 closed 要用副詞，輕輕安靜地關門是 quietly。quiet 是形容詞；loudly 是大聲地，會吵醒寶寶；quickly 是很快地，和怕吵醒寶寶無關。",
+    "vocab": [
+      {
+        "w": "quietly",
+        "zh": "安靜地",
+        "pos": "adv."
+      },
+      {
+        "w": "wake up",
+        "zh": "吵醒",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0053",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The room was so dark that I could ____ see anything on the desk.",
+    "options": [
+      "hardly",
+      "hard",
+      "almost",
+      "nearly"
+    ],
+    "answer": 0,
+    "explain_zh": "hardly 是「幾乎不」，房間太暗所以幾乎看不見。hard 是「努力地」；almost 和 nearly 表示「快要、幾乎」，不能和 anything 一起表達否定。",
+    "vocab": [
+      {
+        "w": "hardly",
+        "zh": "幾乎不",
+        "pos": "adv."
+      },
+      {
+        "w": "dark",
+        "zh": "昏暗的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0054",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I haven't seen Kevin ____; maybe he moved to another city.",
+    "options": [
+      "late",
+      "lately",
+      "later",
+      "latest"
+    ],
+    "answer": 1,
+    "explain_zh": "lately 是「最近」，常和現在完成式一起用。late 是「遲、晚」；later 是「之後」；latest 是「最新的」，都不能表示「最近這段時間」。",
+    "vocab": [
+      {
+        "w": "lately",
+        "zh": "最近",
+        "pos": "adv."
+      },
+      {
+        "w": "move",
+        "zh": "搬家",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0055",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The juice bottle is ____ empty; only a few drops are left.",
+    "options": [
+      "near",
+      "nearby",
+      "nearly",
+      "hardly"
+    ],
+    "answer": 2,
+    "explain_zh": "nearly 是副詞「將近、幾乎」，修飾 empty。near 和 nearby 表示「在附近」的距離，不能修飾形容詞；hardly empty 會變成「幾乎不空」，和只剩幾滴矛盾。",
+    "vocab": [
+      {
+        "w": "nearly",
+        "zh": "幾乎",
+        "pos": "adv."
+      },
+      {
+        "w": "drop",
+        "zh": "滴",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0056",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I have ____ finished my science report, so I can watch TV tonight.",
+    "options": [
+      "yet",
+      "still",
+      "ever",
+      "already"
+    ],
+    "answer": 3,
+    "explain_zh": "肯定句表示「已經」用 already，放在 have 和過去分詞中間。yet 只用於否定句和疑問句；still 表示「仍然」要放在 have 前面；ever 用於疑問句或經驗句。",
+    "vocab": [
+      {
+        "w": "already",
+        "zh": "已經",
+        "pos": "adv."
+      },
+      {
+        "w": "report",
+        "zh": "報告",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0057",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is almost eleven o'clock, and my brother is ____ playing online games.",
+    "options": [
+      "still",
+      "already",
+      "yet",
+      "ago"
+    ],
+    "answer": 0,
+    "explain_zh": "動作從剛才持續到現在，用 still（仍然）。already 強調「比預期早完成」，語意不合；yet 用在否定或疑問句；ago 要接在一段時間後面。",
+    "vocab": [
+      {
+        "w": "still",
+        "zh": "仍然",
+        "pos": "adv."
+      },
+      {
+        "w": "online game",
+        "zh": "線上遊戲",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0058",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father ____ eats fast food because he really cares about his health.",
+    "options": [
+      "often",
+      "seldom",
+      "always",
+      "usually"
+    ],
+    "answer": 1,
+    "explain_zh": "很注重健康，所以「很少」吃速食，用 seldom。often、always、usually 都表示常常，和注重健康的理由矛盾。",
+    "vocab": [
+      {
+        "w": "seldom",
+        "zh": "很少",
+        "pos": "adv."
+      },
+      {
+        "w": "fast food",
+        "zh": "速食",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0059",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Look at those dark clouds. It will ____ rain this afternoon.",
+    "options": [
+      "probable",
+      "hardly",
+      "probably",
+      "never"
+    ],
+    "answer": 2,
+    "explain_zh": "烏雲密布代表「可能」會下雨，用副詞 probably。probable 是形容詞，不能修飾動詞 rain；hardly 和 never 表示幾乎不會、從不，與烏雲的線索相反。",
+    "vocab": [
+      {
+        "w": "probably",
+        "zh": "可能",
+        "pos": "adv."
+      },
+      {
+        "w": "cloud",
+        "zh": "雲",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0060",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:adverbs",
+    "tag_zh": "副詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My little cousin is not old ____ to watch this scary movie.",
+    "options": [
+      "too",
+      "very",
+      "much",
+      "enough"
+    ],
+    "answer": 3,
+    "explain_zh": "enough 當副詞時要放在形容詞「後面」，old enough 是固定語序。too 和 very 要放在 old 前面；much 不能修飾原級形容詞，位置也不對。",
+    "vocab": [
+      {
+        "w": "enough",
+        "zh": "足夠地",
+        "pos": "adv."
+      },
+      {
+        "w": "scary",
+        "zh": "恐怖的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0061",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "It ____ about three hours to drive from Taipei to Taichung.",
+    "options": [
+      "takes",
+      "costs",
+      "spends",
+      "pays"
+    ],
+    "answer": 0,
+    "explain_zh": "花「時間」的句型是 It takes + 時間。cost 是東西花錢；spend 的主詞必須是人；pay 是人付錢給某人，主詞也不能是 it。口訣：It takes time, It costs money.",
+    "vocab": [
+      {
+        "w": "take",
+        "zh": "花費（時間）",
+        "pos": "v."
+      },
+      {
+        "w": "drive",
+        "zh": "開車",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0062",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "I need to ____ my suitcase tonight because my flight leaves at six.",
+    "options": [
+      "carry",
+      "pack",
+      "close",
+      "buy"
+    ],
+    "answer": 1,
+    "explain_zh": "出發前把東西裝進行李箱叫 pack。carry 是提著、close 只是把箱子關上、buy 是買行李箱，都不是「整理行李」的意思。",
+    "vocab": [
+      {
+        "w": "pack",
+        "zh": "打包行李",
+        "pos": "v."
+      },
+      {
+        "w": "suitcase",
+        "zh": "行李箱",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0063",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "We stayed at a cheap ____ near the train station for two nights.",
+    "options": [
+      "restaurant",
+      "museum",
+      "hotel",
+      "market"
+    ],
+    "answer": 2,
+    "explain_zh": "住宿過夜的地方是 hotel。restaurant 是餐廳、museum 是博物館、market 是市場，都不能 stay 過夜。",
+    "vocab": [
+      {
+        "w": "hotel",
+        "zh": "旅館",
+        "pos": "n."
+      },
+      {
+        "w": "station",
+        "zh": "車站",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0064",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "The ____ showed us around the old town and told us its history.",
+    "options": [
+      "driver",
+      "waiter",
+      "clerk",
+      "guide"
+    ],
+    "answer": 3,
+    "explain_zh": "帶團解說的人是 guide（導遊）。driver 只負責開車、waiter 在餐廳服務、clerk 是店員，都不會介紹歷史。",
+    "vocab": [
+      {
+        "w": "guide",
+        "zh": "導遊",
+        "pos": "n."
+      },
+      {
+        "w": "history",
+        "zh": "歷史",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0065",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "Our ____ to Tokyo takes about three hours, and the seats are small.",
+    "options": [
+      "flight",
+      "road",
+      "street",
+      "way"
+    ],
+    "answer": 0,
+    "explain_zh": "搭飛機的「班機、飛行」是 flight，後面提到座位也是飛機上的。road、street 是道路；way 是路線或方法，都不會有座位。",
+    "vocab": [
+      {
+        "w": "flight",
+        "zh": "班機",
+        "pos": "n."
+      },
+      {
+        "w": "seat",
+        "zh": "座位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0066",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please check in at the ____ two hours before your plane takes off.",
+    "options": [
+      "harbor",
+      "airport",
+      "platform",
+      "corner"
+    ],
+    "answer": 1,
+    "explain_zh": "搭飛機報到的地方是 airport（機場）。harbor 是港口、platform 是火車月台、corner 是轉角，都和飛機起飛無關。",
+    "vocab": [
+      {
+        "w": "airport",
+        "zh": "機場",
+        "pos": "n."
+      },
+      {
+        "w": "check in",
+        "zh": "辦理報到",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0067",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "We built a sandcastle on the ____ and watched the sunset together.",
+    "options": [
+      "mountain",
+      "forest",
+      "beach",
+      "playground"
+    ],
+    "answer": 2,
+    "explain_zh": "堆沙堡看日落的地方是 beach（海灘）。mountain 是山、forest 是森林、playground 是操場，都沒有沙灘的沙和海景。",
+    "vocab": [
+      {
+        "w": "beach",
+        "zh": "海灘",
+        "pos": "n."
+      },
+      {
+        "w": "sunset",
+        "zh": "日落",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0068",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ three thousand dollars on hotels during our trip to Hualien.",
+    "options": [
+      "cost",
+      "took",
+      "paid",
+      "spent"
+    ],
+    "answer": 3,
+    "explain_zh": "spend 的主詞是人，句型是 spend + 錢 + on + 東西。cost 的主詞必須是物品；take 用在花時間；pay 要用 pay for，介系詞不同。",
+    "vocab": [
+      {
+        "w": "spend",
+        "zh": "花費（錢）",
+        "pos": "v."
+      },
+      {
+        "w": "trip",
+        "zh": "旅行",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0069",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "You have to ____ for the museum tickets online before you visit.",
+    "options": [
+      "pay",
+      "cost",
+      "spend",
+      "buy"
+    ],
+    "answer": 0,
+    "explain_zh": "pay for something 是「付錢買某物」的固定用法。cost 主詞要是物品；spend 後面接錢再接 on；buy 後面直接接東西，不加 for。",
+    "vocab": [
+      {
+        "w": "pay for",
+        "zh": "付錢買",
+        "pos": "v. phr."
+      },
+      {
+        "w": "ticket",
+        "zh": "門票",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0070",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ a room at that hotel two weeks before the holiday.",
+    "options": [
+      "bought",
+      "booked",
+      "ordered",
+      "took"
+    ],
+    "answer": 1,
+    "explain_zh": "預訂房間、機票用 book（= reserve）。bought 是買下整間房間；ordered 用在點餐或訂貨；took 只是「拿、搭乘」，都不能表示事先預訂。",
+    "vocab": [
+      {
+        "w": "book",
+        "zh": "預訂",
+        "pos": "v."
+      },
+      {
+        "w": "holiday",
+        "zh": "假期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0071",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "I lost my ____ in the hotel, so I could not leave the country.",
+    "options": [
+      "wallet",
+      "camera",
+      "passport",
+      "map"
+    ],
+    "answer": 2,
+    "explain_zh": "出入國境一定要 passport（護照）。wallet 是錢包、camera 是相機、map 是地圖，丟了都不會讓人無法出境。",
+    "vocab": [
+      {
+        "w": "passport",
+        "zh": "護照",
+        "pos": "n."
+      },
+      {
+        "w": "country",
+        "zh": "國家",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0072",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "This hostel is very ____; it is only five minutes from the MRT station.",
+    "options": [
+      "comfortable",
+      "expensive",
+      "crowded",
+      "convenient"
+    ],
+    "answer": 3,
+    "explain_zh": "離捷運站近是「方便」，用 convenient。comfortable 是住起來舒服、expensive 是貴、crowded 是擁擠，都不是「離車站近」的重點。",
+    "vocab": [
+      {
+        "w": "convenient",
+        "zh": "方便的",
+        "pos": "adj."
+      },
+      {
+        "w": "hostel",
+        "zh": "青年旅館",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0073",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "Our plane was ____ for two hours because of the heavy rain.",
+    "options": [
+      "delayed",
+      "canceled",
+      "early",
+      "stopped"
+    ],
+    "answer": 0,
+    "explain_zh": "誤點、延後起飛用 delay 的被動 was delayed，後面才能接 for two hours。canceled 是取消就不會有兩小時；early 語意相反；stopped 不用於班機延誤。",
+    "vocab": [
+      {
+        "w": "delay",
+        "zh": "延誤",
+        "pos": "v."
+      },
+      {
+        "w": "heavy rain",
+        "zh": "大雨",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0074",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "We got ____ in the old town because all the small streets looked the same.",
+    "options": [
+      "missed",
+      "lost",
+      "found",
+      "late"
+    ],
+    "answer": 1,
+    "explain_zh": "get lost 是「迷路」的固定用法。missed 是錯過；found 是被找到，語意相反；late 是遲到，和街道長得一樣無關。",
+    "vocab": [
+      {
+        "w": "get lost",
+        "zh": "迷路",
+        "pos": "v. phr."
+      },
+      {
+        "w": "street",
+        "zh": "街道",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0075",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:travel",
+    "tag_zh": "旅遊",
+    "passage": null,
+    "group_id": null,
+    "stem": "You need a ____ to enter that country, and it takes two weeks to get one.",
+    "options": [
+      "license",
+      "receipt",
+      "visa",
+      "menu"
+    ],
+    "answer": 2,
+    "explain_zh": "進入外國需要的簽證是 visa。license 是駕照或執照、receipt 是收據、menu 是菜單，都不能用來入境。",
+    "vocab": [
+      {
+        "w": "visa",
+        "zh": "簽證",
+        "pos": "n."
+      },
+      {
+        "w": "enter",
+        "zh": "進入",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0076",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "My brother ____ videos on YouTube for two hours every night.",
+    "options": [
+      "sees",
+      "looks",
+      "reads",
+      "watches"
+    ],
+    "answer": 3,
+    "explain_zh": "看會動的影片用 watch。see 強調「看見」不用於一直盯著看影片；look 要加 at 才能接受詞；read 是閱讀文字。",
+    "vocab": [
+      {
+        "w": "watch",
+        "zh": "觀看",
+        "pos": "v."
+      },
+      {
+        "w": "video",
+        "zh": "影片",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0077",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ the file to me by email before five o'clock today.",
+    "options": [
+      "send",
+      "bring",
+      "take",
+      "carry"
+    ],
+    "answer": 0,
+    "explain_zh": "用電子郵件傳送檔案用 send。bring 和 take 是實際把東西帶來或帶去；carry 是搬運，都不能用在寄電子檔。",
+    "vocab": [
+      {
+        "w": "send",
+        "zh": "寄送",
+        "pos": "v."
+      },
+      {
+        "w": "file",
+        "zh": "檔案",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0078",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ a new app on my phone to learn two hundred English words.",
+    "options": [
+      "uploaded",
+      "downloaded",
+      "deleted",
+      "closed"
+    ],
+    "answer": 1,
+    "explain_zh": "把 app 從網路裝到手機是 download（下載）。upload 方向相反，是上傳；delete 是刪除；close 是關閉，都不能拿來安裝新 app。",
+    "vocab": [
+      {
+        "w": "download",
+        "zh": "下載",
+        "pos": "v."
+      },
+      {
+        "w": "app",
+        "zh": "應用程式",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0079",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "The Wi-Fi ____ is too weak here, so the video keeps stopping.",
+    "options": [
+      "sign",
+      "single",
+      "signal",
+      "silence"
+    ],
+    "answer": 2,
+    "explain_zh": "網路「訊號」是 signal。sign 是標誌或手勢；single 是單一的；silence 是安靜，三個字拼法相近但意思完全不同。",
+    "vocab": [
+      {
+        "w": "signal",
+        "zh": "訊號",
+        "pos": "n."
+      },
+      {
+        "w": "weak",
+        "zh": "微弱的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0080",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "Never tell anyone your ____, or someone may use your account.",
+    "options": [
+      "message",
+      "homepage",
+      "keyboard",
+      "password"
+    ],
+    "answer": 3,
+    "explain_zh": "帳號要保護的是 password（密碼）。message 是訊息、homepage 是首頁、keyboard 是鍵盤，說出來都不會讓別人盜用帳號。",
+    "vocab": [
+      {
+        "w": "password",
+        "zh": "密碼",
+        "pos": "n."
+      },
+      {
+        "w": "account",
+        "zh": "帳號",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0081",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "I type my report with the ____ and move the cursor with the mouse.",
+    "options": [
+      "keyboard",
+      "screen",
+      "speaker",
+      "printer"
+    ],
+    "answer": 0,
+    "explain_zh": "打字用的是 keyboard（鍵盤），和後面的 mouse 對應。screen 是螢幕、speaker 是喇叭、printer 是印表機，都不能拿來打字。",
+    "vocab": [
+      {
+        "w": "keyboard",
+        "zh": "鍵盤",
+        "pos": "n."
+      },
+      {
+        "w": "type",
+        "zh": "打字",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0082",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "Remember to ____ your file, or you will lose everything you typed.",
+    "options": [
+      "delete",
+      "save",
+      "open",
+      "print"
+    ],
+    "answer": 1,
+    "explain_zh": "把檔案存起來才不會不見，用 save（儲存）。delete 是刪除，結果相反；open 是開啟；print 是列印，都不能防止資料遺失。",
+    "vocab": [
+      {
+        "w": "save",
+        "zh": "儲存",
+        "pos": "v."
+      },
+      {
+        "w": "lose",
+        "zh": "失去",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0083",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many young people get news from social ____ instead of newspapers.",
+    "options": [
+      "medium",
+      "middle",
+      "media",
+      "model"
+    ],
+    "answer": 2,
+    "explain_zh": "社群媒體的固定說法是 social media。medium 是單數形，不用在這個片語；middle 是中間；model 是模型或模特兒。",
+    "vocab": [
+      {
+        "w": "social media",
+        "zh": "社群媒體",
+        "pos": "n. phr."
+      },
+      {
+        "w": "news",
+        "zh": "新聞",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0084",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ your homework to the class website before Friday night.",
+    "options": [
+      "download",
+      "unload",
+      "load",
+      "upload"
+    ],
+    "answer": 3,
+    "explain_zh": "把作業從自己的電腦傳到網站是 upload（上傳）。download 是下載，方向相反；unload 是卸貨；load 是裝載，都不合。",
+    "vocab": [
+      {
+        "w": "upload",
+        "zh": "上傳",
+        "pos": "v."
+      },
+      {
+        "w": "website",
+        "zh": "網站",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0085",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "My grandmother learned to make a video ____ with her friends in Japan.",
+    "options": [
+      "call",
+      "talk",
+      "speech",
+      "ring"
+    ],
+    "answer": 0,
+    "explain_zh": "視訊通話是 video call。talk 當名詞是「談話」但沒有 video talk 的說法；speech 是演講；ring 是鈴聲，都不是打電話的名詞用法。",
+    "vocab": [
+      {
+        "w": "video call",
+        "zh": "視訊通話",
+        "pos": "n. phr."
+      },
+      {
+        "w": "learn",
+        "zh": "學會",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0086",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "The ____ of this new tablet is bigger, so movies look great on it.",
+    "options": [
+      "window",
+      "screen",
+      "glass",
+      "board"
+    ],
+    "answer": 1,
+    "explain_zh": "平板顯示畫面的地方是 screen（螢幕）。window 是窗戶、glass 是玻璃杯或玻璃、board 是板子，都不能播放影片。",
+    "vocab": [
+      {
+        "w": "screen",
+        "zh": "螢幕",
+        "pos": "n."
+      },
+      {
+        "w": "tablet",
+        "zh": "平板電腦",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0087",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "Be careful! That strange website may put a ____ in your computer.",
+    "options": [
+      "illness",
+      "disease",
+      "virus",
+      "fever"
+    ],
+    "answer": 2,
+    "explain_zh": "電腦「病毒」英文用 virus。illness 和 disease 是人生的病；fever 是發燒，都只能用在身體上。",
+    "vocab": [
+      {
+        "w": "virus",
+        "zh": "病毒",
+        "pos": "n."
+      },
+      {
+        "w": "website",
+        "zh": "網站",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0088",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please don't ____ my photo on the Internet without asking me first.",
+    "options": [
+      "print",
+      "paste",
+      "press",
+      "post"
+    ],
+    "answer": 3,
+    "explain_zh": "把照片貼到網路上公開是 post。print 是列印出來；paste 是貼上（電腦剪貼）；press 是按下，都不是在網路上發布。",
+    "vocab": [
+      {
+        "w": "post",
+        "zh": "張貼（網路）",
+        "pos": "v."
+      },
+      {
+        "w": "photo",
+        "zh": "照片",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0089",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "The battery is almost dead, so I have to ____ my phone right now.",
+    "options": [
+      "charge",
+      "change",
+      "chase",
+      "check"
+    ],
+    "answer": 0,
+    "explain_zh": "幫手機充電用 charge。change 是改變或換掉；chase 是追；check 是檢查，這三個字和 charge 拼法相近，要特別分清楚。",
+    "vocab": [
+      {
+        "w": "charge",
+        "zh": "充電",
+        "pos": "v."
+      },
+      {
+        "w": "battery",
+        "zh": "電池",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0090",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:media-tech",
+    "tag_zh": "媒體與科技",
+    "passage": null,
+    "group_id": null,
+    "stem": "Some news on the Internet is ____, so we should check it carefully.",
+    "options": [
+      "true",
+      "false",
+      "real",
+      "correct"
+    ],
+    "answer": 1,
+    "explain_zh": "需要小心查證，表示有些新聞是「假的」，用 false。true、real、correct 都表示真實正確，和後面「要小心查證」的提醒矛盾。",
+    "vocab": [
+      {
+        "w": "false",
+        "zh": "假的",
+        "pos": "adj."
+      },
+      {
+        "w": "check",
+        "zh": "查證",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0091",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "A ____ cuts people's hair and makes it look nice for parties.",
+    "options": [
+      "dentist",
+      "tailor",
+      "hairdresser",
+      "baker"
+    ],
+    "answer": 2,
+    "explain_zh": "剪頭髮的人是 hairdresser（美髮師）。dentist 看牙齒、tailor 做衣服、baker 烤麵包，工作內容都不同。",
+    "vocab": [
+      {
+        "w": "hairdresser",
+        "zh": "美髮師",
+        "pos": "n."
+      },
+      {
+        "w": "hair",
+        "zh": "頭髮",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0092",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "A ____ takes care of our teeth and tells us to brush them well.",
+    "options": [
+      "nurse",
+      "cook",
+      "vet",
+      "dentist"
+    ],
+    "answer": 3,
+    "explain_zh": "專門看牙齒的醫生是 dentist。nurse 是護理師、cook 是廚師、vet 是獸醫，都不負責牙齒。",
+    "vocab": [
+      {
+        "w": "dentist",
+        "zh": "牙醫",
+        "pos": "n."
+      },
+      {
+        "w": "brush",
+        "zh": "刷",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0093",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "A ____ helps sick dogs and cats get better at an animal hospital.",
+    "options": [
+      "vet",
+      "farmer",
+      "nurse",
+      "cook"
+    ],
+    "answer": 0,
+    "explain_zh": "動物醫院裡替動物看病的是 vet（獸醫）。farmer 是農夫、nurse 照顧的是人、cook 是廚師。",
+    "vocab": [
+      {
+        "w": "vet",
+        "zh": "獸醫",
+        "pos": "n."
+      },
+      {
+        "w": "sick",
+        "zh": "生病的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0094",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "My cousin is a ____; he puts out fires and saves people's lives.",
+    "options": [
+      "policeman",
+      "firefighter",
+      "postman",
+      "soldier"
+    ],
+    "answer": 1,
+    "explain_zh": "滅火救人的是 firefighter（消防員）。policeman 抓壞人、postman 送信、soldier 是軍人，工作都不是滅火。",
+    "vocab": [
+      {
+        "w": "firefighter",
+        "zh": "消防員",
+        "pos": "n."
+      },
+      {
+        "w": "put out",
+        "zh": "撲滅",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0095",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "A ____ writes news stories for a newspaper or a TV station.",
+    "options": [
+      "singer",
+      "painter",
+      "reporter",
+      "lawyer"
+    ],
+    "answer": 2,
+    "explain_zh": "寫新聞報導的人是 reporter（記者）。singer 是歌手、painter 是畫家、lawyer 是律師，都不寫新聞。",
+    "vocab": [
+      {
+        "w": "reporter",
+        "zh": "記者",
+        "pos": "n."
+      },
+      {
+        "w": "newspaper",
+        "zh": "報紙",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0096",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "The ____ in that restaurant kitchen makes fifty meals every night.",
+    "options": [
+      "waiter",
+      "guard",
+      "clerk",
+      "cook"
+    ],
+    "answer": 3,
+    "explain_zh": "在廚房做菜的是 cook（廚師）。waiter 是外場服務生、guard 是警衛、clerk 是店員，都不負責做菜。",
+    "vocab": [
+      {
+        "w": "cook",
+        "zh": "廚師",
+        "pos": "n."
+      },
+      {
+        "w": "meal",
+        "zh": "餐點",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0097",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "My mother ____ in a bank near our house from nine to five.",
+    "options": [
+      "works",
+      "does",
+      "makes",
+      "takes"
+    ],
+    "answer": 0,
+    "explain_zh": "表示「在某地工作」用 work in/at。do、make、take 後面都需要受詞，不能直接接 in a bank 表示上班。",
+    "vocab": [
+      {
+        "w": "work",
+        "zh": "工作",
+        "pos": "v."
+      },
+      {
+        "w": "bank",
+        "zh": "銀行",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0098",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "She sent her resume and ____ for the job at that computer company.",
+    "options": [
+      "asked",
+      "applied",
+      "joined",
+      "entered"
+    ],
+    "answer": 1,
+    "explain_zh": "apply for a job 是「應徵工作」的固定用法。ask for 是要求某物；join 是加入團體，後面不加 for；enter 是進入，句型都不對。",
+    "vocab": [
+      {
+        "w": "apply for",
+        "zh": "應徵",
+        "pos": "v. phr."
+      },
+      {
+        "w": "resume",
+        "zh": "履歷",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0099",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "The boss will ____ ten new workers because the factory is very busy.",
+    "options": [
+      "fire",
+      "higher",
+      "hire",
+      "rent"
+    ],
+    "answer": 2,
+    "explain_zh": "請新員工是 hire（僱用）。fire 在這裡是「開除」，工廠忙不會開除人；higher 是「更高的」形容詞；rent 是租東西，不能用在人。",
+    "vocab": [
+      {
+        "w": "hire",
+        "zh": "僱用",
+        "pos": "v."
+      },
+      {
+        "w": "factory",
+        "zh": "工廠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0100",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "Could you ____ me how to use this copy machine? I am new here.",
+    "options": [
+      "say",
+      "talk",
+      "speak",
+      "tell"
+    ],
+    "answer": 3,
+    "explain_zh": "tell somebody how to... 可以直接接人再接內容。say 後面不能直接接人；talk 和 speak 要加 to 才能接人，且不能接 how 子句當受詞。",
+    "vocab": [
+      {
+        "w": "tell",
+        "zh": "告訴",
+        "pos": "v."
+      },
+      {
+        "w": "copy machine",
+        "zh": "影印機",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0101",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "She works as a ____ and helps people buy and sell their houses.",
+    "options": [
+      "agent",
+      "guide",
+      "guard",
+      "driver"
+    ],
+    "answer": 0,
+    "explain_zh": "幫人買賣房子的是 agent（仲介）。guide 是導遊、guard 是警衛、driver 是司機，都不是做房屋買賣的。",
+    "vocab": [
+      {
+        "w": "agent",
+        "zh": "仲介",
+        "pos": "n."
+      },
+      {
+        "w": "sell",
+        "zh": "賣",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0102",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "The ____ checks everyone's bag at the gate and keeps the building safe.",
+    "options": [
+      "cleaner",
+      "guard",
+      "manager",
+      "engineer"
+    ],
+    "answer": 1,
+    "explain_zh": "在門口檢查包包、維護安全的是 guard（警衛）。cleaner 是清潔人員、manager 是經理、engineer 是工程師，職務都不同。",
+    "vocab": [
+      {
+        "w": "guard",
+        "zh": "警衛",
+        "pos": "n."
+      },
+      {
+        "w": "gate",
+        "zh": "大門",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0103",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "My sister has a part-____ job at a coffee shop on weekends.",
+    "options": [
+      "day",
+      "hour",
+      "time",
+      "work"
+    ],
+    "answer": 2,
+    "explain_zh": "兼職工作的固定說法是 part-time job。part-day、part-hour、part-work 都不是英文裡的說法。對照全職是 full-time。",
+    "vocab": [
+      {
+        "w": "part-time job",
+        "zh": "兼職工作",
+        "pos": "n. phr."
+      },
+      {
+        "w": "weekend",
+        "zh": "週末",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0104",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "He ____ his job last month because he wanted to study abroad.",
+    "options": [
+      "quiet",
+      "quite",
+      "joined",
+      "quit"
+    ],
+    "answer": 3,
+    "explain_zh": "辭職用 quit。quiet 是形容詞「安靜的」、quite 是副詞「相當」，這兩個字只是拼法像；joined 是加入新工作，和出國念書的理由不合。",
+    "vocab": [
+      {
+        "w": "quit",
+        "zh": "辭職",
+        "pos": "v."
+      },
+      {
+        "w": "abroad",
+        "zh": "在國外",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0105",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:jobs",
+    "tag_zh": "職業與工作",
+    "passage": null,
+    "group_id": null,
+    "stem": "Engineers ____ bridges and roads for the city government.",
+    "options": [
+      "design",
+      "draw",
+      "paint",
+      "print"
+    ],
+    "answer": 0,
+    "explain_zh": "工程師「設計」橋樑道路用 design。draw 只是畫線條圖、paint 是上色、print 是列印，都無法表達整體規劃設計。",
+    "vocab": [
+      {
+        "w": "design",
+        "zh": "設計",
+        "pos": "v."
+      },
+      {
+        "w": "bridge",
+        "zh": "橋",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0106",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please turn off the tap to ____ water while you brush your teeth.",
+    "options": [
+      "waste",
+      "save",
+      "spend",
+      "cost"
+    ],
+    "answer": 1,
+    "explain_zh": "關水龍頭是為了「節省」水，用 save。waste 是浪費，語意相反；spend 和 cost 用在花錢或花時間，不用在水資源。",
+    "vocab": [
+      {
+        "w": "save",
+        "zh": "節省",
+        "pos": "v."
+      },
+      {
+        "w": "tap",
+        "zh": "水龍頭",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0107",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Air ____ in big cities gets worse when there are too many cars.",
+    "options": [
+      "problem",
+      "weather",
+      "pollution",
+      "smoke"
+    ],
+    "answer": 2,
+    "explain_zh": "車多造成的是 air pollution（空氣污染）。problem 太籠統且沒有 air problem 的說法；weather 是天氣；smoke 是煙，不能代表整體污染。",
+    "vocab": [
+      {
+        "w": "pollution",
+        "zh": "污染",
+        "pos": "n."
+      },
+      {
+        "w": "worse",
+        "zh": "更糟的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0108",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "We should use both ____ of the paper so that fewer trees are cut down.",
+    "options": [
+      "parts",
+      "pages",
+      "faces",
+      "sides"
+    ],
+    "answer": 3,
+    "explain_zh": "紙張的正反「兩面」是 both sides。parts 是部分、pages 是書頁、faces 是臉，都不能指紙的正反面。",
+    "vocab": [
+      {
+        "w": "side",
+        "zh": "面",
+        "pos": "n."
+      },
+      {
+        "w": "cut down",
+        "zh": "砍倒",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0109",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "The river behind my school is ____ because a factory poured dirty water in it.",
+    "options": [
+      "polluted",
+      "polite",
+      "popular",
+      "pollution"
+    ],
+    "answer": 0,
+    "explain_zh": "被污染的河用形容詞 polluted。polite 是有禮貌的、popular 是受歡迎的，語意不合；pollution 是名詞，不能放在 be 動詞後面當形容詞用。",
+    "vocab": [
+      {
+        "w": "polluted",
+        "zh": "受污染的",
+        "pos": "adj."
+      },
+      {
+        "w": "factory",
+        "zh": "工廠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0110",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Wind and sunlight are clean ____ that will never run out.",
+    "options": [
+      "engine",
+      "energy",
+      "metal",
+      "gas"
+    ],
+    "answer": 1,
+    "explain_zh": "風力和陽光屬於乾淨的 energy（能源）。engine 是引擎、metal 是金屬、gas 是瓦斯或汽油，都不是「用不完的乾淨能源」。",
+    "vocab": [
+      {
+        "w": "energy",
+        "zh": "能源",
+        "pos": "n."
+      },
+      {
+        "w": "run out",
+        "zh": "用完",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0111",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "The earth is getting ____ every year because of global warming.",
+    "options": [
+      "colder",
+      "cleaner",
+      "warmer",
+      "wetter"
+    ],
+    "answer": 2,
+    "explain_zh": "全球暖化會讓地球變得更「溫暖」，用 warmer。colder 語意相反；cleaner 和 wetter 與暖化的結果無關。",
+    "vocab": [
+      {
+        "w": "global warming",
+        "zh": "全球暖化",
+        "pos": "n. phr."
+      },
+      {
+        "w": "warm",
+        "zh": "溫暖的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0112",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Taiwan often has ____ because it sits where two plates meet.",
+    "options": [
+      "typhoons",
+      "sunshine",
+      "rainbows",
+      "earthquakes"
+    ],
+    "answer": 3,
+    "explain_zh": "板塊交界造成的是 earthquakes（地震）。typhoons 是海上形成的颱風，和板塊無關；sunshine 和 rainbows 更不是板塊造成的。",
+    "vocab": [
+      {
+        "w": "earthquake",
+        "zh": "地震",
+        "pos": "n."
+      },
+      {
+        "w": "plate",
+        "zh": "板塊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0113",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "If the ice at the poles keeps melting, the sea level will ____ .",
+    "options": [
+      "rise",
+      "raise",
+      "lift",
+      "grow"
+    ],
+    "answer": 0,
+    "explain_zh": "海平面自己上升用不及物動詞 rise。raise 和 lift 都是及物動詞，後面一定要有受詞；grow 是生長，不用在水位。",
+    "vocab": [
+      {
+        "w": "rise",
+        "zh": "上升",
+        "pos": "v."
+      },
+      {
+        "w": "melt",
+        "zh": "融化",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0114",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Climate change will ____ the life of many animals in the ocean.",
+    "options": [
+      "effect",
+      "affect",
+      "effort",
+      "afford"
+    ],
+    "answer": 1,
+    "explain_zh": "動詞「影響」用 affect。effect 是名詞「影響、效果」；effort 是努力；afford 是負擔得起，詞性或語意都不對。口訣：affect 是動詞、effect 是名詞。",
+    "vocab": [
+      {
+        "w": "affect",
+        "zh": "影響",
+        "pos": "v."
+      },
+      {
+        "w": "climate change",
+        "zh": "氣候變遷",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0115",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Days of heavy rain caused a serious ____, and many houses were under water.",
+    "options": [
+      "drought",
+      "fire",
+      "flood",
+      "wind"
+    ],
+    "answer": 2,
+    "explain_zh": "大雨造成淹水是 flood（水災）。drought 是乾旱，原因相反；fire 是火災；wind 是風，都不會讓房子泡在水裡。",
+    "vocab": [
+      {
+        "w": "flood",
+        "zh": "水災",
+        "pos": "n."
+      },
+      {
+        "w": "serious",
+        "zh": "嚴重的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0116",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Riding a bike to school can ____ the amount of air pollution.",
+    "options": [
+      "increase",
+      "produce",
+      "protect",
+      "reduce"
+    ],
+    "answer": 3,
+    "explain_zh": "騎腳踏車可以「減少」空氣污染，用 reduce。increase 是增加、produce 是製造，效果相反；protect 是保護，後面不會接 pollution。",
+    "vocab": [
+      {
+        "w": "reduce",
+        "zh": "減少",
+        "pos": "v."
+      },
+      {
+        "w": "amount",
+        "zh": "量",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0117",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many kinds of animals are in ____ because people keep cutting down forests.",
+    "options": [
+      "danger",
+      "dangerous",
+      "safety",
+      "health"
+    ],
+    "answer": 0,
+    "explain_zh": "in danger 是「處於危險中」的固定片語，介系詞後面要接名詞 danger。dangerous 是形容詞；in safety 和 in health 語意相反或不通。",
+    "vocab": [
+      {
+        "w": "in danger",
+        "zh": "有危險",
+        "pos": "phr."
+      },
+      {
+        "w": "forest",
+        "zh": "森林",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0118",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Months without rain caused a serious ____ in central Taiwan last year.",
+    "options": [
+      "flood",
+      "drought",
+      "storm",
+      "shower"
+    ],
+    "answer": 1,
+    "explain_zh": "好幾個月不下雨是 drought（乾旱）。flood 是淹水、storm 是暴風雨、shower 是陣雨，都需要有水或降雨，和「沒下雨」矛盾。",
+    "vocab": [
+      {
+        "w": "drought",
+        "zh": "乾旱",
+        "pos": "n."
+      },
+      {
+        "w": "central",
+        "zh": "中部的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0119",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "Glass bottles can be ____ many times instead of being thrown away.",
+    "options": [
+      "refused",
+      "returned",
+      "reused",
+      "removed"
+    ],
+    "answer": 2,
+    "explain_zh": "重複使用是 reuse（re- 再 + use 使用）。refused 是拒絕、returned 是歸還、removed 是移走，三個字開頭相近但意思完全不同。",
+    "vocab": [
+      {
+        "w": "reuse",
+        "zh": "重複使用",
+        "pos": "v."
+      },
+      {
+        "w": "throw away",
+        "zh": "丟掉",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0120",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然與環境",
+    "passage": null,
+    "group_id": null,
+    "stem": "One bad ____ of cutting down trees is that the soil washes away in the rain.",
+    "options": [
+      "affect",
+      "effort",
+      "offer",
+      "effect"
+    ],
+    "answer": 3,
+    "explain_zh": "這裡前面有 One bad，需要一個名詞「影響、後果」，所以用 effect。affect 是動詞；effort 是努力；offer 是提供，都不合。記住 have an effect on = affect。",
+    "vocab": [
+      {
+        "w": "effect",
+        "zh": "影響（名詞）",
+        "pos": "n."
+      },
+      {
+        "w": "soil",
+        "zh": "土壤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0121",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "We eat moon cakes and pomelos during the Mid-Autumn ____ every year.",
+    "options": [
+      "Festival",
+      "Party",
+      "Vacation",
+      "Weekend"
+    ],
+    "answer": 0,
+    "explain_zh": "中秋節的英文是 the Mid-Autumn Festival，節慶要用 Festival。Party 是派對、Vacation 是長假、Weekend 是週末，都不是節日的名稱。",
+    "vocab": [
+      {
+        "w": "festival",
+        "zh": "節慶",
+        "pos": "n."
+      },
+      {
+        "w": "moon cake",
+        "zh": "月餅",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0122",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "People give red ____ with money inside to children on Chinese New Year.",
+    "options": [
+      "letters",
+      "envelopes",
+      "boxes",
+      "cards"
+    ],
+    "answer": 1,
+    "explain_zh": "紅包的英文是 red envelopes。letters 是信、boxes 是盒子、cards 是卡片，裡面裝錢送小孩的習俗只用 envelope。",
+    "vocab": [
+      {
+        "w": "red envelope",
+        "zh": "紅包",
+        "pos": "n. phr."
+      },
+      {
+        "w": "money",
+        "zh": "錢",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0123",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Every June we watch exciting dragon boat ____ on the river.",
+    "options": [
+      "matches",
+      "plays",
+      "races",
+      "shows"
+    ],
+    "answer": 2,
+    "explain_zh": "划龍舟比快是 race（競賽）。match 多用在球類比賽、play 是戲劇、show 是表演，都不能表達划船競速。",
+    "vocab": [
+      {
+        "w": "race",
+        "zh": "競賽",
+        "pos": "n."
+      },
+      {
+        "w": "dragon boat",
+        "zh": "龍舟",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0124",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many families ____ sticky rice dumplings together before the Dragon Boat Festival.",
+    "options": [
+      "do",
+      "take",
+      "get",
+      "make"
+    ],
+    "answer": 3,
+    "explain_zh": "包粽子是「製作食物」，用 make。do 不能接食物表示製作；take 是拿；get 是得到，都沒有動手做的意思。",
+    "vocab": [
+      {
+        "w": "make",
+        "zh": "製作",
+        "pos": "v."
+      },
+      {
+        "w": "sticky rice dumpling",
+        "zh": "粽子",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0125",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ the house with red lanterns before the Lantern Festival.",
+    "options": [
+      "decorate",
+      "clean",
+      "build",
+      "paint"
+    ],
+    "answer": 0,
+    "explain_zh": "用燈籠「裝飾」房子是 decorate...with...。clean 是打掃、build 是建造、paint 是油漆，都不能和 with red lanterns 搭配。",
+    "vocab": [
+      {
+        "w": "decorate",
+        "zh": "裝飾",
+        "pos": "v."
+      },
+      {
+        "w": "lantern",
+        "zh": "燈籠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0126",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "On Teachers' Day, students send cards to show their ____ to teachers.",
+    "options": [
+      "interest",
+      "respect",
+      "promise",
+      "secret"
+    ],
+    "answer": 1,
+    "explain_zh": "對老師表達的是 respect（敬意）。interest 是興趣、promise 是承諾、secret 是秘密，都不是教師節要表達的心意。",
+    "vocab": [
+      {
+        "w": "respect",
+        "zh": "敬意",
+        "pos": "n."
+      },
+      {
+        "w": "Teachers' Day",
+        "zh": "教師節",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0127",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The whole family gets ____ for a big dinner on Chinese New Year's Eve.",
+    "options": [
+      "along",
+      "away",
+      "together",
+      "over"
+    ],
+    "answer": 2,
+    "explain_zh": "get together 是「團聚」。get along 是相處融洽，後面不接 for a big dinner；get away 是離開；get over 是克服，語意都不合。",
+    "vocab": [
+      {
+        "w": "get together",
+        "zh": "團聚",
+        "pos": "v. phr."
+      },
+      {
+        "w": "New Year's Eve",
+        "zh": "除夕",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0128",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Ghost Month is an old Taiwanese ____ that many families still follow.",
+    "options": [
+      "traffic",
+      "treasure",
+      "translation",
+      "tradition"
+    ],
+    "answer": 3,
+    "explain_zh": "代代相傳的習俗是 tradition（傳統）。traffic 是交通、treasure 是寶藏、translation 是翻譯，這些字開頭相近但意思完全不同。",
+    "vocab": [
+      {
+        "w": "tradition",
+        "zh": "傳統",
+        "pos": "n."
+      },
+      {
+        "w": "follow",
+        "zh": "遵循",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0129",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Night markets are an important part of Taiwan's food ____ .",
+    "options": [
+      "culture",
+      "nature",
+      "future",
+      "picture"
+    ],
+    "answer": 0,
+    "explain_zh": "飲食文化是 food culture。nature 是大自然、future 是未來、picture 是圖片，都不能表示一個地方的生活習慣與文化。",
+    "vocab": [
+      {
+        "w": "culture",
+        "zh": "文化",
+        "pos": "n."
+      },
+      {
+        "w": "night market",
+        "zh": "夜市",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0130",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "In Pingxi, people ____ sky lanterns into the air to make a wish.",
+    "options": [
+      "relax",
+      "release",
+      "replace",
+      "repeat"
+    ],
+    "answer": 1,
+    "explain_zh": "把天燈放上天空用 release（放開、施放）。relax 是放鬆、replace 是取代、repeat 是重複，只是字首相同。",
+    "vocab": [
+      {
+        "w": "release",
+        "zh": "施放",
+        "pos": "v."
+      },
+      {
+        "w": "make a wish",
+        "zh": "許願",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0131",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Thousands of people joined the ____ on the main street during the temple fair.",
+    "options": [
+      "parent",
+      "pattern",
+      "parade",
+      "package"
+    ],
+    "answer": 2,
+    "explain_zh": "廟會時走上街頭的隊伍是 parade（遊行）。parent 是父母、pattern 是圖案、package 是包裹，拼法接近但意思不同。",
+    "vocab": [
+      {
+        "w": "parade",
+        "zh": "遊行",
+        "pos": "n."
+      },
+      {
+        "w": "temple fair",
+        "zh": "廟會",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0132",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "In Taiwan, it is ____ to point at someone with your chopsticks at dinner.",
+    "options": [
+      "polite",
+      "friendly",
+      "helpful",
+      "rude"
+    ],
+    "answer": 3,
+    "explain_zh": "用筷子指人是失禮的，用 rude（無禮的）。polite、friendly、helpful 都是正面的形容詞，和餐桌禮儀的禁忌相反。",
+    "vocab": [
+      {
+        "w": "rude",
+        "zh": "無禮的",
+        "pos": "adj."
+      },
+      {
+        "w": "chopsticks",
+        "zh": "筷子",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0133",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Chinese New Year is the longest ____ of the year for workers in Taiwan.",
+    "options": [
+      "holiday",
+      "weekday",
+      "afternoon",
+      "season"
+    ],
+    "answer": 0,
+    "explain_zh": "過年是最長的 holiday（假期）。weekday 是平日上班日、afternoon 是下午、season 是季節，都不能表示放假的日子。",
+    "vocab": [
+      {
+        "w": "holiday",
+        "zh": "假期",
+        "pos": "n."
+      },
+      {
+        "w": "worker",
+        "zh": "上班族",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0134",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many foreigners come to Taiwan to ____ the Lantern Festival themselves.",
+    "options": [
+      "expect",
+      "experience",
+      "explain",
+      "express"
+    ],
+    "answer": 1,
+    "explain_zh": "親自參與並感受節慶用 experience（體驗）。expect 是期待、explain 是解釋、express 是表達，都不是親身參與的意思。",
+    "vocab": [
+      {
+        "w": "experience",
+        "zh": "體驗",
+        "pos": "v."
+      },
+      {
+        "w": "foreigner",
+        "zh": "外國人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0135",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:festival-culture",
+    "tag_zh": "節慶與文化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Moon cakes are a ____ food that people give to friends and family.",
+    "options": [
+      "traditionally",
+      "tradition",
+      "traditional",
+      "translation"
+    ],
+    "answer": 2,
+    "explain_zh": "修飾名詞 food 要用形容詞 traditional。traditionally 是副詞；tradition 是名詞；translation 是翻譯，詞性或意思都不對。",
+    "vocab": [
+      {
+        "w": "traditional",
+        "zh": "傳統的",
+        "pos": "adj."
+      },
+      {
+        "w": "give",
+        "zh": "贈送",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0136",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "My best friend is very ____; she always tells funny jokes in class.",
+    "options": [
+      "serious",
+      "shy",
+      "silent",
+      "humorous"
+    ],
+    "answer": 3,
+    "explain_zh": "常說笑話的人是 humorous（幽默的）。serious 是嚴肅的、shy 是害羞的、silent 是沉默的，都和愛講笑話相反。",
+    "vocab": [
+      {
+        "w": "humorous",
+        "zh": "幽默的",
+        "pos": "adj."
+      },
+      {
+        "w": "joke",
+        "zh": "笑話",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0137",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "He is too ____ to talk to strangers, so he stays beside his mother.",
+    "options": [
+      "shy",
+      "brave",
+      "outgoing",
+      "friendly"
+    ],
+    "answer": 0,
+    "explain_zh": "不敢跟陌生人說話是 shy（害羞的）。brave 是勇敢的、outgoing 是外向的、friendly 是友善的，都不會躲在媽媽旁邊。",
+    "vocab": [
+      {
+        "w": "shy",
+        "zh": "害羞的",
+        "pos": "adj."
+      },
+      {
+        "w": "stranger",
+        "zh": "陌生人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0138",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "My grandfather is still very ____; he walks five kilometers every day.",
+    "options": [
+      "quiet",
+      "active",
+      "tired",
+      "sleepy"
+    ],
+    "answer": 1,
+    "explain_zh": "每天走五公里代表很有活力，用 active（好動的、活躍的）。quiet 是安靜、tired 是疲倦、sleepy 是想睡，都和天天走路運動不合。",
+    "vocab": [
+      {
+        "w": "active",
+        "zh": "活躍的",
+        "pos": "adj."
+      },
+      {
+        "w": "kilometer",
+        "zh": "公里",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0139",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "She is ____ in Japanese comics and reads two of them every week.",
+    "options": [
+      "interesting",
+      "interest",
+      "interested",
+      "interestingly"
+    ],
+    "answer": 2,
+    "explain_zh": "形容「人」對某事有興趣用 be interested in。interesting 是形容事物本身有趣；interest 是名詞；interestingly 是副詞，都不能接在 is 後面表達這個意思。",
+    "vocab": [
+      {
+        "w": "be interested in",
+        "zh": "對…有興趣",
+        "pos": "phr."
+      },
+      {
+        "w": "comic",
+        "zh": "漫畫",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0140",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "That speaker is really ____; half of the students fell asleep.",
+    "options": [
+      "bored",
+      "bore",
+      "boringly",
+      "boring"
+    ],
+    "answer": 3,
+    "explain_zh": "主詞是「演講者」，形容他令人覺得無聊要用 -ing 的 boring。bored 是人自己感到無聊；bore 是動詞；boringly 是副詞，不能當補語。",
+    "vocab": [
+      {
+        "w": "boring",
+        "zh": "令人無聊的",
+        "pos": "adj."
+      },
+      {
+        "w": "fall asleep",
+        "zh": "睡著",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0141",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "Amy is very ____; she never says bad words to any of her classmates.",
+    "options": [
+      "kind",
+      "kindly",
+      "kindness",
+      "unkind"
+    ],
+    "answer": 0,
+    "explain_zh": "be 動詞後面接形容詞 kind（親切的）。kindly 是副詞；kindness 是名詞；unkind 是「不友善的」，語意相反。",
+    "vocab": [
+      {
+        "w": "kind",
+        "zh": "親切的",
+        "pos": "adj."
+      },
+      {
+        "w": "classmate",
+        "zh": "同學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0142",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "Tom is so ____ that he shares his lunch with anyone who forgets theirs.",
+    "options": [
+      "selfish",
+      "generous",
+      "silly",
+      "strict"
+    ],
+    "answer": 1,
+    "explain_zh": "願意分享午餐是 generous（慷慨的）。selfish 是自私的，語意相反；silly 是傻的；strict 是嚴格的，都不能形容樂於分享。",
+    "vocab": [
+      {
+        "w": "generous",
+        "zh": "慷慨的",
+        "pos": "adj."
+      },
+      {
+        "w": "share",
+        "zh": "分享",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0143",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "Don't be so ____; you should share these toys with your little brother.",
+    "options": [
+      "generous",
+      "careful",
+      "selfish",
+      "honest"
+    ],
+    "answer": 2,
+    "explain_zh": "不肯分享是 selfish（自私的）。generous 是慷慨的，就不需要被提醒了；careful 是小心的；honest 是誠實的，和分享玩具無關。",
+    "vocab": [
+      {
+        "w": "selfish",
+        "zh": "自私的",
+        "pos": "adj."
+      },
+      {
+        "w": "toy",
+        "zh": "玩具",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0144",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "I felt ____ with the same game after playing it for five hours.",
+    "options": [
+      "boring",
+      "bore",
+      "boringly",
+      "bored"
+    ],
+    "answer": 3,
+    "explain_zh": "主詞是「我」這個人，覺得膩了要用 -ed 的 bored，並和介系詞 with 搭配。boring 是形容事物；bore 是動詞；boringly 是副詞。",
+    "vocab": [
+      {
+        "w": "bored",
+        "zh": "感到厭煩的",
+        "pos": "adj."
+      },
+      {
+        "w": "game",
+        "zh": "遊戲",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0145",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "My aunt is very ____; she talks to everyone she meets in the building.",
+    "options": [
+      "outgoing",
+      "shy",
+      "quiet",
+      "serious"
+    ],
+    "answer": 0,
+    "explain_zh": "見人就聊天是 outgoing（外向的）。shy 是害羞、quiet 是安靜、serious 是嚴肅，都和主動跟大家講話矛盾。",
+    "vocab": [
+      {
+        "w": "outgoing",
+        "zh": "外向的",
+        "pos": "adj."
+      },
+      {
+        "w": "building",
+        "zh": "大樓",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0146",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "He is a ____ boy; he jumped into the water to save the little girl.",
+    "options": [
+      "afraid",
+      "brave",
+      "weak",
+      "nervous"
+    ],
+    "answer": 1,
+    "explain_zh": "跳水救人要 brave（勇敢的）。afraid 是害怕的、weak 是虛弱的、nervous 是緊張的，都做不到這個行為。",
+    "vocab": [
+      {
+        "w": "brave",
+        "zh": "勇敢的",
+        "pos": "adj."
+      },
+      {
+        "w": "jump into",
+        "zh": "跳進",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0147",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "My math teacher is quite ____; she gets angry if we are one minute late.",
+    "options": [
+      "kind",
+      "patient",
+      "strict",
+      "funny"
+    ],
+    "answer": 2,
+    "explain_zh": "遲到一分鐘就生氣代表很 strict（嚴格的）。kind 是親切、patient 是有耐心、funny 是有趣，都和馬上生氣不合。",
+    "vocab": [
+      {
+        "w": "strict",
+        "zh": "嚴格的",
+        "pos": "adj."
+      },
+      {
+        "w": "angry",
+        "zh": "生氣的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0148",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "The nurse is so ____ with the old patients that she never gets angry.",
+    "options": [
+      "patients",
+      "patience",
+      "impatient",
+      "patient"
+    ],
+    "answer": 3,
+    "explain_zh": "be patient with somebody 表示「對某人有耐心」，這裡需要形容詞 patient。patients 是名詞複數「病人」；patience 是名詞「耐心」；impatient 是「沒耐心的」，語意相反。",
+    "vocab": [
+      {
+        "w": "patient",
+        "zh": "有耐心的",
+        "pos": "adj."
+      },
+      {
+        "w": "patience",
+        "zh": "耐心",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0149",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "My little cousin is so ____; he chats with everyone he meets on the bus.",
+    "options": [
+      "talkative",
+      "talking",
+      "talked",
+      "silent"
+    ],
+    "answer": 0,
+    "explain_zh": "話很多的人用形容詞 talkative。talking 和 talked 是動詞變化，不能放在 so 後面當補語；silent 是沉默的，語意相反。",
+    "vocab": [
+      {
+        "w": "talkative",
+        "zh": "健談的",
+        "pos": "adj."
+      },
+      {
+        "w": "chat",
+        "zh": "聊天",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JV2-0150",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "passage": null,
+    "group_id": null,
+    "stem": "She looks very ____ today because she got a letter from her best friend.",
+    "options": [
+      "pleasant",
+      "pleased",
+      "please",
+      "pleasing"
+    ],
+    "answer": 1,
+    "explain_zh": "形容「人」感到高興用 pleased。pleasant 是形容天氣、環境或事物令人愉快；please 是動詞「使高興」；pleasing 也是形容事物，都不適合直接形容人的感受。",
+    "vocab": [
+      {
+        "w": "pleased",
+        "zh": "感到高興的",
+        "pos": "adj."
+      },
+      {
+        "w": "letter",
+        "zh": "信",
+        "pos": "n."
+      }
+    ]
+  }
+]

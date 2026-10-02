@@ -1,0 +1,1213 @@
+[
+ {
+  "id": "PX-CAP104-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "轉折連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "This dress is pretty, ____ it does not look good on me.",
+  "options": [
+   "so",
+   "but",
+   "or",
+   "if"
+  ],
+  "answer": 1,
+  "explain_zh": "前後語意相反（漂亮／不適合我），轉折連接詞要用 but。so 表結果、or 表選擇、if 表條件，語意都不合。記住：but 前後常是對比或出乎意料的結果。",
+  "vocab": [
+   {
+    "w": "pretty",
+    "zh": "漂亮的",
+    "pos": "adj."
+   },
+   {
+    "w": "but",
+    "zh": "但是",
+    "pos": "conj."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-questions",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Getting up early on a cold morning is not easy, ____?",
+  "options": [
+   "are you",
+   "do you",
+   "does it",
+   "is it"
+  ],
+  "answer": 3,
+  "explain_zh": "動名詞片語（Getting up early...）當主詞時視為第三人稱單數 it。前句是 is not（be動詞否定），附加問句要用「be動詞肯定＋主詞」，故選 is it。",
+  "vocab": [
+   {
+    "w": "get up",
+    "zh": "起床",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:time-clauses",
+  "tag_zh": "時間副詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tonight I'll stay at the office until I ____ the work.",
+  "options": [
+   "finish",
+   "am finishing",
+   "finished",
+   "will finish"
+  ],
+  "answer": 0,
+  "explain_zh": "until 引導的時間副詞子句，要用現在式代替未來式，故選 finish。will finish 是常見錯誤，因為子句不能再用未來式。",
+  "vocab": [
+   {
+    "w": "until",
+    "zh": "直到",
+    "pos": "conj."
+   },
+   {
+    "w": "finish",
+    "zh": "完成",
+    "pos": "v."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:collocation",
+  "tag_zh": "spend 搭配",
+  "passage": null,
+  "group_id": null,
+  "stem": "Charles ____ a day in the department store looking for a hat for his wife.",
+  "options": [
+   "cost",
+   "spent",
+   "saw",
+   "made"
+  ],
+  "answer": 1,
+  "explain_zh": "spend + 時間 + V-ing 表示「花時間做某事」，故選 spent。cost 的主詞通常是物品或費用而非人，saw、made 語意不合。",
+  "vocab": [
+   {
+    "w": "spend",
+    "zh": "花費（時間／金錢）",
+    "pos": "v."
+   },
+   {
+    "w": "department store",
+    "zh": "百貨公司",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:present-perfect",
+  "tag_zh": "現在完成式",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tom ____ ten pounds over the past two months. He looks much thinner now.",
+  "options": [
+   "loses",
+   "has lost",
+   "will lose",
+   "was losing"
+  ],
+  "answer": 1,
+  "explain_zh": "over the past two months 表示從過去持續到現在的一段時間，要用現在完成式 has lost。loses 是現在簡單式、will lose 是未來式，都與句意不符。",
+  "vocab": [
+   {
+    "w": "lose weight",
+    "zh": "變瘦、減重",
+    "pos": "phr."
+   },
+   {
+    "w": "thinner",
+    "zh": "更瘦的",
+    "pos": "adj."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:pronouns",
+  "tag_zh": "another/other 用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "I don't like any one of these three watches. Can you show me ____ one?",
+  "options": [
+   "the others",
+   "other",
+   "either",
+   "another"
+  ],
+  "answer": 3,
+  "explain_zh": "三支錶都不喜歡，要求「再看一支其他的」，用 another one（不特定的另一個）。the others 需先有特定範圍、either 只能用在兩者之間，都不合適。",
+  "vocab": [
+   {
+    "w": "another",
+    "zh": "另一個（不特定）",
+    "pos": "pron."
+   },
+   {
+    "w": "watch",
+    "zh": "手錶",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "人格特質形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The waiters are asked to be ____; they should always smile and remember to say \"Welcome\" and \"Please.\"",
+  "options": [
+   "honest",
+   "polite",
+   "special",
+   "strong"
+  ],
+  "answer": 1,
+  "explain_zh": "後文描述服務生要微笑、說歡迎光臨與請，這些都是有禮貌的表現，故選 polite。honest（誠實）、special、strong 都與服務態度無關。",
+  "vocab": [
+   {
+    "w": "polite",
+    "zh": "有禮貌的",
+    "pos": "adj."
+   },
+   {
+    "w": "waiter",
+    "zh": "服務生",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:simple-past",
+  "tag_zh": "過去式敘事",
+  "passage": null,
+  "group_id": null,
+  "stem": "On Children's Day, Ms. Lee, a famous storybook writer, ____ to Molly's Bookstore to talk about her new book. My two little kids just can't wait to see her.",
+  "options": [
+   "came",
+   "was coming",
+   "has come",
+   "is going to come"
+  ],
+  "answer": 3,
+  "explain_zh": "後句 My two little kids just can't wait to see her 表示孩子們「迫不及待」，顯示作家來訪是尚未發生、令人期待的未來事件，故用 be going to 表示已排定的未來計畫 is going to come 最自然；came（已發生的過去式）、was coming、has come 皆與「尚未發生、令人期待」的語境不合。",
+  "vocab": [
+   {
+    "w": "storybook writer",
+    "zh": "童書作家",
+    "pos": "n."
+   },
+   {
+    "w": "can't wait",
+    "zh": "迫不及待",
+    "pos": "phr."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:emphatic-do",
+  "tag_zh": "助動詞 do 代動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "No one thought James would appear at Katie's party. So when he ____, everyone was surprised and could not believe their eyes.",
+  "options": [
+   "would",
+   "was",
+   "had",
+   "did"
+  ],
+  "answer": 3,
+  "explain_zh": "did 在此代替前面提到的 appear（出現），強調「他真的出現了」，故選 did。was、had 不能單獨代替 appear 這個動作動詞。",
+  "vocab": [
+   {
+    "w": "appear",
+    "zh": "出現",
+    "pos": "v."
+   },
+   {
+    "w": "surprised",
+    "zh": "驚訝的",
+    "pos": "adj."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-perfect",
+  "tag_zh": "過去完成式",
+  "passage": null,
+  "group_id": null,
+  "stem": "B&J Café ____ known as the tallest building in town. However, O&G Restaurant became the tallest building in 2010.",
+  "options": [
+   "has been",
+   "had been",
+   "is",
+   "would be"
+  ],
+  "answer": 1,
+  "explain_zh": "2010年被O&G超越之前，B&J「已經」是最高的建築，這個「更早的過去」要用過去完成式 had been。has been（現在完成式）和 is（現在式）都與後面「2010年被超越」的時序矛盾。",
+  "vocab": [
+   {
+    "w": "tallest",
+    "zh": "最高的",
+    "pos": "adj."
+   },
+   {
+    "w": "however",
+    "zh": "然而",
+    "pos": "adv."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句省略關係代名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Actor David Piper became tired of talking about the movie ____ after he was interviewed about it many times.",
+  "options": [
+   "he is famous",
+   "that he is famous",
+   "that is famous for",
+   "he is famous for"
+  ],
+  "answer": 3,
+  "explain_zh": "完整關係子句應是 the movie that he is famous for，介系詞 for 的受詞關係代名詞 that 可以省略，故選 he is famous for。選項C的 that is famous for 缺主詞、不合文法。",
+  "vocab": [
+   {
+    "w": "be famous for",
+    "zh": "以…聞名",
+    "pos": "phr."
+   },
+   {
+    "w": "interview",
+    "zh": "訪問",
+    "pos": "v."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "From: Lisa Clyne (lisaclyne@mail.com)\nTo: Mary Faber (maryfaber@mail.com)\nDate: Thursday, April 2, 2015\nSubject: Welcome\nDear Mary,\nUncle Billy and I are excited about your visit.\nThe weather has ____ these days.  Like today, it was sunny in the morning, but rained heavily at noon.  So we've ____: If the weather is nice, I'm going to take you to Smith Farm.  They're having a special horse show this week.  I'm sure you'll like it.  And ____.  We can go shopping at Mimi's Department Store; there we can walk around without getting wet.  Rain or shine, we hope you will have a good time here.\nSee you tomorrow at the train station at 9:00 a.m.\nLove,\nAunt Lisa",
+  "group_id": "PX-CAP104-G01",
+  "stem": "The weather has ____ these days.",
+  "options": [
+   "got better",
+   "been warm",
+   "changed a lot",
+   "become wet and cold"
+  ],
+  "answer": 2,
+  "explain_zh": "後句舉例「今天早上晴天，中午卻下大雨」，說明天氣多變，故選 changed a lot。got better、been warm 都只描述單一狀態，與「多變」不符。",
+  "vocab": [
+   {
+    "w": "weather",
+    "zh": "天氣",
+    "pos": "n."
+   },
+   {
+    "w": "rain heavily",
+    "zh": "下大雨",
+    "pos": "phr."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "From: Lisa Clyne (lisaclyne@mail.com)\nTo: Mary Faber (maryfaber@mail.com)\nDate: Thursday, April 2, 2015\nSubject: Welcome\nDear Mary,\nUncle Billy and I are excited about your visit.\nThe weather has ____ these days.  Like today, it was sunny in the morning, but rained heavily at noon.  So we've ____: If the weather is nice, I'm going to take you to Smith Farm.  They're having a special horse show this week.  I'm sure you'll like it.  And ____.  We can go shopping at Mimi's Department Store; there we can walk around without getting wet.  Rain or shine, we hope you will have a good time here.\nSee you tomorrow at the train station at 9:00 a.m.\nLove,\nAunt Lisa",
+  "group_id": "PX-CAP104-G01",
+  "stem": "So we've ____: If the weather is nice, I'm going to take you to Smith Farm.",
+  "options": [
+   "made two plans for you",
+   "worried about your trip to here",
+   "decided to take you to a nice place",
+   "prepared everything you've asked for"
+  ],
+  "answer": 0,
+  "explain_zh": "接下來分別描述晴天去農場、雨天去逛街兩種安排，正好對應「訂了兩個計畫」，故選 A。其餘選項都只提到一種情境，無法涵蓋後文兩個方案。",
+  "vocab": [
+   {
+    "w": "plan",
+    "zh": "計畫",
+    "pos": "n."
+   },
+   {
+    "w": "horse show",
+    "zh": "馬術表演",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "From: Lisa Clyne (lisaclyne@mail.com)\nTo: Mary Faber (maryfaber@mail.com)\nDate: Thursday, April 2, 2015\nSubject: Welcome\nDear Mary,\nUncle Billy and I are excited about your visit.\nThe weather has ____ these days.  Like today, it was sunny in the morning, but rained heavily at noon.  So we've ____: If the weather is nice, I'm going to take you to Smith Farm.  They're having a special horse show this week.  I'm sure you'll like it.  And ____.  We can go shopping at Mimi's Department Store; there we can walk around without getting wet.  Rain or shine, we hope you will have a good time here.\nSee you tomorrow at the train station at 9:00 a.m.\nLove,\nAunt Lisa",
+  "group_id": "PX-CAP104-G01",
+  "stem": "And ____.  We can go shopping at Mimi's Department Store; there we can walk around without getting wet.",
+  "options": [
+   "we'll agree with each other",
+   "don't worry if it rains",
+   "we all love animals very much",
+   "don't forget to check the weather"
+  ],
+  "answer": 1,
+  "explain_zh": "後句提供雨天的備案（逛街不會淋濕），呼應「別擔心下雨」，故選 B。其餘選項與雨天備案的邏輯銜接不上。",
+  "vocab": [
+   {
+    "w": "get wet",
+    "zh": "淋濕",
+    "pos": "phr."
+   },
+   {
+    "w": "department store",
+    "zh": "百貨公司",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-015",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "NEWS HUNT   Kieran Hardy 11/07/2013\nFor years, we thought our Earth was the only blue dot up there.  Now another has been found.  Its name is HD189773b.  HD189773b is an exoplanet, a planet outside our Solar System, and is one of the nearest exoplanets to Earth.  Even so, ____.  Here's why: It is 63 light years away.  That means it is 370,440,000,000,000 miles from us.  Even if we fly at 3,500 miles an hour, it will take more than 12 million years to get there.\n____: It is much bigger, it is made of gas and it is burning hot.  In heat as great as 1,000°C, life is not possible.  What is worse, it rains glass.  If 1,000°C does not kill you, glass rain will.\nEven so, finding this blue giant ____.  It is the first time that we have been able to see the color of an exoplanet.  The color of a planet gives us ideas about what is happening on it.  While we have a long way to go before we find a new planet to live on, finding a blue dot is a good start.",
+  "group_id": "PX-CAP104-G02",
+  "stem": "Even so, ____.  Here's why: It is 63 light years away.  That means it is 370,440,000,000,000 miles from us.",
+  "options": [
+   "we cannot really call it a neighbor",
+   "we do not know anything about it yet",
+   "we might not be able to stay there for long",
+   "we are not sure how long it takes to get there"
+  ],
+  "answer": 0,
+  "explain_zh": "後文說明距離遠到要飛1200萬年才能到達，因此稱不上是「鄰居」，故選 A。選項D與後文矛盾，因為文章已明確說出所需時間。",
+  "vocab": [
+   {
+    "w": "exoplanet",
+    "zh": "系外行星",
+    "pos": "n."
+   },
+   {
+    "w": "light year",
+    "zh": "光年",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "NEWS HUNT   Kieran Hardy 11/07/2013\nFor years, we thought our Earth was the only blue dot up there.  Now another has been found.  Its name is HD189773b.  HD189773b is an exoplanet, a planet outside our Solar System, and is one of the nearest exoplanets to Earth.  Even so, ____.  Here's why: It is 63 light years away.  That means it is 370,440,000,000,000 miles from us.  Even if we fly at 3,500 miles an hour, it will take more than 12 million years to get there.\n____: It is much bigger, it is made of gas and it is burning hot.  In heat as great as 1,000°C, life is not possible.  What is worse, it rains glass.  If 1,000°C does not kill you, glass rain will.\nEven so, finding this blue giant ____.  It is the first time that we have been able to see the color of an exoplanet.  The color of a planet gives us ideas about what is happening on it.  While we have a long way to go before we find a new planet to live on, finding a blue dot is a good start.",
+  "group_id": "PX-CAP104-G02",
+  "stem": "____: It is much bigger, it is made of gas and it is burning hot.",
+  "options": [
+   "What's more, it is not water that makes HD189773b look blue",
+   "With its blue color, HD189773b could be a second Earth for us",
+   "Except for its blue color, HD189773b is nothing like our home planet",
+   "Because of its blue color, people guess there might be life on HD189773b"
+  ],
+  "answer": 2,
+  "explain_zh": "後面列出這顆行星和地球截然不同的特徵（更大、氣體構成、灼熱），呼應「除了藍色外，完全不像地球」，故選 C。",
+  "vocab": [
+   {
+    "w": "gas",
+    "zh": "氣體",
+    "pos": "n."
+   },
+   {
+    "w": "burning hot",
+    "zh": "灼熱的",
+    "pos": "adj."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "NEWS HUNT   Kieran Hardy 11/07/2013\nFor years, we thought our Earth was the only blue dot up there.  Now another has been found.  Its name is HD189773b.  HD189773b is an exoplanet, a planet outside our Solar System, and is one of the nearest exoplanets to Earth.  Even so, ____.  Here's why: It is 63 light years away.  That means it is 370,440,000,000,000 miles from us.  Even if we fly at 3,500 miles an hour, it will take more than 12 million years to get there.\n____: It is much bigger, it is made of gas and it is burning hot.  In heat as great as 1,000°C, life is not possible.  What is worse, it rains glass.  If 1,000°C does not kill you, glass rain will.\nEven so, finding this blue giant ____.  It is the first time that we have been able to see the color of an exoplanet.  The color of a planet gives us ideas about what is happening on it.  While we have a long way to go before we find a new planet to live on, finding a blue dot is a good start.",
+  "group_id": "PX-CAP104-G02",
+  "stem": "Even so, finding this blue giant ____.  It is the first time that we have been able to see the color of an exoplanet.",
+  "options": [
+   "gives us hope",
+   "took hard work",
+   "has changed our life",
+   "helps us know more about Earth"
+  ],
+  "answer": 0,
+  "explain_zh": "能首次看到系外行星的顏色是重要突破，為尋找新家園帶來希望，故選 gives us hope。其餘選項與「第一次」的重大意義不符。",
+  "vocab": [
+   {
+    "w": "giant",
+    "zh": "巨大的（星體）",
+    "pos": "n."
+   },
+   {
+    "w": "color",
+    "zh": "顏色",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail-calculation",
+  "tag_zh": "價目表細節計算",
+  "passage": "Last Saturday, Ginny and her friends had lunch at Howell's Bowl.  Here is their order, and the poster of the restaurant.\n[Order] Table 2, 3 person(s), Order taken by Fred, 12:30 12/23\n1 pumpkin pie 220 x2 | 2 cheese cake 120 x1 | 3 milk shake (chocolate)(large) 200 x2 | 4 milk shake (banana) 110 x1 | 5 chicken sandwich 100 x1 | 6 chicken sandwich (with cheese) 120 x1 | 7 cola (no ice) 65 x1 | 8 orange juice (no ice) 90 x1 | 9 grape juice 95 x1\nTotal Price: $1,540\n[Poster] Howell's Bowl / Open Hours: 11:30 am - 11:30 pm, Tues. to Sun. / Joy Time: 20% off, 2:00-4:00 pm and 9:30-11:30 pm",
+  "group_id": "PX-CAP104-G03",
+  "stem": "On the order list, Ginny ordered a sandwich with cheese, a fruit milk shake, and a fruit drink without ice.  How much did she have to pay for her food?",
+  "options": [
+   "$300.",
+   "$320.",
+   "$385.",
+   "$410."
+  ],
+  "answer": 1,
+  "explain_zh": "起司三明治120元＋香蕉口味奶昔（屬水果口味）110元＋去冰柳橙汁（屬水果飲料）90元，總共320元，故選 B。巧克力奶昔不是水果口味，不能算入。",
+  "vocab": [
+   {
+    "w": "sandwich",
+    "zh": "三明治",
+    "pos": "n."
+   },
+   {
+    "w": "without ice",
+    "zh": "去冰",
+    "pos": "phr."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-019",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "對照兩則資訊",
+  "passage": "Last Saturday, Ginny and her friends had lunch at Howell's Bowl.  Here is their order, and the poster of the restaurant.\n[Order] Table 2, 3 person(s), Order taken by Fred, 12:30 12/23\n1 pumpkin pie 220 x2 | 2 cheese cake 120 x1 | 3 milk shake (chocolate)(large) 200 x2 | 4 milk shake (banana) 110 x1 | 5 chicken sandwich 100 x1 | 6 chicken sandwich (with cheese) 120 x1 | 7 cola (no ice) 65 x1 | 8 orange juice (no ice) 90 x1 | 9 grape juice 95 x1\nTotal Price: $1,540\n[Poster] Howell's Bowl / Open Hours: 11:30 am - 11:30 pm, Tues. to Sun. / Joy Time: 20% off, 2:00-4:00 pm and 9:30-11:30 pm",
+  "group_id": "PX-CAP104-G03",
+  "stem": "Ginny wants to go to Howell's Bowl again during Joy Time.  When will she possibly go there?",
+  "options": [
+   "11:00 a.m. on Wednesday.",
+   "2:30 p.m. on Monday.",
+   "8:00 p.m. on Friday.",
+   "10:00 p.m. on Thursday."
+  ],
+  "answer": 3,
+  "explain_zh": "餐廳週一公休（Tues. to Sun.營業），優惠時段是下午2-4點與晚上9:30-11:30，只有週四晚上10點同時符合營業與優惠時段，故選 D。",
+  "vocab": [
+   {
+    "w": "joy time",
+    "zh": "優惠時段",
+    "pos": "n."
+   },
+   {
+    "w": "closed",
+    "zh": "公休、不營業",
+    "pos": "adj."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-020",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨推論",
+  "passage": "Below is how four students answered their teacher's question in class.\nLily: I like shopping and talking to people.  I think I can learn how to do business.  Maybe selling clothes is a good business for me.\nRyan: My hobbies are playing computer games and making friends online.  We often share our funny stories by e-mail.  I guess I will learn more about computers and make super-smart computer programs.\nBill: My parents have kept lots of pets since I was little.  We've experienced many things together, good and bad, happy and sad.  Those stories have always stayed in my mind.  One day, I will share them with people by drawing and writing books.\nAnna: Though my mom and two sisters are all doctors, I'm sure I will stay as far away from a hospital as I can.  I hate being sick, and I'm afraid of seeing sick people looking weak and sad.  I'll keep strong by playing my favorite sport, tennis, every day.  One day I'll join the national team and be another Lu Yen-Hsun.",
+  "group_id": "PX-CAP104-G04",
+  "stem": "What question did the teacher most likely ask in class?",
+  "options": [
+   "\"What do you want to do in the future?\"",
+   "\"What's your plan for the coming vacation?\"",
+   "\"What do you like to talk about with your friends?\"",
+   "\"What's your favorite thing to do with your family?\""
+  ],
+  "answer": 0,
+  "explain_zh": "四位學生都在描述未來想從事的職業或志向（做生意、寫程式、寫書、當選手），故老師的問題是關於未來規劃，選 A。",
+  "vocab": [
+   {
+    "w": "business",
+    "zh": "生意、事業",
+    "pos": "n."
+   },
+   {
+    "w": "hobby",
+    "zh": "嗜好",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-021",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節配對",
+  "passage": "Below is how four students answered their teacher's question in class.\nLily: I like shopping and talking to people.  I think I can learn how to do business.  Maybe selling clothes is a good business for me.\nRyan: My hobbies are playing computer games and making friends online.  We often share our funny stories by e-mail.  I guess I will learn more about computers and make super-smart computer programs.\nBill: My parents have kept lots of pets since I was little.  We've experienced many things together, good and bad, happy and sad.  Those stories have always stayed in my mind.  One day, I will share them with people by drawing and writing books.\nAnna: Though my mom and two sisters are all doctors, I'm sure I will stay as far away from a hospital as I can.  I hate being sick, and I'm afraid of seeing sick people looking weak and sad.  I'll keep strong by playing my favorite sport, tennis, every day.  One day I'll join the national team and be another Lu Yen-Hsun.",
+  "group_id": "PX-CAP104-G04",
+  "stem": "What do we know from the reading?",
+  "options": [
+   "Lily is good at making clothes.",
+   "One of Bill's parents is an animal doctor.",
+   "Ryan enjoys meeting people on the Internet.",
+   "Anna was once very sick and stayed in the hospital for a long time."
+  ],
+  "answer": 2,
+  "explain_zh": "Ryan 提到 making friends online、share stories by e-mail，符合在網路上認識朋友，故選 C。Lily 只是想賣衣服、並非擅長做衣服，A錯誤。",
+  "vocab": [
+   {
+    "w": "make friends online",
+    "zh": "在網路上交朋友",
+    "pos": "phr."
+   },
+   {
+    "w": "program",
+    "zh": "程式",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-022",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "passage": "Below is how four students answered their teacher's question in class.\nLily: I like shopping and talking to people.  I think I can learn how to do business.  Maybe selling clothes is a good business for me.\nRyan: My hobbies are playing computer games and making friends online.  We often share our funny stories by e-mail.  I guess I will learn more about computers and make super-smart computer programs.\nBill: My parents have kept lots of pets since I was little.  We've experienced many things together, good and bad, happy and sad.  Those stories have always stayed in my mind.  One day, I will share them with people by drawing and writing books.\nAnna: Though my mom and two sisters are all doctors, I'm sure I will stay as far away from a hospital as I can.  I hate being sick, and I'm afraid of seeing sick people looking weak and sad.  I'll keep strong by playing my favorite sport, tennis, every day.  One day I'll join the national team and be another Lu Yen-Hsun.",
+  "group_id": "PX-CAP104-G04",
+  "stem": "What does them mean?",
+  "options": [
+   "Pets.",
+   "Books.",
+   "Stories.",
+   "Parents."
+  ],
+  "answer": 2,
+  "explain_zh": "them 指前一句的 those stories（那些和寵物一起經歷的回憶），Bill 想把這些故事寫成書分享，故選 C（Stories）。",
+  "vocab": [
+   {
+    "w": "experience",
+    "zh": "經歷",
+    "pos": "v./n."
+   },
+   {
+    "w": "stay in mind",
+    "zh": "留在記憶中",
+    "pos": "phr."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-023",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "passage": "Here is the preface of Nick Foster's new book Married to Food.\nMy mother was lousy at cooking.  To her, cooking was more like an exciting experiment.  You put some of this and some of that in a pot, and you wait and see what will happen.  \"No experiments, no experiences.\" is what she would say when her experiment did not turn out good, and I heard that a lot.\nMy father was a good cook, and he loved to cook, too.  He often said that he got my mother to marry him with a table of delicious food, not with a beautiful ring.  \"A family needs only one good cook,\" he said.\nNow I am a cook myself.  And I have my own restaurant.  I learned how to cook from my father, of course.  From him, I learned the art of cooking.  But I did learn one thing from my mother.  It's her famous saying: \"No experiments, no experiences.\"",
+  "group_id": "PX-CAP104-G05",
+  "stem": "What does it mean when someone is lousy at something?",
+  "options": [
+   "They are famous for it.",
+   "They cannot do it well.",
+   "They think it is important.",
+   "They are not interested in it."
+  ],
+  "answer": 1,
+  "explain_zh": "後文說媽媽做菜像做實驗、常常「沒成功」，可知 lousy at 表「不擅長」，故選 B。與「有名」「感興趣」都無關。",
+  "vocab": [
+   {
+    "w": "lousy at",
+    "zh": "不擅長於",
+    "pos": "phr."
+   },
+   {
+    "w": "experiment",
+    "zh": "實驗",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-024",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "段落主旨",
+  "passage": "Here is the preface of Nick Foster's new book Married to Food.\nMy mother was lousy at cooking.  To her, cooking was more like an exciting experiment.  You put some of this and some of that in a pot, and you wait and see what will happen.  \"No experiments, no experiences.\" is what she would say when her experiment did not turn out good, and I heard that a lot.\nMy father was a good cook, and he loved to cook, too.  He often said that he got my mother to marry him with a table of delicious food, not with a beautiful ring.  \"A family needs only one good cook,\" he said.\nNow I am a cook myself.  And I have my own restaurant.  I learned how to cook from my father, of course.  From him, I learned the art of cooking.  But I did learn one thing from my mother.  It's her famous saying: \"No experiments, no experiences.\"",
+  "group_id": "PX-CAP104-G05",
+  "stem": "What can we learn from the preface?",
+  "options": [
+   "How Foster started his own restaurant.",
+   "When Foster's father married Foster's mother.",
+   "What Foster's mother taught him about cooking.",
+   "How Foster learned the art of cooking from his father."
+  ],
+  "answer": 2,
+  "explain_zh": "文末以 But（轉折）點出全文真正的重點：But I did learn one thing from my mother. It's her famous saying: \"No experiments, no experiences.\" 顯示作者從母親身上學到的烹飪態度（勇於嘗試、不怕失敗）才是本篇前言強調的重點，故選 C；D「從父親學會烹飪藝術」雖文中也提及，但只是鋪陳，並非前言想凸顯的重點，屬於次要訊息。",
+  "vocab": [
+   {
+    "w": "cook",
+    "zh": "廚師；煮",
+    "pos": "n./v."
+   },
+   {
+    "w": "the art of cooking",
+    "zh": "烹飪的藝術",
+    "pos": "phr."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-025",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:process-simulation",
+  "tag_zh": "依規則推演步驟",
+  "passage": "Here are the rules for a game called \"Trip to Dreamland.\"\n1. Each player begins at START.\n2. In each turn, first take one of the four cards (moon / snow / sun / drop) to decide how many spaces to move: moon for one space, snow for two spaces, sun for three spaces, and drop for four spaces.  Then follow the words next to the space you arrive at, if there is an instruction there.\n3. The first one who gets to Dreamland wins the game.\nBoard path in order from START: START(0) -> Magic Fruit(1, move to Candy House) -> Dark Hill(2, go back to START) -> Candy House(3) -> Golden Bear(4, move to Light Church) -> Light Church(5) -> Lion King(6, move back 3 spaces) -> Gate Watchdog(7, stop and rest 2 turns) -> Dreamland(8, win).",
+  "group_id": "PX-CAP104-G06",
+  "stem": "Below are the cards which four kids have taken since they began the game.  Who has won the game? (A) Anna: moon->sun->drop. (B) Kate: snow->sun->drop. (C) Billy: moon->snow->sun. (D) Ivan: snow->drop->moon.",
+  "options": [
+   "Anna: moon, sun, drop",
+   "Kate: snow, sun, drop",
+   "Billy: moon, snow, sun",
+   "Ivan: snow, drop, moon"
+  ],
+  "answer": 2,
+  "explain_zh": "依序推算：Billy抽moon(1格)到Magic Fruit，被送到Candy House(第3格)；再抽snow(2格)到Light Church(第5格)；再抽sun(3格)恰好走到Dreamland(第8格)獲勝。其他三人推算後都停在Gate Watchdog或Candy House，未能抵達終點。",
+  "vocab": [
+   {
+    "w": "turn",
+    "zh": "回合",
+    "pos": "n."
+   },
+   {
+    "w": "space",
+    "zh": "格子、步",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-026",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "規則推論",
+  "passage": "Here are the rules for a game called \"Trip to Dreamland.\"\n1. Each player begins at START.\n2. In each turn, first take one of the four cards (moon / snow / sun / drop) to decide how many spaces to move: moon for one space, snow for two spaces, sun for three spaces, and drop for four spaces.  Then follow the words next to the space you arrive at, if there is an instruction there.\n3. The first one who gets to Dreamland wins the game.\nBoard path in order from START: START(0) -> Magic Fruit(1, move to Candy House) -> Dark Hill(2, go back to START) -> Candy House(3) -> Golden Bear(4, move to Light Church) -> Light Church(5) -> Lion King(6, move back 3 spaces) -> Gate Watchdog(7, stop and rest 2 turns) -> Dreamland(8, win).",
+  "group_id": "PX-CAP104-G06",
+  "stem": "What can we learn about the game?",
+  "options": [
+   "One can never begin his turn from Lion King.",
+   "The cards can be used to decide who goes first.",
+   "One can never get to Light Church at the first turn.",
+   "The cards can be used to decide where to start the game."
+  ],
+  "answer": 0,
+  "explain_zh": "Lion King 上標示「Move back 3 spaces」，代表玩家一停在 Lion King 就會立刻被指示退回 3 格，不會停留在該格開始下一回合，故「永遠不可能從 Lion King 開始回合」為真，選 A；卡片只用來決定每回合走幾步，並未提到能決定誰先開始（B錯）；抽到 drop（4格）即可從 START 直接經 Golden Bear 被送到 Light Church，故第一回合就能到達 Light Church（C錯）；所有玩家都固定從 START 出發，卡片並不能決定起點（D錯）。",
+  "vocab": [
+   {
+    "w": "decide",
+    "zh": "決定",
+    "pos": "v."
+   },
+   {
+    "w": "rule",
+    "zh": "規則",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-027",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "代名詞/主旨指涉",
+  "passage": "The idea may hit you once or twice a year.  You come home on a hot summer day, hoping to have a cool bath, and find out there is no water.  Then you see how important water is in your everyday life.  However, in many parts of the world, water is not just about one's everyday needs.\nIn countries like Tanzania, water is hard to get, and the job of collecting water falls on women's shoulders.  Girls are often kept home from school to collect water while their brothers stay at school studying.  Studies show Tanzanian girls who live 15 minutes from clean water spend 12% more time at school than those who live an hour away.  More time spent collecting water means less time for learning.  For these girls, \"Knowledge is power\" is not just words; it is a sad fact in real life.  With less time spent at school, their chances of getting well-paid jobs are small, and they often have no voice in important matters, like who to marry.  These girls are often married into poor families.  They have little money or knowledge to take care of their children, who often end up dying young.  For the baby girls who are lucky enough to live, their life may still center around \"water,\" just like it did for their mothers.",
+  "group_id": "PX-CAP104-G07",
+  "stem": "What does \"The idea\" mean in the reading?",
+  "options": [
+   "Water is important in one's everyday life.",
+   "Water is not just about one's everyday needs.",
+   "It is nice to have a cool bath on a hot summer day.",
+   "We should not take a bath when there is little water."
+  ],
+  "answer": 0,
+  "explain_zh": "前段描述停水才驚覺水的重要，呼應 The idea＝水在生活中很重要，故選 A。C選項只是舉例情境，不是整句要表達的重點。",
+  "vocab": [
+   {
+    "w": "hit",
+    "zh": "（念頭）浮現",
+    "pos": "v."
+   },
+   {
+    "w": "everyday needs",
+    "zh": "日常所需",
+    "pos": "phr."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-028",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "passage": "The idea may hit you once or twice a year.  You come home on a hot summer day, hoping to have a cool bath, and find out there is no water.  Then you see how important water is in your everyday life.  However, in many parts of the world, water is not just about one's everyday needs.\nIn countries like Tanzania, water is hard to get, and the job of collecting water falls on women's shoulders.  Girls are often kept home from school to collect water while their brothers stay at school studying.  Studies show Tanzanian girls who live 15 minutes from clean water spend 12% more time at school than those who live an hour away.  More time spent collecting water means less time for learning.  For these girls, \"Knowledge is power\" is not just words; it is a sad fact in real life.  With less time spent at school, their chances of getting well-paid jobs are small, and they often have no voice in important matters, like who to marry.  These girls are often married into poor families.  They have little money or knowledge to take care of their children, who often end up dying young.  For the baby girls who are lucky enough to live, their life may still center around \"water,\" just like it did for their mothers.",
+  "group_id": "PX-CAP104-G07",
+  "stem": "What is the reading mostly about?",
+  "options": [
+   "Why it is important to save water.",
+   "How water may give a country power.",
+   "How water may play a part in one's future.",
+   "Why it is hard to get water in poor countries."
+  ],
+  "answer": 2,
+  "explain_zh": "全文說明缺水如何影響坦尚尼亞女孩的就學、薪資和婚姻，也就是影響她們的「未來」，故選 C。",
+  "vocab": [
+   {
+    "w": "collect water",
+    "zh": "取水",
+    "pos": "phr."
+   },
+   {
+    "w": "well-paid",
+    "zh": "高薪的",
+    "pos": "adj."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-029",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "數據細節理解",
+  "passage": "The idea may hit you once or twice a year.  You come home on a hot summer day, hoping to have a cool bath, and find out there is no water.  Then you see how important water is in your everyday life.  However, in many parts of the world, water is not just about one's everyday needs.\nIn countries like Tanzania, water is hard to get, and the job of collecting water falls on women's shoulders.  Girls are often kept home from school to collect water while their brothers stay at school studying.  Studies show Tanzanian girls who live 15 minutes from clean water spend 12% more time at school than those who live an hour away.  More time spent collecting water means less time for learning.  For these girls, \"Knowledge is power\" is not just words; it is a sad fact in real life.  With less time spent at school, their chances of getting well-paid jobs are small, and they often have no voice in important matters, like who to marry.  These girls are often married into poor families.  They have little money or knowledge to take care of their children, who often end up dying young.  For the baby girls who are lucky enough to live, their life may still center around \"water,\" just like it did for their mothers.",
+  "group_id": "PX-CAP104-G07",
+  "stem": "What can we know from the reading?",
+  "options": [
+   "Children in poor countries die from drinking dirty water every day.",
+   "Girls who spend little time at school have a harder life when they grow up.",
+   "Girls in countries like Tanzania are often paid less for the same job than the boys are.",
+   "Children from poor families are often kept from school to take care of younger children."
+  ],
+  "answer": 1,
+  "explain_zh": "文中說少讀書會使女孩找不到好工作、無法自主決定婚姻，符合「少讀書的女孩長大後生活更辛苦」，故選 B。",
+  "vocab": [
+   {
+    "w": "chance",
+    "zh": "機會",
+    "pos": "n."
+   },
+   {
+    "w": "marry",
+    "zh": "嫁、娶",
+    "pos": "v."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-030",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "對話細節推論",
+  "passage": "(At Liz's birthday party)\nAmber: Don't tell me you didn't go to Garden House.\nKeith: Why would I go there?\nAmber: For Liz's birthday cake!  I left you a voice message this morning!\nKeith: But you said Matt would go to the bakery!  And why did you come here without me?  I was waiting outside your apartment for an hour!\nAmber: No!  I said I'd have lunch with Matt, and we'd come straight here from the restaurant.  So I asked you to help get the cake after work.\nKeith: No, you did not!  And why didn't you answer my calls?\nAmber: My cellphone is dead!  I said in the message that you could call Matt's number if you wanted to find me.  Now please tell me you did bring the gift we got for Liz.\nKeith: What gift?  I'm sure you didn't say anything about a gift in the message.\nAmber: I told you that yesterday!",
+  "group_id": "PX-CAP104-G08",
+  "stem": "What is Garden House?",
+  "options": [
+   "A bakery.",
+   "A gift shop.",
+   "A flower shop.",
+   "An apartment."
+  ],
+  "answer": 0,
+  "explain_zh": "對話提到去 Garden House 是為了拿 Liz 的生日蛋糕（birthday cake），可知它是一間麵包店，故選 A。",
+  "vocab": [
+   {
+    "w": "bakery",
+    "zh": "麵包店",
+    "pos": "n."
+   },
+   {
+    "w": "voice message",
+    "zh": "語音留言",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-031",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "對話推論",
+  "passage": "(At Liz's birthday party)\nAmber: Don't tell me you didn't go to Garden House.\nKeith: Why would I go there?\nAmber: For Liz's birthday cake!  I left you a voice message this morning!\nKeith: But you said Matt would go to the bakery!  And why did you come here without me?  I was waiting outside your apartment for an hour!\nAmber: No!  I said I'd have lunch with Matt, and we'd come straight here from the restaurant.  So I asked you to help get the cake after work.\nKeith: No, you did not!  And why didn't you answer my calls?\nAmber: My cellphone is dead!  I said in the message that you could call Matt's number if you wanted to find me.  Now please tell me you did bring the gift we got for Liz.\nKeith: What gift?  I'm sure you didn't say anything about a gift in the message.\nAmber: I told you that yesterday!",
+  "group_id": "PX-CAP104-G08",
+  "stem": "What can we learn about Keith?",
+  "options": [
+   "He forgot to meet Amber and Matt for lunch.",
+   "He did not know how to get to Amber's apartment.",
+   "He called Amber without knowing her phone was not working.",
+   "He did not know Amber left him a voice message this morning."
+  ],
+  "answer": 2,
+  "explain_zh": "Keith 一直打電話找 Amber卻找不到人，卻不知道她手機沒電、留言根本沒收到，故選 C。",
+  "vocab": [
+   {
+    "w": "answer the call",
+    "zh": "接電話",
+    "pos": "phr."
+   },
+   {
+    "w": "dead",
+    "zh": "（電池）沒電的",
+    "pos": "adj."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-032",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "訊息內容推論",
+  "passage": "(At Liz's birthday party)\nAmber: Don't tell me you didn't go to Garden House.\nKeith: Why would I go there?\nAmber: For Liz's birthday cake!  I left you a voice message this morning!\nKeith: But you said Matt would go to the bakery!  And why did you come here without me?  I was waiting outside your apartment for an hour!\nAmber: No!  I said I'd have lunch with Matt, and we'd come straight here from the restaurant.  So I asked you to help get the cake after work.\nKeith: No, you did not!  And why didn't you answer my calls?\nAmber: My cellphone is dead!  I said in the message that you could call Matt's number if you wanted to find me.  Now please tell me you did bring the gift we got for Liz.\nKeith: What gift?  I'm sure you didn't say anything about a gift in the message.\nAmber: I told you that yesterday!",
+  "group_id": "PX-CAP104-G08",
+  "stem": "Which sentence was most likely part of the message that Amber left Keith this morning?",
+  "options": [
+   "\"Matt and I will go to the party after lunch.\"",
+   "\"Don't forget to buy a birthday gift for Liz.\"",
+   "\"You can go straight to the party from your office.\"",
+   "\"I need to talk to you about the party this weekend.\""
+  ],
+  "answer": 0,
+  "explain_zh": "對話中Amber解釋她會和Matt吃完午餐後直接到派對會場，這正是留言內容的重點，故選 A。",
+  "vocab": [
+   {
+    "w": "straight",
+    "zh": "直接地",
+    "pos": "adv."
+   },
+   {
+    "w": "message",
+    "zh": "留言、訊息",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-033",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:theme",
+  "tag_zh": "故事寓意",
+  "passage": "Froggie was a frog who never remembered where he had been.  His biggest dream was to find the best pond to swim freely without worrying about water snakes.  One day, Froggie hopped to a kitchen and jumped into a pot full of hot water.  Froggie felt the burning heat and hurried out of the water as fast as his legs could carry him.  \"I almost died there!\" Froggie thought.\nA few days later, Froggie went back to the same kitchen, totally forgetting he had been there.  He again hopped into the same pot.  This time, the water inside was cool.  He looked around and thought, \"There's no water snake trying to eat me and I can have this place all to myself!\"  At that moment, Froggie knew it was his dream pond.  What he didn't know was that the water was warming up over a low heat.\nAfter thirty minutes of swimming, Froggie felt the water was warmer but he thought of this as a nice surprise.  \"This sure is the best place for swimming.  I get to have a hot bath, too.\"  During his comfortable bath, the water kept getting warmer and warmer.  Froggie was so comfortable that he fell asleep.  And he never woke up.",
+  "group_id": "PX-CAP104-G09",
+  "stem": "What lesson can we learn from Froggie's story?",
+  "options": [
+   "Life is too short; one should live it to the fullest.",
+   "Those who use their time well will win in the end.",
+   "People are blind to problems that slowly get worse over time.",
+   "It is difficult to give up old habits, but easy to pick up new ones."
+  ],
+  "answer": 2,
+  "explain_zh": "水溫慢慢升高，青蛙卻渾然不覺、最後喪命，寓意是人常常忽略慢慢惡化的危機，故選 C。",
+  "vocab": [
+   {
+    "w": "hop",
+    "zh": "（青蛙般）跳",
+    "pos": "v."
+   },
+   {
+    "w": "pot",
+    "zh": "鍋子",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-034",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "故事細節",
+  "passage": "Froggie was a frog who never remembered where he had been.  His biggest dream was to find the best pond to swim freely without worrying about water snakes.  One day, Froggie hopped to a kitchen and jumped into a pot full of hot water.  Froggie felt the burning heat and hurried out of the water as fast as his legs could carry him.  \"I almost died there!\" Froggie thought.\nA few days later, Froggie went back to the same kitchen, totally forgetting he had been there.  He again hopped into the same pot.  This time, the water inside was cool.  He looked around and thought, \"There's no water snake trying to eat me and I can have this place all to myself!\"  At that moment, Froggie knew it was his dream pond.  What he didn't know was that the water was warming up over a low heat.\nAfter thirty minutes of swimming, Froggie felt the water was warmer but he thought of this as a nice surprise.  \"This sure is the best place for swimming.  I get to have a hot bath, too.\"  During his comfortable bath, the water kept getting warmer and warmer.  Froggie was so comfortable that he fell asleep.  And he never woke up.",
+  "group_id": "PX-CAP104-G09",
+  "stem": "What do we know about Froggie?",
+  "options": [
+   "He learned to share what he liked with others.",
+   "He thought what he had hoped for became real.",
+   "He once almost lost a dear friend to a water snake.",
+   "He wanted to go back to the same pot for a hot bath."
+  ],
+  "answer": 1,
+  "explain_zh": "青蛙誤以為找到了夢想中沒有水蛇、可以獨享的池塘，正好符合「他以為美夢成真」，故選 B。",
+  "vocab": [
+   {
+    "w": "dream pond",
+    "zh": "夢想中的池塘",
+    "pos": "phr."
+   },
+   {
+    "w": "comfortable",
+    "zh": "舒適的",
+    "pos": "adj."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-035",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "passage": "These years churches are in a calamitous state.  To start with, the number of church-goers is dropping sharply (see Figure 1).  Many say they do not belong to any church, and those who do go less often than they used to.  Going to church appears less and less on people's to-do list.  Another worrying fact is that fewer and fewer young people go to church, which leads to an older church (see Figure 2).\nAnd there is also the problem with money.  Keeping a church door open is not cheap.  Fewer people going to church means little money coming in.  This makes it harder to keep a church open.\nWhen the time comes for a church to close, there is little to do but to sell it.  Churches that were lucky enough to find a buyer were put to other uses.  Some were changed into restaurants or school gyms, and some even became nightclubs, for example.  Churches that had little luck were knocked down in the end.\nJust like a store that keeps losing business needs to think of ways to save itself, it is perhaps time for the church to try to win people's hearts back and play an important part in people's lives again.  This is not something that one can simply pray to get an answer to.\nFigure 1 (percentage of church-goers by year): 1980:11%, 1985:10.2%, 1990:9.6%, 1995:8.5%, 2000:7.6%, 2005:6.8%, 2010:6%, 2015:5.2%, 2020:4.4%.\nFigure 2 (average age of church-goers by year): 1980:37, 1985:39, 1990:40, 1995:41, 2000:43, 2005:47, 2010:51, 2015:54, 2020:56.",
+  "group_id": "PX-CAP104-G10",
+  "stem": "What does it mean when someone is in a calamitous state?",
+  "options": [
+   "They have serious trouble.",
+   "They try to change themselves.",
+   "They are looking for a second chance.",
+   "They lost interest in the outside world."
+  ],
+  "answer": 0,
+  "explain_zh": "後文列出信徒銳減、經費不足、教堂被拆等困境，calamitous state 指陷入嚴重困境，故選 A。",
+  "vocab": [
+   {
+    "w": "calamitous",
+    "zh": "悲慘的、嚴重的",
+    "pos": "adj."
+   },
+   {
+    "w": "church-goer",
+    "zh": "上教堂的人",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-036",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:chart-data",
+  "tag_zh": "圖表數據判讀",
+  "passage": "These years churches are in a calamitous state.  To start with, the number of church-goers is dropping sharply (see Figure 1).  Many say they do not belong to any church, and those who do go less often than they used to.  Going to church appears less and less on people's to-do list.  Another worrying fact is that fewer and fewer young people go to church, which leads to an older church (see Figure 2).\nAnd there is also the problem with money.  Keeping a church door open is not cheap.  Fewer people going to church means little money coming in.  This makes it harder to keep a church open.\nWhen the time comes for a church to close, there is little to do but to sell it.  Churches that were lucky enough to find a buyer were put to other uses.  Some were changed into restaurants or school gyms, and some even became nightclubs, for example.  Churches that had little luck were knocked down in the end.\nJust like a store that keeps losing business needs to think of ways to save itself, it is perhaps time for the church to try to win people's hearts back and play an important part in people's lives again.  This is not something that one can simply pray to get an answer to.\nFigure 1 (percentage of church-goers by year): 1980:11%, 1985:10.2%, 1990:9.6%, 1995:8.5%, 2000:7.6%, 2005:6.8%, 2010:6%, 2015:5.2%, 2020:4.4%.\nFigure 2 (average age of church-goers by year): 1980:37, 1985:39, 1990:40, 1995:41, 2000:43, 2005:47, 2010:51, 2015:54, 2020:56.",
+  "group_id": "PX-CAP104-G10",
+  "stem": "What can we learn about the church-goers from the report?",
+  "options": [
+   "Between 1980 and 2005, few church-goers were younger than 50.",
+   "In 2010, only 6% of church-goers were younger than 50 years old.",
+   "In 2020, the percentage (%) of church-goers drops to lower than half that in 1980.",
+   "Between 1980 and 2020, the rising number of old church-goers has led to an old church."
+  ],
+  "answer": 2,
+  "explain_zh": "根據Figure1，1980年上教堂人數比例是11%，2020年降到4.4%，已經低於1980年的一半，故選 C。B選項把Figure1的百分比誤解為年齡分布。",
+  "vocab": [
+   {
+    "w": "percentage",
+    "zh": "百分比",
+    "pos": "n."
+   },
+   {
+    "w": "average age",
+    "zh": "平均年齡",
+    "pos": "phr."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-037",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "passage": "These years churches are in a calamitous state.  To start with, the number of church-goers is dropping sharply (see Figure 1).  Many say they do not belong to any church, and those who do go less often than they used to.  Going to church appears less and less on people's to-do list.  Another worrying fact is that fewer and fewer young people go to church, which leads to an older church (see Figure 2).\nAnd there is also the problem with money.  Keeping a church door open is not cheap.  Fewer people going to church means little money coming in.  This makes it harder to keep a church open.\nWhen the time comes for a church to close, there is little to do but to sell it.  Churches that were lucky enough to find a buyer were put to other uses.  Some were changed into restaurants or school gyms, and some even became nightclubs, for example.  Churches that had little luck were knocked down in the end.\nJust like a store that keeps losing business needs to think of ways to save itself, it is perhaps time for the church to try to win people's hearts back and play an important part in people's lives again.  This is not something that one can simply pray to get an answer to.\nFigure 1 (percentage of church-goers by year): 1980:11%, 1985:10.2%, 1990:9.6%, 1995:8.5%, 2000:7.6%, 2005:6.8%, 2010:6%, 2015:5.2%, 2020:4.4%.\nFigure 2 (average age of church-goers by year): 1980:37, 1985:39, 1990:40, 1995:41, 2000:43, 2005:47, 2010:51, 2015:54, 2020:56.",
+  "group_id": "PX-CAP104-G10",
+  "stem": "What is talked about in the report?",
+  "options": [
+   "Where the church's money goes.",
+   "How people decide to join a church.",
+   "What happens to churches that are closed.",
+   "Why people have stopped going to church."
+  ],
+  "answer": 2,
+  "explain_zh": "文章第三段整段說明教堂關閉後被改建成餐廳、體育館或拆除，故選 C。",
+  "vocab": [
+   {
+    "w": "knock down",
+    "zh": "拆除",
+    "pos": "phr.v."
+   },
+   {
+    "w": "nightclub",
+    "zh": "夜店",
+    "pos": "n."
+   }
+  ],
+  "source": "104會考"
+ },
+ {
+  "id": "PX-CAP104-038",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:critical-thinking",
+  "tag_zh": "文章論點評估",
+  "passage": "These years churches are in a calamitous state.  To start with, the number of church-goers is dropping sharply (see Figure 1).  Many say they do not belong to any church, and those who do go less often than they used to.  Going to church appears less and less on people's to-do list.  Another worrying fact is that fewer and fewer young people go to church, which leads to an older church (see Figure 2).\nAnd there is also the problem with money.  Keeping a church door open is not cheap.  Fewer people going to church means little money coming in.  This makes it harder to keep a church open.\nWhen the time comes for a church to close, there is little to do but to sell it.  Churches that were lucky enough to find a buyer were put to other uses.  Some were changed into restaurants or school gyms, and some even became nightclubs, for example.  Churches that had little luck were knocked down in the end.\nJust like a store that keeps losing business needs to think of ways to save itself, it is perhaps time for the church to try to win people's hearts back and play an important part in people's lives again.  This is not something that one can simply pray to get an answer to.\nFigure 1 (percentage of church-goers by year): 1980:11%, 1985:10.2%, 1990:9.6%, 1995:8.5%, 2000:7.6%, 2005:6.8%, 2010:6%, 2015:5.2%, 2020:4.4%.\nFigure 2 (average age of church-goers by year): 1980:37, 1985:39, 1990:40, 1995:41, 2000:43, 2005:47, 2010:51, 2015:54, 2020:56.",
+  "group_id": "PX-CAP104-G10",
+  "stem": "Below are four findings from other reports.  Which does NOT agree with the idea of the report?",
+  "options": [
+   "\"Reports show over 90% of church-goers go to church because their fathers do... a 90% chance that their children won't go to church.\"",
+   "\"Between 2003 and 2010, over 1,000 new churches were built... during the same years, more than 2,000 were closed.\"",
+   "\"33% of the people interviewed say they never go to church and another 33% say they used to.  Only 15% go to church at least once a month.\"",
+   "\"Of the 15 countries in the report, the percentage of church-goers in some countries, like Denmark, is lower than 10%; in others, like Poland, the percentage is higher than 70%.\""
+  ],
+  "answer": 3,
+  "explain_zh": "報告主軸是教堂逐漸衰落，但D選項顯示部分國家（如波蘭）上教堂比例仍高達七成，與此論點不符，故選 D。其餘選項都支持教堂式微的說法。",
+  "vocab": [
+   {
+    "w": "finding",
+    "zh": "研究發現",
+    "pos": "n."
+   },
+   {
+    "w": "agree with",
+    "zh": "同意、符合",
+    "pos": "phr."
+   }
+  ],
+  "source": "104會考"
+ }
+]

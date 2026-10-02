@@ -1,0 +1,3902 @@
+[
+ {
+  "id": "HV2-0001",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The report highlights the ____ of renewable energy in reducing national carbon emissions over the next decade.",
+  "options": [
+   "significance",
+   "significant",
+   "significantly",
+   "signifying"
+  ],
+  "answer": 0,
+  "explain_zh": "the 後面又接 of，空格要放名詞，所以選 significance（重要性）。significant 是形容詞、significantly 是副詞、signifying 是動名詞，都不能被 the 修飾。記住字尾 -ance/-ence 通常是名詞。",
+  "vocab": [
+   {
+    "w": "significance",
+    "zh": "重要性",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0002",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Good lecturers can ____ complex theories for beginners without leaving out the details that really matter.",
+  "options": [
+   "simple",
+   "simplify",
+   "simplicity",
+   "simply"
+  ],
+  "answer": 1,
+  "explain_zh": "can 後面要接原形動詞，simplify（簡化）才是動詞。simple 是形容詞、simplicity 是名詞、simply 是副詞。記住字尾 -ify 多半是動詞，例如 clarify、justify。",
+  "vocab": [
+   {
+    "w": "simplify",
+    "zh": "簡化",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0003",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The new regulations are designed to ____ consumer protection in fast-growing online shopping markets.",
+  "options": [
+   "strength",
+   "strong",
+   "strengthen",
+   "strongly"
+  ],
+  "answer": 2,
+  "explain_zh": "to 後面接原形動詞，strengthen（加強）是動詞形。strength 是名詞、strong 是形容詞、strongly 是副詞。記住字尾 -en 常把形容詞變成動詞，例如 widen、shorten。",
+  "vocab": [
+   {
+    "w": "strengthen",
+    "zh": "加強",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0004",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Scientists have questioned the ____ of data that was collected from a single very small sample.",
+  "options": [
+   "reliable",
+   "reliably",
+   "rely",
+   "reliability"
+  ],
+  "answer": 3,
+  "explain_zh": "the ... of 中間必須是名詞，所以選 reliability（可靠性）。reliable 是形容詞、reliably 是副詞、rely 是動詞。記住 rely 動詞 → reliable 形容詞 → reliability 名詞這一串變化。",
+  "vocab": [
+   {
+    "w": "reliability",
+    "zh": "可靠性",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0005",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Readers may easily ____ a chart when the axes carry no labels and the units are missing.",
+  "options": [
+   "misinterpret",
+   "interpretation",
+   "interpreter",
+   "interpretive"
+  ],
+  "answer": 0,
+  "explain_zh": "may 後面接原形動詞，misinterpret（誤解、誤讀）符合「沒有標示就會看錯」的語意。interpretation 是名詞、interpreter 是口譯員、interpretive 是形容詞。記住字首 mis- 表示「錯誤地」。",
+  "vocab": [
+   {
+    "w": "misinterpret",
+    "zh": "誤解、誤讀",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0006",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "People tend to ____ their ability to concentrate after a sleepless night, and then make careless mistakes.",
+  "options": [
+   "overestimation",
+   "overestimate",
+   "overestimating",
+   "estimation"
+  ],
+  "answer": 1,
+  "explain_zh": "tend to 後面要接原形動詞，overestimate（高估）才正確。overestimation 與 estimation 都是名詞，overestimating 是動名詞，都不能接在 to 後面。記住字首 over- 表示「過度」。",
+  "vocab": [
+   {
+    "w": "overestimate",
+    "zh": "高估",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0007",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Relying on cheap imported water is clearly ____ in the long term, especially as the population grows.",
+  "options": [
+   "unsustainably",
+   "sustainability",
+   "unsustainable",
+   "sustain"
+  ],
+  "answer": 2,
+  "explain_zh": "be 動詞後面接形容詞當主詞補語，unsustainable（無法持續的）才對。unsustainably 是副詞、sustainability 是名詞、sustain 是動詞。記住 un- 表否定、-able 表「可以…的」。",
+  "vocab": [
+   {
+    "w": "unsustainable",
+    "zh": "無法持續的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0008",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Every year the company publishes a detailed report on its ____ performance and its progress towards net zero.",
+  "options": [
+   "environment",
+   "environmentally",
+   "environmentalist",
+   "environmental"
+  ],
+  "answer": 3,
+  "explain_zh": "空格要修飾名詞 performance，必須用形容詞 environmental（環境的）。environment 是名詞、environmentally 是副詞、environmentalist 是環保人士。記住字尾 -al 常把名詞變形容詞。",
+  "vocab": [
+   {
+    "w": "environmental",
+    "zh": "環境的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0009",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Air quality in the city improved ____ after older diesel vehicles were banned from the downtown area.",
+  "options": [
+   "dramatically",
+   "dramatic",
+   "drama",
+   "dramatize"
+  ],
+  "answer": 0,
+  "explain_zh": "空格修飾動詞 improved，要用副詞 dramatically（大幅地）。dramatic 是形容詞、drama 是名詞、dramatize 是動詞。記住形容詞加 -ly 變副詞。",
+  "vocab": [
+   {
+    "w": "dramatically",
+    "zh": "大幅地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0010",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Under the ____ of a new principal, the school raised its graduation rate by almost twenty per cent.",
+  "options": [
+   "leader",
+   "leadership",
+   "leading",
+   "lead"
+  ],
+  "answer": 1,
+  "explain_zh": "under the ____ of 是固定用法，中間要放抽象名詞 leadership（領導）。leader 是「領導人」，under the leader of 不通；leading 是形容詞、lead 是動詞。記住字尾 -ship 表示身分或狀態。",
+  "vocab": [
+   {
+    "w": "leadership",
+    "zh": "領導",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0011",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Patients with rare conditions are usually referred to a ____ at a larger teaching hospital in the capital.",
+  "options": [
+   "special",
+   "specialise",
+   "specialist",
+   "specially"
+  ],
+  "answer": 2,
+  "explain_zh": "a 後面要接名詞，指「專科醫師」用 specialist。special 是形容詞、specialise 是動詞、specially 是副詞。記住字尾 -ist 表示「從事某專業的人」。",
+  "vocab": [
+   {
+    "w": "specialist",
+    "zh": "專家、專科醫師",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0012",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "International ____ is essential if plastic pollution in the oceans is ever going to be reduced.",
+  "options": [
+   "cooperate",
+   "cooperative",
+   "cooperatively",
+   "cooperation"
+  ],
+  "answer": 3,
+  "explain_zh": "空格是句子的主詞，要用名詞 cooperation（合作）。cooperate 是動詞、cooperative 是形容詞、cooperatively 是副詞。記住字首 co- 表示「共同」。",
+  "vocab": [
+   {
+    "w": "cooperation",
+    "zh": "合作",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0013",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The examiner deleted the whole paragraph because the information in it was completely ____ to the question.",
+  "options": [
+   "irrelevant",
+   "relevance",
+   "relevantly",
+   "unrelevant"
+  ],
+  "answer": 0,
+  "explain_zh": "be 動詞後接形容詞，且語意是「不相關的」，所以選 irrelevant。relevance 是名詞、relevantly 是副詞；unrelevant 是常見的拼錯，relevant 的否定字首是 ir- 不是 un-。",
+  "vocab": [
+   {
+    "w": "irrelevant",
+    "zh": "不相關的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0014",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Heating an entire office building all night long is extremely ____ and adds a great deal to running costs.",
+  "options": [
+   "inefficiency",
+   "inefficient",
+   "unefficient",
+   "efficiently"
+  ],
+  "answer": 1,
+  "explain_zh": "and 後面接形容詞 costly，所以空格也要用形容詞 inefficient（沒有效率的）。inefficiency 是名詞、efficiently 是副詞；unefficient 不是英文字，efficient 的否定要用 in-。",
+  "vocab": [
+   {
+    "w": "inefficient",
+    "zh": "沒有效率的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0015",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Passing the national exam at fifteen was a remarkable ____ for a student who had taught himself at home.",
+  "options": [
+   "achieve",
+   "achievable",
+   "achievement",
+   "achieving"
+  ],
+  "answer": 2,
+  "explain_zh": "a remarkable 後面要接名詞，achievement（成就）才對。achieve 是動詞、achievable 是形容詞、achieving 是動名詞。記住字尾 -ment 是名詞，例如 development、improvement。",
+  "vocab": [
+   {
+    "w": "achievement",
+    "zh": "成就",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0016",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Her main ____ to the project was designing the questionnaire that all the interviewers later used.",
+  "options": [
+   "contribute",
+   "contributor",
+   "contributing",
+   "contribution"
+  ],
+  "answer": 3,
+  "explain_zh": "所有格 Her 加形容詞 main 之後要接名詞，指「貢獻」用 contribution。contribute 是動詞、contributing 是動名詞；contributor 是「貢獻的人」，但這裡講的是她做的事而不是她本人。",
+  "vocab": [
+   {
+    "w": "contribution",
+    "zh": "貢獻",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0017",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The council finally agreed to ____ its decision after local residents presented a great deal of new evidence.",
+  "options": [
+   "reconsider",
+   "consideration",
+   "considerable",
+   "considerate"
+  ],
+  "answer": 0,
+  "explain_zh": "to 後面接原形動詞，且語意是「重新考慮」，選 reconsider。consideration 是名詞、considerable 是「相當多的」、considerate 是「體貼的」。記住字首 re- 表示「再一次」。",
+  "vocab": [
+   {
+    "w": "reconsider",
+    "zh": "重新考慮",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0018",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "A ____ learning environment encourages students to ask questions instead of hiding their difficulties.",
+  "options": [
+   "support",
+   "supportive",
+   "supporter",
+   "supportively"
+  ],
+  "answer": 1,
+  "explain_zh": "空格修飾名詞 environment，要用形容詞 supportive（給予支持的）。support 是動詞或名詞、supporter 是支持者、supportively 是副詞。記住字尾 -ive 多為形容詞。",
+  "vocab": [
+   {
+    "w": "supportive",
+    "zh": "給予支持的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0019",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Doctors warn that excessive screen time just before bed can be ____ to the quality of teenagers' sleep.",
+  "options": [
+   "harm",
+   "harmless",
+   "harmful",
+   "harmfully"
+  ],
+  "answer": 2,
+  "explain_zh": "be 動詞後接形容詞，語意是「有害的」，所以選 harmful。harm 是名詞或動詞、harmfully 是副詞；harmless 是「無害的」，意思正好相反。記住 -ful 有、-less 沒有。",
+  "vocab": [
+   {
+    "w": "harmful",
+    "zh": "有害的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0020",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:word-formation",
+  "tag_zh": "構詞與詞性變化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The transport ministry plans to ____ the entire railway network within the next ten to fifteen years.",
+  "options": [
+   "modern",
+   "modernisation",
+   "modernly",
+   "modernise"
+  ],
+  "answer": 3,
+  "explain_zh": "to 後面接原形動詞，modernise（現代化、汰舊換新）是動詞。modern 是形容詞、modernisation 是名詞、modernly 幾乎不用。記住字尾 -ise/-ize 把形容詞變成動詞。",
+  "vocab": [
+   {
+    "w": "modernise",
+    "zh": "使現代化",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0021",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Younger consumers show a clear ____ to buy second-hand clothing rather than brand-new items every season.",
+  "options": [
+   "tendency",
+   "habit",
+   "tradition",
+   "custom"
+  ],
+  "answer": 0,
+  "explain_zh": "a tendency to + 原形動詞是固定用法，表示「有…的傾向」。habit、tradition、custom 雖然也和行為有關，但後面不能直接接 to buy 這種不定詞結構。記住 have a tendency to do something。",
+  "vocab": [
+   {
+    "w": "tendency",
+    "zh": "傾向",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0022",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Rising sea levels are a direct ____ of the steady warming of the world's oceans over the past century.",
+  "options": [
+   "reason",
+   "consequence",
+   "purpose",
+   "condition"
+  ],
+  "answer": 1,
+  "explain_zh": "海平面上升是海洋暖化造成的「結果」，所以用 consequence。reason 是原因，方向相反；purpose 是目的、condition 是條件，都不合。記住 a consequence of = …的後果。",
+  "vocab": [
+   {
+    "w": "consequence",
+    "zh": "後果",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0023",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The whole argument rests on the ____ that consumers always behave rationally when they compare prices.",
+  "options": [
+   "conclusion",
+   "permission",
+   "assumption",
+   "definition"
+  ],
+  "answer": 2,
+  "explain_zh": "論點「建立在」尚未證實的前提上，這種前提叫 assumption（假設）。conclusion 是推論之後才得到的結論、permission 是許可、definition 是定義。記住 rest on the assumption that…。",
+  "vocab": [
+   {
+    "w": "assumption",
+    "zh": "假設、前提",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0024",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Students who set their own learning goals usually show much stronger ____ throughout a long course.",
+  "options": [
+   "intention",
+   "attention",
+   "invention",
+   "motivation"
+  ],
+  "answer": 3,
+  "explain_zh": "持續學習的「動力」是 motivation。intention 是一時的打算、attention 是注意力、invention 是發明，都不是持續努力的驅動力。記住 strong motivation = 強烈的學習動機。",
+  "vocab": [
+   {
+    "w": "motivation",
+    "zh": "動機、動力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0025",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Interviewing farmers gave the research team a completely different ____ on the causes of water shortages.",
+  "options": [
+   "perspective",
+   "dimension",
+   "direction",
+   "tendency"
+  ],
+  "answer": 0,
+  "explain_zh": "看事情的「角度、觀點」是 perspective，常說 a different perspective on something。dimension 是面向或尺寸、direction 是方向、tendency 是傾向，都無法搭配 on the causes。",
+  "vocab": [
+   {
+    "w": "perspective",
+    "zh": "觀點、角度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0026",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Reducing household waste has become the city government's top ____ for the coming financial year.",
+  "options": [
+   "preference",
+   "priority",
+   "importance",
+   "advantage"
+  ],
+  "answer": 1,
+  "explain_zh": "top priority 是固定搭配，指「最優先的事」。preference 是個人偏好、importance 是重要性但不說 top importance、advantage 是優勢。記住 give priority to something。",
+  "vocab": [
+   {
+    "w": "priority",
+    "zh": "優先事項",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0027",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Voters are demanding far greater ____ in the way that political donations are collected and spent.",
+  "options": [
+   "visibility",
+   "secrecy",
+   "transparency",
+   "formality"
+  ],
+  "answer": 2,
+  "explain_zh": "要求公開、可受檢驗，用 transparency（透明度）。visibility 指看得見的程度，多用於物理視線；secrecy 是保密，意思相反；formality 是形式或正式性。記住 financial transparency。",
+  "vocab": [
+   {
+    "w": "transparency",
+    "zh": "透明度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0028",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Communities that rebuilt their homes within a year of the flood showed remarkable ____ and determination.",
+  "options": [
+   "resistance",
+   "reluctance",
+   "dependence",
+   "resilience"
+  ],
+  "answer": 3,
+  "explain_zh": "遭遇災難後能快速復原的能力是 resilience（韌性、復原力）。resistance 是抵抗、reluctance 是不情願、dependence 是依賴，都不符合「重建得很快」的語意。",
+  "vocab": [
+   {
+    "w": "resilience",
+    "zh": "韌性、復原力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0029",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The report examines income ____, which has widened in most developed countries since the early 1990s.",
+  "options": [
+   "inequality",
+   "equality",
+   "quantity",
+   "quality"
+  ],
+  "answer": 0,
+  "explain_zh": "差距「擴大」講的是不平等，用 inequality。equality 是平等，意思相反；quantity 是數量、quality 是品質，都與貧富差距無關。記住 in- 是否定字首。",
+  "vocab": [
+   {
+    "w": "inequality",
+    "zh": "不平等",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0030",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The city library greatly improved the ____ of its older buildings by installing ramps, lifts and wider doors.",
+  "options": [
+   "access",
+   "accessibility",
+   "availability",
+   "ability"
+  ],
+  "answer": 1,
+  "explain_zh": "裝斜坡和電梯是為了讓行動不便者能進出，這叫 accessibility（無障礙程度）。access 是名詞但不說 the access of its buildings；availability 是「有沒有可取得」、ability 是個人能力。",
+  "vocab": [
+   {
+    "w": "accessibility",
+    "zh": "無障礙程度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0031",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Publishing false figures in a leading journal completely destroyed the young scientist's ____ within the field.",
+  "options": [
+   "creativity",
+   "capability",
+   "credibility",
+   "curiosity"
+  ],
+  "answer": 2,
+  "explain_zh": "造假被拆穿，失去的是別人對他的「可信度」credibility。creativity 是創造力、capability 是能力、curiosity 是好奇心，都不是造假直接毀掉的東西。",
+  "vocab": [
+   {
+    "w": "credibility",
+    "zh": "可信度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0032",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Protecting the ____ of native plant species is one of the central aims of the new national park.",
+  "options": [
+   "density",
+   "quantity",
+   "majority",
+   "diversity"
+  ],
+  "answer": 3,
+  "explain_zh": "保護「物種多樣性」用 diversity，常見詞組 biodiversity。density 是密度、quantity 是數量、majority 是多數，都無法表達種類豐富這個概念。",
+  "vocab": [
+   {
+    "w": "diversity",
+    "zh": "多樣性",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0033",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Foreign investors tend to value long-term economic ____ far more highly than short-term profit.",
+  "options": [
+   "stability",
+   "standard",
+   "strength",
+   "status"
+  ],
+  "answer": 0,
+  "explain_zh": "投資人重視的是經濟「穩定」，所以用 stability。standard 是標準、strength 是力量、status 是地位，都不能表達不大起大落的意思。記住 stable 形容詞 → stability 名詞。",
+  "vocab": [
+   {
+    "w": "stability",
+    "zh": "穩定",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0034",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The redesigned engine burns much less fuel, which represents a clear gain in ____ rather than in speed.",
+  "options": [
+   "urgency",
+   "efficiency",
+   "frequency",
+   "sufficiency"
+  ],
+  "answer": 1,
+  "explain_zh": "用更少燃料做同樣的事，就是「效率」提升，用 efficiency。urgency 是急迫性、frequency 是頻率、sufficiency 是足夠的量，都不對。四個字都是 -ency 結尾，要靠字根分辨。",
+  "vocab": [
+   {
+    "w": "efficiency",
+    "zh": "效率",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0035",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Teachers at the school were given much greater ____ to design their own lessons and choose their own materials.",
+  "options": [
+   "dependence",
+   "obedience",
+   "autonomy",
+   "discipline"
+  ],
+  "answer": 2,
+  "explain_zh": "可以自己決定怎麼教，就是有 autonomy（自主權）。dependence 是依賴、obedience 是服從，兩者都與自主相反；discipline 是紀律或學科。記住 professional autonomy。",
+  "vocab": [
+   {
+    "w": "autonomy",
+    "zh": "自主權",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0036",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Long-term ____ from every member state will be needed if the emissions target is to be met by 2050.",
+  "options": [
+   "intention",
+   "attention",
+   "prevention",
+   "commitment"
+  ],
+  "answer": 3,
+  "explain_zh": "長期投入、持續遵守承諾用 commitment。intention 只是打算、attention 是注意力、prevention 是預防，都撐不起 long-term 這個修飾。記住 a commitment to doing something。",
+  "vocab": [
+   {
+    "w": "commitment",
+    "zh": "承諾、投入",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0037",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Good science teaching begins with genuine ____ about the world rather than with the memorisation of facts.",
+  "options": [
+   "curiosity",
+   "accuracy",
+   "obedience",
+   "certainty"
+  ],
+  "answer": 0,
+  "explain_zh": "和「背誦事實」相對的是想探索、想問為什麼，也就是 curiosity（好奇心）。accuracy 是準確度、obedience 是服從、certainty 是確定性，都不是探索的起點。",
+  "vocab": [
+   {
+    "w": "curiosity",
+    "zh": "好奇心",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0038",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:abstract-nouns",
+  "tag_zh": "抽象名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Long-term ____ to traffic noise has been linked to higher stress levels and poorer sleep in city residents.",
+  "options": [
+   "expansion",
+   "exposure",
+   "expression",
+   "experience"
+  ],
+  "answer": 1,
+  "explain_zh": "長期「暴露」在噪音中用 exposure to something。expansion 是擴張、expression 是表達；experience 後面要接 of 而不是 to，搭配也不對。記住 exposure to pollution。",
+  "vocab": [
+   {
+    "w": "exposure",
+    "zh": "暴露、接觸",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0039",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Building a tunnel under the bay is technically ____, but the cost would be far beyond the current budget.",
+  "options": [
+   "flexible",
+   "favourable",
+   "feasible",
+   "fashionable"
+  ],
+  "answer": 2,
+  "explain_zh": "技術上「可行的」是 feasible。flexible 是有彈性的、favourable 是有利的、fashionable 是流行的，都無法和 technically 搭配表達「做得到」。記住 technically feasible、economically feasible。",
+  "vocab": [
+   {
+    "w": "feasible",
+    "zh": "可行的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0040",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The government has published a ____ review covering every department of the national health service.",
+  "options": [
+   "competitive",
+   "comparative",
+   "compulsory",
+   "comprehensive"
+  ],
+  "answer": 3,
+  "explain_zh": "covering every department 表示範圍全面，用 comprehensive（全面的）。competitive 是有競爭力的、comparative 是比較的、compulsory 是義務的。記住 a comprehensive review = 全面檢討。",
+  "vocab": [
+   {
+    "w": "comprehensive",
+    "zh": "全面的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0041",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Charging tourists an entry fee for the old town remains a highly ____ policy among local business owners.",
+  "options": [
+   "controversial",
+   "convenient",
+   "confidential",
+   "conventional"
+  ],
+  "answer": 0,
+  "explain_zh": "有人贊成有人反對，就是 controversial（有爭議的）。convenient 是方便的、confidential 是機密的、conventional 是傳統的，都無法解釋 among local business owners 的分歧。",
+  "vocab": [
+   {
+    "w": "controversial",
+    "zh": "有爭議的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0042",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The sample of forty students was simply not ____ to support such a broad conclusion about the whole country.",
+  "options": [
+   "efficient",
+   "sufficient",
+   "deficient",
+   "proficient"
+  ],
+  "answer": 1,
+  "explain_zh": "樣本數不夠多，用 sufficient（足夠的）。efficient 是有效率的、deficient 是缺乏的（意思相反但搭配是 deficient in）、proficient 是精通的。四個字長得像，要看字根 suffic- 表示「足夠」。",
+  "vocab": [
+   {
+    "w": "sufficient",
+    "zh": "足夠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0043",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Early diagnosis is absolutely ____ if the treatment is to have any real chance of succeeding.",
+  "options": [
+   "casual",
+   "cautious",
+   "crucial",
+   "curious"
+  ],
+  "answer": 2,
+  "explain_zh": "關係到治療能不能成功，所以是 crucial（關鍵的）。casual 是隨性的、cautious 是謹慎的、curious 是好奇的，都不能表示「非常重要」。記住 crucial = extremely important。",
+  "vocab": [
+   {
+    "w": "crucial",
+    "zh": "關鍵的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0044",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The findings of this experiment were entirely ____ with those reported in three earlier studies.",
+  "options": [
+   "constant",
+   "persistent",
+   "resistant",
+   "consistent"
+  ],
+  "answer": 3,
+  "explain_zh": "be consistent with 是固定搭配，表示「與…一致」。constant 是持續不變的、persistent 是固執或持續的、resistant 是有抵抗力的，後面都不接 with 表達一致。",
+  "vocab": [
+   {
+    "w": "consistent",
+    "zh": "一致的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0045",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The examiner crossed out two sentences that were clearly not ____ to the main argument of the essay.",
+  "options": [
+   "relevant",
+   "reliable",
+   "reluctant",
+   "remarkable"
+  ],
+  "answer": 0,
+  "explain_zh": "be relevant to 表示「與…相關」，符合被劃掉的理由。reliable 是可靠的、reluctant 是不情願的、remarkable 是驚人的，都不能搭配 to the main argument。",
+  "vocab": [
+   {
+    "w": "relevant",
+    "zh": "相關的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0046",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Some loss of biodiversity now appears ____, even if every country meets its current climate targets.",
+  "options": [
+   "invaluable",
+   "inevitable",
+   "invisible",
+   "incredible"
+  ],
+  "answer": 1,
+  "explain_zh": "就算努力也躲不掉，是 inevitable（不可避免的）。invaluable 是「極其寶貴的」、invisible 是看不見的、incredible 是難以置信的。注意 in- 在 invaluable 裡不是否定。",
+  "vocab": [
+   {
+    "w": "inevitable",
+    "zh": "不可避免的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0047",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Mobile payment has become ____ in Taiwan, and is now accepted even in small traditional markets.",
+  "options": [
+   "widened",
+   "spreading",
+   "widespread",
+   "broadened"
+  ],
+  "answer": 2,
+  "explain_zh": "描述某種做法「普遍存在」用形容詞 widespread。widened 與 broadened 是過去分詞，指被加寬；spreading 是正在擴散的動作，都不能表達「已經很普及」的狀態。",
+  "vocab": [
+   {
+    "w": "widespread",
+    "zh": "普遍的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0048",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Moderate daily exercise is ____ to both physical health and long-term mental well-being.",
+  "options": [
+   "profitable",
+   "favourable",
+   "generous",
+   "beneficial"
+  ],
+  "answer": 3,
+  "explain_zh": "be beneficial to 表示「對…有益」，用在健康最自然。profitable 指賺錢、favourable 指條件有利、generous 指慷慨，都不能形容運動對健康的好處。",
+  "vocab": [
+   {
+    "w": "beneficial",
+    "zh": "有益的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0049",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Within a month it became ____ that the original construction timetable had been far too ambitious.",
+  "options": [
+   "apparent",
+   "appealing",
+   "applicable",
+   "appropriate"
+  ],
+  "answer": 0,
+  "explain_zh": "it became apparent that… 是常見句型，表示「後來變得明顯」。appealing 是吸引人的、applicable 是適用的、appropriate 是適當的，放進 it became…that 都講不通。",
+  "vocab": [
+   {
+    "w": "apparent",
+    "zh": "明顯的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0050",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "These are only ____ findings; the complete data set will not be released until the end of June.",
+  "options": [
+   "permanent",
+   "preliminary",
+   "predictable",
+   "persuasive"
+  ],
+  "answer": 1,
+  "explain_zh": "完整資料還沒出來，現在的只是「初步的」結果，用 preliminary。permanent 是永久的、predictable 是可預測的、persuasive 是有說服力的，都無法對比後半句的 complete data。",
+  "vocab": [
+   {
+    "w": "preliminary",
+    "zh": "初步的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0051",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The survey question was so ____ that different participants understood it in completely different ways.",
+  "options": [
+   "anonymous",
+   "ambitious",
+   "ambiguous",
+   "abundant"
+  ],
+  "answer": 2,
+  "explain_zh": "同一句話被理解成不同意思，代表題目 ambiguous（語意不清的）。anonymous 是匿名的、ambitious 是有企圖心的、abundant 是豐富的，都解釋不了理解不一致。",
+  "vocab": [
+   {
+    "w": "ambiguous",
+    "zh": "語意不清的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0052",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "There are two ____ approaches to solving urban traffic problems, and they rarely work well together.",
+  "options": [
+   "distinguished",
+   "distant",
+   "distracted",
+   "distinct"
+  ],
+  "answer": 3,
+  "explain_zh": "two distinct approaches 表示兩種明顯不同、界線分明的做法。distinguished 是傑出的、distant 是遙遠的、distracted 是分心的，都與「彼此不同」無關。",
+  "vocab": [
+   {
+    "w": "distinct",
+    "zh": "截然不同的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0053",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Wikipedia is convenient for a quick check, but it is not always a ____ source for an academic essay.",
+  "options": [
+   "reliable",
+   "readable",
+   "respectable",
+   "responsible"
+  ],
+  "answer": 0,
+  "explain_zh": "學術寫作要求資料來源可信，用 a reliable source。readable 是易讀的、respectable 是體面的、responsible 是負責任的，都不能形容資料的可信度。",
+  "vocab": [
+   {
+    "w": "reliable",
+    "zh": "可靠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0054",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The restoration of the temple required a ____ amount of both public money and specialist labour.",
+  "options": [
+   "considerate",
+   "considerable",
+   "conservative",
+   "consequent"
+  ],
+  "answer": 1,
+  "explain_zh": "a considerable amount of 表示「相當大量的」。considerate 是體貼的、conservative 是保守的、consequent 是隨之而來的，都不能修飾 amount。注意 considerable 與 considerate 只差字尾。",
+  "vocab": [
+   {
+    "w": "considerable",
+    "zh": "相當大量的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0055",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Climate change is a ____ problem that no single government can possibly solve on its own.",
+  "options": [
+   "complete",
+   "compliant",
+   "complex",
+   "compulsive"
+  ],
+  "answer": 2,
+  "explain_zh": "牽涉很多因素、難以處理的問題是 complex（複雜的）。complete 是完整的、compliant 是順從或合規的、compulsive 是強迫性的，都不符合後半句「沒有國家能單獨解決」。",
+  "vocab": [
+   {
+    "w": "complex",
+    "zh": "複雜的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0056",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-adjectives",
+  "tag_zh": "學術形容詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Low-lying coastal villages are especially ____ to flooding as global sea levels continue to rise.",
+  "options": [
+   "valuable",
+   "variable",
+   "voluntary",
+   "vulnerable"
+  ],
+  "answer": 3,
+  "explain_zh": "be vulnerable to 表示「易受…傷害」，是雅思環境題的高頻用法。valuable 是有價值的、variable 是多變的、voluntary 是自願的，後面都不接 to flooding。",
+  "vocab": [
+   {
+    "w": "vulnerable",
+    "zh": "易受傷害的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0057",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Buying rice and cooking oil in bulk is far more ____ for a large family than shopping every single day.",
+  "options": [
+   "economical",
+   "economic",
+   "economy",
+   "economics"
+  ],
+  "answer": 0,
+  "explain_zh": "economical 指「省錢的、划算的」，用來形容做法；economic 指「經濟上的」，例如 economic growth。economy 是名詞、economics 是經濟學。兩個形容詞長得像但意思差很多。",
+  "vocab": [
+   {
+    "w": "economical",
+    "zh": "省錢的、划算的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0058",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Long-term noise pollution can seriously ____ children's ability to concentrate in the classroom.",
+  "options": [
+   "effect",
+   "affect",
+   "effort",
+   "afflict"
+  ],
+  "answer": 1,
+  "explain_zh": "這裡需要動詞「影響」，用 affect。effect 通常是名詞「影響、效果」，當動詞時是「造成、實現」；effort 是努力；afflict 用於疾病折磨，搭配太重。記住 affect 動詞、effect 名詞。",
+  "vocab": [
+   {
+    "w": "affect",
+    "zh": "影響",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0059",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "The signing of the peace treaty in 1998 was widely regarded as a ____ moment for the whole region.",
+  "options": [
+   "historical",
+   "history",
+   "historic",
+   "historian"
+  ],
+  "answer": 2,
+  "explain_zh": "historic 指「具有歷史意義的、重大的」；historical 只是「與歷史有關的」，例如 historical documents。history 是名詞、historian 是歷史學家。這題強調事件的重要性，所以用 historic。",
+  "vocab": [
+   {
+    "w": "historic",
+    "zh": "有歷史意義的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0060",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "The freezer used in the experiment needs a ____ power supply, because even a one-second cut ruins the samples.",
+  "options": [
+   "continual",
+   "occasional",
+   "temporary",
+   "continuous"
+  ],
+  "answer": 3,
+  "explain_zh": "continuous 指「中間完全不中斷」，符合「斷一秒就毀了」。continual 指「一再重複但中間有停頓」；occasional 是偶爾的、temporary 是暫時的，都相反。",
+  "vocab": [
+   {
+    "w": "continuous",
+    "zh": "不間斷的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0061",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Only a small ____ of students in the department chose to spend a whole year studying abroad.",
+  "options": [
+   "number",
+   "amount",
+   "quantity",
+   "deal"
+  ],
+  "answer": 0,
+  "explain_zh": "students 是可數名詞複數，要用 a small number of。amount、quantity 和 a great deal 都用於不可數名詞，例如 a small amount of money。記住 number 配可數、amount 配不可數。",
+  "vocab": [
+   {
+    "w": "a number of",
+    "zh": "一些、若干",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0062",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "At the start of the lecture the professor ____ the audience that the deadline had been extended by a week.",
+  "options": [
+   "said",
+   "told",
+   "spoke",
+   "talked"
+  ],
+  "answer": 1,
+  "explain_zh": "tell 後面可以直接接人再接 that 子句，所以用 told the audience that…。say 不能直接接人，要說 said to the audience；speak 和 talk 要接 to。這是台灣學生最常錯的地方。",
+  "vocab": [
+   {
+    "w": "tell",
+    "zh": "告訴",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0063",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "The department will ____ each student a tablet computer for the whole duration of the design course.",
+  "options": [
+   "borrow",
+   "rent",
+   "lend",
+   "owe"
+  ],
+  "answer": 2,
+  "explain_zh": "從擁有者的角度「借出去」用 lend somebody something。borrow 是「借進來」，方向相反；rent 是付費租用；owe 是欠。記住 lend out、borrow from。",
+  "vocab": [
+   {
+    "w": "lend",
+    "zh": "借出",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0064",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "House prices in the area have ____ sharply since the new underground station opened two years ago.",
+  "options": [
+   "raised",
+   "arisen",
+   "aroused",
+   "risen"
+  ],
+  "answer": 3,
+  "explain_zh": "rise 是不及物動詞，指「自己上升」，完成式是 have risen。raise 是及物動詞，後面一定要有受詞；arise 指問題發生；arouse 指引起情緒。記住 prices rise，people raise prices。",
+  "vocab": [
+   {
+    "w": "rise",
+    "zh": "上升",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0065",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "The minister ____ to comment on the report, saying only that an investigation was still going on.",
+  "options": [
+   "refused",
+   "denied",
+   "rejected",
+   "resisted"
+  ],
+  "answer": 0,
+  "explain_zh": "refuse to do something 表示「拒絕去做某事」。deny 是「否認」，後面接名詞或動名詞；reject 是拒絕接受某個提案、後面接名詞；resist 是抵抗。只有 refuse 能直接接不定詞。",
+  "vocab": [
+   {
+    "w": "refuse",
+    "zh": "拒絕",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0066",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Regular maintenance can ____ small mechanical faults from developing into extremely expensive failures.",
+  "options": [
+   "avoid",
+   "prevent",
+   "protect",
+   "refuse"
+  ],
+  "answer": 1,
+  "explain_zh": "prevent something from doing 是固定句型，表示「防止…發生」。avoid 後面直接接動名詞，不接 from；protect 要用 protect A from B，但保護的對象不是「故障」；refuse 不合語意。",
+  "vocab": [
+   {
+    "w": "prevent",
+    "zh": "防止",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0067",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Could you please ____ me to send the questionnaire to all the participants before Friday afternoon?",
+  "options": [
+   "remember",
+   "memorise",
+   "remind",
+   "recall"
+  ],
+  "answer": 2,
+  "explain_zh": "remind somebody to do something 是「提醒某人去做某事」。remember 是自己記得，不能說 remember me to send；memorise 是背下來；recall 是回想。記住 remind 有「提醒別人」的意思。",
+  "vocab": [
+   {
+    "w": "remind",
+    "zh": "提醒",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0068",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "The unusually heavy rain last week ____ serious delays on almost every line of the northern railway.",
+  "options": [
+   "made",
+   "let",
+   "took",
+   "caused"
+  ],
+  "answer": 3,
+  "explain_zh": "cause 後面直接接名詞，表示「造成（不好的結果）」。make 要用 make something happen 或 make + 受詞 + 原形動詞；let 是允許；take 不能表示造成。記住 cause delays、cause damage。",
+  "vocab": [
+   {
+    "w": "cause",
+    "zh": "造成",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0069",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Three passengers were slightly ____ when the driver of the bus braked suddenly on the wet road.",
+  "options": [
+   "injured",
+   "damaged",
+   "harmed",
+   "broken"
+  ],
+  "answer": 0,
+  "explain_zh": "人受傷用 injured；damaged 和 broken 用在物品損壞；harmed 偏抽象的傷害，不用在交通事故的外傷。記住 injure people、damage things。",
+  "vocab": [
+   {
+    "w": "injure",
+    "zh": "使受傷",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0070",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "The museum charges every adult visitor an entrance ____ of two hundred dollars at the main gate.",
+  "options": [
+   "price",
+   "fee",
+   "cost",
+   "salary"
+  ],
+  "answer": 1,
+  "explain_zh": "為了進入或使用服務而付的錢叫 fee，例如 entrance fee、tuition fee。price 是商品的定價、cost 是成本、salary 是薪水，都不能和 entrance 搭配。",
+  "vocab": [
+   {
+    "w": "fee",
+    "zh": "費用",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0071",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Over the past fifteen years she has built a highly successful ____ in environmental journalism.",
+  "options": [
+   "job",
+   "work",
+   "career",
+   "labour"
+  ],
+  "answer": 2,
+  "explain_zh": "career 指長期累積的「職業生涯」，才能用 build 和 fifteen years 修飾。job 是一份具體工作、work 是不可數的工作內容、labour 是勞動力。記住 build a career。",
+  "vocab": [
+   {
+    "w": "career",
+    "zh": "職業生涯",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0072",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Checking every figure twice ____ that the final report contains no arithmetical mistakes at all.",
+  "options": [
+   "assures",
+   "insures",
+   "reassures",
+   "ensures"
+  ],
+  "answer": 3,
+  "explain_zh": "ensure that… 表示「確保某事發生」。assure 是向「某人」保證，後面要接人；insure 是投保；reassure 是安撫別人的情緒。記住 ensure + that 子句。",
+  "vocab": [
+   {
+    "w": "ensure",
+    "zh": "確保",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0073",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "Schools that moved online had to ____ their teaching methods to suit students with very different home conditions.",
+  "options": [
+   "adapt",
+   "adopt",
+   "adept",
+   "adhere"
+  ],
+  "answer": 0,
+  "explain_zh": "adapt 是「調整、使適應」，常說 adapt something to something。adopt 是「採用、收養」，指整套拿來用而不是修改；adept 是形容詞「熟練的」；adhere 是遵守，要接 to。",
+  "vocab": [
+   {
+    "w": "adapt",
+    "zh": "調整、使適應",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0074",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:synonym-nuance",
+  "tag_zh": "近義字語感差別",
+  "passage": null,
+  "group_id": null,
+  "stem": "She turned down the offer on ____, even though accepting it would have doubled her monthly salary.",
+  "options": [
+   "principal",
+   "principle",
+   "discipline",
+   "standard"
+  ],
+  "answer": 1,
+  "explain_zh": "on principle 是固定用法，表示「基於原則」。principal 是「校長」或形容詞「主要的」，拼字只差一個字母；discipline 是紀律或學科；standard 是標準。",
+  "vocab": [
+   {
+    "w": "principle",
+    "zh": "原則",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0075",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In a formal research report, the informal word 'kids' should be replaced by ____ when you describe the participants.",
+  "options": [
+   "guys",
+   "folks",
+   "children",
+   "teens"
+  ],
+  "answer": 2,
+  "explain_zh": "學術寫作要用中性、正式的 children。guys、folks 是口語；teens 是縮短的口語形式，正式寫作要寫 teenagers 或 adolescents。記住考官看到 kids 會扣正式度分數。",
+  "vocab": [
+   {
+    "w": "formal",
+    "zh": "正式的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0076",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In an academic essay you should write ____ participants instead of the very informal phrase 'loads of participants'.",
+  "options": [
+   "tons of",
+   "heaps of",
+   "a whole bunch of",
+   "a considerable number of"
+  ],
+  "answer": 3,
+  "explain_zh": "a considerable number of 是正式書面語，適合描述樣本數。tons of、heaps of、a whole bunch of 都是誇張的口語表達，在雅思寫作裡會被視為不夠正式。",
+  "vocab": [
+   {
+    "w": "considerable",
+    "zh": "相當多的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0077",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In a scientific paper, researchers usually write that they ____ better results rather than saying they 'got' them.",
+  "options": [
+   "obtained",
+   "grabbed",
+   "picked up",
+   "landed"
+  ],
+  "answer": 0,
+  "explain_zh": "obtain 是 get 的正式對應字，常說 obtain results、obtain permission。grab、pick up、land 都是口語，語氣太隨便，不適合實驗報告。",
+  "vocab": [
+   {
+    "w": "obtain",
+    "zh": "取得",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0078",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "A formal report would describe the situation as ____ rather than calling it 'a really big headache'.",
+  "options": [
+   "a huge hassle",
+   "a major issue",
+   "a big deal",
+   "a real pain"
+  ],
+  "answer": 1,
+  "explain_zh": "a major issue 是中性正式的說法。a huge hassle、a big deal、a real pain 都是日常口語，帶有情緒色彩，在學術寫作裡應該避免。",
+  "vocab": [
+   {
+    "w": "issue",
+    "zh": "問題、議題",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0079",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In academic writing, the informal expression 'find out the cause' is normally written as ____ the cause.",
+  "options": [
+   "figure out",
+   "dig up",
+   "determine",
+   "work out"
+  ],
+  "answer": 2,
+  "explain_zh": "determine 是正式用語，常見於論文的方法段落。figure out、work out、dig up 都是口語片語動詞，雅思寫作 Task 2 建議換成單一動詞的正式字。",
+  "vocab": [
+   {
+    "w": "determine",
+    "zh": "確定、判定",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0080",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Formal essays avoid contractions, so the word don't in your draft should be rewritten as ____ throughout.",
+  "options": [
+   "don not",
+   "do nt",
+   "does not",
+   "do not"
+  ],
+  "answer": 3,
+  "explain_zh": "正式寫作要把縮寫還原，don't 的完整形式是 do not。don not 和 do nt 都不是英文；does not 是第三人稱單數，主詞不同不能亂換。",
+  "vocab": [
+   {
+    "w": "contraction",
+    "zh": "縮寫形式",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0081",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In a formal email to the admissions office you should ____ further information rather than simply 'ask for' it.",
+  "options": [
+   "request",
+   "beg for",
+   "chase up",
+   "nag about"
+  ],
+  "answer": 0,
+  "explain_zh": "request 是正式的書面用語，適合寫給機構的電子郵件。beg for 太卑微、chase up 和 nag about 都是口語，語氣不得體。",
+  "vocab": [
+   {
+    "w": "request",
+    "zh": "要求、請求",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0082",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In an official document, staff who help visitors with paperwork are said to ____ them with their applications.",
+  "options": [
+   "give a hand to",
+   "assist",
+   "back up",
+   "sort out"
+  ],
+  "answer": 1,
+  "explain_zh": "assist 是 help 的正式對應字，常用於公文與報告。give a hand to 是口語、back up 偏支持或備份、sort out 是很隨意的英式口語。",
+  "vocab": [
+   {
+    "w": "assist",
+    "zh": "協助",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0083",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In the literature review, writers ____ previous studies instead of saying that they 'talk about' them.",
+  "options": [
+   "chat about",
+   "go on about",
+   "discuss",
+   "bring up"
+  ],
+  "answer": 2,
+  "explain_zh": "discuss 是學術寫作中談論文獻的標準動詞，後面直接接受詞。chat about 和 go on about 是口語，bring up 是片語動詞，都不適合文獻回顧。",
+  "vocab": [
+   {
+    "w": "discuss",
+    "zh": "討論、探討",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0084",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "An official policy document would say that the ministry will ____ a new programme, not that it will 'kick one off'.",
+  "options": [
+   "get going on",
+   "kick off",
+   "start up",
+   "initiate"
+  ],
+  "answer": 3,
+  "explain_zh": "initiate 是正式的「啟動、發起」，常見於政府文件。kick off 和 get going on 都是口語；start up 多指開創公司或啟動機器，語氣也偏輕鬆。",
+  "vocab": [
+   {
+    "w": "initiate",
+    "zh": "啟動、發起",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0085",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The contract states that either party may ____ the agreement by giving one month written notice.",
+  "options": [
+   "terminate",
+   "call off",
+   "wrap up",
+   "drop"
+  ],
+  "answer": 0,
+  "explain_zh": "法律文件用 terminate 表示「終止」。call off 是取消活動、wrap up 是收尾、drop 是放棄，都是口語說法，不會出現在合約裡。",
+  "vocab": [
+   {
+    "w": "terminate",
+    "zh": "終止",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0086",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Customers who ____ the product through the official website receive a two-year warranty at no extra charge.",
+  "options": [
+   "grab",
+   "purchase",
+   "snap up",
+   "pick up"
+  ],
+  "answer": 1,
+  "explain_zh": "purchase 是 buy 的正式用語，適合商業與學術文件。grab、snap up、pick up 都是口語，帶有隨手拿、搶購的語氣。",
+  "vocab": [
+   {
+    "w": "purchase",
+    "zh": "購買",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0087",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Formal notices usually state that applicants are ____ to submit two references, rather than saying they 'have to'.",
+  "options": [
+   "needed",
+   "supposed",
+   "required",
+   "wanted"
+  ],
+  "answer": 2,
+  "explain_zh": "be required to do something 是正式規定的說法。be needed 指「被需要」，主詞應該是東西；be supposed to 語氣較弱且偏口語；be wanted to 不是正確結構。",
+  "vocab": [
+   {
+    "w": "require",
+    "zh": "要求、規定",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0088",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "After the inspection the committee judged the existing safety measures to be ____ for a building of this size.",
+  "options": [
+   "okay",
+   "alright",
+   "fine",
+   "adequate"
+  ],
+  "answer": 3,
+  "explain_zh": "adequate 是正式的「足夠、達到標準」，適合檢查報告。okay、alright、fine 都是口語評價，寫進正式文件會顯得不專業。",
+  "vocab": [
+   {
+    "w": "adequate",
+    "zh": "足夠的、合格的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0089",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "When describing the graph, formal writing prefers ____ to informal expressions such as 'a massive jump'.",
+  "options": [
+   "a sharp increase",
+   "a huge leap",
+   "a big spike",
+   "a massive climb"
+  ],
+  "answer": 0,
+  "explain_zh": "a sharp increase 是雅思 Task 1 描述數據的標準用語。a huge leap、a big spike、a massive climb 都太口語或太誇張，不適合客觀描述圖表。",
+  "vocab": [
+   {
+    "w": "increase",
+    "zh": "增加",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0090",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:register",
+  "tag_zh": "正式與非正式用語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In a formal essay you should write an important ____ rather than using the vague word 'thing' in your topic sentence.",
+  "options": [
+   "thingy",
+   "factor",
+   "stuff",
+   "bit"
+  ],
+  "answer": 1,
+  "explain_zh": "factor 是正式且具體的名詞，指影響結果的因素。thingy、stuff、bit 都是模糊的口語字，雅思寫作評分會因為用字不精確而扣分。",
+  "vocab": [
+   {
+    "w": "factor",
+    "zh": "因素",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0091",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The research team ____ a survey of two thousand commuters in order to measure changes in travel habits.",
+  "options": [
+   "carried on",
+   "carried away",
+   "carried out",
+   "carried over"
+  ],
+  "answer": 2,
+  "explain_zh": "carry out a survey 是「執行、進行調查」的固定說法，雅思寫作常用。carry on 是繼續、be carried away 是得意忘形、carry over 是延續到下一期，都不能接 a survey。",
+  "vocab": [
+   {
+    "w": "carry out",
+    "zh": "執行、進行",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0092",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The new recycling law ____ a significant change in the way ordinary households sort their rubbish.",
+  "options": [
+   "brought up",
+   "brought off",
+   "brought back",
+   "brought about"
+  ],
+  "answer": 3,
+  "explain_zh": "bring about 表示「帶來、造成（改變）」，後面常接 change。bring up 是提出話題或養育、bring off 是成功辦到、bring back 是帶回或恢復，語意都不合。",
+  "vocab": [
+   {
+    "w": "bring about",
+    "zh": "造成、帶來",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0093",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The design team will have to ____ a workable solution before the research funding runs out in March.",
+  "options": [
+   "come up with",
+   "come across",
+   "come up to",
+   "come round to"
+  ],
+  "answer": 0,
+  "explain_zh": "come up with 是「想出（辦法、點子）」。come across 是偶然遇到、come up to 是走近或達到標準、come round to 是漸漸接受某個看法，都不是「想出解決方案」。",
+  "vocab": [
+   {
+    "w": "come up with",
+    "zh": "想出",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0094",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Residents living close to the airport have had to ____ aircraft noise for more than three decades.",
+  "options": [
+   "put off",
+   "put up with",
+   "put down to",
+   "put away"
+  ],
+  "answer": 1,
+  "explain_zh": "put up with 是「忍受」。put off 是延期、put down to 是歸因於、put away 是收起來，都無法表達長期忍耐噪音的意思。",
+  "vocab": [
+   {
+    "w": "put up with",
+    "zh": "忍受",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0095",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The university committee has promised to ____ the complaints that were raised by international students.",
+  "options": [
+   "look after",
+   "look up to",
+   "look into",
+   "look out for"
+  ],
+  "answer": 2,
+  "explain_zh": "look into 是「調查、深入了解」，常和 complaint、case 搭配。look after 是照顧、look up to 是敬佩、look out for 是留意提防，都不是調查。",
+  "vocab": [
+   {
+    "w": "look into",
+    "zh": "調查",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0096",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "With the help of a private donation, the university plans to ____ a new centre for climate research.",
+  "options": [
+   "set off",
+   "set aside",
+   "set back",
+   "set up"
+  ],
+  "answer": 3,
+  "explain_zh": "set up 是「設立、成立（機構）」。set off 是出發或引爆、set aside 是撥出或擱置、set back 是延誤，都不能用來成立研究中心。",
+  "vocab": [
+   {
+    "w": "set up",
+    "zh": "設立、成立",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0097",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Small firms are often reluctant to ____ extra staff during a period of economic uncertainty.",
+  "options": [
+   "take on",
+   "take off",
+   "take over",
+   "take in"
+  ],
+  "answer": 0,
+  "explain_zh": "take on 有「僱用、承擔」的意思，take on staff 就是增聘員工。take off 是起飛或脫下、take over 是接管、take in 是吸收或收留，都不是僱用。",
+  "vocab": [
+   {
+    "w": "take on",
+    "zh": "僱用、承擔",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0098",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Negotiations between the two sides finally ____ when neither party was willing to make any concession.",
+  "options": [
+   "broke out",
+   "broke down",
+   "broke in",
+   "broke through"
+  ],
+  "answer": 1,
+  "explain_zh": "break down 用在談判、機器、系統上表示「失敗、崩潰」。break out 是爆發（戰爭、疾病）、break in 是闖入、break through 是突破，都與談判破裂不同。",
+  "vocab": [
+   {
+    "w": "break down",
+    "zh": "破裂、失敗",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0099",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Economists are still trying to ____ exactly why the recovery slowed down so quickly last winter.",
+  "options": [
+   "figure in",
+   "make up",
+   "figure out",
+   "turn out"
+  ],
+  "answer": 2,
+  "explain_zh": "figure out 是「弄清楚、想通」，後面可接 why 子句。figure in 是被列入考量、make up 是編造或組成、turn out 是結果證明，都不能表示研究原因。",
+  "vocab": [
+   {
+    "w": "figure out",
+    "zh": "弄清楚",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0100",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "In her review of the article, Professor Wang ____ that the sample had been drawn from only one city.",
+  "options": [
+   "pointed at",
+   "pointed to",
+   "pointed up",
+   "pointed out"
+  ],
+  "answer": 3,
+  "explain_zh": "point out that… 是「指出（某個事實）」，後面可接 that 子句。point at 是用手指著、point to 後面要接名詞當作證據、point up 較少見且不接 that 子句。",
+  "vocab": [
+   {
+    "w": "point out",
+    "zh": "指出",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0101",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Doctors said they could not yet ____ the possibility of a second infection in the same patient.",
+  "options": [
+   "rule out",
+   "rule over",
+   "rule off",
+   "rule up"
+  ],
+  "answer": 0,
+  "explain_zh": "rule out 是「排除（可能性）」，是學術與新聞常見用法。rule over 是統治、rule off 是畫線隔開、rule up 幾乎不用，都不合。",
+  "vocab": [
+   {
+    "w": "rule out",
+    "zh": "排除",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0102",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Nutritionists usually advise their patients to ____ processed meat and sugary drinks rather than give them up completely.",
+  "options": [
+   "cut off",
+   "cut down on",
+   "cut up",
+   "cut in on"
+  ],
+  "answer": 1,
+  "explain_zh": "cut down on 是「減少（攝取量）」，正好和後面的 give up completely 形成對比。cut off 是切斷、cut up 是切碎、cut in on 是打斷插話。",
+  "vocab": [
+   {
+    "w": "cut down on",
+    "zh": "減少",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0103",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Several parents ____ the issue of school lunch quality during the question session at the meeting.",
+  "options": [
+   "brought down",
+   "brought along",
+   "brought up",
+   "brought round"
+  ],
+  "answer": 2,
+  "explain_zh": "bring up 是「提出（話題、議題）」。bring down 是使下降或推翻、bring along 是帶著一起來、bring round 是使人清醒或說服，都不是提出議題。",
+  "vocab": [
+   {
+    "w": "bring up",
+    "zh": "提出（話題）",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0104",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The immigration department is badly understaffed and simply cannot ____ so many applications each month.",
+  "options": [
+   "deal in",
+   "deal out",
+   "deal to",
+   "deal with"
+  ],
+  "answer": 3,
+  "explain_zh": "deal with 是「處理」。deal in 是買賣某類商品、deal out 是分發、deal to 不是標準用法。記住 deal with a problem、deal with complaints。",
+  "vocab": [
+   {
+    "w": "deal with",
+    "zh": "處理",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0105",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The city council is trying to ____ the illegal advertising boards that block the pavement near the station.",
+  "options": [
+   "get rid of",
+   "get over",
+   "get through",
+   "get on with"
+  ],
+  "answer": 0,
+  "explain_zh": "get rid of 是「除掉、清除」。get over 是克服或從病中康復、get through 是通過或完成、get on with 是相處融洽或繼續做，都不是清除物品。",
+  "vocab": [
+   {
+    "w": "get rid of",
+    "zh": "除掉",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0106",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Two of the candidates ____ detailed plans for reducing traffic in the historic centre of the city.",
+  "options": [
+   "put down",
+   "put forward",
+   "put aside",
+   "put off"
+  ],
+  "answer": 1,
+  "explain_zh": "put forward 是「提出（計畫、建議）」，是正式寫作常用的片語動詞。put down 是放下或記下、put aside 是擱置、put off 是延期，都不合。",
+  "vocab": [
+   {
+    "w": "put forward",
+    "zh": "提出（計畫）",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0107",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "A much larger airline is expected to ____ the loss-making regional carrier before the end of June.",
+  "options": [
+   "take after",
+   "take up",
+   "take over",
+   "take back"
+  ],
+  "answer": 2,
+  "explain_zh": "take over 是「接管、併購」公司。take after 是長得像長輩、take up 是開始從事某項活動、take back 是收回，都不能表達併購。",
+  "vocab": [
+   {
+    "w": "take over",
+    "zh": "接管、併購",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0108",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The environmental report ____ much stricter controls on the use of single-use plastic packaging.",
+  "options": [
+   "calls off",
+   "calls up",
+   "calls in",
+   "calls for"
+  ],
+  "answer": 3,
+  "explain_zh": "call for 是「呼籲、要求」，常見於報告與新聞。call off 是取消、call up 是打電話或徵召、call in 是請人來處理，都不合語意。",
+  "vocab": [
+   {
+    "w": "call for",
+    "zh": "呼籲、要求",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0109",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Experts warn that several major coastal cities may ____ fresh water within the next twenty years.",
+  "options": [
+   "run out of",
+   "run into",
+   "run over",
+   "run through"
+  ],
+  "answer": 0,
+  "explain_zh": "run out of 是「用完、耗盡」。run into 是偶遇或撞上、run over 是輾過或快速複習、run through 是快速看過一遍，都不是資源耗盡。",
+  "vocab": [
+   {
+    "w": "run out of",
+    "zh": "用完、耗盡",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0110",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She finally ____ the scholarship because the course content did not match her research interests.",
+  "options": [
+   "turned up",
+   "turned down",
+   "turned over",
+   "turned out"
+  ],
+  "answer": 1,
+  "explain_zh": "turn down 是「拒絕（提議、獎學金）」。turn up 是出現或調高音量、turn over 是翻面或營業額、turn out 是結果證明，都不是拒絕。",
+  "vocab": [
+   {
+    "w": "turn down",
+    "zh": "拒絕",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0111",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Many older employees say they struggle to ____ the rapid changes in workplace technology.",
+  "options": [
+   "keep off",
+   "keep back",
+   "keep up with",
+   "keep down"
+  ],
+  "answer": 2,
+  "explain_zh": "keep up with 是「跟上（速度、變化）」。keep off 是遠離、keep back 是保留或退後、keep down 是壓低，都不能表示跟上進度。",
+  "vocab": [
+   {
+    "w": "keep up with",
+    "zh": "跟上",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0112",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Renewable sources now ____ almost a third of the electricity generated in the country every year.",
+  "options": [
+   "count on",
+   "allow for",
+   "stand for",
+   "account for"
+  ],
+  "answer": 3,
+  "explain_zh": "account for 在數據描述中是「占（比例）」，雅思 Task 1 很常用。count on 是依賴、allow for 是把某因素考慮進去、stand for 是代表或縮寫。",
+  "vocab": [
+   {
+    "w": "account for",
+    "zh": "占（比例）",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0113",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "In the final chapter she ____ interviews with twelve local farmers to support her main argument.",
+  "options": [
+   "draws on",
+   "draws in",
+   "draws out",
+   "draws back"
+  ],
+  "answer": 0,
+  "explain_zh": "draw on 是「運用、援引（資料、經驗）」，學術寫作高頻用法。draw in 是吸引進來、draw out 是拉長或使人開口、draw back 是退縮。",
+  "vocab": [
+   {
+    "w": "draw on",
+    "zh": "運用、援引",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0114",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Always ____ the claims in your essay with data taken from a reliable and recent source.",
+  "options": [
+   "back down",
+   "back up",
+   "back off",
+   "back out"
+  ],
+  "answer": 1,
+  "explain_zh": "back up 是「支持、佐證」，back up a claim with data 是寫作常用搭配。back down 是讓步、back off 是退開、back out 是臨陣退出。",
+  "vocab": [
+   {
+    "w": "back up",
+    "zh": "佐證、支持",
+    "pos": "phr.v."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0115",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The committee will ____ a final decision only after it has reviewed all of the written evidence.",
+  "options": [
+   "do",
+   "give",
+   "make",
+   "put"
+  ],
+  "answer": 2,
+  "explain_zh": "英文固定說 make a decision，中文的「做決定」不能直譯成 do a decision。give a decision 與 put a decision 都不是搭配。記住 make 用在 decision、mistake、progress。",
+  "vocab": [
+   {
+    "w": "make a decision",
+    "zh": "做決定",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0116",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The minister refused to ____ responsibility for the failure of the flood prevention scheme.",
+  "options": [
+   "make",
+   "do",
+   "give",
+   "take"
+  ],
+  "answer": 3,
+  "explain_zh": "responsibility 要搭配 take，take responsibility for 就是「為…負責」。make responsibility、do responsibility 都不存在；give responsibility 是「賦予某人責任」，主詞與語意都不合。",
+  "vocab": [
+   {
+    "w": "take responsibility",
+    "zh": "負起責任",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0117",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Candidates should ____ close attention to the exact wording of every question in the writing task.",
+  "options": [
+   "pay",
+   "say",
+   "do",
+   "make"
+  ],
+  "answer": 0,
+  "explain_zh": "attention 的固定搭配動詞是 pay，pay close attention to 是「密切注意」。say attention、do attention、make attention 都是中式英文，意思看得懂但搭配是錯的。",
+  "vocab": [
+   {
+    "w": "pay attention",
+    "zh": "注意",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0118",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The campaign is designed to ____ awareness of mental health problems among senior high school students.",
+  "options": [
+   "rise",
+   "raise",
+   "lift",
+   "arise"
+  ],
+  "answer": 1,
+  "explain_zh": "raise awareness 是固定搭配，raise 是及物動詞，後面可以直接接 awareness。rise 和 arise 都是不及物動詞不能接受詞；lift 多指實際把東西舉起來。",
+  "vocab": [
+   {
+    "w": "raise awareness",
+    "zh": "提高意識",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0119",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Local volunteers ____ a key role in the clean-up operation that followed the typhoon last September.",
+  "options": [
+   "acted",
+   "took",
+   "played",
+   "did"
+  ],
+  "answer": 2,
+  "explain_zh": "role 的搭配動詞是 play，play a key role in 是「在…扮演重要角色」。act a role 只用在戲劇表演、take a role 較少見且語氣不同、do a role 不是英文搭配。",
+  "vocab": [
+   {
+    "w": "play a role",
+    "zh": "扮演角色",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0120",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Researchers have shown that air pollution ____ a serious impact on the lung development of young children.",
+  "options": [
+   "makes",
+   "does",
+   "gives",
+   "has"
+  ],
+  "answer": 3,
+  "explain_zh": "impact 搭配 have，have an impact on 是「對…有影響」。make an impact 雖然存在，但指「令人印象深刻」，和後面的 serious 與 on children 語氣不合；do 和 give 都不能搭配 impact。",
+  "vocab": [
+   {
+    "w": "have an impact",
+    "zh": "造成影響",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0121",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The design team worked through the weekend in order to ____ the deadline set by the client.",
+  "options": [
+   "meet",
+   "catch",
+   "arrive",
+   "follow"
+  ],
+  "answer": 0,
+  "explain_zh": "deadline 的固定搭配是 meet a deadline，表示「趕上期限」。catch 用在趕車、arrive 是不及物動詞、follow a deadline 不是英文說法。",
+  "vocab": [
+   {
+    "w": "meet a deadline",
+    "zh": "趕上期限",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0122",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is far too early to ____ any firm conclusions from such a small and unrepresentative sample.",
+  "options": [
+   "take",
+   "draw",
+   "do",
+   "pull"
+  ],
+  "answer": 1,
+  "explain_zh": "conclusion 搭配 draw，draw a conclusion 是「下結論」。take a conclusion、do a conclusion 都不是搭配；pull 雖然也有拉的意思，但不能和 conclusion 連用。",
+  "vocab": [
+   {
+    "w": "draw a conclusion",
+    "zh": "下結論",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0123",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Rising sea levels ____ a serious threat to the survival of many low-lying island communities.",
+  "options": [
+   "put",
+   "do",
+   "pose",
+   "offer"
+  ],
+  "answer": 2,
+  "explain_zh": "threat 的正式搭配動詞是 pose，pose a threat to 是「對…構成威脅」。put a threat、do a threat 不是英文；offer a threat 語氣相反，offer 帶有提供好處的意思。",
+  "vocab": [
+   {
+    "w": "pose a threat",
+    "zh": "構成威脅",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0124",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Only members of staff who have registered may ____ access to the confidential patient database.",
+  "options": [
+   "reach",
+   "win",
+   "catch",
+   "gain"
+  ],
+  "answer": 3,
+  "explain_zh": "access 搭配 gain 或 have，gain access to 是「取得使用權限」。reach access、win access、catch access 都不是英文搭配，雖然這幾個動詞都有「得到」的影子。",
+  "vocab": [
+   {
+    "w": "gain access",
+    "zh": "取得權限",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0125",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The laboratory has ____ research into antibiotic resistance for more than fifteen years.",
+  "options": [
+   "conducted",
+   "made",
+   "taken",
+   "built"
+  ],
+  "answer": 0,
+  "explain_zh": "research 的正式搭配動詞是 conduct，conduct research into 是「對…進行研究」。make research、take research、build research 都是錯誤搭配，中文的「做研究」不能用 make。",
+  "vocab": [
+   {
+    "w": "conduct research",
+    "zh": "進行研究",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0126",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "After eight months of difficult talks, the two governments finally ____ an agreement on fishing rights.",
+  "options": [
+   "arrived",
+   "reached",
+   "gained",
+   "found"
+  ],
+  "answer": 1,
+  "explain_zh": "agreement 搭配 reach，reach an agreement 是「達成協議」。arrive 後面要加 at 才能接受詞；gain an agreement 與 found an agreement 都不是搭配。",
+  "vocab": [
+   {
+    "w": "reach an agreement",
+    "zh": "達成協議",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0127",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The government must ____ urgent measures to reduce the amount of food wasted by supermarkets.",
+  "options": [
+   "make",
+   "do",
+   "take",
+   "hold"
+  ],
+  "answer": 2,
+  "explain_zh": "measures 的搭配動詞是 take，take measures to 是「採取措施」。make measures、do measures、hold measures 都不是英文搭配。可以一起記 take action、take steps。",
+  "vocab": [
+   {
+    "w": "take measures",
+    "zh": "採取措施",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0128",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Successful language learners usually ____ realistic goals for themselves at the start of every week.",
+  "options": [
+   "put",
+   "place",
+   "build",
+   "set"
+  ],
+  "answer": 3,
+  "explain_zh": "goal 的搭配動詞是 set，set goals 是「設定目標」。put goals、place goals、build goals 都不是搭配。可以一起記 set a target、set a deadline。",
+  "vocab": [
+   {
+    "w": "set a goal",
+    "zh": "設定目標",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0129",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Most people find it extremely hard to ____ the habit of checking their phone late at night.",
+  "options": [
+   "break",
+   "destroy",
+   "cut",
+   "damage"
+  ],
+  "answer": 0,
+  "explain_zh": "habit 的搭配動詞是 break，break a habit 是「戒掉習慣」。destroy、cut、damage 雖然都有破壞的意思，但不能和 habit 連用。相對的說法是 form a habit。",
+  "vocab": [
+   {
+    "w": "break a habit",
+    "zh": "戒掉習慣",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0130",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "According to the physiotherapist, the patient has ____ remarkable progress since the operation in May.",
+  "options": [
+   "done",
+   "made",
+   "taken",
+   "given"
+  ],
+  "answer": 1,
+  "explain_zh": "progress 的固定搭配是 make progress。do progress、take progress、give progress 都是常見的中式錯誤。記住 make 家族：make progress、make an effort、make a difference。",
+  "vocab": [
+   {
+    "w": "make progress",
+    "zh": "進步",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0131",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Unfortunately the economic model does not ____ into account regional differences in average income.",
+  "options": [
+   "make",
+   "bring",
+   "take",
+   "put"
+  ],
+  "answer": 2,
+  "explain_zh": "take something into account 是「把…列入考量」的固定用法。make into account、bring into account、put into account 都不是英文，雖然三個動詞的意思看起來也很接近。",
+  "vocab": [
+   {
+    "w": "take into account",
+    "zh": "列入考量",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0132",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The revised syllabus ____ far greater emphasis on speaking skills than the version it replaces.",
+  "options": [
+   "makes",
+   "does",
+   "holds",
+   "places"
+  ],
+  "answer": 3,
+  "explain_zh": "emphasis 的搭配動詞是 place 或 put，place emphasis on 是「著重於」。make emphasis、do emphasis、hold emphasis 都不是搭配。",
+  "vocab": [
+   {
+    "w": "place emphasis on",
+    "zh": "著重於",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0133",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Parents living near the school have repeatedly ____ concerns about the safety of the pedestrian crossing.",
+  "options": [
+   "raised",
+   "risen",
+   "lifted",
+   "grown"
+  ],
+  "answer": 0,
+  "explain_zh": "concern 搭配 raise，raise concerns about 是「提出疑慮」。rise 是不及物動詞、lift 指實際舉起、grow concerns 不是標準搭配。注意 raise 與 rise 的差別。",
+  "vocab": [
+   {
+    "w": "raise concerns",
+    "zh": "提出疑慮",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0134",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The photography exhibition ____ considerable attention from both local visitors and the international media.",
+  "options": [
+   "pulled",
+   "attracted",
+   "collected",
+   "gathered"
+  ],
+  "answer": 1,
+  "explain_zh": "attention 可以搭配 attract 或 draw，attract attention 是「吸引注意」。pull attention、collect attention、gather attention 都不是英文搭配。",
+  "vocab": [
+   {
+    "w": "attract attention",
+    "zh": "吸引注意",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0135",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "All applicants must ____ the entry requirements of the department before they are invited to an interview.",
+  "options": [
+   "fill",
+   "answer",
+   "meet",
+   "obey"
+  ],
+  "answer": 2,
+  "explain_zh": "requirement 的搭配動詞是 meet 或 satisfy，meet the requirements 是「符合要求」。fill、answer、obey 雖然都有回應規定的味道，但都不能和 requirements 連用。",
+  "vocab": [
+   {
+    "w": "meet the requirements",
+    "zh": "符合要求",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0136",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "More than three hundred senior high school students ____ part in the environmental survey last spring.",
+  "options": [
+   "made",
+   "did",
+   "played",
+   "took"
+  ],
+  "answer": 3,
+  "explain_zh": "take part in 是「參加」的固定說法。make part、do part、play part 都不是搭配；play a part in 雖然存在，但意思是「起作用」而且一定要有冠詞 a。",
+  "vocab": [
+   {
+    "w": "take part in",
+    "zh": "參加",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0137",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Consumers will eventually ____ the price for the environmental damage caused by cheap fast fashion.",
+  "options": [
+   "pay",
+   "spend",
+   "cost",
+   "buy"
+  ],
+  "answer": 0,
+  "explain_zh": "pay the price for 是「為…付出代價」的固定搭配。spend 的受詞是金錢或時間、cost 的主詞是物品、buy the price 不是英文。",
+  "vocab": [
+   {
+    "w": "pay the price",
+    "zh": "付出代價",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0138",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:collocation",
+  "tag_zh": "搭配詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Policymakers must ____ a balance between economic growth and the conservation of natural habitats.",
+  "options": [
+   "hit",
+   "strike",
+   "beat",
+   "make"
+  ],
+  "answer": 1,
+  "explain_zh": "balance 的搭配動詞是 strike，strike a balance between A and B 是「在兩者之間取得平衡」。hit、beat 都有打擊的意思但不能搭配 balance；make a balance 也不是英文。",
+  "vocab": [
+   {
+    "w": "strike a balance",
+    "zh": "取得平衡",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0139",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Sales of electric scooters rose steadily in Asia last year; ____, they fell sharply in most European markets.",
+  "options": [
+   "for instance",
+   "in addition",
+   "in contrast",
+   "as a result"
+  ],
+  "answer": 2,
+  "explain_zh": "前後兩句方向相反，要用表示對比的 in contrast。for instance 是舉例、in addition 是補充、as a result 是因果，都不能連接相反的趨勢。",
+  "vocab": [
+   {
+    "w": "in contrast",
+    "zh": "相較之下",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0140",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The largest factory in the town closed down last year; ____, local unemployment almost doubled within six months.",
+  "options": [
+   "for instance",
+   "in contrast",
+   "in particular",
+   "as a result"
+  ],
+  "answer": 3,
+  "explain_zh": "工廠關閉是原因、失業率上升是結果，要用 as a result。for instance 舉例、in contrast 對比、in particular 強調特定項目，都無法表達因果。",
+  "vocab": [
+   {
+    "w": "as a result",
+    "zh": "因此、結果",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0141",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Certain subjects, ____ mathematics and music, appear to require a great deal of daily practice.",
+  "options": [
+   "for instance",
+   "as a result",
+   "in contrast",
+   "in conclusion"
+  ],
+  "answer": 0,
+  "explain_zh": "後面接的 mathematics and music 是前面 certain subjects 的例子，所以用 for instance。as a result 是結果、in contrast 是對比、in conclusion 用在文章收尾。",
+  "vocab": [
+   {
+    "w": "for instance",
+    "zh": "舉例來說",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0142",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The two schools are very similar ____ class size, but they differ greatly in their teaching methods.",
+  "options": [
+   "in case of",
+   "in terms of",
+   "in spite of",
+   "in view of"
+  ],
+  "answer": 1,
+  "explain_zh": "in terms of 表示「就…方面而言」，用來指出比較的層面。in case of 是萬一、in spite of 是儘管、in view of 是鑑於，放進來語意都不通。",
+  "vocab": [
+   {
+    "w": "in terms of",
+    "zh": "就…而言",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0143",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the proposed budget cuts, the committee has agreed to publish its final decision next Friday.",
+  "options": [
+   "In regard for",
+   "On behalf of",
+   "With regard to",
+   "By means of"
+  ],
+  "answer": 2,
+  "explain_zh": "with regard to 是正式書信與報告常用的「關於」。In regard for 是錯誤形式，正確是 in regard to；on behalf of 是代表某人；by means of 是藉由某種方法。",
+  "vocab": [
+   {
+    "w": "with regard to",
+    "zh": "關於",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0144",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The theory is ____ correct, but it largely ignores cultural differences between the countries being compared.",
+  "options": [
+   "at some point",
+   "for some reason",
+   "by some means",
+   "to some extent"
+  ],
+  "answer": 3,
+  "explain_zh": "to some extent 表示「在某種程度上」，正好搭配後面的轉折 but。at some point 指時間點、for some reason 是不知為何、by some means 是用某種方法。",
+  "vocab": [
+   {
+    "w": "to some extent",
+    "zh": "在某種程度上",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0145",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The available evidence is still very limited; ____, the trend identified in the study is worth investigating.",
+  "options": [
+   "nevertheless",
+   "therefore",
+   "moreover",
+   "meanwhile"
+  ],
+  "answer": 0,
+  "explain_zh": "前句說證據不足、後句仍肯定價值，屬於讓步轉折，用 nevertheless。therefore 是因此、moreover 是而且、meanwhile 是同時，都不是轉折。",
+  "vocab": [
+   {
+    "w": "nevertheless",
+    "zh": "儘管如此",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0146",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The sample was far too small, and the results of the experiment are ____ rather unreliable.",
+  "options": [
+   "however",
+   "therefore",
+   "otherwise",
+   "whereas"
+  ],
+  "answer": 1,
+  "explain_zh": "樣本太小導致結果不可靠，是因果關係，用 therefore。however 是轉折、otherwise 是否則、whereas 用來對比兩個子句，都不合。",
+  "vocab": [
+   {
+    "w": "therefore",
+    "zh": "因此",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0147",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The plan will cut carbon emissions by a quarter. ____, it will create several thousand jobs in rural areas.",
+  "options": [
+   "In contrast",
+   "Instead",
+   "In addition",
+   "Otherwise"
+  ],
+  "answer": 2,
+  "explain_zh": "兩句都是這個計畫的好處，屬於補充，用 In addition。In contrast 是對比、Instead 是取而代之、Otherwise 是否則，都不能用來累加優點。",
+  "vocab": [
+   {
+    "w": "in addition",
+    "zh": "此外",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0148",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Online courses are considerably cheaper than campus courses; ____, they offer far less personal support.",
+  "options": [
+   "in the same way",
+   "as a result",
+   "for this reason",
+   "on the other hand"
+  ],
+  "answer": 3,
+  "explain_zh": "前面講優點、後面講缺點，用 on the other hand 表示另一面。in the same way 是同樣地、as a result 與 for this reason 都是因果，語意都不對。",
+  "vocab": [
+   {
+    "w": "on the other hand",
+    "zh": "另一方面",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0149",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "____, the evidence reviewed above suggests that early intervention saves both money and lives.",
+  "options": [
+   "In conclusion",
+   "In contrast",
+   "For instance",
+   "In terms of"
+  ],
+  "answer": 0,
+  "explain_zh": "句子在總結前面所有證據，所以用 In conclusion。In contrast 是對比、For instance 是舉例、In terms of 是就某方面而言，都不能用來收尾。",
+  "vocab": [
+   {
+    "w": "in conclusion",
+    "zh": "總結而言",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HV2-0150",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "phrase",
+  "tag": "phrase:academic-connector",
+  "tag_zh": "學術連接語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Urban households recycle their waste regularly, ____ many rural households still have no collection service.",
+  "options": [
+   "therefore",
+   "whereas",
+   "moreover",
+   "hence"
+  ],
+  "answer": 1,
+  "explain_zh": "whereas 是連接詞，用來對比兩個子句的差異。therefore 和 hence 表示因果、moreover 表示補充，而且這三個都是副詞，不能直接連接兩個子句。",
+  "vocab": [
+   {
+    "w": "whereas",
+    "zh": "然而、相對地",
+    "pos": "conj."
+   }
+  ]
+ }
+]

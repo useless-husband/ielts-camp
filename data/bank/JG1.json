@@ -1,0 +1,4652 @@
+[
+  {
+    "id": "JG1-0001",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My sister and I ____ students at the same junior high school.",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "answer": 2,
+    "explain_zh": "主詞 My sister and I 等於 we，是複數，be 動詞要用 are。am 只能配 I，is 配單數第三人稱，be 是原形不能單獨當動詞。記住：複數主詞配 are。",
+    "vocab": [
+      {
+        "w": "junior high school",
+        "zh": "國中",
+        "pos": "n."
+      },
+      {
+        "w": "student",
+        "zh": "學生",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0002",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Amy ____ not at home yesterday evening; she was at the library.",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "are"
+    ],
+    "answer": 0,
+    "explain_zh": "時間是 yesterday evening，且後半句用 was，整句是過去式。主詞 Amy 是單數，所以用 was not。is/are 是現在式，were 配複數主詞。",
+    "vocab": [
+      {
+        "w": "library",
+        "zh": "圖書館",
+        "pos": "n."
+      },
+      {
+        "w": "evening",
+        "zh": "傍晚",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0003",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ your parents very busy at work every weekend?",
+    "options": [
+      "Is",
+      "Do",
+      "Was",
+      "Are"
+    ],
+    "answer": 3,
+    "explain_zh": "your parents 是複數，且 busy 是形容詞、句中沒有一般動詞，要用 be 動詞 Are 開頭。Do 只能用在一般動詞的疑問句，Was 是過去式與 every weekend 不合。",
+    "vocab": [
+      {
+        "w": "busy",
+        "zh": "忙碌的",
+        "pos": "adj."
+      },
+      {
+        "w": "weekend",
+        "zh": "週末",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0004",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "It ____ very cold in Taipei last winter, so I wore a thick coat.",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "be"
+    ],
+    "answer": 0,
+    "explain_zh": "last winter 是過去時間，後半句 wore 也是過去式，主詞 It 單數所以用 was。is 是現在式，were 要配複數主詞，be 是原形。",
+    "vocab": [
+      {
+        "w": "thick",
+        "zh": "厚的",
+        "pos": "adj."
+      },
+      {
+        "w": "coat",
+        "zh": "外套",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0005",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My new shoes ____ too small, so I will return them tomorrow.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be"
+    ],
+    "answer": 2,
+    "explain_zh": "shoes 是複數名詞，be 動詞用 are；後面用 them 也證明主詞是複數。is 配單數、am 只配 I、be 是原形。鞋子永遠是一雙，記得配複數。",
+    "vocab": [
+      {
+        "w": "return",
+        "zh": "退還",
+        "pos": "v."
+      },
+      {
+        "w": "shoes",
+        "zh": "鞋子",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0006",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ in elementary school two years ago, but now I study here.",
+    "options": [
+      "was",
+      "am",
+      "were",
+      "be"
+    ],
+    "answer": 0,
+    "explain_zh": "two years ago 是明顯的過去時間，主詞 I 的過去 be 動詞是 was。am 是現在式，were 配 you 或複數主詞，be 是原形。",
+    "vocab": [
+      {
+        "w": "elementary school",
+        "zh": "國小",
+        "pos": "n."
+      },
+      {
+        "w": "ago",
+        "zh": "以前",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0007",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The weather ____ sunny today, so we can go to the beach.",
+    "options": [
+      "are",
+      "were",
+      "be",
+      "is"
+    ],
+    "answer": 3,
+    "explain_zh": "weather 是不可數名詞，視為單數，現在時間 today 用 is。are/were 配複數，be 是原形不能直接放在主詞後面。",
+    "vocab": [
+      {
+        "w": "weather",
+        "zh": "天氣",
+        "pos": "n."
+      },
+      {
+        "w": "beach",
+        "zh": "海灘",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0008",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ you tired after the long bike ride last Saturday?",
+    "options": [
+      "Are",
+      "Was",
+      "Were",
+      "Did"
+    ],
+    "answer": 2,
+    "explain_zh": "last Saturday 是過去時間，主詞 you 的過去 be 動詞是 were。Are 是現在式，Was 要配單數主詞，Did 後面必須接原形動詞而不是形容詞 tired。",
+    "vocab": [
+      {
+        "w": "tired",
+        "zh": "疲倦的",
+        "pos": "adj."
+      },
+      {
+        "w": "ride",
+        "zh": "騎乘",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0009",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My brother ____ a baseball player when he was in high school.",
+    "options": [
+      "is",
+      "was",
+      "were",
+      "are"
+    ],
+    "answer": 1,
+    "explain_zh": "when 子句用 was，表示整句在講過去，主詞 My brother 是單數，所以用 was。is/are 是現在式，were 要配複數主詞。",
+    "vocab": [
+      {
+        "w": "baseball",
+        "zh": "棒球",
+        "pos": "n."
+      },
+      {
+        "w": "player",
+        "zh": "球員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0010",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "These questions ____ not difficult, so I can answer them quickly.",
+    "options": [
+      "are",
+      "is",
+      "was",
+      "be"
+    ],
+    "answer": 0,
+    "explain_zh": "These questions 是複數，且 quickly 的情境是現在，用 are not。is 配單數，was 是過去單數，be 是原形。記住 these/those 後面一定接複數。",
+    "vocab": [
+      {
+        "w": "difficult",
+        "zh": "困難的",
+        "pos": "adj."
+      },
+      {
+        "w": "quickly",
+        "zh": "迅速地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0011",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Tom and Jack ____ absent from class last Monday morning.",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "is"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 Tom and Jack 是複數，時間 last Monday 是過去，所以用 were。was 配單數主詞，are/is 是現在式，與 last Monday 衝突。",
+    "vocab": [
+      {
+        "w": "absent",
+        "zh": "缺席的",
+        "pos": "adj."
+      },
+      {
+        "w": "class",
+        "zh": "課堂",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0012",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ not good at math, but I practice for an hour every day.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "am"
+    ],
+    "answer": 3,
+    "explain_zh": "主詞 I 的現在式 be 動詞只有 am，後半句 practice 是現在簡單式，時間一致。is 配第三人稱單數，are 配複數，was 是過去式。",
+    "vocab": [
+      {
+        "w": "practice",
+        "zh": "練習",
+        "pos": "v."
+      },
+      {
+        "w": "math",
+        "zh": "數學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0013",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father is ____ engineer, and he works for a computer company.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "some"
+    ],
+    "answer": 0,
+    "explain_zh": "engineer 以母音 [e] 開頭，不定冠詞要用 an。a 只放在子音開頭的字前，the 是特指，some 不能接單數可數名詞。",
+    "vocab": [
+      {
+        "w": "engineer",
+        "zh": "工程師",
+        "pos": "n."
+      },
+      {
+        "w": "company",
+        "zh": "公司",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0014",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I saw ____ interesting movie last night, and it made me cry.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "one of"
+    ],
+    "answer": 0,
+    "explain_zh": "interesting 以母音開頭，所以用 an interesting movie。a 用在子音開頭的字前，the 表示雙方都知道的特定事物，one of 後面要接複數名詞。",
+    "vocab": [
+      {
+        "w": "interesting",
+        "zh": "有趣的",
+        "pos": "adj."
+      },
+      {
+        "w": "movie",
+        "zh": "電影",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0015",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please close ____ door behind you; the wind is very strong.",
+    "options": [
+      "a",
+      "an",
+      "some",
+      "the"
+    ],
+    "answer": 3,
+    "explain_zh": "說話者指的是你身後那扇特定的門，所以用定冠詞 the。a/an 是第一次提到、不特定的東西，some 不能接單數可數名詞。",
+    "vocab": [
+      {
+        "w": "wind",
+        "zh": "風",
+        "pos": "n."
+      },
+      {
+        "w": "strong",
+        "zh": "強的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0016",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "She plays ____ piano in the school band every Friday afternoon.",
+    "options": [
+      "a",
+      "an",
+      "that",
+      "the"
+    ],
+    "answer": 3,
+    "explain_zh": "play 後面接樂器名稱時固定加 the，例如 play the piano、play the guitar。球類運動則不加冠詞，如 play basketball。",
+    "vocab": [
+      {
+        "w": "piano",
+        "zh": "鋼琴",
+        "pos": "n."
+      },
+      {
+        "w": "band",
+        "zh": "樂團",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0017",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Look at ____ moon tonight; it is bigger than usual.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "one"
+    ],
+    "answer": 2,
+    "explain_zh": "世界上獨一無二的事物，如 the moon、the sun、the earth，前面一定加 the。a/an 表示眾多當中的一個，one 是強調數量「一個」。",
+    "vocab": [
+      {
+        "w": "moon",
+        "zh": "月亮",
+        "pos": "n."
+      },
+      {
+        "w": "usual",
+        "zh": "平常的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0018",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I need ____ umbrella because it is raining hard outside.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "any"
+    ],
+    "answer": 1,
+    "explain_zh": "umbrella 以母音 [ʌ] 開頭，用 an。a 用在子音開頭的字前，the 是特指某一把傘，any 通常用在否定句或疑問句。",
+    "vocab": [
+      {
+        "w": "umbrella",
+        "zh": "雨傘",
+        "pos": "n."
+      },
+      {
+        "w": "hard",
+        "zh": "猛烈地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0019",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "He is ____ honest boy, so everyone in our class trusts him.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "some"
+    ],
+    "answer": 0,
+    "explain_zh": "honest 的 h 不發音，發音以母音開頭，所以用 an honest boy。判斷 a 還是 an 要看「發音」不是看字母，這是最常見的陷阱。",
+    "vocab": [
+      {
+        "w": "honest",
+        "zh": "誠實的",
+        "pos": "adj."
+      },
+      {
+        "w": "trust",
+        "zh": "信任",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0020",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "We waited for ____ hour, but the school bus never came.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "one of"
+    ],
+    "answer": 0,
+    "explain_zh": "hour 的 h 不發音，唸起來以母音開頭，所以用 an hour。a 用在子音發音前，the hour 會變成特指某個小時，one of 後面要接複數。",
+    "vocab": [
+      {
+        "w": "wait",
+        "zh": "等待",
+        "pos": "v."
+      },
+      {
+        "w": "hour",
+        "zh": "小時",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0021",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My uncle bought ____ new car, and he drives it to work every day.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "some"
+    ],
+    "answer": 1,
+    "explain_zh": "第一次提到、不特定的單數可數名詞用 a，而 new 以子音 [n] 開頭，所以是 a new car。an 用在母音發音前，the 用在已經提過的事物。",
+    "vocab": [
+      {
+        "w": "uncle",
+        "zh": "叔叔",
+        "pos": "n."
+      },
+      {
+        "w": "drive",
+        "zh": "開車",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0022",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "There is a cat under the table. ____ cat is my neighbor's.",
+    "options": [
+      "The",
+      "A",
+      "An",
+      "Some"
+    ],
+    "answer": 0,
+    "explain_zh": "前一句已經提過這隻貓，第二次提到同一個東西要用定冠詞 The。第一次提到才用 a/an，Some 後面要接複數或不可數名詞。",
+    "vocab": [
+      {
+        "w": "neighbor",
+        "zh": "鄰居",
+        "pos": "n."
+      },
+      {
+        "w": "cat",
+        "zh": "貓",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0023",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "She wants to be ____ nurse in a children's hospital someday.",
+    "options": [
+      "an",
+      "the",
+      "a",
+      "any"
+    ],
+    "answer": 2,
+    "explain_zh": "nurse 以子音 [n] 開頭，所以用 a nurse 表示「一位護理師」。an 用在母音發音前，the 是特指某位護理師，any 不能接單數可數名詞。",
+    "vocab": [
+      {
+        "w": "nurse",
+        "zh": "護理師",
+        "pos": "n."
+      },
+      {
+        "w": "someday",
+        "zh": "將來有一天",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0024",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Can you pass me ____ salt on the table, please?",
+    "options": [
+      "the",
+      "a",
+      "an",
+      "one"
+    ],
+    "answer": 0,
+    "explain_zh": "桌上的那罐鹽是雙方都看得到的特定物品，用 the。salt 是不可數名詞，不能用 a/an 或 one 來數。",
+    "vocab": [
+      {
+        "w": "pass",
+        "zh": "遞給",
+        "pos": "v."
+      },
+      {
+        "w": "salt",
+        "zh": "鹽",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0025",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "There are three ____ in the kitchen, and my mother is afraid of them.",
+    "options": [
+      "mice",
+      "mouses",
+      "mouse",
+      "mices"
+    ],
+    "answer": 0,
+    "explain_zh": "mouse 的複數是不規則變化 mice，前面有 three 所以要用複數。mouses、mices 是把不規則字硬加 s 的常見錯誤，mouse 是單數。",
+    "vocab": [
+      {
+        "w": "mouse",
+        "zh": "老鼠",
+        "pos": "n."
+      },
+      {
+        "w": "kitchen",
+        "zh": "廚房",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0026",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "My mother bought two ____ of bread at the bakery this morning.",
+    "options": [
+      "loaf",
+      "loafs",
+      "loave",
+      "loaves"
+    ],
+    "answer": 3,
+    "explain_zh": "字尾 f/fe 的名詞複數多改成 ves，loaf 的複數是 loaves。前面有 two 一定要用複數，loafs 是常見的錯誤拼法。",
+    "vocab": [
+      {
+        "w": "loaf",
+        "zh": "一條（麵包）",
+        "pos": "n."
+      },
+      {
+        "w": "bakery",
+        "zh": "麵包店",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0027",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "The dentist checked all of my ____ last week and found no problems.",
+    "options": [
+      "tooths",
+      "teeths",
+      "teeth",
+      "tooth"
+    ],
+    "answer": 2,
+    "explain_zh": "tooth 的複數是不規則變化 teeth，all of my 後面要用複數。tooths、teeths 都是多加 s 的錯誤，tooth 是單數只有一顆牙。",
+    "vocab": [
+      {
+        "w": "dentist",
+        "zh": "牙醫",
+        "pos": "n."
+      },
+      {
+        "w": "tooth",
+        "zh": "牙齒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0028",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "Three ____ are sitting on the bench and talking about their children.",
+    "options": [
+      "woman",
+      "womans",
+      "women",
+      "womens"
+    ],
+    "answer": 2,
+    "explain_zh": "woman 的複數是 women，屬於母音變化的不規則名詞，前面有 Three 要用複數。womans、womens 都是錯誤的加 s 寫法。",
+    "vocab": [
+      {
+        "w": "bench",
+        "zh": "長椅",
+        "pos": "n."
+      },
+      {
+        "w": "woman",
+        "zh": "女人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0029",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "The farmer keeps twenty ____ on his farm near the river.",
+    "options": [
+      "sheeps",
+      "sheepes",
+      "sheep",
+      "ships"
+    ],
+    "answer": 2,
+    "explain_zh": "sheep 是單複數同形的名詞，twenty sheep 不加 s。sheeps 是常見錯誤，ships 是「船」意思完全不同。類似的還有 deer、fish。",
+    "vocab": [
+      {
+        "w": "farmer",
+        "zh": "農夫",
+        "pos": "n."
+      },
+      {
+        "w": "sheep",
+        "zh": "綿羊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0030",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "There are many ____ on the shelf in our school library.",
+    "options": [
+      "dictionarys",
+      "dictionary",
+      "dictionaryes",
+      "dictionaries"
+    ],
+    "answer": 3,
+    "explain_zh": "子音加 y 結尾的名詞要去 y 加 ies，所以 dictionary 的複數是 dictionaries。dictionarys 是忘記變 y 的錯誤，dictionary 是單數。",
+    "vocab": [
+      {
+        "w": "dictionary",
+        "zh": "字典",
+        "pos": "n."
+      },
+      {
+        "w": "shelf",
+        "zh": "書架",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0031",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father cut the tomatoes with two sharp ____ in the kitchen.",
+    "options": [
+      "knifes",
+      "knife",
+      "knives",
+      "knivies"
+    ],
+    "answer": 2,
+    "explain_zh": "knife 字尾是 fe，複數要去 fe 加 ves，變成 knives。knifes 是直接加 s 的錯誤，knife 是單數與 two 不合。",
+    "vocab": [
+      {
+        "w": "sharp",
+        "zh": "鋒利的",
+        "pos": "adj."
+      },
+      {
+        "w": "knife",
+        "zh": "刀子",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0032",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "All the ____ in our school wear blue uniforms on Monday.",
+    "options": [
+      "childs",
+      "childrens",
+      "child",
+      "children"
+    ],
+    "answer": 3,
+    "explain_zh": "child 的複數是不規則變化 children，本身已經是複數不能再加 s。childs、childrens 都是錯的，child 是單數與 All 不合。",
+    "vocab": [
+      {
+        "w": "uniform",
+        "zh": "制服",
+        "pos": "n."
+      },
+      {
+        "w": "child",
+        "zh": "小孩",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0033",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "The store sells about fifty ____ of milk every single day.",
+    "options": [
+      "box",
+      "boxes",
+      "boxs",
+      "boxen"
+    ],
+    "answer": 1,
+    "explain_zh": "字尾是 x、s、sh、ch 的名詞要加 es，所以 box 的複數是 boxes。boxs 少了 e，box 是單數，boxen 不是英文的寫法。",
+    "vocab": [
+      {
+        "w": "store",
+        "zh": "商店",
+        "pos": "n."
+      },
+      {
+        "w": "box",
+        "zh": "盒子",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0034",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "The chef needs six ____ and two onions to make this soup.",
+    "options": [
+      "potatos",
+      "potato",
+      "potatoe",
+      "potatoes"
+    ],
+    "answer": 3,
+    "explain_zh": "potato 字尾是子音加 o，複數要加 es，變成 potatoes。potatos 少了 e，是最常見的拼字錯誤；potato 是單數。",
+    "vocab": [
+      {
+        "w": "chef",
+        "zh": "廚師",
+        "pos": "n."
+      },
+      {
+        "w": "potato",
+        "zh": "馬鈴薯",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0035",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "My aunt has three ____, and they are all under six years old.",
+    "options": [
+      "babys",
+      "baby",
+      "babyies",
+      "babies"
+    ],
+    "answer": 3,
+    "explain_zh": "baby 是子音加 y 結尾，複數去 y 加 ies 變成 babies。babys 忘了變化，baby 是單數，與 three 和 they 都不合。",
+    "vocab": [
+      {
+        "w": "aunt",
+        "zh": "阿姨",
+        "pos": "n."
+      },
+      {
+        "w": "baby",
+        "zh": "嬰兒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0036",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞單複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "These new shoes hurt my ____ after the long walk yesterday.",
+    "options": [
+      "foots",
+      "feets",
+      "feet",
+      "foot"
+    ],
+    "answer": 2,
+    "explain_zh": "foot 的複數是不規則變化 feet，一雙鞋對應兩隻腳要用複數。foots、feets 都是多加 s 的錯誤，foot 只有一隻腳。",
+    "vocab": [
+      {
+        "w": "hurt",
+        "zh": "使疼痛",
+        "pos": "v."
+      },
+      {
+        "w": "foot",
+        "zh": "腳",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0037",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "That blue backpack is not mine; I think it is ____.",
+    "options": [
+      "her",
+      "she",
+      "hers",
+      "her's"
+    ],
+    "answer": 2,
+    "explain_zh": "空格要用「所有格代名詞」代替 her backpack，所以是 hers。her 是所有格後面必須接名詞，she 是主格，her's 這種寫法不存在。",
+    "vocab": [
+      {
+        "w": "backpack",
+        "zh": "背包",
+        "pos": "n."
+      },
+      {
+        "w": "mine",
+        "zh": "我的（東西）",
+        "pos": "pron."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0038",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Tom is my best friend, and I often play basketball with ____.",
+    "options": [
+      "him",
+      "he",
+      "his",
+      "himself"
+    ],
+    "answer": 0,
+    "explain_zh": "介系詞 with 後面要接受格，所以用 him。he 是主格，his 是所有格，himself 是反身代名詞，句中主詞是 I 不能用 himself。",
+    "vocab": [
+      {
+        "w": "basketball",
+        "zh": "籃球",
+        "pos": "n."
+      },
+      {
+        "w": "friend",
+        "zh": "朋友",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0039",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My younger sister and ____ walk to school together every morning.",
+    "options": [
+      "I",
+      "me",
+      "my",
+      "mine"
+    ],
+    "answer": 0,
+    "explain_zh": "空格和 My younger sister 一起當句子的主詞，要用主格 I。me 是受格，my 是所有格要接名詞，mine 是所有格代名詞。",
+    "vocab": [
+      {
+        "w": "together",
+        "zh": "一起",
+        "pos": "adv."
+      },
+      {
+        "w": "sister",
+        "zh": "姊妹",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0040",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The cat cleaned ____ with its tongue for a long time.",
+    "options": [
+      "it",
+      "its",
+      "it's",
+      "itself"
+    ],
+    "answer": 3,
+    "explain_zh": "動作的接受者就是主詞那隻貓，要用反身代名詞 itself。it 是主格或受格但指別的東西，its 是所有格，it's 等於 it is。",
+    "vocab": [
+      {
+        "w": "tongue",
+        "zh": "舌頭",
+        "pos": "n."
+      },
+      {
+        "w": "clean",
+        "zh": "清潔",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0041",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please tell ____ the truth; my classmates and I really want to know.",
+    "options": [
+      "we",
+      "our",
+      "ours",
+      "us"
+    ],
+    "answer": 3,
+    "explain_zh": "tell 後面接受詞要用受格 us，而 my classmates and I 說明人數是複數。we 是主格，our 是所有格要接名詞，ours 是所有格代名詞。",
+    "vocab": [
+      {
+        "w": "truth",
+        "zh": "事實",
+        "pos": "n."
+      },
+      {
+        "w": "classmate",
+        "zh": "同學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0042",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ bicycle is this, the red one or the black one?",
+    "options": [
+      "Who's",
+      "Whose",
+      "Who",
+      "Whom"
+    ],
+    "answer": 1,
+    "explain_zh": "問「誰的腳踏車」要用所有格疑問詞 Whose，後面直接接名詞。Who's 等於 who is，Who 是主格，Whom 是受格，都不能接名詞。",
+    "vocab": [
+      {
+        "w": "bicycle",
+        "zh": "腳踏車",
+        "pos": "n."
+      },
+      {
+        "w": "black",
+        "zh": "黑色的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0043",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My mother made these sandwiches for you and ____.",
+    "options": [
+      "I",
+      "my",
+      "me",
+      "mine"
+    ],
+    "answer": 2,
+    "explain_zh": "介系詞 for 後面要接受格，所以是 for you and me。I 是主格，my 是所有格要接名詞，mine 代替「我的東西」不合句意。",
+    "vocab": [
+      {
+        "w": "sandwich",
+        "zh": "三明治",
+        "pos": "n."
+      },
+      {
+        "w": "make",
+        "zh": "製作",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0044",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The students finished the whole project by ____ without any help.",
+    "options": [
+      "them",
+      "themselves",
+      "they",
+      "their"
+    ],
+    "answer": 1,
+    "explain_zh": "by oneself 是「靠自己」的固定用法，主詞是複數的 students，所以用 themselves。them 是受格，they 是主格，their 是所有格。",
+    "vocab": [
+      {
+        "w": "project",
+        "zh": "專題",
+        "pos": "n."
+      },
+      {
+        "w": "help",
+        "zh": "幫助",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0045",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ is raining very hard now, so we should stay inside.",
+    "options": [
+      "There",
+      "It",
+      "That",
+      "This"
+    ],
+    "answer": 1,
+    "explain_zh": "談天氣、時間、距離時用虛主詞 It，例如 It is raining。There 要配 be 加名詞，That/This 是指特定事物，都不能當天氣的主詞。",
+    "vocab": [
+      {
+        "w": "inside",
+        "zh": "在室內",
+        "pos": "adv."
+      },
+      {
+        "w": "rain",
+        "zh": "下雨",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0046",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I left my pen at home. May I borrow ____?",
+    "options": [
+      "your",
+      "you",
+      "yours",
+      "you're"
+    ],
+    "answer": 2,
+    "explain_zh": "borrow 後面需要一個名詞，yours 等於 your pen，是所有格代名詞。your 是所有格必須接名詞，you 是主格或受格，you're 等於 you are。",
+    "vocab": [
+      {
+        "w": "borrow",
+        "zh": "借入",
+        "pos": "v."
+      },
+      {
+        "w": "pen",
+        "zh": "原子筆",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0047",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Mr. Lin teaches us English, and we all enjoy ____ classes very much.",
+    "options": [
+      "him",
+      "his",
+      "he",
+      "himself"
+    ],
+    "answer": 1,
+    "explain_zh": "空格後面有名詞 classes，要用所有格 his。him 是受格，he 是主格，himself 是反身代名詞，都不能直接修飾名詞。",
+    "vocab": [
+      {
+        "w": "teach",
+        "zh": "教導",
+        "pos": "v."
+      },
+      {
+        "w": "enjoy",
+        "zh": "享受",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0048",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Nobody helped me at all. I cooked the whole dinner ____.",
+    "options": [
+      "me",
+      "mine",
+      "myself",
+      "my"
+    ],
+    "answer": 2,
+    "explain_zh": "強調「我自己一個人做」要用反身代名詞 myself。me 是受格不能當強調語，mine 代替「我的東西」，my 是所有格要接名詞。",
+    "vocab": [
+      {
+        "w": "cook",
+        "zh": "烹煮",
+        "pos": "v."
+      },
+      {
+        "w": "dinner",
+        "zh": "晚餐",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0049",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ a post office near my house, so mailing letters is easy.",
+    "options": [
+      "are",
+      "was",
+      "be",
+      "is"
+    ],
+    "answer": 3,
+    "explain_zh": "There be 句型的 be 動詞要看後面的名詞，a post office 是單數且時間是現在，所以用 is。are 配複數，was 是過去式，be 是原形。",
+    "vocab": [
+      {
+        "w": "post office",
+        "zh": "郵局",
+        "pos": "n."
+      },
+      {
+        "w": "mail",
+        "zh": "寄（信）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0050",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ many students in the playground right now.",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "were"
+    ],
+    "answer": 2,
+    "explain_zh": "many students 是複數，加上 right now 表示現在，所以用 are。is 配單數名詞，was/were 是過去式與 right now 衝突。",
+    "vocab": [
+      {
+        "w": "playground",
+        "zh": "操場",
+        "pos": "n."
+      },
+      {
+        "w": "student",
+        "zh": "學生",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0051",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ no milk in the fridge yesterday, so I bought some.",
+    "options": [
+      "was",
+      "is",
+      "are",
+      "were"
+    ],
+    "answer": 0,
+    "explain_zh": "yesterday 是過去時間，milk 是不可數名詞視為單數，所以用 was。is/are 是現在式，were 要配複數名詞。",
+    "vocab": [
+      {
+        "w": "fridge",
+        "zh": "冰箱",
+        "pos": "n."
+      },
+      {
+        "w": "milk",
+        "zh": "牛奶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0052",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ there any water in the bottle on the desk?",
+    "options": [
+      "Are",
+      "Does",
+      "Is",
+      "Has"
+    ],
+    "answer": 2,
+    "explain_zh": "water 是不可數名詞視為單數，疑問句把 is 移到 there 前面變成 Is there。Are 配複數，Does/Has 不能用在 there be 句型。",
+    "vocab": [
+      {
+        "w": "bottle",
+        "zh": "瓶子",
+        "pos": "n."
+      },
+      {
+        "w": "water",
+        "zh": "水",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0053",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ twenty desks in this classroom last semester.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "was"
+    ],
+    "answer": 2,
+    "explain_zh": "twenty desks 是複數，last semester 是過去時間，所以用 were。is/are 是現在式，was 只能配單數或不可數名詞。",
+    "vocab": [
+      {
+        "w": "desk",
+        "zh": "書桌",
+        "pos": "n."
+      },
+      {
+        "w": "semester",
+        "zh": "學期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0054",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ a lot of rain in Taipei every June.",
+    "options": [
+      "are",
+      "have",
+      "has",
+      "is"
+    ],
+    "answer": 3,
+    "explain_zh": "rain 在這裡是不可數名詞，視為單數用 is，every June 表示習慣性的現在。are 配複數，have/has 不能出現在 there be 句型。",
+    "vocab": [
+      {
+        "w": "rain",
+        "zh": "雨",
+        "pos": "n."
+      },
+      {
+        "w": "June",
+        "zh": "六月",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0055",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "How many books ____ there on your desk right now?",
+    "options": [
+      "is",
+      "are",
+      "have",
+      "does"
+    ],
+    "answer": 1,
+    "explain_zh": "How many books 是複數，且 right now 是現在，所以用 are there。is 配單數，have/does 不能用在 there be 句型。",
+    "vocab": [
+      {
+        "w": "book",
+        "zh": "書",
+        "pos": "n."
+      },
+      {
+        "w": "many",
+        "zh": "許多",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0056",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ not any buses after eleven o'clock at night.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "answer": 1,
+    "explain_zh": "buses 是複數名詞，句子描述現在的情況，所以用 are not。is 配單數，was/were 是過去式，句中沒有過去時間線索。",
+    "vocab": [
+      {
+        "w": "bus",
+        "zh": "公車",
+        "pos": "n."
+      },
+      {
+        "w": "night",
+        "zh": "夜晚",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0057",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ a big earthquake in Hualien two years ago.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "answer": 2,
+    "explain_zh": "two years ago 是過去時間，a big earthquake 是單數，所以用 was。is/are 是現在式，were 要配複數名詞。",
+    "vocab": [
+      {
+        "w": "earthquake",
+        "zh": "地震",
+        "pos": "n."
+      },
+      {
+        "w": "big",
+        "zh": "大的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0058",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My brother ____ to school by bus every day.",
+    "options": [
+      "go",
+      "going",
+      "went",
+      "goes"
+    ],
+    "answer": 3,
+    "explain_zh": "every day 表示習慣，用現在簡單式；主詞 My brother 是第三人稱單數，動詞要加 es 變成 goes。go 少了 es，going 不能單獨當動詞，went 是過去式。",
+    "vocab": [
+      {
+        "w": "bus",
+        "zh": "公車",
+        "pos": "n."
+      },
+      {
+        "w": "brother",
+        "zh": "兄弟",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0059",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Water ____ at one hundred degrees Celsius at sea level.",
+    "options": [
+      "boils",
+      "boil",
+      "boiled",
+      "is boiling"
+    ],
+    "answer": 0,
+    "explain_zh": "科學事實或不變的真理一律用現在簡單式，water 視為單數所以用 boils。boil 少了 s，boiled 是過去式，is boiling 表示此刻正在進行。",
+    "vocab": [
+      {
+        "w": "boil",
+        "zh": "沸騰",
+        "pos": "v."
+      },
+      {
+        "w": "degree",
+        "zh": "度",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0060",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Lisa usually ____ her math homework right before dinner time.",
+    "options": [
+      "do",
+      "did",
+      "doing",
+      "does"
+    ],
+    "answer": 3,
+    "explain_zh": "usually 是頻率副詞，搭配現在簡單式；主詞 Lisa 是第三人稱單數，所以用 does。do 漏了 es，did 是過去式，doing 不能單獨當動詞。",
+    "vocab": [
+      {
+        "w": "usually",
+        "zh": "通常",
+        "pos": "adv."
+      },
+      {
+        "w": "homework",
+        "zh": "作業",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0061",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ not have any classes on Sunday.",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "are"
+    ],
+    "answer": 0,
+    "explain_zh": "主詞 We 是複數，現在簡單式的否定助動詞用 do not。does 只配第三人稱單數，did 是過去式，are 後面不能接原形動詞 have。",
+    "vocab": [
+      {
+        "w": "class",
+        "zh": "課",
+        "pos": "n."
+      },
+      {
+        "w": "Sunday",
+        "zh": "星期日",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0062",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ your father work in a hospital in Kaohsiung?",
+    "options": [
+      "Does",
+      "Do",
+      "Is",
+      "Did"
+    ],
+    "answer": 0,
+    "explain_zh": "your father 是第三人稱單數，現在簡單式疑問句要用 Does 加原形動詞。Do 配複數主詞，Is 後面不能接原形 work，Did 是過去式。",
+    "vocab": [
+      {
+        "w": "hospital",
+        "zh": "醫院",
+        "pos": "n."
+      },
+      {
+        "w": "work",
+        "zh": "工作",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0063",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The school library ____ at eight o'clock every morning.",
+    "options": [
+      "open",
+      "opened",
+      "opening",
+      "opens"
+    ],
+    "answer": 3,
+    "explain_zh": "every morning 是固定作息，用現在簡單式；主詞 library 是單數，動詞加 s 變成 opens。open 漏了 s，opened 是過去式。",
+    "vocab": [
+      {
+        "w": "library",
+        "zh": "圖書館",
+        "pos": "n."
+      },
+      {
+        "w": "open",
+        "zh": "開門",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0064",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My grandparents ____ in Tainan, and we visit them once a month.",
+    "options": [
+      "lives",
+      "live",
+      "living",
+      "lived"
+    ],
+    "answer": 1,
+    "explain_zh": "My grandparents 是複數主詞，現在簡單式動詞用原形 live，不加 s。lives 是第三人稱單數用法，lived 是過去式，living 不能單獨當動詞。",
+    "vocab": [
+      {
+        "w": "grandparents",
+        "zh": "祖父母",
+        "pos": "n."
+      },
+      {
+        "w": "visit",
+        "zh": "拜訪",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0065",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "She always ____ breakfast at home before she leaves for school.",
+    "options": [
+      "eats",
+      "eat",
+      "ate",
+      "eating"
+    ],
+    "answer": 0,
+    "explain_zh": "always 搭配現在簡單式，主詞 She 是第三人稱單數，動詞要加 s 變成 eats。eat 漏了 s，ate 是過去式，與 leaves 的現在式不一致。",
+    "vocab": [
+      {
+        "w": "breakfast",
+        "zh": "早餐",
+        "pos": "n."
+      },
+      {
+        "w": "always",
+        "zh": "總是",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0066",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Jenny ____ like tea, but she loves coffee very much.",
+    "options": [
+      "don't",
+      "doesn't",
+      "isn't",
+      "didn't"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 Jenny 是第三人稱單數，現在簡單式否定用 doesn't 加原形 like。don't 配複數主詞，isn't 後面不接原形動詞，didn't 是過去式。",
+    "vocab": [
+      {
+        "w": "coffee",
+        "zh": "咖啡",
+        "pos": "n."
+      },
+      {
+        "w": "tea",
+        "zh": "茶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0067",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The sun ____ in the east every single morning.",
+    "options": [
+      "rise",
+      "rises",
+      "rose",
+      "is rising"
+    ],
+    "answer": 1,
+    "explain_zh": "自然現象的真理用現在簡單式，the sun 是單數所以用 rises。rise 漏了 s，rose 是過去式，is rising 強調此刻正在上升。",
+    "vocab": [
+      {
+        "w": "rise",
+        "zh": "升起",
+        "pos": "v."
+      },
+      {
+        "w": "east",
+        "zh": "東方",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0068",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Peter and his sister ____ badminton every Saturday afternoon.",
+    "options": [
+      "play",
+      "plays",
+      "played",
+      "playing"
+    ],
+    "answer": 0,
+    "explain_zh": "主詞 Peter and his sister 是複數，現在簡單式用原形 play。plays 是第三人稱單數形，played 是過去式，與 every Saturday 不合。",
+    "vocab": [
+      {
+        "w": "badminton",
+        "zh": "羽球",
+        "pos": "n."
+      },
+      {
+        "w": "afternoon",
+        "zh": "下午",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0069",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My mother ____ the dishes right after dinner every night.",
+    "options": [
+      "wash",
+      "washes",
+      "washed",
+      "washing"
+    ],
+    "answer": 1,
+    "explain_zh": "every night 表示習慣用現在簡單式，主詞是第三人稱單數；字尾 sh 要加 es 變成 washes。wash 漏了 es，washed 是過去式。",
+    "vocab": [
+      {
+        "w": "dish",
+        "zh": "碗盤",
+        "pos": "n."
+      },
+      {
+        "w": "wash",
+        "zh": "清洗",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0070",
+    "level": "J1",
+    "cefr": "A1",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "How often ____ you go to the night market with your family?",
+    "options": [
+      "does",
+      "are",
+      "do",
+      "did"
+    ],
+    "answer": 2,
+    "explain_zh": "How often 問習慣的頻率，用現在簡單式；主詞 you 要配助動詞 do 加原形 go。does 配第三人稱單數，are 不接原形動詞，did 是過去式。",
+    "vocab": [
+      {
+        "w": "night market",
+        "zh": "夜市",
+        "pos": "n."
+      },
+      {
+        "w": "often",
+        "zh": "經常",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0071",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "That restaurant ____ delicious beef noodles at a very low price.",
+    "options": [
+      "serve",
+      "serves",
+      "served",
+      "serving"
+    ],
+    "answer": 1,
+    "explain_zh": "描述餐廳長期的情況用現在簡單式，主詞 That restaurant 是單數，動詞加 s 變成 serves。serve 漏了 s，served 是過去式。",
+    "vocab": [
+      {
+        "w": "serve",
+        "zh": "供應",
+        "pos": "v."
+      },
+      {
+        "w": "delicious",
+        "zh": "美味的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0072",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "現在簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "He rarely ____ TV on school nights because he has to study.",
+    "options": [
+      "watch",
+      "watches",
+      "watched",
+      "watching"
+    ],
+    "answer": 1,
+    "explain_zh": "rarely 是頻率副詞，搭配現在簡單式；主詞 He 是第三人稱單數，字尾 ch 加 es 變成 watches。watch 漏了 es，watched 是過去式。",
+    "vocab": [
+      {
+        "w": "rarely",
+        "zh": "很少",
+        "pos": "adv."
+      },
+      {
+        "w": "watch",
+        "zh": "觀看",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0073",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Listen! The baby ____ in the next room.",
+    "options": [
+      "cries",
+      "is crying",
+      "cried",
+      "cry"
+    ],
+    "answer": 1,
+    "explain_zh": "Listen! 表示此時此刻，要用現在進行式 be 加 V-ing，主詞單數所以是 is crying。cries 是習慣性動作，cried 是過去式，cry 沒有配 be 動詞。",
+    "vocab": [
+      {
+        "w": "cry",
+        "zh": "哭",
+        "pos": "v."
+      },
+      {
+        "w": "room",
+        "zh": "房間",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0074",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Look! It ____ outside, so please take your umbrella.",
+    "options": [
+      "rains",
+      "is raining",
+      "rained",
+      "will rain"
+    ],
+    "answer": 1,
+    "explain_zh": "Look! 代表現在正在發生的事，用現在進行式 is raining。rains 表示習慣，rained 是過去式，will rain 是還沒發生的未來。",
+    "vocab": [
+      {
+        "w": "outside",
+        "zh": "外面",
+        "pos": "adv."
+      },
+      {
+        "w": "take",
+        "zh": "攜帶",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0075",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ my homework right now, so I can't talk on the phone.",
+    "options": [
+      "do",
+      "am doing",
+      "did",
+      "have done"
+    ],
+    "answer": 1,
+    "explain_zh": "right now 表示此刻正在進行，主詞 I 用 am doing。do 是習慣性動作，did 是過去式，have done 表示已經完成，與 can't talk 的情境不合。",
+    "vocab": [
+      {
+        "w": "phone",
+        "zh": "電話",
+        "pos": "n."
+      },
+      {
+        "w": "talk",
+        "zh": "交談",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0076",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My parents ____ dinner in the kitchen at the moment.",
+    "options": [
+      "are cooking",
+      "cook",
+      "cooks",
+      "cooked"
+    ],
+    "answer": 0,
+    "explain_zh": "at the moment 表示此刻，複數主詞用 are cooking。cook 是現在簡單式表示習慣，cooks 主詞不一致，cooked 是過去式。",
+    "vocab": [
+      {
+        "w": "cook",
+        "zh": "烹煮",
+        "pos": "v."
+      },
+      {
+        "w": "moment",
+        "zh": "時刻",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0077",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "What ____ you doing at this very moment?",
+    "options": [
+      "are",
+      "do",
+      "is",
+      "were"
+    ],
+    "answer": 0,
+    "explain_zh": "現在進行式疑問句的結構是 be 加主詞加 V-ing，主詞 you 用 are。do 後面要接原形動詞，is 配單數第三人稱，were 是過去式。",
+    "vocab": [
+      {
+        "w": "moment",
+        "zh": "片刻",
+        "pos": "n."
+      },
+      {
+        "w": "do",
+        "zh": "做",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0078",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Be quiet! The students ____ an English test in the classroom.",
+    "options": [
+      "take",
+      "takes",
+      "are taking",
+      "took"
+    ],
+    "answer": 2,
+    "explain_zh": "Be quiet! 暗示考試正在進行，複數主詞用 are taking。take 是現在簡單式表示習慣，takes 主詞不一致，took 是過去式。",
+    "vocab": [
+      {
+        "w": "quiet",
+        "zh": "安靜的",
+        "pos": "adj."
+      },
+      {
+        "w": "test",
+        "zh": "測驗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0079",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "She ____ TV now; she is studying hard for tomorrow's exam.",
+    "options": [
+      "doesn't watch",
+      "wasn't watching",
+      "isn't watching",
+      "don't watch"
+    ],
+    "answer": 2,
+    "explain_zh": "now 加上後半句的 is studying 都指向現在進行式，否定用 isn't watching。doesn't watch 是習慣性否定，wasn't watching 是過去，don't watch 主詞不一致。",
+    "vocab": [
+      {
+        "w": "exam",
+        "zh": "考試",
+        "pos": "n."
+      },
+      {
+        "w": "study",
+        "zh": "讀書",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0080",
+    "level": "J1",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Look at those birds! They ____ over the lake right now.",
+    "options": [
+      "are flying",
+      "fly",
+      "flies",
+      "flew"
+    ],
+    "answer": 0,
+    "explain_zh": "Look at 加 right now 表示眼前正在發生，複數主詞用 are flying。fly 是習慣性動作，flies 主詞不一致，flew 是過去式。",
+    "vocab": [
+      {
+        "w": "lake",
+        "zh": "湖",
+        "pos": "n."
+      },
+      {
+        "w": "bird",
+        "zh": "鳥",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0081",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I can't answer your call because I ____ a shower now.",
+    "options": [
+      "take",
+      "took",
+      "have taken",
+      "am taking"
+    ],
+    "answer": 3,
+    "explain_zh": "because 子句說明此刻的狀況，用現在進行式 am taking a shower。take 是習慣，took 是過去式，have taken 表示已洗完就能接電話了。",
+    "vocab": [
+      {
+        "w": "shower",
+        "zh": "淋浴",
+        "pos": "n."
+      },
+      {
+        "w": "answer",
+        "zh": "接聽",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0082",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The soccer players ____ on the field at this moment.",
+    "options": [
+      "are running",
+      "run",
+      "runs",
+      "ran"
+    ],
+    "answer": 0,
+    "explain_zh": "at this moment 表示此刻正在進行，複數主詞用 are running，run 要雙寫 n 再加 ing。run 是習慣，runs 主詞不一致，ran 是過去式。",
+    "vocab": [
+      {
+        "w": "soccer",
+        "zh": "足球",
+        "pos": "n."
+      },
+      {
+        "w": "field",
+        "zh": "球場",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0083",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My sister ____ to music in her bedroom right now.",
+    "options": [
+      "listens",
+      "is listening",
+      "listened",
+      "listen"
+    ],
+    "answer": 1,
+    "explain_zh": "right now 表示此刻，主詞單數用 is listening，listen 後面要加介系詞 to。listens 是習慣性動作，listened 是過去式。",
+    "vocab": [
+      {
+        "w": "music",
+        "zh": "音樂",
+        "pos": "n."
+      },
+      {
+        "w": "bedroom",
+        "zh": "臥室",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0084",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Where ____ your brother going with that big suitcase?",
+    "options": [
+      "do",
+      "does",
+      "are",
+      "is"
+    ],
+    "answer": 3,
+    "explain_zh": "句中有 going，是現在進行式，主詞 your brother 是單數所以用 is。do/does 後面要接原形動詞，are 要配複數主詞。",
+    "vocab": [
+      {
+        "w": "suitcase",
+        "zh": "行李箱",
+        "pos": "n."
+      },
+      {
+        "w": "where",
+        "zh": "哪裡",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0085",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ late for class again, or the teacher will be angry.",
+    "options": [
+      "Don't be",
+      "Not be",
+      "Doesn't be",
+      "No be"
+    ],
+    "answer": 0,
+    "explain_zh": "祈使句的否定一律是 Don't 加原形動詞，be 動詞也一樣，所以是 Don't be late。Not be、No be 不合文法，Doesn't 不能用在祈使句。",
+    "vocab": [
+      {
+        "w": "angry",
+        "zh": "生氣的",
+        "pos": "adj."
+      },
+      {
+        "w": "late",
+        "zh": "遲到的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0086",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ go to the night market tonight! I am really hungry.",
+    "options": [
+      "Let us to",
+      "Let's",
+      "Lets to",
+      "Let's to"
+    ],
+    "answer": 1,
+    "explain_zh": "提出建議用 Let's 加原形動詞，Let's go 是「我們一起去吧」。Let's 後面絕對不加 to，Lets 少了撇號也是錯的。",
+    "vocab": [
+      {
+        "w": "hungry",
+        "zh": "飢餓的",
+        "pos": "adj."
+      },
+      {
+        "w": "tonight",
+        "zh": "今晚",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0087",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "Why don't we ____ a picnic in the park this Sunday?",
+    "options": [
+      "have",
+      "having",
+      "to have",
+      "has"
+    ],
+    "answer": 0,
+    "explain_zh": "Why don't we 後面接原形動詞，所以是 have a picnic。having、to have、has 都不能放在助動詞 don't 之後。",
+    "vocab": [
+      {
+        "w": "picnic",
+        "zh": "野餐",
+        "pos": "n."
+      },
+      {
+        "w": "park",
+        "zh": "公園",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0088",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ your hands carefully before you eat, please.",
+    "options": [
+      "Wash",
+      "Washing",
+      "Washes",
+      "To wash"
+    ],
+    "answer": 0,
+    "explain_zh": "祈使句以原形動詞開頭，直接用 Wash。Washing 是動名詞或進行式，Washes 是第三人稱單數形，To wash 是不定詞，都不能開頭下指令。",
+    "vocab": [
+      {
+        "w": "carefully",
+        "zh": "仔細地",
+        "pos": "adv."
+      },
+      {
+        "w": "hand",
+        "zh": "手",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0089",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ run in the hallway; someone may get hurt.",
+    "options": [
+      "Not",
+      "Doesn't",
+      "No",
+      "Don't"
+    ],
+    "answer": 3,
+    "explain_zh": "否定祈使句用 Don't 加原形動詞 run。Not 不能單獨開頭，Doesn't 用在第三人稱敘述句，No 後面要接名詞不能接動詞。",
+    "vocab": [
+      {
+        "w": "hallway",
+        "zh": "走廊",
+        "pos": "n."
+      },
+      {
+        "w": "hurt",
+        "zh": "受傷的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0090",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "How about ____ a bike ride along the riverside this weekend?",
+    "options": [
+      "take",
+      "taking",
+      "to take",
+      "takes"
+    ],
+    "answer": 1,
+    "explain_zh": "How about 後面要接動名詞 V-ing，所以是 taking。take、to take、takes 都不符合 How about 的用法，這是最常考的建議句型。",
+    "vocab": [
+      {
+        "w": "riverside",
+        "zh": "河濱",
+        "pos": "n."
+      },
+      {
+        "w": "weekend",
+        "zh": "週末",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0091",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ quiet while others are studying in the library.",
+    "options": [
+      "be",
+      "are",
+      "is",
+      "being"
+    ],
+    "answer": 0,
+    "explain_zh": "祈使句用原形動詞，be 動詞的原形就是 be，所以是 Please be quiet。are/is 是變化後的形式，being 是現在分詞，都不能用在祈使句。",
+    "vocab": [
+      {
+        "w": "quiet",
+        "zh": "安靜的",
+        "pos": "adj."
+      },
+      {
+        "w": "others",
+        "zh": "其他人",
+        "pos": "pron."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0092",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ not forget to bring your student ID card tomorrow.",
+    "options": [
+      "Does",
+      "Are",
+      "Is",
+      "Do"
+    ],
+    "answer": 3,
+    "explain_zh": "Do not forget 是否定祈使句的完整寫法，等於 Don't forget。Does 用在第三人稱敘述句，Are/Is 後面不能接原形動詞 forget。",
+    "vocab": [
+      {
+        "w": "forget",
+        "zh": "忘記",
+        "pos": "v."
+      },
+      {
+        "w": "bring",
+        "zh": "攜帶",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0093",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "You look really tired. ____ take a short rest?",
+    "options": [
+      "Why you don't",
+      "Why not you",
+      "Why don't you",
+      "Why aren't you"
+    ],
+    "answer": 2,
+    "explain_zh": "提出建議的固定句型是 Why don't you 加原形動詞。Why you don't 語序錯誤，Why not 後面要直接接原形動詞不加主詞，Why aren't you 是質問語氣。",
+    "vocab": [
+      {
+        "w": "rest",
+        "zh": "休息",
+        "pos": "n."
+      },
+      {
+        "w": "tired",
+        "zh": "疲倦的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0094",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ careful! The floor over there is really wet.",
+    "options": [
+      "Is",
+      "Be",
+      "Are",
+      "Being"
+    ],
+    "answer": 1,
+    "explain_zh": "警告別人的祈使句用原形 be，所以是 Be careful。Is/Are 是 be 動詞的變化形，Being 是現在分詞，祈使句一律用原形。",
+    "vocab": [
+      {
+        "w": "careful",
+        "zh": "小心的",
+        "pos": "adj."
+      },
+      {
+        "w": "floor",
+        "zh": "地板",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0095",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "Would you like ____ a cup of tea with us after the meeting?",
+    "options": [
+      "drink",
+      "drinking",
+      "drinks",
+      "to drink"
+    ],
+    "answer": 3,
+    "explain_zh": "Would you like 後面固定接不定詞 to 加原形動詞，所以是 to drink。drink、drinking、drinks 都不符合這個邀請句型。",
+    "vocab": [
+      {
+        "w": "meeting",
+        "zh": "會議",
+        "pos": "n."
+      },
+      {
+        "w": "cup",
+        "zh": "杯",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0096",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ me help you carry those heavy boxes upstairs.",
+    "options": [
+      "Let",
+      "Lets",
+      "Letting",
+      "To let"
+    ],
+    "answer": 0,
+    "explain_zh": "Let me 加原形動詞是「讓我來」的祈使句用法，開頭用原形 Let。Lets 是第三人稱單數形，Letting 是現在分詞，To let 是不定詞。",
+    "vocab": [
+      {
+        "w": "carry",
+        "zh": "搬運",
+        "pos": "v."
+      },
+      {
+        "w": "upstairs",
+        "zh": "樓上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0097",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ to Kenting during the summer vacation last year.",
+    "options": [
+      "go",
+      "goes",
+      "went",
+      "gone"
+    ],
+    "answer": 2,
+    "explain_zh": "last year 是明確的過去時間，go 的過去式是不規則變化 went。go/goes 是現在式，gone 是過去分詞必須和 have 連用。",
+    "vocab": [
+      {
+        "w": "vacation",
+        "zh": "假期",
+        "pos": "n."
+      },
+      {
+        "w": "summer",
+        "zh": "夏天",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0098",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "She ____ all her homework before dinner yesterday evening.",
+    "options": [
+      "finished",
+      "finish",
+      "finishes",
+      "finishing"
+    ],
+    "answer": 0,
+    "explain_zh": "yesterday 表示過去，規則動詞加 ed 變成 finished。finish/finishes 是現在式，finishing 不能單獨當動詞。",
+    "vocab": [
+      {
+        "w": "finish",
+        "zh": "完成",
+        "pos": "v."
+      },
+      {
+        "w": "evening",
+        "zh": "傍晚",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0099",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ you see the beautiful fireworks last night?",
+    "options": [
+      "Do",
+      "Are",
+      "Did",
+      "Were"
+    ],
+    "answer": 2,
+    "explain_zh": "last night 是過去時間，一般動詞的過去式疑問句用 Did 加原形 see。Do 是現在式，Are/Were 後面不能接原形動詞。",
+    "vocab": [
+      {
+        "w": "fireworks",
+        "zh": "煙火",
+        "pos": "n."
+      },
+      {
+        "w": "beautiful",
+        "zh": "美麗的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0100",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father ____ not drive to work yesterday because of the typhoon.",
+    "options": [
+      "do",
+      "does",
+      "was",
+      "did"
+    ],
+    "answer": 3,
+    "explain_zh": "yesterday 表示過去，否定用 did not 加原形 drive。do/does 是現在式，was 後面不能接原形動詞 drive。",
+    "vocab": [
+      {
+        "w": "typhoon",
+        "zh": "颱風",
+        "pos": "n."
+      },
+      {
+        "w": "drive",
+        "zh": "開車",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0101",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The concert ____ two hours ago, so we already missed it.",
+    "options": [
+      "begin",
+      "began",
+      "begins",
+      "begun"
+    ],
+    "answer": 1,
+    "explain_zh": "two hours ago 是過去時間，begin 的過去式是 began。begin/begins 是現在式，begun 是過去分詞要和 have 連用。",
+    "vocab": [
+      {
+        "w": "concert",
+        "zh": "演唱會",
+        "pos": "n."
+      },
+      {
+        "w": "miss",
+        "zh": "錯過",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0102",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ my wallet on the bus this morning and felt very upset.",
+    "options": [
+      "lose",
+      "loses",
+      "losing",
+      "lost"
+    ],
+    "answer": 3,
+    "explain_zh": "this morning 已經過去，而且後面用 felt，所以動詞用過去式 lost。lose/loses 是現在式，losing 不能單獨當動詞。",
+    "vocab": [
+      {
+        "w": "wallet",
+        "zh": "皮夾",
+        "pos": "n."
+      },
+      {
+        "w": "upset",
+        "zh": "沮喪的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0103",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "They ____ a new Italian restaurant near the station last month.",
+    "options": [
+      "open",
+      "opened",
+      "opens",
+      "opening"
+    ],
+    "answer": 1,
+    "explain_zh": "last month 是過去時間，規則動詞加 ed 變成 opened。open/opens 是現在式，opening 是現在分詞不能單獨當動詞。",
+    "vocab": [
+      {
+        "w": "restaurant",
+        "zh": "餐廳",
+        "pos": "n."
+      },
+      {
+        "w": "station",
+        "zh": "車站",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0104",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "He ____ up early and caught the first train yesterday.",
+    "options": [
+      "get",
+      "gets",
+      "gotten",
+      "got"
+    ],
+    "answer": 3,
+    "explain_zh": "yesterday 加上並列的 caught 都是過去式，get 的過去式是 got。get/gets 是現在式，gotten 是過去分詞要和 have 連用。",
+    "vocab": [
+      {
+        "w": "train",
+        "zh": "火車",
+        "pos": "n."
+      },
+      {
+        "w": "early",
+        "zh": "早地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0105",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "How many books ____ you read during the winter vacation?",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "have"
+    ],
+    "answer": 2,
+    "explain_zh": "during the winter vacation 指已經結束的那段假期，用 did 加原形 read。do/does 是現在式，have 要搭配過去分詞且不配 during 的明確時段。",
+    "vocab": [
+      {
+        "w": "winter",
+        "zh": "冬天",
+        "pos": "n."
+      },
+      {
+        "w": "read",
+        "zh": "閱讀",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0106",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ basketball for two hours last Sunday afternoon.",
+    "options": [
+      "play",
+      "played",
+      "plays",
+      "playing"
+    ],
+    "answer": 1,
+    "explain_zh": "last Sunday 是過去時間，規則動詞加 ed 變成 played。play/plays 是現在式，playing 不能單獨當動詞使用。",
+    "vocab": [
+      {
+        "w": "hour",
+        "zh": "小時",
+        "pos": "n."
+      },
+      {
+        "w": "play",
+        "zh": "打（球）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0107",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Amy ____ her grandmother in Taitung last weekend.",
+    "options": [
+      "visited",
+      "visit",
+      "visits",
+      "visiting"
+    ],
+    "answer": 0,
+    "explain_zh": "last weekend 是過去時間，visit 加 ed 變成 visited。visit/visits 是現在式，visiting 是現在分詞不能單獨當動詞。",
+    "vocab": [
+      {
+        "w": "grandmother",
+        "zh": "祖母",
+        "pos": "n."
+      },
+      {
+        "w": "visit",
+        "zh": "探望",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0108",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The teacher ____ us an interesting story yesterday morning.",
+    "options": [
+      "tell",
+      "tells",
+      "telling",
+      "told"
+    ],
+    "answer": 3,
+    "explain_zh": "yesterday morning 是過去時間，tell 的過去式是不規則變化 told。tell/tells 是現在式，telling 不能單獨當動詞。",
+    "vocab": [
+      {
+        "w": "story",
+        "zh": "故事",
+        "pos": "n."
+      },
+      {
+        "w": "teacher",
+        "zh": "老師",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0109",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ my notebook at home, so I could not hand in my report.",
+    "options": [
+      "leave",
+      "left",
+      "leaves",
+      "leaved"
+    ],
+    "answer": 1,
+    "explain_zh": "後半句用 could not，整句是過去式；leave 的過去式是不規則變化 left。leave/leaves 是現在式，leaved 是錯誤的規則變化。",
+    "vocab": [
+      {
+        "w": "notebook",
+        "zh": "筆記本",
+        "pos": "n."
+      },
+      {
+        "w": "report",
+        "zh": "報告",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0110",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "It ____ heavily all day yesterday, so we stayed at home.",
+    "options": [
+      "rain",
+      "rains",
+      "rained",
+      "is raining"
+    ],
+    "answer": 2,
+    "explain_zh": "yesterday 加上並列的 stayed 都是過去式，所以用 rained。rain/rains 是現在式，is raining 表示此刻正在下雨。",
+    "vocab": [
+      {
+        "w": "heavily",
+        "zh": "猛烈地",
+        "pos": "adv."
+      },
+      {
+        "w": "stay",
+        "zh": "停留",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0111",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "過去簡單式",
+    "passage": null,
+    "group_id": null,
+    "stem": "She ____ a beautiful red dress to the party last Friday.",
+    "options": [
+      "wear",
+      "wears",
+      "worn",
+      "wore"
+    ],
+    "answer": 3,
+    "explain_zh": "last Friday 是過去時間，wear 的過去式是 wore。wear/wears 是現在式，worn 是過去分詞必須和 have 或 be 連用。",
+    "vocab": [
+      {
+        "w": "dress",
+        "zh": "洋裝",
+        "pos": "n."
+      },
+      {
+        "w": "party",
+        "zh": "派對",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0112",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ you in front of the library tomorrow afternoon.",
+    "options": [
+      "meet",
+      "met",
+      "have met",
+      "will meet"
+    ],
+    "answer": 3,
+    "explain_zh": "tomorrow 是未來時間，用 will 加原形動詞 meet。meet 是現在式，met 是過去式，have met 表示已經見過面了。",
+    "vocab": [
+      {
+        "w": "meet",
+        "zh": "會面",
+        "pos": "v."
+      },
+      {
+        "w": "front",
+        "zh": "前方",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0113",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Look at the dark clouds! It ____ rain in a few minutes.",
+    "options": [
+      "is going to",
+      "will be",
+      "was going to",
+      "goes to"
+    ],
+    "answer": 0,
+    "explain_zh": "看到烏雲這種眼前證據，預測即將發生的事用 be going to 加原形動詞。will be rain 文法錯誤，was going to 是過去的打算，goes to 不能接原形動詞。",
+    "vocab": [
+      {
+        "w": "cloud",
+        "zh": "雲",
+        "pos": "n."
+      },
+      {
+        "w": "dark",
+        "zh": "昏暗的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0114",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My family ____ to Japan during the next winter vacation.",
+    "options": [
+      "will travel",
+      "travels",
+      "traveled",
+      "has traveled"
+    ],
+    "answer": 0,
+    "explain_zh": "next winter vacation 是未來時間，用 will 加原形 travel。travels 是現在習慣，traveled 是過去式，has traveled 表示已經去過。",
+    "vocab": [
+      {
+        "w": "travel",
+        "zh": "旅行",
+        "pos": "v."
+      },
+      {
+        "w": "family",
+        "zh": "家人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0115",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ you help me with my science project tomorrow night?",
+    "options": [
+      "Do",
+      "Did",
+      "Will",
+      "Are"
+    ],
+    "answer": 2,
+    "explain_zh": "tomorrow night 是未來時間，請求用 Will you 加原形動詞。Do 是現在式，Did 是過去式，Are 後面不能接原形動詞 help。",
+    "vocab": [
+      {
+        "w": "science",
+        "zh": "科學",
+        "pos": "n."
+      },
+      {
+        "w": "project",
+        "zh": "專題",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0116",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I think the weather ____ much better tomorrow morning.",
+    "options": [
+      "will be",
+      "is",
+      "was",
+      "has been"
+    ],
+    "answer": 0,
+    "explain_zh": "tomorrow morning 指未來，be 動詞的未來式是 will be。is 是現在式，was 是過去式，has been 表示到現在為止的狀態。",
+    "vocab": [
+      {
+        "w": "weather",
+        "zh": "天氣",
+        "pos": "n."
+      },
+      {
+        "w": "better",
+        "zh": "更好的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0117",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "She ____ not go to the party because she has a bad cold.",
+    "options": [
+      "will",
+      "does",
+      "did",
+      "is"
+    ],
+    "answer": 0,
+    "explain_zh": "派對還沒發生，用 will not go 表示未來不會去。does/did 分別是現在與過去的助動詞，is 後面不能接原形動詞 go。",
+    "vocab": [
+      {
+        "w": "cold",
+        "zh": "感冒",
+        "pos": "n."
+      },
+      {
+        "w": "party",
+        "zh": "派對",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0118",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ going to clean the classroom after school today.",
+    "options": [
+      "is",
+      "will",
+      "do",
+      "are"
+    ],
+    "answer": 3,
+    "explain_zh": "be going to 的句型中，主詞 We 要配 are。is 配單數主詞，will 後面要接原形動詞不能接 going to，do 不能放在這裡。",
+    "vocab": [
+      {
+        "w": "clean",
+        "zh": "打掃",
+        "pos": "v."
+      },
+      {
+        "w": "classroom",
+        "zh": "教室",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0119",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "If it rains tomorrow, we ____ the outdoor picnic.",
+    "options": [
+      "cancel",
+      "canceled",
+      "will cancel",
+      "have canceled"
+    ],
+    "answer": 2,
+    "explain_zh": "條件句的規則是「if 子句用現在式，主要子句用未來式」，所以用 will cancel。canceled 是過去式，have canceled 表示已取消，cancel 少了 will。",
+    "vocab": [
+      {
+        "w": "cancel",
+        "zh": "取消",
+        "pos": "v."
+      },
+      {
+        "w": "outdoor",
+        "zh": "戶外的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0120",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "What ____ you do after you graduate from junior high school?",
+    "options": [
+      "do",
+      "did",
+      "are",
+      "will"
+    ],
+    "answer": 3,
+    "explain_zh": "畢業是未來的事，問未來計畫用 will you do。do 是現在習慣，did 是過去式，are 後面不能直接接原形動詞 do。",
+    "vocab": [
+      {
+        "w": "graduate",
+        "zh": "畢業",
+        "pos": "v."
+      },
+      {
+        "w": "school",
+        "zh": "學校",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0121",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The train ____ arrive at Taichung Station in ten minutes.",
+    "options": [
+      "was",
+      "will",
+      "is",
+      "has"
+    ],
+    "answer": 1,
+    "explain_zh": "in ten minutes 表示「十分鐘後」，是未來時間，用 will 加原形 arrive。was 是過去式，is/has 後面不能直接接原形動詞 arrive。",
+    "vocab": [
+      {
+        "w": "arrive",
+        "zh": "抵達",
+        "pos": "v."
+      },
+      {
+        "w": "minute",
+        "zh": "分鐘",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0122",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ sixteen years old next month, and my family will celebrate.",
+    "options": [
+      "am",
+      "was",
+      "will be",
+      "have been"
+    ],
+    "answer": 2,
+    "explain_zh": "next month 是未來時間，be 動詞的未來式是 will be。am 是現在式，was 是過去式，have been 表示到目前為止的狀態。",
+    "vocab": [
+      {
+        "w": "celebrate",
+        "zh": "慶祝",
+        "pos": "v."
+      },
+      {
+        "w": "month",
+        "zh": "月",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0123",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Don't worry. I ____ tell anyone about your secret.",
+    "options": [
+      "don't",
+      "won't",
+      "didn't",
+      "am not"
+    ],
+    "answer": 1,
+    "explain_zh": "承諾未來不會做某事，用 won't 也就是 will not 加原形 tell。don't 是現在習慣，didn't 是過去式，am not 後面不能接原形動詞。",
+    "vocab": [
+      {
+        "w": "secret",
+        "zh": "祕密",
+        "pos": "n."
+      },
+      {
+        "w": "worry",
+        "zh": "擔心",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0124",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "You look really pale. You ____ see a doctor right away.",
+    "options": [
+      "must not",
+      "need not",
+      "should",
+      "would"
+    ],
+    "answer": 2,
+    "explain_zh": "給建議用 should 加原形動詞，表示「應該」。must not 是禁止，need not 是不必，都與關心對方的語意相反；would 在這裡沒有建議的意思。",
+    "vocab": [
+      {
+        "w": "pale",
+        "zh": "蒼白的",
+        "pos": "adj."
+      },
+      {
+        "w": "doctor",
+        "zh": "醫生",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0125",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Students ____ bring cellphones into the exam room; it is a rule.",
+    "options": [
+      "don't have to",
+      "need to",
+      "may",
+      "must not"
+    ],
+    "answer": 3,
+    "explain_zh": "規定禁止的事用 must not，表示「絕對不可以」。don't have to 是「不必」，need to 是「需要」，may 是「可以」，都與 it is a rule 的禁止語氣不合。",
+    "vocab": [
+      {
+        "w": "cellphone",
+        "zh": "手機",
+        "pos": "n."
+      },
+      {
+        "w": "rule",
+        "zh": "規定",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0126",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ not swim at all when I was five, but now I am on the swim team.",
+    "options": [
+      "can",
+      "could",
+      "will",
+      "must"
+    ],
+    "answer": 1,
+    "explain_zh": "when I was five 是過去，能力的過去式否定用 could not。can 是現在式，will 是未來，must 表示必須，都不符合過去能力的語意。",
+    "vocab": [
+      {
+        "w": "swim",
+        "zh": "游泳",
+        "pos": "v."
+      },
+      {
+        "w": "team",
+        "zh": "隊伍",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0127",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ I borrow your eraser for just a moment, please?",
+    "options": [
+      "Do",
+      "Am",
+      "Will",
+      "May"
+    ],
+    "answer": 3,
+    "explain_zh": "有禮貌地請求許可用 May I 加原形動詞。Do I borrow 是問習慣不合語意，Am 後面不能接原形動詞，Will I 是在問自己的未來。",
+    "vocab": [
+      {
+        "w": "borrow",
+        "zh": "借入",
+        "pos": "v."
+      },
+      {
+        "w": "eraser",
+        "zh": "橡皮擦",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0128",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Tomorrow is a holiday, so you ____ get up early.",
+    "options": [
+      "must not",
+      "don't have to",
+      "can't",
+      "shouldn't be"
+    ],
+    "answer": 1,
+    "explain_zh": "放假不必早起，用 don't have to 表示「不需要」。must not 是「不可以」語氣太強，can't 是沒有能力，shouldn't be 後面不能接原形動詞 get。",
+    "vocab": [
+      {
+        "w": "holiday",
+        "zh": "假日",
+        "pos": "n."
+      },
+      {
+        "w": "early",
+        "zh": "早地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0129",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is already midnight. We ____ go home right now.",
+    "options": [
+      "had better",
+      "had better to",
+      "better had",
+      "have better"
+    ],
+    "answer": 0,
+    "explain_zh": "had better 加原形動詞表示「最好、否則會有後果」，後面絕對不加 to。better had、have better 都不是正確的英文用法。",
+    "vocab": [
+      {
+        "w": "midnight",
+        "zh": "午夜",
+        "pos": "n."
+      },
+      {
+        "w": "home",
+        "zh": "家",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0130",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father ____ not like coffee, but he drinks green tea every day.",
+    "options": [
+      "do",
+      "did",
+      "is",
+      "does"
+    ],
+    "answer": 3,
+    "explain_zh": "主詞 My father 是第三人稱單數，現在簡單式否定用 does not。do 配複數主詞，did 是過去式與 every day 不合，is 後面不能接原形 like。",
+    "vocab": [
+      {
+        "w": "green tea",
+        "zh": "綠茶",
+        "pos": "n."
+      },
+      {
+        "w": "father",
+        "zh": "父親",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0131",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ study hard because the entrance exam is next week.",
+    "options": [
+      "have to",
+      "has to",
+      "having to",
+      "had to"
+    ],
+    "answer": 0,
+    "explain_zh": "主詞 We 是複數，現在的必要性用 have to。has to 配第三人稱單數，having to 不能單獨當動詞，had to 是過去式與 next week 衝突。",
+    "vocab": [
+      {
+        "w": "entrance exam",
+        "zh": "入學考試",
+        "pos": "n."
+      },
+      {
+        "w": "hard",
+        "zh": "努力地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0132",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "You ____ play in the street; cars go by very fast here.",
+    "options": [
+      "should",
+      "don't should",
+      "shouldn't",
+      "not should"
+    ],
+    "answer": 2,
+    "explain_zh": "勸阻別人做危險的事用 shouldn't 加原形動詞。should 語意相反，don't should 和 not should 都是錯誤的助動詞疊用寫法。",
+    "vocab": [
+      {
+        "w": "street",
+        "zh": "街道",
+        "pos": "n."
+      },
+      {
+        "w": "fast",
+        "zh": "快速地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0133",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ I open the window? It is a little hot in this room.",
+    "options": [
+      "Do",
+      "Am",
+      "Shall",
+      "Did"
+    ],
+    "answer": 2,
+    "explain_zh": "主動提議幫忙做某事用 Shall I 加原形動詞。Do I open 是問習慣，Am 不能接原形動詞，Did 是過去式與現在的情境不合。",
+    "vocab": [
+      {
+        "w": "window",
+        "zh": "窗戶",
+        "pos": "n."
+      },
+      {
+        "w": "hot",
+        "zh": "熱的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0134",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "He ____ not go to school yesterday because he had a high fever.",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "will"
+    ],
+    "answer": 2,
+    "explain_zh": "yesterday 是過去時間，否定用 did not 加原形 go。do/does 是現在式，will 是未來式，都與 yesterday 和 had 的過去時態衝突。",
+    "vocab": [
+      {
+        "w": "fever",
+        "zh": "發燒",
+        "pos": "n."
+      },
+      {
+        "w": "high",
+        "zh": "高的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0135",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:auxiliary-verbs",
+    "tag_zh": "助動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "You ____ to wear a helmet when you ride a scooter in Taiwan.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "have"
+    ],
+    "answer": 3,
+    "explain_zh": "空格後面有 to，只有 have to 這個用法符合，表示法律規定必須。must、should、can 都是情態助動詞，後面直接接原形動詞不能加 to。",
+    "vocab": [
+      {
+        "w": "helmet",
+        "zh": "安全帽",
+        "pos": "n."
+      },
+      {
+        "w": "scooter",
+        "zh": "機車",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0136",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ in Taichung since 2019, and I really love this city.",
+    "options": [
+      "live",
+      "have lived",
+      "lived",
+      "am living"
+    ],
+    "answer": 1,
+    "explain_zh": "since 加上年份表示從過去持續到現在，要用現在完成式 have lived。live 是現在習慣，lived 是單純過去，am living 只強調現在這陣子。",
+    "vocab": [
+      {
+        "w": "city",
+        "zh": "城市",
+        "pos": "n."
+      },
+      {
+        "w": "live",
+        "zh": "居住",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0137",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Kevin ____ already finished his dinner, so he is not hungry now.",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "is"
+    ],
+    "answer": 2,
+    "explain_zh": "already 是現在完成式的常見副詞，主詞 Kevin 是第三人稱單數，所以用 has finished。have 配複數主詞，had 是過去完成式，is 不能配過去分詞 finished。",
+    "vocab": [
+      {
+        "w": "already",
+        "zh": "已經",
+        "pos": "adv."
+      },
+      {
+        "w": "hungry",
+        "zh": "飢餓的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0138",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Have you ever ____ sushi at a Japanese restaurant before?",
+    "options": [
+      "eat",
+      "eaten",
+      "ate",
+      "eating"
+    ],
+    "answer": 1,
+    "explain_zh": "現在完成式的結構是 have 加過去分詞，eat 的過去分詞是 eaten。ate 是過去式，eat 是原形，eating 是現在分詞，都不能接在 have 後面。",
+    "vocab": [
+      {
+        "w": "sushi",
+        "zh": "壽司",
+        "pos": "n."
+      },
+      {
+        "w": "ever",
+        "zh": "曾經",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0139",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My parents ____ known each other for more than twenty years.",
+    "options": [
+      "has",
+      "have",
+      "are",
+      "were"
+    ],
+    "answer": 1,
+    "explain_zh": "for 加一段時間搭配現在完成式，主詞 My parents 是複數所以用 have known。has 配單數主詞，are/were 不能接過去分詞 known。",
+    "vocab": [
+      {
+        "w": "know",
+        "zh": "認識",
+        "pos": "v."
+      },
+      {
+        "w": "each other",
+        "zh": "彼此",
+        "pos": "pron."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0140",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ not seen my cousin since last summer vacation.",
+    "options": [
+      "has",
+      "have",
+      "did",
+      "am"
+    ],
+    "answer": 1,
+    "explain_zh": "since 表示從過去某時到現在，主詞 I 用 have not seen。has 配第三人稱單數，did 後面要接原形，am 不能接過去分詞。",
+    "vocab": [
+      {
+        "w": "cousin",
+        "zh": "表親",
+        "pos": "n."
+      },
+      {
+        "w": "see",
+        "zh": "見到",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0141",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "He ____ just missed the school bus, so he will be late today.",
+    "options": [
+      "have",
+      "did",
+      "was",
+      "has"
+    ],
+    "answer": 3,
+    "explain_zh": "just 常搭配現在完成式，主詞 He 是第三人稱單數，用 has missed。have 配複數主詞，did 後面要接原形 miss，was 不能接過去分詞。",
+    "vocab": [
+      {
+        "w": "miss",
+        "zh": "錯過",
+        "pos": "v."
+      },
+      {
+        "w": "late",
+        "zh": "遲到的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0142",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ this movie three times already, but we still love it.",
+    "options": [
+      "watch",
+      "watched",
+      "are watching",
+      "have watched"
+    ],
+    "answer": 3,
+    "explain_zh": "already 加上「累積次數」的語意要用現在完成式 have watched。watch 是習慣，watched 只講過去某次，are watching 是此刻正在看。",
+    "vocab": [
+      {
+        "w": "movie",
+        "zh": "電影",
+        "pos": "n."
+      },
+      {
+        "w": "time",
+        "zh": "次數",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0143",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "How long ____ you studied English in this language school?",
+    "options": [
+      "do",
+      "did",
+      "have",
+      "are"
+    ],
+    "answer": 2,
+    "explain_zh": "How long 問「持續多久」到現在，用現在完成式 have studied。do 是現在式，did 問已結束的過去，are 不能接過去分詞。",
+    "vocab": [
+      {
+        "w": "language",
+        "zh": "語言",
+        "pos": "n."
+      },
+      {
+        "w": "study",
+        "zh": "學習",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0144",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The Wangs ____ lived in this neighborhood for ten years.",
+    "options": [
+      "has",
+      "have",
+      "was",
+      "are"
+    ],
+    "answer": 1,
+    "explain_zh": "The Wangs 指王家一家人，是複數主詞，搭配 for ten years 用 have lived。has 配單數，was/are 不能接過去分詞 lived。",
+    "vocab": [
+      {
+        "w": "neighborhood",
+        "zh": "社區",
+        "pos": "n."
+      },
+      {
+        "w": "year",
+        "zh": "年",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0145",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Amy ____ never been late for class this whole semester.",
+    "options": [
+      "have",
+      "did",
+      "was",
+      "has"
+    ],
+    "answer": 3,
+    "explain_zh": "never 搭配現在完成式，主詞 Amy 是第三人稱單數，用 has been。have 配複數主詞，did 後面接原形，was 與 been 不能連用。",
+    "vocab": [
+      {
+        "w": "never",
+        "zh": "從未",
+        "pos": "adv."
+      },
+      {
+        "w": "semester",
+        "zh": "學期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0146",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I ____ finished my homework yet, so I can't play video games.",
+    "options": [
+      "didn't",
+      "hasn't",
+      "haven't",
+      "don't"
+    ],
+    "answer": 2,
+    "explain_zh": "yet 用在現在完成式的否定句，主詞 I 用 haven't finished。didn't 後面要接原形，hasn't 配第三人稱單數，don't 不能接過去分詞。",
+    "vocab": [
+      {
+        "w": "yet",
+        "zh": "尚未",
+        "pos": "adv."
+      },
+      {
+        "w": "video game",
+        "zh": "電玩",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0147",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "My sister ____ to Tainan twice this year, and she loves the food.",
+    "options": [
+      "has been",
+      "was",
+      "have been",
+      "is going"
+    ],
+    "answer": 0,
+    "explain_zh": "this year 是還沒結束的期間，加上累積次數 twice，用 has been to 表示「去過」。was 是單純過去，have been 主詞不一致，is going 是正在前往。",
+    "vocab": [
+      {
+        "w": "twice",
+        "zh": "兩次",
+        "pos": "adv."
+      },
+      {
+        "w": "food",
+        "zh": "食物",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0148",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The last train ____ already left, so we have to take a taxi.",
+    "options": [
+      "have",
+      "has",
+      "did",
+      "was"
+    ],
+    "answer": 1,
+    "explain_zh": "already 搭配現在完成式，主詞 The last train 是單數，用 has left。have 配複數主詞，did 後面接原形 leave，was 不能接過去分詞。",
+    "vocab": [
+      {
+        "w": "taxi",
+        "zh": "計程車",
+        "pos": "n."
+      },
+      {
+        "w": "train",
+        "zh": "火車",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0149",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "She has been an English teacher ____ almost ten years.",
+    "options": [
+      "since",
+      "from",
+      "for",
+      "during"
+    ],
+    "answer": 2,
+    "explain_zh": "for 後面接「一段時間」如 ten years，since 後面才接時間「起點」如 2015。from 不能單獨用在完成式，during 後面接特定期間的名詞。",
+    "vocab": [
+      {
+        "w": "teacher",
+        "zh": "教師",
+        "pos": "n."
+      },
+      {
+        "w": "almost",
+        "zh": "將近",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JG1-0150",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-perfect",
+    "tag_zh": "現在完成式",
+    "passage": null,
+    "group_id": null,
+    "stem": "I have known Peter ____ we were in elementary school together.",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "when"
+    ],
+    "answer": 0,
+    "explain_zh": "since 後面可以接一個過去式的子句，表示「自從……以來」。for 後面接一段時間，from 不這樣用，when 子句不能搭配現在完成式。",
+    "vocab": [
+      {
+        "w": "elementary school",
+        "zh": "國小",
+        "pos": "n."
+      },
+      {
+        "w": "together",
+        "zh": "一起",
+        "pos": "adv."
+      }
+    ]
+  }
+]

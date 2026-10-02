@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "PX-AST110-001",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟財務",
+    "source": "110指考",
+    "stem": "Due to a budget cut, our company's annual year-end party, which is usually quite a treat, has to be held at a ______ cost.",
+    "options": [
+      "hostile",
+      "barren",
+      "minimal",
+      "systematic"
+    ],
+    "answer": 2,
+    "explain_zh": "因預算刪減，尾牙只能以「最低」成本舉辦，故選 minimal；hostile（充滿敵意的）、barren（貧瘠的）、systematic（有系統的）皆與控制花費的語意不合。at a minimal cost 是常見的財經類搭配。",
+    "vocab": [
+      {
+        "w": "minimal",
+        "zh": "最低限度的",
+        "pos": "adj."
+      },
+      {
+        "w": "hostile",
+        "zh": "充滿敵意的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-002",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:crime-law",
+    "tag_zh": "犯罪法律",
+    "source": "110指考",
+    "stem": "A plot to rob the bank was ______ to the police, and all the people involved in the plan were caught.",
+    "options": [
+      "revealed",
+      "cancelled",
+      "declared",
+      "explored"
+    ],
+    "answer": 0,
+    "explain_zh": "搶劫銀行的陰謀被「揭發」通報給警方，涉案人員全數落網，故選 revealed；cancelled（被取消）、declared（被宣布）、explored（被探索）皆與陰謀曝光的語意不合。reveal a plot 是犯罪新聞常見搭配。",
+    "vocab": [
+      {
+        "w": "reveal",
+        "zh": "揭發",
+        "pos": "v."
+      },
+      {
+        "w": "plot",
+        "zh": "陰謀",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-003",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:communication",
+    "tag_zh": "言語表達",
+    "source": "110指考",
+    "stem": "One good way to ______ questions you don't want to answer in a conversation is to change the topic.",
+    "options": [
+      "whip",
+      "split",
+      "litter",
+      "dodge"
+    ],
+    "answer": 3,
+    "explain_zh": "轉移話題是「迴避」不想回答問題的好方法，故選 dodge；whip（鞭打）、split（分裂）、litter（亂丟垃圾）皆與迴避問題的語意不合。dodge a question 是常見的溝通類固定搭配。",
+    "vocab": [
+      {
+        "w": "dodge",
+        "zh": "迴避",
+        "pos": "v."
+      },
+      {
+        "w": "whip",
+        "zh": "鞭打",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-004",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:workplace",
+    "tag_zh": "職場用語",
+    "source": "110指考",
+    "stem": "To apply for a job, you need to have ______ such as skills, education, and experience required by the job.",
+    "options": [
+      "regulations",
+      "qualifications",
+      "preventions",
+      "conventions"
+    ],
+    "answer": 1,
+    "explain_zh": "應徵工作所需的技能、學歷、經驗等就是所謂的「資格條件」，故選 qualifications；regulations（規定）、preventions（預防）、conventions（慣例,大會）皆與應徵條件的語意不合。job qualifications 是職場類常見詞彙。",
+    "vocab": [
+      {
+        "w": "qualification",
+        "zh": "資格條件",
+        "pos": "n."
+      },
+      {
+        "w": "regulation",
+        "zh": "規定",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-005",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:daily-life",
+    "tag_zh": "日常生活",
+    "source": "110指考",
+    "stem": "For years, Lily has been ______ all incoming calls on both her mobile phone and home phone because she hates to be bothered by unknown callers.",
+    "options": [
+      "glittering",
+      "purifying",
+      "mimicking",
+      "filtering"
+    ],
+    "answer": 3,
+    "explain_zh": "Lily 討厭被陌生來電打擾，多年來持續「篩選」手機與家用電話的來電，故選 filtering；glittering（閃耀的）、purifying（淨化）、mimicking（模仿）皆與過濾來電的語意不合。filter calls 是生活化的常見搭配。",
+    "vocab": [
+      {
+        "w": "filter",
+        "zh": "篩選",
+        "pos": "v."
+      },
+      {
+        "w": "mimic",
+        "zh": "模仿",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-006",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒態度",
+    "source": "110指考",
+    "stem": "Many people felt extremely sad and angry over the ______ news of a stray dog found abused and killed in the park.",
+    "options": [
+      "flexible",
+      "sorrowful",
+      "eventual",
+      "optional"
+    ],
+    "answer": 1,
+    "explain_zh": "流浪狗遭虐待致死的消息令人「悲傷」又憤怒，故選 sorrowful；flexible（有彈性的）、eventual（最終的）、optional（可選的）皆與描述令人難過新聞的語意不合。sorrowful news 常用於描述令人心痛的消息。",
+    "vocab": [
+      {
+        "w": "sorrowful",
+        "zh": "悲傷的",
+        "pos": "adj."
+      },
+      {
+        "w": "flexible",
+        "zh": "有彈性的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-007",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:workplace",
+    "tag_zh": "職場用語",
+    "source": "110指考",
+    "stem": "Chris never shows up at meetings on time. His excuse for being ______ late is that he wants to avoid small talk at the beginning of the meetings.",
+    "options": [
+      "consistently",
+      "respectfully",
+      "indifferently",
+      "enormously"
+    ],
+    "answer": 0,
+    "explain_zh": "Chris 從不準時出席會議，暗示他「一貫」遲到，故選 consistently；respectfully（恭敬地）、indifferently（漠不關心地）、enormously（極大地）皆與描述持續性行為模式的語意不合。consistently late 表示習慣性、一貫地遲到。",
+    "vocab": [
+      {
+        "w": "consistently",
+        "zh": "一貫地",
+        "pos": "adv."
+      },
+      {
+        "w": "indifferently",
+        "zh": "漠不關心地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-008",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:workplace",
+    "tag_zh": "職場用語",
+    "source": "110指考",
+    "stem": "Steve will quit his job next week. His ______ is completely unexpected, especially after his promotion and pay raise two months ago.",
+    "options": [
+      "approval",
+      "enforcement",
+      "resignation",
+      "signature"
+    ],
+    "answer": 2,
+    "explain_zh": "Steve 下週即將離職，在剛升遷加薪後做出這個決定令人意外，「辭職」對應 resignation，故選 resignation；approval（核准）、enforcement（執行）、signature（簽名）皆與離職決定的語意不合。",
+    "vocab": [
+      {
+        "w": "resignation",
+        "zh": "辭職",
+        "pos": "n."
+      },
+      {
+        "w": "approval",
+        "zh": "核准",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-009",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康身體",
+    "source": "110指考",
+    "stem": "People with an ______ illness should avoid going to public places to keep the diseases from spreading.",
+    "options": [
+      "outrageous",
+      "infectious",
+      "ultimate",
+      "explicit"
+    ],
+    "answer": 1,
+    "explain_zh": "患有「傳染性」疾病的人應避免前往公共場所，以免疾病擴散，故選 infectious；outrageous（離譜的）、ultimate（終極的）、explicit（明確的）皆與疾病傳染性的語意不合。infectious illness 是健康類常見搭配。",
+    "vocab": [
+      {
+        "w": "infectious",
+        "zh": "傳染性的",
+        "pos": "adj."
+      },
+      {
+        "w": "outrageous",
+        "zh": "離譜的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-010",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:politics",
+    "tag_zh": "政治選舉",
+    "source": "110指考",
+    "stem": "Although electronic devices are very popular nowadays, paper ______ are still most common in major elections around the world.",
+    "options": [
+      "tokens",
+      "fragments",
+      "ballots",
+      "warranties"
+    ],
+    "answer": 2,
+    "explain_zh": "儘管電子裝置盛行，各國主要選舉仍普遍使用紙本「選票」，故選 ballots；tokens（代幣）、fragments（碎片）、warranties（保固書）皆與選舉投票用紙的語意不合。paper ballots 是政治類考題常見詞彙。",
+    "vocab": [
+      {
+        "w": "ballot",
+        "zh": "選票",
+        "pos": "n."
+      },
+      {
+        "w": "token",
+        "zh": "代幣,象徵",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-011",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "110指考",
+    "passage": "We all know that too much stress is not good for our health, but too little is not ideal, either. While (11) stress can be dangerous to the body, short-term stress is actually healthy.\nShort-term stress triggers the production of protective chemicals in our body and strengthens the body's defenses. (12) our body is in a vulnerable situation, a burst of stress will quickly mobilize the body's own repair system to defend the damaged areas. This (13) us from physical discomfort and sickness. Small amounts of stress hormones may even sharpen our memory. A recent study found that when rats were forced to swim—an activity that places them under stress for a short while—they remembered their way through mazes far (14) than rats that were in a relaxed state.\nThe key to a healthy lifestyle is to keep our stress level (15). Too much stress will make us cranky and sick. Too little stress, on the other hand, will lead to boredom and low motivation.",
+    "group_id": "PX-AST110-G01",
+    "stem": "(11) 應填入：While ____ stress can be dangerous to the body, short-term stress is actually healthy.",
+    "options": [
+      "contagious",
+      "chronic",
+      "diagnostic",
+      "tedious"
+    ],
+    "answer": 1,
+    "explain_zh": "此句以 While 帶出對比，與後面 short-term stress（短期壓力）相對的應是「慢性」壓力，故選 chronic；contagious（傳染性的）、diagnostic（診斷的）、tedious（乏味的）皆與長期壓力的語意不合。",
+    "vocab": [
+      {
+        "w": "chronic",
+        "zh": "慢性的,長期的",
+        "pos": "adj."
+      },
+      {
+        "w": "contagious",
+        "zh": "傳染性的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-012",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "110指考",
+    "passage": "We all know that too much stress is not good for our health, but too little is not ideal, either. While (11) stress can be dangerous to the body, short-term stress is actually healthy.\nShort-term stress triggers the production of protective chemicals in our body and strengthens the body's defenses. (12) our body is in a vulnerable situation, a burst of stress will quickly mobilize the body's own repair system to defend the damaged areas. This (13) us from physical discomfort and sickness. Small amounts of stress hormones may even sharpen our memory. A recent study found that when rats were forced to swim—an activity that places them under stress for a short while—they remembered their way through mazes far (14) than rats that were in a relaxed state.\nThe key to a healthy lifestyle is to keep our stress level (15). Too much stress will make us cranky and sick. Too little stress, on the other hand, will lead to boredom and low motivation.",
+    "group_id": "PX-AST110-G01",
+    "stem": "(12) 應填入：____ our body is in a vulnerable situation, a burst of stress will quickly mobilize the body's repair system.",
+    "options": [
+      "Till",
+      "Unless",
+      "When",
+      "Whereas"
+    ],
+    "answer": 2,
+    "explain_zh": "身體處於脆弱狀態「時」，一波壓力反應會立刻啟動身體的修復系統，故選 When；Till（直到）、Unless（除非）、Whereas（然而）皆無法表達「當…的時候」這種時間關係。",
+    "vocab": [
+      {
+        "w": "vulnerable",
+        "zh": "脆弱的",
+        "pos": "adj."
+      },
+      {
+        "w": "mobilize",
+        "zh": "動員,啟動",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-013",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "110指考",
+    "passage": "We all know that too much stress is not good for our health, but too little is not ideal, either. While (11) stress can be dangerous to the body, short-term stress is actually healthy.\nShort-term stress triggers the production of protective chemicals in our body and strengthens the body's defenses. (12) our body is in a vulnerable situation, a burst of stress will quickly mobilize the body's own repair system to defend the damaged areas. This (13) us from physical discomfort and sickness. Small amounts of stress hormones may even sharpen our memory. A recent study found that when rats were forced to swim—an activity that places them under stress for a short while—they remembered their way through mazes far (14) than rats that were in a relaxed state.\nThe key to a healthy lifestyle is to keep our stress level (15). Too much stress will make us cranky and sick. Too little stress, on the other hand, will lead to boredom and low motivation.",
+    "group_id": "PX-AST110-G01",
+    "stem": "(13) 應填入：Mobilizing the repair system, this ____ us from physical discomfort and sickness.",
+    "options": [
+      "conceals",
+      "derives",
+      "shields",
+      "transforms"
+    ],
+    "answer": 2,
+    "explain_zh": "啟動修復系統能「保護」我們免於身體不適與疾病，故選 shields；conceals（隱藏）、derives（衍生）、transforms（轉變）皆與提供保護的語意不合。shield A from B 是常見的固定搭配，表示保護某人免於某事。",
+    "vocab": [
+      {
+        "w": "shield",
+        "zh": "保護",
+        "pos": "v."
+      },
+      {
+        "w": "conceal",
+        "zh": "隱藏",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-014",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "110指考",
+    "passage": "We all know that too much stress is not good for our health, but too little is not ideal, either. While (11) stress can be dangerous to the body, short-term stress is actually healthy.\nShort-term stress triggers the production of protective chemicals in our body and strengthens the body's defenses. (12) our body is in a vulnerable situation, a burst of stress will quickly mobilize the body's own repair system to defend the damaged areas. This (13) us from physical discomfort and sickness. Small amounts of stress hormones may even sharpen our memory. A recent study found that when rats were forced to swim—an activity that places them under stress for a short while—they remembered their way through mazes far (14) than rats that were in a relaxed state.\nThe key to a healthy lifestyle is to keep our stress level (15). Too much stress will make us cranky and sick. Too little stress, on the other hand, will lead to boredom and low motivation.",
+    "group_id": "PX-AST110-G01",
+    "stem": "(14) 應填入：Stressed rats remembered their way through mazes far ____ than relaxed rats.",
+    "options": [
+      "harder",
+      "better",
+      "less",
+      "further"
+    ],
+    "answer": 1,
+    "explain_zh": "承受短期壓力的老鼠比放鬆狀態的老鼠「更好地」記得走迷宮的路線，故選 better；harder 不能用來修飾 remember 表達記憶程度的比較，less、further 也不符合這種正面強化記憶的語意。",
+    "vocab": [
+      {
+        "w": "better",
+        "zh": "更好地(比較級)",
+        "pos": "adv."
+      },
+      {
+        "w": "maze",
+        "zh": "迷宮",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-015",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "110指考",
+    "passage": "We all know that too much stress is not good for our health, but too little is not ideal, either. While (11) stress can be dangerous to the body, short-term stress is actually healthy.\nShort-term stress triggers the production of protective chemicals in our body and strengthens the body's defenses. (12) our body is in a vulnerable situation, a burst of stress will quickly mobilize the body's own repair system to defend the damaged areas. This (13) us from physical discomfort and sickness. Small amounts of stress hormones may even sharpen our memory. A recent study found that when rats were forced to swim—an activity that places them under stress for a short while—they remembered their way through mazes far (14) than rats that were in a relaxed state.\nThe key to a healthy lifestyle is to keep our stress level (15). Too much stress will make us cranky and sick. Too little stress, on the other hand, will lead to boredom and low motivation.",
+    "group_id": "PX-AST110-G01",
+    "stem": "(15) 應填入：The key to a healthy lifestyle is to keep our stress level ____.",
+    "options": [
+      "balanced",
+      "balancing",
+      "balances",
+      "to balance"
+    ],
+    "answer": 0,
+    "explain_zh": "keep + 受詞 + 受詞補語的句型中，壓力應「被維持」在平衡的狀態，屬於被動關係，故選 balanced；balancing 帶有主動意涵、balances、to balance 皆不符合 keep our stress level ____ 的文法結構。",
+    "vocab": [
+      {
+        "w": "balanced",
+        "zh": "平衡的",
+        "pos": "adj."
+      },
+      {
+        "w": "keep + O + OC",
+        "zh": "使...保持(某狀態)",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-016",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "110指考",
+    "passage": "Do you know the difference between the terms meteoroid, meteor, and meteorite in astronomy? Many people find these words confusing. However, the difference is all about their (16).\nMeteoroids are far up in the sky. They are chunks of rock or metal that speed through space. Some are very large and may be hundreds of feet wide. Others (17) the size of a small stone. Most meteoroids travel around the sun in space and stay away from the Earth. However, sometimes a meteoroid will enter the Earth's atmosphere. Friction with the atmosphere will cause it to (18) and burn while traveling at high speed. As a meteoroid begins to burn in the atmosphere, it leaves a streak of light. When this tail-like light is falling down toward the Earth, it is called a meteor, or a shooting star. Most meteors vaporize completely before they hit the ground. If any meteor (19) its fiery journey through the atmosphere and lands on Earth, it is called a meteorite. Large meteorites can cause great explosions and much destruction on the surface of the Earth. (20), Barringer Crater in the American state of Arizona, measuring 1,200 m in diameter and some 170 m deep, was produced by a meteorite impact.",
+    "group_id": "PX-AST110-G02",
+    "stem": "(16) 應填入：The difference between meteoroid, meteor, and meteorite is all about their ____.",
+    "options": [
+      "size",
+      "weight",
+      "location",
+      "temperature"
+    ],
+    "answer": 2,
+    "explain_zh": "隕石體(meteoroid)、流星(meteor)、隕石(meteorite)三者的差異在於它們所處的「位置」(太空中、大氣層燃燒、落地後)，故選 location；size（大小）、weight（重量）、temperature（溫度）皆非區分三者的關鍵依據。",
+    "vocab": [
+      {
+        "w": "location",
+        "zh": "位置",
+        "pos": "n."
+      },
+      {
+        "w": "meteoroid",
+        "zh": "隕石體",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-017",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "110指考",
+    "passage": "Do you know the difference between the terms meteoroid, meteor, and meteorite in astronomy? Many people find these words confusing. However, the difference is all about their (16).\nMeteoroids are far up in the sky. They are chunks of rock or metal that speed through space. Some are very large and may be hundreds of feet wide. Others (17) the size of a small stone. Most meteoroids travel around the sun in space and stay away from the Earth. However, sometimes a meteoroid will enter the Earth's atmosphere. Friction with the atmosphere will cause it to (18) and burn while traveling at high speed. As a meteoroid begins to burn in the atmosphere, it leaves a streak of light. When this tail-like light is falling down toward the Earth, it is called a meteor, or a shooting star. Most meteors vaporize completely before they hit the ground. If any meteor (19) its fiery journey through the atmosphere and lands on Earth, it is called a meteorite. Large meteorites can cause great explosions and much destruction on the surface of the Earth. (20), Barringer Crater in the American state of Arizona, measuring 1,200 m in diameter and some 170 m deep, was produced by a meteorite impact.",
+    "group_id": "PX-AST110-G02",
+    "stem": "(17) 應填入：Some meteoroids are very large; others ____ the size of a small stone.",
+    "options": [
+      "may be",
+      "would be",
+      "must have been",
+      "could have been"
+    ],
+    "answer": 0,
+    "explain_zh": "此句描述隕石體大小不一的普遍事實，語氣不確定、帶有「可能」的推測意味，故選 may be；would be、must have been、could have been 皆不符合描述現在存在的普遍現象時應有的語氣與時態。",
+    "vocab": [
+      {
+        "w": "may be",
+        "zh": "可能是",
+        "pos": "phr."
+      },
+      {
+        "w": "meteoroid",
+        "zh": "隕石體",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-018",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "110指考",
+    "passage": "Do you know the difference between the terms meteoroid, meteor, and meteorite in astronomy? Many people find these words confusing. However, the difference is all about their (16).\nMeteoroids are far up in the sky. They are chunks of rock or metal that speed through space. Some are very large and may be hundreds of feet wide. Others (17) the size of a small stone. Most meteoroids travel around the sun in space and stay away from the Earth. However, sometimes a meteoroid will enter the Earth's atmosphere. Friction with the atmosphere will cause it to (18) and burn while traveling at high speed. As a meteoroid begins to burn in the atmosphere, it leaves a streak of light. When this tail-like light is falling down toward the Earth, it is called a meteor, or a shooting star. Most meteors vaporize completely before they hit the ground. If any meteor (19) its fiery journey through the atmosphere and lands on Earth, it is called a meteorite. Large meteorites can cause great explosions and much destruction on the surface of the Earth. (20), Barringer Crater in the American state of Arizona, measuring 1,200 m in diameter and some 170 m deep, was produced by a meteorite impact.",
+    "group_id": "PX-AST110-G02",
+    "stem": "(18) 應填入：Friction with the atmosphere will cause it to ____ and burn while traveling at high speed.",
+    "options": [
+      "wear out",
+      "turn off",
+      "break through",
+      "heat up"
+    ],
+    "answer": 3,
+    "explain_zh": "隕石體與大氣摩擦，會使其溫度「升高」並開始燃燒，故選 heat up；wear out（磨損）、turn off（關閉）、break through（突破）皆與摩擦生熱、燃燒的語意不合。heat up 是描述溫度上升的常見片語。",
+    "vocab": [
+      {
+        "w": "heat up",
+        "zh": "升溫",
+        "pos": "phr."
+      },
+      {
+        "w": "friction",
+        "zh": "摩擦",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-019",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "110指考",
+    "passage": "Do you know the difference between the terms meteoroid, meteor, and meteorite in astronomy? Many people find these words confusing. However, the difference is all about their (16).\nMeteoroids are far up in the sky. They are chunks of rock or metal that speed through space. Some are very large and may be hundreds of feet wide. Others (17) the size of a small stone. Most meteoroids travel around the sun in space and stay away from the Earth. However, sometimes a meteoroid will enter the Earth's atmosphere. Friction with the atmosphere will cause it to (18) and burn while traveling at high speed. As a meteoroid begins to burn in the atmosphere, it leaves a streak of light. When this tail-like light is falling down toward the Earth, it is called a meteor, or a shooting star. Most meteors vaporize completely before they hit the ground. If any meteor (19) its fiery journey through the atmosphere and lands on Earth, it is called a meteorite. Large meteorites can cause great explosions and much destruction on the surface of the Earth. (20), Barringer Crater in the American state of Arizona, measuring 1,200 m in diameter and some 170 m deep, was produced by a meteorite impact.",
+    "group_id": "PX-AST110-G02",
+    "stem": "(19) 應填入：If any meteor ____ its fiery journey through the atmosphere and lands on Earth, it is called a meteorite.",
+    "options": [
+      "approaches",
+      "survives",
+      "confirms",
+      "targets"
+    ],
+    "answer": 1,
+    "explain_zh": "若流星「撐過」在大氣層中燃燒的旅程並落到地面，就被稱為隕石，故選 survives；approaches（接近）、confirms（確認）、targets（瞄準）皆與撐過燃燒過程存活下來的語意不合。survive a journey 是常見搭配。",
+    "vocab": [
+      {
+        "w": "survive",
+        "zh": "撐過,倖存",
+        "pos": "v."
+      },
+      {
+        "w": "vaporize",
+        "zh": "氣化,蒸發",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-020",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "110指考",
+    "passage": "Do you know the difference between the terms meteoroid, meteor, and meteorite in astronomy? Many people find these words confusing. However, the difference is all about their (16).\nMeteoroids are far up in the sky. They are chunks of rock or metal that speed through space. Some are very large and may be hundreds of feet wide. Others (17) the size of a small stone. Most meteoroids travel around the sun in space and stay away from the Earth. However, sometimes a meteoroid will enter the Earth's atmosphere. Friction with the atmosphere will cause it to (18) and burn while traveling at high speed. As a meteoroid begins to burn in the atmosphere, it leaves a streak of light. When this tail-like light is falling down toward the Earth, it is called a meteor, or a shooting star. Most meteors vaporize completely before they hit the ground. If any meteor (19) its fiery journey through the atmosphere and lands on Earth, it is called a meteorite. Large meteorites can cause great explosions and much destruction on the surface of the Earth. (20), Barringer Crater in the American state of Arizona, measuring 1,200 m in diameter and some 170 m deep, was produced by a meteorite impact.",
+    "group_id": "PX-AST110-G02",
+    "stem": "(20) 應填入：____, Barringer Crater in Arizona was produced by a meteorite impact.",
+    "options": [
+      "Indeed",
+      "Nevertheless",
+      "For example",
+      "In short"
+    ],
+    "answer": 2,
+    "explain_zh": "此句以美國亞利桑那州的Barringer隕石坑為例，說明大型隕石造成的毀滅性破壞，屬於「舉例」關係，故選 For example；Indeed（的確）、Nevertheless（然而）、In short（總之）皆不符合舉例說明的邏輯。",
+    "vocab": [
+      {
+        "w": "for example",
+        "zh": "舉例來說",
+        "pos": "phr."
+      },
+      {
+        "w": "crater",
+        "zh": "坑洞",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-021",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Located in Black Canyon straddling the border between Nevada and Arizona in the southwestern region of the United States, Hoover Dam is named one of the Top 10 Construction Achievements of the 20th century. The dam, constructed between 1931 and 1936, was the largest of its kind at the time. Its construction was the result of a massive effort involving thousands of workers and cost over one hundred lives.\nSince about 1900, the Black Canyon and nearby Boulder Canyon had been investigated for their potential to support a dam that would control floods, provide irrigation water, and produce hydroelectric power. In 1928, the US Congress authorized the project. The winning bid to build the dam was submitted by Six Companies, Inc. However, such a large concrete structure had never been built before, and some of the techniques were unproven. The extreme summer heat and lack of facilities near the site also presented tremendous difficulties. Nevertheless, Six Companies turned over the finished dam to the federal government on March 1, 1936, more than two years ahead of schedule.\nThe initial design of the dam, which was more concerned with the dam's functionality than its exterior, was criticized by many as being too plain and unremarkable for a project of such immense scale. So Gordon B. Kaufmann, the architect who was brought in to redesign the exterior, greatly streamlined the design and applied an elegant Art Deco style to the entire project. Allen Tupper True, an American illustrator, was also hired to handle the design and decoration of the walls and floors of the new dam. He integrated into his design the images and colors based on Native American visions of rain, lightning, clouds, and animals, thereby creating symbolic patterns which appear both ancient and modern.\nToday, Hoover Dam has become a national historic landmark. Standing at more than 725 feet above the Colorado River, the highest concrete dam in the Western Hemisphere continues to draw crowds 85 years after its creation, attracting more than a million visitors a year.",
+    "group_id": "PX-AST110-G03",
+    "stem": "Which of the following is NOT mentioned as a reason for building the dam in the beginning?",
+    "options": [
+      "To promote tourism.",
+      "To support agriculture.",
+      "To generate electricity.",
+      "To prevent natural disasters."
+    ],
+    "answer": 0,
+    "explain_zh": "文中提到興建胡佛水壩的目的是防洪、提供灌溉用水、發電，唯獨沒有提到「促進觀光」，故選 A 為文中未被提及的原因；如今吸引大量遊客只是後來的附加效果，並非當初興建的初衷。",
+    "vocab": [
+      {
+        "w": "irrigation",
+        "zh": "灌溉",
+        "pos": "n."
+      },
+      {
+        "w": "hydroelectric",
+        "zh": "水力發電的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-022",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Located in Black Canyon straddling the border between Nevada and Arizona in the southwestern region of the United States, Hoover Dam is named one of the Top 10 Construction Achievements of the 20th century. The dam, constructed between 1931 and 1936, was the largest of its kind at the time. Its construction was the result of a massive effort involving thousands of workers and cost over one hundred lives.\nSince about 1900, the Black Canyon and nearby Boulder Canyon had been investigated for their potential to support a dam that would control floods, provide irrigation water, and produce hydroelectric power. In 1928, the US Congress authorized the project. The winning bid to build the dam was submitted by Six Companies, Inc. However, such a large concrete structure had never been built before, and some of the techniques were unproven. The extreme summer heat and lack of facilities near the site also presented tremendous difficulties. Nevertheless, Six Companies turned over the finished dam to the federal government on March 1, 1936, more than two years ahead of schedule.\nThe initial design of the dam, which was more concerned with the dam's functionality than its exterior, was criticized by many as being too plain and unremarkable for a project of such immense scale. So Gordon B. Kaufmann, the architect who was brought in to redesign the exterior, greatly streamlined the design and applied an elegant Art Deco style to the entire project. Allen Tupper True, an American illustrator, was also hired to handle the design and decoration of the walls and floors of the new dam. He integrated into his design the images and colors based on Native American visions of rain, lightning, clouds, and animals, thereby creating symbolic patterns which appear both ancient and modern.\nToday, Hoover Dam has become a national historic landmark. Standing at more than 725 feet above the Colorado River, the highest concrete dam in the Western Hemisphere continues to draw crowds 85 years after its creation, attracting more than a million visitors a year.",
+    "group_id": "PX-AST110-G03",
+    "stem": "Which of the following statements is true about Hoover Dam?",
+    "options": [
+      "Its construction lasted for more than a decade.",
+      "It is strong in functionality, but plain in design.",
+      "Its site stretches over two states in the United States.",
+      "It became famous because it led to the discovery of Black Canyon."
+    ],
+    "answer": 2,
+    "explain_zh": "水壩座落於內華達州與亞利桑那州的邊界上，橫跨兩州，故選 C；整座水壩的興建僅費時1931年至1936年約五年時間，並非長達十年以上，A 的敘述與原文不符。",
+    "vocab": [
+      {
+        "w": "straddle",
+        "zh": "橫跨",
+        "pos": "v."
+      },
+      {
+        "w": "border",
+        "zh": "邊界",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-023",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Located in Black Canyon straddling the border between Nevada and Arizona in the southwestern region of the United States, Hoover Dam is named one of the Top 10 Construction Achievements of the 20th century. The dam, constructed between 1931 and 1936, was the largest of its kind at the time. Its construction was the result of a massive effort involving thousands of workers and cost over one hundred lives.\nSince about 1900, the Black Canyon and nearby Boulder Canyon had been investigated for their potential to support a dam that would control floods, provide irrigation water, and produce hydroelectric power. In 1928, the US Congress authorized the project. The winning bid to build the dam was submitted by Six Companies, Inc. However, such a large concrete structure had never been built before, and some of the techniques were unproven. The extreme summer heat and lack of facilities near the site also presented tremendous difficulties. Nevertheless, Six Companies turned over the finished dam to the federal government on March 1, 1936, more than two years ahead of schedule.\nThe initial design of the dam, which was more concerned with the dam's functionality than its exterior, was criticized by many as being too plain and unremarkable for a project of such immense scale. So Gordon B. Kaufmann, the architect who was brought in to redesign the exterior, greatly streamlined the design and applied an elegant Art Deco style to the entire project. Allen Tupper True, an American illustrator, was also hired to handle the design and decoration of the walls and floors of the new dam. He integrated into his design the images and colors based on Native American visions of rain, lightning, clouds, and animals, thereby creating symbolic patterns which appear both ancient and modern.\nToday, Hoover Dam has become a national historic landmark. Standing at more than 725 feet above the Colorado River, the highest concrete dam in the Western Hemisphere continues to draw crowds 85 years after its creation, attracting more than a million visitors a year.",
+    "group_id": "PX-AST110-G03",
+    "stem": "According to the passage, what did Six Companies, Inc. experience in the process of building the dam?",
+    "options": [
+      "It was defeated by the harsh working conditions.",
+      "It lost some workers in the construction of the dam.",
+      "It benefited from prior experience of building dams of similar scale.",
+      "It gave up the project authorized by the government before the deadline."
+    ],
+    "answer": 1,
+    "explain_zh": "文中提到興建過程犧牲了超過一百條人命，故選 B；當時如此大型的混凝土結構前所未有，部分技術也未經驗證，因此六公司並沒有以往同等規模的施工經驗可以借鏡，C 的敘述與原文不符。",
+    "vocab": [
+      {
+        "w": "casualty",
+        "zh": "傷亡",
+        "pos": "n."
+      },
+      {
+        "w": "unproven",
+        "zh": "未經驗證的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-024",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Located in Black Canyon straddling the border between Nevada and Arizona in the southwestern region of the United States, Hoover Dam is named one of the Top 10 Construction Achievements of the 20th century. The dam, constructed between 1931 and 1936, was the largest of its kind at the time. Its construction was the result of a massive effort involving thousands of workers and cost over one hundred lives.\nSince about 1900, the Black Canyon and nearby Boulder Canyon had been investigated for their potential to support a dam that would control floods, provide irrigation water, and produce hydroelectric power. In 1928, the US Congress authorized the project. The winning bid to build the dam was submitted by Six Companies, Inc. However, such a large concrete structure had never been built before, and some of the techniques were unproven. The extreme summer heat and lack of facilities near the site also presented tremendous difficulties. Nevertheless, Six Companies turned over the finished dam to the federal government on March 1, 1936, more than two years ahead of schedule.\nThe initial design of the dam, which was more concerned with the dam's functionality than its exterior, was criticized by many as being too plain and unremarkable for a project of such immense scale. So Gordon B. Kaufmann, the architect who was brought in to redesign the exterior, greatly streamlined the design and applied an elegant Art Deco style to the entire project. Allen Tupper True, an American illustrator, was also hired to handle the design and decoration of the walls and floors of the new dam. He integrated into his design the images and colors based on Native American visions of rain, lightning, clouds, and animals, thereby creating symbolic patterns which appear both ancient and modern.\nToday, Hoover Dam has become a national historic landmark. Standing at more than 725 feet above the Colorado River, the highest concrete dam in the Western Hemisphere continues to draw crowds 85 years after its creation, attracting more than a million visitors a year.",
+    "group_id": "PX-AST110-G03",
+    "stem": "What contribution did Gordon B. Kaufmann make to Hoover Dam?",
+    "options": [
+      "He improved the outer appearance of the dam.",
+      "He enhanced the practical functions of the dam.",
+      "He added aboriginal flavor to the design of the floor.",
+      "He decorated the walls of the dam with images from nature."
+    ],
+    "answer": 0,
+    "explain_zh": "文中說明建築師 Kaufmann 被找來重新設計水壩「外觀」，採用簡潔優雅的裝飾藝術風格，故選 A；牆面與地板上融入原住民圖像色彩的裝飾，其實是插畫家 Allen Tupper True 的貢獻，並非 Kaufmann，C、D 錯誤。",
+    "vocab": [
+      {
+        "w": "exterior",
+        "zh": "外觀",
+        "pos": "n."
+      },
+      {
+        "w": "streamline",
+        "zh": "使簡化流暢",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-025",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "文意猜字",
+    "source": "110指考",
+    "passage": "France gave birth to restaurants, but it was no civilized affair. In fact, today's restaurant business is a byproduct of the class warfare that arose during the French Revolution.\nBack in the Middle Ages, fine dining was a privilege enjoyed exclusively by noble families who had their own grand kitchens and personal chefs. The only commercial diners for the masses were dusty, shabby roadside inns, where strangers crowded around mediocre buffets of lukewarm roasts and over-sauced beans. But sometime in the 1760s, the merchant class of Paris developed a taste for healthy clear broths which were considered restorative; hence the term \"restaurant.\" By the 1780s, this new Parisian \"healthy food\" craze led to a handful of reputable dining halls, where customers could sit at individual tables and choose from a wide range of dishes.\nIronically, the popularity of these restaurants grew at a time when the majority of the French population could not afford bread. Decades of harsh winters and oppressive taxation had taken their toll on kitchen tables. By 1789, the starving French masses could no longer be controlled. Looting and riots erupted throughout Paris, ushering in the French Revolution. Rich nobles fled to the countryside, leaving behind their highly skilled chefs and the fine wines from their cellars. Suddenly, unemployed cooks found their way to the city's eateries, and within a year, nearly 50 elegant restaurants had popped up in Paris.\nThe restaurant business truly came into its own during the early 1800s, after General Napoleon seized control of the country. He granted \"freedom of pleasure\" to all citizens, as he reasoned that people who were focused on champagne and fine food probably would not conspire against him. The number of restaurants rose quickly. By 1814, about three thousand restaurants were listed in a popular travel guide. Paris became the center of the new restaurant scene, which, to some degree, it remains today.",
+    "group_id": "PX-AST110-G04",
+    "stem": "According to the passage, where does the word \"restaurant\" originate from?",
+    "options": [
+      "Famous chefs.",
+      "Popular soups.",
+      "Dining halls.",
+      "Daily menus."
+    ],
+    "answer": 1,
+    "explain_zh": "文中說明1760年代巴黎商人階級愛上被認為具有恢復體力功效的清澈「肉湯」，因而衍生出 restaurant 一詞，故選 Popular soups；並非源自名廚(A)、用餐大廳(C)或每日菜單(D)，這些都是後來才發展出來的概念。",
+    "vocab": [
+      {
+        "w": "broth",
+        "zh": "清湯,肉湯",
+        "pos": "n."
+      },
+      {
+        "w": "restorative",
+        "zh": "有恢復體力功效的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-026",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "文意猜字",
+    "source": "110指考",
+    "passage": "France gave birth to restaurants, but it was no civilized affair. In fact, today's restaurant business is a byproduct of the class warfare that arose during the French Revolution.\nBack in the Middle Ages, fine dining was a privilege enjoyed exclusively by noble families who had their own grand kitchens and personal chefs. The only commercial diners for the masses were dusty, shabby roadside inns, where strangers crowded around mediocre buffets of lukewarm roasts and over-sauced beans. But sometime in the 1760s, the merchant class of Paris developed a taste for healthy clear broths which were considered restorative; hence the term \"restaurant.\" By the 1780s, this new Parisian \"healthy food\" craze led to a handful of reputable dining halls, where customers could sit at individual tables and choose from a wide range of dishes.\nIronically, the popularity of these restaurants grew at a time when the majority of the French population could not afford bread. Decades of harsh winters and oppressive taxation had taken their toll on kitchen tables. By 1789, the starving French masses could no longer be controlled. Looting and riots erupted throughout Paris, ushering in the French Revolution. Rich nobles fled to the countryside, leaving behind their highly skilled chefs and the fine wines from their cellars. Suddenly, unemployed cooks found their way to the city's eateries, and within a year, nearly 50 elegant restaurants had popped up in Paris.\nThe restaurant business truly came into its own during the early 1800s, after General Napoleon seized control of the country. He granted \"freedom of pleasure\" to all citizens, as he reasoned that people who were focused on champagne and fine food probably would not conspire against him. The number of restaurants rose quickly. By 1814, about three thousand restaurants were listed in a popular travel guide. Paris became the center of the new restaurant scene, which, to some degree, it remains today.",
+    "group_id": "PX-AST110-G04",
+    "stem": "What does \"taken their toll on kitchen tables\" mean in the third paragraph?",
+    "options": [
+      "Deprived people of adequate food for living.",
+      "Controlled the nutrients in people's diet.",
+      "Charged people for using kitchen tables.",
+      "Paid tribute to chefs working in kitchens."
+    ],
+    "answer": 0,
+    "explain_zh": "數十年嚴酷寒冬與苛重稅賦使得許多法國民眾連麵包都買不起，「taken their toll on kitchen tables」意指這些困境「剝奪了民眾足夠的食物」，故選 A；並非真的向使用廚房餐桌收費，C 的敘述過於字面化，誤解了此處的比喻語意。",
+    "vocab": [
+      {
+        "w": "toll",
+        "zh": "損害,代價",
+        "pos": "n."
+      },
+      {
+        "w": "oppressive",
+        "zh": "苛重的,壓迫性的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-027",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "France gave birth to restaurants, but it was no civilized affair. In fact, today's restaurant business is a byproduct of the class warfare that arose during the French Revolution.\nBack in the Middle Ages, fine dining was a privilege enjoyed exclusively by noble families who had their own grand kitchens and personal chefs. The only commercial diners for the masses were dusty, shabby roadside inns, where strangers crowded around mediocre buffets of lukewarm roasts and over-sauced beans. But sometime in the 1760s, the merchant class of Paris developed a taste for healthy clear broths which were considered restorative; hence the term \"restaurant.\" By the 1780s, this new Parisian \"healthy food\" craze led to a handful of reputable dining halls, where customers could sit at individual tables and choose from a wide range of dishes.\nIronically, the popularity of these restaurants grew at a time when the majority of the French population could not afford bread. Decades of harsh winters and oppressive taxation had taken their toll on kitchen tables. By 1789, the starving French masses could no longer be controlled. Looting and riots erupted throughout Paris, ushering in the French Revolution. Rich nobles fled to the countryside, leaving behind their highly skilled chefs and the fine wines from their cellars. Suddenly, unemployed cooks found their way to the city's eateries, and within a year, nearly 50 elegant restaurants had popped up in Paris.\nThe restaurant business truly came into its own during the early 1800s, after General Napoleon seized control of the country. He granted \"freedom of pleasure\" to all citizens, as he reasoned that people who were focused on champagne and fine food probably would not conspire against him. The number of restaurants rose quickly. By 1814, about three thousand restaurants were listed in a popular travel guide. Paris became the center of the new restaurant scene, which, to some degree, it remains today.",
+    "group_id": "PX-AST110-G04",
+    "stem": "Which of the following is true about commercial diners before the French Revolution?",
+    "options": [
+      "Many fine restaurants were owned by highly skilled chefs.",
+      "Reputable dining halls were popular in Paris during the 1760s.",
+      "Public dining halls in the Middle Ages were run-down and dirty.",
+      "A limited variety of food was served in Parisian restaurants in the 1780s."
+    ],
+    "answer": 2,
+    "explain_zh": "文中描述中世紀平民用餐的路邊小客棧「滿是灰塵、破舊不堪」(dusty, shabby)，故選 C；1780年代的巴黎餐廳其實提供多樣化的菜色選擇，並非菜色有限，D 的敘述與原文相反。",
+    "vocab": [
+      {
+        "w": "shabby",
+        "zh": "破舊的",
+        "pos": "adj."
+      },
+      {
+        "w": "mediocre",
+        "zh": "平庸的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-028",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "110指考",
+    "passage": "France gave birth to restaurants, but it was no civilized affair. In fact, today's restaurant business is a byproduct of the class warfare that arose during the French Revolution.\nBack in the Middle Ages, fine dining was a privilege enjoyed exclusively by noble families who had their own grand kitchens and personal chefs. The only commercial diners for the masses were dusty, shabby roadside inns, where strangers crowded around mediocre buffets of lukewarm roasts and over-sauced beans. But sometime in the 1760s, the merchant class of Paris developed a taste for healthy clear broths which were considered restorative; hence the term \"restaurant.\" By the 1780s, this new Parisian \"healthy food\" craze led to a handful of reputable dining halls, where customers could sit at individual tables and choose from a wide range of dishes.\nIronically, the popularity of these restaurants grew at a time when the majority of the French population could not afford bread. Decades of harsh winters and oppressive taxation had taken their toll on kitchen tables. By 1789, the starving French masses could no longer be controlled. Looting and riots erupted throughout Paris, ushering in the French Revolution. Rich nobles fled to the countryside, leaving behind their highly skilled chefs and the fine wines from their cellars. Suddenly, unemployed cooks found their way to the city's eateries, and within a year, nearly 50 elegant restaurants had popped up in Paris.\nThe restaurant business truly came into its own during the early 1800s, after General Napoleon seized control of the country. He granted \"freedom of pleasure\" to all citizens, as he reasoned that people who were focused on champagne and fine food probably would not conspire against him. The number of restaurants rose quickly. By 1814, about three thousand restaurants were listed in a popular travel guide. Paris became the center of the new restaurant scene, which, to some degree, it remains today.",
+    "group_id": "PX-AST110-G04",
+    "stem": "What was the main reason for Napoleon to promote the development of restaurants?",
+    "options": [
+      "He hoped to improve the life of his citizens.",
+      "He wanted to help unemployed chefs find new jobs.",
+      "He feared that reductions in restaurants might hurt the travel business.",
+      "He believed that the development of restaurants would bring political stability."
+    ],
+    "answer": 3,
+    "explain_zh": "文末說明拿破崙認為專注於香檳美食的人民較不會密謀造反，可知他推動餐廳發展的主要考量是為了「政治穩定」，故選 D；他的動機並非單純出於改善人民生活的善意，A 的敘述與原文暗示的動機不符。",
+    "vocab": [
+      {
+        "w": "conspire",
+        "zh": "密謀",
+        "pos": "v."
+      },
+      {
+        "w": "stability",
+        "zh": "穩定",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-029",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Falcons are powerful birds that may be trained to hunt in cooperation with humans. The art of training falcons as \"hunting dogs of the skies\" is called falconry. It was developed in the ancient Arabian Desert around 4000 B.C. In the past, falconry mainly involved hunting with falcons to supplement one's diet. But now, it has become the favorite sport and pastime in the Arabian Peninsula.\nFalconry includes three major processes: acquiring the falcons, training them, and hunting with them. Every year, falconers begin capturing wild falcons in June and July, the migration season. The best birds to catch are the ones with naturally nurtured hunting skills, aged one or two years. Once the falcons are captured, their heads are immediately covered with a leather hood. This is essential because they imprint as their master whomever they see first after the hood is removed. Right after a bird is caught, the training process starts. It begins by depriving the bird of food to make it easier to tame. The birds are taught to know their own name and respond to their master when called. Arab falconers live with their birds day and night in order to build a strong relationship with them.\nBy the end of October or mid-November, the trained falcons are ready to hunt in the desert. They have excellent vision, 2.6 times greater than that of a human. They are also the fastest divers on the planet. One hunting technique that sets them apart from other animals is that they can be trained to deliver their prey, without killing it first. This is vital in Islamic culture because animals used for food must still be alive to ensure that the meat is halal, that is, properly prepared according to Islamic law.\nFalcons have played such a crucial role in traditional Islamic cultures that a number of countries in the Middle East have made them their national bird. Falconry has grown so popular that specialist hospitals have been established to take care of these magnificent birds. Falcons are even issued their own passports. They are the only animals in the United Arab Emirates that are legally allowed to travel inside planes, enjoying a level of luxury that some humans can only dream of.",
+    "group_id": "PX-AST110-G05",
+    "stem": "What makes falcons a unique animal for hunting in Islamic culture?",
+    "options": [
+      "Falcons are relatively easy to train for hunting.",
+      "Falcons can form a strong bond with their owners quickly.",
+      "Falcons' vision is particularly suitable for hunting in deserts.",
+      "Falcons keep their prey alive before delivering it to falconers."
+    ],
+    "answer": 3,
+    "explain_zh": "文章第三段指出獵鷹能被訓練成「活著」將獵物叼回，不先將其殺死，這對確保肉品符合清真(halal)宰殺規定至關重要，是獵鷹在伊斯蘭文化中獨特之處，故選 D。",
+    "vocab": [
+      {
+        "w": "prey",
+        "zh": "獵物",
+        "pos": "n."
+      },
+      {
+        "w": "halal",
+        "zh": "清真的(符合伊斯蘭教規)",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-030",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "110指考",
+    "passage": "Falcons are powerful birds that may be trained to hunt in cooperation with humans. The art of training falcons as \"hunting dogs of the skies\" is called falconry. It was developed in the ancient Arabian Desert around 4000 B.C. In the past, falconry mainly involved hunting with falcons to supplement one's diet. But now, it has become the favorite sport and pastime in the Arabian Peninsula.\nFalconry includes three major processes: acquiring the falcons, training them, and hunting with them. Every year, falconers begin capturing wild falcons in June and July, the migration season. The best birds to catch are the ones with naturally nurtured hunting skills, aged one or two years. Once the falcons are captured, their heads are immediately covered with a leather hood. This is essential because they imprint as their master whomever they see first after the hood is removed. Right after a bird is caught, the training process starts. It begins by depriving the bird of food to make it easier to tame. The birds are taught to know their own name and respond to their master when called. Arab falconers live with their birds day and night in order to build a strong relationship with them.\nBy the end of October or mid-November, the trained falcons are ready to hunt in the desert. They have excellent vision, 2.6 times greater than that of a human. They are also the fastest divers on the planet. One hunting technique that sets them apart from other animals is that they can be trained to deliver their prey, without killing it first. This is vital in Islamic culture because animals used for food must still be alive to ensure that the meat is halal, that is, properly prepared according to Islamic law.\nFalcons have played such a crucial role in traditional Islamic cultures that a number of countries in the Middle East have made them their national bird. Falconry has grown so popular that specialist hospitals have been established to take care of these magnificent birds. Falcons are even issued their own passports. They are the only animals in the United Arab Emirates that are legally allowed to travel inside planes, enjoying a level of luxury that some humans can only dream of.",
+    "group_id": "PX-AST110-G05",
+    "stem": "What is the main reason for Arabic people to hunt with falcons today?",
+    "options": [
+      "To supplement their diet.",
+      "To serve as entertainment and exercise.",
+      "To worship their national bird.",
+      "To replace the practice of hunting with dogs."
+    ],
+    "answer": 1,
+    "explain_zh": "文章開頭提到如今養鷹狩獵已成為阿拉伯半島「最受歡迎的休閒運動」，故選 B；過去才是為了補充糧食(supplement one's diet)，如今這已不再是主要目的，A 描述的是舊時的用途。",
+    "vocab": [
+      {
+        "w": "pastime",
+        "zh": "消遣,娛樂",
+        "pos": "n."
+      },
+      {
+        "w": "falconry",
+        "zh": "養鷹狩獵術",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-031",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Falcons are powerful birds that may be trained to hunt in cooperation with humans. The art of training falcons as \"hunting dogs of the skies\" is called falconry. It was developed in the ancient Arabian Desert around 4000 B.C. In the past, falconry mainly involved hunting with falcons to supplement one's diet. But now, it has become the favorite sport and pastime in the Arabian Peninsula.\nFalconry includes three major processes: acquiring the falcons, training them, and hunting with them. Every year, falconers begin capturing wild falcons in June and July, the migration season. The best birds to catch are the ones with naturally nurtured hunting skills, aged one or two years. Once the falcons are captured, their heads are immediately covered with a leather hood. This is essential because they imprint as their master whomever they see first after the hood is removed. Right after a bird is caught, the training process starts. It begins by depriving the bird of food to make it easier to tame. The birds are taught to know their own name and respond to their master when called. Arab falconers live with their birds day and night in order to build a strong relationship with them.\nBy the end of October or mid-November, the trained falcons are ready to hunt in the desert. They have excellent vision, 2.6 times greater than that of a human. They are also the fastest divers on the planet. One hunting technique that sets them apart from other animals is that they can be trained to deliver their prey, without killing it first. This is vital in Islamic culture because animals used for food must still be alive to ensure that the meat is halal, that is, properly prepared according to Islamic law.\nFalcons have played such a crucial role in traditional Islamic cultures that a number of countries in the Middle East have made them their national bird. Falconry has grown so popular that specialist hospitals have been established to take care of these magnificent birds. Falcons are even issued their own passports. They are the only animals in the United Arab Emirates that are legally allowed to travel inside planes, enjoying a level of luxury that some humans can only dream of.",
+    "group_id": "PX-AST110-G05",
+    "stem": "According to the article, what privilege do falcons enjoy in the Arab world?",
+    "options": [
+      "Free air ticket.",
+      "Passports issued by the King.",
+      "Meals that are halal.",
+      "Access to specialized medical care."
+    ],
+    "answer": 3,
+    "explain_zh": "末段提到獵鷹風行到設有「專門醫院」照護這些猛禽，故選 D；文中並未提到護照由國王親自發放，也沒有說搭機是免費的，B、A 的敘述皆與原文不符，僅提到獵鷹能合法登機享有奢華待遇。",
+    "vocab": [
+      {
+        "w": "specialist",
+        "zh": "專門的",
+        "pos": "adj."
+      },
+      {
+        "w": "privilege",
+        "zh": "特權",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-032",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Falcons are powerful birds that may be trained to hunt in cooperation with humans. The art of training falcons as \"hunting dogs of the skies\" is called falconry. It was developed in the ancient Arabian Desert around 4000 B.C. In the past, falconry mainly involved hunting with falcons to supplement one's diet. But now, it has become the favorite sport and pastime in the Arabian Peninsula.\nFalconry includes three major processes: acquiring the falcons, training them, and hunting with them. Every year, falconers begin capturing wild falcons in June and July, the migration season. The best birds to catch are the ones with naturally nurtured hunting skills, aged one or two years. Once the falcons are captured, their heads are immediately covered with a leather hood. This is essential because they imprint as their master whomever they see first after the hood is removed. Right after a bird is caught, the training process starts. It begins by depriving the bird of food to make it easier to tame. The birds are taught to know their own name and respond to their master when called. Arab falconers live with their birds day and night in order to build a strong relationship with them.\nBy the end of October or mid-November, the trained falcons are ready to hunt in the desert. They have excellent vision, 2.6 times greater than that of a human. They are also the fastest divers on the planet. One hunting technique that sets them apart from other animals is that they can be trained to deliver their prey, without killing it first. This is vital in Islamic culture because animals used for food must still be alive to ensure that the meat is halal, that is, properly prepared according to Islamic law.\nFalcons have played such a crucial role in traditional Islamic cultures that a number of countries in the Middle East have made them their national bird. Falconry has grown so popular that specialist hospitals have been established to take care of these magnificent birds. Falcons are even issued their own passports. They are the only animals in the United Arab Emirates that are legally allowed to travel inside planes, enjoying a level of luxury that some humans can only dream of.",
+    "group_id": "PX-AST110-G05",
+    "stem": "Which of the following statements is true?",
+    "options": [
+      "Falconers deprive the falcons of food in order to capture them.",
+      "Falcons are not allowed to see their masters during the training process.",
+      "The trainers' names are imprinted on the hoods covering the birds' heads.",
+      "Wild falcons with natural hunting skills are most ideal for falconers to catch."
+    ],
+    "answer": 3,
+    "explain_zh": "文中提到最理想的捕捉對象是天生擁有優異狩獵技巧、一到兩歲的野生獵鷹，故選 D；斷食是為了讓被捕獲的鷹「更容易被馴服」的訓練手段，並非用來捕捉牠們的方法，A 的敘述與原文不符。",
+    "vocab": [
+      {
+        "w": "nurture",
+        "zh": "培養",
+        "pos": "v."
+      },
+      {
+        "w": "imprint",
+        "zh": "銘印,認定",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-033",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "110指考",
+    "passage": "Since golf started in the 15th century, many advances have occurred in the game, including significant changes to the golf ball. Early golf was played with a rounded wooden ball before the Featherie, a leather sack stuffed with goose or chicken feathers, became the norm. Then, in 1848, the Gutta Percha ball was introduced, which was made from the juice of the leaves of the gutta tree (a tropical tree native to Malaysia) and was considerably more durable and affordable than its predecessor. The next advancement occurred in the early 1900s with the development of the Haskell. It was the first ball featuring a center rubber core and an outer cover. The Haskell traveled up to 20 yards farther than the Gutta Percha ball and was more durable. In 1905, William Taylor introduced the first dimpled ball, a ball covered with tiny holes on the surface. By the 1930s, golf balls with rows of dimples were accepted as the standard design. Most golf balls today consist of rubber thread wound around a rubber core and coated with dimpled enamel.\nDimples play an important role in a golf ball's performance because these markings and patterns enhance the ball's aerodynamics. When a ball is hit and moves through the air, it experiences two major aerodynamic forces: lift and drag. Drag slows the forward motion, and lift acts in a direction vertical to it. With dimples added to the ball, the force that pulls back on the ball is minimized, allowing it to travel faster and longer. Dimples also help to force the airflow downward, which pushes the ball upward. These are the same principles of aerodynamics that airplanes use to fly. In general, golf balls with small, shallow dimples tend to have a longer, lower flight path, whereas those with deeper dimples have a higher flight path. Golfers can choose their balls based on what they need for a particular shot or for particular weather.",
+    "group_id": "PX-AST110-G06",
+    "stem": "Which of the following best states the main idea of the first paragraph?",
+    "options": [
+      "Science and technology have influenced the game of golf.",
+      "Price, durability, and function determine the quality of golf balls.",
+      "Accumulated efforts have resulted in changes in how golf balls are made.",
+      "Golfers who have a sound knowledge of aerodynamics play the game well."
+    ],
+    "answer": 2,
+    "explain_zh": "第一段依序介紹高爾夫球從木製球、羽毛球、古塔波膠球、哈斯克球到凹痕球的材質演進歷程，是長年累積的技術改良成果，故選 C；A「科技影響了高爾夫球運動」範圍過於廣泛，未聚焦於「球體本身」演變這個具體主題。",
+    "vocab": [
+      {
+        "w": "predecessor",
+        "zh": "前身,前任",
+        "pos": "n."
+      },
+      {
+        "w": "durable",
+        "zh": "耐用的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-034",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Since golf started in the 15th century, many advances have occurred in the game, including significant changes to the golf ball. Early golf was played with a rounded wooden ball before the Featherie, a leather sack stuffed with goose or chicken feathers, became the norm. Then, in 1848, the Gutta Percha ball was introduced, which was made from the juice of the leaves of the gutta tree (a tropical tree native to Malaysia) and was considerably more durable and affordable than its predecessor. The next advancement occurred in the early 1900s with the development of the Haskell. It was the first ball featuring a center rubber core and an outer cover. The Haskell traveled up to 20 yards farther than the Gutta Percha ball and was more durable. In 1905, William Taylor introduced the first dimpled ball, a ball covered with tiny holes on the surface. By the 1930s, golf balls with rows of dimples were accepted as the standard design. Most golf balls today consist of rubber thread wound around a rubber core and coated with dimpled enamel.\nDimples play an important role in a golf ball's performance because these markings and patterns enhance the ball's aerodynamics. When a ball is hit and moves through the air, it experiences two major aerodynamic forces: lift and drag. Drag slows the forward motion, and lift acts in a direction vertical to it. With dimples added to the ball, the force that pulls back on the ball is minimized, allowing it to travel faster and longer. Dimples also help to force the airflow downward, which pushes the ball upward. These are the same principles of aerodynamics that airplanes use to fly. In general, golf balls with small, shallow dimples tend to have a longer, lower flight path, whereas those with deeper dimples have a higher flight path. Golfers can choose their balls based on what they need for a particular shot or for particular weather.",
+    "group_id": "PX-AST110-G06",
+    "stem": "Which of the following is true about golf balls?",
+    "options": [
+      "William Taylor added a rubber center to golf balls.",
+      "The Gutta Percha ball was stuffed with bird feathers.",
+      "The Featherie was the first golf ball ever used in the game.",
+      "The Haskell lasted longer and traveled farther than its predecessor."
+    ],
+    "answer": 3,
+    "explain_zh": "文中提到哈斯克球比前身古塔波膠球更耐用、飛行距離多出20碼，故選 D；真正塞滿鳥類羽毛的是Featherie（羽毛球），古塔波膠球其實是用膠樹樹汁製成，B 的敘述與原文不符。",
+    "vocab": [
+      {
+        "w": "core",
+        "zh": "核心",
+        "pos": "n."
+      },
+      {
+        "w": "advancement",
+        "zh": "進展",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-035",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "110指考",
+    "passage": "Since golf started in the 15th century, many advances have occurred in the game, including significant changes to the golf ball. Early golf was played with a rounded wooden ball before the Featherie, a leather sack stuffed with goose or chicken feathers, became the norm. Then, in 1848, the Gutta Percha ball was introduced, which was made from the juice of the leaves of the gutta tree (a tropical tree native to Malaysia) and was considerably more durable and affordable than its predecessor. The next advancement occurred in the early 1900s with the development of the Haskell. It was the first ball featuring a center rubber core and an outer cover. The Haskell traveled up to 20 yards farther than the Gutta Percha ball and was more durable. In 1905, William Taylor introduced the first dimpled ball, a ball covered with tiny holes on the surface. By the 1930s, golf balls with rows of dimples were accepted as the standard design. Most golf balls today consist of rubber thread wound around a rubber core and coated with dimpled enamel.\nDimples play an important role in a golf ball's performance because these markings and patterns enhance the ball's aerodynamics. When a ball is hit and moves through the air, it experiences two major aerodynamic forces: lift and drag. Drag slows the forward motion, and lift acts in a direction vertical to it. With dimples added to the ball, the force that pulls back on the ball is minimized, allowing it to travel faster and longer. Dimples also help to force the airflow downward, which pushes the ball upward. These are the same principles of aerodynamics that airplanes use to fly. In general, golf balls with small, shallow dimples tend to have a longer, lower flight path, whereas those with deeper dimples have a higher flight path. Golfers can choose their balls based on what they need for a particular shot or for particular weather.",
+    "group_id": "PX-AST110-G06",
+    "stem": "How do dimples on a golf ball affect its performance?",
+    "options": [
+      "They help it travel farther.",
+      "They keep it in a better shape.",
+      "They enhance its drag force.",
+      "They allow it to endure stronger impact."
+    ],
+    "answer": 0,
+    "explain_zh": "第二段說明球面凹痕能減少拉住球體的阻力(drag)，讓球飛得「更快更遠」，故選 A；凹痕的作用是「減弱」阻力而非增強阻力，C 的敘述與原文相反。",
+    "vocab": [
+      {
+        "w": "dimple",
+        "zh": "凹痕",
+        "pos": "n."
+      },
+      {
+        "w": "aerodynamics",
+        "zh": "空氣動力學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST110-036",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "110指考",
+    "passage": "Since golf started in the 15th century, many advances have occurred in the game, including significant changes to the golf ball. Early golf was played with a rounded wooden ball before the Featherie, a leather sack stuffed with goose or chicken feathers, became the norm. Then, in 1848, the Gutta Percha ball was introduced, which was made from the juice of the leaves of the gutta tree (a tropical tree native to Malaysia) and was considerably more durable and affordable than its predecessor. The next advancement occurred in the early 1900s with the development of the Haskell. It was the first ball featuring a center rubber core and an outer cover. The Haskell traveled up to 20 yards farther than the Gutta Percha ball and was more durable. In 1905, William Taylor introduced the first dimpled ball, a ball covered with tiny holes on the surface. By the 1930s, golf balls with rows of dimples were accepted as the standard design. Most golf balls today consist of rubber thread wound around a rubber core and coated with dimpled enamel.\nDimples play an important role in a golf ball's performance because these markings and patterns enhance the ball's aerodynamics. When a ball is hit and moves through the air, it experiences two major aerodynamic forces: lift and drag. Drag slows the forward motion, and lift acts in a direction vertical to it. With dimples added to the ball, the force that pulls back on the ball is minimized, allowing it to travel faster and longer. Dimples also help to force the airflow downward, which pushes the ball upward. These are the same principles of aerodynamics that airplanes use to fly. In general, golf balls with small, shallow dimples tend to have a longer, lower flight path, whereas those with deeper dimples have a higher flight path. Golfers can choose their balls based on what they need for a particular shot or for particular weather.",
+    "group_id": "PX-AST110-G06",
+    "stem": "Which ball will give golfers a better shot to get a ball out of a deep sand trap?",
+    "options": [
+      "A ball with deep dimples.",
+      "A ball made from Gutta trees.",
+      "A ball with a leather sack.",
+      "A ball with a smooth outer cover."
+    ],
+    "answer": 0,
+    "explain_zh": "文末提到凹痕較深的球會有較高的飛行路徑，這種較高飛行路徑有助於球從深沙坑中脫困、快速升空，故選 A；表面光滑無凹痕的球反而缺乏足夠的升力，較不利於脫離沙坑，D 的敘述與原理不符。",
+    "vocab": [
+      {
+        "w": "flight path",
+        "zh": "飛行路徑",
+        "pos": "n."
+      },
+      {
+        "w": "drag",
+        "zh": "阻力",
+        "pos": "n."
+      }
+    ]
+  }
+]

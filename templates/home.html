@@ -1,0 +1,133 @@
+{% extends "base.html" %}
+{% set req='home' %}
+{% block body %}
+
+{% if p.placed != '1' %}
+<div class="card" style="border-color:var(--accent)">
+  <h2 style="margin-top:0">👋 第一次使用？先做 30 題分級測驗</h2>
+  <p class="muted">大約 10 分鐘，系統會抓出你現在的程度，之後所有題目都會照這個難度出，
+    太簡單或太難都不會浪費你的時間。</p>
+  <a class="btn" href="/placement">開始分級測驗</a>
+</div>
+{% endif %}
+
+<h1>第 {{ day }} 天 / 90 天</h1>
+<p class="sub">目前程度 {{ level_zh }}　·　目標 {{ p.target_band }} 分
+  {% if band %}　·　最近表現推估約 <b style="color:var(--accent)">{{ band }}</b> 分{% endif %}
+  {% if not ai_ok %}　·　<span class="tag warn">AI 批改未啟用</span>{% endif %}
+</p>
+
+<div class="grid g4">
+  <div class="card stat"><div class="n">{{ st.today_q }}</div><div class="l">今天做了幾題</div></div>
+  <div class="card stat"><div class="n" style="color:var(--ok)">{{ st.acc }}%</div>
+    <div class="l">整體正確率<br><span style="font-size:11px">猜錯 {{ st.guessed_wrong }}　不會 {{ st.dontknow }}</span></div></div>
+  <div class="card stat"><div class="n">{{ st.streak }}</div><div class="l">連續天數</div></div>
+  <div class="card stat"><div class="n" style="color:var(--warn)">{{ st.due }}</div><div class="l">今天該複習</div></div>
+  <div class="card stat"><div class="n">{{ st.marked }}</div><div class="l">⭐ 標記的題目</div></div>
+</div>
+
+{% if today %}
+<div class="card">
+  <div class="row">
+    <h2 style="margin:0">今天的任務</h2><span class="spacer"></span>
+    <span class="pill">第 {{ week.week }} 週：{{ week.theme }}</span>
+  </div>
+  <p class="muted" style="margin:6px 0 14px">
+    文法主軸：{{ week.grammar }}　·　字彙主軸：{{ week.vocab }}
+    {% if today.rest %}　·　<b style="color:var(--ok)">今天是輕鬆日</b>{% endif %}
+  </p>
+  <ul class="clean">
+    {% for t in today.tasks %}
+    <li class="row"><span>{{ loop.index }}. {{ t.title }}</span><span class="spacer"></span>
+      <span class="muted">{{ t.minutes }} 分鐘</span></li>
+    {% endfor %}
+  </ul>
+  <div class="row" style="margin-top:14px">
+    <a class="btn" href="/drill?n=20">開始今天的刷題</a>
+    {% if st.due %}<a class="btn ghost" href="/wrongs">複習 {{ st.due }} 題</a>{% endif %}
+  </div>
+</div>
+{% endif %}
+
+<div class="grid g2">
+  <div class="card">
+    <h2 style="margin-top:0">你的弱點 Top 6</h2>
+    {% if weak %}
+    <table>
+      <tr><th>弱點</th><th>練過</th><th>正確率</th><th></th></tr>
+      {% for w in weak %}
+      <tr>
+        <td>{{ w.tag_zh }}<br><span class="muted" style="font-size:12px">{{ w.tag }}</span></td>
+        <td>{{ w.n }} 題</td>
+        <td style="width:130px">
+          <div class="bar"><i class="{{ 'bad' if w.acc<50 else '' }}" style="width:{{ w.acc }}%"></i></div>
+          <span class="muted">{{ w.acc }}%</span>
+        </td>
+        <td><a class="btn sm ghost" href="/drill?tag={{ w.tag }}&n=10">專練</a></td>
+      </tr>
+      {% endfor %}
+    </table>
+    <p class="muted" style="margin-top:12px">出題系統會自動多給你這些標籤的題目。</p>
+    {% else %}
+    <p class="muted">先做個 20 題，這裡就會自動抓出你的弱點。</p>
+    {% endif %}
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">各項技能</h2>
+    {% if st.by_skill %}
+    <table>
+      {% for s in st.by_skill %}
+      <tr><td>{{ s.zh }}</td><td class="muted">{{ s.n }} 題</td>
+        <td style="width:130px"><div class="bar"><i class="{{ 'ok' if s.acc>=80 else 'bad' if s.acc<60 else '' }}" style="width:{{ s.acc }}%"></i></div></td>
+        <td style="width:46px">{{ s.acc }}%</td></tr>
+      {% endfor %}
+    </table>
+    {% else %}<p class="muted">還沒有資料。</p>{% endif %}
+    <h2>快速開始</h2>
+    <div class="row">
+      <a class="btn sm ghost" href="/drill?skill=vocab">字彙</a>
+      <a class="btn sm ghost" href="/drill?skill=grammar">文法</a>
+      <a class="btn sm ghost" href="/drill?skill=cloze">克漏字</a>
+      <a class="btn sm ghost" href="/reading">閱讀</a>
+      <a class="btn sm ghost" href="/listening">聽力</a>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <div class="row">
+    <span class="muted">題庫共 {{ bank.total }} 題、{{ bank.tags }} 個弱點標籤，全部離線，刷題不會用到網路或 API。</span>
+    <span class="spacer"></span>
+    <button class="btn sm ghost" onclick="reloadBank()">重新載入題庫</button>
+    <button class="btn sm ghost" onclick="openSet()">設定</button>
+  </div>
+  <div id="set" class="hide" style="margin-top:14px">
+    <div class="grid g3">
+      <div><label class="muted">目前程度</label>
+        <select id="lv">
+          {% for k,v in {'J1':'國一','J2':'國二','J3':'國三','H1':'高一','H2':'高二','H3':'高三','IB':'銜接雅思'}.items() %}
+          <option value="{{ k }}" {{ 'selected' if p.level==k }}>{{ v }}</option>
+          {% endfor %}
+        </select></div>
+      <div><label class="muted">目標分數</label>
+        <input id="tb" value="{{ p.target_band }}"></div>
+      <div><label class="muted">開始日期（第 1 天）</label>
+        <input id="sd" type="date" value="{{ p.start_date }}"></div>
+    </div>
+    <button class="btn sm" style="margin-top:12px" onclick="saveSet()">儲存</button>
+  </div>
+</div>
+
+<script>
+async function reloadBank(){
+  const r=await fetch('/api/reload');const d=await r.json();
+  alert('題庫已重新載入：共 '+d.total+' 題');location.reload();}
+function openSet(){document.getElementById('set').classList.toggle('hide')}
+async function saveSet(){
+  await fetch('/api/settings',{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({level:lv.value,target_band:tb.value,start_date:sd.value})});
+  location.reload();
+}
+</script>
+{% endblock %}

@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "NIW-0101",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "No sooner ____ the new bridge opened than traffic congestion on the old route began to ease noticeably.",
+    "options": [
+      "has",
+      "did",
+      "was",
+      "had"
+    ],
+    "answer": 3,
+    "explain_zh": "No sooner...than 是倒裝句型，表示「一…就…」，通常搭配過去完成式，主詞後面倒裝為助動詞 had。has 是現在完成式，與後半句 began 的過去時態不一致；did 需搭配原形動詞 open 而非 opened；was 不能與 opened 這種主動完成語意搭配。這種倒裝結構是雅思寫作展現高階句構的指標。",
+    "vocab": [
+      {
+        "w": "ease",
+        "zh": "緩解",
+        "pos": "v."
+      },
+      {
+        "w": "route",
+        "zh": "路線",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0102",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "Were the city to introduce a congestion charge, many commuters ____ switch to public transport within months.",
+    "options": [
+      "would",
+      "will",
+      "did",
+      "do"
+    ],
+    "answer": 0,
+    "explain_zh": "Were the city to introduce 是與未來事實相反的假設語氣倒裝（等於 If the city were to introduce），主要子句須搭配 would。will 是直陳語氣，與虛擬語氣不一致；did／do 都不能單獨表達假設結果。were...to 倒裝句是雅思寫作討論政策假設情境的高分結構。",
+    "vocab": [
+      {
+        "w": "switch to",
+        "zh": "轉換至",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0103",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "Had the committee acted on the warnings sooner, the outbreak ____ have spread so extensively across the region.",
+    "options": [
+      "will not",
+      "does not",
+      "did not",
+      "would not"
+    ],
+    "answer": 3,
+    "explain_zh": "Had the committee acted 是與過去事實相反的假設語氣倒裝，主要子句須搭配 would not have + 過去分詞。will not／does not 都是直陳語氣，時態與虛擬語氣不符；did not 後面須接原形動詞而非 have spread。這種倒裝虛擬句是雅思寫作討論過去政策失誤的高分句型。",
+    "vocab": [
+      {
+        "w": "outbreak",
+        "zh": "（疫情）爆發",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0104",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "The proposal, controversial ____ it may seem, has already gained the support of several local councillors.",
+    "options": [
+      "as",
+      "that",
+      "which",
+      "so"
+    ],
+    "answer": 0,
+    "explain_zh": "controversial as it may seem 是「形容詞 + as + 主詞 + 助動詞」的讓步倒裝句型，意思是「儘管看似有爭議」。that／which 不能與前置形容詞組成這種讓步結構；so 通常要搭配 that 子句，語意也不符。as 引導的倒裝讓步句是雅思寫作高階句構的重要考點。",
+    "vocab": [
+      {
+        "w": "controversial",
+        "zh": "有爭議的",
+        "pos": "adj."
+      },
+      {
+        "w": "councillor",
+        "zh": "議員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0105",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "So rapidly ____ demand for delivery services grown that many companies have struggled to recruit enough drivers.",
+    "options": [
+      "have",
+      "did",
+      "does",
+      "has"
+    ],
+    "answer": 3,
+    "explain_zh": "So + 副詞 放在句首會觸發倒裝，主詞 demand 是單數，須搭配單數助動詞 has，且與後面 grown 的完成式呼應。have 與單數主詞不一致；did／does 須搭配原形動詞 grow 而非過去分詞 grown。So...that 倒裝句是雅思寫作強調趨勢劇烈程度的高分句型。",
+    "vocab": [
+      {
+        "w": "recruit",
+        "zh": "招募",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0106",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "The scheme, the aim of ____ was to cut youth unemployment, has so far produced only modest results.",
+    "options": [
+      "that",
+      "it",
+      "which",
+      "what"
+    ],
+    "answer": 2,
+    "explain_zh": "the aim of which 是非限定關係子句中所有格結構的變形，which 指代前面的 scheme，並與 of 組成 of which 表示「其目標」。that 不能接在介系詞 of 後面組成這種結構；it 是人稱代名詞，無法連接兩個子句；what 不是關係代名詞，不能這樣使用。of which 是雅思寫作描述某事物之特性的高階句型。",
+    "vocab": [
+      {
+        "w": "modest",
+        "zh": "不顯著的；適度的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0107",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "Rarely ____ a policy attracted such widespread criticism from economists, teachers and parents alike.",
+    "options": [
+      "have",
+      "did",
+      "does",
+      "has"
+    ],
+    "answer": 3,
+    "explain_zh": "Rarely 放在句首觸發倒裝，主詞 a policy 是單數，須搭配單數助動詞 has，並與後面 attracted 組成現在完成式。have 與單數主詞不一致；did／does 須搭配原形動詞 attract。這種否定副詞倒裝句型能大幅提升雅思寫作句構多樣性的評分。",
+    "vocab": [
+      {
+        "w": "widespread",
+        "zh": "廣泛的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0108",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "Not only does the new curfew fail to reduce crime, ____ it also places an unfair burden on shift workers.",
+    "options": [
+      "but",
+      "and",
+      "so",
+      "yet"
+    ],
+    "answer": 0,
+    "explain_zh": "Not only...but also 是固定的相關連接詞組合，前半句已出現倒裝的 Not only does，後半句須用 but 來承接。and／so／yet 都不能與 not only 搭配組成這個固定句型。not only...but also 是雅思寫作列舉多重負面影響時的高分結構。",
+    "vocab": [
+      {
+        "w": "curfew",
+        "zh": "宵禁",
+        "pos": "n."
+      },
+      {
+        "w": "burden",
+        "zh": "負擔",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0109",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "Little ____ that their proposal would face such fierce opposition from residents when the developers first submitted it.",
+    "options": [
+      "the developers realised",
+      "did the developers realised",
+      "the developers did realise",
+      "did the developers realise"
+    ],
+    "answer": 3,
+    "explain_zh": "Little 放在句首觸發倒裝，須用「助動詞 did + 主詞 + 原形動詞」的順序，即 did the developers realise。第二個選項沒有倒裝，違反 little 開頭的倒裝規則；第三個選項雖然倒裝但動詞誤用過去式 realised，did 後面須接原形；第四個選項語序完全沒有倒裝。little 引導的倒裝句是雅思寫作強調意外程度的高分句型。",
+    "vocab": [
+      {
+        "w": "fierce",
+        "zh": "激烈的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0110",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "The initiative, ambitious ____ it undoubtedly was, ultimately failed because of insufficient funding.",
+    "options": [
+      "though",
+      "despite",
+      "because",
+      "unless"
+    ],
+    "answer": 0,
+    "explain_zh": "though 可以放在「形容詞 + though + 主詞 + 動詞」的讓步倒裝結構中，意思等於 although it was undoubtedly ambitious。despite 後面只能接名詞或動名詞，不能這樣搭配形容詞加子句；because 表示原因而非讓步；unless 表示條件，語意完全不符。這種形容詞前置的讓步倒裝是雅思寫作高分句構之一。",
+    "vocab": [
+      {
+        "w": "ambitious",
+        "zh": "雄心勃勃的",
+        "pos": "adj."
+      },
+      {
+        "w": "insufficient",
+        "zh": "不足的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0111",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "The findings, inconclusive ____ they were, nonetheless prompted the department to commission further research.",
+    "options": [
+      "so",
+      "that",
+      "such",
+      "as"
+    ],
+    "answer": 3,
+    "explain_zh": "as 可以放在「形容詞 + as + 主詞 + 動詞」的讓步倒裝結構中，意思等於 although they were inconclusive。so 通常需要 that 子句；that／such 都不能這樣接在前置形容詞後面組成讓步結構。as 引導的讓步倒裝句能提升雅思寫作的句構層次。",
+    "vocab": [
+      {
+        "w": "inconclusive",
+        "zh": "無定論的",
+        "pos": "adj."
+      },
+      {
+        "w": "commission",
+        "zh": "委託",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0112",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "Only after the second round of testing ____ engineers confident that the design met all safety standards.",
+    "options": [
+      "were",
+      "was",
+      "did",
+      "are"
+    ],
+    "answer": 0,
+    "explain_zh": "Only after 放在句首會觸發倒裝，主詞 engineers 是複數，須用複數助動詞 were，構成 be 動詞的倒裝形式。was 與複數主詞不一致；did 是助動詞但此處主要動詞是 be 動詞 confident 的狀態，不需要 did；are 是現在式，與句子描述過去測試過程的語境不符。only after 倒裝句是雅思寫作強調時間先後順序的高階句型。",
+    "vocab": [
+      {
+        "w": "safety standard",
+        "zh": "安全標準",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0113",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "The report, thorough ____ its analysis was, failed to consider the long-term environmental costs of the project.",
+    "options": [
+      "despite",
+      "however",
+      "though",
+      "moreover"
+    ],
+    "answer": 2,
+    "explain_zh": "though 放在「形容詞 + though + 主詞 + 動詞」的結構中表示讓步，等於 although its analysis was thorough。despite 後面只能接名詞或動名詞；however 是連接副詞，不能這樣直接接在形容詞後面；moreover 表示附加而非讓步。這種倒裝讓步句能讓雅思寫作批判性評論更精煉。",
+    "vocab": [
+      {
+        "w": "thorough",
+        "zh": "詳盡的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0114",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:complex-sentence",
+    "tag_zh": "多重子句組合",
+    "passage": null,
+    "group_id": null,
+    "stem": "Such was the scale of the flooding ____ entire neighbourhoods had to be evacuated within hours.",
+    "options": [
+      "which",
+      "as",
+      "that",
+      "so"
+    ],
+    "answer": 2,
+    "explain_zh": "Such was the scale...that 是倒裝的 such...that 結構，表示「規模如此之大以致於」。which 不能引導這種結果子句；as 用於不同的讓步或比較結構；so 通常搭配 so + 形容詞 + that，而非放在 such was 這種倒裝句後面。such...that 倒裝句是雅思寫作描述災害規模的高分句型。",
+    "vocab": [
+      {
+        "w": "scale",
+        "zh": "規模",
+        "pos": "n."
+      },
+      {
+        "w": "evacuate",
+        "zh": "疏散",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0115",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The government's ____ of the minimum wage has been credited with lifting thousands of households out of poverty.",
+    "options": [
+      "revise",
+      "revision",
+      "revising",
+      "revised"
+    ],
+    "answer": 1,
+    "explain_zh": "所有格 government's 後面須接名詞，動詞 revise 的名詞形式是 revision。revise 是動詞；revising 是動名詞，通常不會直接接在所有格後面當核心名詞使用；revised 是過去分詞（形容詞用法），語意不完整。revision 是政策類作文常見的名詞化主詞。",
+    "vocab": [
+      {
+        "w": "revision",
+        "zh": "修訂",
+        "pos": "n."
+      },
+      {
+        "w": "poverty",
+        "zh": "貧窮",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0116",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The gradual ____ of manual labour by machines has transformed the structure of the manufacturing workforce.",
+    "options": [
+      "replace",
+      "replacing",
+      "replacement",
+      "replaceable"
+    ],
+    "answer": 2,
+    "explain_zh": "形容詞 gradual 修飾名詞，動詞 replace 的名詞形式是 replacement。replace 是動詞；replacing 是動名詞，此處搭配定冠詞與形容詞的結構不自然；replaceable 是形容詞（可替換的）。replacement 是描述自動化取代人力趨勢的關鍵名詞。",
+    "vocab": [
+      {
+        "w": "replacement",
+        "zh": "取代",
+        "pos": "n."
+      },
+      {
+        "w": "workforce",
+        "zh": "勞動力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0117",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Public ____ towards nuclear power has shifted considerably since the introduction of stricter safety regulations.",
+    "options": [
+      "perceive",
+      "perception",
+      "perceiving",
+      "perceptive"
+    ],
+    "answer": 1,
+    "explain_zh": "形容詞 Public 修飾名詞並作句子主詞，動詞 perceive 的名詞形式是 perception。perceive 是動詞；perceiving 是動名詞，此處語意不自然；perceptive 是形容詞（有洞察力的）。perception 是描述大眾態度轉變的核心名詞化字彙。",
+    "vocab": [
+      {
+        "w": "perception",
+        "zh": "觀感；認知",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0118",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The steady ____ of small independent bookshops has raised concerns about the loss of local cultural spaces.",
+    "options": [
+      "disappear",
+      "disappearing",
+      "disappeared",
+      "disappearance"
+    ],
+    "answer": 3,
+    "explain_zh": "形容詞 steady 修飾名詞，動詞 disappear 的名詞形式是 disappearance。disappear 是動詞；disappearing 是動名詞，此處搭配定冠詞與形容詞不自然；disappeared 是過去分詞。disappearance 是描述傳統產業式微的常見名詞化字彙。",
+    "vocab": [
+      {
+        "w": "disappearance",
+        "zh": "消失",
+        "pos": "n."
+      },
+      {
+        "w": "independent bookshop",
+        "zh": "獨立書店",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0119",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Greater ____ between local councils and charities has improved the delivery of homelessness services in several cities.",
+    "options": [
+      "collaborate",
+      "collaboration",
+      "collaborating",
+      "collaborative"
+    ],
+    "answer": 1,
+    "explain_zh": "比較級形容詞 Greater 修飾名詞並作句子主詞，動詞 collaborate 的名詞形式是 collaboration。collaborate 是動詞；collaborating 是動名詞，此處語意不自然；collaborative 是形容詞（合作性的）。collaboration 是描述跨部門合作成效時常見的名詞化主詞。",
+    "vocab": [
+      {
+        "w": "collaboration",
+        "zh": "合作",
+        "pos": "n."
+      },
+      {
+        "w": "homelessness",
+        "zh": "無家可歸",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0120",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The rapid ____ of artificial intelligence into everyday devices has sparked debate about data privacy.",
+    "options": [
+      "integrate",
+      "integrating",
+      "integration",
+      "integrative"
+    ],
+    "answer": 2,
+    "explain_zh": "形容詞 rapid 修飾名詞，動詞 integrate 的名詞形式是 integration。integrate 是動詞；integrating 是動名詞，此處搭配定冠詞與形容詞不自然；integrative 是形容詞（整合性的）。integration 是科技類作文描述新技術融入生活的核心名詞。",
+    "vocab": [
+      {
+        "w": "integration",
+        "zh": "整合",
+        "pos": "n."
+      },
+      {
+        "w": "data privacy",
+        "zh": "資料隱私",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0121",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The government's ____ of the airline industry in the 1990s led to lower fares but also greater competition.",
+    "options": [
+      "deregulate",
+      "deregulation",
+      "deregulating",
+      "deregulatory"
+    ],
+    "answer": 1,
+    "explain_zh": "所有格 government's 後面須接名詞，動詞 deregulate 的名詞形式是 deregulation。deregulate 是動詞；deregulating 是動名詞，通常不直接接在所有格後面當核心名詞；deregulatory 是形容詞。deregulation 是經濟政策類作文常見的名詞化字彙。",
+    "vocab": [
+      {
+        "w": "deregulation",
+        "zh": "解除管制",
+        "pos": "n."
+      },
+      {
+        "w": "fare",
+        "zh": "票價",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0122",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "A marked ____ in life expectancy over the past century is largely attributable to advances in public health.",
+    "options": [
+      "improve",
+      "improving",
+      "improvement",
+      "improved"
+    ],
+    "answer": 2,
+    "explain_zh": "冠詞 A 加形容詞 marked 後面須接名詞，動詞 improve 的名詞形式是 improvement。improve 是動詞；improving 是動名詞，此處語意不自然；improved 是過去分詞（形容詞用法），語意不完整。improvement 是健康與福祉類作文常見的名詞化主詞。",
+    "vocab": [
+      {
+        "w": "improvement",
+        "zh": "改善",
+        "pos": "n."
+      },
+      {
+        "w": "life expectancy",
+        "zh": "平均壽命",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0123",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company's decision to relocate its factory sparked widespread ____ among workers who feared losing their jobs.",
+    "options": [
+      "anxious",
+      "anxiously",
+      "anxiety",
+      "anxieties"
+    ],
+    "answer": 2,
+    "explain_zh": "形容詞 widespread 修飾的須是不可數名詞，動詞性情緒 anxious 的名詞形式是 anxiety，此處作不可數名詞使用（表示普遍焦慮的情緒狀態）。anxious 是形容詞；anxiously 是副詞；anxieties 是複數形式，但此處語意是描述整體氛圍的不可數情緒，用單數 anxiety 更自然。anxiety 是描述群體情緒反應的常見名詞化字彙。",
+    "vocab": [
+      {
+        "w": "anxiety",
+        "zh": "焦慮",
+        "pos": "n."
+      },
+      {
+        "w": "relocate",
+        "zh": "遷移",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0124",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The council's ____ to postpone the redevelopment project disappointed residents who had waited years for new housing.",
+    "options": [
+      "decide",
+      "deciding",
+      "decision",
+      "decisive"
+    ],
+    "answer": 2,
+    "explain_zh": "所有格 council's 後面須接名詞，動詞 decide 的名詞形式是 decision。decide 是動詞；deciding 是動名詞，此處不自然；decisive 是形容詞（果斷的）。decision 是政策類作文最常見的名詞化字彙之一。",
+    "vocab": [
+      {
+        "w": "decision",
+        "zh": "決定",
+        "pos": "n."
+      },
+      {
+        "w": "redevelopment",
+        "zh": "再開發",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0125",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The ____ of green spaces in urban planning has been linked to improved mental health outcomes among city dwellers.",
+    "options": [
+      "incorporate",
+      "incorporating",
+      "incorporation",
+      "incorporative"
+    ],
+    "answer": 2,
+    "explain_zh": "定冠詞 The 後面加 of 片語須接名詞，動詞 incorporate 的名詞形式是 incorporation。incorporate 是動詞；incorporating 是動名詞，此處搭配定冠詞不自然；incorporative 不是常用英文字。incorporation 是都市規劃類作文常見的名詞化主詞。",
+    "vocab": [
+      {
+        "w": "incorporation",
+        "zh": "納入；融入",
+        "pos": "n."
+      },
+      {
+        "w": "dweller",
+        "zh": "居民",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0126",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Widespread ____ of the proposed tax reform has forced the finance minister to reconsider several key provisions.",
+    "options": [
+      "oppose",
+      "opposing",
+      "opposition",
+      "opposed"
+    ],
+    "answer": 2,
+    "explain_zh": "形容詞 Widespread 修飾名詞並作句子主詞，動詞 oppose 的名詞形式是 opposition。oppose 是動詞；opposing 是動名詞，此處語意不自然；opposed 是過去分詞（形容詞用法）。opposition 是政策爭議類作文常見的名詞化字彙。",
+    "vocab": [
+      {
+        "w": "opposition",
+        "zh": "反對",
+        "pos": "n."
+      },
+      {
+        "w": "provision",
+        "zh": "條款",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0127",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The sudden ____ of the currency last year severely affected the purchasing power of low-income households.",
+    "options": [
+      "devalue",
+      "devaluing",
+      "devaluation",
+      "devalued"
+    ],
+    "answer": 2,
+    "explain_zh": "形容詞 sudden 修飾名詞，動詞 devalue 的名詞形式是 devaluation。devalue 是動詞；devaluing 是動名詞，此處搭配定冠詞與形容詞不自然；devalued 是過去分詞。devaluation 是經濟類作文常見的名詞化主詞。",
+    "vocab": [
+      {
+        "w": "devaluation",
+        "zh": "貶值",
+        "pos": "n."
+      },
+      {
+        "w": "purchasing power",
+        "zh": "購買力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0128",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:nominalization",
+    "tag_zh": "名詞化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Continued government ____ in the housing market has done little to slow the rise in average rents.",
+    "options": [
+      "intervene",
+      "intervening",
+      "intervention",
+      "interventionist"
+    ],
+    "answer": 2,
+    "explain_zh": "形容詞 government 修飾名詞並作句子主詞，動詞 intervene 的名詞形式是 intervention。intervene 是動詞；intervening 是動名詞，此處語意不自然；interventionist 是形容詞（干預主義的）。intervention 是描述政府政策介入市場的核心名詞。",
+    "vocab": [
+      {
+        "w": "intervention",
+        "zh": "介入；干預",
+        "pos": "n."
+      },
+      {
+        "w": "rent",
+        "zh": "租金",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0129",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The link between screen time and anxiety in teenagers, ____ well documented, is not yet fully understood in causal terms.",
+    "options": [
+      "despite",
+      "because",
+      "so",
+      "while"
+    ],
+    "answer": 3,
+    "explain_zh": "while 在此處引導讓步子句（省略主詞與動詞 it is），意思是「儘管…」，用來承認已知證據但同時限縮結論的確定性，是典型的學術限制語用法。despite 後面須接名詞或動名詞，不能這樣接形容詞片語；because 表示原因，語意方向錯誤；so 不能引導讓步子句。while 引導的讓步限制語能讓論點顯得更謹慎。",
+    "vocab": [
+      {
+        "w": "well documented",
+        "zh": "有充分紀錄佐證的",
+        "pos": "phr."
+      },
+      {
+        "w": "causal",
+        "zh": "因果的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0130",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The policy's long-term effects remain, ____ speaking, difficult to predict with any real precision.",
+    "options": [
+      "broad",
+      "broadly",
+      "broadness",
+      "broaden"
+    ],
+    "answer": 1,
+    "explain_zh": "broadly speaking 是固定的插入式限制語片語，用來說明接下來的陳述是概括性的說法而非精確定論，須用副詞 broadly。broad 是形容詞；broadness 是名詞；broaden 是動詞，三者詞性都不能修飾動名詞 speaking。broadly speaking 是雅思寫作降低論述絕對性的常見插入語。",
+    "vocab": [
+      {
+        "w": "broadly speaking",
+        "zh": "概括來說",
+        "pos": "phr."
+      },
+      {
+        "w": "precision",
+        "zh": "精確度",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0131",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ far from certain that the new regulations will achieve their intended effect within the proposed timeframe.",
+    "options": [
+      "There is",
+      "This is",
+      "That is",
+      "It is"
+    ],
+    "answer": 3,
+    "explain_zh": "It is far from certain that 是固定的限制語句型，虛主詞 It 代替後面的 that 子句，表達「絕非確定」的保留態度。There is far from certain 不合文法（far from certain 是形容詞片語，須搭配 It is）；This is／That is 不能這樣接 that 子句。It is far from certain that 是雅思寫作表達高度不確定性時的常見句型。",
+    "vocab": [
+      {
+        "w": "far from certain",
+        "zh": "絕非確定",
+        "pos": "phr."
+      },
+      {
+        "w": "timeframe",
+        "zh": "時間框架",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0132",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "In most cases, students who receive personalised feedback ____ to make faster progress than those who do not.",
+    "options": [
+      "tends",
+      "tend",
+      "tending",
+      "tended"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 students 是複數，tend to 是限制語動詞片語，須用原形 tend。tends 是第三人稱單數形式，與複數主詞不符；tending 不是限定動詞；tended 是過去式，與句子描述一般現在傾向的語境不符。tend to 搭配 in most cases 能表達「多數情況但非絕對」的謹慎立場。",
+    "vocab": [
+      {
+        "w": "personalised feedback",
+        "zh": "個人化回饋",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0133",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "There is a growing body of evidence ____ suggests that bilingual children develop stronger problem-solving skills.",
+    "options": [
+      "who",
+      "which",
+      "whom",
+      "whose"
+    ],
+    "answer": 1,
+    "explain_zh": "evidence 是事物，關係代名詞須用 which，且此處作後面動詞 suggests 的主詞。who／whom 只能指人；whose 是所有格關係代名詞，後面須接名詞而非動詞。there is a growing body of evidence which suggests 是雅思寫作以證據為基礎但保留推論空間的常見限制語句型。",
+    "vocab": [
+      {
+        "w": "bilingual",
+        "zh": "雙語的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0134",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The scheme's success ____ largely on factors that lie beyond the control of individual schools, making it hard to generalise the results.",
+    "options": [
+      "depend",
+      "depends",
+      "depending",
+      "to depend"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 success 是單數，depend on 須用第三人稱單數 depends。depend 動詞形式與單數主詞不一致；depending 不是限定動詞；to depend 是不定詞，不能單獨作句子主要動詞。depends largely on 加上後半句 making it hard to generalise 一起構成謹慎、不過度推論的學術限制語氣。",
+    "vocab": [
+      {
+        "w": "generalise",
+        "zh": "概括推論",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0135",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "It would be an overstatement to claim that automation ____ eliminate all manufacturing jobs within a decade.",
+    "options": [
+      "would",
+      "must",
+      "shall",
+      "will"
+    ],
+    "answer": 3,
+    "explain_zh": "此處空格在 claim that 子句內，描述一個被視為誇大的直接斷言，用 will 表示原本被質疑的肯定說法（「自動化將會消除」），整句用 It would be an overstatement to claim that 來否定這種過度肯定的語氣。would／must／shall 在此語境中語意或時態都與「原本被批評為誇大的直接斷言」不符。這句話示範如何用限制語框架去反駁過度武斷的說法。",
+    "vocab": [
+      {
+        "w": "overstatement",
+        "zh": "誇大之詞",
+        "pos": "n."
+      },
+      {
+        "w": "eliminate",
+        "zh": "消除",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0136",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The findings should be interpreted with caution, ____ the relatively small sample size used in the study.",
+    "options": [
+      "giving",
+      "gives",
+      "given",
+      "give"
+    ],
+    "answer": 2,
+    "explain_zh": "given + 名詞片語 是固定的限制語用法，意思是「考量到…」，用來說明保留態度的理由。giving 是現在分詞，語意上不符（不是「正在給予」）；gives／give 是動詞形式，不能這樣接在逗號後面修飾整句。given 是雅思寫作在陳述結論時加上但書的高分字。",
+    "vocab": [
+      {
+        "w": "sample size",
+        "zh": "樣本數",
+        "pos": "n."
+      },
+      {
+        "w": "interpret",
+        "zh": "詮釋",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0137",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ conceivably be the case that stricter regulation would simply push the industry overseas rather than reform it.",
+    "options": [
+      "It would have",
+      "There could",
+      "This could",
+      "It could"
+    ],
+    "answer": 3,
+    "explain_zh": "It could conceivably be the case that 是固定的高階限制語句型，虛主詞 It 搭配情態助動詞 could 與副詞 conceivably，表達「有可能但不確定」的謹慎態度。It would have 時態不符（需接過去分詞而非 be）；There could／This could 不能這樣接 be the case that 這個固定結構。這是雅思寫作展現高階保留語氣的句型。",
+    "vocab": [
+      {
+        "w": "conceivably",
+        "zh": "可以想見地",
+        "pos": "adv."
+      },
+      {
+        "w": "overseas",
+        "zh": "海外",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0138",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Although the results point in this direction, they are by no means ____ of a definitive causal relationship.",
+    "options": [
+      "prove",
+      "proving",
+      "proof",
+      "proved"
+    ],
+    "answer": 2,
+    "explain_zh": "be by no means + 名詞 是固定結構，須用名詞 proof（證明）。prove 是動詞；proving 是動名詞；proved 是過去分詞，三者都不能直接放在 by no means 之後作補語名詞使用。by no means proof of 是雅思寫作承認證據有限、避免過度推論的高分限制語結構。",
+    "vocab": [
+      {
+        "w": "definitive",
+        "zh": "確定的；決定性的",
+        "pos": "adj."
+      },
+      {
+        "w": "causal relationship",
+        "zh": "因果關係",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0139",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The rise in remote working is, ____ , unlikely to be reversed even after the economy fully recovers.",
+    "options": [
+      "on a whole",
+      "in the whole",
+      "at the whole",
+      "on the whole"
+    ],
+    "answer": 3,
+    "explain_zh": "on the whole 是固定片語，意思是「整體而言」，用來為接下來的概括性論點加上限縮語氣。on a whole、in the whole、at the whole 的冠詞與介系詞搭配都不正確，不是英文的固定用法。on the whole 是雅思寫作做整體評估時常用的限制語插入語。",
+    "vocab": [
+      {
+        "w": "on the whole",
+        "zh": "整體而言",
+        "pos": "phr."
+      },
+      {
+        "w": "reverse",
+        "zh": "逆轉",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0140",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is not necessarily the case ____ higher spending on education automatically leads to better academic outcomes.",
+    "options": [
+      "that",
+      "which",
+      "what",
+      "who"
+    ],
+    "answer": 0,
+    "explain_zh": "it is not necessarily the case that 是固定的限制語句型，用來否定一個常見假設的必然性，後面須接 that 引導的完整子句。which／what／who 都不能在這個固定結構中取代 that。這句型讓作者能質疑因果關係而不需要完全否定相關性。",
+    "vocab": [
+      {
+        "w": "academic outcome",
+        "zh": "學業表現",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0141",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The data, ____ limited in scope, nonetheless offer a useful starting point for further investigation.",
+    "options": [
+      "though",
+      "despite",
+      "because",
+      "unless"
+    ],
+    "answer": 0,
+    "explain_zh": "though 放在「形容詞 + though + 主詞省略 + 動詞省略」的讓步結構中，意思等於 although the data are limited in scope。despite 後面須接名詞或動名詞；because 表示原因，語意方向錯誤；unless 表示條件，與讓步語意不符。though 引導的讓步限制語能讓作者承認研究限制同時仍保留論點價值。",
+    "vocab": [
+      {
+        "w": "scope",
+        "zh": "範圍",
+        "pos": "n."
+      },
+      {
+        "w": "starting point",
+        "zh": "出發點",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0142",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:hedging",
+    "tag_zh": "學術限制語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Critics have ____ suggested that the reforms were driven more by political pressure than by genuine evidence.",
+    "options": [
+      "arguable",
+      "argument",
+      "arguably",
+      "argue"
+    ],
+    "answer": 2,
+    "explain_zh": "空格修飾後面的過去分詞 suggested，須用副詞 arguably，意思是「可以說是」，用來軟化這個帶有批判性的說法。arguable 是形容詞；argument 是名詞；argue 是動詞，三者詞性都不能直接修飾動詞 suggested。arguably 讓強烈的批評顯得是有根據的推論而非武斷指控。",
+    "vocab": [
+      {
+        "w": "political pressure",
+        "zh": "政治壓力",
+        "pos": "n."
+      },
+      {
+        "w": "genuine",
+        "zh": "真實的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0143",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "Some economists favour tax cuts to stimulate growth, whereas ____ argue that public investment is more effective.",
+    "options": [
+      "another",
+      "other",
+      "others",
+      "the other"
+    ],
+    "answer": 2,
+    "explain_zh": "others 是不定代名詞，指「其他的人」，用來與前面 some economists 對比，且不須加冠詞。another 是單數，語意與「其他經濟學家」的複數概念不符；other 須搭配複數名詞（other economists）而不能單獨當代名詞使用；the other 通常指「兩者中的另一個」，與此處泛指的其他經濟學家不符。some...others 是雅思寫作呈現對立觀點的經典銜接結構。",
+    "vocab": [
+      {
+        "w": "stimulate",
+        "zh": "刺激",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0144",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The scheme has three stated goals: to cut emissions, to create jobs and ____ improve public health.",
+    "options": [
+      "for",
+      "at",
+      "in",
+      "to"
+    ],
+    "answer": 3,
+    "explain_zh": "三個並列的不定詞片語須保持一致的形式：to cut、to create、to improve，維持平行結構的完整度。for／at／in 都不能替代 to 組成不定詞。平行結構是雅思寫作 GRA 評分中最容易被扣分的細節，尤其在列舉多個目標時。",
+    "vocab": [
+      {
+        "w": "emission",
+        "zh": "排放（量）",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0145",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The first study relied on self-reported data, whereas the second ____ objective measurements taken in a laboratory setting.",
+    "options": [
+      "uses",
+      "using",
+      "used",
+      "use"
+    ],
+    "answer": 2,
+    "explain_zh": "句子前半用過去式 relied，為保持時態一致，後半句也須用過去式 used。uses 是現在式，與前半句的過去時態不一致；using 不是限定動詞，句子會缺少主要動詞；use 是原形動詞，同樣不符合過去時態語境。時態一致是雅思寫作對比兩項研究方法時容易被忽略的細節。",
+    "vocab": [
+      {
+        "w": "self-reported",
+        "zh": "自我陳報的",
+        "pos": "adj."
+      },
+      {
+        "w": "objective",
+        "zh": "客觀的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0146",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The committee reviewed dozens of applications; ____ of these met every one of the funding criteria.",
+    "options": [
+      "a few",
+      "little",
+      "much",
+      "few"
+    ],
+    "answer": 3,
+    "explain_zh": "few 修飾可數複數名詞 applications（此處以 of these 指代），意思是「幾乎沒有」，帶有否定意味，符合後文「未能全部符合資格」的語境。a few 語意是「有一些」，正面語氣與句子強調稀少、幾乎沒有的語境不符；little 只能修飾不可數名詞；much 同樣只能修飾不可數名詞。few／a few 的語氣區分是雅思寫作常見的細節扣分點。",
+    "vocab": [
+      {
+        "w": "funding criteria",
+        "zh": "補助資格條件",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0147",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The northern branch reported a rise in sales, ____ the southern branch experienced a slight decline over the same quarter.",
+    "options": [
+      "while",
+      "despite",
+      "because",
+      "moreover"
+    ],
+    "answer": 0,
+    "explain_zh": "while 用來連接兩個方向相反的分句（一個上升、一個下降），在同一個句子裡表達對比。despite 後面須接名詞或動名詞，不能直接接完整子句；because 表示原因，語意方向不符；moreover 是連接副詞，通常需要句號或分號隔開兩個獨立子句，不能像連接詞一樣直接連接兩個子句。while 是雅思寫作同句內對比兩個分句的核心連接詞。",
+    "vocab": [
+      {
+        "w": "branch",
+        "zh": "分部；分店",
+        "pos": "n."
+      },
+      {
+        "w": "quarter",
+        "zh": "季度",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0148",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The museum offers free admission on the first Sunday of every month; ____ , visitor numbers on that day are consistently high.",
+    "options": [
+      "surprising",
+      "surprisingly not",
+      "unsurprised",
+      "unsurprisingly"
+    ],
+    "answer": 3,
+    "explain_zh": "unsurprisingly 是副詞，放在分號後面銜接一個合乎邏輯推論的結果，意思是「不出所料地」。surprising 是形容詞，不能單獨這樣接在分號後面當連接副詞使用；surprisingly not 語意矛盾（此處結果並不令人意外）；unsurprised 是形容詞（描述人的感受），不能這樣修飾整個句子。這類評注性副詞是雅思寫作銜接因果推論的高分工具。",
+    "vocab": [
+      {
+        "w": "admission",
+        "zh": "入場（費）",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0149",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "Both universities offer generous scholarships, but only the former ____ full funding for international students.",
+    "options": [
+      "provide",
+      "provides",
+      "providing",
+      "provided"
+    ],
+    "answer": 1,
+    "explain_zh": "the former 指代「兩者中的前者」，是單數概念，動詞須用第三人稱單數 provides。provide 與單數主詞不一致；providing 不是限定動詞；provided 是過去式，與句子描述現況的現在式語境不符。former／latter 搭配單數動詞是雅思寫作對比兩個項目時常見的文法細節。",
+    "vocab": [
+      {
+        "w": "generous",
+        "zh": "慷慨的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0150",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The report lists several causes of the decline, the most significant ____ being the loss of manufacturing jobs to overseas competitors.",
+    "options": [
+      "of them",
+      "of those",
+      "of which",
+      "of it"
+    ],
+    "answer": 2,
+    "explain_zh": "of which 是非限定關係子句中所有格結構的延伸用法，which 指代前面提到的 several causes，讓兩個子句合併得更精簡，是同一子句內用來承接前述名詞的正確方式。of them／of those 是代名詞而非關係代名詞，不能在同一子句內扮演連接角色；of it 是單數代名詞，與複數的 causes 不符。of which 是雅思寫作精簡句構的高分技巧。",
+    "vocab": [
+      {
+        "w": "competitor",
+        "zh": "競爭對手",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0151",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The scheme was designed to cut costs; in practice, ____ , it has significantly increased local authorities' administrative burden.",
+    "options": [
+      "similarly",
+      "furthermore",
+      "consequently",
+      "however"
+    ],
+    "answer": 3,
+    "explain_zh": "however 表示轉折對比，正確連接「設計初衷是降低成本」與「實際上卻增加行政負擔」這兩個相反的結果。similarly 表示相似，語意不符；furthermore 表示附加，並非對比；consequently 表示因果，但此處是對比而非因果關係。however 是雅思寫作凸顯政策實際效果與預期落差時的關鍵連接詞。",
+    "vocab": [
+      {
+        "w": "administrative burden",
+        "zh": "行政負擔",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0152",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "Neither the government nor local councils ____ willing to take full responsibility for the failure of the scheme.",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "being"
+    ],
+    "answer": 2,
+    "explain_zh": "neither...nor 連接兩個主詞時，動詞通常與最靠近它的主詞一致，此處最靠近動詞的是複數名詞 local councils，故動詞須用複數 are。is／was 是單數形式，與最靠近的複數主詞不一致；being 不是限定動詞。neither...nor 的動詞一致原則是雅思寫作常被忽略的細節文法。",
+    "vocab": [
+      {
+        "w": "take responsibility",
+        "zh": "承擔責任",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0153",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The scheme benefited urban residents far more than it did ____ living in remote rural communities.",
+    "options": [
+      "that",
+      "ones",
+      "those",
+      "the one"
+    ],
+    "answer": 2,
+    "explain_zh": "those 是複數指示代名詞，用來替代前面已提及的一群人（residents），避免重複，是正式寫作中常見的替代用法。that 是單數指示代名詞，與複數概念的居民不符；ones 通常需要形容詞修飾才自然（例如 the ones）；the one 是單數形式，同樣與複數語境不符。those (who) 是雅思寫作比較兩群人時常見的替代結構。",
+    "vocab": [
+      {
+        "w": "remote",
+        "zh": "偏遠的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0154",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The council has cut funding for youth centres, closed two public libraries and, ____ , reduced staff numbers across all departments.",
+    "options": [
+      "the most recent",
+      "most recent",
+      "more recently",
+      "most recently"
+    ],
+    "answer": 3,
+    "explain_zh": "此處是列舉三個已完成的措施，most recently 是副詞片語，意思是「最近一次」，用來標示第三項是時間上最新發生的措施，維持整句的邏輯連貫。the most recent／most recent 是形容詞片語，不能這樣單獨插入句中修飾整個動作；more recently 是比較級，但此處是列舉三項中的最後一項，最高級 most recently 更符合語意。most recently 是雅思寫作依時間順序列舉事件的常見銜接語。",
+    "vocab": [
+      {
+        "w": "department",
+        "zh": "部門",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0155",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The scheme's supporters point to falling crime rates; its critics, ____ , highlight the rising cost to taxpayers.",
+    "options": [
+      "by contrast",
+      "in addition",
+      "similarly",
+      "as a result"
+    ],
+    "answer": 0,
+    "explain_zh": "by contrast 用來凸顯支持者與批評者立場的對立，正確銜接兩個相反的觀點。in addition 表示附加，語意不符；similarly 表示相似，與對立語境矛盾；as a result 表示因果，但此處是立場對比而非因果關係。by contrast 是雅思寫作呈現正反意見對照時的核心銜接詞。",
+    "vocab": [
+      {
+        "w": "taxpayer",
+        "zh": "納稅人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0156",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:cohesion",
+    "tag_zh": "銜接與指涉",
+    "passage": null,
+    "group_id": null,
+    "stem": "The two proposals share the same overall goal; they differ, ____ , in how that goal should be achieved.",
+    "options": [
+      "likewise",
+      "therefore",
+      "moreover",
+      "however"
+    ],
+    "answer": 3,
+    "explain_zh": "however 表示轉折，正確連接「目標相同」與「達成方式不同」這兩個對比的陳述。likewise 表示相似，語意矛盾；therefore 表示因果，與此處單純對比的語意不符；moreover 表示附加，同樣不符合轉折語意。however 是雅思寫作比較兩個提案異同時最常見的銜接副詞。",
+    "vocab": [
+      {
+        "w": "overall goal",
+        "zh": "整體目標",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0157",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "Neither the teachers nor the headteacher were informed about the change to the exam schedule in advance. Which is the correct version of the sentence?",
+    "options": [
+      "Neither the teachers nor the headteacher was informed about the change to the exam schedule in advance.",
+      "Neither the teachers nor the headteacher were informed about the change to the exam schedule in advance.",
+      "Neither the teachers nor the headteacher have been informed about the change to the exam schedule in advance.",
+      "Neither the teachers or the headteacher was informed about the change to the exam schedule in advance."
+    ],
+    "answer": 0,
+    "explain_zh": "neither...nor 連接兩個主詞時，動詞須與最靠近的主詞一致，此處最靠近的是單數 the headteacher，動詞應為 was。原句誤用複數 were；選項三誤用現在完成式 have been，且動詞形式仍與單數主詞不一致；選項四把 nor 誤寫成 or，neither 必須搭配 nor 而非 or。動詞就近一致原則是雅思寫作常見的錯誤來源。",
+    "vocab": [
+      {
+        "w": "headteacher",
+        "zh": "校長",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0158",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "Despite the fact that ticket prices increased, but attendance at the festival remained remarkably high. Which is the correct version of the sentence?",
+    "options": [
+      "Despite the fact that ticket prices increased, attendance at the festival remained remarkably high.",
+      "Despite the fact that ticket prices increased, but attendance at the festival remained remarkably high.",
+      "Despite ticket prices increased, attendance at the festival remained remarkably high.",
+      "Although the fact that ticket prices increased, attendance at the festival remained remarkably high."
+    ],
+    "answer": 0,
+    "explain_zh": "despite the fact that 已經是完整的讓步連接結構，後面的主要子句不能再加 but，兩個讓步詞重複使用是常見的贅字錯誤。原句同時使用 despite 與 but，重複表達轉折語意；選項三 despite 後面直接接完整子句是錯誤的，despite 只能接名詞或動名詞；選項四 although the fact that 也是贅詞重複，although 本身已能直接接子句，不需要再加 the fact that。避免轉折詞重複使用是雅思寫作重要的文法細節。",
+    "vocab": [
+      {
+        "w": "attendance",
+        "zh": "出席人數",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0159",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "The findings of the study, which was conducted over three years, has significant implications for public policy. Which is the correct version of the sentence?",
+    "options": [
+      "The findings of the study, which was conducted over three years, has significant implications for public policy.",
+      "The findings of the study, which were conducted over three years, has significant implications for public policy.",
+      "The findings of the study, which was conducted over three years, have significant implications for public policy.",
+      "The finding of the study, which was conducted over three years, have significant implications for public policy."
+    ],
+    "answer": 2,
+    "explain_zh": "句子的主要主詞是複數 findings，主要動詞須用 have；而關係子句 which was conducted 的先行詞是單數 the study，關係子句動詞須用單數 was，兩者要分開判斷各自的一致性。原句主要動詞誤用單數 has；選項二把關係子句動詞誤改成複數 were，但先行詞 study 是單數；選項四把主詞 findings 誤改成單數 finding，與句意（多項發現）不符。分辨主要子句與關係子句各自的主詞動詞一致是雅思寫作的重要細節。",
+    "vocab": [
+      {
+        "w": "implication",
+        "zh": "影響；含意",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0160",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "Not only the government reduced funding for the arts, but it also cut support for community sports programmes. Which is the correct version of the sentence?",
+    "options": [
+      "Not only the government reduced funding for the arts, but it also cut support for community sports programmes.",
+      "Not only did the government reduce funding for the arts, but it also cut support for community sports programmes.",
+      "Not only did the government reduced funding for the arts, but it also cut support for community sports programmes.",
+      "Not only the government did reduce funding for the arts, but it also cut support for community sports programmes."
+    ],
+    "answer": 1,
+    "explain_zh": "Not only 放在句首會觸發倒裝，須用「助動詞 did + 主詞 + 原形動詞」的順序，即 did the government reduce。原句完全沒有倒裝；選項三雖然倒裝但動詞誤用過去式 reduced，did 後面須接原形動詞；選項四語序錯誤，did 應該緊接在主詞前面而非之後。not only 倒裝句是雅思寫作常見的文法陷阱。",
+    "vocab": [
+      {
+        "w": "community sports programme",
+        "zh": "社區運動計畫",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0161",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "The number of people who is choosing to work from home permanently continues to increase every year. Which is the correct version of the sentence?",
+    "options": [
+      "The number of people who is choosing to work from home permanently continues to increase every year.",
+      "The number of people who are choosing to work from home permanently continues to increase every year.",
+      "The number of people who are choosing to work from home permanently continue to increase every year.",
+      "The numbers of people who are choosing to work from home permanently continues to increase every year."
+    ],
+    "answer": 1,
+    "explain_zh": "關係子句 who...的先行詞是複數 people，關係子句動詞須用複數 are；但句子主要主詞是單數 the number of，主要動詞須用單數 continues，兩者須分開判斷。原句關係子句誤用單數 is；選項三把主要動詞也誤改成複數 continue，但主詞是 the number of 應為單數；選項四把 the number 誤改成複數 the numbers，改變了原本的固定用法且與單數動詞矛盾。這題同時測試主要子句與關係子句兩層的一致性判斷。",
+    "vocab": [
+      {
+        "w": "permanently",
+        "zh": "永久地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0162",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "Having been delayed by three hours, passengers were extremely frustrated when the airline offered no compensation. Which is the correct version of the sentence?",
+    "options": [
+      "Having been delayed by three hours, passengers were extremely frustrated when the airline offered no compensation.",
+      "Having delayed by three hours, passengers were extremely frustrated when the airline offered no compensation.",
+      "Having been delayed by three hours, the airline offered no compensation and passengers were extremely frustrated.",
+      "Delayed by three hours, the airline offered no compensation, so passengers were extremely frustrated."
+    ],
+    "answer": 0,
+    "explain_zh": "分詞構句 Having been delayed by three hours 的邏輯主詞必須與句子主詞一致，乘客確實是「被延誤」的一方，用被動完成式 having been delayed 搭配主詞 passengers 完全正確。選項二漏掉必要的 been，having delayed 語態變成主動，乘客不會「使某事延誤」；選項三與選項四都把主詞換成 the airline，但航空公司並不是「被延誤」的對象，造成垂懸分詞錯誤。分詞構句的邏輯主詞一致性是雅思寫作重要考點。",
+    "vocab": [
+      {
+        "w": "compensation",
+        "zh": "賠償",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0163",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is important that the new employee familiarise himself with the safety procedures before starting work. Which is the correct version of the sentence?",
+    "options": [
+      "It is important that the new employee familiarise himself with the safety procedures before starting work.",
+      "It is important that the new employee familiarises himself with the safety procedures before starting work.",
+      "It is important that the new employee familiarised himself with the safety procedures before starting work.",
+      "It is important that the new employee is familiarising himself with the safety procedures before starting work."
+    ],
+    "answer": 0,
+    "explain_zh": "It is important that 後面的子句須用假設語氣（subjunctive），動詞維持原形，不隨主詞變化，故 familiarise 為正確形式。選項二誤加第三人稱單數的 -s；選項三誤用過去式；選項四誤用現在進行式。假設語氣動詞不變化是雅思寫作正式文體中容易被忽略但很重要的規則，常見於 it is important/essential/vital that 這類句型。",
+    "vocab": [
+      {
+        "w": "familiarise",
+        "zh": "使熟悉",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0164",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "The committee recommended that the deadline should be extend so that all applicants have sufficient time to prepare. Which is the correct version of the sentence?",
+    "options": [
+      "The committee recommended that the deadline should be extend so that all applicants have sufficient time to prepare.",
+      "The committee recommended that the deadline should be extended so that all applicants have sufficient time to prepare.",
+      "The committee recommended that the deadline should extended so that all applicants have sufficient time to prepare.",
+      "The committee recommended that the deadline should being extended so that all applicants have sufficient time to prepare."
+    ],
+    "answer": 1,
+    "explain_zh": "should be extended 是被動語態，be 動詞後面須接過去分詞 extended，才能正確表示「期限被延長」。原句誤用原形 extend；選項三漏掉必要的 be，should 後面直接接過去分詞不合文法；選項四誤用動名詞 being，should 後面須接原形動詞 be 而非 being。被動語態中 be + 過去分詞的正確形式是雅思寫作常見的文法錯誤來源。",
+    "vocab": [
+      {
+        "w": "applicant",
+        "zh": "申請人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0165",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "Between the three candidates interviewed for the position, only one had the relevant industry experience required. Which is the correct version of the sentence?",
+    "options": [
+      "Between the three candidates interviewed for the position, only one had the relevant industry experience required.",
+      "Among the three candidates interviewed for the position, only one had the relevant industry experience required.",
+      "Among the three candidates interviewed for the position, only one has the relevant industry experience required.",
+      "Between the three candidates interviewed for the position, only one has the relevant industry experience required."
+    ],
+    "answer": 1,
+    "explain_zh": "between 只能用於恰好兩者之間的比較，此處是三位候選人，須用 among。原句誤用 between 描述三者；選項三雖然正確使用 among，卻把動詞誤改成現在式 has，與句子描述過去面試情境的過去式語境不符；選項四同時保留 between 的錯誤又誤用現在式。between／among 的二者與多者區分是雅思寫作常見的介系詞錯誤。",
+    "vocab": [
+      {
+        "w": "candidate",
+        "zh": "候選人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0166",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "The report, that was published last week, reveals that nearly a third of local rivers fail to meet water quality standards. Which is the correct version of the sentence?",
+    "options": [
+      "The report, that was published last week, reveals that nearly a third of local rivers fail to meet water quality standards.",
+      "The report, which was published last week, reveals that nearly a third of local rivers fail to meet water quality standards.",
+      "The report, which published last week, reveals that nearly a third of local rivers fail to meet water quality standards.",
+      "The report, which was publishing last week, reveals that nearly a third of local rivers fail to meet water quality standards."
+    ],
+    "answer": 1,
+    "explain_zh": "逗號後面的非限定關係子句只能用 which，不能用 that，這是雅思寫作常見的關係代名詞誤用。原句誤用 that；選項三漏掉必要的被動助動詞 was，report 是「被出版」而非主動出版，語態錯誤；選項四誤用過去進行式 was publishing，語意變成「正在出版的過程中」，與已完成的出版動作不符。非限定關係子句只能用 which 是雅思寫作的重要規則。",
+    "vocab": [
+      {
+        "w": "water quality",
+        "zh": "水質",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0167",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "If the council would have consulted residents earlier, the redevelopment plan might have received less opposition. Which is the correct version of the sentence?",
+    "options": [
+      "If the council would have consulted residents earlier, the redevelopment plan might have received less opposition.",
+      "If the council had consulted residents earlier, the redevelopment plan might have received less opposition.",
+      "If the council consulted residents earlier, the redevelopment plan might have received less opposition.",
+      "If the council has consulted residents earlier, the redevelopment plan might have received less opposition."
+    ],
+    "answer": 1,
+    "explain_zh": "第三類條件句（與過去事實相反的假設）的 if 子句須用過去完成式 had consulted，不能用 would have，would 只能出現在主要子句。原句誤在 if 子句中使用 would have；選項三用簡單過去式 consulted，時態不符第三類條件句的過去完成式要求；選項四誤用現在完成式 has consulted，同樣不符合過去事實相反假設的時態規則。if 子句中誤用 would have 是雅思寫作條件句最常見的錯誤。",
+    "vocab": [
+      {
+        "w": "redevelopment plan",
+        "zh": "再開發計畫",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0168",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "The survey results, along with the interview transcripts, were analysed using a coding framework developed by the research team. Which is the correct version of the sentence?",
+    "options": [
+      "The survey results, along with the interview transcripts, were analysed using a coding framework developed by the research team.",
+      "The survey results, along with the interview transcripts, was analysed using a coding framework developed by the research team.",
+      "The survey results, along with the interview transcripts, were analysed use a coding framework developed by the research team.",
+      "The survey result, along with the interview transcripts, were analysed using a coding framework developed by the research team."
+    ],
+    "answer": 0,
+    "explain_zh": "along with 引導的插入片語不影響主詞的單複數，句子的主詞仍是複數 the survey results，動詞須用複數 were，這句原本就正確。選項二誤用單數動詞 was，忽略了主詞本身是複數；選項三把分詞 using 誤改成原形動詞 use，動詞後面不能連續接兩個限定動詞；選項四把主詞誤改成單數 result，與後面複數動詞 were 矛盾。along with／as well as 等插入片語不改變主詞單複數是雅思寫作重要的一致性規則。",
+    "vocab": [
+      {
+        "w": "transcript",
+        "zh": "逐字稿",
+        "pos": "n."
+      },
+      {
+        "w": "coding framework",
+        "zh": "編碼架構",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0169",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "Whereas the pilot scheme proved successful in urban areas, it were far less effective when applied in rural communities. Which is the correct version of the sentence?",
+    "options": [
+      "Whereas the pilot scheme proved successful in urban areas, it were far less effective when applied in rural communities.",
+      "Whereas the pilot scheme proved successful in urban areas, it was far less effective when applied in rural communities.",
+      "Whereas the pilot scheme proved successful in urban areas, it are far less effective when applied in rural communities.",
+      "Whereas the pilot scheme proved successful in urban areas, it being far less effective when applied in rural communities."
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 it 指代單數的 the pilot scheme，且前半句用過去式 proved，為保持時態與主詞一致，後半句動詞須用單數過去式 was。原句誤用複數 were；選項三誤用現在式複數 are，時態與人稱都不對；選項四用分詞 being 取代限定動詞，會讓後半句缺少主要動詞，變成句子片段。單數主詞與過去式動詞的一致性是雅思寫作對比句型常見的錯誤來源。",
+    "vocab": [
+      {
+        "w": "pilot scheme",
+        "zh": "試辦計畫",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0170",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:sentence-error",
+    "tag_zh": "挑錯與改寫",
+    "passage": null,
+    "group_id": null,
+    "stem": "The two reports reach different conclusions, that is quite unusual given that they analyse the same dataset. Which is the correct version of the sentence?",
+    "options": [
+      "The two reports reach different conclusions, that is quite unusual given that they analyse the same dataset.",
+      "The two reports reach different conclusions, which is quite unusual given that they analyse the same dataset.",
+      "The two reports reach different conclusions, it is quite unusual given that they analyse the same dataset.",
+      "The two reports reach different conclusions, what is quite unusual given that they analyse the same dataset."
+    ],
+    "answer": 1,
+    "explain_zh": "逗號後面用來承接整個前句概念的非限定關係子句只能用 which，不能用 that。原句誤用 that；選項三用代名詞 it 會造成兩個獨立子句只用逗號連接的逗號拼接錯誤；選項四 what 不是這種非限定關係子句可以使用的關係代名詞。which 承接整句概念是雅思寫作常見卻容易出錯的銜接結構。",
+    "vocab": [
+      {
+        "w": "dataset",
+        "zh": "資料集",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0171",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "The proportion of energy generated from solar panels rose ____ 6% in 2015 to just over 20% a decade later.",
+    "options": [
+      "by",
+      "from",
+      "at",
+      "with"
+    ],
+    "answer": 1,
+    "explain_zh": "from X to Y 是描述數據從起點變化到終點的固定句型，此處要用 from 搭配後面的 to。by 是描述變化幅度而非起訖點；at 不是這個結構所使用的介系詞；with 同樣不符合此固定句型。from...to 是雅思 Task 1 最基本也最常考的數據句型。",
+    "vocab": [
+      {
+        "w": "solar panel",
+        "zh": "太陽能板",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0172",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "The average number of overtime hours worked per employee has ____ increased since the introduction of flexible working policies.",
+    "options": [
+      "gradual",
+      "gradually",
+      "gradualness",
+      "gradualise"
+    ],
+    "answer": 1,
+    "explain_zh": "空格修飾動詞 increased，須用副詞 gradually，意思是「逐漸地」，是雅思 Task 1 描述趨勢變化速度的常見用字。gradual 是形容詞，不能直接修飾動詞；gradualness 是名詞；gradualise 不是標準英文字。用精確的副詞描述變化速度能提升 Task 1 描述的精確度。",
+    "vocab": [
+      {
+        "w": "overtime",
+        "zh": "加班（時間）",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0173",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "Manufacturing output in Country A was roughly twice ____ high as that recorded in Country B throughout the period shown.",
+    "options": [
+      "so",
+      "as",
+      "much",
+      "more"
+    ],
+    "answer": 1,
+    "explain_zh": "twice as high as 是固定的倍數比較句型，用來表示「是…的兩倍高」。so high as 不是標準的倍數比較搭配；much 不能這樣接在 twice 與 high 之間；more 會與 twice as 的固定結構衝突。twice as...as 是雅思 Task 1 描述倍數關係的必考句型。",
+    "vocab": [
+      {
+        "w": "output",
+        "zh": "產出",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0174",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ from a brief dip in 2018, sales of electric bicycles have risen consistently over the past eight years.",
+    "options": [
+      "Apart",
+      "Except",
+      "Besides",
+      "Other"
+    ],
+    "answer": 1,
+    "explain_zh": "except from 在此語境中意思是「除了…之外」，用來排除圖表中的一個短暫例外情況（2018 年的短暫下滑），再描述整體趨勢。apart 須搭配 from 且雖然 apart from 也常用，但此處語意更精確對應「排除單一例外」的是 except from；besides 通常表示「此外」，語意方向不同；other 是形容詞，不能這樣單獨使用。用來排除圖表中單一例外年份是 Task 1 常見的描述技巧。",
+    "vocab": [
+      {
+        "w": "dip",
+        "zh": "（短暫）下滑",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0175",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "The gap between male and female participation rates in higher education has ____ narrowed considerably since 2000.",
+    "options": [
+      "progressive",
+      "progression",
+      "progressively",
+      "progressiveness"
+    ],
+    "answer": 2,
+    "explain_zh": "空格修飾動詞 narrowed，須用副詞 progressively，意思是「逐步地」。progressive 是形容詞；progression 與 progressiveness 都是名詞，三者詞性都不能直接修飾動詞。progressively 是雅思 Task 1 描述差距逐步縮小時常用的精確副詞。",
+    "vocab": [
+      {
+        "w": "participation rate",
+        "zh": "參與率",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0176",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "Water consumption in the region peaked in July, ____ demand fell sharply again once the summer holidays ended.",
+    "options": [
+      "despite",
+      "because",
+      "unless",
+      "before"
+    ],
+    "answer": 3,
+    "explain_zh": "before 引導時間子句，描述「在…之前」，正確銜接「七月達到高峰」與「暑假結束後需求又急遽下降」這兩個依時間先後發生的事件。despite 後面須接名詞或動名詞，不能直接接完整子句；because 表示因果，與純粹的時間先後語意不符；unless 表示條件，語意完全不符。before 是雅思 Task 1 描述數據高峰後續變化的常見連接詞。",
+    "vocab": [
+      {
+        "w": "peak",
+        "zh": "達到高峰",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0177",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "By 2025, the proportion of the population aged over 65 ____ projected to reach nearly a quarter, up from one in eight in 1990.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "answer": 0,
+    "explain_zh": "the proportion of 是單數主詞，被動句 is projected to 須用單數動詞 is，且句子描述對未來的預測，用現在式被動最自然。are 與單數主詞不一致；was 是過去式，與描述未來預測的語境不符；be 不能單獨當主要動詞使用。is projected to 是雅思 Task 1 描述人口趨勢預測時的常見句型。",
+    "vocab": [
+      {
+        "w": "projected",
+        "zh": "預計的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0178",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "Spending on public transport infrastructure was considerably higher in the capital than ____ in any other region during the period shown.",
+    "options": [
+      "it was",
+      "that",
+      "those",
+      "it"
+    ],
+    "answer": 1,
+    "explain_zh": "that 用來替代前面已提及的不可數名詞 spending，避免重複，是 Task 1 比較兩地數據時常見的替代用法。it was 語意重複且結構不自然（比較句中通常直接用代名詞而非完整子句）；those 是複數代名詞，與不可數的 spending 不符；it 單獨使用在比較句中不夠精確，正式寫作偏好用 that 明確指代「支出（金額）」。that of／than that 是雅思 Task 1 比較數據時的高分替代結構。",
+    "vocab": [
+      {
+        "w": "infrastructure",
+        "zh": "基礎建設",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0179",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "The chart shows that coffee imports fluctuated ____ 200 and 260 thousand tonnes throughout the ten-year period.",
+    "options": [
+      "from",
+      "among",
+      "within",
+      "between"
+    ],
+    "answer": 3,
+    "explain_zh": "fluctuate between X and Y 是固定片語，用來描述數據在兩個數值之間上下波動。from 須搭配 to 而非 and 表示波動範圍；among 用於三者以上的比較，不適用於描述一個數值區間；within 通常表示「在…範圍內」但不強調波動的兩端數值，不是這個固定搭配。fluctuate between...and... 是雅思 Task 1 描述數據波動的必考句型。",
+    "vocab": [
+      {
+        "w": "fluctuate",
+        "zh": "波動",
+        "pos": "v."
+      },
+      {
+        "w": "tonne",
+        "zh": "公噸",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0180",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ striking feature of the graph is the sharp fall in newspaper circulation between 2010 and 2015.",
+    "options": [
+      "A one",
+      "Ones",
+      "One",
+      "The one of"
+    ],
+    "answer": 2,
+    "explain_zh": "One striking feature of the graph is... 是 Task 1 常用的開場句型，用來引出圖表中最引人注目的特徵，one 作為不定代名詞加名詞使用。a one 是贅詞用法，one 前面不需要再加不定冠詞 a；ones 是複數形式，與單數動詞 is 不一致；the one of 語序與搭配都不符合固定句型。one striking feature 是雅思 Task 1 描述圖表重點特徵時的常見開場句。",
+    "vocab": [
+      {
+        "w": "circulation",
+        "zh": "發行量",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0181",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "In contrast to the steady rise in online sales, sales through physical stores ____ remained largely unchanged over the decade.",
+    "options": [
+      "has",
+      "have",
+      "having",
+      "to have"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 sales 作複數概念使用（指多筆銷售數據的整體），動詞須用複數 have。has 是單數形式，與複數主詞不一致；having 不是限定動詞；to have 是不定詞，不能單獨作句子主要動詞。remained largely unchanged 搭配複數助動詞 have 是雅思 Task 1 描述持平趨勢時的常見結構。",
+    "vocab": [
+      {
+        "w": "physical store",
+        "zh": "實體店",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0182",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "The proportion of household waste sent to landfill fell year ____ year throughout the period shown in the chart.",
+    "options": [
+      "on",
+      "after",
+      "to",
+      "by"
+    ],
+    "answer": 3,
+    "explain_zh": "year by year 是固定片語，意思是「逐年」，用來描述持續且穩定的變化趨勢。year on year 雖然也是英文中存在的片語（意思是「與去年同期相比」），但語意上偏向逐年比較單一數值而非描述持續下滑趨勢，此處與 fell 搭配時 year by year 更自然貼切地描述「逐年」下降的連續趨勢；year after year 語意上偏向強調「年復一年、沒有改變」，與此處持續下降的語意不符；year to year 不是標準的固定搭配。year by year 是雅思 Task 1 描述逐年變化的常用片語。",
+    "vocab": [
+      {
+        "w": "landfill",
+        "zh": "掩埋場",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0183",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "Although both cities recorded similar population growth, housing supply ____ far more slowly in City B than in City A.",
+    "options": [
+      "expanded",
+      "expand",
+      "expanding",
+      "to expand"
+    ],
+    "answer": 0,
+    "explain_zh": "句子描述的是已完成的歷史數據對比，主要動詞須用過去式 expanded，並與單數主詞 housing supply 一致。expand 是原形動詞，缺少時態標記；expanding 不是限定動詞；to expand 是不定詞，不能單獨作句子主要動詞。expanded 搭配 far more slowly than 是雅思 Task 1 對比兩地成長速度的常見句型。",
+    "vocab": [
+      {
+        "w": "housing supply",
+        "zh": "住宅供給",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0184",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "The proportion of respondents who cited cost as their main concern was considerably ____ than the proportion who cited quality.",
+    "options": [
+      "high",
+      "higher",
+      "highest",
+      "more high"
+    ],
+    "answer": 1,
+    "explain_zh": "此處比較兩個群體的比例高低，須用比較級 higher 搭配 than。high 是原級，不能單獨與 than 搭配比較兩者；highest 是最高級，用於三者以上的比較，與此處只比較兩個群體不符；more high 是錯誤的比較級形式，high 是單音節形容詞，比較級應直接加 -er 而非加 more。higher than 是雅思 Task 1 比較兩組數據高低時的基本句型。",
+    "vocab": [
+      {
+        "w": "respondent",
+        "zh": "受訪者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0185",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task1-data",
+    "tag_zh": "圖表描述句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "As can be seen ____ the table, expenditure on healthcare exceeded that on education in every year except one.",
+    "options": [
+      "in",
+      "at",
+      "by",
+      "from"
+    ],
+    "answer": 3,
+    "explain_zh": "as can be seen from the table/chart/graph 是固定片語，用來引出根據圖表資料得出的觀察，介系詞須用 from。in／at／by 都不是這個固定搭配所使用的介系詞。as can be seen from 是雅思 Task 1 引導觀察陳述的常見開場句型。",
+    "vocab": [
+      {
+        "w": "expenditure",
+        "zh": "支出",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0186",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "While it is often claimed that economic growth automatically improves quality of life, ____ evidence suggests a far more complex picture.",
+    "options": [
+      "closely",
+      "close",
+      "closer",
+      "closeness"
+    ],
+    "answer": 2,
+    "explain_zh": "空格修飾後面的名詞 evidence，須用比較級形容詞 closer，意思是「更仔細審視的證據」，隱含與前述籠統說法對比之意。closely 是副詞，不能直接修飾名詞；close 是原級形容詞，此處語境需要比較級來呼應「比一般認知更複雜」的對比語意；closeness 是名詞。closer evidence suggests 是雅思寫作反駁普遍看法時常見的鋪陳方式。",
+    "vocab": [
+      {
+        "w": "quality of life",
+        "zh": "生活品質",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0187",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ compelling the economic argument for the new airport may appear, it fails to account for the environmental cost.",
+    "options": [
+      "Despite",
+      "Whatever",
+      "Nevertheless",
+      "However"
+    ],
+    "answer": 3,
+    "explain_zh": "However + 形容詞 + 主詞 + 動詞 是讓步倒裝結構，意思等於 no matter how compelling the argument may appear。Despite 後面只能接名詞或動名詞；Whatever 用法不同，通常接名詞子句而非這樣修飾形容詞；Nevertheless 是連接副詞，不能放在句首這樣接形容詞組成讓步結構。however 引導的讓步倒裝句是雅思寫作 Task 2 展現高階句構的重要工具。",
+    "vocab": [
+      {
+        "w": "compelling",
+        "zh": "有說服力的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0188",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is one thing to acknowledge the risks of artificial intelligence; it is quite another ____ effective regulation.",
+    "options": [
+      "design",
+      "to design",
+      "designing",
+      "designed"
+    ],
+    "answer": 1,
+    "explain_zh": "it is one thing...it is quite another 是固定的對比句型，後面通常接不定詞來表達「做某件事」，故用 to design，與前半句的 to acknowledge 保持平行結構。design 是原形動詞，不能直接接在 another 後面；designing 是動名詞，與前半句的不定詞形式不平行；designed 是過去分詞，語態與語意都不符。it is one thing...it is another 是雅思寫作區分認知與行動落差的高分句型。",
+    "vocab": [
+      {
+        "w": "acknowledge",
+        "zh": "承認",
+        "pos": "v."
+      },
+      {
+        "w": "regulation",
+        "zh": "法規",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0189",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "The higher the level of household debt, ____ the economy becomes to sudden changes in interest rates.",
+    "options": [
+      "more vulnerable",
+      "the most vulnerable",
+      "the more vulnerable",
+      "vulnerable"
+    ],
+    "answer": 2,
+    "explain_zh": "the more...the more 是固定的相關比較句型，後半句須維持 the + 比較級的形式，即 the more vulnerable。more vulnerable 漏掉了必要的定冠詞 the；the most vulnerable 誤用最高級，不符合這個雙重比較結構；vulnerable 是原級，缺少比較級標記。the more...the more 是雅思寫作論證因果連動關係的高分句型。",
+    "vocab": [
+      {
+        "w": "vulnerable",
+        "zh": "脆弱的；易受傷害的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0190",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "It could be countered, ____ , that without government subsidies, renewable energy would struggle to compete with fossil fuels.",
+    "options": [
+      "moreover",
+      "therefore",
+      "furthermore",
+      "however"
+    ],
+    "answer": 3,
+    "explain_zh": "however 用來引出一個與前述論點相反的反駁意見，是雅思寫作提出反方論證時常見的插入銜接詞。moreover 與 furthermore 都表示附加，語意上是延續同一立場而非反駁；therefore 表示因果，與此處單純提出反方論點的語意不符。however 插在 it could be countered 中間，讓反駁語氣更加自然流暢。",
+    "vocab": [
+      {
+        "w": "counter",
+        "zh": "反駁",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0191",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "Advocates of the policy maintain that it will create jobs, ____ opponents insist that it will simply drive up consumer prices.",
+    "options": [
+      "while",
+      "despite",
+      "because",
+      "unless"
+    ],
+    "answer": 0,
+    "explain_zh": "while 用來連接兩個立場相反的分句（支持者與反對者的說法），在同一句子中表達對比。despite 後面須接名詞或動名詞，不能直接接完整子句；because 表示因果，語意方向不符；unless 表示條件，與對立立場的語意不符。while 是雅思寫作同句內呈現正反意見對照的核心連接詞。",
+    "vocab": [
+      {
+        "w": "advocate",
+        "zh": "支持者；提倡者",
+        "pos": "n."
+      },
+      {
+        "w": "opponent",
+        "zh": "反對者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0192",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ this argument is not to deny that some regulation is necessary, but rather to question whether the current rules go too far.",
+    "options": [
+      "To make",
+      "Making",
+      "Made",
+      "Make"
+    ],
+    "answer": 0,
+    "explain_zh": "不定詞片語 To make this argument 放在句首當主詞，後面接 is not to deny...but rather to question，是正式論說文中常見的不定詞主詞結構，用來澄清作者的立場範圍。Making 是動名詞，雖然文法上也可能作主詞，但與後半句 is not to deny 的不定詞結構不平行；Made 是過去分詞；Make 是原形動詞，都不能直接放在句首當主詞使用。to make this argument is not to deny...but rather to 是雅思寫作精確界定論點範圍的高分句型。",
+    "vocab": [
+      {
+        "w": "regulation",
+        "zh": "法規",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0193",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "The more governments invest in public education, ____ the long-term benefits are likely to be for national productivity.",
+    "options": [
+      "greater",
+      "the greatest",
+      "great",
+      "the greater"
+    ],
+    "answer": 3,
+    "explain_zh": "the more...the more/the greater 是固定的相關比較句型，後半句須維持 the + 比較級的形式，即 the greater。greater 漏掉了必要的定冠詞 the；the greatest 誤用最高級，不符合這個雙重比較結構；great 是原級，缺少比較級標記。the more...the greater 是雅思寫作論證教育投資與生產力關聯時的高分句型。",
+    "vocab": [
+      {
+        "w": "national productivity",
+        "zh": "國家生產力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0194",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "So persuasive ____ the economic case for the merger that even sceptical shareholders eventually voted in favour.",
+    "options": [
+      "was",
+      "is",
+      "did",
+      "were"
+    ],
+    "answer": 0,
+    "explain_zh": "So + 形容詞 放在句首觸發倒裝，主詞 the economic case 是單數，且句子描述已完成的過去事件（eventually voted），須用過去式單數助動詞 was。is 是現在式，與過去語境不符；did 須搭配原形動詞而非形容詞補語；were 是複數形式，與單數主詞不一致。So...that 倒裝句是雅思寫作強調說服力程度的高分句型。",
+    "vocab": [
+      {
+        "w": "persuasive",
+        "zh": "有說服力的",
+        "pos": "adj."
+      },
+      {
+        "w": "shareholder",
+        "zh": "股東",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0195",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "Much of the criticism directed at the reform stems not from its aims but ____ the way it has been implemented.",
+    "options": [
+      "from",
+      "of",
+      "for",
+      "with"
+    ],
+    "answer": 0,
+    "explain_zh": "not from X but from Y 是平行對比結構，前面已出現 stems not from its aims，後半句須維持相同的介系詞 from 才能保持平行。of／for／with 都會破壞這個平行對比結構，且與 stem from 的固定搭配不符。not...but... 的平行結構是雅思寫作精準表達對比原因時的重要文法規則。",
+    "vocab": [
+      {
+        "w": "stem from",
+        "zh": "源自於",
+        "pos": "phr."
+      },
+      {
+        "w": "implement",
+        "zh": "執行；落實",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0196",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "Were greater emphasis placed on vocational training, fewer young people ____ struggle to find stable employment after leaving school.",
+    "options": [
+      "would",
+      "will",
+      "did",
+      "do"
+    ],
+    "answer": 0,
+    "explain_zh": "Were greater emphasis placed 是與現在或未來事實相反的假設語氣倒裝（等於 If greater emphasis were placed），主要子句須搭配 would。will 是直陳語氣，與虛擬語氣不一致；did／do 都不能單獨表達這種假設結果。were...placed 倒裝句是雅思寫作討論政策假設情境的高分結構。",
+    "vocab": [
+      {
+        "w": "vocational training",
+        "zh": "職業訓練",
+        "pos": "n."
+      },
+      {
+        "w": "stable employment",
+        "zh": "穩定就業",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0197",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "That the scheme has reduced emissions is beyond dispute; ____ it has achieved this cost-effectively is far less certain.",
+    "options": [
+      "that",
+      "which",
+      "what",
+      "who"
+    ],
+    "answer": 0,
+    "explain_zh": "that 引導兩個平行的名詞子句作句子主詞，前半句已用 That the scheme has reduced emissions，後半句同樣須用 that 引導對等的名詞子句 that it has achieved this cost-effectively，維持平行結構。which／what／who 都不能在這個位置引導與前半句對等的名詞子句主詞。that 引導的平行名詞子句是雅思寫作精確區分「做到了什麼」與「做得好不好」時的高階句型。",
+    "vocab": [
+      {
+        "w": "cost-effectively",
+        "zh": "符合成本效益地",
+        "pos": "adv."
+      },
+      {
+        "w": "beyond dispute",
+        "zh": "無可爭議",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0198",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is often assumed that stricter laws automatically translate into better outcomes; this assumption, ____ , does not always hold true in practice.",
+    "options": [
+      "however",
+      "similarly",
+      "therefore",
+      "furthermore"
+    ],
+    "answer": 0,
+    "explain_zh": "however 用來引出一個與前述普遍假設相反的限縮觀點，正確連接「常被假設」與「實際上未必如此」這兩個對比的陳述。similarly 表示相似，語意矛盾；therefore 表示因果，與此處對比語意不符；furthermore 表示附加，同樣不符合轉折語意。however 是雅思寫作反駁普遍假設時的關鍵連接詞。",
+    "vocab": [
+      {
+        "w": "hold true",
+        "zh": "成立；屬實",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0199",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "Far from resolving the housing crisis, the new scheme has, ____ many economists point out, made the problem considerably worse.",
+    "options": [
+      "as",
+      "so",
+      "such",
+      "that"
+    ],
+    "answer": 0,
+    "explain_zh": "as many economists point out 是插入子句，as 在此作連接詞使用，意思是「正如…所指出的」，用來引入專家意見支持作者的論點。so 不能這樣引導插入子句；such 通常須搭配 that 使用；that 在此處不能單獨引導這種插入式的舉證子句。as + 主詞 + 動詞 的插入結構是雅思寫作引用權威意見佐證論點的高分技巧。",
+    "vocab": [
+      {
+        "w": "resolve",
+        "zh": "解決",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIW-0200",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "grammar",
+    "tag": "grammar:task2-argument",
+    "tag_zh": "論證句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the economic benefits of the project are undeniable, its long-term social costs deserve far more serious consideration.",
+    "options": [
+      "While",
+      "Despite",
+      "Because",
+      "So"
+    ],
+    "answer": 0,
+    "explain_zh": "While 引導讓步子句，意思是「儘管」，用來承認經濟效益的同時，引出作者真正想強調的社會成本論點，是雅思寫作 Task 2 常見的讓步加轉折句型。Despite 後面只能接名詞或動名詞，不能直接接完整子句；Because 表示因果，語意方向錯誤；So 不能引導讓步子句。while 引導的讓步句能讓論證顯得平衡而有說服力。",
+    "vocab": [
+      {
+        "w": "undeniable",
+        "zh": "不可否認的",
+        "pos": "adj."
+      },
+      {
+        "w": "deserve",
+        "zh": "值得；應得",
+        "pos": "v."
+      }
+    ]
+  }
+]

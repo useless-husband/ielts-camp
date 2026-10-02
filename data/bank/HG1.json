@@ -1,0 +1,4662 @@
+[
+ {
+  "id": "HG1-0001",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The professor ____ encouraged me to apply for the scholarship is now the dean of our college.",
+  "options": [
+   "who",
+   "whom",
+   "which",
+   "whose"
+  ],
+  "answer": 0,
+  "explain_zh": "先行詞 The professor 是人，且在關係子句中當主詞（encouraged 的主詞），要用主格關係代名詞 who。whom 是受格、whose 是所有格、which 只能指物。口訣：人當主詞用 who。",
+  "vocab": [
+   {
+    "w": "scholarship",
+    "zh": "獎學金",
+    "pos": "n."
+   },
+   {
+    "w": "dean",
+    "zh": "院長",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0002",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The mentor to ____ I owe most of my confidence still writes to me every winter holiday.",
+  "options": [
+   "who",
+   "whom",
+   "whose",
+   "that"
+  ],
+  "answer": 1,
+  "explain_zh": "介系詞 to 後面的關係代名詞一定要用受格 whom，不能用 who，也不能用 that。whose 是所有格，後面必須接名詞。記住：介系詞＋whom 是正式寫法。",
+  "vocab": [
+   {
+    "w": "mentor",
+    "zh": "導師",
+    "pos": "n."
+   },
+   {
+    "w": "owe",
+    "zh": "歸功於；虧欠",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0003",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The engineer ____ design won the national competition now studies at our partner university.",
+  "options": [
+   "who",
+   "whom",
+   "whose",
+   "which"
+  ],
+  "answer": 2,
+  "explain_zh": "空格後面接名詞 design，表示「那位工程師的設計」，要用所有格關係代名詞 whose。who 是主格、whom 是受格，後面都不能直接接名詞；which 不能指人。",
+  "vocab": [
+   {
+    "w": "engineer",
+    "zh": "工程師",
+    "pos": "n."
+   },
+   {
+    "w": "design",
+    "zh": "設計",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0004",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Our school installed solar panels on the roof, ____ cut the electricity bill by nearly half.",
+  "options": [
+   "what",
+   "who",
+   "that",
+   "which"
+  ],
+  "answer": 3,
+  "explain_zh": "逗號後面是非限定用法，只能用 which，不能用 that。what 本身不需要先行詞，who 只能指人。記住：逗號之後絕不接 that。",
+  "vocab": [
+   {
+    "w": "solar panel",
+    "zh": "太陽能板",
+    "pos": "n."
+   },
+   {
+    "w": "electricity",
+    "zh": "電力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0005",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "This is the only translation app ____ can turn a whole lecture into subtitles in real time.",
+  "options": [
+   "that",
+   "whose",
+   "whom",
+   "what"
+  ],
+  "answer": 0,
+  "explain_zh": "先行詞被 the only 修飾時，關係代名詞習慣用 that。what 前面不能有先行詞，whose 後面要接名詞，whom 是受格不能當主詞。",
+  "vocab": [
+   {
+    "w": "subtitle",
+    "zh": "字幕",
+    "pos": "n."
+   },
+   {
+    "w": "lecture",
+    "zh": "講課",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0006",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Everything ____ the committee announced yesterday morning has already been posted on the school website.",
+  "options": [
+   "which",
+   "that",
+   "what",
+   "who"
+  ],
+  "answer": 1,
+  "explain_zh": "先行詞是 everything 這類不定代名詞時，關係代名詞用 that 而不用 which。what 不能有先行詞，who 只指人。口訣：everything／anything／all 後面配 that。",
+  "vocab": [
+   {
+    "w": "committee",
+    "zh": "委員會",
+    "pos": "n."
+   },
+   {
+    "w": "announce",
+    "zh": "宣布",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0007",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ surprised us most was the number of students who signed up for the recycling club.",
+  "options": [
+   "That",
+   "Which",
+   "What",
+   "Who"
+  ],
+  "answer": 2,
+  "explain_zh": "句首沒有先行詞，需要一個「本身就含先行詞」的關係代名詞 what（＝the thing that）。That 引導名詞子句時後面要接完整句子，這裡 surprised 缺主詞，故不可用。",
+  "vocab": [
+   {
+    "w": "recycling",
+    "zh": "回收",
+    "pos": "n."
+   },
+   {
+    "w": "sign up",
+    "zh": "報名",
+    "pos": "v. phr."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0008",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The documentary we watched in class last Friday ____ about plastic waste in the Pacific Ocean.",
+  "options": [
+   "being",
+   "which was",
+   "that was",
+   "was"
+  ],
+  "answer": 3,
+  "explain_zh": "we watched in class 是省略受格關係代名詞的關係子句，修飾 The documentary，所以主要子句還缺一個動詞，填 was。選 which was／that was 會讓整句沒有主要動詞，being 也不能單獨當動詞。",
+  "vocab": [
+   {
+    "w": "documentary",
+    "zh": "紀錄片",
+    "pos": "n."
+   },
+   {
+    "w": "plastic waste",
+    "zh": "塑膠垃圾",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0009",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The laboratory ____ we conducted the water experiment has just been renovated by the school.",
+  "options": [
+   "in which",
+   "of which",
+   "whose",
+   "which"
+  ],
+  "answer": 0,
+  "explain_zh": "conduct the experiment in the laboratory，關係子句裡少的是「地點介系詞 in」，所以用 in which。單獨的 which 會讓 in 不見，of which 語意不通，whose 後面要接名詞。",
+  "vocab": [
+   {
+    "w": "laboratory",
+    "zh": "實驗室",
+    "pos": "n."
+   },
+   {
+    "w": "conduct",
+    "zh": "進行",
+    "pos": "v."
+   },
+   {
+    "w": "renovate",
+    "zh": "翻新",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0010",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "My roommate, ____ I have shared a small flat for three years, is moving to Kaohsiung next month.",
+  "options": [
+   "with who",
+   "with whom",
+   "who",
+   "whom"
+  ],
+  "answer": 1,
+  "explain_zh": "share a flat with somebody，介系詞 with 移到關係代名詞前面時必須接受格 whom，不能用 with who。少了 with 的 who／whom 會使 share 的對象不見。",
+  "vocab": [
+   {
+    "w": "roommate",
+    "zh": "室友",
+    "pos": "n."
+   },
+   {
+    "w": "flat",
+    "zh": "公寓",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0011",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The second-hand bicycle ____ I bought online last month arrived with a broken front brake.",
+  "options": [
+   "what",
+   "who",
+   "that",
+   "whose"
+  ],
+  "answer": 2,
+  "explain_zh": "先行詞 bicycle 是物，關係代名詞在子句中當 bought 的受詞，用 that（也可用 which）。what 不能有先行詞，who 只指人，whose 後面必須接名詞。",
+  "vocab": [
+   {
+    "w": "second-hand",
+    "zh": "二手的",
+    "pos": "adj."
+   },
+   {
+    "w": "brake",
+    "zh": "煞車",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0012",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The volunteers, ____ came from six different countries, cleaned the riverbank together last weekend.",
+  "options": [
+   "whom",
+   "which",
+   "that",
+   "who"
+  ],
+  "answer": 3,
+  "explain_zh": "逗號後的非限定子句不能用 that；先行詞是人且在子句中當主詞，所以用 who。whom 是受格，which 只能指物。",
+  "vocab": [
+   {
+    "w": "volunteer",
+    "zh": "志工",
+    "pos": "n."
+   },
+   {
+    "w": "riverbank",
+    "zh": "河岸",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0013",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Last week we visited a small factory ____ machines are powered entirely by wind and sunlight.",
+  "options": [
+   "whose",
+   "that",
+   "what",
+   "which"
+  ],
+  "answer": 0,
+  "explain_zh": "空格後接名詞 machines，表示「那間工廠的機器」，所有格關係代名詞 whose 也可以用來指物。which 和 that 後面不能直接接名詞，what 不能有先行詞。",
+  "vocab": [
+   {
+    "w": "factory",
+    "zh": "工廠",
+    "pos": "n."
+   },
+   {
+    "w": "power",
+    "zh": "供給動力",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0014",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The candidate ____ the selection committee finally chose had the least working experience of all.",
+  "options": [
+   "whose",
+   "whom",
+   "which",
+   "what"
+  ],
+  "answer": 1,
+  "explain_zh": "先行詞 candidate 是人，在關係子句中當 chose 的受詞，正式用法用受格 whom。which 指物，what 不能有先行詞，whose 後面要接名詞。",
+  "vocab": [
+   {
+    "w": "candidate",
+    "zh": "候選人",
+    "pos": "n."
+   },
+   {
+    "w": "experience",
+    "zh": "經驗",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0015",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The mountain village ____ population has fallen below two hundred may soon lose its only school.",
+  "options": [
+   "which",
+   "that",
+   "whose",
+   "who"
+  ],
+  "answer": 2,
+  "explain_zh": "空格後是名詞 population，需要所有格 whose，意思是「這個村子的人口」。which 和 that 後面必須接動詞或主詞，who 只能指人。",
+  "vocab": [
+   {
+    "w": "population",
+    "zh": "人口",
+    "pos": "n."
+   },
+   {
+    "w": "village",
+    "zh": "村莊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0016",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Students ____ submit the online survey before Friday noon will receive a free reusable notebook.",
+  "options": [
+   "whom",
+   "whose",
+   "which",
+   "who"
+  ],
+  "answer": 3,
+  "explain_zh": "先行詞 Students 是人，且是 submit 的主詞，用主格 who。whom 只能當受詞，whose 後面要接名詞，which 不能指人。",
+  "vocab": [
+   {
+    "w": "submit",
+    "zh": "繳交",
+    "pos": "v."
+   },
+   {
+    "w": "survey",
+    "zh": "問卷",
+    "pos": "n."
+   },
+   {
+    "w": "reusable",
+    "zh": "可重複使用的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0017",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "She finally found a part-time job ____ pays well and still leaves her enough time to study.",
+  "options": [
+   "that",
+   "what",
+   "who",
+   "whose"
+  ],
+  "answer": 0,
+  "explain_zh": "先行詞 job 是物，關係代名詞在子句中當 pays 的主詞，用 that（或 which）。what 不能有先行詞，who 指人，whose 後面要接名詞。",
+  "vocab": [
+   {
+    "w": "part-time",
+    "zh": "兼職的",
+    "pos": "adj."
+   },
+   {
+    "w": "pay",
+    "zh": "支付；划算",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0018",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The smartphone ____ screen cracked during the field trip still works perfectly well today.",
+  "options": [
+   "which",
+   "whose",
+   "that",
+   "who"
+  ],
+  "answer": 1,
+  "explain_zh": "空格後接名詞 screen，表示「那支手機的螢幕」，用所有格 whose。which／that 後面不能直接接名詞，who 只能指人。",
+  "vocab": [
+   {
+    "w": "crack",
+    "zh": "破裂",
+    "pos": "v."
+   },
+   {
+    "w": "field trip",
+    "zh": "校外教學",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0019",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The international conference ____ our teacher spoke was streamed live to thousands of viewers.",
+  "options": [
+   "that",
+   "in that",
+   "at which",
+   "which"
+  ],
+  "answer": 2,
+  "explain_zh": "speak at a conference，關係子句缺的是地點介系詞 at，所以用 at which。單獨的 which 或 that 會讓 spoke 後面少了介系詞，in that 是「因為」的連接詞，語意不合。",
+  "vocab": [
+   {
+    "w": "conference",
+    "zh": "會議",
+    "pos": "n."
+   },
+   {
+    "w": "stream",
+    "zh": "直播",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0020",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The examination results ____ we had been waiting for were finally released this morning.",
+  "options": [
+   "what",
+   "whose",
+   "whom",
+   "that"
+  ],
+  "answer": 3,
+  "explain_zh": "先行詞 results 是物，關係代名詞當句尾 for 的受詞，用 that（或 which）。what 不能有先行詞，whose 後面要接名詞，whom 只能指人。",
+  "vocab": [
+   {
+    "w": "release",
+    "zh": "公布",
+    "pos": "v."
+   },
+   {
+    "w": "examination",
+    "zh": "考試",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0021",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "I still clearly remember ____ he said about protecting the coral reefs near Kenting.",
+  "options": [
+   "what",
+   "which",
+   "whose",
+   "that"
+  ],
+  "answer": 0,
+  "explain_zh": "remember 後面缺受詞，而 said 後面也缺受詞，需要一個同時含先行詞的 what（＝the thing that）。that 引導的子句必須完整，which 和 whose 都需要先行詞。",
+  "vocab": [
+   {
+    "w": "coral reef",
+    "zh": "珊瑚礁",
+    "pos": "n."
+   },
+   {
+    "w": "protect",
+    "zh": "保護",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0022",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The old town library, ____ was built in 1935, will be turned into a quiet study centre.",
+  "options": [
+   "that",
+   "which",
+   "what",
+   "who"
+  ],
+  "answer": 1,
+  "explain_zh": "逗號引導的非限定子句補充說明 library，指物且不能用 that，所以用 which。what 不需要先行詞，who 只能指人。",
+  "vocab": [
+   {
+    "w": "library",
+    "zh": "圖書館",
+    "pos": "n."
+   },
+   {
+    "w": "turn into",
+    "zh": "變成",
+    "pos": "v. phr."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0023",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The exchange student we invited to the opening ceremony ____ a short speech in Chinese.",
+  "options": [
+   "to give",
+   "given",
+   "gave",
+   "giving"
+  ],
+  "answer": 2,
+  "explain_zh": "we invited to the opening ceremony 是省略了受格關係代名詞的子句，修飾主詞 The exchange student，因此整句還缺主要動詞，用過去式 gave。其餘三個都不是可以單獨當述語的形式。",
+  "vocab": [
+   {
+    "w": "exchange student",
+    "zh": "交換學生",
+    "pos": "n."
+   },
+   {
+    "w": "ceremony",
+    "zh": "典禮",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0024",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The navigation app ____ my older brother designed helps blind users cross busy streets safely.",
+  "options": [
+   "who",
+   "whose",
+   "what",
+   "that"
+  ],
+  "answer": 3,
+  "explain_zh": "先行詞 app 是物，關係代名詞當 designed 的受詞，用 that（或 which）。what 不能有先行詞，who 指人，whose 後面要接名詞。",
+  "vocab": [
+   {
+    "w": "navigation",
+    "zh": "導航",
+    "pos": "n."
+   },
+   {
+    "w": "blind",
+    "zh": "失明的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0025",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The scientists ____ we are deeply grateful will visit our campus again next spring.",
+  "options": [
+   "to whom",
+   "whom",
+   "that",
+   "to who"
+  ],
+  "answer": 0,
+  "explain_zh": "be grateful to somebody，介系詞 to 提前時後面必須接受格 whom，不能寫成 to who。若只用 whom 或 that，grateful 後面就少了介系詞 to。",
+  "vocab": [
+   {
+    "w": "grateful",
+    "zh": "感激的",
+    "pos": "adj."
+   },
+   {
+    "w": "campus",
+    "zh": "校園",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0026",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "There are very few things ____ worry senior high school students more than examination results.",
+  "options": [
+   "what",
+   "that",
+   "whose",
+   "whom"
+  ],
+  "answer": 1,
+  "explain_zh": "先行詞前面有 few 這類限定詞時，關係代名詞習慣用 that，而且它在子句中當 worry 的主詞。what 不能有先行詞，whose 要接名詞，whom 不能當主詞。",
+  "vocab": [
+   {
+    "w": "worry",
+    "zh": "使擔心",
+    "pos": "v."
+   },
+   {
+    "w": "senior high school",
+    "zh": "高中",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0027",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "He forgot to save the shared file before closing it, ____ made the whole team stay late.",
+  "options": [
+   "that",
+   "what",
+   "which",
+   "who"
+  ],
+  "answer": 2,
+  "explain_zh": "逗號後的 which 可以代表「前面整件事」，指他忘了存檔這件事。that 不能用於非限定子句，what 不能有先行詞，who 只能指人。",
+  "vocab": [
+   {
+    "w": "shared file",
+    "zh": "共用檔案",
+    "pos": "n."
+   },
+   {
+    "w": "save",
+    "zh": "儲存",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0028",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The activity centre ____ roof was badly damaged by the typhoon has been closed for repairs.",
+  "options": [
+   "what",
+   "which",
+   "that",
+   "whose"
+  ],
+  "answer": 3,
+  "explain_zh": "空格後接名詞 roof，表示「活動中心的屋頂」，要用所有格 whose。which 和 that 後面不能直接接名詞，what 不能有先行詞。",
+  "vocab": [
+   {
+    "w": "typhoon",
+    "zh": "颱風",
+    "pos": "n."
+   },
+   {
+    "w": "repair",
+    "zh": "修繕",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0029",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "All ____ the volunteers need is a pair of thick gloves and a large rubbish bag.",
+  "options": [
+   "that",
+   "what",
+   "who",
+   "which"
+  ],
+  "answer": 0,
+  "explain_zh": "先行詞是 All 時，關係代名詞只能用 that，不能用 which。what 本身已含先行詞，不能再放在 All 後面；who 只能指人。",
+  "vocab": [
+   {
+    "w": "gloves",
+    "zh": "手套",
+    "pos": "n."
+   },
+   {
+    "w": "rubbish bag",
+    "zh": "垃圾袋",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0030",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-clause",
+  "tag_zh": "關係子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The young journalist ____ interviewed the mayor also wrote a long report on the new bus route.",
+  "options": [
+   "what",
+   "who",
+   "whom",
+   "which"
+  ],
+  "answer": 1,
+  "explain_zh": "先行詞 journalist 是人，在子句中當 interviewed 的主詞，用主格 who。whom 只能當受詞，which 指物，what 不能有先行詞。",
+  "vocab": [
+   {
+    "w": "journalist",
+    "zh": "記者",
+    "pos": "n."
+   },
+   {
+    "w": "mayor",
+    "zh": "市長",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0031",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I will never forget the day ____ our team finally won the national science fair.",
+  "options": [
+   "whose",
+   "which",
+   "when",
+   "where"
+  ],
+  "answer": 2,
+  "explain_zh": "先行詞 the day 是時間，後面接完整的句子，要用關係副詞 when（＝on which）。which 是關係代名詞，後面的句子必須缺主詞或受詞；where 指地點，whose 後面要接名詞。",
+  "vocab": [
+   {
+    "w": "science fair",
+    "zh": "科展",
+    "pos": "n."
+   },
+   {
+    "w": "forget",
+    "zh": "忘記",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0032",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "This is the small café ____ our group usually discusses the details of our class projects.",
+  "options": [
+   "when",
+   "whose",
+   "which",
+   "where"
+  ],
+  "answer": 3,
+  "explain_zh": "先行詞 café 是地點，而後面 discusses the details 是完整句子，所以用關係副詞 where（＝in which）。which 後面的句子必須缺成分，when 指時間，whose 要接名詞。",
+  "vocab": [
+   {
+    "w": "discuss",
+    "zh": "討論",
+    "pos": "v."
+   },
+   {
+    "w": "detail",
+    "zh": "細節",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0033",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Nobody in the office could explain the reason ____ the server crashed during the online exam.",
+  "options": [
+   "why",
+   "where",
+   "which",
+   "how"
+  ],
+  "answer": 0,
+  "explain_zh": "先行詞是 the reason，要用關係副詞 why 引導理由。how 不能和 the way 以外的先行詞連用，where 指地點，which 後面的句子不能是完整句。",
+  "vocab": [
+   {
+    "w": "server",
+    "zh": "伺服器",
+    "pos": "n."
+   },
+   {
+    "w": "crash",
+    "zh": "當機",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0034",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The natural history museum ____ those dinosaur fossils are displayed opens at nine on weekdays.",
+  "options": [
+   "which",
+   "where",
+   "whose",
+   "when"
+  ],
+  "answer": 1,
+  "explain_zh": "先行詞 museum 是地點，後面 fossils are displayed 是完整子句，所以用 where。which 後面必須缺主詞或受詞，whose 要接名詞，when 指時間。",
+  "vocab": [
+   {
+    "w": "fossil",
+    "zh": "化石",
+    "pos": "n."
+   },
+   {
+    "w": "display",
+    "zh": "展示",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0035",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Summer is the season ____ electricity demand in Taiwan usually reaches its yearly peak.",
+  "options": [
+   "why",
+   "where",
+   "when",
+   "which"
+  ],
+  "answer": 2,
+  "explain_zh": "先行詞 the season 表時間，後面是完整句子，用關係副詞 when。where 指地點，which 後面不能接完整句，why 只能接在 reason 之後。",
+  "vocab": [
+   {
+    "w": "demand",
+    "zh": "需求",
+    "pos": "n."
+   },
+   {
+    "w": "peak",
+    "zh": "高峰",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0036",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "That is exactly ____ scientists measure the age of ancient ice taken from deep glaciers.",
+  "options": [
+   "why",
+   "when",
+   "where",
+   "how"
+  ],
+  "answer": 3,
+  "explain_zh": "整句在說明「方法」，用 how（＝the way in which）。why 表原因、when 表時間、where 表地點，都與「如何測量」的語意不符。",
+  "vocab": [
+   {
+    "w": "measure",
+    "zh": "測量",
+    "pos": "v."
+   },
+   {
+    "w": "glacier",
+    "zh": "冰河",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0037",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The seaside town ____ we visited last year now has a convenient bike-sharing system.",
+  "options": [
+   "which",
+   "when",
+   "whose",
+   "where"
+  ],
+  "answer": 0,
+  "explain_zh": "雖然先行詞是地點，但 visited 後面缺受詞，所以要用關係代名詞 which，不能用 where。關係副詞 where 後面必須是完整句子。",
+  "vocab": [
+   {
+    "w": "seaside",
+    "zh": "海邊的",
+    "pos": "adj."
+   },
+   {
+    "w": "convenient",
+    "zh": "便利的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0038",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The city stadium ____ was rebuilt after the earthquake can now hold twenty thousand people.",
+  "options": [
+   "where",
+   "which",
+   "when",
+   "why"
+  ],
+  "answer": 1,
+  "explain_zh": "空格後的 was rebuilt 缺主詞，所以要用關係代名詞 which，不能用關係副詞 where。判斷重點：後面句子完整用 where，缺成分用 which。",
+  "vocab": [
+   {
+    "w": "stadium",
+    "zh": "體育場",
+    "pos": "n."
+   },
+   {
+    "w": "earthquake",
+    "zh": "地震",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0039",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "There are quiet moments ____ a long silence says far more than any prepared speech.",
+  "options": [
+   "what",
+   "which",
+   "when",
+   "where"
+  ],
+  "answer": 2,
+  "explain_zh": "先行詞 moments 表時間，後面是完整子句，用關係副詞 when。which 後面必須缺成分，where 指地點，what 不能有先行詞。",
+  "vocab": [
+   {
+    "w": "silence",
+    "zh": "沉默",
+    "pos": "n."
+   },
+   {
+    "w": "prepared",
+    "zh": "事先準備的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0040",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Please tell me the real reason ____ you deleted the shared document without asking anyone.",
+  "options": [
+   "where",
+   "how",
+   "which",
+   "why"
+  ],
+  "answer": 3,
+  "explain_zh": "先行詞是 the reason，用關係副詞 why 引導原因子句。which 後面不能接完整句，where 指地點，how 不與 reason 連用。",
+  "vocab": [
+   {
+    "w": "delete",
+    "zh": "刪除",
+    "pos": "v."
+   },
+   {
+    "w": "document",
+    "zh": "文件",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0041",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The research laboratory ____ she works every afternoon has extremely strict safety rules.",
+  "options": [
+   "where",
+   "that",
+   "when",
+   "which"
+  ],
+  "answer": 0,
+  "explain_zh": "先行詞 laboratory 是地點，且 she works 是完整句子，用 where。which 或 that 後面的句子必須缺主詞或受詞，when 指時間。",
+  "vocab": [
+   {
+    "w": "research",
+    "zh": "研究",
+    "pos": "n."
+   },
+   {
+    "w": "strict",
+    "zh": "嚴格的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0042",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:relative-adverb",
+  "tag_zh": "關係副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Do you still remember the summer ____ we planted young trees along the riverbank together?",
+  "options": [
+   "where",
+   "when",
+   "which",
+   "whose"
+  ],
+  "answer": 1,
+  "explain_zh": "先行詞 the summer 表時間，後面接完整句子，用關係副詞 when。where 指地點，which 後面必須缺成分，whose 要接名詞。",
+  "vocab": [
+   {
+    "w": "plant",
+    "zh": "種植",
+    "pos": "v."
+   },
+   {
+    "w": "together",
+    "zh": "一起",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0043",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Could you please tell me ____ the registration form for the summer camp?",
+  "options": [
+   "where do I can find",
+   "where can I find",
+   "where I can find",
+   "where can find I"
+  ],
+  "answer": 2,
+  "explain_zh": "名詞子句當 tell 的受詞時要用直述句語序「疑問詞＋主詞＋動詞」，所以是 where I can find。其餘三個仍保留疑問句倒裝或語序錯誤。",
+  "vocab": [
+   {
+    "w": "registration",
+    "zh": "報名",
+    "pos": "n."
+   },
+   {
+    "w": "form",
+    "zh": "表格",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0044",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the team won the national championship made the whole school celebrate for days.",
+  "options": [
+   "What",
+   "Which",
+   "If",
+   "That"
+  ],
+  "answer": 3,
+  "explain_zh": "空格後 the team won the championship 是完整句子，當主詞用的名詞子句要用 That 引導。What 後面必須缺成分，Which 不能引導主詞子句，If 引導的子句不能當句首主詞。",
+  "vocab": [
+   {
+    "w": "championship",
+    "zh": "冠軍賽",
+    "pos": "n."
+   },
+   {
+    "w": "celebrate",
+    "zh": "慶祝",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0045",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The real problem is ____ nobody in the group wants to take responsibility for the mistake.",
+  "options": [
+   "that",
+   "what",
+   "which",
+   "whether"
+  ],
+  "answer": 0,
+  "explain_zh": "be 動詞後面接名詞子句當主詞補語，子句本身完整，用 that。what 後面要缺成分，which 不能這樣用，whether 表「是否」語意不合。",
+  "vocab": [
+   {
+    "w": "responsibility",
+    "zh": "責任",
+    "pos": "n."
+   },
+   {
+    "w": "mistake",
+    "zh": "錯誤",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0046",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "I am really not sure ____ that expensive online course is worth the money.",
+  "options": [
+   "that",
+   "whether",
+   "what",
+   "which"
+  ],
+  "answer": 1,
+  "explain_zh": "not sure 後面表達「是否」的不確定，要用 whether（或 if）。that 表肯定的事實，what 後面要缺成分，which 需要有選擇範圍。",
+  "vocab": [
+   {
+    "w": "worth",
+    "zh": "值得",
+    "pos": "adj."
+   },
+   {
+    "w": "expensive",
+    "zh": "昂貴的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0047",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The physics teacher asked me ____ I had already finished the laboratory report.",
+  "options": [
+   "which",
+   "that",
+   "if",
+   "what"
+  ],
+  "answer": 2,
+  "explain_zh": "間接問句若原本是 Yes/No 問句，要用 if 或 whether 引導。that 用於直述內容，what 和 which 後面都必須缺成分。",
+  "vocab": [
+   {
+    "w": "physics",
+    "zh": "物理",
+    "pos": "n."
+   },
+   {
+    "w": "report",
+    "zh": "報告",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0048",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ or not we go hiking this Saturday depends entirely on the weather forecast.",
+  "options": [
+   "That",
+   "What",
+   "If",
+   "Whether"
+  ],
+  "answer": 3,
+  "explain_zh": "只有 whether 可以直接和 or not 連用，也只有 whether 引導的子句能放句首當主詞。If 不能當主詞子句，That 不能接 or not，What 後面要缺成分。",
+  "vocab": [
+   {
+    "w": "forecast",
+    "zh": "預報",
+    "pos": "n."
+   },
+   {
+    "w": "depend on",
+    "zh": "取決於",
+    "pos": "v. phr."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0049",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "What really surprises me is ____ so few students use the school's free counselling service.",
+  "options": [
+   "that",
+   "what",
+   "which",
+   "how many"
+  ],
+  "answer": 0,
+  "explain_zh": "be 動詞後面的名詞子句內容完整，用 that 引導。what 後面必須缺成分，which 用於有限選項，how many 後面要接名詞。",
+  "vocab": [
+   {
+    "w": "counselling",
+    "zh": "諮商",
+    "pos": "n."
+   },
+   {
+    "w": "service",
+    "zh": "服務",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0050",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Researchers have already proved ____ tiny microplastics can enter the human bloodstream.",
+  "options": [
+   "what",
+   "that",
+   "if",
+   "which"
+  ],
+  "answer": 1,
+  "explain_zh": "proved 後面接的是一件被證實的事實，子句完整，用 that。what 和 which 後面都要缺成分，if 表「是否」與 prove 的語意不搭。",
+  "vocab": [
+   {
+    "w": "microplastic",
+    "zh": "微塑膠",
+    "pos": "n."
+   },
+   {
+    "w": "bloodstream",
+    "zh": "血流",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0051",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Do you happen to know ____ the last bus to the train station usually arrives?",
+  "options": [
+   "that when",
+   "when does",
+   "when",
+   "when is"
+  ],
+  "answer": 2,
+  "explain_zh": "間接問句要用直述句語序，所以只要 when＋主詞＋動詞。when does 是疑問倒裝，when is 動詞錯誤，that when 兩個引導詞不能連用。",
+  "vocab": [
+   {
+    "w": "arrive",
+    "zh": "抵達",
+    "pos": "v."
+   },
+   {
+    "w": "station",
+    "zh": "車站",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0052",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "I really wonder ____ the school suddenly decided to cancel this year's sports day.",
+  "options": [
+   "that why",
+   "why has",
+   "why did",
+   "why"
+  ],
+  "answer": 3,
+  "explain_zh": "wonder 後面的間接問句不可倒裝，用 why＋主詞＋動詞。why did 是疑問語序，that why 重複引導詞，why has 與後面的過去式動詞不合。",
+  "vocab": [
+   {
+    "w": "cancel",
+    "zh": "取消",
+    "pos": "v."
+   },
+   {
+    "w": "sports day",
+    "zh": "運動會",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0053",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is widely believed ____ reading a paper book before bed improves sleep quality.",
+  "options": [
+   "that",
+   "which",
+   "whether",
+   "what"
+  ],
+  "answer": 0,
+  "explain_zh": "It is believed that... 是常見句型，虛主詞 It 代替後面的 that 子句。what 和 which 後面要缺成分，whether 表不確定，與 widely believed 語意不合。",
+  "vocab": [
+   {
+    "w": "improve",
+    "zh": "改善",
+    "pos": "v."
+   },
+   {
+    "w": "quality",
+    "zh": "品質",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0054",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the government will fund the wetland restoration project still remains unclear.",
+  "options": [
+   "That",
+   "Whether",
+   "What",
+   "If"
+  ],
+  "answer": 1,
+  "explain_zh": "句首的主詞子句表示「是否」，只能用 Whether，If 不能引導主詞子句。That 會變成肯定事實，與 remains unclear 矛盾；What 後面必須缺成分。",
+  "vocab": [
+   {
+    "w": "wetland",
+    "zh": "濕地",
+    "pos": "n."
+   },
+   {
+    "w": "fund",
+    "zh": "資助",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0055",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "My only question is ____ we should submit the final report online or on paper.",
+  "options": [
+   "which",
+   "that",
+   "whether",
+   "what"
+  ],
+  "answer": 2,
+  "explain_zh": "句意是「要線上還是紙本」，是二選一的不確定，用 whether...or。that 表肯定事實，what 後面要缺成分，which 後面需接名詞或有明確選項。",
+  "vocab": [
+   {
+    "w": "final",
+    "zh": "最後的",
+    "pos": "adj."
+   },
+   {
+    "w": "paper",
+    "zh": "紙本",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0056",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Please tell me honestly ____ you did with the leftover materials from the workshop.",
+  "options": [
+   "which",
+   "whether",
+   "that",
+   "what"
+  ],
+  "answer": 3,
+  "explain_zh": "did 後面缺受詞，需要用 what 引導名詞子句並同時當受詞。that 引導的子句必須完整，which 需有選擇範圍，whether 表是否，語意不合。",
+  "vocab": [
+   {
+    "w": "leftover",
+    "zh": "剩下的",
+    "pos": "adj."
+   },
+   {
+    "w": "workshop",
+    "zh": "工作坊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0057",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "No one in the building could explain ____ caused the sudden power cut last night.",
+  "options": [
+   "what",
+   "which",
+   "whether",
+   "that"
+  ],
+  "answer": 0,
+  "explain_zh": "caused 前面缺主詞，要用 what 當名詞子句的主詞（＝the thing that）。that 後面要接完整句子，which 需有限定範圍，whether 語意不合。",
+  "vocab": [
+   {
+    "w": "sudden",
+    "zh": "突然的",
+    "pos": "adj."
+   },
+   {
+    "w": "power cut",
+    "zh": "停電",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0058",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the volunteers had quietly done for the neighbourhood impressed the whole community.",
+  "options": [
+   "That",
+   "What",
+   "Which",
+   "Whether"
+  ],
+  "answer": 1,
+  "explain_zh": "done 後面缺受詞，所以要用本身含先行詞的 What 當主詞子句的引導詞。That 後面的子句必須完整，Which 不能這樣引導主詞子句，Whether 語意不合。",
+  "vocab": [
+   {
+    "w": "neighbourhood",
+    "zh": "社區",
+    "pos": "n."
+   },
+   {
+    "w": "impress",
+    "zh": "使印象深刻",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0059",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "I honestly have no idea ____ the password to the shared class folder is.",
+  "options": [
+   "that",
+   "which",
+   "what",
+   "what is"
+  ],
+  "answer": 2,
+  "explain_zh": "間接問句不可倒裝，所以是 what＋主詞＋is。what is 是疑問語序，that 後面必須是完整句子，which 需要有明確選項。",
+  "vocab": [
+   {
+    "w": "password",
+    "zh": "密碼",
+    "pos": "n."
+   },
+   {
+    "w": "folder",
+    "zh": "資料夾",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0060",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the app quietly collects our location data concerns many parents and teachers.",
+  "options": [
+   "What",
+   "Which",
+   "Whom",
+   "That"
+  ],
+  "answer": 3,
+  "explain_zh": "空格後是完整句子，當主詞的名詞子句用 That 引導。What 後面必須缺成分，Which 和 Whom 都不能引導這樣的主詞子句。",
+  "vocab": [
+   {
+    "w": "collect",
+    "zh": "蒐集",
+    "pos": "v."
+   },
+   {
+    "w": "location",
+    "zh": "位置",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0061",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "She still could not decide ____ to major in engineering or in visual design.",
+  "options": [
+   "whether",
+   "what",
+   "if",
+   "that"
+  ],
+  "answer": 0,
+  "explain_zh": "只有 whether 可以直接接不定詞，構成 whether to V...or...。if 不能接不定詞，that 不引導選擇，what 後面要缺成分。",
+  "vocab": [
+   {
+    "w": "major in",
+    "zh": "主修",
+    "pos": "v. phr."
+   },
+   {
+    "w": "visual",
+    "zh": "視覺的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0062",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The fact ____ our campus wastes so much paper really shocked the visiting students.",
+  "options": [
+   "which",
+   "that",
+   "what",
+   "why"
+  ],
+  "answer": 1,
+  "explain_zh": "The fact 後面接同位語子句說明「事實的內容」，子句完整，用 that。which 和 why 是關係詞，what 不能有先行詞。",
+  "vocab": [
+   {
+    "w": "waste",
+    "zh": "浪費",
+    "pos": "v."
+   },
+   {
+    "w": "shock",
+    "zh": "使震驚",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0063",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Please let me know ____ you need any extra help with tomorrow's group presentation.",
+  "options": [
+   "which",
+   "that",
+   "if",
+   "what"
+  ],
+  "answer": 2,
+  "explain_zh": "let me know 後面表示「是否需要幫忙」，用 if（或 whether）。that 表肯定事實，what 和 which 後面都必須缺成分。",
+  "vocab": [
+   {
+    "w": "extra",
+    "zh": "額外的",
+    "pos": "adj."
+   },
+   {
+    "w": "presentation",
+    "zh": "簡報",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0064",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the earth is warming faster than expected is no longer a matter of debate.",
+  "options": [
+   "Whether",
+   "Which",
+   "What",
+   "That"
+  ],
+  "answer": 3,
+  "explain_zh": "空格後是完整句子且內容是被接受的事實，用 That 引導主詞子句。What 後面要缺成分，Whether 表懷疑與 no longer a matter of debate 矛盾，Which 不能這樣用。",
+  "vocab": [
+   {
+    "w": "warm",
+    "zh": "變暖",
+    "pos": "v."
+   },
+   {
+    "w": "debate",
+    "zh": "爭論",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0065",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The coach really wanted to know ____ we had practised during the winter holiday.",
+  "options": [
+   "how often",
+   "how often did",
+   "that how often",
+   "how often do"
+  ],
+  "answer": 0,
+  "explain_zh": "間接問句用直述語序，how often＋主詞＋動詞即可。how often did 是倒裝，that how often 重複引導詞，how often do 與過去完成式不合。",
+  "vocab": [
+   {
+    "w": "practise",
+    "zh": "練習",
+    "pos": "v."
+   },
+   {
+    "w": "holiday",
+    "zh": "假期",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0066",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:noun-clause",
+  "tag_zh": "名詞子句",
+  "passage": null,
+  "group_id": null,
+  "stem": "It does not really matter ____ you start the project, as long as you finish on time.",
+  "options": [
+   "that",
+   "when",
+   "what",
+   "which"
+  ],
+  "answer": 1,
+  "explain_zh": "句意強調「什麼時候開始都沒關係」，用 when 引導名詞子句。that 表肯定事實，what 和 which 後面必須缺成分，這裡 start 已有受詞 the project。",
+  "vocab": [
+   {
+    "w": "matter",
+    "zh": "重要",
+    "pos": "v."
+   },
+   {
+    "w": "on time",
+    "zh": "準時",
+    "pos": "adv. phr."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0067",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The new bike lanes along the riverside ____ by the city government last summer.",
+  "options": [
+   "have built",
+   "were building",
+   "were built",
+   "are built"
+  ],
+  "answer": 2,
+  "explain_zh": "時間是 last summer，主詞 bike lanes 是被建造的，所以用過去式被動 were built。are built 時態錯誤，have built 和 were building 都是主動語態。",
+  "vocab": [
+   {
+    "w": "bike lane",
+    "zh": "自行車道",
+    "pos": "n."
+   },
+   {
+    "w": "government",
+    "zh": "政府",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0068",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The final results ____ on the school website since early Monday morning.",
+  "options": [
+   "were posting",
+   "are posting",
+   "have posted",
+   "have been posted"
+  ],
+  "answer": 3,
+  "explain_zh": "since 搭配現在完成式，而 results 是被公布的，所以用現在完成被動 have been posted。其餘三個都是主動語態，語意不通。",
+  "vocab": [
+   {
+    "w": "post",
+    "zh": "張貼",
+    "pos": "v."
+   },
+   {
+    "w": "website",
+    "zh": "網站",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0069",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "All the glass equipment must ____ carefully before the students leave the chemistry laboratory.",
+  "options": [
+   "be checked",
+   "been checked",
+   "checking",
+   "check"
+  ],
+  "answer": 0,
+  "explain_zh": "情態助動詞 must 後面接原形，被動語態是 must be checked。been checked 前面必須有 have，check 是主動，checking 不能接在 must 後面。",
+  "vocab": [
+   {
+    "w": "equipment",
+    "zh": "設備",
+    "pos": "n."
+   },
+   {
+    "w": "chemistry",
+    "zh": "化學",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0070",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "A brand-new recycling system ____ in every classroom at the start of next semester.",
+  "options": [
+   "will install",
+   "will be installed",
+   "will have installed",
+   "is installing"
+  ],
+  "answer": 1,
+  "explain_zh": "next semester 指未來，而 system 是被安裝的，用未來式被動 will be installed。will install 和 will have installed 都是主動，is installing 也是主動進行式。",
+  "vocab": [
+   {
+    "w": "install",
+    "zh": "安裝",
+    "pos": "v."
+   },
+   {
+    "w": "semester",
+    "zh": "學期",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0071",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The pedestrian bridge ____ at the moment, so please take the other route to school.",
+  "options": [
+   "repairs",
+   "is repairing",
+   "is being repaired",
+   "has repaired"
+  ],
+  "answer": 2,
+  "explain_zh": "at the moment 表示現在正在進行，而橋是被修理的，用現在進行被動 is being repaired。其他三個都是主動語態。",
+  "vocab": [
+   {
+    "w": "pedestrian",
+    "zh": "行人的",
+    "pos": "adj."
+   },
+   {
+    "w": "route",
+    "zh": "路線",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0072",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The two winners ____ a free trip to Japan by the camp organisers last Friday.",
+  "options": [
+   "were given to",
+   "gave",
+   "giving",
+   "were given"
+  ],
+  "answer": 3,
+  "explain_zh": "give 有兩個受詞，把「人」提到主詞位置時是 were given a free trip，不需要再加 to。gave 和 giving 都是主動，語意不通。",
+  "vocab": [
+   {
+    "w": "winner",
+    "zh": "得獎者",
+    "pos": "n."
+   },
+   {
+    "w": "organiser",
+    "zh": "主辦者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0073",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "A full four-year scholarship ____ to her shortly after the final interview.",
+  "options": [
+   "was offered",
+   "offered",
+   "was offering",
+   "has offered"
+  ],
+  "answer": 0,
+  "explain_zh": "雙受詞動詞 offer 以「物」當主詞時，後面要加介系詞 to 再接人，動詞用被動 was offered。其餘三個都是主動語態。",
+  "vocab": [
+   {
+    "w": "offer",
+    "zh": "提供",
+    "pos": "v."
+   },
+   {
+    "w": "interview",
+    "zh": "面試",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0074",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The suspect ____ to enter the building through the back door just after midnight.",
+  "options": [
+   "has seen",
+   "was seen",
+   "saw",
+   "was seeing"
+  ],
+  "answer": 1,
+  "explain_zh": "感官動詞 see 在主動時接原形 V，變被動時原形要還原成 to V，所以是 was seen to enter。其他三個都是主動語態。",
+  "vocab": [
+   {
+    "w": "suspect",
+    "zh": "嫌犯",
+    "pos": "n."
+   },
+   {
+    "w": "midnight",
+    "zh": "午夜",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0075",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The careless students ____ to rewrite the whole report over the weekend.",
+  "options": [
+   "were make",
+   "were making",
+   "were made",
+   "made"
+  ],
+  "answer": 2,
+  "explain_zh": "使役動詞 make 主動時接原形，改被動要加 to，所以是 were made to rewrite。were make 文法錯誤，made 和 were making 都是主動。",
+  "vocab": [
+   {
+    "w": "careless",
+    "zh": "粗心的",
+    "pos": "adj."
+   },
+   {
+    "w": "rewrite",
+    "zh": "重寫",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0076",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "Junior students ____ to wear the full school uniform on every Monday morning.",
+  "options": [
+   "require",
+   "are requiring",
+   "required",
+   "are required"
+  ],
+  "answer": 3,
+  "explain_zh": "學生是「被要求」的一方，用被動 are required to V。require 和 are requiring 是主動，required 單獨用在這裡也會變成主動。",
+  "vocab": [
+   {
+    "w": "uniform",
+    "zh": "制服",
+    "pos": "n."
+   },
+   {
+    "w": "require",
+    "zh": "要求",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0077",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The confirmation email must ____ to the wrong address, because nobody received it.",
+  "options": [
+   "have been sent",
+   "send",
+   "be sent",
+   "have sent"
+  ],
+  "answer": 0,
+  "explain_zh": "對過去的推測用 must have p.p.，而 email 是被寄出的，所以是 must have been sent。be sent 指現在或未來，have sent 是主動，send 沒有被動也沒有過去意味。",
+  "vocab": [
+   {
+    "w": "confirmation",
+    "zh": "確認",
+    "pos": "n."
+   },
+   {
+    "w": "address",
+    "zh": "地址",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0078",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "By the time we arrived at the hall, the stage ____ with hundreds of paper flowers.",
+  "options": [
+   "had decorated",
+   "had been decorated",
+   "was decorating",
+   "has been decorated"
+  ],
+  "answer": 1,
+  "explain_zh": "在過去某時間點之前已完成，且舞台是被裝飾的，用過去完成被動 had been decorated。had decorated 是主動，was decorating 也是主動，has been decorated 時態與 arrived 不合。",
+  "vocab": [
+   {
+    "w": "decorate",
+    "zh": "裝飾",
+    "pos": "v."
+   },
+   {
+    "w": "stage",
+    "zh": "舞台",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0079",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "This coffee machine in the teachers' lounge needs ____ at least once a year.",
+  "options": [
+   "serviced",
+   "to service",
+   "to be serviced",
+   "service"
+  ],
+  "answer": 2,
+  "explain_zh": "機器是被保養的，need 後面接不定詞時要用被動 to be serviced。to service 變成機器去保養別人，service 和 serviced 都不能直接接在 needs 後面。",
+  "vocab": [
+   {
+    "w": "once a year",
+    "zh": "一年一次",
+    "pos": "adv. phr."
+   },
+   {
+    "w": "lounge",
+    "zh": "休息室",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0080",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "My new phone ____ stolen on the crowded train during the school trip last week.",
+  "options": [
+   "was got",
+   "has got",
+   "is getting",
+   "got"
+  ],
+  "answer": 3,
+  "explain_zh": "口語中常用 get＋p.p. 表示被動，尤其是不幸的事，所以是 got stolen。was got 不合英語習慣，has got 和 is getting 時態與 last week 不合。",
+  "vocab": [
+   {
+    "w": "steal",
+    "zh": "偷",
+    "pos": "v."
+   },
+   {
+    "w": "crowded",
+    "zh": "擁擠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0081",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The huge mural on the back wall ____ by students from the art club last year.",
+  "options": [
+   "was painted",
+   "has painted",
+   "is painting",
+   "painted"
+  ],
+  "answer": 0,
+  "explain_zh": "壁畫是被畫的，加上 last year 指過去，用過去式被動 was painted。painted 單獨用會變成壁畫去畫別人，其餘兩個也是主動語態。",
+  "vocab": [
+   {
+    "w": "mural",
+    "zh": "壁畫",
+    "pos": "n."
+   },
+   {
+    "w": "huge",
+    "zh": "巨大的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0082",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "Used plastic bottles ____ into soft fabric if the right technology is available.",
+  "options": [
+   "can turn",
+   "can be turned",
+   "can be turning",
+   "can turned"
+  ],
+  "answer": 1,
+  "explain_zh": "情態助動詞的被動是 can be p.p.，寶特瓶是被轉變的，所以用 can be turned。can turn 是主動，can be turning 是進行式，can turned 文法錯誤。",
+  "vocab": [
+   {
+    "w": "fabric",
+    "zh": "布料",
+    "pos": "n."
+   },
+   {
+    "w": "technology",
+    "zh": "科技",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0083",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "English ____ as an official language in more than fifty countries around the world.",
+  "options": [
+   "has spoken",
+   "speaks",
+   "is spoken",
+   "is speaking"
+  ],
+  "answer": 2,
+  "explain_zh": "英語是被使用的語言，敘述現在的事實用現在式被動 is spoken。其餘三個都是主動語態，會變成「英語會說話」。",
+  "vocab": [
+   {
+    "w": "official",
+    "zh": "官方的",
+    "pos": "adj."
+   },
+   {
+    "w": "language",
+    "zh": "語言",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0084",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "By next June, all the old classrooms ____ with energy-saving air conditioners.",
+  "options": [
+   "have been installed",
+   "will install",
+   "will be installed",
+   "will have been installed"
+  ],
+  "answer": 3,
+  "explain_zh": "By next June 表示「到未來某時間點為止已完成」，用未來完成被動 will have been installed。will be installed 缺少「已完成」的意思，have been installed 不能指未來，will install 是主動。",
+  "vocab": [
+   {
+    "w": "energy-saving",
+    "zh": "節能的",
+    "pos": "adj."
+   },
+   {
+    "w": "air conditioner",
+    "zh": "冷氣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0085",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "We ____ a very detailed explanation about the fossils by the friendly museum guide.",
+  "options": [
+   "were told",
+   "were said",
+   "told",
+   "said"
+  ],
+  "answer": 0,
+  "explain_zh": "tell 可以接人當受詞，變被動時是 we were told...；say 不能用人當被動主詞，所以 were said 錯誤。told 和 said 在這裡都是主動語態。",
+  "vocab": [
+   {
+    "w": "explanation",
+    "zh": "解說",
+    "pos": "n."
+   },
+   {
+    "w": "guide",
+    "zh": "導覽員",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0086",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The children ____ playing loudly in the schoolyard when the fire alarm suddenly rang.",
+  "options": [
+   "hear",
+   "were heard",
+   "heard",
+   "were hearing"
+  ],
+  "answer": 1,
+  "explain_zh": "感官動詞 hear 的被動是 be heard，後面可以接 V-ing 表示當時正在進行的動作。heard 和 hear 是主動，were hearing 不符合感官動詞的用法。",
+  "vocab": [
+   {
+    "w": "schoolyard",
+    "zh": "校園操場",
+    "pos": "n."
+   },
+   {
+    "w": "alarm",
+    "zh": "警報",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0087",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "Food waste ____ separated from other rubbish before it goes into the collection truck.",
+  "options": [
+   "should being",
+   "should been",
+   "should be",
+   "should"
+  ],
+  "answer": 2,
+  "explain_zh": "情態助動詞的被動形式是 should be p.p.，廚餘是被分開的。should 後面直接接 separated 會少了 be，should being 和 should been 都是錯誤形式。",
+  "vocab": [
+   {
+    "w": "separate",
+    "zh": "分開",
+    "pos": "v."
+   },
+   {
+    "w": "truck",
+    "zh": "卡車",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0088",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The final test results ____ when the power in the whole building suddenly went out.",
+  "options": [
+   "were printing",
+   "had printed",
+   "are being printed",
+   "were being printed"
+  ],
+  "answer": 3,
+  "explain_zh": "停電時「正在被列印」，用過去進行被動 were being printed。were printing 和 had printed 是主動，are being printed 時態與 went out 不合。",
+  "vocab": [
+   {
+    "w": "print",
+    "zh": "列印",
+    "pos": "v."
+   },
+   {
+    "w": "power",
+    "zh": "電力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0089",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "The new traffic policy ____ to reduce serious accidents by nearly half within two years.",
+  "options": [
+   "is said",
+   "says",
+   "is saying",
+   "said"
+  ],
+  "answer": 0,
+  "explain_zh": "「據說…」的句型是 be said to V，所以用 is said to reduce。says 和 is saying 是主動，said 單獨用會缺少 be 動詞。",
+  "vocab": [
+   {
+    "w": "policy",
+    "zh": "政策",
+    "pos": "n."
+   },
+   {
+    "w": "accident",
+    "zh": "事故",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0090",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:passive-advanced",
+  "tag_zh": "進階被動語態",
+  "passage": null,
+  "group_id": null,
+  "stem": "Visitors ____ to take photographs with flash inside the main exhibition hall.",
+  "options": [
+   "not allowed",
+   "are not allowed",
+   "do not allow",
+   "are not allowing"
+  ],
+  "answer": 1,
+  "explain_zh": "參觀者是被規定的一方，用被動 are not allowed to V。do not allow 和 are not allowing 都變成參觀者不允許別人，not allowed 缺少 be 動詞。",
+  "vocab": [
+   {
+    "w": "exhibition",
+    "zh": "展覽",
+    "pos": "n."
+   },
+   {
+    "w": "flash",
+    "zh": "閃光燈",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0091",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tina told us that she ____ to the recycling centre the previous weekend with her family.",
+  "options": [
+   "went",
+   "has gone",
+   "had gone",
+   "goes"
+  ],
+  "answer": 2,
+  "explain_zh": "主要動詞 told 是過去式，原本的過去式要往前退成過去完成式 had gone，而且 the previous weekend 也是轉述後的時間說法。其餘三個都沒有做時態往前退的調整。",
+  "vocab": [
+   {
+    "w": "previous",
+    "zh": "前一個的",
+    "pos": "adj."
+   },
+   {
+    "w": "recycling centre",
+    "zh": "回收中心",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0092",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "The guide said that the museum ____ at six o'clock every evening during the winter season.",
+  "options": [
+   "has closed",
+   "is closing",
+   "closes",
+   "closed"
+  ],
+  "answer": 3,
+  "explain_zh": "轉述動詞 said 是過去式，原句的現在式習慣要退成過去式 closed。has closed 與 said 不搭，is closing 沒有退時態，closes 保留現在式在正式寫作中不合規則。",
+  "vocab": [
+   {
+    "w": "guide",
+    "zh": "導覽員",
+    "pos": "n."
+   },
+   {
+    "w": "season",
+    "zh": "季節",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0093",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "He asked me ____ I had ever taken part in a model United Nations conference before.",
+  "options": [
+   "if",
+   "what",
+   "did",
+   "that"
+  ],
+  "answer": 0,
+  "explain_zh": "原句是 Yes/No 問句，轉述時要用 if 或 whether 引導。that 用於直述句，what 後面必須缺成分，did 不能引導間接問句。",
+  "vocab": [
+   {
+    "w": "take part in",
+    "zh": "參加",
+    "pos": "v. phr."
+   },
+   {
+    "w": "model",
+    "zh": "模擬的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0094",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "My homeroom teacher asked us ____ our service projects before the end of this month.",
+  "options": [
+   "that finish",
+   "to finish",
+   "finish",
+   "finishing"
+  ],
+  "answer": 1,
+  "explain_zh": "ask somebody to V 是轉述請求或要求的固定句型。finish 原形、finishing 動名詞、that finish 都不符合 ask 的句型。",
+  "vocab": [
+   {
+    "w": "homeroom teacher",
+    "zh": "導師",
+    "pos": "n."
+   },
+   {
+    "w": "service",
+    "zh": "服務",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0095",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "The reporter asked the mayor ____ the new low-carbon bus policy would officially begin.",
+  "options": [
+   "when will",
+   "when would",
+   "when",
+   "that when"
+  ],
+  "answer": 2,
+  "explain_zh": "間接問句要用直述語序 when＋主詞＋動詞。when would 是倒裝，that when 重複引導詞，when will 沒有配合過去的轉述動詞退時態。",
+  "vocab": [
+   {
+    "w": "low-carbon",
+    "zh": "低碳的",
+    "pos": "adj."
+   },
+   {
+    "w": "officially",
+    "zh": "正式地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0096",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "Our basketball coach ____ us that the training session had been moved to Saturday morning.",
+  "options": [
+   "spoke",
+   "talked",
+   "said",
+   "told"
+  ],
+  "answer": 3,
+  "explain_zh": "tell 後面可以直接接人再接 that 子句，所以用 told us that...。say 要寫成 said to us，speak 和 talk 則要加 to 才能接人。",
+  "vocab": [
+   {
+    "w": "session",
+    "zh": "場次",
+    "pos": "n."
+   },
+   {
+    "w": "coach",
+    "zh": "教練",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0097",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "Our team leader ____ that the second week of the camp would be much harder.",
+  "options": [
+   "said",
+   "told to",
+   "spoke",
+   "told"
+  ],
+  "answer": 0,
+  "explain_zh": "say 後面可以直接接 that 子句，不接人；tell 一定要先接人，所以 told 和 told to 都錯。speak 不能直接接 that 子句。",
+  "vocab": [
+   {
+    "w": "leader",
+    "zh": "隊長",
+    "pos": "n."
+   },
+   {
+    "w": "camp",
+    "zh": "營隊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0098",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "On Monday she said that she would hand in her application ____, which meant Tuesday.",
+  "options": [
+   "tomorrow",
+   "the next day",
+   "yesterday",
+   "that day"
+  ],
+  "answer": 1,
+  "explain_zh": "轉述過去說的話時，tomorrow 要改成 the next day。yesterday 和 that day 指的時間都不對，tomorrow 是從現在算的，與 said 的過去觀點不合。",
+  "vocab": [
+   {
+    "w": "hand in",
+    "zh": "繳交",
+    "pos": "v. phr."
+   },
+   {
+    "w": "application",
+    "zh": "申請書",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0099",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "David told me that he had once again forgotten ____ password for the school computer.",
+  "options": [
+   "their",
+   "my",
+   "his",
+   "your"
+  ],
+  "answer": 2,
+  "explain_zh": "轉述時人稱代名詞要跟著轉換，David 說的 my 在轉述句中要改成 his。my 會變成說話者自己的，your 和 their 指的人都不對。",
+  "vocab": [
+   {
+    "w": "forget",
+    "zh": "忘記",
+    "pos": "v."
+   },
+   {
+    "w": "computer",
+    "zh": "電腦",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0100",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "The librarian told the students ____ their phones while they were in the reading room.",
+  "options": [
+   "to not use",
+   "don't use",
+   "not use",
+   "not to use"
+  ],
+  "answer": 3,
+  "explain_zh": "轉述否定命令的標準形式是 tell somebody not to V。to not use 語序不自然，don't use 保留了直接引語，not use 少了 to。",
+  "vocab": [
+   {
+    "w": "librarian",
+    "zh": "圖書館員",
+    "pos": "n."
+   },
+   {
+    "w": "reading room",
+    "zh": "閱覽室",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0101",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "The science teacher explained that water ____ at one hundred degrees Celsius at sea level.",
+  "options": [
+   "boils",
+   "had boiled",
+   "was boiling",
+   "boiled"
+  ],
+  "answer": 0,
+  "explain_zh": "轉述的內容若是科學真理或不變的事實，時態不必往前退，維持現在式 boils。其餘三個都把不變的事實改成了過去，不符合慣例。",
+  "vocab": [
+   {
+    "w": "boil",
+    "zh": "沸騰",
+    "pos": "v."
+   },
+   {
+    "w": "degree",
+    "zh": "度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0102",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "She said that she ____ help us with the poster if we needed another pair of hands.",
+  "options": [
+   "will",
+   "would",
+   "shall",
+   "can"
+  ],
+  "answer": 1,
+  "explain_zh": "轉述動詞 said 是過去式，原句的 will 要退成 would。shall 和 can 沒有做時態調整，will 則完全沒有退。",
+  "vocab": [
+   {
+    "w": "poster",
+    "zh": "海報",
+    "pos": "n."
+   },
+   {
+    "w": "pair",
+    "zh": "雙",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0103",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "He said that we ____ submit the signed consent form before joining the field trip.",
+  "options": [
+   "having to",
+   "must to",
+   "had to",
+   "has to"
+  ],
+  "answer": 2,
+  "explain_zh": "轉述過去的話時，表示義務的 must 通常改成 had to。must to 文法錯誤，has to 沒有退時態，having to 不能當述語動詞。",
+  "vocab": [
+   {
+    "w": "consent",
+    "zh": "同意",
+    "pos": "n."
+   },
+   {
+    "w": "submit",
+    "zh": "繳交",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0104",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "The school nurse asked the boy ____ any pain in his left arm after the fall.",
+  "options": [
+   "if did he feel",
+   "that he felt",
+   "does he feel",
+   "if he felt"
+  ],
+  "answer": 3,
+  "explain_zh": "間接問句用 if＋主詞＋動詞，且時態配合過去。if did he feel 是倒裝，that he felt 不是問句形式，does he feel 既倒裝又沒退時態。",
+  "vocab": [
+   {
+    "w": "pain",
+    "zh": "疼痛",
+    "pos": "n."
+   },
+   {
+    "w": "nurse",
+    "zh": "護理師",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0105",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "Our team leader suggested ____ the survey online instead of printing hundreds of copies.",
+  "options": [
+   "doing",
+   "do",
+   "did",
+   "to do"
+  ],
+  "answer": 0,
+  "explain_zh": "suggest 後面接動名詞，不能接不定詞，所以用 doing。to do、do、did 都不符合 suggest 的用法。",
+  "vocab": [
+   {
+    "w": "suggest",
+    "zh": "建議",
+    "pos": "v."
+   },
+   {
+    "w": "copy",
+    "zh": "份",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0106",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tom said that he ____ studying abroad, but his parents preferred a local university.",
+  "options": [
+   "is considering",
+   "was considering",
+   "has considered",
+   "considers"
+  ],
+  "answer": 1,
+  "explain_zh": "said 是過去式，原本的現在進行式要退成過去進行式 was considering。is considering 和 considers 沒有退時態，has considered 與轉述的過去觀點不合。",
+  "vocab": [
+   {
+    "w": "abroad",
+    "zh": "在國外",
+    "pos": "adv."
+   },
+   {
+    "w": "consider",
+    "zh": "考慮",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0107",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "The volunteer leader asked us ____ the rubbish bags by size before loading the truck.",
+  "options": [
+   "sorted",
+   "sorting",
+   "to sort",
+   "sort"
+  ],
+  "answer": 2,
+  "explain_zh": "ask somebody to V 是轉述要求的固定用法，所以用 to sort。sorting、sort、sorted 都不能接在 ask us 之後。",
+  "vocab": [
+   {
+    "w": "sort",
+    "zh": "分類",
+    "pos": "v."
+   },
+   {
+    "w": "load",
+    "zh": "裝載",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0108",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:reported-speech",
+  "tag_zh": "間接引述",
+  "passage": null,
+  "group_id": null,
+  "stem": "She said that ____ documentary had completely changed the way she thought about climate change.",
+  "options": [
+   "these",
+   "it",
+   "this",
+   "that"
+  ],
+  "answer": 3,
+  "explain_zh": "轉述時指示詞 this 要改成 that，因為說話的時空已經改變。these 是複數，it 不能直接放在名詞前面當限定詞。",
+  "vocab": [
+   {
+    "w": "climate change",
+    "zh": "氣候變遷",
+    "pos": "n."
+   },
+   {
+    "w": "completely",
+    "zh": "完全地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0109",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Each of the exchange students ____ required to hand in a short reflection after the trip.",
+  "options": [
+   "is",
+   "were",
+   "being",
+   "are"
+  ],
+  "answer": 0,
+  "explain_zh": "Each of＋複數名詞，真正的主詞是 Each，屬單數，動詞用 is。are 和 were 是複數動詞，being 不能單獨當述語動詞。",
+  "vocab": [
+   {
+    "w": "reflection",
+    "zh": "心得",
+    "pos": "n."
+   },
+   {
+    "w": "require",
+    "zh": "要求",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0110",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "The number of students who join the coding club ____ growing steadily every single year.",
+  "options": [
+   "are",
+   "is",
+   "have",
+   "were"
+  ],
+  "answer": 1,
+  "explain_zh": "The number of... 意思是「…的數量」，視為單數，動詞用 is。若是 A number of 才表示「許多」而用複數動詞。",
+  "vocab": [
+   {
+    "w": "coding",
+    "zh": "程式設計",
+    "pos": "n."
+   },
+   {
+    "w": "steadily",
+    "zh": "穩定地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0111",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "A number of local volunteers ____ already signed up for this Saturday's beach clean-up.",
+  "options": [
+   "was",
+   "has",
+   "have",
+   "is"
+  ],
+  "answer": 2,
+  "explain_zh": "A number of＋複數名詞意思是「許多…」，動詞用複數 have。has、is、was 都是單數動詞，與 volunteers 不一致。",
+  "vocab": [
+   {
+    "w": "local",
+    "zh": "當地的",
+    "pos": "adj."
+   },
+   {
+    "w": "clean-up",
+    "zh": "清掃活動",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0112",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Neither the teacher nor the students ____ satisfied with the newly announced timetable.",
+  "options": [
+   "was",
+   "has",
+   "is",
+   "are"
+  ],
+  "answer": 3,
+  "explain_zh": "neither A nor B 的動詞要與最靠近的主詞 the students 一致，所以用複數 are。is、was、has 都是單數動詞。",
+  "vocab": [
+   {
+    "w": "satisfied",
+    "zh": "滿意的",
+    "pos": "adj."
+   },
+   {
+    "w": "timetable",
+    "zh": "課表",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0113",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Physics ____ one of the most challenging subjects for many senior high school students.",
+  "options": [
+   "is",
+   "were",
+   "have",
+   "are"
+  ],
+  "answer": 0,
+  "explain_zh": "physics 雖然字尾有 s，但屬學科名稱，視為單數，動詞用 is。類似的還有 mathematics、economics、news。",
+  "vocab": [
+   {
+    "w": "challenging",
+    "zh": "有挑戰性的",
+    "pos": "adj."
+   },
+   {
+    "w": "subject",
+    "zh": "科目",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0114",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Twenty minutes ____ hardly enough time to finish the whole listening section of the test.",
+  "options": [
+   "are",
+   "is",
+   "were",
+   "have"
+  ],
+  "answer": 1,
+  "explain_zh": "表示時間、金錢、距離的複數名詞當作「一個整體」時，視為單數，動詞用 is。其餘三個都是複數動詞。",
+  "vocab": [
+   {
+    "w": "section",
+    "zh": "部分",
+    "pos": "n."
+   },
+   {
+    "w": "hardly",
+    "zh": "幾乎不",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0115",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "There ____ several good reasons why the committee rejected that proposal last week.",
+  "options": [
+   "has",
+   "is",
+   "are",
+   "was"
+  ],
+  "answer": 2,
+  "explain_zh": "There be 句型的動詞要與後面的真主詞 reasons 一致，複數用 are。is、was、has 都不能搭配複數主詞和 last week 之外的現在敘述。",
+  "vocab": [
+   {
+    "w": "reject",
+    "zh": "否決",
+    "pos": "v."
+   },
+   {
+    "w": "proposal",
+    "zh": "提案",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0116",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "One of the old machines in the science laboratory ____ broken down twice this month.",
+  "options": [
+   "are",
+   "were",
+   "have",
+   "has"
+  ],
+  "answer": 3,
+  "explain_zh": "主詞是 One，中間的 of the old machines 只是修飾語，動詞用單數 has。have、are、were 都是複數動詞。",
+  "vocab": [
+   {
+    "w": "machine",
+    "zh": "機器",
+    "pos": "n."
+   },
+   {
+    "w": "break down",
+    "zh": "故障",
+    "pos": "v. phr."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0117",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Not only the posters but also the website ____ been updated with the new camp schedule.",
+  "options": [
+   "has",
+   "are",
+   "were",
+   "have"
+  ],
+  "answer": 0,
+  "explain_zh": "not only A but also B 的動詞與最靠近的主詞 the website 一致，單數用 has。其餘三個都是複數動詞。",
+  "vocab": [
+   {
+    "w": "update",
+    "zh": "更新",
+    "pos": "v."
+   },
+   {
+    "w": "schedule",
+    "zh": "行程表",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0118",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Either my parents or my older brother ____ going to pick me up after the competition.",
+  "options": [
+   "are",
+   "is",
+   "were",
+   "have"
+  ],
+  "answer": 1,
+  "explain_zh": "either A or B 的動詞與較靠近的主詞 my older brother 一致，用單數 is。are、were、have 都是複數形式。",
+  "vocab": [
+   {
+    "w": "pick up",
+    "zh": "接送",
+    "pos": "v. phr."
+   },
+   {
+    "w": "competition",
+    "zh": "比賽",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0119",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "The latest news about the typhoon warnings ____ spreading very quickly on social media.",
+  "options": [
+   "have",
+   "are",
+   "is",
+   "were"
+  ],
+  "answer": 2,
+  "explain_zh": "news 字尾雖有 s，卻是不可數名詞，動詞用單數 is；中間的 about the typhoon warnings 只是修飾語。其餘三個都是複數動詞。",
+  "vocab": [
+   {
+    "w": "warning",
+    "zh": "警報",
+    "pos": "n."
+   },
+   {
+    "w": "spread",
+    "zh": "散播",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0120",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Mathematics and chemistry ____ my two favourite subjects, though both take hours of practice.",
+  "options": [
+   "was",
+   "has",
+   "is",
+   "are"
+  ],
+  "answer": 3,
+  "explain_zh": "兩個學科用 and 連接，主詞變成複數，動詞用 are。單一學科名稱才視為單數，這裡是兩科並列。",
+  "vocab": [
+   {
+    "w": "mathematics",
+    "zh": "數學",
+    "pos": "n."
+   },
+   {
+    "w": "practice",
+    "zh": "練習",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0121",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Everyone in the two graduating classes ____ to bring a reusable bottle to the camp.",
+  "options": [
+   "needs",
+   "are needing",
+   "have need",
+   "need"
+  ],
+  "answer": 0,
+  "explain_zh": "everyone 是單數不定代名詞，動詞用 needs。need 是複數形，are needing 不符合狀態動詞用法，have need 不是正確的動詞形式。",
+  "vocab": [
+   {
+    "w": "graduating",
+    "zh": "畢業的",
+    "pos": "adj."
+   },
+   {
+    "w": "bottle",
+    "zh": "瓶子",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0122",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "Three quarters of the electricity in this building ____ from the solar panels on the roof.",
+  "options": [
+   "come",
+   "comes",
+   "are coming",
+   "have come"
+  ],
+  "answer": 1,
+  "explain_zh": "分數或百分比的動詞要看 of 後面的名詞，electricity 是不可數，所以用單數 comes。若後面是複數名詞才用 come。",
+  "vocab": [
+   {
+    "w": "quarter",
+    "zh": "四分之一",
+    "pos": "n."
+   },
+   {
+    "w": "roof",
+    "zh": "屋頂",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0123",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞動詞一致",
+  "passage": null,
+  "group_id": null,
+  "stem": "The biology teacher, together with her students, ____ planting young trees along the fence.",
+  "options": [
+   "have",
+   "are",
+   "is",
+   "were"
+  ],
+  "answer": 2,
+  "explain_zh": "together with 引導的片語不影響主詞的單複數，主詞仍是 The biology teacher，動詞用 is。類似的還有 as well as、along with。",
+  "vocab": [
+   {
+    "w": "biology",
+    "zh": "生物",
+    "pos": "n."
+   },
+   {
+    "w": "fence",
+    "zh": "圍牆",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0124",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "We will start the experiment as soon as the teacher ____ the safety instructions.",
+  "options": [
+   "finished",
+   "is finishing",
+   "will finish",
+   "finishes"
+  ],
+  "answer": 3,
+  "explain_zh": "as soon as 引導的時間副詞子句要用現在式代替未來式，所以用 finishes。will finish 犯了「時間副詞子句不用未來式」的錯，finished 和 is finishing 時態不合。",
+  "vocab": [
+   {
+    "w": "instruction",
+    "zh": "指示",
+    "pos": "n."
+   },
+   {
+    "w": "experiment",
+    "zh": "實驗",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0125",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "By the time the ambulance finally arrived, the injured runner ____ consciousness again.",
+  "options": [
+   "had regained",
+   "has regained",
+   "regains",
+   "regained"
+  ],
+  "answer": 0,
+  "explain_zh": "By the time＋過去式，主要子句要用過去完成式表示「更早發生」，所以是 had regained。has regained 與過去時間不合，其餘兩個沒有表達先後。",
+  "vocab": [
+   {
+    "w": "ambulance",
+    "zh": "救護車",
+    "pos": "n."
+   },
+   {
+    "w": "consciousness",
+    "zh": "意識",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0126",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "She had already left for the airport when I finally ____ to return her notebook.",
+  "options": [
+   "had called",
+   "called",
+   "have called",
+   "was calling"
+  ],
+  "answer": 1,
+  "explain_zh": "兩件過去的事，先發生的用過去完成式 had left，後發生的用過去簡單式 called。兩句都用過去完成式就分不出先後，have called 與過去時間不合。",
+  "vocab": [
+   {
+    "w": "airport",
+    "zh": "機場",
+    "pos": "n."
+   },
+   {
+    "w": "return",
+    "zh": "歸還",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0127",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "If it ____ heavily tomorrow, the outdoor graduation ceremony will be moved to the gymnasium.",
+  "options": [
+   "is raining",
+   "will rain",
+   "rains",
+   "rained"
+  ],
+  "answer": 2,
+  "explain_zh": "條件副詞子句用現在式代替未來式，所以用 rains。will rain 違反這個規則，rained 是過去式，is raining 指現在正在下。",
+  "vocab": [
+   {
+    "w": "graduation",
+    "zh": "畢業",
+    "pos": "n."
+   },
+   {
+    "w": "gymnasium",
+    "zh": "體育館",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0128",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "I ____ English for nine years by the time I graduate from senior high school.",
+  "options": [
+   "have studied",
+   "study",
+   "will study",
+   "will have studied"
+  ],
+  "answer": 3,
+  "explain_zh": "by the time＋現在式表示未來某時間點，主要子句要用未來完成式 will have studied 表示「到那時已持續」。will study 沒有完成的意思，其餘兩個時態不合。",
+  "vocab": [
+   {
+    "w": "graduate",
+    "zh": "畢業",
+    "pos": "v."
+   },
+   {
+    "w": "year",
+    "zh": "年",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0129",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "Hardly ____ the announcement when the whole class began cheering very loudly.",
+  "options": [
+   "had we heard",
+   "we heard",
+   "did we hear",
+   "we had heard"
+  ],
+  "answer": 0,
+  "explain_zh": "否定副詞 Hardly 放句首時後面要倒裝，而且句型是 Hardly had＋主詞＋p.p....when＋過去式。we had heard 沒有倒裝，其餘兩個時態也不符合這個句型。",
+  "vocab": [
+   {
+    "w": "announcement",
+    "zh": "宣布",
+    "pos": "n."
+   },
+   {
+    "w": "cheer",
+    "zh": "歡呼",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0130",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "No sooner had the concert started ____ the power in the whole hall suddenly went out.",
+  "options": [
+   "when",
+   "than",
+   "then",
+   "that"
+  ],
+  "answer": 1,
+  "explain_zh": "No sooner...than... 是固定搭配，表示「一…就…」；Hardly／Scarcely 才搭配 when。then 是副詞，that 在這裡不能當連接詞。",
+  "vocab": [
+   {
+    "w": "concert",
+    "zh": "演唱會",
+    "pos": "n."
+   },
+   {
+    "w": "hall",
+    "zh": "大廳",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0131",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "Until last year, our school ____ never held an online meeting for parents and teachers.",
+  "options": [
+   "was",
+   "has",
+   "had",
+   "have"
+  ],
+  "answer": 2,
+  "explain_zh": "Until last year 是過去的時間點，表示「在那之前從未」要用過去完成式 had never held。has 和 have 都指現在完成，was 無法構成完成式。",
+  "vocab": [
+   {
+    "w": "hold",
+    "zh": "舉辦",
+    "pos": "v."
+   },
+   {
+    "w": "online",
+    "zh": "線上的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0132",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "When I finally get home tonight, my younger sister ____ the whole series already.",
+  "options": [
+   "has watched",
+   "had watched",
+   "watches",
+   "will have watched"
+  ],
+  "answer": 3,
+  "explain_zh": "未來某時間點之前已完成的動作用未來完成式 will have watched。watches 是現在式，has watched 指到現在為止，had watched 指過去。",
+  "vocab": [
+   {
+    "w": "series",
+    "zh": "影集",
+    "pos": "n."
+   },
+   {
+    "w": "already",
+    "zh": "已經",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0133",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was the first time that he ____ in front of an audience of two hundred people.",
+  "options": [
+   "had spoken",
+   "has spoken",
+   "speaks",
+   "spoke"
+  ],
+  "answer": 0,
+  "explain_zh": "It was the first time that... 後面固定用過去完成式 had spoken。若主要子句是 It is the first time 才用現在完成式。",
+  "vocab": [
+   {
+    "w": "audience",
+    "zh": "觀眾",
+    "pos": "n."
+   },
+   {
+    "w": "in front of",
+    "zh": "在…前面",
+    "pos": "prep. phr."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0134",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "She has been volunteering at the animal shelter ever since she ____ senior high school.",
+  "options": [
+   "enters",
+   "entered",
+   "has entered",
+   "had entered"
+  ],
+  "answer": 1,
+  "explain_zh": "since 引導的子句用過去簡單式表示起點，主要子句才用現在完成進行式。enters 是現在式，has entered 和 had entered 都不能當起點。",
+  "vocab": [
+   {
+    "w": "shelter",
+    "zh": "收容所",
+    "pos": "n."
+   },
+   {
+    "w": "enter",
+    "zh": "進入",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0135",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "We will not leave the classroom until the teacher ____ that everyone has handed in the form.",
+  "options": [
+   "is confirming",
+   "will confirm",
+   "confirms",
+   "confirmed"
+  ],
+  "answer": 2,
+  "explain_zh": "until 引導時間副詞子句，用現在式代替未來式，所以是 confirms。will confirm 違反規則，confirmed 是過去式，is confirming 語意不合。",
+  "vocab": [
+   {
+    "w": "confirm",
+    "zh": "確認",
+    "pos": "v."
+   },
+   {
+    "w": "form",
+    "zh": "表格",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0136",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "The film had already begun when we finally ____ our seats in the dark theatre.",
+  "options": [
+   "had found",
+   "have found",
+   "find",
+   "found"
+  ],
+  "answer": 3,
+  "explain_zh": "先發生的用過去完成式 had begun，後發生的用過去簡單式 found。兩個都用過去完成式就分不出先後，find 和 have found 時態也不合。",
+  "vocab": [
+   {
+    "w": "seat",
+    "zh": "座位",
+    "pos": "n."
+   },
+   {
+    "w": "theatre",
+    "zh": "戲院",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0137",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "By 2050, many scientists believe that global sea levels ____ by another twenty centimetres.",
+  "options": [
+   "will have risen",
+   "have risen",
+   "rise",
+   "will rise"
+  ],
+  "answer": 0,
+  "explain_zh": "By＋未來年份表示「到那時為止已完成」，用未來完成式 will have risen。will rise 只是單純未來，rise 和 have risen 都不能表達未來完成。",
+  "vocab": [
+   {
+    "w": "sea level",
+    "zh": "海平面",
+    "pos": "n."
+   },
+   {
+    "w": "centimetre",
+    "zh": "公分",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0138",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:tense-sequence",
+  "tag_zh": "時態呼應",
+  "passage": null,
+  "group_id": null,
+  "stem": "My grandmother told me that she ____ in that old wooden house for over fifty years.",
+  "options": [
+   "lived",
+   "had lived",
+   "has lived",
+   "lives"
+  ],
+  "answer": 1,
+  "explain_zh": "主要子句 told 是過去式，表示「在那之前已持續」要用過去完成式 had lived。has lived 與過去的轉述不合，lives 和 lived 都無法表達更早的持續。",
+  "vocab": [
+   {
+    "w": "wooden",
+    "zh": "木造的",
+    "pos": "adj."
+   },
+   {
+    "w": "grandmother",
+    "zh": "祖母",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0139",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The angry coach made every player ____ five extra laps after that disappointing match.",
+  "options": [
+   "ran",
+   "to run",
+   "run",
+   "running"
+  ],
+  "answer": 2,
+  "explain_zh": "使役動詞 make 在主動語態中接原形動詞，所以是 make somebody run。to run、running、ran 都不符合 make 的句型；只有變成被動時才用 be made to V。",
+  "vocab": [
+   {
+    "w": "lap",
+    "zh": "圈",
+    "pos": "n."
+   },
+   {
+    "w": "disappointing",
+    "zh": "令人失望的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0140",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My parents will not let me ____ out on weekday evenings during the exam week.",
+  "options": [
+   "going",
+   "gone",
+   "to go",
+   "go"
+  ],
+  "answer": 3,
+  "explain_zh": "使役動詞 let 後面固定接原形動詞，所以是 let me go。to go、going、gone 都不能接在 let 之後。",
+  "vocab": [
+   {
+    "w": "weekday",
+    "zh": "平日",
+    "pos": "n."
+   },
+   {
+    "w": "exam",
+    "zh": "考試",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0141",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I had my old laptop ____ at the small repair shop near the train station yesterday.",
+  "options": [
+   "fixed",
+   "to fix",
+   "fixing",
+   "fix"
+  ],
+  "answer": 0,
+  "explain_zh": "have＋事物＋p.p. 表示「請別人把某物…」，筆電是被修的，所以用 fixed。fix 和 to fix 會變成筆電自己去修，fixing 表示正在進行的主動動作。",
+  "vocab": [
+   {
+    "w": "laptop",
+    "zh": "筆電",
+    "pos": "n."
+   },
+   {
+    "w": "repair shop",
+    "zh": "修理店",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0142",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "We finally got the school ____ recycling bins in every corridor this semester.",
+  "options": [
+   "install",
+   "to install",
+   "installing",
+   "installed"
+  ],
+  "answer": 1,
+  "explain_zh": "get somebody to V 表示「說服某人做某事」，後面接不定詞。install 原形只能用在 make／have 之後，其餘兩個形式也不符合 get 的句型。",
+  "vocab": [
+   {
+    "w": "bin",
+    "zh": "垃圾桶",
+    "pos": "n."
+   },
+   {
+    "w": "corridor",
+    "zh": "走廊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0143",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She had her younger brother ____ the poster on the classroom wall before lunch.",
+  "options": [
+   "puts",
+   "to put",
+   "put",
+   "putting"
+  ],
+  "answer": 2,
+  "explain_zh": "have＋人＋原形動詞，表示「請某人做某事」，所以用 put。to put 是 get 的句型，putting 和 puts 都不能接在 have＋人之後。",
+  "vocab": [
+   {
+    "w": "poster",
+    "zh": "海報",
+    "pos": "n."
+   },
+   {
+    "w": "wall",
+    "zh": "牆壁",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0144",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The loud construction noise outside made it impossible ____ on the reading passage.",
+  "options": [
+   "concentrating",
+   "concentrated",
+   "concentrate",
+   "to concentrate"
+  ],
+  "answer": 3,
+  "explain_zh": "make it＋形容詞＋to V 是常見句型，it 是虛受詞，真正的受詞是不定詞片語。原形、動名詞、過去分詞在這個句型中都不能使用。",
+  "vocab": [
+   {
+    "w": "construction",
+    "zh": "施工",
+    "pos": "n."
+   },
+   {
+    "w": "concentrate",
+    "zh": "專心",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0145",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Our English teacher had us ____ our essays aloud to a partner before handing them in.",
+  "options": [
+   "read",
+   "reading",
+   "reads",
+   "to read"
+  ],
+  "answer": 0,
+  "explain_zh": "have＋人＋原形動詞表示「要某人做某事」，所以用 read。to read 是 get 的用法，reading 和 reads 都不符合這個句型。",
+  "vocab": [
+   {
+    "w": "essay",
+    "zh": "文章",
+    "pos": "n."
+   },
+   {
+    "w": "aloud",
+    "zh": "出聲地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0146",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I need to get my eyes ____ before I order a new pair of glasses online.",
+  "options": [
+   "check",
+   "checked",
+   "to check",
+   "checking"
+  ],
+  "answer": 1,
+  "explain_zh": "get＋事物＋p.p. 表示「讓某物被…」，眼睛是被檢查的，所以用 checked。check 和 to check 會變成眼睛去檢查別人，checking 表主動進行。",
+  "vocab": [
+   {
+    "w": "glasses",
+    "zh": "眼鏡",
+    "pos": "n."
+   },
+   {
+    "w": "order",
+    "zh": "訂購",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0147",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Nothing his friends said could make him ____ his mind about the debate competition.",
+  "options": [
+   "changed",
+   "to change",
+   "change",
+   "changing"
+  ],
+  "answer": 2,
+  "explain_zh": "使役動詞 make 主動時接原形，所以是 make him change his mind。to change、changing、changed 都不能接在 make＋受詞之後。",
+  "vocab": [
+   {
+    "w": "mind",
+    "zh": "心意",
+    "pos": "n."
+   },
+   {
+    "w": "debate",
+    "zh": "辯論",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0148",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "This new study app helps students ____ their limited study time much more efficiently.",
+  "options": [
+   "managing",
+   "managed",
+   "to be managed",
+   "manage"
+  ],
+  "answer": 3,
+  "explain_zh": "help 後面可以接原形動詞或不定詞，所以用 manage。managing 和 managed 都不符合 help 的句型，to be managed 是被動，語意也不通。",
+  "vocab": [
+   {
+    "w": "manage",
+    "zh": "管理",
+    "pos": "v."
+   },
+   {
+    "w": "efficiently",
+    "zh": "有效率地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0149",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Let me ____ you a hand with those heavy boxes of donated books and clothes.",
+  "options": [
+   "give",
+   "giving",
+   "given",
+   "to give"
+  ],
+  "answer": 0,
+  "explain_zh": "let 是使役動詞，後面一定接原形動詞，所以是 let me give。to give、giving、given 都不能接在 let 之後。",
+  "vocab": [
+   {
+    "w": "donate",
+    "zh": "捐贈",
+    "pos": "v."
+   },
+   {
+    "w": "hand",
+    "zh": "幫忙",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG1-0150",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:causative",
+  "tag_zh": "使役動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She got all her classmates ____ the online questionnaire during yesterday's lunch break.",
+  "options": [
+   "complete",
+   "to complete",
+   "completing",
+   "completed"
+  ],
+  "answer": 1,
+  "explain_zh": "get＋人＋to V 表示「讓某人去做某事」，所以用 to complete。complete 原形是 make／have 的用法，其餘兩個形式也不符合 get 的句型。",
+  "vocab": [
+   {
+    "w": "questionnaire",
+    "zh": "問卷",
+    "pos": "n."
+   },
+   {
+    "w": "complete",
+    "zh": "填寫完成",
+    "pos": "v."
+   }
+  ]
+ }
+]

@@ -1,0 +1,3142 @@
+[
+ {
+  "id": "HC1-0001",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Ten years ago, few students imagined that a classroom could fit inside a laptop. Today millions of learners (1) online courses from home. The biggest advantage is flexibility: a student can pause a video, take notes and watch a difficult part again. (2), online learning demands strong self-discipline, because nobody reminds you to open the book. Many beginners sign up with great enthusiasm and then slowly (3) interest after a few weeks. Teachers therefore try to make lessons interactive. They ask questions, run small group chats and give short quizzes so that students stay (4). When a course is well designed, (5) can be just as effective as a lesson in a real classroom.",
+  "group_id": "HC1-G01",
+  "stem": "(1) 應填入：Today millions of learners ____ online courses from home.",
+  "options": [
+   "take",
+   "took",
+   "are taken",
+   "will take"
+  ],
+  "answer": 0,
+  "explain_zh": "句首 Today 表示現在的普遍事實，主詞是複數 learners，要用現在簡單式 take。took 是過去式，與 Today 矛盾；are taken 是被動，但學習者是「主動」修課；will take 指未來。記住 take a course「修課」。",
+  "vocab": [
+   {
+    "w": "flexibility",
+    "zh": "彈性",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0002",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Ten years ago, few students imagined that a classroom could fit inside a laptop. Today millions of learners (1) online courses from home. The biggest advantage is flexibility: a student can pause a video, take notes and watch a difficult part again. (2), online learning demands strong self-discipline, because nobody reminds you to open the book. Many beginners sign up with great enthusiasm and then slowly (3) interest after a few weeks. Teachers therefore try to make lessons interactive. They ask questions, run small group chats and give short quizzes so that students stay (4). When a course is well designed, (5) can be just as effective as a lesson in a real classroom.",
+  "group_id": "HC1-G01",
+  "stem": "(2) 應填入：____, online learning demands strong self-discipline, because nobody reminds you to open the book.",
+  "options": [
+   "Therefore",
+   "However",
+   "For example",
+   "In addition"
+  ],
+  "answer": 1,
+  "explain_zh": "前一句講線上學習的優點，這句講缺點，前後是「轉折」關係，要用 However。Therefore 表結果、For example 表舉例、In addition 表補充同方向的資訊，都接不上這個語意轉彎。",
+  "vocab": [
+   {
+    "w": "self-discipline",
+    "zh": "自律",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0003",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Ten years ago, few students imagined that a classroom could fit inside a laptop. Today millions of learners (1) online courses from home. The biggest advantage is flexibility: a student can pause a video, take notes and watch a difficult part again. (2), online learning demands strong self-discipline, because nobody reminds you to open the book. Many beginners sign up with great enthusiasm and then slowly (3) interest after a few weeks. Teachers therefore try to make lessons interactive. They ask questions, run small group chats and give short quizzes so that students stay (4). When a course is well designed, (5) can be just as effective as a lesson in a real classroom.",
+  "group_id": "HC1-G01",
+  "stem": "(3) 應填入：Many beginners sign up with great enthusiasm and then slowly ____ interest after a few weeks.",
+  "options": [
+   "lose",
+   "miss",
+   "leave",
+   "break"
+  ],
+  "answer": 0,
+  "explain_zh": "lose interest 是固定搭配，指「失去興趣」。miss 是錯過、leave 是離開、break 是打破，都不能和 interest 連用表達這個意思。可一起記 lose interest in something。",
+  "vocab": [
+   {
+    "w": "enthusiasm",
+    "zh": "熱情",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0004",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Ten years ago, few students imagined that a classroom could fit inside a laptop. Today millions of learners (1) online courses from home. The biggest advantage is flexibility: a student can pause a video, take notes and watch a difficult part again. (2), online learning demands strong self-discipline, because nobody reminds you to open the book. Many beginners sign up with great enthusiasm and then slowly (3) interest after a few weeks. Teachers therefore try to make lessons interactive. They ask questions, run small group chats and give short quizzes so that students stay (4). When a course is well designed, (5) can be just as effective as a lesson in a real classroom.",
+  "group_id": "HC1-G01",
+  "stem": "(4) 應填入：They ask questions, run small group chats and give short quizzes so that students stay ____.",
+  "options": [
+   "absent",
+   "engaged",
+   "silent",
+   "confused"
+  ],
+  "answer": 1,
+  "explain_zh": "老師提問、分組討論、小考的目的是讓學生「保持投入」，所以選 engaged。absent 是缺席、silent 是沉默、confused 是困惑，都和這些做法的目的相反。",
+  "vocab": [
+   {
+    "w": "engaged",
+    "zh": "投入的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0005",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Ten years ago, few students imagined that a classroom could fit inside a laptop. Today millions of learners (1) online courses from home. The biggest advantage is flexibility: a student can pause a video, take notes and watch a difficult part again. (2), online learning demands strong self-discipline, because nobody reminds you to open the book. Many beginners sign up with great enthusiasm and then slowly (3) interest after a few weeks. Teachers therefore try to make lessons interactive. They ask questions, run small group chats and give short quizzes so that students stay (4). When a course is well designed, (5) can be just as effective as a lesson in a real classroom.",
+  "group_id": "HC1-G01",
+  "stem": "(5) 應填入：When a course is well designed, ____ can be just as effective as a lesson in a real classroom.",
+  "options": [
+   "one",
+   "they",
+   "those",
+   "it"
+  ],
+  "answer": 3,
+  "explain_zh": "空格代替前面的單數名詞 a course，要用單數代名詞 it。they 和 those 是複數；one 指「另一個同類的東西」，不是指這門課本身。",
+  "vocab": [
+   {
+    "w": "effective",
+    "zh": "有效的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0006",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "When the pandemic began in 2020, thousands of companies suddenly (1) their staff to work from home. What started as an emergency has now become a normal way of working. Employees save almost two hours of commuting every day, (2) they can spend more time with their families. Managers, on the other hand, worry that teamwork suffers when nobody shares an office. Some workers also feel (3) and miss the small conversations of daily office life. They find it hard to (4) the line between work and private life. Most large firms therefore choose a hybrid model: three days in the office and two days at home. (5) arrangement seems to keep both sides reasonably happy.",
+  "group_id": "HC1-G02",
+  "stem": "(1) 應填入：When the pandemic began in 2020, thousands of companies suddenly ____ their staff to work from home.",
+  "options": [
+   "ask",
+   "asked",
+   "have asked",
+   "are asked"
+  ],
+  "answer": 1,
+  "explain_zh": "when 子句用了過去式 began，且有明確過去時間 in 2020，主句也要用過去式 asked。ask 是現在式、have asked 是現在完成式（不與明確過去時間連用）、are asked 是被動，但公司是主動要求員工。",
+  "vocab": [
+   {
+    "w": "pandemic",
+    "zh": "大流行疫情",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0007",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "When the pandemic began in 2020, thousands of companies suddenly (1) their staff to work from home. What started as an emergency has now become a normal way of working. Employees save almost two hours of commuting every day, (2) they can spend more time with their families. Managers, on the other hand, worry that teamwork suffers when nobody shares an office. Some workers also feel (3) and miss the small conversations of daily office life. They find it hard to (4) the line between work and private life. Most large firms therefore choose a hybrid model: three days in the office and two days at home. (5) arrangement seems to keep both sides reasonably happy.",
+  "group_id": "HC1-G02",
+  "stem": "(2) 應填入：Employees save almost two hours of commuting every day, ____ they can spend more time with their families.",
+  "options": [
+   "but",
+   "so",
+   "although",
+   "unless"
+  ],
+  "answer": 1,
+  "explain_zh": "省下通勤時間是「原因」，能多陪家人是「結果」，用表結果的 so。but 和 although 表轉折、unless 表條件，都與前後的因果關係不合。",
+  "vocab": [
+   {
+    "w": "commuting",
+    "zh": "通勤",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0008",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "When the pandemic began in 2020, thousands of companies suddenly (1) their staff to work from home. What started as an emergency has now become a normal way of working. Employees save almost two hours of commuting every day, (2) they can spend more time with their families. Managers, on the other hand, worry that teamwork suffers when nobody shares an office. Some workers also feel (3) and miss the small conversations of daily office life. They find it hard to (4) the line between work and private life. Most large firms therefore choose a hybrid model: three days in the office and two days at home. (5) arrangement seems to keep both sides reasonably happy.",
+  "group_id": "HC1-G02",
+  "stem": "(3) 應填入：Some workers also feel ____ and miss the small conversations of daily office life.",
+  "options": [
+   "crowded",
+   "isolated",
+   "promoted",
+   "generous"
+  ],
+  "answer": 1,
+  "explain_zh": "後半句說他們懷念辦公室裡的閒聊，可見是感到「孤立」，選 isolated。crowded 是擁擠、promoted 是升遷、generous 是慷慨，都無法解釋「懷念同事閒聊」的心情。",
+  "vocab": [
+   {
+    "w": "isolated",
+    "zh": "孤立的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0009",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "When the pandemic began in 2020, thousands of companies suddenly (1) their staff to work from home. What started as an emergency has now become a normal way of working. Employees save almost two hours of commuting every day, (2) they can spend more time with their families. Managers, on the other hand, worry that teamwork suffers when nobody shares an office. Some workers also feel (3) and miss the small conversations of daily office life. They find it hard to (4) the line between work and private life. Most large firms therefore choose a hybrid model: three days in the office and two days at home. (5) arrangement seems to keep both sides reasonably happy.",
+  "group_id": "HC1-G02",
+  "stem": "(4) 應填入：They find it hard to ____ the line between work and private life.",
+  "options": [
+   "take",
+   "pull",
+   "draw",
+   "put"
+  ],
+  "answer": 2,
+  "explain_zh": "draw the line between A and B 是固定用法，指「在兩者之間劃清界線」。pull、take、put 都不能和 the line between 搭配表達這個意思。",
+  "vocab": [
+   {
+    "w": "draw the line",
+    "zh": "劃清界線",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0010",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "When the pandemic began in 2020, thousands of companies suddenly (1) their staff to work from home. What started as an emergency has now become a normal way of working. Employees save almost two hours of commuting every day, (2) they can spend more time with their families. Managers, on the other hand, worry that teamwork suffers when nobody shares an office. Some workers also feel (3) and miss the small conversations of daily office life. They find it hard to (4) the line between work and private life. Most large firms therefore choose a hybrid model: three days in the office and two days at home. (5) arrangement seems to keep both sides reasonably happy.",
+  "group_id": "HC1-G02",
+  "stem": "(5) 應填入：____ arrangement seems to keep both sides reasonably happy.",
+  "options": [
+   "These",
+   "This",
+   "Their",
+   "It"
+  ],
+  "answer": 1,
+  "explain_zh": "空格後是單數名詞 arrangement，用來指前一句提到的混合辦公模式，要用單數指示詞 This。These 接複數名詞；Their 意思變成「他們的安排」，指涉不清；It 不能直接放在名詞前當限定詞。",
+  "vocab": [
+   {
+    "w": "arrangement",
+    "zh": "安排",
+    "pos": "n."
+   },
+   {
+    "w": "hybrid",
+    "zh": "混合的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0011",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Fifty years ago, wind turbines and solar panels were seen as expensive toys. Since then, the price of solar electricity (1) by more than eighty percent, and renewable power is now the cheapest choice in many regions. (2), the sun does not always shine and the wind does not always blow, so engineers must solve the problem of storage. Giant batteries can (3) extra energy during sunny afternoons and release it after sunset. This helps power companies (4) the demand of the evening peak. Several island nations already rely on renewable sources for almost all of their electricity. Their experience shows that clean power is no longer a dream; (5) is a practical choice that any government can make today.",
+  "group_id": "HC1-G03",
+  "stem": "(1) 應填入：Since then, the price of solar electricity ____ by more than eighty percent.",
+  "options": [
+   "has fallen",
+   "fell",
+   "falls",
+   "is falling"
+  ],
+  "answer": 0,
+  "explain_zh": "Since then 表示「從那時到現在」，要搭配現在完成式 has fallen。fell 是單純過去、falls 是現在習慣、is falling 是此刻正在進行，都無法表達「累積到現在」的變化。",
+  "vocab": [
+   {
+    "w": "renewable",
+    "zh": "可再生的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0012",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Fifty years ago, wind turbines and solar panels were seen as expensive toys. Since then, the price of solar electricity (1) by more than eighty percent, and renewable power is now the cheapest choice in many regions. (2), the sun does not always shine and the wind does not always blow, so engineers must solve the problem of storage. Giant batteries can (3) extra energy during sunny afternoons and release it after sunset. This helps power companies (4) the demand of the evening peak. Several island nations already rely on renewable sources for almost all of their electricity. Their experience shows that clean power is no longer a dream; (5) is a practical choice that any government can make today.",
+  "group_id": "HC1-G03",
+  "stem": "(2) 應填入：____, the sun does not always shine and the wind does not always blow.",
+  "options": [
+   "Therefore",
+   "Even so",
+   "Likewise",
+   "Meanwhile"
+  ],
+  "answer": 1,
+  "explain_zh": "前面說再生能源已經最便宜，這句提出「但太陽不一定出來」的但書，是讓步轉折，用 Even so（即使如此）。Therefore 表結果、Likewise 表同理、Meanwhile 表同時，語意都不通。",
+  "vocab": [
+   {
+    "w": "turbine",
+    "zh": "渦輪機",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0013",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Fifty years ago, wind turbines and solar panels were seen as expensive toys. Since then, the price of solar electricity (1) by more than eighty percent, and renewable power is now the cheapest choice in many regions. (2), the sun does not always shine and the wind does not always blow, so engineers must solve the problem of storage. Giant batteries can (3) extra energy during sunny afternoons and release it after sunset. This helps power companies (4) the demand of the evening peak. Several island nations already rely on renewable sources for almost all of their electricity. Their experience shows that clean power is no longer a dream; (5) is a practical choice that any government can make today.",
+  "group_id": "HC1-G03",
+  "stem": "(3) 應填入：Giant batteries can ____ extra energy during sunny afternoons and release it after sunset.",
+  "options": [
+   "waste",
+   "spend",
+   "store",
+   "borrow"
+  ],
+  "answer": 2,
+  "explain_zh": "後面有 release「釋放」，可知前面是「儲存」，選 store。spend 是花費金錢時間、waste 是浪費、borrow 是借入，都與「白天存、晚上放」的對比不合。",
+  "vocab": [
+   {
+    "w": "store",
+    "zh": "儲存",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0014",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Fifty years ago, wind turbines and solar panels were seen as expensive toys. Since then, the price of solar electricity (1) by more than eighty percent, and renewable power is now the cheapest choice in many regions. (2), the sun does not always shine and the wind does not always blow, so engineers must solve the problem of storage. Giant batteries can (3) extra energy during sunny afternoons and release it after sunset. This helps power companies (4) the demand of the evening peak. Several island nations already rely on renewable sources for almost all of their electricity. Their experience shows that clean power is no longer a dream; (5) is a practical choice that any government can make today.",
+  "group_id": "HC1-G03",
+  "stem": "(4) 應填入：This helps power companies ____ the demand of the evening peak.",
+  "options": [
+   "catch",
+   "reach",
+   "answer",
+   "meet"
+  ],
+  "answer": 3,
+  "explain_zh": "meet the demand 是固定搭配，指「滿足需求」。reach 是抵達、answer 是回答、catch 是抓住，都不能和 demand 連用表示滿足需求。",
+  "vocab": [
+   {
+    "w": "demand",
+    "zh": "需求",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0015",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Fifty years ago, wind turbines and solar panels were seen as expensive toys. Since then, the price of solar electricity (1) by more than eighty percent, and renewable power is now the cheapest choice in many regions. (2), the sun does not always shine and the wind does not always blow, so engineers must solve the problem of storage. Giant batteries can (3) extra energy during sunny afternoons and release it after sunset. This helps power companies (4) the demand of the evening peak. Several island nations already rely on renewable sources for almost all of their electricity. Their experience shows that clean power is no longer a dream; (5) is a practical choice that any government can make today.",
+  "group_id": "HC1-G03",
+  "stem": "(5) 應填入：Their experience shows that clean power is no longer a dream; ____ is a practical choice.",
+  "options": [
+   "one",
+   "they",
+   "those",
+   "it"
+  ],
+  "answer": 3,
+  "explain_zh": "空格代替前面不可數的 clean power，要用 it。they、those 都是複數；one 用來代替可數名詞，clean power 不可數，不能用 one。",
+  "vocab": [
+   {
+    "w": "practical",
+    "zh": "實際可行的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0016",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Every minute, a truckload of plastic (1) into the ocean. Much of this rubbish never disappears; it simply breaks into tiny pieces called microplastics. Fish swallow these pieces, and the plastic finally (2) our own dinner plates. Governments have started to act. In Taiwan, (3), shops must now charge customers for every plastic bag, and the number of bags used each year has dropped sharply. Yet bans alone are not enough. Companies need to design (4) packaging instead of containers that are used once and thrown away, and shoppers need to form the habit of (5) reusable cups and boxes with them.",
+  "group_id": "HC1-G04",
+  "stem": "(1) 應填入：Every minute, a truckload of plastic ____ into the ocean.",
+  "options": [
+   "dumping",
+   "dumps",
+   "is dumped",
+   "has dumped"
+  ],
+  "answer": 2,
+  "explain_zh": "塑膠是「被傾倒」進海裡，主詞是動作的接受者，要用被動語態 is dumped。dumps 和 has dumped 是主動、dumping 不能單獨當主要動詞。",
+  "vocab": [
+   {
+    "w": "dump",
+    "zh": "傾倒",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0017",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Every minute, a truckload of plastic (1) into the ocean. Much of this rubbish never disappears; it simply breaks into tiny pieces called microplastics. Fish swallow these pieces, and the plastic finally (2) our own dinner plates. Governments have started to act. In Taiwan, (3), shops must now charge customers for every plastic bag, and the number of bags used each year has dropped sharply. Yet bans alone are not enough. Companies need to design (4) packaging instead of containers that are used once and thrown away, and shoppers need to form the habit of (5) reusable cups and boxes with them.",
+  "group_id": "HC1-G04",
+  "stem": "(2) 應填入：Fish swallow these pieces, and the plastic finally ____ our own dinner plates.",
+  "options": [
+   "comes",
+   "arrives",
+   "gets",
+   "reaches"
+  ],
+  "answer": 3,
+  "explain_zh": "reach 是及物動詞，後面直接接地點，reaches our dinner plates 表示「來到我們的餐盤上」。arrive、get、come 都是不及物，必須加介系詞（arrive at、get to、come to）才能接受詞。",
+  "vocab": [
+   {
+    "w": "swallow",
+    "zh": "吞下",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0018",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Every minute, a truckload of plastic (1) into the ocean. Much of this rubbish never disappears; it simply breaks into tiny pieces called microplastics. Fish swallow these pieces, and the plastic finally (2) our own dinner plates. Governments have started to act. In Taiwan, (3), shops must now charge customers for every plastic bag, and the number of bags used each year has dropped sharply. Yet bans alone are not enough. Companies need to design (4) packaging instead of containers that are used once and thrown away, and shoppers need to form the habit of (5) reusable cups and boxes with them.",
+  "group_id": "HC1-G04",
+  "stem": "(3) 應填入：In Taiwan, ____, shops must now charge customers for every plastic bag.",
+  "options": [
+   "by contrast",
+   "for instance",
+   "in short",
+   "after all"
+  ],
+  "answer": 1,
+  "explain_zh": "前一句說各國政府開始行動，這句用台灣當例子，要用 for instance。by contrast 表對比、in short 表總結、after all 表補充理由，都不符合「舉例」的功能。",
+  "vocab": [
+   {
+    "w": "charge",
+    "zh": "收費",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0019",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Every minute, a truckload of plastic (1) into the ocean. Much of this rubbish never disappears; it simply breaks into tiny pieces called microplastics. Fish swallow these pieces, and the plastic finally (2) our own dinner plates. Governments have started to act. In Taiwan, (3), shops must now charge customers for every plastic bag, and the number of bags used each year has dropped sharply. Yet bans alone are not enough. Companies need to design (4) packaging instead of containers that are used once and thrown away, and shoppers need to form the habit of (5) reusable cups and boxes with them.",
+  "group_id": "HC1-G04",
+  "stem": "(4) 應填入：Companies need to design ____ packaging instead of containers that are used once and thrown away.",
+  "options": [
+   "fragile",
+   "disposable",
+   "recyclable",
+   "imported"
+  ],
+  "answer": 2,
+  "explain_zh": "instead of 後面是「用一次就丟」的容器，空格要與它相反，選 recyclable「可回收的」。disposable 正是「用完即丟」、fragile 是易碎、imported 是進口，都不是對比的重點。",
+  "vocab": [
+   {
+    "w": "recyclable",
+    "zh": "可回收的",
+    "pos": "adj."
+   },
+   {
+    "w": "packaging",
+    "zh": "包裝",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0020",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Every minute, a truckload of plastic (1) into the ocean. Much of this rubbish never disappears; it simply breaks into tiny pieces called microplastics. Fish swallow these pieces, and the plastic finally (2) our own dinner plates. Governments have started to act. In Taiwan, (3), shops must now charge customers for every plastic bag, and the number of bags used each year has dropped sharply. Yet bans alone are not enough. Companies need to design (4) packaging instead of containers that are used once and thrown away, and shoppers need to form the habit of (5) reusable cups and boxes with them.",
+  "group_id": "HC1-G04",
+  "stem": "(5) 應填入：Shoppers need to form the habit of ____ reusable cups and boxes with them.",
+  "options": [
+   "selling",
+   "throwing",
+   "carrying",
+   "wasting"
+  ],
+  "answer": 2,
+  "explain_zh": "with them 指「隨身帶著」，所以是 carrying。throwing 是丟、selling 是賣、wasting 是浪費，都與「自備環保杯盒」的習慣無關。",
+  "vocab": [
+   {
+    "w": "reusable",
+    "zh": "可重複使用的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0021",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Artificial intelligence has moved out of science fiction and into daily life. It recommends the songs we hear, translates web pages and even (1) doctors read X-ray images. Supporters argue that machines free people from boring, repetitive tasks. Critics, (2), point out that many jobs may disappear within a single decade. The truth probably lies somewhere in the middle. Over the past ten years, technology (3) far more jobs than it destroyed, but the new jobs usually require different skills. Schools must therefore (4) students for a world in which machines do the routine work. Computers can copy our answers, but (5) cannot copy our curiosity.",
+  "group_id": "HC1-G05",
+  "stem": "(1) 應填入：It recommends the songs we hear, translates web pages and even ____ doctors read X-ray images.",
+  "options": [
+   "supports",
+   "helps",
+   "assists",
+   "serves"
+  ],
+  "answer": 1,
+  "explain_zh": "help 後面可以直接接受詞再加原形動詞：help somebody do something。support、assist、serve 雖然意思接近，但不能用「受詞＋原形動詞」的句型（assist 要用 assist sb in doing）。",
+  "vocab": [
+   {
+    "w": "recommend",
+    "zh": "推薦",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0022",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Artificial intelligence has moved out of science fiction and into daily life. It recommends the songs we hear, translates web pages and even (1) doctors read X-ray images. Supporters argue that machines free people from boring, repetitive tasks. Critics, (2), point out that many jobs may disappear within a single decade. The truth probably lies somewhere in the middle. Over the past ten years, technology (3) far more jobs than it destroyed, but the new jobs usually require different skills. Schools must therefore (4) students for a world in which machines do the routine work. Computers can copy our answers, but (5) cannot copy our curiosity.",
+  "group_id": "HC1-G05",
+  "stem": "(2) 應填入：Critics, ____, point out that many jobs may disappear within a single decade.",
+  "options": [
+   "as a result",
+   "in other words",
+   "on the other hand",
+   "for example"
+  ],
+  "answer": 2,
+  "explain_zh": "前一句是支持者的看法，這句是批評者的相反看法，要用表對比的 on the other hand。in other words 是換句話說、as a result 表結果、for example 表舉例，都無法表示立場的對立。",
+  "vocab": [
+   {
+    "w": "critic",
+    "zh": "批評者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0023",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Artificial intelligence has moved out of science fiction and into daily life. It recommends the songs we hear, translates web pages and even (1) doctors read X-ray images. Supporters argue that machines free people from boring, repetitive tasks. Critics, (2), point out that many jobs may disappear within a single decade. The truth probably lies somewhere in the middle. Over the past ten years, technology (3) far more jobs than it destroyed, but the new jobs usually require different skills. Schools must therefore (4) students for a world in which machines do the routine work. Computers can copy our answers, but (5) cannot copy our curiosity.",
+  "group_id": "HC1-G05",
+  "stem": "(3) 應填入：Over the past ten years, technology ____ far more jobs than it destroyed.",
+  "options": [
+   "is creating",
+   "creates",
+   "had created",
+   "has created"
+  ],
+  "answer": 3,
+  "explain_zh": "Over the past ten years 表示從過去延續到現在的期間，要用現在完成式 has created。creates 是現在習慣、had created 需要另一個過去時間點當基準、is creating 只描述此刻。",
+  "vocab": [
+   {
+    "w": "destroy",
+    "zh": "摧毀",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0024",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Artificial intelligence has moved out of science fiction and into daily life. It recommends the songs we hear, translates web pages and even (1) doctors read X-ray images. Supporters argue that machines free people from boring, repetitive tasks. Critics, (2), point out that many jobs may disappear within a single decade. The truth probably lies somewhere in the middle. Over the past ten years, technology (3) far more jobs than it destroyed, but the new jobs usually require different skills. Schools must therefore (4) students for a world in which machines do the routine work. Computers can copy our answers, but (5) cannot copy our curiosity.",
+  "group_id": "HC1-G05",
+  "stem": "(4) 應填入：Schools must therefore ____ students for a world in which machines do the routine work.",
+  "options": [
+   "prevent",
+   "prepare",
+   "promise",
+   "persuade"
+  ],
+  "answer": 1,
+  "explain_zh": "prepare somebody for something 指「使某人為某事做好準備」，符合學校的角色。prevent 是阻止、promise 是承諾、persuade 是說服，都不能用 for 接「未來的世界」表達這個意思。",
+  "vocab": [
+   {
+    "w": "routine",
+    "zh": "例行的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0025",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Artificial intelligence has moved out of science fiction and into daily life. It recommends the songs we hear, translates web pages and even (1) doctors read X-ray images. Supporters argue that machines free people from boring, repetitive tasks. Critics, (2), point out that many jobs may disappear within a single decade. The truth probably lies somewhere in the middle. Over the past ten years, technology (3) far more jobs than it destroyed, but the new jobs usually require different skills. Schools must therefore (4) students for a world in which machines do the routine work. Computers can copy our answers, but (5) cannot copy our curiosity.",
+  "group_id": "HC1-G05",
+  "stem": "(5) 應填入：Computers can copy our answers, but ____ cannot copy our curiosity.",
+  "options": [
+   "them",
+   "it",
+   "they",
+   "we"
+  ],
+  "answer": 2,
+  "explain_zh": "空格是這個子句的主詞，代替複數名詞 computers，要用主格複數 they。it 是單數、them 是受格不能當主詞、we 指「我們」會使句意矛盾。",
+  "vocab": [
+   {
+    "w": "curiosity",
+    "zh": "好奇心",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0026",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Social media was invented to bring people closer together, and in many ways it has. A student in Taipei can practise English with a friend in Berlin for nothing. (1), researchers have also found a darker side. Teenagers who spend more than three hours a day on these apps are more likely to (2) from anxiety and poor sleep. One reason is comparison: users see only the happiest moments of other people's lives and feel that (3) own lives are dull. Another reason is design. Every app (4) by engineers to hold attention for as long as possible. Experts therefore suggest a simple rule: turn off (5) after nine o'clock and keep the phone in another room at night.",
+  "group_id": "HC1-G06",
+  "stem": "(1) 應填入：____, researchers have also found a darker side.",
+  "options": [
+   "Hence",
+   "So",
+   "Thus",
+   "Yet"
+  ],
+  "answer": 3,
+  "explain_zh": "前面講社群媒體的好處，這句轉到負面，用表轉折的 Yet。So、Thus、Hence 都表示結果，會讓「好處」變成「壞處的原因」，邏輯不通。",
+  "vocab": [
+   {
+    "w": "darker side",
+    "zh": "黑暗面",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0027",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Social media was invented to bring people closer together, and in many ways it has. A student in Taipei can practise English with a friend in Berlin for nothing. (1), researchers have also found a darker side. Teenagers who spend more than three hours a day on these apps are more likely to (2) from anxiety and poor sleep. One reason is comparison: users see only the happiest moments of other people's lives and feel that (3) own lives are dull. Another reason is design. Every app (4) by engineers to hold attention for as long as possible. Experts therefore suggest a simple rule: turn off (5) after nine o'clock and keep the phone in another room at night.",
+  "group_id": "HC1-G06",
+  "stem": "(2) 應填入：Teenagers who spend more than three hours a day on these apps are more likely to ____ from anxiety and poor sleep.",
+  "options": [
+   "hurt",
+   "catch",
+   "receive",
+   "suffer"
+  ],
+  "answer": 3,
+  "explain_zh": "suffer from 是固定搭配，指「受某種病痛或問題所苦」。catch 用於 catch a cold 這類「染上」，後面不接 from；receive 是收到；hurt 不與 from 連用表達此意。",
+  "vocab": [
+   {
+    "w": "anxiety",
+    "zh": "焦慮",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0028",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Social media was invented to bring people closer together, and in many ways it has. A student in Taipei can practise English with a friend in Berlin for nothing. (1), researchers have also found a darker side. Teenagers who spend more than three hours a day on these apps are more likely to (2) from anxiety and poor sleep. One reason is comparison: users see only the happiest moments of other people's lives and feel that (3) own lives are dull. Another reason is design. Every app (4) by engineers to hold attention for as long as possible. Experts therefore suggest a simple rule: turn off (5) after nine o'clock and keep the phone in another room at night.",
+  "group_id": "HC1-G06",
+  "stem": "(3) 應填入：Users see only the happiest moments of other people's lives and feel that ____ own lives are dull.",
+  "options": [
+   "their",
+   "them",
+   "they",
+   "theirs"
+  ],
+  "answer": 0,
+  "explain_zh": "own 前面必須放所有格，指的是 users 自己的生活，所以用 their own lives。them 是受格、they 是主格、theirs 是所有格代名詞，都不能直接修飾 own lives。",
+  "vocab": [
+   {
+    "w": "dull",
+    "zh": "乏味的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0029",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Social media was invented to bring people closer together, and in many ways it has. A student in Taipei can practise English with a friend in Berlin for nothing. (1), researchers have also found a darker side. Teenagers who spend more than three hours a day on these apps are more likely to (2) from anxiety and poor sleep. One reason is comparison: users see only the happiest moments of other people's lives and feel that (3) own lives are dull. Another reason is design. Every app (4) by engineers to hold attention for as long as possible. Experts therefore suggest a simple rule: turn off (5) after nine o'clock and keep the phone in another room at night.",
+  "group_id": "HC1-G06",
+  "stem": "(4) 應填入：Every app ____ by engineers to hold attention for as long as possible.",
+  "options": [
+   "is designed",
+   "designs",
+   "designed",
+   "is designing"
+  ],
+  "answer": 0,
+  "explain_zh": "有 by engineers，表示 app 是「被設計」的，要用被動式 is designed。designs 和 is designing 是主動；designed 單獨使用會變成過去式主動，語意相反。",
+  "vocab": [
+   {
+    "w": "attention",
+    "zh": "注意力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0030",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Social media was invented to bring people closer together, and in many ways it has. A student in Taipei can practise English with a friend in Berlin for nothing. (1), researchers have also found a darker side. Teenagers who spend more than three hours a day on these apps are more likely to (2) from anxiety and poor sleep. One reason is comparison: users see only the happiest moments of other people's lives and feel that (3) own lives are dull. Another reason is design. Every app (4) by engineers to hold attention for as long as possible. Experts therefore suggest a simple rule: turn off (5) after nine o'clock and keep the phone in another room at night.",
+  "group_id": "HC1-G06",
+  "stem": "(5) 應填入：Experts therefore suggest a simple rule: turn off ____ after nine o'clock.",
+  "options": [
+   "subscriptions",
+   "decorations",
+   "instructions",
+   "notifications"
+  ],
+  "answer": 3,
+  "explain_zh": "專家建議的是關掉手機「通知」，才不會被打擾，選 notifications。decorations 是裝飾、instructions 是說明、subscriptions 是訂閱，都不是干擾睡眠的主因。",
+  "vocab": [
+   {
+    "w": "notification",
+    "zh": "通知",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0031",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "City planners once treated parks as decoration. Today they (1) them as essential public health equipment. A large tree can cool the air around it by several degrees; (2), neighbourhoods with many trees suffer far less during a heatwave. Green spaces also give residents a place to walk, play and meet their neighbours. A ten-year British study found that people living within three hundred metres of a park reported better mental health, even after income (3) taken into account. Land in a city is expensive, of course, so planners now (4) rooftops, old railway lines and narrow alleys into small gardens. Every one of (5) little spaces makes the street a little more liveable.",
+  "group_id": "HC1-G07",
+  "stem": "(1) 應填入：Today they ____ them as essential public health equipment.",
+  "options": [
+   "remind",
+   "respect",
+   "regard",
+   "reflect"
+  ],
+  "answer": 2,
+  "explain_zh": "regard A as B 是「把 A 視為 B」，符合「把公園當成公共衛生設施」的語意。respect 是尊敬、remind 是提醒、reflect 是反映，都不能構成 as B 的「視為」句型。",
+  "vocab": [
+   {
+    "w": "regard",
+    "zh": "視為",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0032",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "City planners once treated parks as decoration. Today they (1) them as essential public health equipment. A large tree can cool the air around it by several degrees; (2), neighbourhoods with many trees suffer far less during a heatwave. Green spaces also give residents a place to walk, play and meet their neighbours. A ten-year British study found that people living within three hundred metres of a park reported better mental health, even after income (3) taken into account. Land in a city is expensive, of course, so planners now (4) rooftops, old railway lines and narrow alleys into small gardens. Every one of (5) little spaces makes the street a little more liveable.",
+  "group_id": "HC1-G07",
+  "stem": "(2) 應填入：A large tree can cool the air around it by several degrees; ____, neighbourhoods with many trees suffer far less during a heatwave.",
+  "options": [
+   "besides",
+   "otherwise",
+   "however",
+   "therefore"
+  ],
+  "answer": 3,
+  "explain_zh": "大樹能降溫是原因，樹多的社區比較不熱是結果，用表結果的 therefore。otherwise 表「否則」、however 表轉折、besides 表補充，都不符合因果。",
+  "vocab": [
+   {
+    "w": "heatwave",
+    "zh": "熱浪",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0033",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "City planners once treated parks as decoration. Today they (1) them as essential public health equipment. A large tree can cool the air around it by several degrees; (2), neighbourhoods with many trees suffer far less during a heatwave. Green spaces also give residents a place to walk, play and meet their neighbours. A ten-year British study found that people living within three hundred metres of a park reported better mental health, even after income (3) taken into account. Land in a city is expensive, of course, so planners now (4) rooftops, old railway lines and narrow alleys into small gardens. Every one of (5) little spaces makes the street a little more liveable.",
+  "group_id": "HC1-G07",
+  "stem": "(3) 應填入：People living within three hundred metres of a park reported better mental health, even after income ____ taken into account.",
+  "options": [
+   "was",
+   "has",
+   "had",
+   "were"
+  ],
+  "answer": 0,
+  "explain_zh": "take something into account 的被動是 be taken into account，主詞 income 不可數當單數，且主要子句用過去式 reported，所以用 was。were 單複數不符；has taken、had taken 是主動，語態錯誤。",
+  "vocab": [
+   {
+    "w": "take into account",
+    "zh": "納入考量",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0034",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "City planners once treated parks as decoration. Today they (1) them as essential public health equipment. A large tree can cool the air around it by several degrees; (2), neighbourhoods with many trees suffer far less during a heatwave. Green spaces also give residents a place to walk, play and meet their neighbours. A ten-year British study found that people living within three hundred metres of a park reported better mental health, even after income (3) taken into account. Land in a city is expensive, of course, so planners now (4) rooftops, old railway lines and narrow alleys into small gardens. Every one of (5) little spaces makes the street a little more liveable.",
+  "group_id": "HC1-G07",
+  "stem": "(4) 應填入：Planners now ____ rooftops, old railway lines and narrow alleys into small gardens.",
+  "options": [
+   "turn",
+   "build",
+   "grow",
+   "plant"
+  ],
+  "answer": 0,
+  "explain_zh": "turn A into B 是固定用法，指「把 A 改造成 B」。build、grow、plant 都不能用 into 表達這種「轉變成」的意思。",
+  "vocab": [
+   {
+    "w": "alley",
+    "zh": "巷弄",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0035",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "City planners once treated parks as decoration. Today they (1) them as essential public health equipment. A large tree can cool the air around it by several degrees; (2), neighbourhoods with many trees suffer far less during a heatwave. Green spaces also give residents a place to walk, play and meet their neighbours. A ten-year British study found that people living within three hundred metres of a park reported better mental health, even after income (3) taken into account. Land in a city is expensive, of course, so planners now (4) rooftops, old railway lines and narrow alleys into small gardens. Every one of (5) little spaces makes the street a little more liveable.",
+  "group_id": "HC1-G07",
+  "stem": "(5) 應填入：Every one of ____ little spaces makes the street a little more liveable.",
+  "options": [
+   "that",
+   "this",
+   "these",
+   "it"
+  ],
+  "answer": 2,
+  "explain_zh": "spaces 是複數，前面要用複數指示詞 these，指前一句提到的屋頂、舊鐵道與巷弄。this 和 that 接單數名詞；it 不能當限定詞修飾名詞。",
+  "vocab": [
+   {
+    "w": "liveable",
+    "zh": "宜居的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0036",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "A city with good public transport is quieter, cleaner and fairer. Buses and trains (1) far less energy per passenger than private cars, and they take up much less road space. Since the MRT opened, the number of car trips into central Taipei (2) noticeably. Fares matter, but they are not the whole story. Yet a network only works if people trust it, and trust is built on timetables that are actually kept. Passengers want services that are frequent, (3) and easy to understand. If a bus comes every five minutes, nobody needs a timetable; (4), if it comes once an hour, even a cheap ticket cannot (5) passengers to wait in the rain.",
+  "group_id": "HC1-G08",
+  "stem": "(1) 應填入：Buses and trains ____ far less energy per passenger than private cars.",
+  "options": [
+   "pay",
+   "spend",
+   "cost",
+   "use"
+  ],
+  "answer": 3,
+  "explain_zh": "energy 要和 use 搭配，use energy 是「消耗能源」。spend 和 pay 的受詞是金錢或時間、cost 的主詞是物品而受詞是價錢，都不能接 energy。",
+  "vocab": [
+   {
+    "w": "per passenger",
+    "zh": "每位乘客",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0037",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "A city with good public transport is quieter, cleaner and fairer. Buses and trains (1) far less energy per passenger than private cars, and they take up much less road space. Since the MRT opened, the number of car trips into central Taipei (2) noticeably. Fares matter, but they are not the whole story. Yet a network only works if people trust it, and trust is built on timetables that are actually kept. Passengers want services that are frequent, (3) and easy to understand. If a bus comes every five minutes, nobody needs a timetable; (4), if it comes once an hour, even a cheap ticket cannot (5) passengers to wait in the rain.",
+  "group_id": "HC1-G08",
+  "stem": "(2) 應填入：Since the MRT opened, the number of car trips into central Taipei ____ noticeably.",
+  "options": [
+   "was dropping",
+   "dropped",
+   "drops",
+   "has dropped"
+  ],
+  "answer": 3,
+  "explain_zh": "Since 引導的時間點延續到現在，主句要用現在完成式 has dropped。dropped 是單純過去、drops 是現在習慣、was dropping 是過去進行，都無法呼應 since。",
+  "vocab": [
+   {
+    "w": "noticeably",
+    "zh": "明顯地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0038",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "A city with good public transport is quieter, cleaner and fairer. Buses and trains (1) far less energy per passenger than private cars, and they take up much less road space. Since the MRT opened, the number of car trips into central Taipei (2) noticeably. Fares matter, but they are not the whole story. Yet a network only works if people trust it, and trust is built on timetables that are actually kept. Passengers want services that are frequent, (3) and easy to understand. If a bus comes every five minutes, nobody needs a timetable; (4), if it comes once an hour, even a cheap ticket cannot (5) passengers to wait in the rain.",
+  "group_id": "HC1-G08",
+  "stem": "(3) 應填入：Passengers want services that are frequent, ____ and easy to understand.",
+  "options": [
+   "expensive",
+   "crowded",
+   "reliable",
+   "rare"
+  ],
+  "answer": 2,
+  "explain_zh": "前面說乘客要能「信任」這套系統，所以要 reliable「可靠的」。crowded 擁擠、expensive 昂貴、rare 稀少，都是乘客不想要的特質。",
+  "vocab": [
+   {
+    "w": "reliable",
+    "zh": "可靠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0039",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "A city with good public transport is quieter, cleaner and fairer. Buses and trains (1) far less energy per passenger than private cars, and they take up much less road space. Since the MRT opened, the number of car trips into central Taipei (2) noticeably. Fares matter, but they are not the whole story. Yet a network only works if people trust it, and trust is built on timetables that are actually kept. Passengers want services that are frequent, (3) and easy to understand. If a bus comes every five minutes, nobody needs a timetable; (4), if it comes once an hour, even a cheap ticket cannot (5) passengers to wait in the rain.",
+  "group_id": "HC1-G08",
+  "stem": "(4) 應填入：If a bus comes every five minutes, nobody needs a timetable; ____, if it comes once an hour, even a cheap ticket cannot (5) passengers to wait in the rain.",
+  "options": [
+   "by contrast",
+   "in addition",
+   "as a result",
+   "for example"
+  ],
+  "answer": 0,
+  "explain_zh": "五分鐘一班和一小時一班是兩種相反的情況，要用表對比的 by contrast。in addition 是補充、as a result 是結果、for example 是舉例，都無法呈現這種對照。",
+  "vocab": [
+   {
+    "w": "timetable",
+    "zh": "時刻表",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0040",
+  "level": "H1",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "A city with good public transport is quieter, cleaner and fairer. Buses and trains (1) far less energy per passenger than private cars, and they take up much less road space. Since the MRT opened, the number of car trips into central Taipei (2) noticeably. Fares matter, but they are not the whole story. Yet a network only works if people trust it, and trust is built on timetables that are actually kept. Passengers want services that are frequent, (3) and easy to understand. If a bus comes every five minutes, nobody needs a timetable; (4), if it comes once an hour, even a cheap ticket cannot (5) passengers to wait in the rain.",
+  "group_id": "HC1-G08",
+  "stem": "(5) 應填入：Even a cheap ticket cannot ____ passengers to wait in the rain.",
+  "options": [
+   "persuade",
+   "prevent",
+   "promise",
+   "provide"
+  ],
+  "answer": 0,
+  "explain_zh": "便宜的票價無法「說服」乘客淋雨等車，用 persuade somebody to do。prevent 要用 prevent sb from doing、promise 與 provide 都不能接「受詞＋to 不定詞」表達說服。",
+  "vocab": [
+   {
+    "w": "persuade",
+    "zh": "說服",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0041",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Taiwanese students eat out far more often than their parents did at the same age. Convenience stores are open all night, and a hot meal (1) in ninety seconds. The problem is not speed but balance: ready-made food is usually high in salt, sugar and fat. Nutritionists say that the solution does not have to be complicated. Simply adding one bowl of vegetables to every meal can (2) a real difference. (3), drinking water instead of sugary tea saves hundreds of calories a week. Parents worry that healthy food is expensive, but seasonal vegetables are actually (4) than imported snacks. The hardest part is habit; once (5) is formed, a good diet costs almost no effort.",
+  "group_id": "HC1-G09",
+  "stem": "(1) 應填入：Convenience stores are open all night, and a hot meal ____ in ninety seconds.",
+  "options": [
+   "can heat",
+   "can be heated",
+   "is heating",
+   "has heated"
+  ],
+  "answer": 1,
+  "explain_zh": "熱食是「被加熱」的對象，要用被動 can be heated。can heat、is heating、has heated 都是主動語態，會變成「餐點自己加熱」。",
+  "vocab": [
+   {
+    "w": "convenience store",
+    "zh": "便利商店",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0042",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Taiwanese students eat out far more often than their parents did at the same age. Convenience stores are open all night, and a hot meal (1) in ninety seconds. The problem is not speed but balance: ready-made food is usually high in salt, sugar and fat. Nutritionists say that the solution does not have to be complicated. Simply adding one bowl of vegetables to every meal can (2) a real difference. (3), drinking water instead of sugary tea saves hundreds of calories a week. Parents worry that healthy food is expensive, but seasonal vegetables are actually (4) than imported snacks. The hardest part is habit; once (5) is formed, a good diet costs almost no effort.",
+  "group_id": "HC1-G09",
+  "stem": "(2) 應填入：Simply adding one bowl of vegetables to every meal can ____ a real difference.",
+  "options": [
+   "take",
+   "do",
+   "make",
+   "give"
+  ],
+  "answer": 2,
+  "explain_zh": "make a difference 是固定搭配，意思是「帶來改變、產生影響」。do、take、give 都不能和 a difference 連用。",
+  "vocab": [
+   {
+    "w": "make a difference",
+    "zh": "帶來改變",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0043",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Taiwanese students eat out far more often than their parents did at the same age. Convenience stores are open all night, and a hot meal (1) in ninety seconds. The problem is not speed but balance: ready-made food is usually high in salt, sugar and fat. Nutritionists say that the solution does not have to be complicated. Simply adding one bowl of vegetables to every meal can (2) a real difference. (3), drinking water instead of sugary tea saves hundreds of calories a week. Parents worry that healthy food is expensive, but seasonal vegetables are actually (4) than imported snacks. The hardest part is habit; once (5) is formed, a good diet costs almost no effort.",
+  "group_id": "HC1-G09",
+  "stem": "(3) 應填入：____, drinking water instead of sugary tea saves hundreds of calories a week.",
+  "options": [
+   "Instead",
+   "However",
+   "Otherwise",
+   "Similarly"
+  ],
+  "answer": 3,
+  "explain_zh": "前一句和這一句都是「簡單就能變健康」的例子，方向相同，用 Similarly。However 表轉折、Otherwise 表否則、Instead 表取代，都不符合並列舉例。",
+  "vocab": [
+   {
+    "w": "calorie",
+    "zh": "卡路里",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0044",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Taiwanese students eat out far more often than their parents did at the same age. Convenience stores are open all night, and a hot meal (1) in ninety seconds. The problem is not speed but balance: ready-made food is usually high in salt, sugar and fat. Nutritionists say that the solution does not have to be complicated. Simply adding one bowl of vegetables to every meal can (2) a real difference. (3), drinking water instead of sugary tea saves hundreds of calories a week. Parents worry that healthy food is expensive, but seasonal vegetables are actually (4) than imported snacks. The hardest part is habit; once (5) is formed, a good diet costs almost no effort.",
+  "group_id": "HC1-G09",
+  "stem": "(4) 應填入：Parents worry that healthy food is expensive, but seasonal vegetables are actually ____ than imported snacks.",
+  "options": [
+   "sweeter",
+   "dearer",
+   "cheaper",
+   "heavier"
+  ],
+  "answer": 2,
+  "explain_zh": "but 表示要推翻「健康食物很貴」的想法，所以當季蔬菜比進口零食更便宜，選 cheaper。dearer 是更貴，與 but 的轉折矛盾；sweeter、heavier 與價格無關。",
+  "vocab": [
+   {
+    "w": "seasonal",
+    "zh": "當季的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0045",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Taiwanese students eat out far more often than their parents did at the same age. Convenience stores are open all night, and a hot meal (1) in ninety seconds. The problem is not speed but balance: ready-made food is usually high in salt, sugar and fat. Nutritionists say that the solution does not have to be complicated. Simply adding one bowl of vegetables to every meal can (2) a real difference. (3), drinking water instead of sugary tea saves hundreds of calories a week. Parents worry that healthy food is expensive, but seasonal vegetables are actually (4) than imported snacks. The hardest part is habit; once (5) is formed, a good diet costs almost no effort.",
+  "group_id": "HC1-G09",
+  "stem": "(5) 應填入：The hardest part is habit; once ____ is formed, a good diet costs almost no effort.",
+  "options": [
+   "they",
+   "them",
+   "it",
+   "those"
+  ],
+  "answer": 2,
+  "explain_zh": "空格代替前面的單數名詞 habit，且是被動句的主詞，用 it。them 是受格不能當主詞；they、those 是複數，與 habit 不符。",
+  "vocab": [
+   {
+    "w": "habit",
+    "zh": "習慣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0046",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Most teenagers need between eight and nine hours of sleep, but surveys show that the average Taiwanese high school student gets barely six. Sleep is not wasted time. While we sleep, the brain sorts the information of the day and (1) it into long-term memory. Students who stay up all night before an exam usually remember less than classmates who went to bed early. (2), tired drivers react as slowly as drunk ones, so sleep loss is a safety problem too. The biggest enemy of sleep today is light: a bright screen tells the body that it is still daytime. Melatonin, the hormone that makes us sleepy, (3) only in darkness. Doctors therefore suggest a fixed bedtime and a cool, dark room. (4) two habits are worth more than any expensive mattress, and they (5) nothing at all.",
+  "group_id": "HC1-G10",
+  "stem": "(1) 應填入：While we sleep, the brain sorts the information of the day and ____ it into long-term memory.",
+  "options": [
+   "translates",
+   "transfers",
+   "transports",
+   "transforms"
+  ],
+  "answer": 1,
+  "explain_zh": "把資訊「轉存」到長期記憶，用 transfer into。translate 是翻譯、transport 多指運送貨物或人、transform 是徹底改變形態，都不符合記憶儲存的語意。",
+  "vocab": [
+   {
+    "w": "transfer",
+    "zh": "轉移",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0047",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Most teenagers need between eight and nine hours of sleep, but surveys show that the average Taiwanese high school student gets barely six. Sleep is not wasted time. While we sleep, the brain sorts the information of the day and (1) it into long-term memory. Students who stay up all night before an exam usually remember less than classmates who went to bed early. (2), tired drivers react as slowly as drunk ones, so sleep loss is a safety problem too. The biggest enemy of sleep today is light: a bright screen tells the body that it is still daytime. Melatonin, the hormone that makes us sleepy, (3) only in darkness. Doctors therefore suggest a fixed bedtime and a cool, dark room. (4) two habits are worth more than any expensive mattress, and they (5) nothing at all.",
+  "group_id": "HC1-G10",
+  "stem": "(2) 應填入：____, tired drivers react as slowly as drunk ones, so sleep loss is a safety problem too.",
+  "options": [
+   "Moreover",
+   "However",
+   "Instead",
+   "Otherwise"
+  ],
+  "answer": 0,
+  "explain_zh": "前一句講睡眠不足影響記憶，這句再加上「影響行車安全」，是同方向的補充，用 Moreover。However 表轉折、Instead 表取代、Otherwise 表否則，都不合。",
+  "vocab": [
+   {
+    "w": "react",
+    "zh": "反應",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0048",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Most teenagers need between eight and nine hours of sleep, but surveys show that the average Taiwanese high school student gets barely six. Sleep is not wasted time. While we sleep, the brain sorts the information of the day and (1) it into long-term memory. Students who stay up all night before an exam usually remember less than classmates who went to bed early. (2), tired drivers react as slowly as drunk ones, so sleep loss is a safety problem too. The biggest enemy of sleep today is light: a bright screen tells the body that it is still daytime. Melatonin, the hormone that makes us sleepy, (3) only in darkness. Doctors therefore suggest a fixed bedtime and a cool, dark room. (4) two habits are worth more than any expensive mattress, and they (5) nothing at all.",
+  "group_id": "HC1-G10",
+  "stem": "(3) 應填入：Melatonin, the hormone that makes us sleepy, ____ only in darkness.",
+  "options": [
+   "produces",
+   "is produced",
+   "is producing",
+   "has produced"
+  ],
+  "answer": 1,
+  "explain_zh": "褪黑激素是「被身體製造」出來的，要用被動 is produced。produces、is producing、has produced 都是主動，會變成褪黑激素自己製造別的東西。",
+  "vocab": [
+   {
+    "w": "hormone",
+    "zh": "荷爾蒙",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0049",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Most teenagers need between eight and nine hours of sleep, but surveys show that the average Taiwanese high school student gets barely six. Sleep is not wasted time. While we sleep, the brain sorts the information of the day and (1) it into long-term memory. Students who stay up all night before an exam usually remember less than classmates who went to bed early. (2), tired drivers react as slowly as drunk ones, so sleep loss is a safety problem too. The biggest enemy of sleep today is light: a bright screen tells the body that it is still daytime. Melatonin, the hormone that makes us sleepy, (3) only in darkness. Doctors therefore suggest a fixed bedtime and a cool, dark room. (4) two habits are worth more than any expensive mattress, and they (5) nothing at all.",
+  "group_id": "HC1-G10",
+  "stem": "(4) 應填入：Doctors therefore suggest a fixed bedtime and a cool, dark room. ____ two habits are worth more than any expensive mattress.",
+  "options": [
+   "Much",
+   "This",
+   "Any",
+   "These"
+  ],
+  "answer": 3,
+  "explain_zh": "空格指前一句提到的兩個做法，後面接複數名詞 two habits，要用 These。This 接單數；Any 語意不確定；Much 修飾不可數名詞。",
+  "vocab": [
+   {
+    "w": "mattress",
+    "zh": "床墊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0050",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Most teenagers need between eight and nine hours of sleep, but surveys show that the average Taiwanese high school student gets barely six. Sleep is not wasted time. While we sleep, the brain sorts the information of the day and (1) it into long-term memory. Students who stay up all night before an exam usually remember less than classmates who went to bed early. (2), tired drivers react as slowly as drunk ones, so sleep loss is a safety problem too. The biggest enemy of sleep today is light: a bright screen tells the body that it is still daytime. Melatonin, the hormone that makes us sleepy, (3) only in darkness. Doctors therefore suggest a fixed bedtime and a cool, dark room. (4) two habits are worth more than any expensive mattress, and they (5) nothing at all.",
+  "group_id": "HC1-G10",
+  "stem": "(5) 應填入：(4) two habits are worth more than any expensive mattress, and they ____ nothing at all.",
+  "options": [
+   "spend",
+   "cost",
+   "pay",
+   "charge"
+  ],
+  "answer": 1,
+  "explain_zh": "主詞是習慣（東西），要用 cost 表示「花費、要價」，cost nothing 就是「完全不花錢」。spend 和 pay 的主詞必須是人；charge 是向別人收費。",
+  "vocab": [
+   {
+    "w": "cost",
+    "zh": "花費",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0051",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Every summer, thousands of Taiwanese students (1) part in volunteer programmes. They teach English in rural villages, clean up beaches, or keep elderly neighbours company. Volunteers often say that they receive more than they give. Working with strangers (2) patience, and explaining a maths problem to a child shows you whether you really understand it yourself. Universities have noticed this. Many now ask applicants what they have learned from service, (3) how many hours they completed. Critics warn that a two-week visit cannot solve a village's problems, and (4) is fair. Real change needs local people and long-term support. Still, a student who (5) a whole summer in a mountain village rarely forgets the experience.",
+  "group_id": "HC1-G11",
+  "stem": "(1) 應填入：Every summer, thousands of Taiwanese students ____ part in volunteer programmes.",
+  "options": [
+   "take",
+   "join",
+   "make",
+   "do"
+  ],
+  "answer": 0,
+  "explain_zh": "take part in 是固定片語，意思是「參加」。join 後面直接接團體，不能說 join part in；make part、do part 都不是英文用法。",
+  "vocab": [
+   {
+    "w": "take part in",
+    "zh": "參加",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0052",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Every summer, thousands of Taiwanese students (1) part in volunteer programmes. They teach English in rural villages, clean up beaches, or keep elderly neighbours company. Volunteers often say that they receive more than they give. Working with strangers (2) patience, and explaining a maths problem to a child shows you whether you really understand it yourself. Universities have noticed this. Many now ask applicants what they have learned from service, (3) how many hours they completed. Critics warn that a two-week visit cannot solve a village's problems, and (4) is fair. Real change needs local people and long-term support. Still, a student who (5) a whole summer in a mountain village rarely forgets the experience.",
+  "group_id": "HC1-G11",
+  "stem": "(2) 應填入：Working with strangers ____ patience, and explaining a maths problem to a child shows you whether you really understand it yourself.",
+  "options": [
+   "requires",
+   "deserves",
+   "refuses",
+   "reminds"
+  ],
+  "answer": 0,
+  "explain_zh": "和陌生人合作「需要」耐心，用 requires。deserves 是值得、refuses 是拒絕、reminds 是提醒（且要接人），都不符合語意。",
+  "vocab": [
+   {
+    "w": "patience",
+    "zh": "耐心",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0053",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Every summer, thousands of Taiwanese students (1) part in volunteer programmes. They teach English in rural villages, clean up beaches, or keep elderly neighbours company. Volunteers often say that they receive more than they give. Working with strangers (2) patience, and explaining a maths problem to a child shows you whether you really understand it yourself. Universities have noticed this. Many now ask applicants what they have learned from service, (3) how many hours they completed. Critics warn that a two-week visit cannot solve a village's problems, and (4) is fair. Real change needs local people and long-term support. Still, a student who (5) a whole summer in a mountain village rarely forgets the experience.",
+  "group_id": "HC1-G11",
+  "stem": "(3) 應填入：Many now ask applicants what they have learned from service, ____ how many hours they completed.",
+  "options": [
+   "as well as",
+   "rather than",
+   "because of",
+   "thanks to"
+  ],
+  "answer": 1,
+  "explain_zh": "大學問的是「學到什麼」而不是「做了幾小時」，兩者是取代關係，用 rather than。as well as 表兩者都要、because of 與 thanks to 表原因，語意都不對。",
+  "vocab": [
+   {
+    "w": "applicant",
+    "zh": "申請人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0054",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Every summer, thousands of Taiwanese students (1) part in volunteer programmes. They teach English in rural villages, clean up beaches, or keep elderly neighbours company. Volunteers often say that they receive more than they give. Working with strangers (2) patience, and explaining a maths problem to a child shows you whether you really understand it yourself. Universities have noticed this. Many now ask applicants what they have learned from service, (3) how many hours they completed. Critics warn that a two-week visit cannot solve a village's problems, and (4) is fair. Real change needs local people and long-term support. Still, a student who (5) a whole summer in a mountain village rarely forgets the experience.",
+  "group_id": "HC1-G11",
+  "stem": "(4) 應填入：Critics warn that a two-week visit cannot solve a village's problems, and ____ is fair.",
+  "options": [
+   "it",
+   "that",
+   "there",
+   "one"
+  ],
+  "answer": 1,
+  "explain_zh": "空格代替前面「批評者的整段說法」，用 that 當主詞表示「這種說法」。it 在此缺少明確指涉且易誤解為虛主詞；there 用於 there is 句型；one 只能代替可數名詞。",
+  "vocab": [
+   {
+    "w": "fair",
+    "zh": "公允的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0055",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Every summer, thousands of Taiwanese students (1) part in volunteer programmes. They teach English in rural villages, clean up beaches, or keep elderly neighbours company. Volunteers often say that they receive more than they give. Working with strangers (2) patience, and explaining a maths problem to a child shows you whether you really understand it yourself. Universities have noticed this. Many now ask applicants what they have learned from service, (3) how many hours they completed. Critics warn that a two-week visit cannot solve a village's problems, and (4) is fair. Real change needs local people and long-term support. Still, a student who (5) a whole summer in a mountain village rarely forgets the experience.",
+  "group_id": "HC1-G11",
+  "stem": "(5) 應填入：Still, a student who ____ a whole summer in a mountain village rarely forgets the experience.",
+  "options": [
+   "has spent",
+   "spends",
+   "had spent",
+   "is spending"
+  ],
+  "answer": 0,
+  "explain_zh": "主要動詞 forgets 是現在式，關係子句要表達「曾經度過而影響到現在」，用現在完成式 has spent。spends 變成習慣性動作、had spent 需要過去基準點、is spending 指此刻進行。",
+  "vocab": [
+   {
+    "w": "experience",
+    "zh": "經驗",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0056",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "When an old street is knocked down, something more than bricks disappears. Temples, markets and wooden houses carry the memory of a whole community. In Taiwan, several old towns (1) carefully restored in the past twenty years, and visitors now come from all over Asia to see them. Preservation is not only about buildings. Languages are (2) too: UNESCO estimates that one language dies every two weeks, and with it go songs, jokes and ways of thinking that cannot be translated. Critics argue that protecting the past is expensive and slows development. (3), a city without history soon looks like every other city. The challenge is to (4) a balance between growth and memory, so that a town can change without losing its (5).",
+  "group_id": "HC1-G12",
+  "stem": "(1) 應填入：In Taiwan, several old towns ____ carefully restored in the past twenty years.",
+  "options": [
+   "have been",
+   "were",
+   "are",
+   "had been"
+  ],
+  "answer": 0,
+  "explain_zh": "in the past twenty years 表示從過去到現在的期間，且老街是「被修復」，要用現在完成被動 have been restored。were restored 是單純過去、are restored 是現在、had been 需要過去基準點。",
+  "vocab": [
+   {
+    "w": "restore",
+    "zh": "修復",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0057",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "When an old street is knocked down, something more than bricks disappears. Temples, markets and wooden houses carry the memory of a whole community. In Taiwan, several old towns (1) carefully restored in the past twenty years, and visitors now come from all over Asia to see them. Preservation is not only about buildings. Languages are (2) too: UNESCO estimates that one language dies every two weeks, and with it go songs, jokes and ways of thinking that cannot be translated. Critics argue that protecting the past is expensive and slows development. (3), a city without history soon looks like every other city. The challenge is to (4) a balance between growth and memory, so that a town can change without losing its (5).",
+  "group_id": "HC1-G12",
+  "stem": "(2) 應填入：Preservation is not only about buildings. Languages are ____ too.",
+  "options": [
+   "vanishing",
+   "spreading",
+   "improving",
+   "increasing"
+  ],
+  "answer": 0,
+  "explain_zh": "後面說每兩週就有一種語言消失，可知語言正在「消失」，選 vanishing。spreading 是擴散、improving 是改善、increasing 是增加，都與後文矛盾。",
+  "vocab": [
+   {
+    "w": "vanish",
+    "zh": "消失",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0058",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "When an old street is knocked down, something more than bricks disappears. Temples, markets and wooden houses carry the memory of a whole community. In Taiwan, several old towns (1) carefully restored in the past twenty years, and visitors now come from all over Asia to see them. Preservation is not only about buildings. Languages are (2) too: UNESCO estimates that one language dies every two weeks, and with it go songs, jokes and ways of thinking that cannot be translated. Critics argue that protecting the past is expensive and slows development. (3), a city without history soon looks like every other city. The challenge is to (4) a balance between growth and memory, so that a town can change without losing its (5).",
+  "group_id": "HC1-G12",
+  "stem": "(3) 應填入：Critics argue that protecting the past is expensive and slows development. ____, a city without history soon looks like every other city.",
+  "options": [
+   "Nevertheless",
+   "Therefore",
+   "Besides",
+   "Finally"
+  ],
+  "answer": 0,
+  "explain_zh": "前一句是反對保存的理由，這句提出相反的看法，要用表讓步轉折的 Nevertheless。Therefore 表結果、Besides 表補充、Finally 表最後，都無法表達立場反轉。",
+  "vocab": [
+   {
+    "w": "preservation",
+    "zh": "保存",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0059",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "When an old street is knocked down, something more than bricks disappears. Temples, markets and wooden houses carry the memory of a whole community. In Taiwan, several old towns (1) carefully restored in the past twenty years, and visitors now come from all over Asia to see them. Preservation is not only about buildings. Languages are (2) too: UNESCO estimates that one language dies every two weeks, and with it go songs, jokes and ways of thinking that cannot be translated. Critics argue that protecting the past is expensive and slows development. (3), a city without history soon looks like every other city. The challenge is to (4) a balance between growth and memory, so that a town can change without losing its (5).",
+  "group_id": "HC1-G12",
+  "stem": "(4) 應填入：The challenge is to ____ a balance between growth and memory.",
+  "options": [
+   "beat",
+   "hit",
+   "strike",
+   "knock"
+  ],
+  "answer": 2,
+  "explain_zh": "strike a balance between A and B 是固定搭配，指「在兩者之間取得平衡」。hit、beat、knock 雖然也有「打」的意思，但不能和 a balance 連用。",
+  "vocab": [
+   {
+    "w": "strike a balance",
+    "zh": "取得平衡",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0060",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "When an old street is knocked down, something more than bricks disappears. Temples, markets and wooden houses carry the memory of a whole community. In Taiwan, several old towns (1) carefully restored in the past twenty years, and visitors now come from all over Asia to see them. Preservation is not only about buildings. Languages are (2) too: UNESCO estimates that one language dies every two weeks, and with it go songs, jokes and ways of thinking that cannot be translated. Critics argue that protecting the past is expensive and slows development. (3), a city without history soon looks like every other city. The challenge is to (4) a balance between growth and memory, so that a town can change without losing its (5).",
+  "group_id": "HC1-G12",
+  "stem": "(5) 應填入：A town can change without losing its ____.",
+  "options": [
+   "distance",
+   "entrance",
+   "identity",
+   "quantity"
+  ],
+  "answer": 2,
+  "explain_zh": "全文談的是保存文化與記憶，所以是不失去「自我特色」，選 identity。entrance 是入口、distance 是距離、quantity 是數量，都與文化保存無關。",
+  "vocab": [
+   {
+    "w": "identity",
+    "zh": "認同、特色",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0061",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Tourism can be a blessing and a burden at the same time. In a small mountain town, one new hotel may (1) fifty jobs and keep young people from moving away. Yet when visitor numbers rise too quickly, rents rise with them, and local families are gradually (2) out of the streets where they grew up. Venice and Kyoto have already introduced entry fees and limits on tour groups. (3) such measures sound unfriendly, they are designed to protect the very thing that visitors come to see. Responsible travel also depends on tourists themselves. Someone who stays three nights instead of three hours spends more money locally and leaves a smaller footprint each day. (4) is the kind of tourism that mountain towns now hope to (5).",
+  "group_id": "HC1-G13",
+  "stem": "(1) 應填入：In a small mountain town, one new hotel may ____ fifty jobs and keep young people from moving away.",
+  "options": [
+   "raise",
+   "build",
+   "open",
+   "create"
+  ],
+  "answer": 3,
+  "explain_zh": "create jobs 是固定搭配，指「創造工作機會」。build 用於蓋建築、open 用於開門或開店、raise 用於提高數量或籌措資金，都不能接 jobs 表示創造就業。",
+  "vocab": [
+   {
+    "w": "burden",
+    "zh": "負擔",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0062",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Tourism can be a blessing and a burden at the same time. In a small mountain town, one new hotel may (1) fifty jobs and keep young people from moving away. Yet when visitor numbers rise too quickly, rents rise with them, and local families are gradually (2) out of the streets where they grew up. Venice and Kyoto have already introduced entry fees and limits on tour groups. (3) such measures sound unfriendly, they are designed to protect the very thing that visitors come to see. Responsible travel also depends on tourists themselves. Someone who stays three nights instead of three hours spends more money locally and leaves a smaller footprint each day. (4) is the kind of tourism that mountain towns now hope to (5).",
+  "group_id": "HC1-G13",
+  "stem": "(2) 應填入：When visitor numbers rise too quickly, rents rise with them, and local families are gradually ____ out of the streets where they grew up.",
+  "options": [
+   "to push",
+   "pushing",
+   "push",
+   "pushed"
+  ],
+  "answer": 3,
+  "explain_zh": "當地家庭是被房租「擠出」原本的街區，are 後面要接過去分詞形成被動 are pushed。pushing 是主動進行、push 與 to push 都無法與 are 構成正確的被動語態。",
+  "vocab": [
+   {
+    "w": "rent",
+    "zh": "租金",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0063",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Tourism can be a blessing and a burden at the same time. In a small mountain town, one new hotel may (1) fifty jobs and keep young people from moving away. Yet when visitor numbers rise too quickly, rents rise with them, and local families are gradually (2) out of the streets where they grew up. Venice and Kyoto have already introduced entry fees and limits on tour groups. (3) such measures sound unfriendly, they are designed to protect the very thing that visitors come to see. Responsible travel also depends on tourists themselves. Someone who stays three nights instead of three hours spends more money locally and leaves a smaller footprint each day. (4) is the kind of tourism that mountain towns now hope to (5).",
+  "group_id": "HC1-G13",
+  "stem": "(3) 應填入：____ such measures sound unfriendly, they are designed to protect the very thing that visitors come to see.",
+  "options": [
+   "Although",
+   "Because",
+   "Unless",
+   "Since"
+  ],
+  "answer": 0,
+  "explain_zh": "「聽起來不友善」和「其實是為了保護」是讓步關係，用 Although。Because 和 Since 表原因、Unless 表條件，都會使前後邏輯顛倒。",
+  "vocab": [
+   {
+    "w": "measure",
+    "zh": "措施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0064",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Tourism can be a blessing and a burden at the same time. In a small mountain town, one new hotel may (1) fifty jobs and keep young people from moving away. Yet when visitor numbers rise too quickly, rents rise with them, and local families are gradually (2) out of the streets where they grew up. Venice and Kyoto have already introduced entry fees and limits on tour groups. (3) such measures sound unfriendly, they are designed to protect the very thing that visitors come to see. Responsible travel also depends on tourists themselves. Someone who stays three nights instead of three hours spends more money locally and leaves a smaller footprint each day. (4) is the kind of tourism that mountain towns now hope to (5).",
+  "group_id": "HC1-G13",
+  "stem": "(4) 應填入：____ is the kind of tourism that mountain towns now hope to (5).",
+  "options": [
+   "Each",
+   "There",
+   "What",
+   "This"
+  ],
+  "answer": 3,
+  "explain_zh": "空格代替前一句描述的「住三晚、消費在地」的旅遊方式，用 This 當主詞。There 用於 there is 句型、What 會使句子缺少完整意思、Each 需要指明範圍。",
+  "vocab": [
+   {
+    "w": "responsible travel",
+    "zh": "負責任的旅遊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0065",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Tourism can be a blessing and a burden at the same time. In a small mountain town, one new hotel may (1) fifty jobs and keep young people from moving away. Yet when visitor numbers rise too quickly, rents rise with them, and local families are gradually (2) out of the streets where they grew up. Venice and Kyoto have already introduced entry fees and limits on tour groups. (3) such measures sound unfriendly, they are designed to protect the very thing that visitors come to see. Responsible travel also depends on tourists themselves. Someone who stays three nights instead of three hours spends more money locally and leaves a smaller footprint each day. (4) is the kind of tourism that mountain towns now hope to (5).",
+  "group_id": "HC1-G13",
+  "stem": "(5) 應填入：(4) is the kind of tourism that mountain towns now hope to ____.",
+  "options": [
+   "discourage",
+   "encourage",
+   "postpone",
+   "replace"
+  ],
+  "answer": 1,
+  "explain_zh": "前文說這種旅遊對小鎮有益，所以小鎮希望「鼓勵」它，選 encourage。discourage 是勸阻、postpone 是延後、replace 是取代，都與文意相反。",
+  "vocab": [
+   {
+    "w": "encourage",
+    "zh": "鼓勵",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0066",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Thirty years ago, reading a human genome cost nearly three billion dollars; today it (1) less than a thousand. This fall in price has opened doors that were once firmly locked. Doctors can match a cancer treatment to a patient's own genes, and farmers can grow rice that survives salty water. (2), the same technology raises questions that science alone cannot answer. If parents are able to choose their child's height or eye colour, should they be allowed to? Most governments have decided to (3) strict limits on research of that kind. Public trust matters as much as laboratory skill; without (4), even a safe technology will be rejected. Scientists therefore need to explain their work in language that ordinary citizens can (5).",
+  "group_id": "HC1-G14",
+  "stem": "(1) 應填入：Thirty years ago, reading a human genome cost nearly three billion dollars; today it ____ less than a thousand.",
+  "options": [
+   "costs",
+   "cost",
+   "is costing",
+   "has cost"
+  ],
+  "answer": 0,
+  "explain_zh": "分號前用 Thirty years ago 搭配過去式，分號後的 today 表示現在的事實，主詞 it 是第三人稱單數，要用 costs。cost 在此會被讀成過去式、is costing 指此刻短暫狀態、has cost 強調累積花費。",
+  "vocab": [
+   {
+    "w": "genome",
+    "zh": "基因體",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0067",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Thirty years ago, reading a human genome cost nearly three billion dollars; today it (1) less than a thousand. This fall in price has opened doors that were once firmly locked. Doctors can match a cancer treatment to a patient's own genes, and farmers can grow rice that survives salty water. (2), the same technology raises questions that science alone cannot answer. If parents are able to choose their child's height or eye colour, should they be allowed to? Most governments have decided to (3) strict limits on research of that kind. Public trust matters as much as laboratory skill; without (4), even a safe technology will be rejected. Scientists therefore need to explain their work in language that ordinary citizens can (5).",
+  "group_id": "HC1-G14",
+  "stem": "(2) 應填入：____, the same technology raises questions that science alone cannot answer.",
+  "options": [
+   "In the same way",
+   "At the same time",
+   "For this reason",
+   "In short"
+  ],
+  "answer": 1,
+  "explain_zh": "前面講基因技術的好處，這句同時指出它帶來的難題，用 At the same time 表示「另一方面、同時也」。In the same way 表同理、For this reason 表結果、In short 表總結，都無法帶出對立面。",
+  "vocab": [
+   {
+    "w": "raise a question",
+    "zh": "引發問題",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0068",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Thirty years ago, reading a human genome cost nearly three billion dollars; today it (1) less than a thousand. This fall in price has opened doors that were once firmly locked. Doctors can match a cancer treatment to a patient's own genes, and farmers can grow rice that survives salty water. (2), the same technology raises questions that science alone cannot answer. If parents are able to choose their child's height or eye colour, should they be allowed to? Most governments have decided to (3) strict limits on research of that kind. Public trust matters as much as laboratory skill; without (4), even a safe technology will be rejected. Scientists therefore need to explain their work in language that ordinary citizens can (5).",
+  "group_id": "HC1-G14",
+  "stem": "(3) 應填入：Most governments have decided to ____ strict limits on research of that kind.",
+  "options": [
+   "force",
+   "impose",
+   "press",
+   "oblige"
+  ],
+  "answer": 1,
+  "explain_zh": "impose limits on something 是固定搭配，指「對某事加以限制」。force、press、oblige 的受詞通常是人，不能接 limits on。",
+  "vocab": [
+   {
+    "w": "impose",
+    "zh": "加諸、施行",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0069",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Thirty years ago, reading a human genome cost nearly three billion dollars; today it (1) less than a thousand. This fall in price has opened doors that were once firmly locked. Doctors can match a cancer treatment to a patient's own genes, and farmers can grow rice that survives salty water. (2), the same technology raises questions that science alone cannot answer. If parents are able to choose their child's height or eye colour, should they be allowed to? Most governments have decided to (3) strict limits on research of that kind. Public trust matters as much as laboratory skill; without (4), even a safe technology will be rejected. Scientists therefore need to explain their work in language that ordinary citizens can (5).",
+  "group_id": "HC1-G14",
+  "stem": "(4) 應填入：Public trust matters as much as laboratory skill; without ____, even a safe technology will be rejected.",
+  "options": [
+   "those",
+   "them",
+   "they",
+   "it"
+  ],
+  "answer": 3,
+  "explain_zh": "空格代替前面不可數的 public trust，介系詞 without 後要用受格單數 it。them、those 是複數；they 是主格，不能放在介系詞後。",
+  "vocab": [
+   {
+    "w": "laboratory",
+    "zh": "實驗室",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0070",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Thirty years ago, reading a human genome cost nearly three billion dollars; today it (1) less than a thousand. This fall in price has opened doors that were once firmly locked. Doctors can match a cancer treatment to a patient's own genes, and farmers can grow rice that survives salty water. (2), the same technology raises questions that science alone cannot answer. If parents are able to choose their child's height or eye colour, should they be allowed to? Most governments have decided to (3) strict limits on research of that kind. Public trust matters as much as laboratory skill; without (4), even a safe technology will be rejected. Scientists therefore need to explain their work in language that ordinary citizens can (5).",
+  "group_id": "HC1-G14",
+  "stem": "(5) 應填入：Scientists therefore need to explain their work in language that ordinary citizens can ____.",
+  "options": [
+   "obey",
+   "follow",
+   "listen",
+   "realize"
+  ],
+  "answer": 1,
+  "explain_zh": "follow 在這裡指「聽懂、跟得上」說明，符合語意。obey 是服從命令、listen 必須加 to、realize 指意識到某件事，都不能用來說「聽懂語言」。",
+  "vocab": [
+   {
+    "w": "ordinary",
+    "zh": "一般的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0071",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Taiwan receives more than two thousand millimetres of rain a year, yet it is listed among the world's water-poor regions. The reason is geography: the island is steep and narrow, so most rainwater (1) into the sea within hours. During the drought of 2021, factories in Hsinchu (2) to buy water from tankers, and farmers in Taichung left their fields empty. (3), households were asked to shorten their showers. Every family can (4) a part: a shower two minutes shorter saves about thirty litres a day. Engineers add that the island's old pipes leak roughly one litre in every six, so repairing (5) would save more water than any new dam.",
+  "group_id": "HC1-G15",
+  "stem": "(1) 應填入：The island is steep and narrow, so most rainwater ____ into the sea within hours.",
+  "options": [
+   "floats",
+   "dries",
+   "drains",
+   "freezes"
+  ],
+  "answer": 2,
+  "explain_zh": "地勢陡峭狹窄，雨水很快「流入」大海，drain into 正是排流入某處。dry 是變乾、float 是漂浮、freeze 是結冰，都無法解釋水留不住的原因。",
+  "vocab": [
+   {
+    "w": "drain",
+    "zh": "排流",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0072",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Taiwan receives more than two thousand millimetres of rain a year, yet it is listed among the world's water-poor regions. The reason is geography: the island is steep and narrow, so most rainwater (1) into the sea within hours. During the drought of 2021, factories in Hsinchu (2) to buy water from tankers, and farmers in Taichung left their fields empty. (3), households were asked to shorten their showers. Every family can (4) a part: a shower two minutes shorter saves about thirty litres a day. Engineers add that the island's old pipes leak roughly one litre in every six, so repairing (5) would save more water than any new dam.",
+  "group_id": "HC1-G15",
+  "stem": "(2) 應填入：During the drought of 2021, factories in Hsinchu ____ to buy water from tankers.",
+  "options": [
+   "have forced",
+   "forced",
+   "were forced",
+   "are forcing"
+  ],
+  "answer": 2,
+  "explain_zh": "工廠是「被迫」買水，加上明確過去時間 2021，要用過去被動 were forced。forced、have forced、are forcing 都是主動，語態或時態不符。",
+  "vocab": [
+   {
+    "w": "drought",
+    "zh": "乾旱",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0073",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Taiwan receives more than two thousand millimetres of rain a year, yet it is listed among the world's water-poor regions. The reason is geography: the island is steep and narrow, so most rainwater (1) into the sea within hours. During the drought of 2021, factories in Hsinchu (2) to buy water from tankers, and farmers in Taichung left their fields empty. (3), households were asked to shorten their showers. Every family can (4) a part: a shower two minutes shorter saves about thirty litres a day. Engineers add that the island's old pipes leak roughly one litre in every six, so repairing (5) would save more water than any new dam.",
+  "group_id": "HC1-G15",
+  "stem": "(3) 應填入：____, households were asked to shorten their showers.",
+  "options": [
+   "Otherwise",
+   "However",
+   "Meanwhile",
+   "Therefore"
+  ],
+  "answer": 2,
+  "explain_zh": "前一句講工廠與農田，這句講同一時期的家庭，用 Meanwhile 表示「與此同時」。However 表轉折、Otherwise 表否則、Therefore 表結果，都不符合並列敘述。",
+  "vocab": [
+   {
+    "w": "household",
+    "zh": "家戶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0074",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Taiwan receives more than two thousand millimetres of rain a year, yet it is listed among the world's water-poor regions. The reason is geography: the island is steep and narrow, so most rainwater (1) into the sea within hours. During the drought of 2021, factories in Hsinchu (2) to buy water from tankers, and farmers in Taichung left their fields empty. (3), households were asked to shorten their showers. Every family can (4) a part: a shower two minutes shorter saves about thirty litres a day. Engineers add that the island's old pipes leak roughly one litre in every six, so repairing (5) would save more water than any new dam.",
+  "group_id": "HC1-G15",
+  "stem": "(4) 應填入：Every family can ____ a part: a shower two minutes shorter saves about thirty litres a day.",
+  "options": [
+   "act",
+   "play",
+   "take",
+   "do"
+  ],
+  "answer": 1,
+  "explain_zh": "play a part 是固定搭配，指「扮演角色、盡一份力」。act a part 多指演戲；take a part 與 do a part 都不是標準用法。",
+  "vocab": [
+   {
+    "w": "play a part",
+    "zh": "盡一份心力",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0075",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Taiwan receives more than two thousand millimetres of rain a year, yet it is listed among the world's water-poor regions. The reason is geography: the island is steep and narrow, so most rainwater (1) into the sea within hours. During the drought of 2021, factories in Hsinchu (2) to buy water from tankers, and farmers in Taichung left their fields empty. (3), households were asked to shorten their showers. Every family can (4) a part: a shower two minutes shorter saves about thirty litres a day. Engineers add that the island's old pipes leak roughly one litre in every six, so repairing (5) would save more water than any new dam.",
+  "group_id": "HC1-G15",
+  "stem": "(5) 應填入：The island's old pipes leak roughly one litre in every six, so repairing ____ would save more water than any new dam.",
+  "options": [
+   "their",
+   "it",
+   "those",
+   "them"
+  ],
+  "answer": 3,
+  "explain_zh": "空格代替複數名詞 the old pipes，且位於動名詞 repairing 之後當受詞，要用受格複數 them。it 是單數；those 需要後接名詞或明確指涉；their 是所有格。",
+  "vocab": [
+   {
+    "w": "leak",
+    "zh": "漏水",
+    "pos": "v."
+   },
+   {
+    "w": "dam",
+    "zh": "水壩",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0076",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Critics of space programmes ask a fair question: why spend billions on Mars when children on Earth go hungry? Supporters reply that the money is not launched into the sky but spent here, on engineers, factories and universities. Satellite technology, first developed for exploration, now (1) weather forecasts, farming and disaster warnings. (2), the camera in every smartphone grew out of research done for spacecraft. There is also an argument that has nothing to do with money: exploration (3) risks that no private company would accept alone, and the knowledge gained belongs to everybody. The first crewed flight to Mars (4) for the 2030s. Whether or not it succeeds, the attempt will teach us how to live with very (5) resources.",
+  "group_id": "HC1-G16",
+  "stem": "(1) 應填入：Satellite technology, first developed for exploration, now ____ weather forecasts, farming and disaster warnings.",
+  "options": [
+   "improves",
+   "impresses",
+   "imagines",
+   "implies"
+  ],
+  "answer": 0,
+  "explain_zh": "衛星技術讓天氣預報、農業與災害警報變得更好，用 improves。impress 的受詞通常是人、imagine 是想像、imply 是暗示，都不能接這三個名詞表達「提升」。",
+  "vocab": [
+   {
+    "w": "satellite",
+    "zh": "衛星",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0077",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Critics of space programmes ask a fair question: why spend billions on Mars when children on Earth go hungry? Supporters reply that the money is not launched into the sky but spent here, on engineers, factories and universities. Satellite technology, first developed for exploration, now (1) weather forecasts, farming and disaster warnings. (2), the camera in every smartphone grew out of research done for spacecraft. There is also an argument that has nothing to do with money: exploration (3) risks that no private company would accept alone, and the knowledge gained belongs to everybody. The first crewed flight to Mars (4) for the 2030s. Whether or not it succeeds, the attempt will teach us how to live with very (5) resources.",
+  "group_id": "HC1-G16",
+  "stem": "(2) 應填入：____, the camera in every smartphone grew out of research done for spacecraft.",
+  "options": [
+   "Otherwise",
+   "Likewise",
+   "Instead",
+   "Nevertheless"
+  ],
+  "answer": 1,
+  "explain_zh": "前一句舉衛星技術的例子，這句再舉手機鏡頭，是同類補充，用 Likewise。Otherwise 表否則、Instead 表取代、Nevertheless 表轉折，都不符合語意。",
+  "vocab": [
+   {
+    "w": "spacecraft",
+    "zh": "太空船",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0078",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Critics of space programmes ask a fair question: why spend billions on Mars when children on Earth go hungry? Supporters reply that the money is not launched into the sky but spent here, on engineers, factories and universities. Satellite technology, first developed for exploration, now (1) weather forecasts, farming and disaster warnings. (2), the camera in every smartphone grew out of research done for spacecraft. There is also an argument that has nothing to do with money: exploration (3) risks that no private company would accept alone, and the knowledge gained belongs to everybody. The first crewed flight to Mars (4) for the 2030s. Whether or not it succeeds, the attempt will teach us how to live with very (5) resources.",
+  "group_id": "HC1-G16",
+  "stem": "(3) 應填入：Exploration ____ risks that no private company would accept alone.",
+  "options": [
+   "does",
+   "makes",
+   "takes",
+   "gets"
+  ],
+  "answer": 2,
+  "explain_zh": "take risks 是固定搭配，指「承擔風險」。make、do、get 都不能和 risks 連用表示冒險。",
+  "vocab": [
+   {
+    "w": "take risks",
+    "zh": "承擔風險",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0079",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Critics of space programmes ask a fair question: why spend billions on Mars when children on Earth go hungry? Supporters reply that the money is not launched into the sky but spent here, on engineers, factories and universities. Satellite technology, first developed for exploration, now (1) weather forecasts, farming and disaster warnings. (2), the camera in every smartphone grew out of research done for spacecraft. There is also an argument that has nothing to do with money: exploration (3) risks that no private company would accept alone, and the knowledge gained belongs to everybody. The first crewed flight to Mars (4) for the 2030s. Whether or not it succeeds, the attempt will teach us how to live with very (5) resources.",
+  "group_id": "HC1-G16",
+  "stem": "(4) 應填入：The first crewed flight to Mars ____ for the 2030s.",
+  "options": [
+   "planned",
+   "plans",
+   "is planned",
+   "has planned"
+  ],
+  "answer": 2,
+  "explain_zh": "任務是「被規劃」的，要用被動 is planned for。plans、planned、has planned 都是主動，會變成太空任務自己在做規劃。",
+  "vocab": [
+   {
+    "w": "crewed flight",
+    "zh": "載人飛行",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0080",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Critics of space programmes ask a fair question: why spend billions on Mars when children on Earth go hungry? Supporters reply that the money is not launched into the sky but spent here, on engineers, factories and universities. Satellite technology, first developed for exploration, now (1) weather forecasts, farming and disaster warnings. (2), the camera in every smartphone grew out of research done for spacecraft. There is also an argument that has nothing to do with money: exploration (3) risks that no private company would accept alone, and the knowledge gained belongs to everybody. The first crewed flight to Mars (4) for the 2030s. Whether or not it succeeds, the attempt will teach us how to live with very (5) resources.",
+  "group_id": "HC1-G16",
+  "stem": "(5) 應填入：Whether or not it succeeds, the attempt will teach us how to live with very ____ resources.",
+  "options": [
+   "limited",
+   "unlimited",
+   "valuable",
+   "natural"
+  ],
+  "answer": 0,
+  "explain_zh": "太空船上的資源極為有限，學到的正是在資源稀少下生活，選 limited。unlimited 意思相反；valuable 與 natural 無法呼應太空環境的限制。",
+  "vocab": [
+   {
+    "w": "resource",
+    "zh": "資源",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0081",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Electric cars are quieter, cleaner at the roadside and cheaper to run, but they are not magic. An electric motor produces no exhaust, (1) the electricity that charges it may come from a coal power station. Most of the world's batteries (2) in Asia, where coal still supplies a large share of the power, and making a battery uses a great deal of energy. For this reason the environmental advantage only appears after roughly thirty thousand kilometres. Even so, the direction is clear: several governments have already (3) a target of selling no new petrol cars after 2035. Drivers used to worry about running out of charge, but as batteries improve and public chargers (4), that fear is fading. (5) is one reason why electric sales doubled in three years.",
+  "group_id": "HC1-G17",
+  "stem": "(1) 應填入：An electric motor produces no exhaust, ____ the electricity that charges it may come from a coal power station.",
+  "options": [
+   "yet",
+   "so",
+   "because",
+   "therefore"
+  ],
+  "answer": 0,
+  "explain_zh": "「沒有廢氣」與「電可能來自燃煤電廠」是相反的事實，用轉折連接詞 yet。so 和 therefore 表結果、because 表原因，都會讓前後邏輯顛倒。",
+  "vocab": [
+   {
+    "w": "exhaust",
+    "zh": "廢氣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0082",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Electric cars are quieter, cleaner at the roadside and cheaper to run, but they are not magic. An electric motor produces no exhaust, (1) the electricity that charges it may come from a coal power station. Most of the world's batteries (2) in Asia, where coal still supplies a large share of the power, and making a battery uses a great deal of energy. For this reason the environmental advantage only appears after roughly thirty thousand kilometres. Even so, the direction is clear: several governments have already (3) a target of selling no new petrol cars after 2035. Drivers used to worry about running out of charge, but as batteries improve and public chargers (4), that fear is fading. (5) is one reason why electric sales doubled in three years.",
+  "group_id": "HC1-G17",
+  "stem": "(2) 應填入：Most of the world's batteries ____ in Asia, where coal still supplies a large share of the power.",
+  "options": [
+   "have made",
+   "make",
+   "are making",
+   "are made"
+  ],
+  "answer": 3,
+  "explain_zh": "電池是「被製造」的，要用被動 are made。make、are making、have made 都是主動，會變成電池自己在生產東西。",
+  "vocab": [
+   {
+    "w": "battery",
+    "zh": "電池",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0083",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Electric cars are quieter, cleaner at the roadside and cheaper to run, but they are not magic. An electric motor produces no exhaust, (1) the electricity that charges it may come from a coal power station. Most of the world's batteries (2) in Asia, where coal still supplies a large share of the power, and making a battery uses a great deal of energy. For this reason the environmental advantage only appears after roughly thirty thousand kilometres. Even so, the direction is clear: several governments have already (3) a target of selling no new petrol cars after 2035. Drivers used to worry about running out of charge, but as batteries improve and public chargers (4), that fear is fading. (5) is one reason why electric sales doubled in three years.",
+  "group_id": "HC1-G17",
+  "stem": "(3) 應填入：Several governments have already ____ a target of selling no new petrol cars after 2035.",
+  "options": [
+   "made",
+   "put",
+   "set",
+   "built"
+  ],
+  "answer": 2,
+  "explain_zh": "set a target 是固定搭配，指「訂定目標」。put、made、built 都不能和 a target 連用表示設定目標。",
+  "vocab": [
+   {
+    "w": "set a target",
+    "zh": "訂定目標",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0084",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Electric cars are quieter, cleaner at the roadside and cheaper to run, but they are not magic. An electric motor produces no exhaust, (1) the electricity that charges it may come from a coal power station. Most of the world's batteries (2) in Asia, where coal still supplies a large share of the power, and making a battery uses a great deal of energy. For this reason the environmental advantage only appears after roughly thirty thousand kilometres. Even so, the direction is clear: several governments have already (3) a target of selling no new petrol cars after 2035. Drivers used to worry about running out of charge, but as batteries improve and public chargers (4), that fear is fading. (5) is one reason why electric sales doubled in three years.",
+  "group_id": "HC1-G17",
+  "stem": "(4) 應填入：As batteries improve and public chargers ____, that fear is fading.",
+  "options": [
+   "shrink",
+   "disappear",
+   "multiply",
+   "weaken"
+  ],
+  "answer": 2,
+  "explain_zh": "充電樁「數量增加」才會讓里程焦慮消退，選 multiply。disappear 是消失、shrink 是縮小、weaken 是變弱，都會讓恐懼加深而非減少。",
+  "vocab": [
+   {
+    "w": "multiply",
+    "zh": "大量增加",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0085",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Electric cars are quieter, cleaner at the roadside and cheaper to run, but they are not magic. An electric motor produces no exhaust, (1) the electricity that charges it may come from a coal power station. Most of the world's batteries (2) in Asia, where coal still supplies a large share of the power, and making a battery uses a great deal of energy. For this reason the environmental advantage only appears after roughly thirty thousand kilometres. Even so, the direction is clear: several governments have already (3) a target of selling no new petrol cars after 2035. Drivers used to worry about running out of charge, but as batteries improve and public chargers (4), that fear is fading. (5) is one reason why electric sales doubled in three years.",
+  "group_id": "HC1-G17",
+  "stem": "(5) 應填入：____ is one reason why electric sales doubled in three years.",
+  "options": [
+   "This",
+   "It",
+   "There",
+   "Such"
+  ],
+  "answer": 0,
+  "explain_zh": "空格指前一句「電池進步、充電樁變多、焦慮消退」這整件事，用 This 當主詞最清楚。It 缺乏明確指涉；There 用於 there is 句型；Such 後面必須接名詞。",
+  "vocab": [
+   {
+    "w": "double",
+    "zh": "加倍",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0086",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Taiwan will become a super-aged society before 2026, which means more than one person in five (1) over sixty-five. The change has happened faster here than almost anywhere else. Families are smaller, couples marry later, and the birth rate has fallen below one child per woman. (2), the working population is shrinking while the cost of pensions and health care rises. Some commentators describe this as a crisis, but older citizens are not simply a burden. Many continue to work, look after grandchildren, or (3) as volunteers in their communities. Countries such as Japan have begun to redesign public space for them: lower buses, clearer signs and benches every hundred metres. Such changes cost money, yet (4) benefit everyone, including parents with pushchairs. The real task is to make sure that a longer life is also a (5) one.",
+  "group_id": "HC1-G18",
+  "stem": "(1) 應填入：Taiwan will become a super-aged society before 2026, which means more than one person in five ____ over sixty-five.",
+  "options": [
+   "has been",
+   "is",
+   "was",
+   "will be"
+  ],
+  "answer": 3,
+  "explain_zh": "主句用 will become 描述 2026 年前的未來狀態，關係子句也要用未來式 will be。is 指現在、was 指過去、has been 強調從過去到現在，都與 before 2026 的時間點不符。",
+  "vocab": [
+   {
+    "w": "super-aged society",
+    "zh": "超高齡社會",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0087",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Taiwan will become a super-aged society before 2026, which means more than one person in five (1) over sixty-five. The change has happened faster here than almost anywhere else. Families are smaller, couples marry later, and the birth rate has fallen below one child per woman. (2), the working population is shrinking while the cost of pensions and health care rises. Some commentators describe this as a crisis, but older citizens are not simply a burden. Many continue to work, look after grandchildren, or (3) as volunteers in their communities. Countries such as Japan have begun to redesign public space for them: lower buses, clearer signs and benches every hundred metres. Such changes cost money, yet (4) benefit everyone, including parents with pushchairs. The real task is to make sure that a longer life is also a (5) one.",
+  "group_id": "HC1-G18",
+  "stem": "(2) 應填入：____, the working population is shrinking while the cost of pensions and health care rises.",
+  "options": [
+   "In other words",
+   "By contrast",
+   "For example",
+   "As a result"
+  ],
+  "answer": 3,
+  "explain_zh": "少子化與晚婚是原因，勞動人口減少、社福支出上升是結果，用 As a result。By contrast 表對比、For example 表舉例、In other words 表換句話說，都不符因果。",
+  "vocab": [
+   {
+    "w": "pension",
+    "zh": "退休金",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0088",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Taiwan will become a super-aged society before 2026, which means more than one person in five (1) over sixty-five. The change has happened faster here than almost anywhere else. Families are smaller, couples marry later, and the birth rate has fallen below one child per woman. (2), the working population is shrinking while the cost of pensions and health care rises. Some commentators describe this as a crisis, but older citizens are not simply a burden. Many continue to work, look after grandchildren, or (3) as volunteers in their communities. Countries such as Japan have begun to redesign public space for them: lower buses, clearer signs and benches every hundred metres. Such changes cost money, yet (4) benefit everyone, including parents with pushchairs. The real task is to make sure that a longer life is also a (5) one.",
+  "group_id": "HC1-G18",
+  "stem": "(3) 應填入：Many continue to work, look after grandchildren, or ____ as volunteers in their communities.",
+  "options": [
+   "attend",
+   "serve",
+   "join",
+   "offer"
+  ],
+  "answer": 1,
+  "explain_zh": "serve as 是固定搭配，指「擔任某種角色」。attend 是出席、join 後面直接接團體、offer 是提供，都不能用 as volunteers 表示擔任志工。",
+  "vocab": [
+   {
+    "w": "serve as",
+    "zh": "擔任",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0089",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Taiwan will become a super-aged society before 2026, which means more than one person in five (1) over sixty-five. The change has happened faster here than almost anywhere else. Families are smaller, couples marry later, and the birth rate has fallen below one child per woman. (2), the working population is shrinking while the cost of pensions and health care rises. Some commentators describe this as a crisis, but older citizens are not simply a burden. Many continue to work, look after grandchildren, or (3) as volunteers in their communities. Countries such as Japan have begun to redesign public space for them: lower buses, clearer signs and benches every hundred metres. Such changes cost money, yet (4) benefit everyone, including parents with pushchairs. The real task is to make sure that a longer life is also a (5) one.",
+  "group_id": "HC1-G18",
+  "stem": "(4) 應填入：Such changes cost money, yet ____ benefit everyone, including parents with pushchairs.",
+  "options": [
+   "those",
+   "it",
+   "that",
+   "they"
+  ],
+  "answer": 3,
+  "explain_zh": "空格代替複數的 such changes 當主詞，要用 they。it 是單數；that 與 those 在這裡缺少被修飾的名詞，指涉不清。",
+  "vocab": [
+   {
+    "w": "benefit",
+    "zh": "使受益",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0090",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Taiwan will become a super-aged society before 2026, which means more than one person in five (1) over sixty-five. The change has happened faster here than almost anywhere else. Families are smaller, couples marry later, and the birth rate has fallen below one child per woman. (2), the working population is shrinking while the cost of pensions and health care rises. Some commentators describe this as a crisis, but older citizens are not simply a burden. Many continue to work, look after grandchildren, or (3) as volunteers in their communities. Countries such as Japan have begun to redesign public space for them: lower buses, clearer signs and benches every hundred metres. Such changes cost money, yet (4) benefit everyone, including parents with pushchairs. The real task is to make sure that a longer life is also a (5) one.",
+  "group_id": "HC1-G18",
+  "stem": "(5) 應填入：The real task is to make sure that a longer life is also a ____ one.",
+  "options": [
+   "healthy",
+   "lonely",
+   "crowded",
+   "temporary"
+  ],
+  "answer": 0,
+  "explain_zh": "全文希望長壽同時也活得好，所以是 healthy。lonely 是孤單、crowded 是擁擠、temporary 是短暫的，都與「延長壽命的目標」互相矛盾。",
+  "vocab": [
+   {
+    "w": "commentator",
+    "zh": "評論者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0091",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "In 1970, fewer than one Taiwanese engineer in twenty was a woman; today the figure is close to one in five. Progress is real, but it is still (1). Women now outnumber men in universities, yet they (2) less than eighty cents for every dollar a man earns in similar work. Part of the gap comes from career breaks: after a child is born, it is usually the mother who takes unpaid leave. (3), when a company offers fathers paid parental leave, the gap narrows within a few years. Laws alone, however, cannot change (4) people expect at home. Since 2004, gender equality education (5) part of the national curriculum, and the classroom may be where the deepest change begins.",
+  "group_id": "HC1-G19",
+  "stem": "(1) 應填入：Progress is real, but it is still ____.",
+  "options": [
+   "unlikely",
+   "unusual",
+   "uneven",
+   "unpaid"
+  ],
+  "answer": 2,
+  "explain_zh": "後文說女性人數在大學已超過男性，薪資卻仍偏低，可見進步「不平均」，選 uneven。unusual 是罕見、unlikely 是不太可能、unpaid 是無薪的，都無法描述進步的分布。",
+  "vocab": [
+   {
+    "w": "uneven",
+    "zh": "不平均的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0092",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "In 1970, fewer than one Taiwanese engineer in twenty was a woman; today the figure is close to one in five. Progress is real, but it is still (1). Women now outnumber men in universities, yet they (2) less than eighty cents for every dollar a man earns in similar work. Part of the gap comes from career breaks: after a child is born, it is usually the mother who takes unpaid leave. (3), when a company offers fathers paid parental leave, the gap narrows within a few years. Laws alone, however, cannot change (4) people expect at home. Since 2004, gender equality education (5) part of the national curriculum, and the classroom may be where the deepest change begins.",
+  "group_id": "HC1-G19",
+  "stem": "(2) 應填入：Women now outnumber men in universities, yet they ____ less than eighty cents for every dollar a man earns in similar work.",
+  "options": [
+   "win",
+   "earn",
+   "spend",
+   "afford"
+  ],
+  "answer": 1,
+  "explain_zh": "earn 是「賺取（薪資）」，與後面的 a man earns 對應。win 是贏得比賽或獎項、spend 是花費、afford 是負擔得起，都不能表示領到的薪水。",
+  "vocab": [
+   {
+    "w": "outnumber",
+    "zh": "數量超過",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0093",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "In 1970, fewer than one Taiwanese engineer in twenty was a woman; today the figure is close to one in five. Progress is real, but it is still (1). Women now outnumber men in universities, yet they (2) less than eighty cents for every dollar a man earns in similar work. Part of the gap comes from career breaks: after a child is born, it is usually the mother who takes unpaid leave. (3), when a company offers fathers paid parental leave, the gap narrows within a few years. Laws alone, however, cannot change (4) people expect at home. Since 2004, gender equality education (5) part of the national curriculum, and the classroom may be where the deepest change begins.",
+  "group_id": "HC1-G19",
+  "stem": "(3) 應填入：____, when a company offers fathers paid parental leave, the gap narrows within a few years.",
+  "options": [
+   "In contrast",
+   "For example",
+   "As a result",
+   "Above all"
+  ],
+  "answer": 1,
+  "explain_zh": "前一句指出育嬰假造成薪資差距，這句舉出實際例子佐證，用 For example。In contrast 表對比、As a result 表結果、Above all 表最重要的一點，都不符合舉例功能。",
+  "vocab": [
+   {
+    "w": "parental leave",
+    "zh": "育嬰假",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0094",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "In 1970, fewer than one Taiwanese engineer in twenty was a woman; today the figure is close to one in five. Progress is real, but it is still (1). Women now outnumber men in universities, yet they (2) less than eighty cents for every dollar a man earns in similar work. Part of the gap comes from career breaks: after a child is born, it is usually the mother who takes unpaid leave. (3), when a company offers fathers paid parental leave, the gap narrows within a few years. Laws alone, however, cannot change (4) people expect at home. Since 2004, gender equality education (5) part of the national curriculum, and the classroom may be where the deepest change begins.",
+  "group_id": "HC1-G19",
+  "stem": "(4) 應填入：Laws alone, however, cannot change ____ people expect at home.",
+  "options": [
+   "which",
+   "that",
+   "what",
+   "it"
+  ],
+  "answer": 2,
+  "explain_zh": "空格要引導一個沒有先行詞的名詞子句當受詞，等於 the things that，只能用 what。that 與 which 需要先行詞；it 不能引導子句。",
+  "vocab": [
+   {
+    "w": "expect",
+    "zh": "期待",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0095",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "In 1970, fewer than one Taiwanese engineer in twenty was a woman; today the figure is close to one in five. Progress is real, but it is still (1). Women now outnumber men in universities, yet they (2) less than eighty cents for every dollar a man earns in similar work. Part of the gap comes from career breaks: after a child is born, it is usually the mother who takes unpaid leave. (3), when a company offers fathers paid parental leave, the gap narrows within a few years. Laws alone, however, cannot change (4) people expect at home. Since 2004, gender equality education (5) part of the national curriculum, and the classroom may be where the deepest change begins.",
+  "group_id": "HC1-G19",
+  "stem": "(5) 應填入：Since 2004, gender equality education ____ part of the national curriculum.",
+  "options": [
+   "had been",
+   "was",
+   "is",
+   "has been"
+  ],
+  "answer": 3,
+  "explain_zh": "Since 2004 表示從 2004 年持續到現在，要用現在完成式 has been。was 是單純過去、is 沒有表達延續、had been 需要另一個過去基準點。",
+  "vocab": [
+   {
+    "w": "curriculum",
+    "zh": "課綱、課程",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0096",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Teenagers today read more words than any generation before them — messages, captions, comments — yet many find it painful to finish a novel. The skill that is (1) is not reading itself but sustained attention. Studies suggest that a reader who checks a phone every few minutes loses the thread of an argument and remembers far less. Regular readers of long texts, on the other hand, score higher in tests of empathy, perhaps because fiction forces us to live inside another person's head for hours. Teachers say that choice matters more than quality at the beginning, (2) a student who is allowed to pick a comic will (3) the habit of reading, and better books usually follow. Since the pandemic, borrowing figures at public libraries (4) in several countries. The aim is not to finish a list but to make reading (5).",
+  "group_id": "HC1-G20",
+  "stem": "(1) 應填入：The skill that is ____ is not reading itself but sustained attention.",
+  "options": [
+   "spreading",
+   "growing",
+   "missing",
+   "shining"
+  ],
+  "answer": 2,
+  "explain_zh": "全段在說青少年缺乏的是持續專注力，所以是 missing「缺少的」。growing 是增加、spreading 是擴散、shining 是發亮，都與後文的問題描述矛盾。",
+  "vocab": [
+   {
+    "w": "sustained attention",
+    "zh": "持續專注力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0097",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Teenagers today read more words than any generation before them — messages, captions, comments — yet many find it painful to finish a novel. The skill that is (1) is not reading itself but sustained attention. Studies suggest that a reader who checks a phone every few minutes loses the thread of an argument and remembers far less. Regular readers of long texts, on the other hand, score higher in tests of empathy, perhaps because fiction forces us to live inside another person's head for hours. Teachers say that choice matters more than quality at the beginning, (2) a student who is allowed to pick a comic will (3) the habit of reading, and better books usually follow. Since the pandemic, borrowing figures at public libraries (4) in several countries. The aim is not to finish a list but to make reading (5).",
+  "group_id": "HC1-G20",
+  "stem": "(2) 應填入：Teachers say that choice matters more than quality at the beginning, ____ a student who is allowed to pick a comic will (3) the habit of reading.",
+  "options": [
+   "since",
+   "unless",
+   "whereas",
+   "whether"
+  ],
+  "answer": 0,
+  "explain_zh": "後半句是在解釋為什麼「選擇比品質重要」，屬於原因，用 since。unless 表條件、whereas 表對比、whether 表是否，語意都不通。",
+  "vocab": [
+   {
+    "w": "comic",
+    "zh": "漫畫",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0098",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Teenagers today read more words than any generation before them — messages, captions, comments — yet many find it painful to finish a novel. The skill that is (1) is not reading itself but sustained attention. Studies suggest that a reader who checks a phone every few minutes loses the thread of an argument and remembers far less. Regular readers of long texts, on the other hand, score higher in tests of empathy, perhaps because fiction forces us to live inside another person's head for hours. Teachers say that choice matters more than quality at the beginning, (2) a student who is allowed to pick a comic will (3) the habit of reading, and better books usually follow. Since the pandemic, borrowing figures at public libraries (4) in several countries. The aim is not to finish a list but to make reading (5).",
+  "group_id": "HC1-G20",
+  "stem": "(3) 應填入：A student who is allowed to pick a comic will ____ the habit of reading.",
+  "options": [
+   "train",
+   "grow",
+   "raise",
+   "develop"
+  ],
+  "answer": 3,
+  "explain_zh": "develop a habit 是固定搭配，指「養成習慣」。grow、raise、train 的受詞分別多為植物、金額或人與能力，都不能接 the habit。",
+  "vocab": [
+   {
+    "w": "develop a habit",
+    "zh": "養成習慣",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0099",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Teenagers today read more words than any generation before them — messages, captions, comments — yet many find it painful to finish a novel. The skill that is (1) is not reading itself but sustained attention. Studies suggest that a reader who checks a phone every few minutes loses the thread of an argument and remembers far less. Regular readers of long texts, on the other hand, score higher in tests of empathy, perhaps because fiction forces us to live inside another person's head for hours. Teachers say that choice matters more than quality at the beginning, (2) a student who is allowed to pick a comic will (3) the habit of reading, and better books usually follow. Since the pandemic, borrowing figures at public libraries (4) in several countries. The aim is not to finish a list but to make reading (5).",
+  "group_id": "HC1-G20",
+  "stem": "(4) 應填入：Since the pandemic, borrowing figures at public libraries ____ in several countries.",
+  "options": [
+   "have risen",
+   "rose",
+   "raised",
+   "are rising"
+  ],
+  "answer": 0,
+  "explain_zh": "Since the pandemic 表示從疫情到現在，要用現在完成式；rise 是不及物動詞，複數主詞用 have risen。rose 是單純過去、raised 是及物須接受詞、are rising 只描述此刻趨勢。",
+  "vocab": [
+   {
+    "w": "borrowing figures",
+    "zh": "借閱數字",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0100",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Teenagers today read more words than any generation before them — messages, captions, comments — yet many find it painful to finish a novel. The skill that is (1) is not reading itself but sustained attention. Studies suggest that a reader who checks a phone every few minutes loses the thread of an argument and remembers far less. Regular readers of long texts, on the other hand, score higher in tests of empathy, perhaps because fiction forces us to live inside another person's head for hours. Teachers say that choice matters more than quality at the beginning, (2) a student who is allowed to pick a comic will (3) the habit of reading, and better books usually follow. Since the pandemic, borrowing figures at public libraries (4) in several countries. The aim is not to finish a list but to make reading (5).",
+  "group_id": "HC1-G20",
+  "stem": "(5) 應填入：The aim is not to finish a list but to make reading ____.",
+  "options": [
+   "measurable",
+   "compulsory",
+   "enjoyable",
+   "fashionable"
+  ],
+  "answer": 2,
+  "explain_zh": "全文主張閱讀不該是趕進度，而是要讓人樂在其中，選 enjoyable。compulsory 是強制的、measurable 是可測量的、fashionable 是流行的，都違背作者的立場。",
+  "vocab": [
+   {
+    "w": "enjoyable",
+    "zh": "令人享受的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0101",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "Modern athletes are not simply stronger than their grandparents; they are far better informed. A marathon runner today wears a watch that (1) heart rate, sleep quality and the length of every stride. Coaches use the data to decide when an athlete should train hard and, more importantly, when to rest. Recovery (2) to be regarded as laziness; now it is treated as part of the training programme itself. Nutrition has changed too: research shows that eating protein soon after exercise helps muscles (3) from hard training more quickly. (4), technology cannot replace patience. Records are broken by athletes who repeat dull exercises for years, and no machine can do (5) work for them.",
+  "group_id": "HC1-G21",
+  "stem": "(1) 應填入：A marathon runner today wears a watch that ____ heart rate, sleep quality and the length of every stride.",
+  "options": [
+   "travels",
+   "trains",
+   "treats",
+   "tracks"
+  ],
+  "answer": 3,
+  "explain_zh": "手錶的功能是「追蹤記錄」心率、睡眠與步幅，選 tracks。train 是訓練、treat 是治療或對待、travel 是旅行，都不能接這些數據。",
+  "vocab": [
+   {
+    "w": "stride",
+    "zh": "步幅",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0102",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "Modern athletes are not simply stronger than their grandparents; they are far better informed. A marathon runner today wears a watch that (1) heart rate, sleep quality and the length of every stride. Coaches use the data to decide when an athlete should train hard and, more importantly, when to rest. Recovery (2) to be regarded as laziness; now it is treated as part of the training programme itself. Nutrition has changed too: research shows that eating protein soon after exercise helps muscles (3) from hard training more quickly. (4), technology cannot replace patience. Records are broken by athletes who repeat dull exercises for years, and no machine can do (5) work for them.",
+  "group_id": "HC1-G21",
+  "stem": "(2) 應填入：Recovery ____ to be regarded as laziness; now it is treated as part of the training programme itself.",
+  "options": [
+   "is used",
+   "was used",
+   "used",
+   "uses"
+  ],
+  "answer": 2,
+  "explain_zh": "後面有 now 對比，表示「過去曾經被視為懶惰」，要用 used to。was used to、is used to 表示「習慣於」或「被用來」，語意不同；uses 是主動現在式。",
+  "vocab": [
+   {
+    "w": "recovery",
+    "zh": "恢復",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0103",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "Modern athletes are not simply stronger than their grandparents; they are far better informed. A marathon runner today wears a watch that (1) heart rate, sleep quality and the length of every stride. Coaches use the data to decide when an athlete should train hard and, more importantly, when to rest. Recovery (2) to be regarded as laziness; now it is treated as part of the training programme itself. Nutrition has changed too: research shows that eating protein soon after exercise helps muscles (3) from hard training more quickly. (4), technology cannot replace patience. Records are broken by athletes who repeat dull exercises for years, and no machine can do (5) work for them.",
+  "group_id": "HC1-G21",
+  "stem": "(3) 應填入：Research shows that eating protein soon after exercise helps muscles ____ from hard training more quickly.",
+  "options": [
+   "relieve",
+   "repair",
+   "recover",
+   "release"
+  ],
+  "answer": 2,
+  "explain_zh": "recover from 是固定搭配，指「從……恢復」。repair、relieve、release 都是及物動詞，後面不接 from 表示恢復。",
+  "vocab": [
+   {
+    "w": "protein",
+    "zh": "蛋白質",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0104",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "Modern athletes are not simply stronger than their grandparents; they are far better informed. A marathon runner today wears a watch that (1) heart rate, sleep quality and the length of every stride. Coaches use the data to decide when an athlete should train hard and, more importantly, when to rest. Recovery (2) to be regarded as laziness; now it is treated as part of the training programme itself. Nutrition has changed too: research shows that eating protein soon after exercise helps muscles (3) from hard training more quickly. (4), technology cannot replace patience. Records are broken by athletes who repeat dull exercises for years, and no machine can do (5) work for them.",
+  "group_id": "HC1-G21",
+  "stem": "(4) 應填入：____, technology cannot replace patience.",
+  "options": [
+   "Accordingly",
+   "Nonetheless",
+   "Similarly",
+   "Meanwhile"
+  ],
+  "answer": 1,
+  "explain_zh": "前面介紹科技帶來的種種好處，這句轉折指出科技的極限，用 Nonetheless。Accordingly 表結果、Similarly 表同理、Meanwhile 表同時，都無法表達轉折。",
+  "vocab": [
+   {
+    "w": "patience",
+    "zh": "耐性",
+    "pos": "n."
+   },
+   {
+    "w": "replace",
+    "zh": "取代",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0105",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "Modern athletes are not simply stronger than their grandparents; they are far better informed. A marathon runner today wears a watch that (1) heart rate, sleep quality and the length of every stride. Coaches use the data to decide when an athlete should train hard and, more importantly, when to rest. Recovery (2) to be regarded as laziness; now it is treated as part of the training programme itself. Nutrition has changed too: research shows that eating protein soon after exercise helps muscles (3) from hard training more quickly. (4), technology cannot replace patience. Records are broken by athletes who repeat dull exercises for years, and no machine can do (5) work for them.",
+  "group_id": "HC1-G21",
+  "stem": "(5) 應填入：Records are broken by athletes who repeat dull exercises for years, and no machine can do ____ work for them.",
+  "options": [
+   "those",
+   "that",
+   "them",
+   "it"
+  ],
+  "answer": 1,
+  "explain_zh": "空格要修飾單數的 work，指前面提到的「年復一年的枯燥練習」，用 that work。those 接複數名詞；them 與 it 是代名詞，不能直接放在名詞前。",
+  "vocab": [
+   {
+    "w": "dull",
+    "zh": "枯燥的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0106",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "In 2015, nearly nine out of ten purchases in Taiwan were made with cash. Since then, mobile payment (1) part of everyday life: night-market stalls display QR codes and school children tap a card to buy lunch. Shops benefit as well, because digital records (2) the cost of accounting. (3), the change is not welcomed by everyone. Older customers who have never owned a smartphone find themselves shut out, and small shops complain about the fees that platforms (4). There is also the question of privacy: every payment leaves a trace, and such information is valuable to advertisers. Sweden, the most cashless country in Europe, has recently asked its banks to keep notes and coins available. (5) decision protects the people whom technology forgets.",
+  "group_id": "HC1-G22",
+  "stem": "(1) 應填入：Since then, mobile payment ____ part of everyday life.",
+  "options": [
+   "is becoming",
+   "became",
+   "becomes",
+   "has become"
+  ],
+  "answer": 3,
+  "explain_zh": "Since then 指從 2015 年延續到現在，要用現在完成式 has become。became 是單純過去、becomes 是現在習慣、is becoming 只描述此刻的變化趨勢。",
+  "vocab": [
+   {
+    "w": "mobile payment",
+    "zh": "行動支付",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0107",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "In 2015, nearly nine out of ten purchases in Taiwan were made with cash. Since then, mobile payment (1) part of everyday life: night-market stalls display QR codes and school children tap a card to buy lunch. Shops benefit as well, because digital records (2) the cost of accounting. (3), the change is not welcomed by everyone. Older customers who have never owned a smartphone find themselves shut out, and small shops complain about the fees that platforms (4). There is also the question of privacy: every payment leaves a trace, and such information is valuable to advertisers. Sweden, the most cashless country in Europe, has recently asked its banks to keep notes and coins available. (5) decision protects the people whom technology forgets.",
+  "group_id": "HC1-G22",
+  "stem": "(2) 應填入：Shops benefit as well, because digital records ____ the cost of accounting.",
+  "options": [
+   "cut",
+   "break",
+   "fall",
+   "decline"
+  ],
+  "answer": 0,
+  "explain_zh": "cut the cost 是固定搭配，指「降低成本」。break 不與 cost 連用；fall 和 decline 是不及物動詞，主詞必須是成本本身，不能接受詞。",
+  "vocab": [
+   {
+    "w": "accounting",
+    "zh": "記帳、會計",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0108",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "In 2015, nearly nine out of ten purchases in Taiwan were made with cash. Since then, mobile payment (1) part of everyday life: night-market stalls display QR codes and school children tap a card to buy lunch. Shops benefit as well, because digital records (2) the cost of accounting. (3), the change is not welcomed by everyone. Older customers who have never owned a smartphone find themselves shut out, and small shops complain about the fees that platforms (4). There is also the question of privacy: every payment leaves a trace, and such information is valuable to advertisers. Sweden, the most cashless country in Europe, has recently asked its banks to keep notes and coins available. (5) decision protects the people whom technology forgets.",
+  "group_id": "HC1-G22",
+  "stem": "(3) 應填入：____, the change is not welcomed by everyone.",
+  "options": [
+   "Indeed",
+   "Thus",
+   "Hence",
+   "Still"
+  ],
+  "answer": 3,
+  "explain_zh": "前面講行動支付的便利，這句轉到「並非人人歡迎」，用表轉折的 Still（儘管如此）。Thus 與 Hence 表結果、Indeed 表強調同一方向，都接不上語意的轉彎。",
+  "vocab": [
+   {
+    "w": "cashless",
+    "zh": "無現金的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0109",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "In 2015, nearly nine out of ten purchases in Taiwan were made with cash. Since then, mobile payment (1) part of everyday life: night-market stalls display QR codes and school children tap a card to buy lunch. Shops benefit as well, because digital records (2) the cost of accounting. (3), the change is not welcomed by everyone. Older customers who have never owned a smartphone find themselves shut out, and small shops complain about the fees that platforms (4). There is also the question of privacy: every payment leaves a trace, and such information is valuable to advertisers. Sweden, the most cashless country in Europe, has recently asked its banks to keep notes and coins available. (5) decision protects the people whom technology forgets.",
+  "group_id": "HC1-G22",
+  "stem": "(4) 應填入：Small shops complain about the fees that platforms ____.",
+  "options": [
+   "cost",
+   "charge",
+   "pay",
+   "spend"
+  ],
+  "answer": 1,
+  "explain_zh": "平台向店家「收取」手續費，用 charge。cost 的主詞是商品；pay 是付錢，方向相反；spend 的主詞是人且要接金錢與用途。",
+  "vocab": [
+   {
+    "w": "fee",
+    "zh": "手續費",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0110",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "In 2015, nearly nine out of ten purchases in Taiwan were made with cash. Since then, mobile payment (1) part of everyday life: night-market stalls display QR codes and school children tap a card to buy lunch. Shops benefit as well, because digital records (2) the cost of accounting. (3), the change is not welcomed by everyone. Older customers who have never owned a smartphone find themselves shut out, and small shops complain about the fees that platforms (4). There is also the question of privacy: every payment leaves a trace, and such information is valuable to advertisers. Sweden, the most cashless country in Europe, has recently asked its banks to keep notes and coins available. (5) decision protects the people whom technology forgets.",
+  "group_id": "HC1-G22",
+  "stem": "(5) 應填入：____ decision protects the people whom technology forgets.",
+  "options": [
+   "Its",
+   "These",
+   "This",
+   "There"
+  ],
+  "answer": 2,
+  "explain_zh": "空格後是單數名詞 decision，指前一句瑞典要求銀行保留現金的決定，用 This。These 接複數；Its 意思變成「它的決定」，指涉模糊；There 不能修飾名詞。",
+  "vocab": [
+   {
+    "w": "notes and coins",
+    "zh": "紙鈔與硬幣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0111",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "About a third of the food produced in the world is never eaten. If food waste (1) a country, it would be the third largest producer of greenhouse gases on the planet. The waste happens at every stage: farmers throw away vegetables of the wrong shape, supermarkets remove products close to the date on the label, and households buy more than they can finish. Part of the problem is that shoppers confuse 'best before' with 'use by'; the first is about quality, (2) the second is about safety. Solutions are appearing. Apps now (3) restaurants with customers who are willing to buy unsold meals cheaply. France has (4) supermarkets to donate unsold food since 2016. (5) sounds like a small law, but it has saved millions of meals.",
+  "group_id": "HC1-G23",
+  "stem": "(1) 應填入：If food waste ____ a country, it would be the third largest producer of greenhouse gases on the planet.",
+  "options": [
+   "were",
+   "is",
+   "has been",
+   "will be"
+  ],
+  "answer": 0,
+  "explain_zh": "主句用 would be，可知這是與現在事實相反的假設語氣，if 子句要用 were。is、has been、will be 都用於真實情況的條件句，與 would be 不搭配。",
+  "vocab": [
+   {
+    "w": "greenhouse gas",
+    "zh": "溫室氣體",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0112",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "About a third of the food produced in the world is never eaten. If food waste (1) a country, it would be the third largest producer of greenhouse gases on the planet. The waste happens at every stage: farmers throw away vegetables of the wrong shape, supermarkets remove products close to the date on the label, and households buy more than they can finish. Part of the problem is that shoppers confuse 'best before' with 'use by'; the first is about quality, (2) the second is about safety. Solutions are appearing. Apps now (3) restaurants with customers who are willing to buy unsold meals cheaply. France has (4) supermarkets to donate unsold food since 2016. (5) sounds like a small law, but it has saved millions of meals.",
+  "group_id": "HC1-G23",
+  "stem": "(2) 應填入：The first is about quality, ____ the second is about safety.",
+  "options": [
+   "unless",
+   "because",
+   "therefore",
+   "whereas"
+  ],
+  "answer": 3,
+  "explain_zh": "兩個標示一個談品質、一個談安全，是明顯對比，用 whereas。because 表原因、therefore 表結果、unless 表條件，都無法表達並列對照。",
+  "vocab": [
+   {
+    "w": "label",
+    "zh": "標籤",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0113",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "About a third of the food produced in the world is never eaten. If food waste (1) a country, it would be the third largest producer of greenhouse gases on the planet. The waste happens at every stage: farmers throw away vegetables of the wrong shape, supermarkets remove products close to the date on the label, and households buy more than they can finish. Part of the problem is that shoppers confuse 'best before' with 'use by'; the first is about quality, (2) the second is about safety. Solutions are appearing. Apps now (3) restaurants with customers who are willing to buy unsold meals cheaply. France has (4) supermarkets to donate unsold food since 2016. (5) sounds like a small law, but it has saved millions of meals.",
+  "group_id": "HC1-G23",
+  "stem": "(3) 應填入：Apps now ____ restaurants with customers who are willing to buy unsold meals cheaply.",
+  "options": [
+   "attach",
+   "connect",
+   "attract",
+   "arrange"
+  ],
+  "answer": 1,
+  "explain_zh": "connect A with B 指「把 A 與 B 串連起來」，符合媒合餐廳與顧客的語意。attach 是黏附、attract 是吸引、arrange 是安排，都不能用 with 表示媒合雙方。",
+  "vocab": [
+   {
+    "w": "unsold",
+    "zh": "未售出的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0114",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "About a third of the food produced in the world is never eaten. If food waste (1) a country, it would be the third largest producer of greenhouse gases on the planet. The waste happens at every stage: farmers throw away vegetables of the wrong shape, supermarkets remove products close to the date on the label, and households buy more than they can finish. Part of the problem is that shoppers confuse 'best before' with 'use by'; the first is about quality, (2) the second is about safety. Solutions are appearing. Apps now (3) restaurants with customers who are willing to buy unsold meals cheaply. France has (4) supermarkets to donate unsold food since 2016. (5) sounds like a small law, but it has saved millions of meals.",
+  "group_id": "HC1-G23",
+  "stem": "(4) 應填入：France has ____ supermarkets to donate unsold food since 2016.",
+  "options": [
+   "refused",
+   "reminded",
+   "required",
+   "released"
+  ],
+  "answer": 2,
+  "explain_zh": "後文說這條法律拯救了數百萬份餐點，可見是「規定」超市必須捐出，用 required somebody to do。reminded 只是提醒、refused 是拒絕、released 是釋出，都不符合立法強制的語氣。",
+  "vocab": [
+   {
+    "w": "donate",
+    "zh": "捐贈",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0115",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:reference",
+  "tag_zh": "克漏字：指涉代名詞",
+  "passage": "About a third of the food produced in the world is never eaten. If food waste (1) a country, it would be the third largest producer of greenhouse gases on the planet. The waste happens at every stage: farmers throw away vegetables of the wrong shape, supermarkets remove products close to the date on the label, and households buy more than they can finish. Part of the problem is that shoppers confuse 'best before' with 'use by'; the first is about quality, (2) the second is about safety. Solutions are appearing. Apps now (3) restaurants with customers who are willing to buy unsold meals cheaply. France has (4) supermarkets to donate unsold food since 2016. (5) sounds like a small law, but it has saved millions of meals.",
+  "group_id": "HC1-G23",
+  "stem": "(5) 應填入：____ sounds like a small law, but it has saved millions of meals.",
+  "options": [
+   "One",
+   "There",
+   "Which",
+   "That"
+  ],
+  "answer": 3,
+  "explain_zh": "空格代替前一句所說的整條法律規定，用 That 當主詞最自然。There 用於 there is 句型；Which 必須引導關係子句；One 指「其中一個」，指涉不清。",
+  "vocab": [
+   {
+    "w": "millions of",
+    "zh": "數百萬的",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0116",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "The Formosan black bear appears on posters all over Taiwan, yet fewer than a thousand are thought to (1) in the wild. Habitat loss is the main reason: roads, farms and hotels cut the forest into pieces too small for a large animal, and illegal traps do the rest. Conservation groups therefore work on two fronts. They repair the forest by planting native trees and by building bridges that let animals cross motorways safely, and they also (2) farmers whose crops are damaged by wildlife. Money matters here. (3) villagers see a living bear as more valuable than a dead one, no law will save the species. Since 1989 the bear (4) by law, yet enforcement in remote mountains remains difficult. The lesson of thirty years of fieldwork is simple: protecting an animal means (5) the people who live beside it.",
+  "group_id": "HC1-G24",
+  "stem": "(1) 應填入：Fewer than a thousand are thought to ____ in the wild.",
+  "options": [
+   "survive",
+   "arrive",
+   "retire",
+   "escape"
+  ],
+  "answer": 0,
+  "explain_zh": "在野外「存活」下來的數量不到一千隻，用 survive。arrive 是抵達、retire 是退休、escape 是逃脫，都無法描述族群數量。",
+  "vocab": [
+   {
+    "w": "in the wild",
+    "zh": "在野外",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0117",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "克漏字：搭配詞",
+  "passage": "The Formosan black bear appears on posters all over Taiwan, yet fewer than a thousand are thought to (1) in the wild. Habitat loss is the main reason: roads, farms and hotels cut the forest into pieces too small for a large animal, and illegal traps do the rest. Conservation groups therefore work on two fronts. They repair the forest by planting native trees and by building bridges that let animals cross motorways safely, and they also (2) farmers whose crops are damaged by wildlife. Money matters here. (3) villagers see a living bear as more valuable than a dead one, no law will save the species. Since 1989 the bear (4) by law, yet enforcement in remote mountains remains difficult. The lesson of thirty years of fieldwork is simple: protecting an animal means (5) the people who live beside it.",
+  "group_id": "HC1-G24",
+  "stem": "(2) 應填入：They also ____ farmers whose crops are damaged by wildlife.",
+  "options": [
+   "compensate",
+   "repay",
+   "refund",
+   "reward"
+  ],
+  "answer": 0,
+  "explain_zh": "compensate somebody 指「補償某人的損失」，正符合農作物受害的情況。repay 是償還借款、refund 的受詞是款項、reward 是獎勵有功的人，語意都不對。",
+  "vocab": [
+   {
+    "w": "compensate",
+    "zh": "補償",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0118",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "passage": "The Formosan black bear appears on posters all over Taiwan, yet fewer than a thousand are thought to (1) in the wild. Habitat loss is the main reason: roads, farms and hotels cut the forest into pieces too small for a large animal, and illegal traps do the rest. Conservation groups therefore work on two fronts. They repair the forest by planting native trees and by building bridges that let animals cross motorways safely, and they also (2) farmers whose crops are damaged by wildlife. Money matters here. (3) villagers see a living bear as more valuable than a dead one, no law will save the species. Since 1989 the bear (4) by law, yet enforcement in remote mountains remains difficult. The lesson of thirty years of fieldwork is simple: protecting an animal means (5) the people who live beside it.",
+  "group_id": "HC1-G24",
+  "stem": "(3) 應填入：____ villagers see a living bear as more valuable than a dead one, no law will save the species.",
+  "options": [
+   "Since",
+   "If",
+   "Although",
+   "Unless"
+  ],
+  "answer": 3,
+  "explain_zh": "句意是「除非村民覺得活熊更有價值，否則法律救不了牠們」，用 Unless。If 會讓邏輯相反、Although 表讓步、Since 表原因，都不成立。",
+  "vocab": [
+   {
+    "w": "species",
+    "zh": "物種",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0119",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "passage": "The Formosan black bear appears on posters all over Taiwan, yet fewer than a thousand are thought to (1) in the wild. Habitat loss is the main reason: roads, farms and hotels cut the forest into pieces too small for a large animal, and illegal traps do the rest. Conservation groups therefore work on two fronts. They repair the forest by planting native trees and by building bridges that let animals cross motorways safely, and they also (2) farmers whose crops are damaged by wildlife. Money matters here. (3) villagers see a living bear as more valuable than a dead one, no law will save the species. Since 1989 the bear (4) by law, yet enforcement in remote mountains remains difficult. The lesson of thirty years of fieldwork is simple: protecting an animal means (5) the people who live beside it.",
+  "group_id": "HC1-G24",
+  "stem": "(4) 應填入：Since 1989 the bear ____ by law, yet enforcement in remote mountains remains difficult.",
+  "options": [
+   "has protected",
+   "has been protected",
+   "was protecting",
+   "protects"
+  ],
+  "answer": 1,
+  "explain_zh": "Since 1989 要用現在完成式，而熊是「被法律保護」，所以用現在完成被動 has been protected。其餘三個都是主動語態，會變成熊在保護別人。",
+  "vocab": [
+   {
+    "w": "enforcement",
+    "zh": "執法",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HC1-0120",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：語意選詞",
+  "passage": "The Formosan black bear appears on posters all over Taiwan, yet fewer than a thousand are thought to (1) in the wild. Habitat loss is the main reason: roads, farms and hotels cut the forest into pieces too small for a large animal, and illegal traps do the rest. Conservation groups therefore work on two fronts. They repair the forest by planting native trees and by building bridges that let animals cross motorways safely, and they also (2) farmers whose crops are damaged by wildlife. Money matters here. (3) villagers see a living bear as more valuable than a dead one, no law will save the species. Since 1989 the bear (4) by law, yet enforcement in remote mountains remains difficult. The lesson of thirty years of fieldwork is simple: protecting an animal means (5) the people who live beside it.",
+  "group_id": "HC1-G24",
+  "stem": "(5) 應填入：Protecting an animal means ____ the people who live beside it.",
+  "options": [
+   "supporting",
+   "replacing",
+   "avoiding",
+   "blaming"
+  ],
+  "answer": 0,
+  "explain_zh": "全文強調要照顧與野生動物共處的居民，所以是 supporting「支持」。replacing 是取代、avoiding 是避開、blaming 是責怪，都與保育團體的做法相反。",
+  "vocab": [
+   {
+    "w": "habitat",
+    "zh": "棲地",
+    "pos": "n."
+   }
+  ]
+ }
+]

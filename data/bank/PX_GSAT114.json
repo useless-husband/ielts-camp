@@ -1,0 +1,974 @@
+[
+ {
+  "id": "PX-GSAT114-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "If you put a ____ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+  "options": [
+   "border",
+   "timer",
+   "container",
+   "marker"
+  ],
+  "answer": 2,
+  "explain_zh": "在漏水的水龍頭下放個「容器」接水，24小時後蒐集到的水量會讓人驚訝，故選 container。border（邊界）、timer（計時器）、marker（記號筆）皆無法形容用來盛裝液體的物品。container 泛指各種容器、盛裝物品的器皿。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "container",
+    "zh": "容器",
+    "pos": "n."
+   },
+   {
+    "w": "leaking",
+    "zh": "漏水的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The local farmers' market is popular as it offers a variety of fresh seasonal ____ to people in the community.",
+  "options": [
+   "produce",
+   "fashion",
+   "brand",
+   "trend"
+  ],
+  "answer": 0,
+  "explain_zh": "當地農夫市集受歡迎，是因為提供社區居民各式新鮮當季「農產品」，故選 produce，此處作名詞用，指農產品。fashion（時尚）、brand（品牌）、trend（趨勢）皆無法形容蔬果類的農產品。produce 作名詞時重音在第一音節，與動詞 produce 不同。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "produce",
+    "zh": "農產品",
+    "pos": "n."
+   },
+   {
+    "w": "seasonal",
+    "zh": "當季的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "As the years have passed by, many of my childhood memories are already ____; I can no longer recall clearly what happened back then.",
+  "options": [
+   "blurring",
+   "trimming",
+   "draining",
+   "glaring"
+  ],
+  "answer": 0,
+  "explain_zh": "隨著歲月流逝，許多童年回憶已逐漸「模糊」，再也無法清楚回想起當時發生的事，故選 blurring。trimming（修剪）、draining（排乾）、glaring（怒目而視、刺眼的）皆無法形容記憶逐漸不清晰的狀態。blur 常用於描述影像或記憶變得模糊不清。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "blur",
+    "zh": "使模糊",
+    "pos": "v."
+   },
+   {
+    "w": "recall",
+    "zh": "回想",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Racist remarks are by nature ____ and hurtful, and should be avoided on all occasions.",
+  "options": [
+   "excessive",
+   "furious",
+   "offensive",
+   "stubborn"
+  ],
+  "answer": 2,
+  "explain_zh": "種族歧視言論本質上具有「冒犯性」且傷人，任何場合都應避免，故選 offensive。excessive（過度的）、furious（狂怒的）、stubborn（固執的）皆無法形容言語令人不快、帶有冒犯性質的特質。offensive remarks 是常見的固定搭配。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "offensive",
+    "zh": "冒犯的",
+    "pos": "adj."
+   },
+   {
+    "w": "remark",
+    "zh": "言論",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Not satisfied with the first ____ of her essay, Mary revised it several times before turning it in to the teacher.",
+  "options": [
+   "text",
+   "brush",
+   "draft",
+   "plot"
+  ],
+  "answer": 2,
+  "explain_zh": "瑪莉對文章的「初稿」不滿意，交給老師前修改了好幾次，故選 draft。text（文本）、brush（畫筆）、plot（情節）皆無法形容寫作過程中尚未定案的版本。first draft 是常見的固定搭配，指初次完成的草稿。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "draft",
+    "zh": "草稿",
+    "pos": "n."
+   },
+   {
+    "w": "revise",
+    "zh": "修改",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Left ____ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+  "options": [
+   "casual",
+   "fragile",
+   "remote",
+   "vacant"
+  ],
+  "answer": 3,
+  "explain_zh": "這棟廢棄的房子已「閒置」多年，屋內布滿厚厚一層灰塵，並瀰漫著潮濕木頭的氣味，故選 vacant。casual（隨性的）、fragile（易碎的）、remote（偏遠的）皆無法形容房屋長期無人居住的狀態。vacant 常用於描述空置、無人使用的空間。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "vacant",
+    "zh": "閒置的、空的",
+    "pos": "adj."
+   },
+   {
+    "w": "deserted",
+    "zh": "廢棄的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The high school student showed ____ courage when she helped the old man escape from the fire.",
+  "options": [
+   "gigantic",
+   "exclusive",
+   "multiple",
+   "enormous"
+  ],
+  "answer": 3,
+  "explain_zh": "這位高中生在幫助老翁逃離火場時展現出「極大」的勇氣，故選 enormous。gigantic（巨大的，通常形容體積）、exclusive（獨家的、專屬的）、multiple（多重的）皆無法形容抽象特質「勇氣」的程度之大。enormous courage 是常見的固定搭配。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "enormous",
+    "zh": "極大的",
+    "pos": "adj."
+   },
+   {
+    "w": "courage",
+    "zh": "勇氣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Publicly financed projects are often ____ or delayed during tough economic times due to a lack of resources.",
+  "options": [
+   "halted",
+   "hatched",
+   "possessed",
+   "reinforced"
+  ],
+  "answer": 0,
+  "explain_zh": "經濟不景氣、資源不足時，由公家出資的建設計畫常被「暫停」或延宕，故選 halted。hatched（孵化）、possessed（被擁有）、reinforced（被強化，語意方向相反）皆無法形容工程因故停擺的狀態。halt 常用於描述計畫或行動的中止。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "halt",
+    "zh": "暫停",
+    "pos": "v."
+   },
+   {
+    "w": "resource",
+    "zh": "資源",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Despite his busy schedule, the President ____ the school's graduation ceremony with his presence and a heartwarming speech.",
+  "options": [
+   "praised",
+   "graced",
+   "addressed",
+   "credited"
+  ],
+  "answer": 1,
+  "explain_zh": "儘管總統行程繁忙，仍「蒞臨」學校畢業典禮並發表溫馨演說，grace with one's presence 是文雅的固定用法，表示「以出席為某場合增光」，故選 graced。praised（稱讚）、addressed（向……致詞，較平實）、credited（歸功於）皆不如 grace 貼切表達貴賓蒞臨的莊重語氣。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "grace",
+    "zh": "蒞臨、為……增光",
+    "pos": "v."
+   },
+   {
+    "w": "presence",
+    "zh": "出席、蒞臨",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The manager of the company was sued for ____ abusing his colleagues, calling them \"hopeless losers.\"",
+  "options": [
+   "verbally",
+   "dominantly",
+   "legitimately",
+   "relevantly"
+  ],
+  "answer": 0,
+  "explain_zh": "這位經理因「言語」辱罵同事，稱他們是「沒救的魯蛇」而遭到控告，故選 verbally。dominantly（主導地）、legitimately（合法地）、relevantly（相關地）皆無法形容以言語方式進行的辱罵。verbally abuse 常用於描述言語上的辱罵或攻擊。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "verbally",
+    "zh": "以言語方式",
+    "pos": "adv."
+   },
+   {
+    "w": "abuse",
+    "zh": "辱罵、虐待",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that (11) rapidly around the world.\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan (12) by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might (13) and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process (14) a new form of collective effort that transformed the depth, scope, and quality of their discussion.\nThe World Cafe was (15) created. Since that rainy morning in Mill Valley, the World Cafe approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+  "group_id": "PX-GSAT114-G01",
+  "stem": "(11) 應填入：None of them had any idea they were about to create a social innovation that ____ rapidly around the world.",
+  "options": [
+   "had spread",
+   "would spread",
+   "had been spreading",
+   "would have spread"
+  ],
+  "answer": 1,
+  "explain_zh": "此句站在1995年這個過去時間點，描述當時完全不知道這項創新未來會在世界各地「快速傳播」，須用過去式的未來（過去未來式）表達站在過去看未來的動作，故選 would spread。had spread、had been spreading 皆是過去完成式，表示早於過去某時已發生，與句意不符；would have spread 則用於與過去事實相反的假設，也不適用。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "spread",
+    "zh": "傳播",
+    "pos": "v."
+   },
+   {
+    "w": "innovation",
+    "zh": "創新",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that (11) rapidly around the world.\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan (12) by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might (13) and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process (14) a new form of collective effort that transformed the depth, scope, and quality of their discussion.\nThe World Cafe was (15) created. Since that rainy morning in Mill Valley, the World Cafe approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+  "group_id": "PX-GSAT114-G01",
+  "stem": "(12) 應填入：With their plan ____ by the rain, the two dozen participants squeezed into the living room.",
+  "options": [
+   "facilitated",
+   "disrupted",
+   "disclosed",
+   "fulfilled"
+  ],
+  "answer": 1,
+  "explain_zh": "原本預計在花園進行大圈討論的計畫，被突如其來的大雨「打亂」，disrupted 表示「擾亂、打斷」，故選 disrupted。facilitated（被促進，語意相反）、disclosed（被揭露）、fulfilled（被實現）皆無法表達「計畫被雨打亂」的語意。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "disrupt",
+    "zh": "打亂",
+    "pos": "v."
+   },
+   {
+    "w": "pour",
+    "zh": "傾盆大雨",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that (11) rapidly around the world.\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan (12) by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might (13) and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process (14) a new form of collective effort that transformed the depth, scope, and quality of their discussion.\nThe World Cafe was (15) created. Since that rainy morning in Mill Valley, the World Cafe approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+  "group_id": "PX-GSAT114-G01",
+  "stem": "(13) 應填入：They periodically stopped their conversations to switch tables so the insights and ideas might ____ and deepen.",
+  "options": [
+   "circulate",
+   "emphasize",
+   "recover",
+   "preserve"
+  ],
+  "answer": 0,
+  "explain_zh": "與會者不時換桌交流，讓想法與見解能持續「流通」並加深，故選 circulate。emphasize（強調）、recover（恢復）、preserve（保存）皆無法表達「想法在不同小組間流動傳遞」的語意。circulate 常用於描述資訊或想法的流通擴散。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "circulate",
+    "zh": "流通",
+    "pos": "v."
+   },
+   {
+    "w": "deepen",
+    "zh": "加深",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that (11) rapidly around the world.\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan (12) by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might (13) and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process (14) a new form of collective effort that transformed the depth, scope, and quality of their discussion.\nThe World Cafe was (15) created. Since that rainy morning in Mill Valley, the World Cafe approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+  "group_id": "PX-GSAT114-G01",
+  "stem": "(14) 應填入：Over the course of the morning, the innovative discussion process ____ a new form of collective effort that transformed the depth, scope, and quality of their discussion.",
+  "options": [
+   "made up for",
+   "kept track of",
+   "gave rise to",
+   "looked out for"
+  ],
+  "answer": 2,
+  "explain_zh": "整個早上，這種創新的討論流程「促成」了一種嶄新的集體合作形式，give rise to 表示「引發、促成」，故選 gave rise to。made up for（彌補）、kept track of（追蹤記錄）、looked out for（留意提防）皆無法表達「催生出新事物」的語意。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "give rise to",
+    "zh": "促成、引發",
+    "pos": "phr."
+   },
+   {
+    "w": "collective",
+    "zh": "集體的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In 1995, a group of business and academic leaders met at the home of Juanita Brown and David Isaacs in Mill Valley, California. None of them had any idea they were about to create a social innovation that (11) rapidly around the world.\nThe group was supposed to have a large-circle discussion in their beautiful garden. Unfortunately, it started pouring. With their plan (12) by the rain, the two dozen participants squeezed into the living room. They broke into small, intimate table conversations, recording their insights on paper tablecloths. They periodically stopped their conversations to switch tables so the insights and ideas might (13) and deepen. As they moved from one table to another, they noticed new ideas emerging from the discussions. This in turn enriched subsequent rounds of conversation. Over the course of the morning, the innovative discussion process (14) a new form of collective effort that transformed the depth, scope, and quality of their discussion.\nThe World Cafe was (15) created. Since that rainy morning in Mill Valley, the World Cafe approach has been applied to multi-group discussions and cooperative actions by businesses, industries, and educational institutions around the world.",
+  "group_id": "PX-GSAT114-G01",
+  "stem": "(15) 應填入：The World Cafe was ____ created.",
+  "options": [
+   "still",
+   "also",
+   "further",
+   "thus"
+  ],
+  "answer": 3,
+  "explain_zh": "因為前述種種因緣際會，「因此」World Café 這套討論方法就此誕生，thus 表示因果關係的總結，故選 thus。still（仍然）、also（也）、further（進一步）皆無法表達「因此、於是」的邏輯關係。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "thus",
+    "zh": "因此",
+    "pos": "adv."
+   },
+   {
+    "w": "approach",
+    "zh": "方法",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "If you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can (16) suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body (17). Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts (18). Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\nYou can take some (19) to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help (20). You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+  "group_id": "PX-GSAT114-G02",
+  "stem": "(16) 應填入：It can ____ suddenly, progressing from a feeling of uneasiness to a cold sweat.",
+  "options": [
+   "crash",
+   "flush",
+   "burst",
+   "strike"
+  ],
+  "answer": 3,
+  "explain_zh": "暈動症可能會突然「發作」，從不適感逐漸演變成冒冷汗，strike 常用於描述疾病或症狀突然來襲，故選 strike。crash（墜毀）、flush（沖洗、臉紅）、burst（爆裂）皆無法形容症狀「發作」的語意。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "strike",
+    "zh": "（疾病）發作",
+    "pos": "v."
+   },
+   {
+    "w": "uneasiness",
+    "zh": "不適感",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "If you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can (16) suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body (17). Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts (18). Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\nYou can take some (19) to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help (20). You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+  "group_id": "PX-GSAT114-G02",
+  "stem": "(17) 應填入：Motion sickness occurs when the signals your brain receives from your eyes, ears, and body ____.",
+  "options": [
+   "are not regular",
+   "can hardly move",
+   "do not match",
+   "are rarely cued"
+  ],
+  "answer": 2,
+  "explain_zh": "暈動症發生的原因，是大腦從眼睛、耳朵與身體接收到的訊號彼此「不一致」，故選 do not match。are not regular（不規律）、can hardly move（幾乎無法移動）、are rarely cued（很少被提示）皆無法表達「訊號互相矛盾衝突」的語意。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "match",
+    "zh": "一致、相符",
+    "pos": "v."
+   },
+   {
+    "w": "conflicting",
+    "zh": "互相矛盾的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "If you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can (16) suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body (17). Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts (18). Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\nYou can take some (19) to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help (20). You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+  "group_id": "PX-GSAT114-G02",
+  "stem": "(18) 應填入：One part of your balance-sensing system detects that your body is moving, but the other parts ____.",
+  "options": [
+   "aren't",
+   "won't",
+   "don't",
+   "haven't"
+  ],
+  "answer": 2,
+  "explain_zh": "平衡感知系統中一部分偵測到身體在移動，但另一部分「並未」偵測到，此處用一般現在式的否定形式與前句的 detects（現在式）呼應，故選 don't。aren't、won't、haven't 皆無法與省略的動詞 detect 搭配出正確的時態一致性。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "detect",
+    "zh": "偵測",
+    "pos": "v."
+   },
+   {
+    "w": "stationary",
+    "zh": "靜止的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "If you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can (16) suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body (17). Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts (18). Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\nYou can take some (19) to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help (20). You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+  "group_id": "PX-GSAT114-G02",
+  "stem": "(19) 應填入：You can take some ____ to help avoid the discomfort.",
+  "options": [
+   "special opportunities",
+   "preventive measures",
+   "potential risks",
+   "significant advantages"
+  ],
+  "answer": 1,
+  "explain_zh": "為了避免暈動症的不適，可以採取一些「預防措施」，故選 preventive measures。special opportunities（特殊機會）、potential risks（潛在風險，語意相反）、significant advantages（顯著優勢）皆無法表達「事先預防的做法」。take measures 是常見的固定搭配。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "preventive",
+    "zh": "預防性的",
+    "pos": "adj."
+   },
+   {
+    "w": "measure",
+    "zh": "措施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "If you have ever been sick to your stomach on a rocking boat or a bumpy car ride, you know the discomfort of motion sickness. It can (16) suddenly, progressing from a feeling of uneasiness to a cold sweat. Soon, it can lead to dizziness, nausea, and vomiting.\nMotion sickness occurs when the signals your brain receives from your eyes, ears, and body (17). Your brain doesn't know whether you are stationary or moving when these parts send conflicting information: One part of your balance-sensing system detects that your body is moving, but the other parts (18). Your brain's confused reaction makes you feel sick. You may experience the discomfort from the motion of cars, boats, or amusement park rides. You may also get sick from playing video games, or looking through a microscope.\nYou can take some (19) to help avoid the discomfort. If you are traveling, reserve seats where motion is felt the least, such as the front row of a car or forward cars of a train. Looking out into the distance from the vehicle can help (20). You can also take medicine before your ride to avoid or reduce nausea and vomiting.",
+  "group_id": "PX-GSAT114-G02",
+  "stem": "(20) 應填入：Looking out into the distance from the vehicle can help ____.",
+  "options": [
+   "as well",
+   "by far",
+   "at least",
+   "after all"
+  ],
+  "answer": 0,
+  "explain_zh": "從交通工具中望向遠方，「同樣」也有助於緩解暈動症的不適，as well 表示「也、同樣」，用來補充前一句提到的其他預防方法，故選 as well。by far（迄今為止）、at least（至少）、after all（畢竟）皆無法表達「此方法同樣有效」的補充語氣。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "as well",
+    "zh": "也、同樣",
+    "pos": "adv."
+   },
+   {
+    "w": "distance",
+    "zh": "遠方、距離",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-021",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "While waiting to cross the street at busy intersections, have you ever wondered who invented the traffic light? Most people credit the first traffic light to Nottingham engineer John Peake Knight. A railway manager, Knight specialized in designing the signaling system for Britain's growing railway network in the 1860s. He saw no reason why this could not be adapted for use on the busy London intersections. Thus, he proposed a signaling system based on the railway movable-arm signal: Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director's gestures. Red and green gas lamps were added to the signal for use at night. A police officer was stationed by the side to operate the system.\nKnight's traffic signal was installed near London's Westminster Bridge in December 1868, but the system was short-lived. A gas leak one month later caused an explosion in the lights, injuring the policeman operating it. Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.\nIn the early 1900s, versions of the British traffic lights appeared in big cities in America, where traffic was on a sharp rise. Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco. Patents with innovations on Knight's ideas were filed nationwide. A major breakthrough was the yellow light invented by a Detroit police officer William Potts. Installed in Detroit in 1920, Potts' three-color system allowed for the added signal \"proceed with caution\" to be displayed.\nNow, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary. Intersections will operate in a way that cars automatically adjust their speed to cross through, while maintaining safe distances from other vehicles. In the near future, we may experience a brand new form of traffic management!",
+  "group_id": "PX-GSAT114-G03",
+  "stem": "What is this passage mainly about?",
+  "options": [
+   "The evolution of traffic control systems.",
+   "The inventors of traffic lights in history.",
+   "The functions of different traffic signals.",
+   "The development of modern transportation."
+  ],
+  "answer": 0,
+  "explain_zh": "全文依時間順序介紹交通號誌從奈特的手臂式號誌、波茨的三色號誌，到未來自駕車可能不再需要號誌的發展歷程，主軸是交通管制系統的「演變」，故選 A。選項 B、C、D 皆只涵蓋部分內容，並非全文核心。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "evolution",
+    "zh": "演變",
+    "pos": "n."
+   },
+   {
+    "w": "traffic control",
+    "zh": "交通管制",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-022",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "While waiting to cross the street at busy intersections, have you ever wondered who invented the traffic light? Most people credit the first traffic light to Nottingham engineer John Peake Knight. A railway manager, Knight specialized in designing the signaling system for Britain's growing railway network in the 1860s. He saw no reason why this could not be adapted for use on the busy London intersections. Thus, he proposed a signaling system based on the railway movable-arm signal: Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director's gestures. Red and green gas lamps were added to the signal for use at night. A police officer was stationed by the side to operate the system.\nKnight's traffic signal was installed near London's Westminster Bridge in December 1868, but the system was short-lived. A gas leak one month later caused an explosion in the lights, injuring the policeman operating it. Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.\nIn the early 1900s, versions of the British traffic lights appeared in big cities in America, where traffic was on a sharp rise. Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco. Patents with innovations on Knight's ideas were filed nationwide. A major breakthrough was the yellow light invented by a Detroit police officer William Potts. Installed in Detroit in 1920, Potts' three-color system allowed for the added signal \"proceed with caution\" to be displayed.\nNow, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary. Intersections will operate in a way that cars automatically adjust their speed to cross through, while maintaining safe distances from other vehicles. In the near future, we may experience a brand new form of traffic management!",
+  "group_id": "PX-GSAT114-G03",
+  "stem": "Which of the following statements is true, according to the passage?",
+  "options": [
+   "Knight was injured in the explosion of his traffic light.",
+   "Potts' traffic light was the first one to appear in the USA.",
+   "The first traffic signal originated from the idea of a traffic director.",
+   "Future vehicles may not need traffic lights to cross an intersection."
+  ],
+  "answer": 3,
+  "explain_zh": "文末提到隨著自駕車出現，研究人員開始認為未來路口可能不再需要交通號誌，故選 D。選項 A 誤把受傷者說成奈特本人（其實是操作號誌的警察）、B 誤把波茨的號誌說成美國最早出現的（芝加哥、舊金山更早採用）、C 誤把發想來源說成交通指揮員（其實是鐵路號誌），皆與原文不符。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "self-driving",
+    "zh": "自動駕駛的",
+    "pos": "adj."
+   },
+   {
+    "w": "intersection",
+    "zh": "路口",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-023",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "While waiting to cross the street at busy intersections, have you ever wondered who invented the traffic light? Most people credit the first traffic light to Nottingham engineer John Peake Knight. A railway manager, Knight specialized in designing the signaling system for Britain's growing railway network in the 1860s. He saw no reason why this could not be adapted for use on the busy London intersections. Thus, he proposed a signaling system based on the railway movable-arm signal: Arms extending horizontally commanded drivers to stop, whereas arms lowered to a 45-degree angle told drivers to move on, resembling a traffic director's gestures. Red and green gas lamps were added to the signal for use at night. A police officer was stationed by the side to operate the system.\nKnight's traffic signal was installed near London's Westminster Bridge in December 1868, but the system was short-lived. A gas leak one month later caused an explosion in the lights, injuring the policeman operating it. Deemed a public hazard, the project was immediately dropped, and traffic lights were banned until their return in 1929 back to the British streets.\nIn the early 1900s, versions of the British traffic lights appeared in big cities in America, where traffic was on a sharp rise. Systems using movable arms were popular in Chicago, while those using the red and green lights were adopted in San Francisco. Patents with innovations on Knight's ideas were filed nationwide. A major breakthrough was the yellow light invented by a Detroit police officer William Potts. Installed in Detroit in 1920, Potts' three-color system allowed for the added signal \"proceed with caution\" to be displayed.\nNow, with the emergence of self-driving cars, researchers have begun to suggest that traffic signals are no longer necessary. Intersections will operate in a way that cars automatically adjust their speed to cross through, while maintaining safe distances from other vehicles. In the near future, we may experience a brand new form of traffic management!",
+  "group_id": "PX-GSAT114-G03",
+  "stem": "Here is a sentence: \"This design was adopted in later traffic light designs across the world.\" Which paragraph is most suitable to have it as the final sentence?",
+  "options": [
+   "Paragraph 1.",
+   "Paragraph 2.",
+   "Paragraph 3.",
+   "Paragraph 4."
+  ],
+  "answer": 2,
+  "explain_zh": "「這項設計後來被世界各地的交通號誌設計採用」最適合放在第三段結尾，因為該段正說明波茨發明的三色號誌系統成為重大突破，並被各地沿用，故選 Paragraph 3。第一、二、四段的內容主軸與此總結句不完全吻合。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "adopt",
+    "zh": "採用",
+    "pos": "v."
+   },
+   {
+    "w": "breakthrough",
+    "zh": "突破",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-024",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Typically featuring zombies and serial killers, horror movies are too frightening to be fun for some people. But many others enjoy a good fear spectacle, and line up to see the latest scary movie. Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.\nOne benefit of horror movies revolves around the concept of so-called \"safe fear.\" When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger. In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher. Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously. Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world. In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over. This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.\nHowever, researchers also find that horror movies can have negative effects on some people. People who are more sensitive to anxiety can panic after viewing a thriller. For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse. Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day. Finally, specialists warn that frightening films can have a negative impact on children. Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood. Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.",
+  "group_id": "PX-GSAT114-G04",
+  "stem": "What field of study does the research mentioned in the passage most likely belong to?",
+  "options": [
+   "Psychology.",
+   "Education.",
+   "Philosophy.",
+   "Communication."
+  ],
+  "answer": 0,
+  "explain_zh": "文中探討的是恐怖片對觀眾情緒、壓力釋放、焦慮與創傷等心理層面的影響，屬於「心理學」研究範疇，故選 A。選項 B、C、D 皆與文章討論的內容主軸（情緒與行為反應）較不相關。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "psychology",
+    "zh": "心理學",
+    "pos": "n."
+   },
+   {
+    "w": "therapeutic",
+    "zh": "具療效的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-025",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Typically featuring zombies and serial killers, horror movies are too frightening to be fun for some people. But many others enjoy a good fear spectacle, and line up to see the latest scary movie. Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.\nOne benefit of horror movies revolves around the concept of so-called \"safe fear.\" When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger. In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher. Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously. Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world. In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over. This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.\nHowever, researchers also find that horror movies can have negative effects on some people. People who are more sensitive to anxiety can panic after viewing a thriller. For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse. Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day. Finally, specialists warn that frightening films can have a negative impact on children. Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood. Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.",
+  "group_id": "PX-GSAT114-G04",
+  "stem": "What does the author mean by \"learning vicariously\" in the second paragraph?",
+  "options": [
+   "Making inquiries without reservation.",
+   "Gaining knowledge through observation.",
+   "Acquiring insights by face-to-face interaction.",
+   "Obtaining information from personal experience."
+  ],
+  "answer": 1,
+  "explain_zh": "learning vicariously 指觀眾代入劇中角色的視角，在潛意識中演練劇情，藉此「透過觀察」間接學習應對威脅的方式，故選 B。選項 A、C、D 皆誤解了「代入式學習」並非透過親身經歷或直接互動，而是透過觀察他人（角色）的經驗。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "vicariously",
+    "zh": "代入式地、間接地",
+    "pos": "adv."
+   },
+   {
+    "w": "perspective",
+    "zh": "視角",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-026",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Typically featuring zombies and serial killers, horror movies are too frightening to be fun for some people. But many others enjoy a good fear spectacle, and line up to see the latest scary movie. Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.\nOne benefit of horror movies revolves around the concept of so-called \"safe fear.\" When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger. In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher. Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously. Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world. In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over. This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.\nHowever, researchers also find that horror movies can have negative effects on some people. People who are more sensitive to anxiety can panic after viewing a thriller. For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse. Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day. Finally, specialists warn that frightening films can have a negative impact on children. Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood. Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.",
+  "group_id": "PX-GSAT114-G04",
+  "stem": "Which of the following statements about horror movies can be inferred from the passage?",
+  "options": [
+   "Most horror movie lovers are prone to aggressive behavior.",
+   "There are far more benefits to horror movies than disadvantages.",
+   "COVID-19 was an important source of inspiration for horror movies.",
+   "Watching horror movies may have a long-term effect on personality."
+  ],
+  "answer": 3,
+  "explain_zh": "文末提到十四歲以下兒童觀看恐怖片，成年後罹患焦慮症的機率較高，且可能對暴力更加麻木，顯示觀看恐怖片可能對人格產生「長期影響」，故選 D。選項 A、B、C 皆屬過度推論或與原文重點不符的陷阱選項。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "long-term",
+    "zh": "長期的",
+    "pos": "adj."
+   },
+   {
+    "w": "personality",
+    "zh": "人格",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-027",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Typically featuring zombies and serial killers, horror movies are too frightening to be fun for some people. But many others enjoy a good fear spectacle, and line up to see the latest scary movie. Given the variations in preferences, new studies have started to untangle the benefits and risks of horror movies.\nOne benefit of horror movies revolves around the concept of so-called \"safe fear.\" When watching a frightening film, people are in the comfort of their own home or theater seats rather than under the threat of any real danger. In a controlled environment, these films may actually reduce the negative impact on viewers and help them become tougher. Secondly, as people are drawn into the story, they tend to take the perspective of the characters and rehearse the plot unconsciously. Researchers believe that viewers are learning vicariously this way, picking up tips on how to handle threats in the real world. In addition, studies show that the thrill and excitement linked with scary films can be therapeutic: It allows viewers to release bottled-up emotions and experience a sense of relief after the movie is over. This probably explains why during the COVID-19 pandemic, horror and pandemic thrillers were the most-watched movies on digital movie apps.\nHowever, researchers also find that horror movies can have negative effects on some people. People who are more sensitive to anxiety can panic after viewing a thriller. For those with unpleasant experiences, trauma may be triggered by the themes and images in the movies, which could make their symptoms worse. Furthermore, watching horror movies can disturb sleep patterns, as the residual fear and anxiety they evoke may keep people awake all night, thus leading to fatigue and irritability the following day. Finally, specialists warn that frightening films can have a negative impact on children. Children under 14 who watch horror movies have a greater chance of developing anxiety later in adulthood. Worse yet, exposure to graphic violence and bloodshed can make them less sensitive to real-life violence and more accepting of aggression.",
+  "group_id": "PX-GSAT114-G04",
+  "stem": "How does the author develop the ideas in this passage?",
+  "options": [
+   "By defining and illustrating a concept.",
+   "By showing opposing views of an issue.",
+   "By presenting cause and effect of a problem.",
+   "By providing steps for settling a disagreement."
+  ],
+  "answer": 1,
+  "explain_zh": "文章第二、三段分別詳述恐怖片的「好處」與「壞處」，呈現一體兩面的觀點，屬於「正反對照」的論述方式，故選 B。選項 A、C、D 皆非本文採用的主要論述手法。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "opposing",
+    "zh": "對立的",
+    "pos": "adj."
+   },
+   {
+    "w": "develop",
+    "zh": "（論述）展開",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-028",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Russia is widely portrayed as the most alcohol-dependent country in the world. Critics of the country say that drinking is almost an inherent trait of the Russian people. However, there is more to the story.\nThe consumption of alcoholic beverages was unusual in ancient Russia. Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine. People only drank beverages with low alcohol content. Vodka, Russia's national drink, was not a Russian invention. The liquid was originally a grape alcohol introduced from France in the late 14th century. The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.\nThere is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries. Some documents noted that Russians \"indulge in excessive drinking whenever the occasion arises,\" while others claimed that Russians \"rarely drink wine.\" The heaviest drinkers in medieval Europe were actually Germans. There were many sayings about their desire for alcohol, such as \"drunk as a German.\"\nThe Russian state played a significant role in the spread of alcohol consumption in the country. In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka. Thus, only the government was permitted to produce the alcohol. This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption. The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.\nMeanwhile, a powerful anti-alcohol movement started in the 19th century. Government policies were made and public organizations established to prevent the spread of alcoholism in the country. The movement continued over the years; however, the problem remains. Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.",
+  "group_id": "PX-GSAT114-G05",
+  "stem": "What is the main purpose of the second paragraph in the passage?",
+  "options": [
+   "To discuss the content of alcoholic drinks in ancient Europe.",
+   "To highlight the French impact on Russians' drinking habits.",
+   "To argue against the assumption that Russians are born drinkers.",
+   "To link Russians' vodka consumption to their adoption of Christianity."
+  ],
+  "answer": 2,
+  "explain_zh": "第二段說明古代俄國本無葡萄酒文化，伏特加最初也是從法國傳入的葡萄酒，藉此反駁俄國人「天生愛喝酒」的刻板印象，故選 C。選項 A、B、D 皆只是段落中的部分細節，並非該段的核心論述目的。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "inherent",
+    "zh": "天生的、固有的",
+    "pos": "adj."
+   },
+   {
+    "w": "assumption",
+    "zh": "假設、認定",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-029",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Russia is widely portrayed as the most alcohol-dependent country in the world. Critics of the country say that drinking is almost an inherent trait of the Russian people. However, there is more to the story.\nThe consumption of alcoholic beverages was unusual in ancient Russia. Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine. People only drank beverages with low alcohol content. Vodka, Russia's national drink, was not a Russian invention. The liquid was originally a grape alcohol introduced from France in the late 14th century. The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.\nThere is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries. Some documents noted that Russians \"indulge in excessive drinking whenever the occasion arises,\" while others claimed that Russians \"rarely drink wine.\" The heaviest drinkers in medieval Europe were actually Germans. There were many sayings about their desire for alcohol, such as \"drunk as a German.\"\nThe Russian state played a significant role in the spread of alcohol consumption in the country. In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka. Thus, only the government was permitted to produce the alcohol. This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption. The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.\nMeanwhile, a powerful anti-alcohol movement started in the 19th century. Government policies were made and public organizations established to prevent the spread of alcoholism in the country. The movement continued over the years; however, the problem remains. Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.",
+  "group_id": "PX-GSAT114-G05",
+  "stem": "Which of the following is true about vodka production?",
+  "options": [
+   "Vodka production in Russia started in the 15th century.",
+   "The first vodka made from wheat was imported from France.",
+   "Germany was the biggest vodka producer in medieval Europe.",
+   "Russian people were encouraged to make their own vodka in the 19th century."
+  ],
+  "answer": 0,
+  "explain_zh": "文中明確提到「最早俄製伏特加出現在十五世紀」，故選 A。選項 B 誤把小麥伏特加說成從法國進口（實際上最初是葡萄酒精）、C 誤把德國說成最大生產國（文中只說德國人最愛喝）、D 與原文相反（十九世紀是政府壟斷生產而非鼓勵民間自製），皆與原文不符。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "production",
+    "zh": "生產",
+    "pos": "n."
+   },
+   {
+    "w": "originally",
+    "zh": "最初",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-030",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Russia is widely portrayed as the most alcohol-dependent country in the world. Critics of the country say that drinking is almost an inherent trait of the Russian people. However, there is more to the story.\nThe consumption of alcoholic beverages was unusual in ancient Russia. Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine. People only drank beverages with low alcohol content. Vodka, Russia's national drink, was not a Russian invention. The liquid was originally a grape alcohol introduced from France in the late 14th century. The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.\nThere is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries. Some documents noted that Russians \"indulge in excessive drinking whenever the occasion arises,\" while others claimed that Russians \"rarely drink wine.\" The heaviest drinkers in medieval Europe were actually Germans. There were many sayings about their desire for alcohol, such as \"drunk as a German.\"\nThe Russian state played a significant role in the spread of alcohol consumption in the country. In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka. Thus, only the government was permitted to produce the alcohol. This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption. The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.\nMeanwhile, a powerful anti-alcohol movement started in the 19th century. Government policies were made and public organizations established to prevent the spread of alcoholism in the country. The movement continued over the years; however, the problem remains. Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.",
+  "group_id": "PX-GSAT114-G05",
+  "stem": "What does \"This\" in the fourth paragraph refer to?",
+  "options": [
+   "The alcohol.",
+   "The government.",
+   "The illegal production.",
+   "The state monopoly."
+  ],
+  "answer": 3,
+  "explain_zh": "This 承接前句「政府實施的國家專賣制度」，指這項制度為國庫帶來龐大收入，卻也助長了伏特加的消費，故選 D。選項 A、B、C 皆非這句話真正指涉的對象，須留意代名詞指涉前一句的整體概念而非單一名詞。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "monopoly",
+    "zh": "專賣、壟斷",
+    "pos": "n."
+   },
+   {
+    "w": "treasury",
+    "zh": "國庫",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT114-031",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Russia is widely portrayed as the most alcohol-dependent country in the world. Critics of the country say that drinking is almost an inherent trait of the Russian people. However, there is more to the story.\nThe consumption of alcoholic beverages was unusual in ancient Russia. Before the adoption of Christianity in Russia (10th century), there were no vineyards and therefore no wine. People only drank beverages with low alcohol content. Vodka, Russia's national drink, was not a Russian invention. The liquid was originally a grape alcohol introduced from France in the late 14th century. The first Russian-made vodka appeared in the 15th century, and the drink remained relatively low in alcohol content until the mid-18th century.\nThere is contradictory information about Russians' inclination toward alcohol in the 15th and 16th centuries. Some documents noted that Russians \"indulge in excessive drinking whenever the occasion arises,\" while others claimed that Russians \"rarely drink wine.\" The heaviest drinkers in medieval Europe were actually Germans. There were many sayings about their desire for alcohol, such as \"drunk as a German.\"\nThe Russian state played a significant role in the spread of alcohol consumption in the country. In the 19th century, the emperors began to establish a state monopoly, largely due to the rise of illegal production of low-quality vodka. Thus, only the government was permitted to produce the alcohol. This soon filled the state treasury with huge revenues, but it also encouraged vodka consumption. The situation worsened when the industrial production of vodka began in the country, causing its prices to drop sharply and making it available to even low-income citizens.\nMeanwhile, a powerful anti-alcohol movement started in the 19th century. Government policies were made and public organizations established to prevent the spread of alcoholism in the country. The movement continued over the years; however, the problem remains. Although Russia does not occupy first place when it comes to alcohol consumption per capita, it is still close to the top.",
+  "group_id": "PX-GSAT114-G05",
+  "stem": "How does the author conclude the passage in the last paragraph?",
+  "options": [
+   "By providing further facts.",
+   "By summarizing the main ideas.",
+   "By raising a new problem.",
+   "By making a future prediction."
+  ],
+  "answer": 0,
+  "explain_zh": "末段補充了反酒精運動的發展與俄國目前人均飲酒量的排名等具體資訊，屬於「提供進一步事實」的寫作手法，並非總結全文或提出新問題，故選 A。選項 B、C、D 皆非末段實際採用的收尾方式。",
+  "source": "114學測",
+  "vocab": [
+   {
+    "w": "per capita",
+    "zh": "人均",
+    "pos": "adj."
+   },
+   {
+    "w": "alcoholism",
+    "zh": "酗酒問題",
+    "pos": "n."
+   }
+  ]
+ }
+]

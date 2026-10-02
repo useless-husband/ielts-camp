@@ -1,0 +1,1134 @@
+[
+ {
+  "id": "PX-AST109-001",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:workplace",
+  "tag_zh": "職場用語",
+  "source": "109指考",
+  "stem": "When John proposes an idea, people in his office always lend their support. He feels lucky to have ______ like them.",
+  "options": [
+   "villains",
+   "executives",
+   "colleagues",
+   "intruders"
+  ],
+  "answer": 2,
+  "explain_zh": "辦公室裡支持他提案的人是他的「同事」，故選 colleagues；villains（壞人）、intruders（入侵者）皆與辦公室夥伴的語意不合，executives（高階主管）則語意範圍過窄，不符合泛指同事的語境。",
+  "vocab": [
+   {
+    "w": "colleague",
+    "zh": "同事",
+    "pos": "n."
+   },
+   {
+    "w": "villain",
+    "zh": "壞人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-002",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:sports",
+  "tag_zh": "運動競技",
+  "source": "109指考",
+  "stem": "As last year's MVP (Most Valuable Player), Joan is ______ to the basketball team. No other player can replace her.",
+  "options": [
+   "indispensable",
+   "comprehensible",
+   "affordable",
+   "permissible"
+  ],
+  "answer": 0,
+  "explain_zh": "身為去年MVP、無人能取代，表示 Joan 對球隊來說是「不可或缺的」，故選 indispensable；comprehensible（可理解的）、affordable（負擔得起的）、permissible（被允許的）皆與「無可取代」的語意不合。",
+  "vocab": [
+   {
+    "w": "indispensable",
+    "zh": "不可或缺的",
+    "pos": "adj."
+   },
+   {
+    "w": "comprehensible",
+    "zh": "可理解的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-003",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:academic-verbs",
+  "tag_zh": "學術動詞",
+  "source": "109指考",
+  "stem": "The researcher warned that the results of the study needed to be interpreted with ______ because the sample size was not big enough to make firm conclusions.",
+  "options": [
+   "metaphor",
+   "caution",
+   "enthusiasm",
+   "impulse"
+  ],
+  "answer": 1,
+  "explain_zh": "樣本數不足以得出確定結論，研究者提醒須「謹慎」解讀結果，故選 caution；metaphor（隱喻）、enthusiasm（熱忱）、impulse（衝動）皆與謹慎解讀資料的語意不合。with caution 是常見的學術類固定搭配。",
+  "vocab": [
+   {
+    "w": "caution",
+    "zh": "謹慎",
+    "pos": "n."
+   },
+   {
+    "w": "metaphor",
+    "zh": "隱喻",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-004",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:conflict",
+  "tag_zh": "衝突對抗",
+  "source": "109指考",
+  "stem": "Although the small group of soldiers was greatly ______ by their enemy, they fought with great courage and finally won the battle.",
+  "options": [
+   "initiated",
+   "contradicted",
+   "outnumbered",
+   "triggered"
+  ],
+  "answer": 2,
+  "explain_zh": "雖然這支小部隊在人數上遠遠「寡不敵眾」，卻仍英勇奮戰並獲勝，故選 outnumbered；initiated（發起）、contradicted（反駁）、triggered（觸發）皆與敵眾我寡的語意不合。be outnumbered by 常用於描述人數處於劣勢。",
+  "vocab": [
+   {
+    "w": "outnumbered",
+    "zh": "寡不敵眾的",
+    "pos": "adj."
+   },
+   {
+    "w": "initiate",
+    "zh": "發起",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-005",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:social-behavior",
+  "tag_zh": "社交態度",
+  "source": "109指考",
+  "stem": "Mr. Wise received an award for his ______ to the needy children and the elderly in the neighborhood.",
+  "options": [
+   "competence",
+   "prospect",
+   "momentum",
+   "devotion"
+  ],
+  "answer": 3,
+  "explain_zh": "Wise先生因為對社區弱勢兒童及長者的「奉獻」而獲獎，故選 devotion；competence（能力）、prospect（展望）、momentum（動能）皆與無私付出的語意不合。devotion to 是常見的固定搭配，表示對某對象的奉獻。",
+  "vocab": [
+   {
+    "w": "devotion",
+    "zh": "奉獻",
+    "pos": "n."
+   },
+   {
+    "w": "prospect",
+    "zh": "展望",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-006",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:emotion-attitude",
+  "tag_zh": "情緒態度",
+  "source": "109指考",
+  "stem": "One simple yet good way to ______ your love for your family is to express it directly in words.",
+  "options": [
+   "manifest",
+   "resemble",
+   "execute",
+   "instruct"
+  ],
+  "answer": 0,
+  "explain_zh": "直接用言語表達對家人的愛，就是簡單卻有效地「展現」愛意，故選 manifest；resemble（相似）、execute（執行）、instruct（指示）皆與展現情感的語意不合。manifest one's love 是情感表達類常見搭配。",
+  "vocab": [
+   {
+    "w": "manifest",
+    "zh": "展現",
+    "pos": "v."
+   },
+   {
+    "w": "resemble",
+    "zh": "與...相似",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-007",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:technology",
+  "tag_zh": "科技倫理",
+  "source": "109指考",
+  "stem": "Cloning animals has been very controversial. Some people consider it a medical breakthrough, while others think it is ______ and should be prohibited.",
+  "options": [
+   "legitimate",
+   "inclusive",
+   "unethical",
+   "nonmilitant"
+  ],
+  "answer": 2,
+  "explain_zh": "複製動物爭議不斷，有人視為醫學突破，另一派則認為它「不道德」且應被禁止，故選 unethical；legitimate（合法的）、inclusive（包容的）、nonmilitant（非好戰的）皆與應被禁止的負面評價不合。",
+  "vocab": [
+   {
+    "w": "unethical",
+    "zh": "不道德的",
+    "pos": "adj."
+   },
+   {
+    "w": "legitimate",
+    "zh": "合法的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-008",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:animals",
+  "tag_zh": "動物自然",
+  "source": "109指考",
+  "stem": "Animals that stay in groups are more likely to find food and detect danger than a ______ animal—multiple pairs of eyes are better than one.",
+  "options": [
+   "contagious",
+   "rigid",
+   "distinctive",
+   "solitary"
+  ],
+  "answer": 3,
+  "explain_zh": "與群居動物相對的是「獨自一隻」的動物，多雙眼睛比一雙更能發現食物與危險，故選 solitary；contagious（有傳染性的）、rigid（僵化的）、distinctive（獨特的）皆與「單獨個體」的語意不合。",
+  "vocab": [
+   {
+    "w": "solitary",
+    "zh": "獨自的",
+    "pos": "adj."
+   },
+   {
+    "w": "contagious",
+    "zh": "有傳染性的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-009",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:publishing",
+  "tag_zh": "出版寫作",
+  "source": "109指考",
+  "stem": "On the first page of her new book, the writer ______ all the people who helped in the publication of the book.",
+  "options": [
+   "contemplates",
+   "acknowledges",
+   "inquires",
+   "regulates"
+  ],
+  "answer": 1,
+  "explain_zh": "作者在新書首頁「致謝」所有協助出版的人，故選 acknowledges；contemplates（沉思）、inquires（詢問）、regulates（規範）皆與向他人表達感謝的語意不合。acknowledge 常用於書籍序言或謝辭中。",
+  "vocab": [
+   {
+    "w": "acknowledge",
+    "zh": "致謝,承認",
+    "pos": "v."
+   },
+   {
+    "w": "contemplate",
+    "zh": "沉思",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-010",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:economy",
+  "tag_zh": "經濟金融",
+  "source": "109指考",
+  "stem": "Due to the recession, it is not easy for people to get ______ paid jobs, even if they are highly educated and well-trained in the field.",
+  "options": [
+   "compatibly",
+   "decently",
+   "relevantly",
+   "virtually"
+  ],
+  "answer": 1,
+  "explain_zh": "經濟不景氣下，即使學經歷俱佳也不容易找到待遇「像樣」的工作，故選 decently；compatibly（相容地）、relevantly（相關地）、virtually（幾乎）皆與薪資待遇合理的語意不合。decently paid 是常見的職場類搭配。",
+  "vocab": [
+   {
+    "w": "decently",
+    "zh": "像樣地,合宜地",
+    "pos": "adv."
+   },
+   {
+    "w": "compatibly",
+    "zh": "相容地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-011",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：文意選詞",
+  "source": "109指考",
+  "passage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, (11) the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and (12) pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in (13) with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements (14) to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. (15) its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
+  "group_id": "PX-AST109-G01",
+  "stem": "(11) 應填入：The Consumer Protection Committee ____ the supervisor and coordinator for various consumer protection organizations.",
+  "options": [
+   "serves as",
+   "fights for",
+   "persists in",
+   "corresponds to"
+  ],
+  "answer": 0,
+  "explain_zh": "該委員會「擔任」各消保團體的監督與協調者角色，故選 serves as；fights for（為…奮鬥）、persists in（堅持於）、corresponds to（對應於）皆無法表達「擔任某職務角色」的語意。serve as 是常見的固定搭配。",
+  "vocab": [
+   {
+    "w": "serve as",
+    "zh": "擔任",
+    "pos": "phr."
+   },
+   {
+    "w": "coordinator",
+    "zh": "協調者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-012",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：文意選詞",
+  "source": "109指考",
+  "passage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, (11) the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and (12) pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in (13) with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements (14) to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. (15) its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
+  "group_id": "PX-AST109-G01",
+  "stem": "(12) 應填入：The Committee advocates fair trade and ____ pricing for goods and services.",
+  "options": [
+   "prominent",
+   "essential",
+   "reasonable",
+   "intensive"
+  ],
+  "answer": 2,
+  "explain_zh": "委員會倡導公平交易與商品服務的「合理」定價，故選 reasonable；prominent（顯著的）、essential（必要的）、intensive（密集的）皆與定價合理性的語意不合。fair trade and reasonable pricing 為消保議題常見搭配。",
+  "vocab": [
+   {
+    "w": "reasonable",
+    "zh": "合理的",
+    "pos": "adj."
+   },
+   {
+    "w": "prominent",
+    "zh": "顯著的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-013",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：文意選詞",
+  "source": "109指考",
+  "passage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, (11) the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and (12) pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in (13) with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements (14) to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. (15) its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
+  "group_id": "PX-AST109-G01",
+  "stem": "(13) 應填入：The Committee is active in assisting consumers involved in ____ with businesses or manufacturers.",
+  "options": [
+   "references",
+   "shortages",
+   "purchases",
+   "disputes"
+  ],
+  "answer": 3,
+  "explain_zh": "委員會積極協助消費者處理與業者或製造商之間的「糾紛」，故選 disputes；references（參考資料）、shortages（短缺）、purchases（購買）皆與消費糾紛的語意不合。consumer disputes 是消保議題常見用語。",
+  "vocab": [
+   {
+    "w": "dispute",
+    "zh": "糾紛",
+    "pos": "n."
+   },
+   {
+    "w": "shortage",
+    "zh": "短缺",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-014",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "source": "109指考",
+  "passage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, (11) the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and (12) pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in (13) with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements (14) to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. (15) its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
+  "group_id": "PX-AST109-G01",
+  "stem": "(14) 應填入：These measures also ensure that all labels and advertisements ____ to regulations.",
+  "options": [
+   "conform",
+   "conformed",
+   "conforming",
+   "to conform"
+  ],
+  "answer": 0,
+  "explain_zh": "ensure that 引導的子句表示「務必如此」，須使用假設語氣的原形動詞，故選 conform；conformed 是過去式，conforming、to conform 皆不符合 ensure that 子句要求原形動詞的文法規則。",
+  "vocab": [
+   {
+    "w": "conform",
+    "zh": "符合,遵循",
+    "pos": "v."
+   },
+   {
+    "w": "regulation",
+    "zh": "規定",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-015",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "克漏字：連接詞",
+  "source": "109指考",
+  "passage": "The Consumer Protection Act in Taiwan was enacted on January 11, 1994. The Act demonstrated the government's efforts to protect consumers' rights and interests. The Consumer Protection Commission, the current Consumer Protection Committee, (11) the supervisor and coordinator for the various consumer protection organizations that put this law into practice. In order to improve the well-being of consumers in Taiwan, the Committee advocates fair trade and (12) pricing for goods and services. The Committee also organizes educational programs to raise consumer awareness, and is active in assisting consumers involved in (13) with businesses or manufacturers.\nSince its establishment, the Consumer Protection Committee has taken measures that emphasize product safety and sanitation. These measures also ensure that all labels and advertisements (14) to regulations. In addition, the Committee collaborates with various international consumer protection organizations to respond to problems involving cross-border trade and business. (15) its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers in Taiwan.",
+  "group_id": "PX-AST109-G01",
+  "stem": "(15) 應填入：____ its regulatory power and administrative resources, the Committee plays a crucial role in protecting consumers.",
+  "options": [
+   "From",
+   "With",
+   "Despite",
+   "Beyond"
+  ],
+  "answer": 1,
+  "explain_zh": "委員會「憑藉」其法定職權與行政資源，在保護消費者上扮演關鍵角色，故選 With；From（從）、Despite（儘管）、Beyond（超越）皆無法表達「運用、憑藉」既有資源發揮作用的語意。",
+  "vocab": [
+   {
+    "w": "with",
+    "zh": "憑藉",
+    "pos": "prep."
+   },
+   {
+    "w": "regulatory power",
+    "zh": "法定職權",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-016",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：文意選詞",
+  "source": "109指考",
+  "passage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this (16) proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he (17) in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long (18) dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to (19) the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance (20), however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
+  "group_id": "PX-AST109-G02",
+  "stem": "(16) 應填入：Fleming had long been known for having an untidy laboratory. One morning in 1928, this ____ proved very fortunate.",
+  "options": [
+   "merit",
+   "opinion",
+   "scandal",
+   "disorder"
+  ],
+  "answer": 3,
+  "explain_zh": "Fleming 素以實驗室凌亂聞名，這樣的「雜亂」竟意外促成青黴素的發現，故選 disorder；merit（優點）、opinion（意見）、scandal（醜聞）皆與「凌亂」(untidy)前後呼應的語意不合。",
+  "vocab": [
+   {
+    "w": "disorder",
+    "zh": "雜亂",
+    "pos": "n."
+   },
+   {
+    "w": "untidy",
+    "zh": "凌亂的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-017",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:tense-voice",
+  "tag_zh": "克漏字：時態語態",
+  "source": "109指考",
+  "passage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this (16) proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he (17) in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long (18) dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to (19) the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance (20), however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
+  "group_id": "PX-AST109-G02",
+  "stem": "(17) 應填入：Before the vacation, he ____ in the sink a number of petri dishes in which he had been growing bacteria.",
+  "options": [
+   "would pile",
+   "had piled",
+   "was piling",
+   "might have piled"
+  ],
+  "answer": 1,
+  "explain_zh": "度假前他「早已」把許多培養皿堆放在水槽裡，這個動作發生在文中敘述時間點(度假)之前，屬於過去完成式，故選 had piled；would pile、was piling、might have piled 皆不符合「早於過去某時間點」的時態邏輯。",
+  "vocab": [
+   {
+    "w": "pile",
+    "zh": "堆放",
+    "pos": "v."
+   },
+   {
+    "w": "petri dish",
+    "zh": "培養皿",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-018",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：文意選詞",
+  "source": "109指考",
+  "passage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this (16) proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he (17) in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long (18) dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to (19) the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance (20), however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
+  "group_id": "PX-AST109-G02",
+  "stem": "(18) 應填入：While he was sorting through the long ____ dishes of germs that morning...",
+  "options": [
+   "disabled",
+   "excluded",
+   "unattended",
+   "misunderstood"
+  ],
+  "answer": 2,
+  "explain_zh": "度假期間這些培養皿長時間「無人看管」，故選 unattended；disabled（失能的）、excluded（被排除的）、misunderstood（被誤解的）皆與長期沒人照看的語意不合。long unattended dishes 描述被放置許久未處理的培養皿。",
+  "vocab": [
+   {
+    "w": "unattended",
+    "zh": "無人看管的",
+    "pos": "adj."
+   },
+   {
+    "w": "contaminate",
+    "zh": "污染",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-019",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：文意選詞",
+  "source": "109指考",
+  "passage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this (16) proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he (17) in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long (18) dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to (19) the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance (20), however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
+  "group_id": "PX-AST109-G02",
+  "stem": "(19) 應填入：He was about to ____ the dishes, but he noticed that in one dish, the bacteria had failed to grow.",
+  "options": [
+   "toss out",
+   "get off",
+   "catch up",
+   "carry on"
+  ],
+  "answer": 0,
+  "explain_zh": "Fleming 本來打算把發霉的培養皿「丟棄」，卻意外發現黴菌周圍沒有細菌生長，故選 toss out；get off（下車,離開）、catch up（趕上）、carry on（繼續）皆與丟棄物品的語意不合。",
+  "vocab": [
+   {
+    "w": "toss out",
+    "zh": "丟棄",
+    "pos": "phr."
+   },
+   {
+    "w": "dispose of",
+    "zh": "處理丟棄",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-020",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "克漏字：文意選詞",
+  "source": "109指考",
+  "passage": "Scientific discovery can take various forms. One of them is \"serendipity,\" the luck of finding valuable things unintentionally. Serendipity was at work when Alexander Fleming discovered penicillin, the antibiotic miracle.\nFleming had long been known for having an untidy laboratory. One morning in 1928, this (16) proved very fortunate. It was his first day coming back to work after a long vacation. Before the vacation, he (17) in the sink a number of petri dishes in which he had been growing bacteria. While he was sorting through the long (18) dishes of germs that morning, he observed that some of the dishes were contaminated with a fungus, which had ruined his experiment. He was about to (19) the dishes, but he noticed that in one dish, the bacteria had failed to grow in the area around the fungus. This accidental finding gave rise to subsequent research that led to the discovery of penicillin—a drug that has since saved millions of lives.\nChance (20), however, may not be enough to make key discoveries like this. The scientist must have a prepared and open mind to detect the importance of the unforeseen incident and to use it constructively.",
+  "group_id": "PX-AST109-G02",
+  "stem": "(20) 應填入：Chance ____, however, may not be enough to make key discoveries like this.",
+  "options": [
+   "alone",
+   "alike",
+   "above",
+   "ahead"
+  ],
+  "answer": 0,
+  "explain_zh": "末段強調「單靠」運氣可能不足以促成像青黴素這樣的重大發現，還需要準備好且開放的心靈，故選 alone；alike（相似地）、above（在上方）、ahead（在前方）皆無法表達「僅憑機運」的語意。",
+  "vocab": [
+   {
+    "w": "alone",
+    "zh": "單靠,僅僅",
+    "pos": "adv."
+   },
+   {
+    "w": "serendipity",
+    "zh": "意外的好運發現",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-021",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "source": "109指考",
+  "passage": "Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.\nSewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.",
+  "group_id": "PX-AST109-G03",
+  "stem": "What is the passage mainly about?",
+  "options": [
+   "The elements of sewage.",
+   "The treatment of wastewater.",
+   "The history of draining systems.",
+   "The ways to control manufacturing waste."
+  ],
+  "answer": 1,
+  "explain_zh": "全文從早期排水系統的歷史演進，到現代污水處理的各個步驟(篩選、初級池、次級池、過沙、加氯)，完整說明「污水處理的流程」，故選 B；A、C、D 都只涵蓋部分內容，未能概括全文重點。",
+  "vocab": [
+   {
+    "w": "sewage",
+    "zh": "污水",
+    "pos": "n."
+   },
+   {
+    "w": "treatment",
+    "zh": "處理",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-022",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "source": "109指考",
+  "passage": "Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.\nSewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.",
+  "group_id": "PX-AST109-G03",
+  "stem": "Which of the following is NOT a reason for developing more effective systems to deal with wastewater?",
+  "options": [
+   "Population growth.",
+   "Increasing manufacturing waste.",
+   "Overloaded drainage systems.",
+   "Heavy rainfall due to climate change."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提及人口成長、工業廢水增加、舊排水系統超載等因素，促使污水處理系統需要更完善，唯獨沒有提到「氣候變遷造成的暴雨」，故選 D，此為文中未被提及的原因。",
+  "vocab": [
+   {
+    "w": "drainage",
+    "zh": "排水",
+    "pos": "n."
+   },
+   {
+    "w": "overload",
+    "zh": "使超載",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-023",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "source": "109指考",
+  "passage": "Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.\nSewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.",
+  "group_id": "PX-AST109-G03",
+  "stem": "Which of the following can be removed in the primary tanks?",
+  "options": [
+   "Wood.",
+   "Heavy material.",
+   "Grease.",
+   "Organic matter."
+  ],
+  "answer": 2,
+  "explain_zh": "文中明確說明「油脂會浮到水面上，並在此處被收集」(oils and grease float to the top, where they are collected)，這正是發生在初級池的過程，故選 C；木頭等大型物體其實是在進入處理池「之前」的篩選步驟就已移除，A 錯誤。",
+  "vocab": [
+   {
+    "w": "sludge",
+    "zh": "污泥",
+    "pos": "n."
+   },
+   {
+    "w": "grease",
+    "zh": "油脂",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-024",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "source": "109指考",
+  "passage": "Early civilizations often built drainage systems in urban areas to handle rainwater that ran down the street during a storm. The Romans constructed elaborate systems that also drained wastewater from the public baths. However, as the population of the cities grew, the old drainage systems became overloaded. During the Industrial Revolution, manufacturing waste was added to sewage, which increased the need for more efficient sewage treatment. In the mid-19th century, the first steps were taken to treat wastewater.\nSewage or wastewater treatment in modern times is the process of removing harmful physical, chemical, and biological elements from wastewater and house sewage. The whole process starts with screening out large objects such as paper and wood, and removing heavy materials like dirt. The screened wastewater is then ready to go through a series of concrete tanks for further treatment. In the second step, the sewage passes into the primary tanks. Here, human waste, called sludge, settles to the bottom while oils and grease float to the top, where they are collected. At the same time, organic matter like eggshells or coffee grounds in the sewage is broken down into smaller substances. The remaining sewage then enters the secondary tanks for the third stage of treatment. The solids that were not treated in the primary tanks are removed here through decomposition, which digests the material. Then, the liquid sewage is filtered through sand. This filtering process gets rid of almost all bacteria, as well as other solid particles that remain in the water. Finally, the wastewater flows into the last tanks, where the chemical chlorine is added to kill the remaining bacteria. After the bacteria are destroyed, the chlorine is eliminated from the water, and the treated clean water is discharged into a river or the ocean.",
+  "group_id": "PX-AST109-G03",
+  "stem": "What is the main reason that liquid sewage needs to go through sand?",
+  "options": [
+   "To eliminate bacteria.",
+   "To drain water.",
+   "To dissolve solid particles.",
+   "To remove oil."
+  ],
+  "answer": 0,
+  "explain_zh": "文中明確指出過沙過濾的作用是「幾乎去除所有細菌」(gets rid of almost all bacteria)，這是文中首先提到、也是最主要強調的功能，故選 A；固體顆粒的去除是連帶效果，並非過沙的主要目的。",
+  "vocab": [
+   {
+    "w": "filter",
+    "zh": "過濾",
+    "pos": "v."
+   },
+   {
+    "w": "eliminate",
+    "zh": "消除",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-025",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "source": "109指考",
+  "passage": "The planet's deepest point is in the Pacific Ocean's Mariana Trench, which lies miles below the sea surface. According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.\nA team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world.\nThese pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered \"persistent organic pollutants\" (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.\nThese compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. POPs are therefore transferred to other creatures along the food chain.\nThe Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.",
+  "group_id": "PX-AST109-G04",
+  "stem": "What is the passage mainly about?",
+  "options": [
+   "The decrease of polluted creatures in the food chain.",
+   "Using remote control in research on marine pollution.",
+   "Pollution of the deep sea by persistent toxic chemicals.",
+   "Types of chemical pollution caused by industrial applications."
+  ],
+  "answer": 2,
+  "explain_zh": "[已修正重複題幹] 全文報導馬里亞納海溝深海生物遭難以分解的持久性有機污染物(POPs)污染的最新研究，說明汙染物如何透過食物鏈累積擴散，故選 C；此段的重點是「深海遭持久性化學物污染」，並非單純談食物鏈生物減少或機器人研究方法。",
+  "vocab": [
+   {
+    "w": "persistent",
+    "zh": "持久性的",
+    "pos": "adj."
+   },
+   {
+    "w": "contaminate",
+    "zh": "污染",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-026",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "文意猜字",
+  "source": "109指考",
+  "passage": "The planet's deepest point is in the Pacific Ocean's Mariana Trench, which lies miles below the sea surface. According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.\nA team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world.\nThese pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered \"persistent organic pollutants\" (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.\nThese compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. POPs are therefore transferred to other creatures along the food chain.\nThe Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.",
+  "group_id": "PX-AST109-G04",
+  "stem": "Which of the following is closest in meaning to \"POP-riddled\" in paragraph 4?",
+  "options": [
+   "Operated by POPs.",
+   "Filled with POPs.",
+   "Completed with POPs.",
+   "Discarded by POPs."
+  ],
+  "answer": 1,
+  "explain_zh": "riddled with 是固定片語，表示「充滿、佈滿」，POP-riddled bodies 即「充滿持久性污染物的軀體」，故選 Filled with POPs；Operated by（由…操作）、Completed with（以…完成）、Discarded by（被…丟棄）皆與「體內充滿污染物」的語意不合。",
+  "vocab": [
+   {
+    "w": "riddled with",
+    "zh": "充滿...的",
+    "pos": "phr."
+   },
+   {
+    "w": "toxic",
+    "zh": "有毒的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-027",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "source": "109指考",
+  "passage": "The planet's deepest point is in the Pacific Ocean's Mariana Trench, which lies miles below the sea surface. According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.\nA team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world.\nThese pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered \"persistent organic pollutants\" (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.\nThese compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. POPs are therefore transferred to other creatures along the food chain.\nThe Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.",
+  "group_id": "PX-AST109-G04",
+  "stem": "According to the passage, which of the following statements is true?",
+  "options": [
+   "PCBs are often used in making electronic products.",
+   "Chemicals washed down to the ocean stay on the surface.",
+   "The deepest point of the Mariana Trench is free from pollution.",
+   "A robotic vehicle was used to help study pollution in the Mariana Trench."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到研究團隊派遣「遙控載具」深入馬里亞納海溝採樣調查，故選 D；文中其實是 PBDEs（而非 PCBs）常見於電子產品中，A 的敘述與原文不符，海溝深處也並未免於污染，C 錯誤。",
+  "vocab": [
+   {
+    "w": "remotely operated vehicle",
+    "zh": "遙控載具",
+    "pos": "n."
+   },
+   {
+    "w": "pollutant",
+    "zh": "污染物",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-028",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論理解",
+  "source": "109指考",
+  "passage": "The planet's deepest point is in the Pacific Ocean's Mariana Trench, which lies miles below the sea surface. According to a new study published in Nature Ecology & Evolution, even in this remote locale, creatures cannot escape pollution.\nA team of researchers recently sent a remotely operated vehicle into the depths of the Mariana Trench. They found that extraordinarily high levels of forbidden industrial chemicals are contaminating marine life more than 7 miles deep in the trench. The small hard-shelled marine life that the robotic submarine brought to the surface was polluted with toxic chemicals, with toxin levels 50 times greater than those of the most heavily polluted rivers in the world.\nThese pollution levels were not the only alarming aspect of the discovery. The types of compounds found were all considered \"persistent organic pollutants\" (POPs), meaning they stick around in the environment for a very long time. Two of the most prevalent types are PCBs and PBDEs. PCBs were once used in many industrial applications, but were outlawed in the United States in the 1970s after being linked to cancer. Similarly, PBDEs were used in a wide range of products—from electronics to couch cushions. Neither chemical breaks down in the environment.\nThese compounds stick to the surface of materials like plastic. Many creatures mistakenly eat this colorful but toxic material, causing the POPs to build up in their bodies, lurking in their fat tissues. When these sea creatures die, their POP-riddled bodies sink to the ocean floor, where deep-sea marine life eat their remains. POPs are therefore transferred to other creatures along the food chain.\nThe Mariana Trench is many miles away from any industrial source. This suggests that these pollutants travel over long distances despite having been prohibited worldwide decades ago.",
+  "group_id": "PX-AST109-G04",
+  "stem": "Which of the following can be inferred from the passage?",
+  "options": [
+   "Marine pollution poses a threat to human health.",
+   "Strict regulations are being developed to stop ocean pollution.",
+   "PCBs and PBDEs become less harmful over long periods of time.",
+   "Chemical pollution is more serious in rivers than in industrial areas."
+  ],
+  "answer": 0,
+  "explain_zh": "文末說明這些持久性污染物會透過食物鏈層層累積，從小型生物傳遞到深海生物體內，可推知這類海鮮若被人類食用，將對「人類健康構成威脅」，故選 A；文中並未提到已有嚴格法規正在研擬，也沒說這些化合物會隨時間變得較無害。",
+  "vocab": [
+   {
+    "w": "contaminate",
+    "zh": "污染",
+    "pos": "v."
+   },
+   {
+    "w": "food chain",
+    "zh": "食物鏈",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-029",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:attitude-purpose",
+  "tag_zh": "語氣態度",
+  "source": "109指考",
+  "passage": "The All Blacks, New Zealand's national rugby team, is widely credited for bringing the \"haka\" to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.\nWhat does \"haka\" mean? Haka is often thought of as a broad term for Māori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. But in the language of Māori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.\nThanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Māori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.\nToday, different varieties of haka are performed on various ceremonial occasions—from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. Though the practice had traditionally been limited to Māori communities, it has now spread far beyond that. Māori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. The haka has become the most recognizable symbol of New Zealanders as a people.",
+  "group_id": "PX-AST109-G05",
+  "stem": "Which of the following best describes the tone of this article?",
+  "options": [
+   "Cynical.",
+   "Humorous.",
+   "Pessimistic.",
+   "Respectful."
+  ],
+  "answer": 3,
+  "explain_zh": "全文以肯定、敬重的語氣介紹哈卡舞的歷史淵源、文化意涵與其在紐西蘭社會中的重要地位，故選 D（Respectful）；文中並無嘲諷(Cynical)、詼諧(Humorous)或悲觀(Pessimistic)的語氣。",
+  "vocab": [
+   {
+    "w": "tone",
+    "zh": "語氣",
+    "pos": "n."
+   },
+   {
+    "w": "ritual",
+    "zh": "儀式",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-030",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "source": "109指考",
+  "passage": "The All Blacks, New Zealand's national rugby team, is widely credited for bringing the \"haka\" to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.\nWhat does \"haka\" mean? Haka is often thought of as a broad term for Māori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. But in the language of Māori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.\nThanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Māori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.\nToday, different varieties of haka are performed on various ceremonial occasions—from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. Though the practice had traditionally been limited to Māori communities, it has now spread far beyond that. Māori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. The haka has become the most recognizable symbol of New Zealanders as a people.",
+  "group_id": "PX-AST109-G05",
+  "stem": "According to the passage, for what purpose do the All Blacks perform the haka?",
+  "options": [
+   "To anger their opponents.",
+   "To gain public attention and fame.",
+   "To boost their own spirits.",
+   "To show respect to their ancestors."
+  ],
+  "answer": 2,
+  "explain_zh": "第一段明確指出這項賽前表演的目的是「提升自身士氣」並威嚇對手(heighten their morale and intimidate opponents)，故選 C；表演雖有威嚇對手的作用，但題目問的是「表演的目的」中屬於提振自我的部分，並非單純為了激怒對手或博取關注。",
+  "vocab": [
+   {
+    "w": "morale",
+    "zh": "士氣",
+    "pos": "n."
+   },
+   {
+    "w": "intimidate",
+    "zh": "威嚇",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-031",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "文意猜字",
+  "source": "109指考",
+  "passage": "The All Blacks, New Zealand's national rugby team, is widely credited for bringing the \"haka\" to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.\nWhat does \"haka\" mean? Haka is often thought of as a broad term for Māori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. But in the language of Māori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.\nThanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Māori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.\nToday, different varieties of haka are performed on various ceremonial occasions—from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. Though the practice had traditionally been limited to Māori communities, it has now spread far beyond that. Māori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. The haka has become the most recognizable symbol of New Zealanders as a people.",
+  "group_id": "PX-AST109-G05",
+  "stem": "Which of the following is closest in meaning to the word \"practice\" in the last paragraph?",
+  "options": [
+   "Sport.",
+   "Performance.",
+   "Competition.",
+   "Occupation."
+  ],
+  "answer": 1,
+  "explain_zh": "末段的 practice 指哈卡舞這項「表演、習俗活動」本身，在句中作「不再侷限於毛利社群」的主詞，語意最接近 Performance；Sport（運動）、Competition（競賽）、Occupation（職業）皆與此處描述文化習俗的語意不合。",
+  "vocab": [
+   {
+    "w": "practice",
+    "zh": "習俗,慣例",
+    "pos": "n."
+   },
+   {
+    "w": "performance",
+    "zh": "表演",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-032",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "source": "109指考",
+  "passage": "The All Blacks, New Zealand's national rugby team, is widely credited for bringing the \"haka\" to the world stage. Immediately before kick-off, the whole team will issue a warlike chant, stamping their feet, slapping their thighs, rolling their eyes, flicking their tongues, and making aggressive gestures in unison. This performance before each match, which is intended to heighten their morale and intimidate opponents, is a sight to behold. No other international sporting team possesses a pre-match ritual as powerful as the famed All Blacks haka.\nWhat does \"haka\" mean? Haka is often thought of as a broad term for Māori war dances traditionally used to intimidate the enemy and prepare the warriors for battle. Most people believe it was performed either on the battlefield prior to engaging the enemy, or as the warriors were leaving their own village en route to a battle. But in the language of Māori, the word haka simply means a dance. The dance is accompanied by a chant that expresses emotions or tells ancient stories. While many haka should be performed by males, there are some haka that can be performed by anyone, male or female. There are even some women-only haka.\nThanks to the All Blacks, two of the haka have become widely renowned: Ka Mate and Kapa o Pango. The former was composed by a Māori chief in the early 1800s about how he outsmarted his enemies. It was first performed by the All Blacks in 1906. The latter was written specifically for the team in 2005. They are now performed interchangeably by the All Blacks.\nToday, different varieties of haka are performed on various ceremonial occasions—from receiving distinguished guests to birthdays, weddings, or the funerals of chiefs and people of high status. Though the practice had traditionally been limited to Māori communities, it has now spread far beyond that. Māori and New Zealanders of European heritage alike view doing the haka with a sense of pride, both on the rugby field and outside it. The haka has become the most recognizable symbol of New Zealanders as a people.",
+  "group_id": "PX-AST109-G05",
+  "stem": "According to the passage, which of the following statements is true?",
+  "options": [
+   "The traditional Māori haka is limited to use by male Māori warriors in battle.",
+   "The original meaning of haka in Māori is a war dance accompanied by songs.",
+   "The All Blacks have taken turns performing Ka Mate and Kapa o Pango since 1906.",
+   "Haka are now used for important events by both Māori and non-Māori New Zealanders."
+  ],
+  "answer": 3,
+  "explain_zh": "[已修正重複題幹] 末段提到如今毛利人與歐裔紐西蘭人皆以榮譽感看待哈卡舞，此文化習俗已不再侷限於毛利社群，故選 D；文中說明在毛利語中 haka 原意單純是「舞蹈」，而非「戰舞加歌謠」，B 的敘述與原文不符。",
+  "vocab": [
+   {
+    "w": "heritage",
+    "zh": "傳統文化",
+    "pos": "n."
+   },
+   {
+    "w": "widespread",
+    "zh": "廣泛流傳的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-033",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "source": "109指考",
+  "passage": "In 2015, President Obama of the USA signed the Every Student Succeeds Act (ESSA), replacing the Bush-era No Child Left Behind (NCLB) that had been in effect since 2001. This new Act provides states with more decision-making power regarding curriculum, instruction, and assessment. Below are some big-picture ideas influencing many states as they approach the assessment task.\nOne important idea is flexibility. For years, states have used standardized K-12 assessments, similar to the SAT and ACT for college application, to measure student achievement. They are easy to use, but they fail to give a complete picture of how a student is progressing. Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools. Obviously, the task is difficult and time-consuming. Fortunately, modern technology can help solve this dilemma. For instance, computer adaptive assessments can automatically adjust questions based on a student's performances on the previous questions. This mechanism prevents the computer from giving questions that are obviously too easy or too difficult for the student. It thus allows teachers to quickly assess a student's level of understanding and provide instant feedback to help in the learning process.\nAnother idea is multi-subject testing. Several states have started to incorporate subjects beyond the traditional math and reading items in their K-12 assessments. All 50 states include tests on science at least twice prior to senior high school, and some are now starting to include social studies, government, or economics. Some states are also moving toward assessing multiple subjects on one test, for example, reading and social studies.\nA third idea is the emphasis on students' learning process. In pursuit of a student-centered approach, many states are putting more emphasis on assessments throughout the learning process rather than on traditional end-of-year summative tests. Teachers are encouraged to accumulate data at different points in their students' learning process. These data together present a more complete picture of a student's learning.\nThe last idea regards the purpose of assessment. Assessment should be used to inform both teachers' instruction and students' learning. Teachers can modify their teaching based on students' performance on tests; students can identify their own problems and make plans for improvement.",
+  "group_id": "PX-AST109-G06",
+  "stem": "Which of the following is the best title for this passage?",
+  "options": [
+   "Computers and Assessments",
+   "The Four Components of ESSA",
+   "Student-Centered Curriculum and Instruction",
+   "From NCLB to ESSA, with a Focus on Assessment"
+  ],
+  "answer": 3,
+  "explain_zh": "全文以2015年ESSA取代NCLB為背景切入，接著依序介紹評量理念的四大方向(彈性、多科目測驗、重視學習歷程、評量目的)，最適合的標題應同時點出「從NCLB到ESSA」與「評量」這兩個重點，故選 D。",
+  "vocab": [
+   {
+    "w": "assessment",
+    "zh": "評量",
+    "pos": "n."
+   },
+   {
+    "w": "replace",
+    "zh": "取代",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-034",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "代名詞指涉",
+  "source": "109指考",
+  "passage": "In 2015, President Obama of the USA signed the Every Student Succeeds Act (ESSA), replacing the Bush-era No Child Left Behind (NCLB) that had been in effect since 2001. This new Act provides states with more decision-making power regarding curriculum, instruction, and assessment. Below are some big-picture ideas influencing many states as they approach the assessment task.\nOne important idea is flexibility. For years, states have used standardized K-12 assessments, similar to the SAT and ACT for college application, to measure student achievement. They are easy to use, but they fail to give a complete picture of how a student is progressing. Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools. Obviously, the task is difficult and time-consuming. Fortunately, modern technology can help solve this dilemma. For instance, computer adaptive assessments can automatically adjust questions based on a student's performances on the previous questions. This mechanism prevents the computer from giving questions that are obviously too easy or too difficult for the student. It thus allows teachers to quickly assess a student's level of understanding and provide instant feedback to help in the learning process.\nAnother idea is multi-subject testing. Several states have started to incorporate subjects beyond the traditional math and reading items in their K-12 assessments. All 50 states include tests on science at least twice prior to senior high school, and some are now starting to include social studies, government, or economics. Some states are also moving toward assessing multiple subjects on one test, for example, reading and social studies.\nA third idea is the emphasis on students' learning process. In pursuit of a student-centered approach, many states are putting more emphasis on assessments throughout the learning process rather than on traditional end-of-year summative tests. Teachers are encouraged to accumulate data at different points in their students' learning process. These data together present a more complete picture of a student's learning.\nThe last idea regards the purpose of assessment. Assessment should be used to inform both teachers' instruction and students' learning. Teachers can modify their teaching based on students' performance on tests; students can identify their own problems and make plans for improvement.",
+  "group_id": "PX-AST109-G06",
+  "stem": "What does the word \"dilemma\" in paragraph 2 refer to?",
+  "options": [
+   "The choice between SAT and ACT.",
+   "The choice between NCLB and ESSA.",
+   "Whether or not to use student-centered assessment.",
+   "Whether or not to replace computer-based assessment."
+  ],
+  "answer": 2,
+  "explain_zh": "第二段描述各州在「標準化測驗」與「客製化、學生中心評量」之間面臨困難又耗時的抉擇，dilemma 即指這項兩難困境，故選 C；並非在SAT與ACT之間做選擇，也不是NCLB與ESSA的抉擇本身。",
+  "vocab": [
+   {
+    "w": "dilemma",
+    "zh": "兩難困境",
+    "pos": "n."
+   },
+   {
+    "w": "standardized",
+    "zh": "標準化的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-035",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "source": "109指考",
+  "passage": "In 2015, President Obama of the USA signed the Every Student Succeeds Act (ESSA), replacing the Bush-era No Child Left Behind (NCLB) that had been in effect since 2001. This new Act provides states with more decision-making power regarding curriculum, instruction, and assessment. Below are some big-picture ideas influencing many states as they approach the assessment task.\nOne important idea is flexibility. For years, states have used standardized K-12 assessments, similar to the SAT and ACT for college application, to measure student achievement. They are easy to use, but they fail to give a complete picture of how a student is progressing. Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools. Obviously, the task is difficult and time-consuming. Fortunately, modern technology can help solve this dilemma. For instance, computer adaptive assessments can automatically adjust questions based on a student's performances on the previous questions. This mechanism prevents the computer from giving questions that are obviously too easy or too difficult for the student. It thus allows teachers to quickly assess a student's level of understanding and provide instant feedback to help in the learning process.\nAnother idea is multi-subject testing. Several states have started to incorporate subjects beyond the traditional math and reading items in their K-12 assessments. All 50 states include tests on science at least twice prior to senior high school, and some are now starting to include social studies, government, or economics. Some states are also moving toward assessing multiple subjects on one test, for example, reading and social studies.\nA third idea is the emphasis on students' learning process. In pursuit of a student-centered approach, many states are putting more emphasis on assessments throughout the learning process rather than on traditional end-of-year summative tests. Teachers are encouraged to accumulate data at different points in their students' learning process. These data together present a more complete picture of a student's learning.\nThe last idea regards the purpose of assessment. Assessment should be used to inform both teachers' instruction and students' learning. Teachers can modify their teaching based on students' performance on tests; students can identify their own problems and make plans for improvement.",
+  "group_id": "PX-AST109-G06",
+  "stem": "Which of the following is an emerging new subject in the ESSA assessment?",
+  "options": [
+   "Math.",
+   "Reading.",
+   "Science.",
+   "Economics."
+  ],
+  "answer": 3,
+  "explain_zh": "第三段提到部分州已開始在評量中納入社會、政府或「經濟」等新科目，屬於傳統數學、閱讀、科學之外新興增加的考科，故選 D；數學、閱讀、科學都是原本就存在的傳統考科。",
+  "vocab": [
+   {
+    "w": "emerging",
+    "zh": "新興的",
+    "pos": "adj."
+   },
+   {
+    "w": "incorporate",
+    "zh": "納入",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-AST109-036",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "篇章結構理解",
+  "source": "109指考",
+  "passage": "In 2015, President Obama of the USA signed the Every Student Succeeds Act (ESSA), replacing the Bush-era No Child Left Behind (NCLB) that had been in effect since 2001. This new Act provides states with more decision-making power regarding curriculum, instruction, and assessment. Below are some big-picture ideas influencing many states as they approach the assessment task.\nOne important idea is flexibility. For years, states have used standardized K-12 assessments, similar to the SAT and ACT for college application, to measure student achievement. They are easy to use, but they fail to give a complete picture of how a student is progressing. Thus, states are rethinking one-size-fits-all standardized assessments and are instead considering personalized, student-centered assessments in schools. Obviously, the task is difficult and time-consuming. Fortunately, modern technology can help solve this dilemma. For instance, computer adaptive assessments can automatically adjust questions based on a student's performances on the previous questions. This mechanism prevents the computer from giving questions that are obviously too easy or too difficult for the student. It thus allows teachers to quickly assess a student's level of understanding and provide instant feedback to help in the learning process.\nAnother idea is multi-subject testing. Several states have started to incorporate subjects beyond the traditional math and reading items in their K-12 assessments. All 50 states include tests on science at least twice prior to senior high school, and some are now starting to include social studies, government, or economics. Some states are also moving toward assessing multiple subjects on one test, for example, reading and social studies.\nA third idea is the emphasis on students' learning process. In pursuit of a student-centered approach, many states are putting more emphasis on assessments throughout the learning process rather than on traditional end-of-year summative tests. Teachers are encouraged to accumulate data at different points in their students' learning process. These data together present a more complete picture of a student's learning.\nThe last idea regards the purpose of assessment. Assessment should be used to inform both teachers' instruction and students' learning. Teachers can modify their teaching based on students' performance on tests; students can identify their own problems and make plans for improvement.",
+  "group_id": "PX-AST109-G06",
+  "stem": "If the following sentence were to be included in the passage — \"One good example is that many teachers today are asking students to keep a learning portfolio, which is a purposeful collection of student works at different points of time in the semester. This portfolio exhibits students' effort, progress, and achievements in one or more areas of the course.\" — which paragraph should it go to?",
+  "options": [
+   "Paragraph 2.",
+   "Paragraph 3.",
+   "Paragraph 4.",
+   "Paragraph 5."
+  ],
+  "answer": 2,
+  "explain_zh": "該例句描述教師讓學生建立「學習歷程檔案」以記錄學期間不同時間點的學習成果，正好對應第四段「強調學習歷程」的說明主軸，故選 C（Paragraph 4）。",
+  "vocab": [
+   {
+    "w": "portfolio",
+    "zh": "學習歷程檔案",
+    "pos": "n."
+   },
+   {
+    "w": "exhibit",
+    "zh": "展現",
+    "pos": "v."
+   }
+  ]
+ }
+]

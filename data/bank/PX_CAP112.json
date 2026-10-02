@@ -1,0 +1,1110 @@
+[
+ {
+  "id": "PX-CAP112-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verbs",
+  "tag_zh": "動詞語意",
+  "stem": "Dennis enjoys ____ in public.  He is proud of his beautiful voice.",
+  "options": [
+   "dancing",
+   "drawing",
+   "shopping",
+   "singing"
+  ],
+  "answer": 3,
+  "explain_zh": "後句說他以美妙的歌聲為傲，可知他喜歡在公開場合「唱歌」，故選 singing。dancing（跳舞）、drawing（畫畫）、shopping（購物）都與「美妙的聲音」無關。",
+  "vocab": [
+   {
+    "w": "sing",
+    "zh": "唱歌",
+    "pos": "v."
+   },
+   {
+    "w": "proud of",
+    "zh": "以…為傲",
+    "pos": "phr."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verbs",
+  "tag_zh": "動詞語意",
+  "stem": "Mrs. Johnson can't hear very well.  If you need to talk to her, you must ____.",
+  "options": [
+   "explain",
+   "hurry",
+   "listen",
+   "shout"
+  ],
+  "answer": 3,
+  "explain_zh": "強生太太聽力不好，要跟她說話必須「大聲喊」，故選 shout。explain（解釋）、hurry（趕快）、listen（聽）都無法解決「聽不清楚」的問題，只有提高音量才能讓她聽見。",
+  "vocab": [
+   {
+    "w": "shout",
+    "zh": "喊叫",
+    "pos": "v."
+   },
+   {
+    "w": "hear",
+    "zh": "聽見",
+    "pos": "v."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:perception-verbs",
+  "tag_zh": "感官動詞句型",
+  "stem": "People got very excited when they watched Ms. Smith ____ at the party.",
+  "options": [
+   "danced",
+   "dancing",
+   "has danced",
+   "to dance"
+  ],
+  "answer": 1,
+  "explain_zh": "watch 是感官動詞，後面接受詞補語時用原形動詞或現在分詞表示「看到正在進行的動作」，故選 dancing。danced 是過去式、has danced 是完成式、to dance 是不定詞，都不符合感官動詞的用法。",
+  "vocab": [
+   {
+    "w": "watch",
+    "zh": "觀看",
+    "pos": "v."
+   },
+   {
+    "w": "excited",
+    "zh": "興奮的",
+    "pos": "adj."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:nouns",
+  "tag_zh": "名詞語意",
+  "stem": "I tried on these shoes in several different ____, and I thought the white pair looked best on me.",
+  "options": [
+   "colors",
+   "prices",
+   "shapes",
+   "sizes"
+  ],
+  "answer": 0,
+  "explain_zh": "試穿了好幾種不同的鞋子、最後選了白色那雙最好看，可知是在比較不同「顏色」，故選 colors。prices（價格）、shapes（形狀）、sizes（尺寸）都與「白色」這個描述對不上。",
+  "vocab": [
+   {
+    "w": "color",
+    "zh": "顏色",
+    "pos": "n."
+   },
+   {
+    "w": "try on",
+    "zh": "試穿",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-past-continuous",
+  "tag_zh": "過去進行式",
+  "stem": "Rex did not feel the earthquake this morning.  He ____ in the park at the time.",
+  "options": [
+   "jogged",
+   "was jogging",
+   "has jogged",
+   "would jog"
+  ],
+  "answer": 1,
+  "explain_zh": "地震發生的當下（過去某時間點），Rex 正在公園做某件事而沒感覺到，用過去進行式表達「當時正在做」，故選 was jogging。jogged 是簡單過去式、has jogged 是現在完成式、would jog 語意不合，皆無法對應「當下正在進行」的情境。",
+  "vocab": [
+   {
+    "w": "jog",
+    "zh": "慢跑",
+    "pos": "v."
+   },
+   {
+    "w": "earthquake",
+    "zh": "地震",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:gerunds",
+  "tag_zh": "動名詞",
+  "stem": "Mr. Lee has worked in the same store for ten years; he's never thought about ____ his job.",
+  "options": [
+   "changing",
+   "finding",
+   "remembering",
+   "starting"
+  ],
+  "answer": 0,
+  "explain_zh": "在同一家店工作十年，從沒想過要「換」工作，故選 changing。finding（尋找，語意不夠完整）、remembering（記得）、starting（開始）都無法貼切表達「想過換工作與否」的意思。",
+  "vocab": [
+   {
+    "w": "change",
+    "zh": "更換",
+    "pos": "v."
+   },
+   {
+    "w": "job",
+    "zh": "工作",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "I didn't take the bus today because it was ____.  All the seats were taken and a lot of students were standing.",
+  "options": [
+   "dirty",
+   "fast",
+   "full",
+   "wrong"
+  ],
+  "answer": 2,
+  "explain_zh": "後句說座位都被坐滿、很多人只能站著，可知公車「客滿」了，故選 full。dirty（髒的）、fast（快的）、wrong（錯的）都無法解釋「沒有位子坐」的原因。",
+  "vocab": [
+   {
+    "w": "full",
+    "zh": "滿的、客滿的",
+    "pos": "adj."
+   },
+   {
+    "w": "seat",
+    "zh": "座位",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "stem": "Don't go away when you're cooking, ____ the food might burn.",
+  "options": [
+   "but",
+   "if",
+   "or",
+   "so"
+  ],
+  "answer": 2,
+  "explain_zh": "煮飯時不能離開，「否則」食物可能會燒焦，前後是「命令＋否則會有壞結果」的關係，故選 or。but 表轉折、if 表條件、so 表結果，皆無法呈現「不然就會…」的警告語氣。",
+  "vocab": [
+   {
+    "w": "or",
+    "zh": "否則",
+    "pos": "conj."
+   },
+   {
+    "w": "burn",
+    "zh": "燒焦",
+    "pos": "v."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:wh-words",
+  "tag_zh": "疑問詞",
+  "stem": "Jerry wanted to know ____ he was kicked off the soccer team, but no one gave him a good reason.",
+  "options": [
+   "where",
+   "when",
+   "whether",
+   "why"
+  ],
+  "answer": 3,
+  "explain_zh": "Jerry 想知道自己「為什麼」被踢出球隊，卻沒人給他合理的解釋，故選 why。where、when、whether 都無法對應「被踢出球隊的原因」這個疑問重點。",
+  "vocab": [
+   {
+    "w": "kick off",
+    "zh": "踢出、開除",
+    "pos": "phr.v."
+   },
+   {
+    "w": "reason",
+    "zh": "原因",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:nouns",
+  "tag_zh": "名詞語意",
+  "stem": "Jenny is already forty, doesn't have a job and often makes trouble for her parents.  To them, she is really a(n) ____.",
+  "options": [
+   "daughter",
+   "example",
+   "gift",
+   "headache"
+  ],
+  "answer": 3,
+  "explain_zh": "已經四十歲、沒工作，還常常給父母添麻煩，對父母來說她簡直是個「頭痛人物」，故選 headache（引申為麻煩、頭痛的問題）。daughter（女兒，語意過於中性）、example（榜樣）、gift（禮物）都與「造成困擾」的語意相反或不符。",
+  "vocab": [
+   {
+    "w": "headache",
+    "zh": "令人頭痛的事、麻煩",
+    "pos": "n."
+   },
+   {
+    "w": "trouble",
+    "zh": "麻煩",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-present-continuous-future",
+  "tag_zh": "現在進行式表未來",
+  "stem": "Ed and Jill ____ camping this weekend, so they have to finish their homework by Friday.",
+  "options": [
+   "went",
+   "were going",
+   "are going",
+   "have gone"
+  ],
+  "answer": 2,
+  "explain_zh": "這個週末「即將」去露營，所以才要在週五前完成作業，描述已安排好的未來計畫用 be going to，故選 are going。went 是過去式、were going 是過去進行式、have gone 是現在完成式，都不符合「這個週末即將發生」的未來語境。",
+  "vocab": [
+   {
+    "w": "go camping",
+    "zh": "去露營",
+    "pos": "phr."
+   },
+   {
+    "w": "finish",
+    "zh": "完成",
+    "pos": "v."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-voice",
+  "tag_zh": "被動語態",
+  "stem": "Doraemon, a blue Japanese robot cat, has hated mice since his ears ____ by a mouse.",
+  "options": [
+   "bit",
+   "bite",
+   "were bitten",
+   "have bitten"
+  ],
+  "answer": 2,
+  "explain_zh": "哆啦A夢的耳朵是「被」老鼠咬的，用被動語態的過去簡單式，故選 were bitten。bit、bite 是主動語態，have bitten 也是主動的完成式，都無法呈現「耳朵被咬」的被動關係。",
+  "vocab": [
+   {
+    "w": "bite",
+    "zh": "咬",
+    "pos": "v."
+   },
+   {
+    "w": "hate",
+    "zh": "討厭",
+    "pos": "v."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conditional-future",
+  "tag_zh": "條件句",
+  "stem": "If we play some interesting games in class, there ____ more fun in learning English.",
+  "options": [
+   "are",
+   "has",
+   "will be",
+   "will have"
+  ],
+  "answer": 2,
+  "explain_zh": "if 引導的條件句，主要子句描述「如果…，未來就會有更多樂趣」，用 there will be 表示未來存在的狀態，故選 will be。are 是現在式（不符合未來假設）、has、will have 的用法都不符合 there be 句型。",
+  "vocab": [
+   {
+    "w": "there will be",
+    "zh": "將會有",
+    "pos": "phr."
+   },
+   {
+    "w": "fun",
+    "zh": "樂趣",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:nouns",
+  "tag_zh": "名詞語意",
+  "stem": "The ____ of this shop was so bad; I never got any answer after I emailed them my questions.",
+  "options": [
+   "item",
+   "business",
+   "price",
+   "service"
+  ],
+  "answer": 3,
+  "explain_zh": "寄信詢問問題卻從未得到回覆，可知這家店的「服務」很差，故選 service。item（商品項目）、business（生意）、price（價格）都與「寄信卻不回覆」的情境無關，只有服務態度能對應。",
+  "vocab": [
+   {
+    "w": "service",
+    "zh": "服務",
+    "pos": "n."
+   },
+   {
+    "w": "answer",
+    "zh": "回覆",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-015",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "It's not easy to see those islands clearly from here on sunny days, and it's even less ____ to see them on cloudy days.",
+  "options": [
+   "difficult",
+   "lucky",
+   "possible",
+   "special"
+  ],
+  "answer": 2,
+  "explain_zh": "晴天都不容易看清那些島嶼了，陰天當然更「不可能」看清楚，故選 possible。difficult（困難的，語意重複前句已有 not easy）、lucky（幸運的）、special（特別的）都不如 possible 貼切呼應前後的比較語氣。",
+  "vocab": [
+   {
+    "w": "possible",
+    "zh": "可能的",
+    "pos": "adj."
+   },
+   {
+    "w": "clearly",
+    "zh": "清楚地",
+    "pos": "adv."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adverbs",
+  "tag_zh": "副詞語意",
+  "stem": "Do you remember the CD I was looking for for months?  I ____ found it in a small shop.  Look, here it is!",
+  "options": [
+   "almost",
+   "even",
+   "finally",
+   "still"
+  ],
+  "answer": 2,
+  "explain_zh": "找了好幾個月的 CD，「終於」在一家小店裡找到了，故選 finally。almost（幾乎）、even（甚至）、still（仍然）都無法表達「長期尋找後總算找到」的語意。",
+  "vocab": [
+   {
+    "w": "finally",
+    "zh": "終於",
+    "pos": "adv."
+   },
+   {
+    "w": "look for",
+    "zh": "尋找",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "Business at Jane's shop has not been good these days.  And the new supermarket across the street only makes things ____.",
+  "options": [
+   "easier",
+   "worse",
+   "more boring",
+   "more convenient"
+  ],
+  "answer": 1,
+  "explain_zh": "Jane 的店生意本來就不好，對街又開了一家超市，只會讓情況「變得更糟」，故選 worse。easier（更容易）、more boring（更無聊）、more convenient（更方便）都與「生意雪上加霜」的語意相反或不符。",
+  "vocab": [
+   {
+    "w": "worse",
+    "zh": "更糟的（bad 的比較級）",
+    "pos": "adj."
+   },
+   {
+    "w": "business",
+    "zh": "生意",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:relative-pronouns",
+  "tag_zh": "關係代名詞",
+  "stem": "Scott wasn't sure if the young woman before him was ____ pulled him out of a car on fire.",
+  "options": [
+   "who",
+   "the one",
+   "the one she",
+   "the one who"
+  ],
+  "answer": 3,
+  "explain_zh": "Scott 不確定眼前的女子是不是「那位把他從燒車裡拉出來的人」，the one who 表示「那個做了某事的人」，其中 who 引導形容詞子句修飾 the one，故選 the one who。who 前面缺先行詞、the one 沒有子句銜接、the one she 文法結構不完整，都不合。",
+  "vocab": [
+   {
+    "w": "the one who",
+    "zh": "…的那個人",
+    "pos": "phr."
+   },
+   {
+    "w": "pull out",
+    "zh": "拉出",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-019",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-simple-past",
+  "tag_zh": "簡單過去式",
+  "stem": "I ____ swimming for several years before I went to this high school.  I gave it up because of heavy schoolwork.",
+  "options": [
+   "have practiced",
+   "am practicing",
+   "practiced",
+   "would practice"
+  ],
+  "answer": 2,
+  "explain_zh": "後句說「因為課業繁重而放棄了」，可知練習游泳是已經結束的過去經歷，用簡單過去式，故選 practiced。have practiced 是現在完成式（暗示到現在還在做）、am practicing 是現在進行式，都與「已經放棄」矛盾；would practice 也不符合此處的敘事時態。",
+  "vocab": [
+   {
+    "w": "practice",
+    "zh": "練習",
+    "pos": "v."
+   },
+   {
+    "w": "give up",
+    "zh": "放棄",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-020",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verbs",
+  "tag_zh": "動詞語意",
+  "stem": "Frank Kane is so good in the movie that many people ____ he will win the best actor prize.",
+  "options": [
+   "expect",
+   "forget",
+   "notice",
+   "plan"
+  ],
+  "answer": 0,
+  "explain_zh": "演技這麼好，大家都「預期」他會拿下最佳男主角獎，故選 expect。forget（忘記）、notice（注意到）、plan（計畫）都無法表達「對未來結果的預測、期待」。",
+  "vocab": [
+   {
+    "w": "expect",
+    "zh": "預期",
+    "pos": "v."
+   },
+   {
+    "w": "prize",
+    "zh": "獎項",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-021",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-present-perfect",
+  "tag_zh": "現在完成式",
+  "stem": "The new medicine that just came out on the market ____ thousands of lives.",
+  "options": [
+   "and saved",
+   "has saved",
+   "saving",
+   "to save"
+  ],
+  "answer": 1,
+  "explain_zh": "新藥上市至今「已經拯救」了成千上萬條生命，強調從過去到現在累積的成果，用現在完成式，故選 has saved。and saved 文法上多了不必要的連接詞、saving 是動名詞、to save 是不定詞，都不能單獨作為句子的主要動詞。",
+  "vocab": [
+   {
+    "w": "save lives",
+    "zh": "拯救生命",
+    "pos": "phr."
+   },
+   {
+    "w": "medicine",
+    "zh": "藥物",
+    "pos": "n."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-022",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:used-to",
+  "tag_zh": "過去習慣used to",
+  "stem": "Now I often think of those days with Pip, my pet dog.  When I read in my room, he ____ quietly beside me.",
+  "options": [
+   "will come and sit",
+   "comes and sits",
+   "has come and sat",
+   "used to come and sit"
+  ],
+  "answer": 3,
+  "explain_zh": "描述過去已不復存在、如今只能回憶的習慣（狗已成往事），used to 表示「過去經常、現在已不再」，故選 used to come and sit。will come and sit 是未來式、comes and sits 是現在式、has come and sat 是現在完成式，都不符合「懷念過去、如今已不再發生」的語境。",
+  "vocab": [
+   {
+    "w": "used to",
+    "zh": "過去經常（現在不再）",
+    "pos": "phr."
+   },
+   {
+    "w": "quietly",
+    "zh": "安靜地",
+    "pos": "adv."
+   }
+  ],
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-023",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What is the trick that the mosquito uses in rain?",
+  "options": [
+   "It shakes its body fast enough to get water off.",
+   "It drops with the raindrop and then rolls off it.",
+   "It flies behind the raindrop and pushes it away.",
+   "It rides on the raindrop and lands on the ground."
+  ],
+  "answer": 1,
+  "explain_zh": "文中說蚊子被雨滴打中後會跟著雨滴一起落下，之後才滾離雨滴、飛走，這就是牠躲過雨滴攻擊的技巧，故選 B。並非靠甩動身體（A，那是狗的做法）或反過來推開雨滴（C）、騎在雨滴上降落地面（D）。",
+  "vocab": [
+   {
+    "w": "roll off",
+    "zh": "滾離",
+    "pos": "phr.v."
+   },
+   {
+    "w": "raindrop",
+    "zh": "雨滴",
+    "pos": "n."
+   }
+  ],
+  "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.  But what happens when it hits a mosquito?  A 2012 study says when a raindrop falls on a mosquito, it's like when a bus hits a person.  Besides, the little insect is hit by a raindrop about once every 20 seconds.  So why don't we see many dead mosquitoes after it rains?\nA mosquito is as big as a raindrop, but it is much lighter — 0.002 g only.  This saves its life in raindrop attacks.  Because the mosquito is so light, when it is hit by a raindrop, it won't experience a force that is strong enough to kill it.\nThe study also found that when a mosquito is hit by a raindrop, the insect is pushed by the raindrop and falls together with it.  But the mosquito doesn't get wet easily because it is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the raindrop and fly away.\nHowever, this trick isn't always successful.  If the mosquito flies too low when it is hit by the raindrop, it won't have time to fly off.  Then it will hit the ground and meet its death.",
+  "group_id": "PX-CAP112-G01",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-024",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What keeps a mosquito safe in the rain?",
+  "options": [
+   "It is very light.",
+   "It has no body hairs.",
+   "It is as big as a raindrop.",
+   "It is strong enough to fight the force of a raindrop."
+  ],
+  "answer": 0,
+  "explain_zh": "文中解釋蚊子和雨滴差不多大，但重量卻輕得多（只有0.002克），這讓牠被雨滴打中時不會受到致命的力道，故選 A。文章沒有說牠沒有體毛（B，其實牠身上的毛能防水），也沒說牠跟雨滴一樣大就代表安全（C，重點在「輕」不是「大小」）。",
+  "vocab": [
+   {
+    "w": "light",
+    "zh": "輕的",
+    "pos": "adj."
+   },
+   {
+    "w": "safe",
+    "zh": "安全的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.  But what happens when it hits a mosquito?  A 2012 study says when a raindrop falls on a mosquito, it's like when a bus hits a person.  Besides, the little insect is hit by a raindrop about once every 20 seconds.  So why don't we see many dead mosquitoes after it rains?\nA mosquito is as big as a raindrop, but it is much lighter — 0.002 g only.  This saves its life in raindrop attacks.  Because the mosquito is so light, when it is hit by a raindrop, it won't experience a force that is strong enough to kill it.\nThe study also found that when a mosquito is hit by a raindrop, the insect is pushed by the raindrop and falls together with it.  But the mosquito doesn't get wet easily because it is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the raindrop and fly away.\nHowever, this trick isn't always successful.  If the mosquito flies too low when it is hit by the raindrop, it won't have time to fly off.  Then it will hit the ground and meet its death.",
+  "group_id": "PX-CAP112-G01",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-025",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "When would it be dangerous for a mosquito in the rain?",
+  "options": [
+   "When it flies too close to the ground.",
+   "When the rain falls too hard and too fast.",
+   "When it is hit by raindrops too many times.",
+   "When it drops for more than 6 cm in the rain."
+  ],
+  "answer": 0,
+  "explain_zh": "文末指出，如果蚊子被雨滴打中時飛得「太靠近地面」，就沒有足夠時間滾離雨滴、飛走，最終會被摔死，故選 A。文章沒有說是雨下得太急太快（B）或被打中太多次（C）才會有危險，重點在飛行高度不夠。",
+  "vocab": [
+   {
+    "w": "dangerous",
+    "zh": "危險的",
+    "pos": "adj."
+   },
+   {
+    "w": "close to",
+    "zh": "靠近",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Sometimes when the rain falls hard and fast on you, it might hurt a little.  But what happens when it hits a mosquito?  A 2012 study says when a raindrop falls on a mosquito, it's like when a bus hits a person.  Besides, the little insect is hit by a raindrop about once every 20 seconds.  So why don't we see many dead mosquitoes after it rains?\nA mosquito is as big as a raindrop, but it is much lighter — 0.002 g only.  This saves its life in raindrop attacks.  Because the mosquito is so light, when it is hit by a raindrop, it won't experience a force that is strong enough to kill it.\nThe study also found that when a mosquito is hit by a raindrop, the insect is pushed by the raindrop and falls together with it.  But the mosquito doesn't get wet easily because it is covered with hairs which keep off water.  After dropping about 6 cm, it will roll off the raindrop and fly away.\nHowever, this trick isn't always successful.  If the mosquito flies too low when it is hit by the raindrop, it won't have time to fly off.  Then it will hit the ground and meet its death.",
+  "group_id": "PX-CAP112-G01",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-026",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "What do the three stories in the reading all talk about?",
+  "options": [
+   "Who Beethoven's true love was.",
+   "Who played \"For Elise\" the best.",
+   "How \"For Elise\" became popular.",
+   "Why Beethoven wrote \"For Elise.\""
+  ],
+  "answer": 3,
+  "explain_zh": "三則故事分別介紹三位可能是 Elise 的女性，但共同要回答的問題都是「貝多芬為什麼要寫這首曲子送給她」，故選 D。文章重點不是誰是他真愛（A，三個故事各自不同關係）、誰彈得最好（B）或這首曲子怎麼變得受歡迎（C，文中並未提及）。",
+  "vocab": [
+   {
+    "w": "true love",
+    "zh": "真愛",
+    "pos": "phr."
+   },
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "You probably have heard Beethoven's famous piano piece \"For Elise,\" but do you know who \"Elise\" was?\nOne story is that Elise was Elisabeth Röckel.  She once sang in Beethoven's opera Fidelio, and the two became very good friends.  Beethoven called her \"Elise.\"  When Röckel was leaving the city of Vienna, Beethoven wrote \"For Elise\" to say goodbye to her.  Another story is that Elise was Therese Malfatti.  Beethoven was in love with her.  He wrote a piece for her and put \"For Therese\" on the manuscript.  Malfatti kept the manuscript and left it to her family when she died.  Later, a man copied the manuscript and wrote \"For Elise\" by mistake.  There is another possible Elise: Elise Barensfeld.  She learned the piano from Malfatti, the same Malfatti in the second story.  To help Malfatti, Beethoven wrote the piece for her to use to teach Barensfeld.\nThese are just some guesses about who Elise was.  We may never know the right answer.  No one knew about the piece until 1867, when the manuscript was found.  This was 40 years after Beethoven's death, so he wasn't around to tell us who Elise was.  Only one thing is for sure: \"For Elise\" will always be enjoyed.",
+  "group_id": "PX-CAP112-G02",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-027",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What do we know about \"For Elise\" from the reading?",
+  "options": [
+   "It first appeared in the opera Fidelio.",
+   "The true \"Elise\" was Elise Barensfeld.",
+   "The manuscript was found after Beethoven died.",
+   "The manuscript is now kept by the city of Vienna."
+  ],
+  "answer": 2,
+  "explain_zh": "文末提到直到 1867 年（貝多芬過世40年後）手稿才被發現，可知手稿是他死後才被找到的，故選 C。它並非首次出現在歌劇《費黛里奧》（A，那是 Röckel 演唱的作品，不是手稿的出處），真正的 Elise 也未被證實是 Barensfeld（B），文中沒說手稿現由維也納市保管（D）。",
+  "vocab": [
+   {
+    "w": "manuscript",
+    "zh": "手稿",
+    "pos": "n."
+   },
+   {
+    "w": "found",
+    "zh": "被發現",
+    "pos": "v."
+   }
+  ],
+  "passage": "You probably have heard Beethoven's famous piano piece \"For Elise,\" but do you know who \"Elise\" was?\nOne story is that Elise was Elisabeth Röckel.  She once sang in Beethoven's opera Fidelio, and the two became very good friends.  Beethoven called her \"Elise.\"  When Röckel was leaving the city of Vienna, Beethoven wrote \"For Elise\" to say goodbye to her.  Another story is that Elise was Therese Malfatti.  Beethoven was in love with her.  He wrote a piece for her and put \"For Therese\" on the manuscript.  Malfatti kept the manuscript and left it to her family when she died.  Later, a man copied the manuscript and wrote \"For Elise\" by mistake.  There is another possible Elise: Elise Barensfeld.  She learned the piano from Malfatti, the same Malfatti in the second story.  To help Malfatti, Beethoven wrote the piece for her to use to teach Barensfeld.\nThese are just some guesses about who Elise was.  We may never know the right answer.  No one knew about the piece until 1867, when the manuscript was found.  This was 40 years after Beethoven's death, so he wasn't around to tell us who Elise was.  Only one thing is for sure: \"For Elise\" will always be enjoyed.",
+  "group_id": "PX-CAP112-G02",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-028",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What can we learn about the three women from the stories?",
+  "options": [
+   "They were called \"Elise\" by their friends.",
+   "Elisabeth Röckel was a close friend of Beethoven's.",
+   "Therese Malfatti changed \"For Elise\" to \"For Therese.\"",
+   "Elise Barensfeld was Beethoven's student."
+  ],
+  "answer": 1,
+  "explain_zh": "第一個故事提到 Röckel 曾與貝多芬同演歌劇、兩人成為非常要好的朋友，故選 B。三人的暱稱是貝多芬給的、並非朋友間互稱（A），Malfatti 才是把「For Therese」誤抄成「For Elise」的關聯人物、與C選項描述相反（C錯，是抄寫者改的，非 Malfatti 自己），Barensfeld 是跟 Malfatti 學琴、並非貝多芬的學生（D）。",
+  "vocab": [
+   {
+    "w": "close friend",
+    "zh": "好朋友",
+    "pos": "phr."
+   },
+   {
+    "w": "opera",
+    "zh": "歌劇",
+    "pos": "n."
+   }
+  ],
+  "passage": "You probably have heard Beethoven's famous piano piece \"For Elise,\" but do you know who \"Elise\" was?\nOne story is that Elise was Elisabeth Röckel.  She once sang in Beethoven's opera Fidelio, and the two became very good friends.  Beethoven called her \"Elise.\"  When Röckel was leaving the city of Vienna, Beethoven wrote \"For Elise\" to say goodbye to her.  Another story is that Elise was Therese Malfatti.  Beethoven was in love with her.  He wrote a piece for her and put \"For Therese\" on the manuscript.  Malfatti kept the manuscript and left it to her family when she died.  Later, a man copied the manuscript and wrote \"For Elise\" by mistake.  There is another possible Elise: Elise Barensfeld.  She learned the piano from Malfatti, the same Malfatti in the second story.  To help Malfatti, Beethoven wrote the piece for her to use to teach Barensfeld.\nThese are just some guesses about who Elise was.  We may never know the right answer.  No one knew about the piece until 1867, when the manuscript was found.  This was 40 years after Beethoven's death, so he wasn't around to tell us who Elise was.  Only one thing is for sure: \"For Elise\" will always be enjoyed.",
+  "group_id": "PX-CAP112-G02",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-029",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "What idea does Jesse Cohen talk about in the reading?",
+  "options": [
+   "Not all kinds of toys are helpful for children's learning.",
+   "Parents should give their children the right toys for their age.",
+   "Children should learn about their gender from playing with toys.",
+   "We should not let gender decide which toys children can play with."
+  ],
+  "answer": 3,
+  "explain_zh": "文章最後強調不該讓性別決定孩子能玩什麼玩具，呼籲家長讓孩子自由接觸各種玩具，故選 D。文章雖提到某些玩具對學習有幫助（A的說法過於片面），但核心論點是反對用性別劃分玩具，而非單純建議依年齡挑選玩具（B）或讓孩子從玩具學性別（C，這正是文章要打破的迷思）。",
+  "vocab": [
+   {
+    "w": "gender",
+    "zh": "性別",
+    "pos": "n."
+   },
+   {
+    "w": "decide",
+    "zh": "決定",
+    "pos": "v."
+   }
+  ],
+  "passage": "Which would you give a boy for his birthday, a toy truck or a doll?  If you choose the truck, well, you're not alone.  Most people think that some toys are for boys and some are for girls.  We might pick building toys for boys and kitchen toys for girls.  But why do we do this?  Are boys and girls really born with different interests in toys?\nNo, they are not.  Children start to show different interests in toys at age three, but only because at this time, they begin to learn about gender and to follow what others of their gender do.  If you give a girl kitchen toys, she will think they are girls' toys because she sees other girls playing with them.  But if you give a girl a toy car and show her a group of girls who are playing with cars, she'll play with the toy car and think it is a girls' toy.  This \"watch and follow\" habit often becomes a rule for both boys and girls in choosing the \"right\" toys.\nHowever, this rule can be bad for children.  Different toys teach children different things.  Dolls help with their early language use, and building toys are good for learning math and science.  By playing with different toys, children can find out what they are interested in or what they are good at.  If they only play one kind of toy, they may lose this important chance.  They may also get a wrong idea about what boys or girls are able to do.  Some doctors worry that children may use the same kind of thinking when they look for jobs in the future.  If they do, they may miss something more important than just getting a chance to play with different toys.  They may miss many, perhaps better, chances in life.",
+  "group_id": "PX-CAP112-G03",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-030",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "In the third paragraph, why does Jesse Cohen think \"this rule can be bad for children\"?",
+  "options": [
+   "Children may not want to share their toys with others.",
+   "Children may have the wrong idea about following rules.",
+   "Children may not be able to learn from playing with toys.",
+   "Children may miss the chance to find out what they really like."
+  ],
+  "answer": 3,
+  "explain_zh": "第三段說如果孩子只玩一種玩具，可能會失去發掘自己真正興趣與長才的機會，故選 D。並非因為孩子不願分享玩具（A）、誤解規則本身（B），或單純學不到東西（C，重點是「錯過認識自己」的機會，而非完全學不到）。",
+  "vocab": [
+   {
+    "w": "miss the chance",
+    "zh": "錯失機會",
+    "pos": "phr."
+   },
+   {
+    "w": "interested in",
+    "zh": "對…感興趣",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Which would you give a boy for his birthday, a toy truck or a doll?  If you choose the truck, well, you're not alone.  Most people think that some toys are for boys and some are for girls.  We might pick building toys for boys and kitchen toys for girls.  But why do we do this?  Are boys and girls really born with different interests in toys?\nNo, they are not.  Children start to show different interests in toys at age three, but only because at this time, they begin to learn about gender and to follow what others of their gender do.  If you give a girl kitchen toys, she will think they are girls' toys because she sees other girls playing with them.  But if you give a girl a toy car and show her a group of girls who are playing with cars, she'll play with the toy car and think it is a girls' toy.  This \"watch and follow\" habit often becomes a rule for both boys and girls in choosing the \"right\" toys.\nHowever, this rule can be bad for children.  Different toys teach children different things.  Dolls help with their early language use, and building toys are good for learning math and science.  By playing with different toys, children can find out what they are interested in or what they are good at.  If they only play one kind of toy, they may lose this important chance.  They may also get a wrong idea about what boys or girls are able to do.  Some doctors worry that children may use the same kind of thinking when they look for jobs in the future.  If they do, they may miss something more important than just getting a chance to play with different toys.  They may miss many, perhaps better, chances in life.",
+  "group_id": "PX-CAP112-G03",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-031",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:organization",
+  "tag_zh": "文章結構",
+  "stem": "In the reading, after Jesse Cohen talks about an idea, he often gives an example to make it clear.  Below are four of the sentences in the third paragraph.  Which is used as an example?",
+  "options": [
+   "\"However, this rule can be bad for children.\"",
+   "\"Dolls help with their early language use, and building toys are good for learning math and science.\"",
+   "\"Some doctors worry that children may use the same kind of thinking when they look for jobs in the future.\"",
+   "\"If they do, they may miss something more important than just getting a chance to play with different toys.\""
+  ],
+  "answer": 1,
+  "explain_zh": "作者先提出「玩具能教會孩子不同的東西」這個論點，接著用「娃娃有助語言發展、積木有助數理學習」具體舉例說明，故選 B。其餘三句要麼是論點本身（A、C，在講規則或未來影響），要麼是推論結果（D），都不是舉例句。",
+  "vocab": [
+   {
+    "w": "example",
+    "zh": "例子",
+    "pos": "n."
+   },
+   {
+    "w": "building toy",
+    "zh": "積木類玩具",
+    "pos": "n."
+   }
+  ],
+  "passage": "Which would you give a boy for his birthday, a toy truck or a doll?  If you choose the truck, well, you're not alone.  Most people think that some toys are for boys and some are for girls.  We might pick building toys for boys and kitchen toys for girls.  But why do we do this?  Are boys and girls really born with different interests in toys?\nNo, they are not.  Children start to show different interests in toys at age three, but only because at this time, they begin to learn about gender and to follow what others of their gender do.  If you give a girl kitchen toys, she will think they are girls' toys because she sees other girls playing with them.  But if you give a girl a toy car and show her a group of girls who are playing with cars, she'll play with the toy car and think it is a girls' toy.  This \"watch and follow\" habit often becomes a rule for both boys and girls in choosing the \"right\" toys.\nHowever, this rule can be bad for children.  Different toys teach children different things.  Dolls help with their early language use, and building toys are good for learning math and science.  By playing with different toys, children can find out what they are interested in or what they are good at.  If they only play one kind of toy, they may lose this important chance.  They may also get a wrong idea about what boys or girls are able to do.  Some doctors worry that children may use the same kind of thinking when they look for jobs in the future.  If they do, they may miss something more important than just getting a chance to play with different toys.  They may miss many, perhaps better, chances in life.",
+  "group_id": "PX-CAP112-G03",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-032",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "What is the reading mostly about?",
+  "options": [
+   "Marie Colvin's war reports.",
+   "Marie Colvin's working life.",
+   "Marie Colvin's schooldays at Yale.",
+   "Marie Colvin's experiences in Homs."
+  ],
+  "answer": 1,
+  "explain_zh": "根據官方答案，正解是 B：全文從 Marie Colvin 的求學、成為戰地記者、報導各地戰爭、失去一隻眼睛，一路寫到她最終殉職，完整呈現的是她「一生的工作歷程」，並非只聚焦在戰爭報導本身（A）或某一段經歷（C、D 都只是文中一小部分）。（此題經與 112 年會考官方答案卡核對後更正）",
+  "vocab": [
+   {
+    "w": "working life",
+    "zh": "職業生涯",
+    "pos": "phr."
+   },
+   {
+    "w": "war reporter",
+    "zh": "戰地記者",
+    "pos": "n."
+   }
+  ],
+  "passage": "Marie Colvin was a world-famous war reporter.  She was born in New York, USA, in 1956 and died in Homs, Syria, in 2012.\nWhen she was a student at Yale University, Colvin decided that she wanted to be a reporter in the future.  She joined the Sunday Times, a UK newspaper, in 1985 and soon became its Middle East reporter.  Besides the Middle East, she also reported from other parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting on the war in Sri Lanka, she lost her left eye.  But that never stopped her.  She still went to dangerous places that few reporters wanted to visit and stayed when others left.\nColvin showed great empathy in her stories.  For her, war reporting was not just some quick interviews and a few photos.  She wrote about real people and their real lives.  Her writing made you feel so strongly about these people's stories, just like they were your own.  She hoped that through her work the world would understand what really happened in war, and would take action to stop the fighting.\nOn February 22, 2012, the day after she gave her report on the war in Homs, Colvin was killed when the house she was staying in was attacked.  She always knew what price a war reporter might have to pay.  She already lost an eye before.  This time, she gave her life to the work she could not give up — telling the true stories to the world.",
+  "group_id": "PX-CAP112-G04",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-033",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "What does it mean when someone has empathy?",
+  "options": [
+   "They are good at taking war photos.",
+   "They like to read other people's life stories.",
+   "They are able to understand how other people feel.",
+   "They are good at helping people change their own lives."
+  ],
+  "answer": 2,
+  "explain_zh": "文中說她的報導不只是簡短訪問和幾張照片，而是能讓讀者感同身受、彷彿故事發生在自己身上，這正是 empathy（同理心）：能「理解他人的感受」，故選 C。並非指擅長拍照（A）或喜歡讀別人的故事（B），也不是指幫人改變人生（D）。",
+  "vocab": [
+   {
+    "w": "empathy",
+    "zh": "同理心",
+    "pos": "n."
+   },
+   {
+    "w": "understand",
+    "zh": "理解",
+    "pos": "v."
+   }
+  ],
+  "passage": "Marie Colvin was a world-famous war reporter.  She was born in New York, USA, in 1956 and died in Homs, Syria, in 2012.\nWhen she was a student at Yale University, Colvin decided that she wanted to be a reporter in the future.  She joined the Sunday Times, a UK newspaper, in 1985 and soon became its Middle East reporter.  Besides the Middle East, she also reported from other parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting on the war in Sri Lanka, she lost her left eye.  But that never stopped her.  She still went to dangerous places that few reporters wanted to visit and stayed when others left.\nColvin showed great empathy in her stories.  For her, war reporting was not just some quick interviews and a few photos.  She wrote about real people and their real lives.  Her writing made you feel so strongly about these people's stories, just like they were your own.  She hoped that through her work the world would understand what really happened in war, and would take action to stop the fighting.\nOn February 22, 2012, the day after she gave her report on the war in Homs, Colvin was killed when the house she was staying in was attacked.  She always knew what price a war reporter might have to pay.  She already lost an eye before.  This time, she gave her life to the work she could not give up — telling the true stories to the world.",
+  "group_id": "PX-CAP112-G04",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-034",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "Which is true about Marie Colvin?",
+  "options": [
+   "The chance to study at Yale made her leave her job in the Middle East.",
+   "The experience in Sri Lanka did not change her way of reporting news.",
+   "She was killed in Homs when she was interviewing soldiers there for her report.",
+   "She was not sure what to do in the future until she worked for the Sunday Times."
+  ],
+  "answer": 1,
+  "explain_zh": "根據官方答案，正解是 B：文中提到她在斯里蘭卡失去一隻眼睛後「那從未阻止她」，仍然堅持前往危險的地方採訪，可知這段經歷並沒有改變她一貫的報導方式。她並非因為到耶魯讀書才離開中東的工作（A，時間順序相反），也不是在採訪軍人時於霍姆斯遇難（C，是房子被攻擊時罹難），更不是到了《星期日泰晤士報》才確定志向（D，她在耶魯就讀時已立志當記者）。（此題經與 112 年會考官方答案卡核對後更正）",
+  "vocab": [
+   {
+    "w": "reporting",
+    "zh": "報導方式",
+    "pos": "n."
+   },
+   {
+    "w": "experience",
+    "zh": "經歷",
+    "pos": "n."
+   }
+  ],
+  "passage": "Marie Colvin was a world-famous war reporter.  She was born in New York, USA, in 1956 and died in Homs, Syria, in 2012.\nWhen she was a student at Yale University, Colvin decided that she wanted to be a reporter in the future.  She joined the Sunday Times, a UK newspaper, in 1985 and soon became its Middle East reporter.  Besides the Middle East, she also reported from other parts of the world: Chechnya, Kosovo and Sri Lanka, for example.  When she was reporting on the war in Sri Lanka, she lost her left eye.  But that never stopped her.  She still went to dangerous places that few reporters wanted to visit and stayed when others left.\nColvin showed great empathy in her stories.  For her, war reporting was not just some quick interviews and a few photos.  She wrote about real people and their real lives.  Her writing made you feel so strongly about these people's stories, just like they were your own.  She hoped that through her work the world would understand what really happened in war, and would take action to stop the fighting.\nOn February 22, 2012, the day after she gave her report on the war in Homs, Colvin was killed when the house she was staying in was attacked.  She always knew what price a war reporter might have to pay.  She already lost an eye before.  This time, she gave her life to the work she could not give up — telling the true stories to the world.",
+  "group_id": "PX-CAP112-G04",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-035",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "I just love Josh Katz's new book!  It's about ____ in different parts of the US.  For example, there are different names for sports shoes.",
+  "options": [
+   "what things are called",
+   "how sports are played",
+   "why different languages are spoken",
+   "what words are often spelled differently"
+  ],
+  "answer": 0,
+  "explain_zh": "後文舉例不同地區對「運動鞋」有不同稱呼（tennis shoes、sneakers、gym shoes），可知這本書談的是「各地對同樣東西有不同稱呼」，故選 A。並不是在講運動怎麼玩（B）、為何說不同語言（C，全書談的都是英文中的用字差異）或單字拼法不同（D）。",
+  "vocab": [
+   {
+    "w": "be about",
+    "zh": "關於",
+    "pos": "phr."
+   },
+   {
+    "w": "quiz",
+    "zh": "問卷、小測驗",
+    "pos": "n."
+   }
+  ],
+  "passage": "Speaking American is a great book!\nLucia Leisure ★★★★★\nI just love Josh Katz's new book!  It's about ____ in different parts of the US.  The information in the book was collected from the quiz that Katz built on the website in 2013.  The quiz asked what words people use for something, and their answers showed interesting facts.  For example, there are different names for sports shoes.  In most parts of the US, people say \"tennis shoes.\"  In the northeast of the country, people wear \"sneakers.\"  In some towns, \"tennis shoes\" and \"sneakers\" become \"gym shoes.\"\nThe use of words tells us where people are from, like Katz's book says.  But in my experience, it also shows ____.  My family has lived in New York since my grandparents.  It's not surprising that I say \"sneakers.\"  But my grandfather says \"plimsolls,\" and my daughter says \"kicks\" or \"vans.\"  Maybe Katz can study this difference for his next book.",
+  "group_id": "PX-CAP112-G05",
+  "source": "112會考"
+ },
+ {
+  "id": "PX-CAP112-036",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "The use of words tells us where people are from, like Katz's book says.  But in my experience, it also shows ____.  My grandfather says \"plimsolls,\" and my daughter says \"kicks\" or \"vans.\"",
+  "options": [
+   "how old they are",
+   "who they speak to",
+   "where they grew up",
+   "whether they are men or women"
+  ],
+  "answer": 0,
+  "explain_zh": "作者接著舉例，同樣住在紐約，祖父說 plimsolls、自己說 sneakers、女兒卻說 kicks 或 vans，這是「不同世代」用字不同，並非地區差異（前段已談過地區），故選 A（透露一個人的年紀）。文中沒有提到因對象不同而用字不同（B）或性別差異（D）。",
+  "vocab": [
+   {
+    "w": "grandparent",
+    "zh": "祖父母",
+    "pos": "n."
+   },
+   {
+    "w": "generation",
+    "zh": "世代",
+    "pos": "n."
+   }
+  ],
+  "passage": "Speaking American is a great book!\nLucia Leisure ★★★★★\nI just love Josh Katz's new book!  It's about ____ in different parts of the US.  The information in the book was collected from the quiz that Katz built on the website in 2013.  The quiz asked what words people use for something, and their answers showed interesting facts.  For example, there are different names for sports shoes.  In most parts of the US, people say \"tennis shoes.\"  In the northeast of the country, people wear \"sneakers.\"  In some towns, \"tennis shoes\" and \"sneakers\" become \"gym shoes.\"\nThe use of words tells us where people are from, like Katz's book says.  But in my experience, it also shows ____.  My family has lived in New York since my grandparents.  It's not surprising that I say \"sneakers.\"  But my grandfather says \"plimsolls,\" and my daughter says \"kicks\" or \"vans.\"  Maybe Katz can study this difference for his next book.",
+  "group_id": "PX-CAP112-G05",
+  "source": "112會考"
+ }
+]

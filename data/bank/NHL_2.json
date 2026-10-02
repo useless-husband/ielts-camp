@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "NHL-0051",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, are you interested in joining the Astronomy Club? We meet every Tuesday after school.\nB: Maybe. What do you actually do at the meetings?\nA: We look at stars through our telescope on the roof, and once a month we visit an observatory outside the city.\nB: That sounds fun. Do I need any experience?\nA: No experience needed, just curiosity. We also have a small membership fee, one hundred and fifty dollars per semester, which covers snacks and trip costs.\nB: Okay, when is the next trip?\nA: It's on the twenty-fifth of this month, to Mountain View Observatory. You'd need to sign up by this Friday if you want to come.\nB: Great, I'll think about it and let you know tomorrow.\nA: Sure, here's a flyer with our club leader's contact number in case you have more questions.",
+    "group_id": "NHL-G11",
+    "stem": "What club is being introduced?",
+    "options": [
+      "The Astronomy Club",
+      "The Photography Club",
+      "The Hiking Club",
+      "The Chess Club"
+    ],
+    "answer": 0,
+    "explain_zh": "對話一開始就問 interested in joining the Astronomy Club,所以介紹的是天文社,其餘社團都沒有被提到。",
+    "vocab": [
+      {
+        "w": "curiosity",
+        "zh": "好奇心",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0052",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, are you interested in joining the Astronomy Club? We meet every Tuesday after school.\nB: Maybe. What do you actually do at the meetings?\nA: We look at stars through our telescope on the roof, and once a month we visit an observatory outside the city.\nB: That sounds fun. Do I need any experience?\nA: No experience needed, just curiosity. We also have a small membership fee, one hundred and fifty dollars per semester, which covers snacks and trip costs.\nB: Okay, when is the next trip?\nA: It's on the twenty-fifth of this month, to Mountain View Observatory. You'd need to sign up by this Friday if you want to come.\nB: Great, I'll think about it and let you know tomorrow.\nA: Sure, here's a flyer with our club leader's contact number in case you have more questions.",
+    "group_id": "NHL-G11",
+    "stem": "How much is the membership fee?",
+    "options": [
+      "$150 per month",
+      "$150 per semester",
+      "$115 per semester",
+      "$1,500 per semester"
+    ],
+    "answer": 1,
+    "explain_zh": "社員說 one hundred and fifty dollars per semester,是每學期而非每月,要聽清楚後面接的時間單位。",
+    "vocab": [
+      {
+        "w": "membership",
+        "zh": "會員資格",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0053",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, are you interested in joining the Astronomy Club? We meet every Tuesday after school.\nB: Maybe. What do you actually do at the meetings?\nA: We look at stars through our telescope on the roof, and once a month we visit an observatory outside the city.\nB: That sounds fun. Do I need any experience?\nA: No experience needed, just curiosity. We also have a small membership fee, one hundred and fifty dollars per semester, which covers snacks and trip costs.\nB: Okay, when is the next trip?\nA: It's on the twenty-fifth of this month, to Mountain View Observatory. You'd need to sign up by this Friday if you want to come.\nB: Great, I'll think about it and let you know tomorrow.\nA: Sure, here's a flyer with our club leader's contact number in case you have more questions.",
+    "group_id": "NHL-G11",
+    "stem": "When is the next trip?",
+    "options": [
+      "The 15th of this month",
+      "The 25th of next month",
+      "The 25th of this month",
+      "The 5th of this month"
+    ],
+    "answer": 2,
+    "explain_zh": "社員說 it's on the twenty-fifth of this month,twenty-fifth 和 fifteenth 發音相近,要聽清楚才不會選錯日期。",
+    "vocab": [
+      {
+        "w": "observatory",
+        "zh": "天文台",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0054",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, are you interested in joining the Astronomy Club? We meet every Tuesday after school.\nB: Maybe. What do you actually do at the meetings?\nA: We look at stars through our telescope on the roof, and once a month we visit an observatory outside the city.\nB: That sounds fun. Do I need any experience?\nA: No experience needed, just curiosity. We also have a small membership fee, one hundred and fifty dollars per semester, which covers snacks and trip costs.\nB: Okay, when is the next trip?\nA: It's on the twenty-fifth of this month, to Mountain View Observatory. You'd need to sign up by this Friday if you want to come.\nB: Great, I'll think about it and let you know tomorrow.\nA: Sure, here's a flyer with our club leader's contact number in case you have more questions.",
+    "group_id": "NHL-G11",
+    "stem": "What does a new member need in order to join?",
+    "options": [
+      "A telescope of their own",
+      "A recommendation letter",
+      "At least one year of science class",
+      "No experience, just curiosity"
+    ],
+    "answer": 3,
+    "explain_zh": "社員明確說 no experience needed, just curiosity,所以不需要自備望遠鏡或推薦信,這些都是混淆選項。",
+    "vocab": [
+      {
+        "w": "experience",
+        "zh": "經驗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0055",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, are you interested in joining the Astronomy Club? We meet every Tuesday after school.\nB: Maybe. What do you actually do at the meetings?\nA: We look at stars through our telescope on the roof, and once a month we visit an observatory outside the city.\nB: That sounds fun. Do I need any experience?\nA: No experience needed, just curiosity. We also have a small membership fee, one hundred and fifty dollars per semester, which covers snacks and trip costs.\nB: Okay, when is the next trip?\nA: It's on the twenty-fifth of this month, to Mountain View Observatory. You'd need to sign up by this Friday if you want to come.\nB: Great, I'll think about it and let you know tomorrow.\nA: Sure, here's a flyer with our club leader's contact number in case you have more questions.",
+    "group_id": "NHL-G11",
+    "stem": "What must the student do by Friday if she wants to join the trip?",
+    "options": [
+      "Sign up",
+      "Pay the full semester fee",
+      "Buy a telescope",
+      "Bring a permission slip"
+    ],
+    "answer": 0,
+    "explain_zh": "社員說 you'd need to sign up by this Friday,所以星期五前要報名,對話沒有提到要先繳全額費用或帶同意書。",
+    "vocab": [
+      {
+        "w": "sign up",
+        "zh": "報名",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0056",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I have a reservation for six people this Saturday at seven, but I need to change it.\nB: No problem, may I have your name please?\nA: It's under the name Chen, for a birthday dinner.\nB: I see it here. What would you like to change it to?\nA: Could we move it to Sunday instead, same time, seven o'clock?\nB: Let me check... Sunday at seven is full, but we do have a table at eight thirty.\nA: That's a bit late, but it should be fine. Actually, could you also add two more guests? We'll be eight in total.\nB: Sure, I'll update that. Just so you know, for parties of eight or more, we ask for a fifty percent deposit, which is about one thousand dollars.\nA: That's fine, I can pay by card now.\nB: Great, I'll send you a confirmation message shortly.",
+    "group_id": "NHL-G12",
+    "stem": "What does the customer want to do at first?",
+    "options": [
+      "Cancel a reservation completely",
+      "Change the day of a reservation",
+      "Book a table for the first time",
+      "Complain about bad service"
+    ],
+    "answer": 1,
+    "explain_zh": "顧客一開始就說 I need to change it,並要求改到星期天,所以是修改訂位日期,不是取消或第一次訂位。",
+    "vocab": [
+      {
+        "w": "reservation",
+        "zh": "訂位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0057",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I have a reservation for six people this Saturday at seven, but I need to change it.\nB: No problem, may I have your name please?\nA: It's under the name Chen, for a birthday dinner.\nB: I see it here. What would you like to change it to?\nA: Could we move it to Sunday instead, same time, seven o'clock?\nB: Let me check... Sunday at seven is full, but we do have a table at eight thirty.\nA: That's a bit late, but it should be fine. Actually, could you also add two more guests? We'll be eight in total.\nB: Sure, I'll update that. Just so you know, for parties of eight or more, we ask for a fifty percent deposit, which is about one thousand dollars.\nA: That's fine, I can pay by card now.\nB: Great, I'll send you a confirmation message shortly.",
+    "group_id": "NHL-G12",
+    "stem": "What new time does the customer get for Sunday?",
+    "options": [
+      "7:00",
+      "8:00",
+      "8:30",
+      "8:13"
+    ],
+    "answer": 2,
+    "explain_zh": "店員說星期天七點已滿,只剩 eight thirty,eight thirty 和 eight thirteen 容易聽混,要聽清楚 thirty 的尾音。",
+    "vocab": [
+      {
+        "w": "full",
+        "zh": "客滿的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0058",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I have a reservation for six people this Saturday at seven, but I need to change it.\nB: No problem, may I have your name please?\nA: It's under the name Chen, for a birthday dinner.\nB: I see it here. What would you like to change it to?\nA: Could we move it to Sunday instead, same time, seven o'clock?\nB: Let me check... Sunday at seven is full, but we do have a table at eight thirty.\nA: That's a bit late, but it should be fine. Actually, could you also add two more guests? We'll be eight in total.\nB: Sure, I'll update that. Just so you know, for parties of eight or more, we ask for a fifty percent deposit, which is about one thousand dollars.\nA: That's fine, I can pay by card now.\nB: Great, I'll send you a confirmation message shortly.",
+    "group_id": "NHL-G12",
+    "stem": "How many guests will there be in total?",
+    "options": [
+      "Six",
+      "Two",
+      "Ten",
+      "Eight"
+    ],
+    "answer": 3,
+    "explain_zh": "原本六人,顧客後來加兩位,we'll be eight in total,六是原本人數,不是最後總人數,要注意數字的變化。",
+    "vocab": [
+      {
+        "w": "party",
+        "zh": "一群人;聚會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0059",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I have a reservation for six people this Saturday at seven, but I need to change it.\nB: No problem, may I have your name please?\nA: It's under the name Chen, for a birthday dinner.\nB: I see it here. What would you like to change it to?\nA: Could we move it to Sunday instead, same time, seven o'clock?\nB: Let me check... Sunday at seven is full, but we do have a table at eight thirty.\nA: That's a bit late, but it should be fine. Actually, could you also add two more guests? We'll be eight in total.\nB: Sure, I'll update that. Just so you know, for parties of eight or more, we ask for a fifty percent deposit, which is about one thousand dollars.\nA: That's fine, I can pay by card now.\nB: Great, I'll send you a confirmation message shortly.",
+    "group_id": "NHL-G12",
+    "stem": "What does the restaurant require for a party of eight or more?",
+    "options": [
+      "A 50% deposit",
+      "Full payment in advance",
+      "A 15% deposit",
+      "A signed contract"
+    ],
+    "answer": 0,
+    "explain_zh": "店員說 for parties of eight or more, we ask for a fifty percent deposit,不是全額付清,也不是十五趴,要聽清楚百分比。",
+    "vocab": [
+      {
+        "w": "deposit",
+        "zh": "訂金",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0060",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I have a reservation for six people this Saturday at seven, but I need to change it.\nB: No problem, may I have your name please?\nA: It's under the name Chen, for a birthday dinner.\nB: I see it here. What would you like to change it to?\nA: Could we move it to Sunday instead, same time, seven o'clock?\nB: Let me check... Sunday at seven is full, but we do have a table at eight thirty.\nA: That's a bit late, but it should be fine. Actually, could you also add two more guests? We'll be eight in total.\nB: Sure, I'll update that. Just so you know, for parties of eight or more, we ask for a fifty percent deposit, which is about one thousand dollars.\nA: That's fine, I can pay by card now.\nB: Great, I'll send you a confirmation message shortly.",
+    "group_id": "NHL-G12",
+    "stem": "How much is the deposit?",
+    "options": [
+      "About $100",
+      "About $1,000",
+      "About $1,500",
+      "About $500"
+    ],
+    "answer": 1,
+    "explain_zh": "店員說訂金大約是 one thousand dollars,是根據總消費的五成計算出來的金額。",
+    "vocab": [
+      {
+        "w": "confirmation",
+        "zh": "確認",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0061",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'm calling because I can't join my online chemistry class. It keeps saying the meeting hasn't started.\nB: I'm sorry about that. Can you tell me what time your class starts?\nA: It's supposed to start at ten, and it's already ten fifteen now.\nB: Let me check the system... It looks like there was a short delay from the teacher's side, so the class actually starts at ten thirty today.\nA: Oh, that explains it. Should I just wait, or try logging in again?\nB: Please try refreshing the page and logging in again around ten twenty-five, that should work.\nA: Okay, I'll do that. Also, will this class be recorded in case I miss the beginning?\nB: Yes, all classes are recorded and uploaded within twenty-four hours, so you won't lose anything.\nA: That's a relief, thank you for your help.",
+    "group_id": "NHL-G13",
+    "stem": "Why is the student calling?",
+    "options": [
+      "She forgot her class password",
+      "She wants to drop the class",
+      "She cannot join her online class",
+      "Her computer will not turn on"
+    ],
+    "answer": 2,
+    "explain_zh": "學生一開始就說 I can't join my online chemistry class,所以是無法進入線上課程,不是忘記密碼或想退選。",
+    "vocab": [
+      {
+        "w": "meeting",
+        "zh": "線上會議;課程",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0062",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm calling because I can't join my online chemistry class. It keeps saying the meeting hasn't started.\nB: I'm sorry about that. Can you tell me what time your class starts?\nA: It's supposed to start at ten, and it's already ten fifteen now.\nB: Let me check the system... It looks like there was a short delay from the teacher's side, so the class actually starts at ten thirty today.\nA: Oh, that explains it. Should I just wait, or try logging in again?\nB: Please try refreshing the page and logging in again around ten twenty-five, that should work.\nA: Okay, I'll do that. Also, will this class be recorded in case I miss the beginning?\nB: Yes, all classes are recorded and uploaded within twenty-four hours, so you won't lose anything.\nA: That's a relief, thank you for your help.",
+    "group_id": "NHL-G13",
+    "stem": "What time was the class originally supposed to start?",
+    "options": [
+      "10:15",
+      "10:30",
+      "10:25",
+      "10:00"
+    ],
+    "answer": 3,
+    "explain_zh": "學生說 it's supposed to start at ten,十點是原訂時間,十點三十才是延後後的實際時間,不要搞混。",
+    "vocab": [
+      {
+        "w": "supposed to",
+        "zh": "應該",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0063",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'm calling because I can't join my online chemistry class. It keeps saying the meeting hasn't started.\nB: I'm sorry about that. Can you tell me what time your class starts?\nA: It's supposed to start at ten, and it's already ten fifteen now.\nB: Let me check the system... It looks like there was a short delay from the teacher's side, so the class actually starts at ten thirty today.\nA: Oh, that explains it. Should I just wait, or try logging in again?\nB: Please try refreshing the page and logging in again around ten twenty-five, that should work.\nA: Okay, I'll do that. Also, will this class be recorded in case I miss the beginning?\nB: Yes, all classes are recorded and uploaded within twenty-four hours, so you won't lose anything.\nA: That's a relief, thank you for your help.",
+    "group_id": "NHL-G13",
+    "stem": "Why was the class delayed?",
+    "options": [
+      "There was a delay from the teacher's side",
+      "The school server crashed",
+      "The student joined the wrong link",
+      "There was a national holiday"
+    ],
+    "answer": 0,
+    "explain_zh": "客服說 there was a short delay from the teacher's side,所以是老師端的延誤,不是系統當機或放假。",
+    "vocab": [
+      {
+        "w": "delay",
+        "zh": "延誤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0064",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'm calling because I can't join my online chemistry class. It keeps saying the meeting hasn't started.\nB: I'm sorry about that. Can you tell me what time your class starts?\nA: It's supposed to start at ten, and it's already ten fifteen now.\nB: Let me check the system... It looks like there was a short delay from the teacher's side, so the class actually starts at ten thirty today.\nA: Oh, that explains it. Should I just wait, or try logging in again?\nB: Please try refreshing the page and logging in again around ten twenty-five, that should work.\nA: Okay, I'll do that. Also, will this class be recorded in case I miss the beginning?\nB: Yes, all classes are recorded and uploaded within twenty-four hours, so you won't lose anything.\nA: That's a relief, thank you for your help.",
+    "group_id": "NHL-G13",
+    "stem": "What does the support staff suggest the student do?",
+    "options": [
+      "Restart her computer completely",
+      "Refresh the page and log in again around 10:25",
+      "Call the teacher directly",
+      "Wait until tomorrow's class"
+    ],
+    "answer": 1,
+    "explain_zh": "客服建議 refreshing the page and logging in again around ten twenty-five,並沒有要學生重開機或聯絡老師。",
+    "vocab": [
+      {
+        "w": "refresh",
+        "zh": "重新整理",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0065",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm calling because I can't join my online chemistry class. It keeps saying the meeting hasn't started.\nB: I'm sorry about that. Can you tell me what time your class starts?\nA: It's supposed to start at ten, and it's already ten fifteen now.\nB: Let me check the system... It looks like there was a short delay from the teacher's side, so the class actually starts at ten thirty today.\nA: Oh, that explains it. Should I just wait, or try logging in again?\nB: Please try refreshing the page and logging in again around ten twenty-five, that should work.\nA: Okay, I'll do that. Also, will this class be recorded in case I miss the beginning?\nB: Yes, all classes are recorded and uploaded within twenty-four hours, so you won't lose anything.\nA: That's a relief, thank you for your help.",
+    "group_id": "NHL-G13",
+    "stem": "How soon are classes uploaded after recording?",
+    "options": [
+      "Within 2 hours",
+      "Within a week",
+      "Within 24 hours",
+      "Within 4 hours"
+    ],
+    "answer": 2,
+    "explain_zh": "客服說 uploaded within twenty-four hours,所以最晚一天內就能看到錄影,其餘時間都與對話不符。",
+    "vocab": [
+      {
+        "w": "record",
+        "zh": "錄製",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0066",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Okay everyone, listen up for a moment before you go home. Next Monday is our graduation trip to Sun Moon Lake, so here are a few important reminders. We'll meet at the school gate at seven thirty sharp, not eight, because the bus needs to leave by eight to avoid traffic. Please wear comfortable shoes, since we'll be walking around the lake for about two hours in the morning. Bring your own water bottle, and pack a light jacket in case it rains, as the weather forecast says there's a chance of showers in the afternoon. Lunch is included in the trip fee, but if you have any food allergies, please tell your homeroom teacher by tomorrow. We'll return to school around six in the evening, and parents should pick students up from the school gate, not from the bus itself. Any questions can be sent to me by email tonight.",
+    "group_id": "NHL-G14",
+    "stem": "What is this talk mainly about?",
+    "options": [
+      "A change in the school schedule",
+      "Rules for the final exam",
+      "Instructions for a fire drill",
+      "Reminders for the graduation trip"
+    ],
+    "answer": 3,
+    "explain_zh": "老師整段都在提醒畢業旅行的注意事項,所以主旨是「畢業旅行提醒」,和考試、消防演習都無關。",
+    "vocab": [
+      {
+        "w": "reminder",
+        "zh": "提醒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0067",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Okay everyone, listen up for a moment before you go home. Next Monday is our graduation trip to Sun Moon Lake, so here are a few important reminders. We'll meet at the school gate at seven thirty sharp, not eight, because the bus needs to leave by eight to avoid traffic. Please wear comfortable shoes, since we'll be walking around the lake for about two hours in the morning. Bring your own water bottle, and pack a light jacket in case it rains, as the weather forecast says there's a chance of showers in the afternoon. Lunch is included in the trip fee, but if you have any food allergies, please tell your homeroom teacher by tomorrow. We'll return to school around six in the evening, and parents should pick students up from the school gate, not from the bus itself. Any questions can be sent to me by email tonight.",
+    "group_id": "NHL-G14",
+    "stem": "What time should students meet at the school gate?",
+    "options": [
+      "7:30",
+      "8:00",
+      "7:13",
+      "7:00"
+    ],
+    "answer": 0,
+    "explain_zh": "老師特別強調 seven thirty sharp, not eight,所以是七點半集合,而不是八點,要注意老師特別澄清的部分。",
+    "vocab": [
+      {
+        "w": "sharp",
+        "zh": "整;準時",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0068",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Okay everyone, listen up for a moment before you go home. Next Monday is our graduation trip to Sun Moon Lake, so here are a few important reminders. We'll meet at the school gate at seven thirty sharp, not eight, because the bus needs to leave by eight to avoid traffic. Please wear comfortable shoes, since we'll be walking around the lake for about two hours in the morning. Bring your own water bottle, and pack a light jacket in case it rains, as the weather forecast says there's a chance of showers in the afternoon. Lunch is included in the trip fee, but if you have any food allergies, please tell your homeroom teacher by tomorrow. We'll return to school around six in the evening, and parents should pick students up from the school gate, not from the bus itself. Any questions can be sent to me by email tonight.",
+    "group_id": "NHL-G14",
+    "stem": "What should students bring in case of rain?",
+    "options": [
+      "An extra pair of shoes",
+      "A light jacket",
+      "A large umbrella",
+      "Sunscreen"
+    ],
+    "answer": 1,
+    "explain_zh": "老師說 pack a light jacket in case it rains,並沒有提到要帶大雨傘或防曬乳,這些是混淆選項。",
+    "vocab": [
+      {
+        "w": "forecast",
+        "zh": "預報",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0069",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Okay everyone, listen up for a moment before you go home. Next Monday is our graduation trip to Sun Moon Lake, so here are a few important reminders. We'll meet at the school gate at seven thirty sharp, not eight, because the bus needs to leave by eight to avoid traffic. Please wear comfortable shoes, since we'll be walking around the lake for about two hours in the morning. Bring your own water bottle, and pack a light jacket in case it rains, as the weather forecast says there's a chance of showers in the afternoon. Lunch is included in the trip fee, but if you have any food allergies, please tell your homeroom teacher by tomorrow. We'll return to school around six in the evening, and parents should pick students up from the school gate, not from the bus itself. Any questions can be sent to me by email tonight.",
+    "group_id": "NHL-G14",
+    "stem": "What should students with food allergies do?",
+    "options": [
+      "Bring their own lunch instead",
+      "Call the restaurant directly",
+      "Tell their homeroom teacher by tomorrow",
+      "Tell the bus driver on the day"
+    ],
+    "answer": 2,
+    "explain_zh": "老師說有食物過敏要在明天前告訴導師,對話沒有提到要自備午餐或聯絡餐廳。",
+    "vocab": [
+      {
+        "w": "allergy",
+        "zh": "過敏",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0070",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Okay everyone, listen up for a moment before you go home. Next Monday is our graduation trip to Sun Moon Lake, so here are a few important reminders. We'll meet at the school gate at seven thirty sharp, not eight, because the bus needs to leave by eight to avoid traffic. Please wear comfortable shoes, since we'll be walking around the lake for about two hours in the morning. Bring your own water bottle, and pack a light jacket in case it rains, as the weather forecast says there's a chance of showers in the afternoon. Lunch is included in the trip fee, but if you have any food allergies, please tell your homeroom teacher by tomorrow. We'll return to school around six in the evening, and parents should pick students up from the school gate, not from the bus itself. Any questions can be sent to me by email tonight.",
+    "group_id": "NHL-G14",
+    "stem": "Where should parents pick up their children after the trip?",
+    "options": [
+      "Directly from the bus",
+      "At Sun Moon Lake",
+      "At the school gym",
+      "At the school gate"
+    ],
+    "answer": 3,
+    "explain_zh": "老師特別說明 parents should pick students up from the school gate, not from the bus itself,所以是校門口,不是遊覽車旁。",
+    "vocab": [
+      {
+        "w": "pick up",
+        "zh": "接送",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0071",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Welcome to Maple Hall, your dormitory for this school year. Before you move in, let me go over a few basic rules. Quiet hours are from ten at night until seven in the morning, so please keep noise down during that time, especially on weekdays. The main entrance is locked at eleven, but you can still get in using your student card at the side door. Each room has a small fridge, but cooking is not allowed inside your room; please use the shared kitchen on the second floor instead. Visitors are welcome, but they must sign in at the front desk and leave by nine in the evening. If you have any maintenance problems, like a broken light or a leaking tap, please report it to the office, and someone will usually fix it within two days. Lastly, remember that pets are not allowed anywhere in the building.",
+    "group_id": "NHL-G15",
+    "stem": "What is this talk mainly about?",
+    "options": [
+      "Rules for living in the dormitory",
+      "Directions to the nearest supermarket",
+      "A schedule for room cleaning duties",
+      "Instructions for paying rent"
+    ],
+    "answer": 0,
+    "explain_zh": "整段都在介紹宿舍的各項規定,所以主旨是「宿舍生活規則」,和超市方向、打掃值日表、繳房租方式都無關。",
+    "vocab": [
+      {
+        "w": "dormitory",
+        "zh": "宿舍",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0072",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome to Maple Hall, your dormitory for this school year. Before you move in, let me go over a few basic rules. Quiet hours are from ten at night until seven in the morning, so please keep noise down during that time, especially on weekdays. The main entrance is locked at eleven, but you can still get in using your student card at the side door. Each room has a small fridge, but cooking is not allowed inside your room; please use the shared kitchen on the second floor instead. Visitors are welcome, but they must sign in at the front desk and leave by nine in the evening. If you have any maintenance problems, like a broken light or a leaking tap, please report it to the office, and someone will usually fix it within two days. Lastly, remember that pets are not allowed anywhere in the building.",
+    "group_id": "NHL-G15",
+    "stem": "During what hours are students asked to keep quiet?",
+    "options": [
+      "10 p.m. to 9 a.m.",
+      "10 p.m. to 7 a.m.",
+      "9 p.m. to 7 a.m.",
+      "10 a.m. to 7 p.m."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說 from ten at night until seven in the morning,是晚上十點到隔天早上七點,要注意兩個時間點分別是晚上和早上。",
+    "vocab": [
+      {
+        "w": "quiet hours",
+        "zh": "安靜時段",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0073",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Welcome to Maple Hall, your dormitory for this school year. Before you move in, let me go over a few basic rules. Quiet hours are from ten at night until seven in the morning, so please keep noise down during that time, especially on weekdays. The main entrance is locked at eleven, but you can still get in using your student card at the side door. Each room has a small fridge, but cooking is not allowed inside your room; please use the shared kitchen on the second floor instead. Visitors are welcome, but they must sign in at the front desk and leave by nine in the evening. If you have any maintenance problems, like a broken light or a leaking tap, please report it to the office, and someone will usually fix it within two days. Lastly, remember that pets are not allowed anywhere in the building.",
+    "group_id": "NHL-G15",
+    "stem": "Where should students cook their food?",
+    "options": [
+      "In their own room",
+      "In the dining hall",
+      "The shared kitchen on the second floor",
+      "On the rooftop"
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說房間內不能煮食,要用二樓的共用廚房,餐廳和頂樓都沒有被提到。",
+    "vocab": [
+      {
+        "w": "shared",
+        "zh": "共用的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0074",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome to Maple Hall, your dormitory for this school year. Before you move in, let me go over a few basic rules. Quiet hours are from ten at night until seven in the morning, so please keep noise down during that time, especially on weekdays. The main entrance is locked at eleven, but you can still get in using your student card at the side door. Each room has a small fridge, but cooking is not allowed inside your room; please use the shared kitchen on the second floor instead. Visitors are welcome, but they must sign in at the front desk and leave by nine in the evening. If you have any maintenance problems, like a broken light or a leaking tap, please report it to the office, and someone will usually fix it within two days. Lastly, remember that pets are not allowed anywhere in the building.",
+    "group_id": "NHL-G15",
+    "stem": "By what time must visitors leave?",
+    "options": [
+      "11 p.m.",
+      "7 p.m.",
+      "10 p.m.",
+      "9 p.m."
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說訪客必須在 leave by nine in the evening,十一點是大門上鎖的時間,不要跟訪客離開時間搞混。",
+    "vocab": [
+      {
+        "w": "visitor",
+        "zh": "訪客",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0075",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Welcome to Maple Hall, your dormitory for this school year. Before you move in, let me go over a few basic rules. Quiet hours are from ten at night until seven in the morning, so please keep noise down during that time, especially on weekdays. The main entrance is locked at eleven, but you can still get in using your student card at the side door. Each room has a small fridge, but cooking is not allowed inside your room; please use the shared kitchen on the second floor instead. Visitors are welcome, but they must sign in at the front desk and leave by nine in the evening. If you have any maintenance problems, like a broken light or a leaking tap, please report it to the office, and someone will usually fix it within two days. Lastly, remember that pets are not allowed anywhere in the building.",
+    "group_id": "NHL-G15",
+    "stem": "What should a student do if a light is broken?",
+    "options": [
+      "Report it to the office",
+      "Fix it themselves",
+      "Buy a new one and install it",
+      "Wait until the end of the semester"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說故障要通報辦公室,通常兩天內會修好,並沒有要求學生自行修理或等到學期結束。",
+    "vocab": [
+      {
+        "w": "maintenance",
+        "zh": "維修",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0076",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Okay, let's talk about the school's fortieth anniversary celebration next month. Where are we with the plans?\nB: The stage setup is confirmed for the morning of the fifteenth, and the opening ceremony will start at nine.\nA: Good. What about the food stalls? Last year students complained there wasn't enough seating.\nB: This year we're adding twenty more tables, so there should be seating for about two hundred people.\nA: That should help. Do we have enough student volunteers for the event?\nB: We need about thirty, but only eighteen have signed up so far, so we should post another announcement.\nA: Agreed, let's put up posters this week. What's the budget looking like?\nB: We've spent around forty thousand dollars so far, out of a total budget of sixty thousand.\nA: Okay, let's make sure we don't go over that. I'll check in again next week.",
+    "group_id": "NHL-G16",
+    "stem": "What is the main topic of this meeting?",
+    "options": [
+      "Reviewing exam results",
+      "Planning the school's anniversary celebration",
+      "Choosing new school uniforms",
+      "Planning a sports competition"
+    ],
+    "answer": 1,
+    "explain_zh": "對話一開始就說 the school's fortieth anniversary celebration,所以主題是校慶籌備,和考試、制服、運動比賽都無關。",
+    "vocab": [
+      {
+        "w": "anniversary",
+        "zh": "週年紀念",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0077",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Okay, let's talk about the school's fortieth anniversary celebration next month. Where are we with the plans?\nB: The stage setup is confirmed for the morning of the fifteenth, and the opening ceremony will start at nine.\nA: Good. What about the food stalls? Last year students complained there wasn't enough seating.\nB: This year we're adding twenty more tables, so there should be seating for about two hundred people.\nA: That should help. Do we have enough student volunteers for the event?\nB: We need about thirty, but only eighteen have signed up so far, so we should post another announcement.\nA: Agreed, let's put up posters this week. What's the budget looking like?\nB: We've spent around forty thousand dollars so far, out of a total budget of sixty thousand.\nA: Okay, let's make sure we don't go over that. I'll check in again next week.",
+    "group_id": "NHL-G16",
+    "stem": "What time does the opening ceremony start?",
+    "options": [
+      "9:15",
+      "9:30",
+      "9:00",
+      "8:00"
+    ],
+    "answer": 2,
+    "explain_zh": "對話說 the opening ceremony will start at nine,十五號是舞台搭建完成的日期,不是開幕時間,兩者不要搞混。",
+    "vocab": [
+      {
+        "w": "ceremony",
+        "zh": "典禮",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0078",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Okay, let's talk about the school's fortieth anniversary celebration next month. Where are we with the plans?\nB: The stage setup is confirmed for the morning of the fifteenth, and the opening ceremony will start at nine.\nA: Good. What about the food stalls? Last year students complained there wasn't enough seating.\nB: This year we're adding twenty more tables, so there should be seating for about two hundred people.\nA: That should help. Do we have enough student volunteers for the event?\nB: We need about thirty, but only eighteen have signed up so far, so we should post another announcement.\nA: Agreed, let's put up posters this week. What's the budget looking like?\nB: We've spent around forty thousand dollars so far, out of a total budget of sixty thousand.\nA: Okay, let's make sure we don't go over that. I'll check in again next week.",
+    "group_id": "NHL-G16",
+    "stem": "How many more tables are being added this year?",
+    "options": [
+      "Two hundred",
+      "Twelve",
+      "Thirty",
+      "Twenty"
+    ],
+    "answer": 3,
+    "explain_zh": "對話說 adding twenty more tables,兩百是預計可容納的總人數,不是新增桌數,要注意兩個數字分別代表什麼。",
+    "vocab": [
+      {
+        "w": "seating",
+        "zh": "座位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0079",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Okay, let's talk about the school's fortieth anniversary celebration next month. Where are we with the plans?\nB: The stage setup is confirmed for the morning of the fifteenth, and the opening ceremony will start at nine.\nA: Good. What about the food stalls? Last year students complained there wasn't enough seating.\nB: This year we're adding twenty more tables, so there should be seating for about two hundred people.\nA: That should help. Do we have enough student volunteers for the event?\nB: We need about thirty, but only eighteen have signed up so far, so we should post another announcement.\nA: Agreed, let's put up posters this week. What's the budget looking like?\nB: We've spent around forty thousand dollars so far, out of a total budget of sixty thousand.\nA: Okay, let's make sure we don't go over that. I'll check in again next week.",
+    "group_id": "NHL-G16",
+    "stem": "How many more student volunteers are needed?",
+    "options": [
+      "About 12 more",
+      "About 30 more",
+      "About 18 more",
+      "About 48 more"
+    ],
+    "answer": 0,
+    "explain_zh": "對話說需要三十人,目前只有十八人報名,三十減十八等於十二,所以還需要大約十二位志工,這需要簡單計算推論。",
+    "vocab": [
+      {
+        "w": "volunteer",
+        "zh": "志工",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0080",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Okay, let's talk about the school's fortieth anniversary celebration next month. Where are we with the plans?\nB: The stage setup is confirmed for the morning of the fifteenth, and the opening ceremony will start at nine.\nA: Good. What about the food stalls? Last year students complained there wasn't enough seating.\nB: This year we're adding twenty more tables, so there should be seating for about two hundred people.\nA: That should help. Do we have enough student volunteers for the event?\nB: We need about thirty, but only eighteen have signed up so far, so we should post another announcement.\nA: Agreed, let's put up posters this week. What's the budget looking like?\nB: We've spent around forty thousand dollars so far, out of a total budget of sixty thousand.\nA: Okay, let's make sure we don't go over that. I'll check in again next week.",
+    "group_id": "NHL-G16",
+    "stem": "How much of the budget has been spent so far?",
+    "options": [
+      "About $60,000",
+      "About $40,000",
+      "About $20,000",
+      "About $4,000"
+    ],
+    "answer": 1,
+    "explain_zh": "對話說 we've spent around forty thousand dollars so far,六萬元是總預算,不是已花費的金額,要分清楚兩個數字。",
+    "vocab": [
+      {
+        "w": "budget",
+        "zh": "預算",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0081",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, can you tell me about your science fair project?\nB: Sure! My project is about how music affects plant growth. I grew three groups of bean plants for four weeks.\nA: Interesting. What was different about each group?\nB: One group got no music, one got soft classical music for one hour a day, and the last group got loud rock music for the same amount of time.\nA: And what did you find?\nB: The plants with classical music grew the tallest, about eighteen centimeters on average. The ones with no music grew about fourteen centimeters.\nA: What about the rock music group?\nB: Surprisingly, they grew the least, only around ten centimeters, and some leaves even looked a bit damaged.\nA: That's a great result. What do you think caused that difference?\nB: I think the vibrations from loud music might have stressed the plants, but I'd like to test that idea further next year.",
+    "group_id": "NHL-G17",
+    "stem": "What is the student's project about?",
+    "options": [
+      "How sunlight affects plant color",
+      "How water amount affects plant height",
+      "How music affects plant growth",
+      "How soil type affects seed germination"
+    ],
+    "answer": 2,
+    "explain_zh": "學生一開始就說 my project is about how music affects plant growth,所以主題是音樂對植物生長的影響,陽光、水量、土壤都沒有被提到。",
+    "vocab": [
+      {
+        "w": "growth",
+        "zh": "生長",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0082",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, can you tell me about your science fair project?\nB: Sure! My project is about how music affects plant growth. I grew three groups of bean plants for four weeks.\nA: Interesting. What was different about each group?\nB: One group got no music, one got soft classical music for one hour a day, and the last group got loud rock music for the same amount of time.\nA: And what did you find?\nB: The plants with classical music grew the tallest, about eighteen centimeters on average. The ones with no music grew about fourteen centimeters.\nA: What about the rock music group?\nB: Surprisingly, they grew the least, only around ten centimeters, and some leaves even looked a bit damaged.\nA: That's a great result. What do you think caused that difference?\nB: I think the vibrations from loud music might have stressed the plants, but I'd like to test that idea further next year.",
+    "group_id": "NHL-G17",
+    "stem": "How long did the experiment last?",
+    "options": [
+      "Four days",
+      "Fourteen weeks",
+      "One week",
+      "Four weeks"
+    ],
+    "answer": 3,
+    "explain_zh": "學生說 I grew three groups of bean plants for four weeks,four 和 fourteen 容易聽混,要聽清楚有沒有 -teen 的尾音。",
+    "vocab": [
+      {
+        "w": "experiment",
+        "zh": "實驗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0083",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, can you tell me about your science fair project?\nB: Sure! My project is about how music affects plant growth. I grew three groups of bean plants for four weeks.\nA: Interesting. What was different about each group?\nB: One group got no music, one got soft classical music for one hour a day, and the last group got loud rock music for the same amount of time.\nA: And what did you find?\nB: The plants with classical music grew the tallest, about eighteen centimeters on average. The ones with no music grew about fourteen centimeters.\nA: What about the rock music group?\nB: Surprisingly, they grew the least, only around ten centimeters, and some leaves even looked a bit damaged.\nA: That's a great result. What do you think caused that difference?\nB: I think the vibrations from loud music might have stressed the plants, but I'd like to test that idea further next year.",
+    "group_id": "NHL-G17",
+    "stem": "Which group of plants grew the tallest?",
+    "options": [
+      "The classical music group",
+      "The no music group",
+      "The rock music group",
+      "All groups grew the same height"
+    ],
+    "answer": 0,
+    "explain_zh": "學生說古典音樂組長得最高,約十八公分,搖滾樂組反而長得最矮,要注意三組結果的比較。",
+    "vocab": [
+      {
+        "w": "classical",
+        "zh": "古典的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0084",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, can you tell me about your science fair project?\nB: Sure! My project is about how music affects plant growth. I grew three groups of bean plants for four weeks.\nA: Interesting. What was different about each group?\nB: One group got no music, one got soft classical music for one hour a day, and the last group got loud rock music for the same amount of time.\nA: And what did you find?\nB: The plants with classical music grew the tallest, about eighteen centimeters on average. The ones with no music grew about fourteen centimeters.\nA: What about the rock music group?\nB: Surprisingly, they grew the least, only around ten centimeters, and some leaves even looked a bit damaged.\nA: That's a great result. What do you think caused that difference?\nB: I think the vibrations from loud music might have stressed the plants, but I'd like to test that idea further next year.",
+    "group_id": "NHL-G17",
+    "stem": "About how tall did the rock music group grow?",
+    "options": [
+      "About 18 centimeters",
+      "About 10 centimeters",
+      "About 14 centimeters",
+      "About 20 centimeters"
+    ],
+    "answer": 1,
+    "explain_zh": "學生說搖滾樂組 only around ten centimeters,十八和十四分別是古典音樂組和無音樂組的高度,不要搞混三組數字。",
+    "vocab": [
+      {
+        "w": "damaged",
+        "zh": "受損的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0085",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hi, can you tell me about your science fair project?\nB: Sure! My project is about how music affects plant growth. I grew three groups of bean plants for four weeks.\nA: Interesting. What was different about each group?\nB: One group got no music, one got soft classical music for one hour a day, and the last group got loud rock music for the same amount of time.\nA: And what did you find?\nB: The plants with classical music grew the tallest, about eighteen centimeters on average. The ones with no music grew about fourteen centimeters.\nA: What about the rock music group?\nB: Surprisingly, they grew the least, only around ten centimeters, and some leaves even looked a bit damaged.\nA: That's a great result. What do you think caused that difference?\nB: I think the vibrations from loud music might have stressed the plants, but I'd like to test that idea further next year.",
+    "group_id": "NHL-G17",
+    "stem": "What does the student think caused the rock music group's result?",
+    "options": [
+      "The plants did not get enough sunlight",
+      "The soil was too dry for those plants",
+      "The vibrations from loud music may have stressed the plants",
+      "The seeds used were a weaker type"
+    ],
+    "answer": 2,
+    "explain_zh": "學生說 I think the vibrations from loud music might have stressed the plants,這是她自己的推測,陽光不足、土壤太乾、種子較弱都沒有被提到。",
+    "vocab": [
+      {
+        "w": "vibration",
+        "zh": "震動",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0086",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'm here to talk about my course choices for next semester.\nB: Sure, have a seat. I see you're deciding between Advanced Biology and Computer Science. What are you thinking?\nA: I really enjoy biology, but I've heard Computer Science might be more useful for university applications.\nB: That depends on what you want to study later. Do you know which major you're interested in?\nA: I'm considering engineering, maybe mechanical engineering.\nB: In that case, Computer Science would actually be a stronger choice, since it builds skills that many engineering programs look for.\nA: That makes sense. Is it too late to switch? Classes start in two weeks.\nB: Not at all, you have until this Friday to submit any changes. Just bring a signed form from your current biology teacher.\nA: Great, I'll get that today. Thanks for your help.\nB: You're welcome. Come back anytime if you have more questions.",
+    "group_id": "NHL-G18",
+    "stem": "What is the student trying to decide?",
+    "options": [
+      "Whether to repeat a grade",
+      "Which university to apply to",
+      "Whether to join a sports team",
+      "Which elective course to take next semester"
+    ],
+    "answer": 3,
+    "explain_zh": "學生一開始就說在 Advanced Biology 和 Computer Science 之間做選擇,所以是選課問題,和留級、選大學、參加球隊都無關。",
+    "vocab": [
+      {
+        "w": "elective",
+        "zh": "選修課",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0087",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'm here to talk about my course choices for next semester.\nB: Sure, have a seat. I see you're deciding between Advanced Biology and Computer Science. What are you thinking?\nA: I really enjoy biology, but I've heard Computer Science might be more useful for university applications.\nB: That depends on what you want to study later. Do you know which major you're interested in?\nA: I'm considering engineering, maybe mechanical engineering.\nB: In that case, Computer Science would actually be a stronger choice, since it builds skills that many engineering programs look for.\nA: That makes sense. Is it too late to switch? Classes start in two weeks.\nB: Not at all, you have until this Friday to submit any changes. Just bring a signed form from your current biology teacher.\nA: Great, I'll get that today. Thanks for your help.\nB: You're welcome. Come back anytime if you have more questions.",
+    "group_id": "NHL-G18",
+    "stem": "What major is the student considering?",
+    "options": [
+      "Mechanical engineering",
+      "Biology",
+      "Computer science",
+      "Medicine"
+    ],
+    "answer": 0,
+    "explain_zh": "學生說 I'm considering engineering, maybe mechanical engineering,生物和資工都是她正在考慮的「課程」,不是她想讀的科系。",
+    "vocab": [
+      {
+        "w": "major",
+        "zh": "主修",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0088",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hi, I'm here to talk about my course choices for next semester.\nB: Sure, have a seat. I see you're deciding between Advanced Biology and Computer Science. What are you thinking?\nA: I really enjoy biology, but I've heard Computer Science might be more useful for university applications.\nB: That depends on what you want to study later. Do you know which major you're interested in?\nA: I'm considering engineering, maybe mechanical engineering.\nB: In that case, Computer Science would actually be a stronger choice, since it builds skills that many engineering programs look for.\nA: That makes sense. Is it too late to switch? Classes start in two weeks.\nB: Not at all, you have until this Friday to submit any changes. Just bring a signed form from your current biology teacher.\nA: Great, I'll get that today. Thanks for your help.\nB: You're welcome. Come back anytime if you have more questions.",
+    "group_id": "NHL-G18",
+    "stem": "Which course does the counselor recommend?",
+    "options": [
+      "Advanced Biology",
+      "Computer Science",
+      "Both courses equally",
+      "Neither course"
+    ],
+    "answer": 1,
+    "explain_zh": "輔導老師說 Computer Science would actually be a stronger choice,因為多數工程科系看重這項技能,所以推薦資訊科學。",
+    "vocab": [
+      {
+        "w": "recommend",
+        "zh": "推薦",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0089",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'm here to talk about my course choices for next semester.\nB: Sure, have a seat. I see you're deciding between Advanced Biology and Computer Science. What are you thinking?\nA: I really enjoy biology, but I've heard Computer Science might be more useful for university applications.\nB: That depends on what you want to study later. Do you know which major you're interested in?\nA: I'm considering engineering, maybe mechanical engineering.\nB: In that case, Computer Science would actually be a stronger choice, since it builds skills that many engineering programs look for.\nA: That makes sense. Is it too late to switch? Classes start in two weeks.\nB: Not at all, you have until this Friday to submit any changes. Just bring a signed form from your current biology teacher.\nA: Great, I'll get that today. Thanks for your help.\nB: You're welcome. Come back anytime if you have more questions.",
+    "group_id": "NHL-G18",
+    "stem": "By when must the student submit any course changes?",
+    "options": [
+      "In two weeks",
+      "Today",
+      "This Friday",
+      "Next Monday"
+    ],
+    "answer": 2,
+    "explain_zh": "輔導老師說 you have until this Friday to submit any changes,兩週後是開學時間,不是換課截止日,要分清楚兩個時間點。",
+    "vocab": [
+      {
+        "w": "submit",
+        "zh": "提交",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0090",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "A: Hi, I'm here to talk about my course choices for next semester.\nB: Sure, have a seat. I see you're deciding between Advanced Biology and Computer Science. What are you thinking?\nA: I really enjoy biology, but I've heard Computer Science might be more useful for university applications.\nB: That depends on what you want to study later. Do you know which major you're interested in?\nA: I'm considering engineering, maybe mechanical engineering.\nB: In that case, Computer Science would actually be a stronger choice, since it builds skills that many engineering programs look for.\nA: That makes sense. Is it too late to switch? Classes start in two weeks.\nB: Not at all, you have until this Friday to submit any changes. Just bring a signed form from your current biology teacher.\nA: Great, I'll get that today. Thanks for your help.\nB: You're welcome. Come back anytime if you have more questions.",
+    "group_id": "NHL-G18",
+    "stem": "What does the student need to bring to make the change?",
+    "options": [
+      "A letter from her parents",
+      "Her latest report card",
+      "A recommendation from the principal",
+      "A signed form from her biology teacher"
+    ],
+    "answer": 3,
+    "explain_zh": "輔導老師說 bring a signed form from your current biology teacher,並沒有要求家長信、成績單或校長推薦信。",
+    "vocab": [
+      {
+        "w": "signed",
+        "zh": "已簽名的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0091",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good afternoon, everyone, and thank you for coming to this information session about our student exchange program. Each year, we send about twenty students abroad for one semester, usually to partner schools in Canada or Australia. To apply, you need a grade point average of at least three point five, and a short essay explaining why you want to join. The application deadline is the end of this month, and interviews will be held in the first week of next month. Please note that the program fee is around eighty thousand dollars, which covers your host family stay and school fees, but not your flight ticket. If you're accepted, you'll need to attend three preparation classes before you leave, covering culture, safety, and basic language skills. If you have any questions after this session, please email the international office directly.",
+    "group_id": "NHL-G19",
+    "stem": "What is this session mainly about?",
+    "options": [
+      "Information about a student exchange program",
+      "A meeting about summer school registration",
+      "A talk about scholarship results",
+      "A briefing on a school trip to Japan"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播一開始就說 this information session about our student exchange program,所以主旨是交換學生計畫說明,和暑期班、獎學金結果、日本校外教學都無關。",
+    "vocab": [
+      {
+        "w": "exchange",
+        "zh": "交換",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0092",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good afternoon, everyone, and thank you for coming to this information session about our student exchange program. Each year, we send about twenty students abroad for one semester, usually to partner schools in Canada or Australia. To apply, you need a grade point average of at least three point five, and a short essay explaining why you want to join. The application deadline is the end of this month, and interviews will be held in the first week of next month. Please note that the program fee is around eighty thousand dollars, which covers your host family stay and school fees, but not your flight ticket. If you're accepted, you'll need to attend three preparation classes before you leave, covering culture, safety, and basic language skills. If you have any questions after this session, please email the international office directly.",
+    "group_id": "NHL-G19",
+    "stem": "How many students are sent abroad each year?",
+    "options": [
+      "About twelve",
+      "About twenty",
+      "About two",
+      "About two hundred"
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說 we send about twenty students abroad,twenty 和 twelve 發音相近,要聽清楚重音才不會選錯。",
+    "vocab": [
+      {
+        "w": "abroad",
+        "zh": "到國外",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0093",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good afternoon, everyone, and thank you for coming to this information session about our student exchange program. Each year, we send about twenty students abroad for one semester, usually to partner schools in Canada or Australia. To apply, you need a grade point average of at least three point five, and a short essay explaining why you want to join. The application deadline is the end of this month, and interviews will be held in the first week of next month. Please note that the program fee is around eighty thousand dollars, which covers your host family stay and school fees, but not your flight ticket. If you're accepted, you'll need to attend three preparation classes before you leave, covering culture, safety, and basic language skills. If you have any questions after this session, please email the international office directly.",
+    "group_id": "NHL-G19",
+    "stem": "What GPA is required to apply?",
+    "options": [
+      "At least 3.0",
+      "At least 4.0",
+      "At least 3.5",
+      "At least 2.5"
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說 a grade point average of at least three point five,答案是三點五,不是三點零或四點零,要聽清楚小數點後的數字。",
+    "vocab": [
+      {
+        "w": "average",
+        "zh": "平均",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0094",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Good afternoon, everyone, and thank you for coming to this information session about our student exchange program. Each year, we send about twenty students abroad for one semester, usually to partner schools in Canada or Australia. To apply, you need a grade point average of at least three point five, and a short essay explaining why you want to join. The application deadline is the end of this month, and interviews will be held in the first week of next month. Please note that the program fee is around eighty thousand dollars, which covers your host family stay and school fees, but not your flight ticket. If you're accepted, you'll need to attend three preparation classes before you leave, covering culture, safety, and basic language skills. If you have any questions after this session, please email the international office directly.",
+    "group_id": "NHL-G19",
+    "stem": "What does the program fee NOT cover?",
+    "options": [
+      "The host family stay",
+      "The school fees",
+      "Preparation classes",
+      "The flight ticket"
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說費用包含寄宿家庭和學費,但 not your flight ticket,所以機票不包含在內,這題要注意否定語氣 not。",
+    "vocab": [
+      {
+        "w": "cover",
+        "zh": "涵蓋;包含",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0095",
+    "level": "H1",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節掌握",
+    "passage": "Good afternoon, everyone, and thank you for coming to this information session about our student exchange program. Each year, we send about twenty students abroad for one semester, usually to partner schools in Canada or Australia. To apply, you need a grade point average of at least three point five, and a short essay explaining why you want to join. The application deadline is the end of this month, and interviews will be held in the first week of next month. Please note that the program fee is around eighty thousand dollars, which covers your host family stay and school fees, but not your flight ticket. If you're accepted, you'll need to attend three preparation classes before you leave, covering culture, safety, and basic language skills. If you have any questions after this session, please email the international office directly.",
+    "group_id": "NHL-G19",
+    "stem": "What must accepted students do before leaving?",
+    "options": [
+      "Attend three preparation classes",
+      "Pass a language exam",
+      "Visit the host country once",
+      "Write a second essay"
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說錄取後要參加 three preparation classes,涵蓋文化、安全和基本語言,並沒有要求先考語言測驗或先去一趟當地。",
+    "vocab": [
+      {
+        "w": "preparation",
+        "zh": "準備",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0096",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good evening, here are tonight's top stories. The city council announced today that a new bicycle lane will be built along River Road, connecting the downtown area to the university district. Construction is expected to begin next Monday and take about six weeks to complete, so drivers are advised to expect delays during that time. In other news, the annual Riverside Food Festival will return this weekend after being cancelled last year, with more than sixty food stalls expected to take part. Organizers say this year's festival will run from Friday evening through Sunday afternoon, and entry is free for all visitors. Finally, local schools have reported a rise in student volunteering this year, with over three hundred students taking part in community clean-up events last month alone. That's all for tonight, thank you for watching, and we'll see you tomorrow at six.",
+    "group_id": "NHL-G20",
+    "stem": "What is the first story about?",
+    "options": [
+      "A new subway line opening",
+      "A new bicycle lane being built",
+      "A road being permanently closed",
+      "A new university being built"
+    ],
+    "answer": 1,
+    "explain_zh": "新聞第一則就說 a new bicycle lane will be built along River Road,所以是新增腳踏車道,不是捷運、封路或蓋新大學。",
+    "vocab": [
+      {
+        "w": "council",
+        "zh": "議會;委員會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0097",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good evening, here are tonight's top stories. The city council announced today that a new bicycle lane will be built along River Road, connecting the downtown area to the university district. Construction is expected to begin next Monday and take about six weeks to complete, so drivers are advised to expect delays during that time. In other news, the annual Riverside Food Festival will return this weekend after being cancelled last year, with more than sixty food stalls expected to take part. Organizers say this year's festival will run from Friday evening through Sunday afternoon, and entry is free for all visitors. Finally, local schools have reported a rise in student volunteering this year, with over three hundred students taking part in community clean-up events last month alone. That's all for tonight, thank you for watching, and we'll see you tomorrow at six.",
+    "group_id": "NHL-G20",
+    "stem": "How long will the bike lane construction take?",
+    "options": [
+      "About sixteen weeks",
+      "About six days",
+      "About six weeks",
+      "About six months"
+    ],
+    "answer": 2,
+    "explain_zh": "新聞說 take about six weeks to complete,six 和 sixteen 發音相似,要聽清楚有沒有 -teen 尾音。",
+    "vocab": [
+      {
+        "w": "construction",
+        "zh": "施工",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0098",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good evening, here are tonight's top stories. The city council announced today that a new bicycle lane will be built along River Road, connecting the downtown area to the university district. Construction is expected to begin next Monday and take about six weeks to complete, so drivers are advised to expect delays during that time. In other news, the annual Riverside Food Festival will return this weekend after being cancelled last year, with more than sixty food stalls expected to take part. Organizers say this year's festival will run from Friday evening through Sunday afternoon, and entry is free for all visitors. Finally, local schools have reported a rise in student volunteering this year, with over three hundred students taking part in community clean-up events last month alone. That's all for tonight, thank you for watching, and we'll see you tomorrow at six.",
+    "group_id": "NHL-G20",
+    "stem": "How many food stalls are expected at the festival?",
+    "options": [
+      "More than 16",
+      "More than 600",
+      "Exactly 6",
+      "More than 60"
+    ],
+    "answer": 3,
+    "explain_zh": "新聞說 more than sixty food stalls,sixty 和 sixteen 容易聽混,要注意數字的重音和尾音。",
+    "vocab": [
+      {
+        "w": "stall",
+        "zh": "攤位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0099",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Good evening, here are tonight's top stories. The city council announced today that a new bicycle lane will be built along River Road, connecting the downtown area to the university district. Construction is expected to begin next Monday and take about six weeks to complete, so drivers are advised to expect delays during that time. In other news, the annual Riverside Food Festival will return this weekend after being cancelled last year, with more than sixty food stalls expected to take part. Organizers say this year's festival will run from Friday evening through Sunday afternoon, and entry is free for all visitors. Finally, local schools have reported a rise in student volunteering this year, with over three hundred students taking part in community clean-up events last month alone. That's all for tonight, thank you for watching, and we'll see you tomorrow at six.",
+    "group_id": "NHL-G20",
+    "stem": "Why is this year's food festival notable?",
+    "options": [
+      "It is returning after being cancelled last year",
+      "It is moving to a new location",
+      "It now charges an entry fee",
+      "It is being held for the first time"
+    ],
+    "answer": 0,
+    "explain_zh": "新聞說 will return this weekend after being cancelled last year,所以今年是「回歸」,不是首次舉辦,入場依然免費,不是新增收費。",
+    "vocab": [
+      {
+        "w": "cancel",
+        "zh": "取消",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NHL-0100",
+    "level": "H2",
+    "cefr": "B1",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good evening, here are tonight's top stories. The city council announced today that a new bicycle lane will be built along River Road, connecting the downtown area to the university district. Construction is expected to begin next Monday and take about six weeks to complete, so drivers are advised to expect delays during that time. In other news, the annual Riverside Food Festival will return this weekend after being cancelled last year, with more than sixty food stalls expected to take part. Organizers say this year's festival will run from Friday evening through Sunday afternoon, and entry is free for all visitors. Finally, local schools have reported a rise in student volunteering this year, with over three hundred students taking part in community clean-up events last month alone. That's all for tonight, thank you for watching, and we'll see you tomorrow at six.",
+    "group_id": "NHL-G20",
+    "stem": "How many students took part in clean-up events last month?",
+    "options": [
+      "Over 30",
+      "Over 300",
+      "Over 3,000",
+      "Over 13"
+    ],
+    "answer": 1,
+    "explain_zh": "新聞說 over three hundred students taking part,three hundred 和 thirty 不同,要聽清楚 hundred 這個單位詞。",
+    "vocab": [
+      {
+        "w": "volunteering",
+        "zh": "當志工",
+        "pos": "n."
+      }
+    ]
+  }
+]

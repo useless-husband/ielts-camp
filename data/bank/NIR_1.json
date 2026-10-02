@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "NIR-0001",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. In 2021 a team led by Okafor announced that observations of the sub-Neptune exoplanet designated LK-4b had revealed a spectral signature consistent with water vapour in its upper atmosphere. The signal, a dip of roughly 0.4 percent in transmitted starlight at a specific infrared wavelength, was the clearest such detection yet obtained for a planet of this size.\n\nB. The announcement was widely reported as a step towards identifying potentially habitable worlds. Water vapour is one of several gases that astrobiologists treat as a possible, though far from conclusive, indicator of conditions suitable for life. Okafor herself was careful to note that the detection said nothing about temperature, pressure, or the planet's surface, since LK-4b's radius suggests it lacks a solid surface at all.\n\nC. Other astronomers have urged caution for a different reason. Haas and colleagues have argued that high-altitude clouds or haze could produce a similar dip in the spectrum even in the complete absence of water, because both water vapour and certain hydrocarbon aerosols absorb light at overlapping wavelengths. Distinguishing the two would require observations at additional wavelengths that current instruments cannot yet capture with sufficient precision.\n\nD. Okafor's team maintains that the shape of the absorption feature fits water more closely than any haze model tested so far, though they concede the fit is not perfect. A next-generation space telescope, scheduled for launch within the decade, is expected to resolve the ambiguity by measuring the spectrum at a resolution roughly three times finer than what is currently available.",
+    "group_id": "NIR-G01",
+    "stem": "According to the passage, how large was the dip in transmitted starlight linked to the possible water-vapour signature?",
+    "options": [
+      "About 0.4 percent",
+      "About 4 percent",
+      "The passage does not give a figure",
+      "About 40 percent"
+    ],
+    "answer": 0,
+    "explain_zh": "細節題直接回段落 A 找數字：a dip of roughly 0.4 percent，選 A。4 percent、40 percent 都是把小數點位置改錯的常見誘答；「沒有數字」則忽略了原文其實有明確數據。技巧：看到題幹問 how large／how many，先鎖定原文的阿拉伯數字或百分比再作答。",
+    "vocab": [
+      {
+        "w": "transmit",
+        "zh": "傳送；穿透",
+        "pos": "v."
+      },
+      {
+        "w": "spectral",
+        "zh": "光譜的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0002",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. In 2021 a team led by Okafor announced that observations of the sub-Neptune exoplanet designated LK-4b had revealed a spectral signature consistent with water vapour in its upper atmosphere. The signal, a dip of roughly 0.4 percent in transmitted starlight at a specific infrared wavelength, was the clearest such detection yet obtained for a planet of this size.\n\nB. The announcement was widely reported as a step towards identifying potentially habitable worlds. Water vapour is one of several gases that astrobiologists treat as a possible, though far from conclusive, indicator of conditions suitable for life. Okafor herself was careful to note that the detection said nothing about temperature, pressure, or the planet's surface, since LK-4b's radius suggests it lacks a solid surface at all.\n\nC. Other astronomers have urged caution for a different reason. Haas and colleagues have argued that high-altitude clouds or haze could produce a similar dip in the spectrum even in the complete absence of water, because both water vapour and certain hydrocarbon aerosols absorb light at overlapping wavelengths. Distinguishing the two would require observations at additional wavelengths that current instruments cannot yet capture with sufficient precision.\n\nD. Okafor's team maintains that the shape of the absorption feature fits water more closely than any haze model tested so far, though they concede the fit is not perfect. A next-generation space telescope, scheduled for launch within the decade, is expected to resolve the ambiguity by measuring the spectrum at a resolution roughly three times finer than what is currently available.",
+    "group_id": "NIR-G01",
+    "stem": "What can be inferred about Okafor's own view of the discovery's significance for habitability?",
+    "options": [
+      "She regards it as insufficient on its own to show the planet could support life.",
+      "She thinks the finding confirms the planet has a rocky surface.",
+      "She believes the finding proves life could not exist there.",
+      "She has withdrawn the claim after Haas's criticism."
+    ],
+    "answer": 0,
+    "explain_zh": "段落 B 說她 careful to note 偵測結果 said nothing about temperature, pressure, or the planet's surface，代表她自己也認為這不足以證明宜居，選 A。B、C 都把「保留態度」讀成「否定或肯定的證明」，超出原文；D 段落 D 顯示她的團隊仍在捍衛論點，並未撤回。技巧：推論題常考「說話者留了什麼但書」，注意 careful to note 這類語氣詞。",
+    "vocab": [
+      {
+        "w": "habitable",
+        "zh": "適居的",
+        "pos": "adj."
+      },
+      {
+        "w": "indicator",
+        "zh": "指標",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0003",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. In 2021 a team led by Okafor announced that observations of the sub-Neptune exoplanet designated LK-4b had revealed a spectral signature consistent with water vapour in its upper atmosphere. The signal, a dip of roughly 0.4 percent in transmitted starlight at a specific infrared wavelength, was the clearest such detection yet obtained for a planet of this size.\n\nB. The announcement was widely reported as a step towards identifying potentially habitable worlds. Water vapour is one of several gases that astrobiologists treat as a possible, though far from conclusive, indicator of conditions suitable for life. Okafor herself was careful to note that the detection said nothing about temperature, pressure, or the planet's surface, since LK-4b's radius suggests it lacks a solid surface at all.\n\nC. Other astronomers have urged caution for a different reason. Haas and colleagues have argued that high-altitude clouds or haze could produce a similar dip in the spectrum even in the complete absence of water, because both water vapour and certain hydrocarbon aerosols absorb light at overlapping wavelengths. Distinguishing the two would require observations at additional wavelengths that current instruments cannot yet capture with sufficient precision.\n\nD. Okafor's team maintains that the shape of the absorption feature fits water more closely than any haze model tested so far, though they concede the fit is not perfect. A next-generation space telescope, scheduled for launch within the decade, is expected to resolve the ambiguity by measuring the spectrum at a resolution roughly three times finer than what is currently available.",
+    "group_id": "NIR-G01",
+    "stem": "Statement: Haas and colleagues agree with Okafor's team that the signal is definitely caused by water vapour.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 C 明確寫 Haas and colleagues have argued that high-altitude clouds or haze could produce a similar dip... even in the complete absence of water，這是直接反駁「一定是水氣」的說法，因此選 False，不是 Not Given。技巧：當原文出現另一方明確提出替代解釋時，代表雙方「不同意」，屬於可以判斷對錯的 False，而非什麼都沒說的 Not Given。",
+    "vocab": [
+      {
+        "w": "haze",
+        "zh": "薄霧；霾",
+        "pos": "n."
+      },
+      {
+        "w": "aerosol",
+        "zh": "氣溶膠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0004",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. In 2021 a team led by Okafor announced that observations of the sub-Neptune exoplanet designated LK-4b had revealed a spectral signature consistent with water vapour in its upper atmosphere. The signal, a dip of roughly 0.4 percent in transmitted starlight at a specific infrared wavelength, was the clearest such detection yet obtained for a planet of this size.\n\nB. The announcement was widely reported as a step towards identifying potentially habitable worlds. Water vapour is one of several gases that astrobiologists treat as a possible, though far from conclusive, indicator of conditions suitable for life. Okafor herself was careful to note that the detection said nothing about temperature, pressure, or the planet's surface, since LK-4b's radius suggests it lacks a solid surface at all.\n\nC. Other astronomers have urged caution for a different reason. Haas and colleagues have argued that high-altitude clouds or haze could produce a similar dip in the spectrum even in the complete absence of water, because both water vapour and certain hydrocarbon aerosols absorb light at overlapping wavelengths. Distinguishing the two would require observations at additional wavelengths that current instruments cannot yet capture with sufficient precision.\n\nD. Okafor's team maintains that the shape of the absorption feature fits water more closely than any haze model tested so far, though they concede the fit is not perfect. A next-generation space telescope, scheduled for launch within the decade, is expected to resolve the ambiguity by measuring the spectrum at a resolution roughly three times finer than what is currently available.",
+    "group_id": "NIR-G01",
+    "stem": "Which paragraph mentions a future instrument that may help settle the current disagreement?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 提到 A next-generation space telescope, scheduled for launch within the decade, is expected to resolve the ambiguity，只有這一段講到「未來的儀器」，選 Paragraph D。其餘段落都在描述目前的發現或雙方既有的論點，沒有提到尚未存在的設備。技巧：段落配對題要先圈出題幹關鍵詞（future instrument），再逐段找同義詞（next-generation space telescope）。",
+    "vocab": [
+      {
+        "w": "resolution",
+        "zh": "解析度",
+        "pos": "n."
+      },
+      {
+        "w": "ambiguity",
+        "zh": "模糊不清",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0005",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. In 2021 a team led by Okafor announced that observations of the sub-Neptune exoplanet designated LK-4b had revealed a spectral signature consistent with water vapour in its upper atmosphere. The signal, a dip of roughly 0.4 percent in transmitted starlight at a specific infrared wavelength, was the clearest such detection yet obtained for a planet of this size.\n\nB. The announcement was widely reported as a step towards identifying potentially habitable worlds. Water vapour is one of several gases that astrobiologists treat as a possible, though far from conclusive, indicator of conditions suitable for life. Okafor herself was careful to note that the detection said nothing about temperature, pressure, or the planet's surface, since LK-4b's radius suggests it lacks a solid surface at all.\n\nC. Other astronomers have urged caution for a different reason. Haas and colleagues have argued that high-altitude clouds or haze could produce a similar dip in the spectrum even in the complete absence of water, because both water vapour and certain hydrocarbon aerosols absorb light at overlapping wavelengths. Distinguishing the two would require observations at additional wavelengths that current instruments cannot yet capture with sufficient precision.\n\nD. Okafor's team maintains that the shape of the absorption feature fits water more closely than any haze model tested so far, though they concede the fit is not perfect. A next-generation space telescope, scheduled for launch within the decade, is expected to resolve the ambiguity by measuring the spectrum at a resolution roughly three times finer than what is currently available.",
+    "group_id": "NIR-G01",
+    "stem": "What is the writer's overall stance on the claim that LK-4b's atmosphere contains water vapour?",
+    "options": [
+      "The evidence is suggestive but not yet conclusive, pending better instruments.",
+      "The writer fully endorses Okafor's interpretation without reservation.",
+      "The writer considers the entire debate irrelevant to astrobiology.",
+      "The claim has already been thoroughly disproven by Haas's team."
+    ],
+    "answer": 0,
+    "explain_zh": "全文反覆出現 careful to note、could produce a similar dip、not perfect、expected to resolve the ambiguity 這類保留字眼，顯示作者態度是「證據有意義但還沒定案」，選 A。B 太武斷，Haas 只是提出質疑而非證明；C 忽略了作者也呈現了反方證據；D 與全文花大量篇幅討論此議題矛盾。技巧：統整全文語氣時，把每段的限定語（roughly、may、expected to）串起來看整體傾向。",
+    "vocab": [
+      {
+        "w": "conclusive",
+        "zh": "決定性的",
+        "pos": "adj."
+      },
+      {
+        "w": "endorse",
+        "zh": "背書；認可",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0006",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. A survey published in 2022 by a team under Marlowe used satellite radar to trace a network of buried canals across a floodplain in southern Mesopotamia. Ground excavation at three points along the network recovered pottery and plant remains that were radiocarbon dated to roughly 4800 BC, some 600 years earlier than the date usually given for organised irrigation in the region.\n\nB. If confirmed, the finding would mean that farmers were managing water on a large scale well before the rise of the first cities, rather than developing irrigation alongside urban growth as most textbooks describe. Marlowe suggests that early canal building may have been a precondition for city formation rather than a consequence of it.\n\nC. Some specialists remain unconvinced. Canals are notoriously hard to date directly, since the earth-moving itself leaves no organic material; researchers must instead date objects found in the fill, which could have entered the channel long after it was first dug. A separate study using optically stimulated luminescence, a technique that estimates when sediment was last exposed to sunlight, produced dates several centuries later than Marlowe's radiocarbon results for the same channel.\n\nD. Marlowe's team responds that the two dating methods measure different events: luminescence dates the sediment's last exposure, which could reflect a later re-digging of an older canal, while the radiocarbon samples came from material sealed beneath the earliest visible layer. Wider testing across the network, now under way, should indicate whether the earlier date holds up across multiple sites rather than resting on a single channel.",
+    "group_id": "NIR-G02",
+    "stem": "What is the passage primarily concerned with?",
+    "options": [
+      "An argument that radiocarbon dating should never be used on canal sites",
+      "Proof that cities could not have existed without canal irrigation",
+      "A comparison of every dating method used in Middle Eastern archaeology",
+      "A satellite survey that has produced an unusually early date for Mesopotamian irrigation, which is not yet fully accepted"
+    ],
+    "answer": 3,
+    "explain_zh": "全文脈絡是「衛星調查發現異常早的年代→可能改寫歷史→但引發質疑→尚待更多驗證」，最符合這個脈絡的是「A satellite survey that has produced an unusually early date for Mesopotamian irrigation, which is not yet fully accepted」，故選 D。A「主張放射性碳定年不該用在運河遺址」文章沒有這樣主張，只指出它在本案例的侷限；B「證明城市不可能沒有運河灌溉就存在」把「可能的先後關係」講成絕對的必要條件，過度推論；C「比較了考古學所有定年法」文章只比較了放射性碳定年與光釋光定年兩種方法，不是全部方法。技巧：主旨題要找「貫穿全文的討論主軸」，而不是某一段的細節。",
+    "vocab": [
+      {
+        "w": "floodplain",
+        "zh": "氾濫平原",
+        "pos": "n."
+      },
+      {
+        "w": "irrigation",
+        "zh": "灌溉",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0007",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. A survey published in 2022 by a team under Marlowe used satellite radar to trace a network of buried canals across a floodplain in southern Mesopotamia. Ground excavation at three points along the network recovered pottery and plant remains that were radiocarbon dated to roughly 4800 BC, some 600 years earlier than the date usually given for organised irrigation in the region.\n\nB. If confirmed, the finding would mean that farmers were managing water on a large scale well before the rise of the first cities, rather than developing irrigation alongside urban growth as most textbooks describe. Marlowe suggests that early canal building may have been a precondition for city formation rather than a consequence of it.\n\nC. Some specialists remain unconvinced. Canals are notoriously hard to date directly, since the earth-moving itself leaves no organic material; researchers must instead date objects found in the fill, which could have entered the channel long after it was first dug. A separate study using optically stimulated luminescence, a technique that estimates when sediment was last exposed to sunlight, produced dates several centuries later than Marlowe's radiocarbon results for the same channel.\n\nD. Marlowe's team responds that the two dating methods measure different events: luminescence dates the sediment's last exposure, which could reflect a later re-digging of an older canal, while the radiocarbon samples came from material sealed beneath the earliest visible layer. Wider testing across the network, now under way, should indicate whether the earlier date holds up across multiple sites rather than resting on a single channel.",
+    "group_id": "NIR-G02",
+    "stem": "What can be inferred from the disagreement between the radiocarbon and luminescence results?",
+    "options": [
+      "Marlowe's team has admitted their radiocarbon samples were contaminated.",
+      "The canal network was definitely built after the first cities appeared.",
+      "Luminescence dating is always more accurate than radiocarbon dating.",
+      "A canal's age can be genuinely ambiguous when the channel may have been redug over time."
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 解釋兩種定年法測的是不同事件：光釋光測的是沉積物最後曝光的時間，可能反映「同一條渠道曾被重新挖掘」；這說明運河的年代本身可能是模糊不清的，故選「A canal's age can be genuinely ambiguous when the channel may have been redug over time」（D）。A「Marlowe 的團隊承認放射性碳樣本受污染」文章中團隊是提出解釋，並未承認樣本受污染；B「運河網絕對是在最早的城市出現之後才建造」與全文討論方向相反，文章正是在質疑教科書預設的先後順序；C「光釋光定年法一定比放射性碳定年法準確」原文沒有說哪一種方法「總是」比較準。技巧：推論題常從「雙方各自的解釋方式」去找一個雙方都能接受的合理結論。",
+    "vocab": [
+      {
+        "w": "sediment",
+        "zh": "沉積物",
+        "pos": "n."
+      },
+      {
+        "w": "channel",
+        "zh": "渠道；水道",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0008",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. A survey published in 2022 by a team under Marlowe used satellite radar to trace a network of buried canals across a floodplain in southern Mesopotamia. Ground excavation at three points along the network recovered pottery and plant remains that were radiocarbon dated to roughly 4800 BC, some 600 years earlier than the date usually given for organised irrigation in the region.\n\nB. If confirmed, the finding would mean that farmers were managing water on a large scale well before the rise of the first cities, rather than developing irrigation alongside urban growth as most textbooks describe. Marlowe suggests that early canal building may have been a precondition for city formation rather than a consequence of it.\n\nC. Some specialists remain unconvinced. Canals are notoriously hard to date directly, since the earth-moving itself leaves no organic material; researchers must instead date objects found in the fill, which could have entered the channel long after it was first dug. A separate study using optically stimulated luminescence, a technique that estimates when sediment was last exposed to sunlight, produced dates several centuries later than Marlowe's radiocarbon results for the same channel.\n\nD. Marlowe's team responds that the two dating methods measure different events: luminescence dates the sediment's last exposure, which could reflect a later re-digging of an older canal, while the radiocarbon samples came from material sealed beneath the earliest visible layer. Wider testing across the network, now under way, should indicate whether the earlier date holds up across multiple sites rather than resting on a single channel.",
+    "group_id": "NIR-G02",
+    "stem": "In paragraph C, the word 'unconvinced' is closest in meaning to which of the following?",
+    "options": [
+      "uninterested in the topic altogether",
+      "completely certain that the claim is false",
+      "not persuaded that the claim is correct",
+      "eager to publish a rebuttal immediately"
+    ],
+    "answer": 2,
+    "explain_zh": "unconvinced 由 convinced（被說服的）加上否定字首 un- 組成，字面就是「尚未被說服」，語氣比「完全確定是錯的」溫和，最接近「not persuaded that the claim is correct」，故選 C。A「對這個主題完全不感興趣」原文沒有這層意思；B「完全確定這個說法是錯的」把「存疑」講成「斷定為假」，程度過重；D「急著馬上發表反駁」原文沒有支持這種情緒或行動。技巧：字首 un-／dis- 通常只表示否定，不等於強烈反對，翻譯時要抓住原本的溫和程度。",
+    "vocab": [
+      {
+        "w": "unconvinced",
+        "zh": "未被說服的；存疑的",
+        "pos": "adj."
+      },
+      {
+        "w": "specialist",
+        "zh": "專家",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0009",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. A survey published in 2022 by a team under Marlowe used satellite radar to trace a network of buried canals across a floodplain in southern Mesopotamia. Ground excavation at three points along the network recovered pottery and plant remains that were radiocarbon dated to roughly 4800 BC, some 600 years earlier than the date usually given for organised irrigation in the region.\n\nB. If confirmed, the finding would mean that farmers were managing water on a large scale well before the rise of the first cities, rather than developing irrigation alongside urban growth as most textbooks describe. Marlowe suggests that early canal building may have been a precondition for city formation rather than a consequence of it.\n\nC. Some specialists remain unconvinced. Canals are notoriously hard to date directly, since the earth-moving itself leaves no organic material; researchers must instead date objects found in the fill, which could have entered the channel long after it was first dug. A separate study using optically stimulated luminescence, a technique that estimates when sediment was last exposed to sunlight, produced dates several centuries later than Marlowe's radiocarbon results for the same channel.\n\nD. Marlowe's team responds that the two dating methods measure different events: luminescence dates the sediment's last exposure, which could reflect a later re-digging of an older canal, while the radiocarbon samples came from material sealed beneath the earliest visible layer. Wider testing across the network, now under way, should indicate whether the earlier date holds up across multiple sites rather than resting on a single channel.",
+    "group_id": "NIR-G02",
+    "stem": "Which paragraph explains why canals are difficult to date directly?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 寫道 Canals are notoriously hard to date directly, since the earth-moving itself leaves no organic material，正是在解釋定年困難的原因，答案是 Paragraph C。段落 A 只是描述調查方法與初步年代；段落 B 講的是發現的意義；段落 D 講的是團隊如何回應質疑。技巧：找「原因說明」類的段落，通常會出現 because、since、the reason 等連接詞。",
+    "vocab": [
+      {
+        "w": "organic",
+        "zh": "有機的",
+        "pos": "adj."
+      },
+      {
+        "w": "excavation",
+        "zh": "挖掘；發掘",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0010",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. A survey published in 2022 by a team under Marlowe used satellite radar to trace a network of buried canals across a floodplain in southern Mesopotamia. Ground excavation at three points along the network recovered pottery and plant remains that were radiocarbon dated to roughly 4800 BC, some 600 years earlier than the date usually given for organised irrigation in the region.\n\nB. If confirmed, the finding would mean that farmers were managing water on a large scale well before the rise of the first cities, rather than developing irrigation alongside urban growth as most textbooks describe. Marlowe suggests that early canal building may have been a precondition for city formation rather than a consequence of it.\n\nC. Some specialists remain unconvinced. Canals are notoriously hard to date directly, since the earth-moving itself leaves no organic material; researchers must instead date objects found in the fill, which could have entered the channel long after it was first dug. A separate study using optically stimulated luminescence, a technique that estimates when sediment was last exposed to sunlight, produced dates several centuries later than Marlowe's radiocarbon results for the same channel.\n\nD. Marlowe's team responds that the two dating methods measure different events: luminescence dates the sediment's last exposure, which could reflect a later re-digging of an older canal, while the radiocarbon samples came from material sealed beneath the earliest visible layer. Wider testing across the network, now under way, should indicate whether the earlier date holds up across multiple sites rather than resting on a single channel.",
+    "group_id": "NIR-G02",
+    "stem": "How does the writer present Marlowe's claim about early irrigation?",
+    "options": [
+      "As a minor detail of no real consequence for the field",
+      "As a discredited theory that no longer has any supporters",
+      "As an established fact accepted by every archaeologist",
+      "As a plausible but still contested finding that requires further testing"
+    ],
+    "answer": 3,
+    "explain_zh": "文章用 If confirmed、remain unconvinced、should indicate whether the earlier date holds up 這些語句，顯示作者把這個說法當成「有可能成立但仍有爭議」，最接近「a plausible but still contested finding that requires further testing」，故選 D。A「無關緊要的小細節」與文章花整篇篇幅討論的份量不符；B「已被推翻、不再有人支持的理論」忽略了 Marlowe 團隊仍持續提出反駁證據；C「所有考古學家都接受的既定事實」與 Some specialists remain unconvinced 直接衝突。技巧：作者觀點題要留意全文的假設語氣（if confirmed）與尚未完成的動作（now under way）。",
+    "vocab": [
+      {
+        "w": "plausible",
+        "zh": "可信的；有道理的",
+        "pos": "adj."
+      },
+      {
+        "w": "discredited",
+        "zh": "名譽掃地的；不被採信的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0011",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Roughly ten billion emoji are sent every day across messaging platforms, and some commentators have described this as evidence of a new, universal picture-writing system emerging alongside spoken languages. Solberg, a linguist who has studied the question since 2019, is sceptical of the comparison.\n\nB. A true writing system, Solberg argues, must be able to represent the grammar of a spoken language: word order, tense, and the relationships between subject and object. Emoji sequences do none of this reliably. A string such as a face crying with laughter followed by a birthday cake could mean several different things depending on the conversation, and readers routinely disagree about the intended meaning when shown the same sequence out of context.\n\nC. Supporters of the 'emoji as language' idea point to the fact that certain emoji have taken on conventional meanings within specific communities, much as slang words do. About 60 percent of surveyed teenagers in one 2020 study reported using a small set of emoji with a fixed, shared meaning that differed from their literal picture. Solberg accepts this but notes that having some conventional symbols is not the same as having a grammar; traffic signs also carry conventional meaning without constituting a language.\n\nD. The more accurate description, Solberg suggests, is that emoji function as a paralinguistic layer, similar to tone of voice or a raised eyebrow, added on top of an existing written language rather than replacing it. Most emoji use in her data appears alongside text rather than in place of it, which she takes as evidence against the idea that emoji are evolving into an independent language.",
+    "group_id": "NIR-G03",
+    "stem": "What is the main point Solberg makes in the passage?",
+    "options": [
+      "Emoji have completely replaced written language among teenagers",
+      "Traffic signs and emoji both qualify as full writing systems",
+      "Emoji function more like tone of voice added to writing than like an independent language",
+      "No emoji ever carries a shared, conventional meaning"
+    ],
+    "answer": 2,
+    "explain_zh": "全文從第一段的懷疑，到第二段指出 emoji 缺乏文法，到第四段直接給出結論 emoji function as a paralinguistic layer... added on top of an existing written language，主旨最接近「Emoji function more like tone of voice added to writing than like an independent language」，故選 C。A「emoji 已經完全取代了青少年之間的書面語言」與段落 D 提到「多半伴隨文字出現」矛盾；B「交通標誌和 emoji 都算是完整的文字系統」段落 C 其實是用交通標誌反駁「有共同意義就算語言」的說法；D「emoji 從來沒有任何共同、約定俗成的意義」與段落 C 提到的 60% 案例相反。技巧：找作者本人（此處是被引用的學者）在文末給出的總結句，通常就是主旨。",
+    "vocab": [
+      {
+        "w": "paralinguistic",
+        "zh": "副語言的（如語氣、表情）",
+        "pos": "adj."
+      },
+      {
+        "w": "sceptical",
+        "zh": "懷疑的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0012",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Roughly ten billion emoji are sent every day across messaging platforms, and some commentators have described this as evidence of a new, universal picture-writing system emerging alongside spoken languages. Solberg, a linguist who has studied the question since 2019, is sceptical of the comparison.\n\nB. A true writing system, Solberg argues, must be able to represent the grammar of a spoken language: word order, tense, and the relationships between subject and object. Emoji sequences do none of this reliably. A string such as a face crying with laughter followed by a birthday cake could mean several different things depending on the conversation, and readers routinely disagree about the intended meaning when shown the same sequence out of context.\n\nC. Supporters of the 'emoji as language' idea point to the fact that certain emoji have taken on conventional meanings within specific communities, much as slang words do. About 60 percent of surveyed teenagers in one 2020 study reported using a small set of emoji with a fixed, shared meaning that differed from their literal picture. Solberg accepts this but notes that having some conventional symbols is not the same as having a grammar; traffic signs also carry conventional meaning without constituting a language.\n\nD. The more accurate description, Solberg suggests, is that emoji function as a paralinguistic layer, similar to tone of voice or a raised eyebrow, added on top of an existing written language rather than replacing it. Most emoji use in her data appears alongside text rather than in place of it, which she takes as evidence against the idea that emoji are evolving into an independent language.",
+    "group_id": "NIR-G03",
+    "stem": "According to the 2020 study mentioned in the passage, what percentage of surveyed teenagers reported using certain emoji with a fixed, shared meaning?",
+    "options": [
+      "The exact figure is not given",
+      "About 90 percent",
+      "About 60 percent",
+      "About 16 percent"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 明確寫 About 60 percent of surveyed teenagers... reported using a small set of emoji with a fixed, shared meaning，故選「About 60 percent」（C）。16 percent 是數字順序顛倒的常見誘答；90 percent 誇大了原文比例；文章確實有給出數字，並非「沒有提及」。技巧：碰到近似的數字誘答（60 vs 16），要回到原文逐字核對，不要單憑印象作答。",
+    "vocab": [
+      {
+        "w": "conventional",
+        "zh": "約定俗成的",
+        "pos": "adj."
+      },
+      {
+        "w": "survey",
+        "zh": "調查",
+        "pos": "n./v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0013",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Roughly ten billion emoji are sent every day across messaging platforms, and some commentators have described this as evidence of a new, universal picture-writing system emerging alongside spoken languages. Solberg, a linguist who has studied the question since 2019, is sceptical of the comparison.\n\nB. A true writing system, Solberg argues, must be able to represent the grammar of a spoken language: word order, tense, and the relationships between subject and object. Emoji sequences do none of this reliably. A string such as a face crying with laughter followed by a birthday cake could mean several different things depending on the conversation, and readers routinely disagree about the intended meaning when shown the same sequence out of context.\n\nC. Supporters of the 'emoji as language' idea point to the fact that certain emoji have taken on conventional meanings within specific communities, much as slang words do. About 60 percent of surveyed teenagers in one 2020 study reported using a small set of emoji with a fixed, shared meaning that differed from their literal picture. Solberg accepts this but notes that having some conventional symbols is not the same as having a grammar; traffic signs also carry conventional meaning without constituting a language.\n\nD. The more accurate description, Solberg suggests, is that emoji function as a paralinguistic layer, similar to tone of voice or a raised eyebrow, added on top of an existing written language rather than replacing it. Most emoji use in her data appears alongside text rather than in place of it, which she takes as evidence against the idea that emoji are evolving into an independent language.",
+    "group_id": "NIR-G03",
+    "stem": "In paragraph B, the word 'reliably' is closest in meaning to which of the following?",
+    "options": [
+      "in a creative and artistic way",
+      "in a fast and efficient way",
+      "in a loud and noticeable way",
+      "in a consistent and dependable way"
+    ],
+    "answer": 3,
+    "explain_zh": "reliably 由 rely（依賴）加上 -ably 構成，指「可靠地、每次都一樣地」，最接近 A。原句 Emoji sequences do none of this reliably 是說 emoji 沒辦法穩定地表達文法功能，若換成「快速」「有創意」「顯眼」都偏離了「穩定可靠」這個核心意思。技巧：形容詞加 -ly 的副詞，先還原成原形容詞再對應中文字義，通常最準確。",
+    "vocab": [
+      {
+        "w": "reliably",
+        "zh": "可靠地；穩定地",
+        "pos": "adv."
+      },
+      {
+        "w": "sequence",
+        "zh": "序列",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0014",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Roughly ten billion emoji are sent every day across messaging platforms, and some commentators have described this as evidence of a new, universal picture-writing system emerging alongside spoken languages. Solberg, a linguist who has studied the question since 2019, is sceptical of the comparison.\n\nB. A true writing system, Solberg argues, must be able to represent the grammar of a spoken language: word order, tense, and the relationships between subject and object. Emoji sequences do none of this reliably. A string such as a face crying with laughter followed by a birthday cake could mean several different things depending on the conversation, and readers routinely disagree about the intended meaning when shown the same sequence out of context.\n\nC. Supporters of the 'emoji as language' idea point to the fact that certain emoji have taken on conventional meanings within specific communities, much as slang words do. About 60 percent of surveyed teenagers in one 2020 study reported using a small set of emoji with a fixed, shared meaning that differed from their literal picture. Solberg accepts this but notes that having some conventional symbols is not the same as having a grammar; traffic signs also carry conventional meaning without constituting a language.\n\nD. The more accurate description, Solberg suggests, is that emoji function as a paralinguistic layer, similar to tone of voice or a raised eyebrow, added on top of an existing written language rather than replacing it. Most emoji use in her data appears alongside text rather than in place of it, which she takes as evidence against the idea that emoji are evolving into an independent language.",
+    "group_id": "NIR-G03",
+    "stem": "Statement: Solberg believes that emoji can never carry any conventional, shared meaning within a community.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 C 寫 Solberg accepts this（指 emoji 確實有約定俗成的意義），她只是認為「有共同意義」不等於「有文法、算語言」，並沒有否認 emoji 能有共同意義，因此題幹的說法與原文相反，選 False。技巧：True/False/Not Given 常見陷阱是把「有 A 但不等於 B」簡化成「完全沒有 A」，作答前務必找到原句確認被否定的到底是哪一半。",
+    "vocab": [
+      {
+        "w": "accept",
+        "zh": "接受；承認",
+        "pos": "v."
+      },
+      {
+        "w": "constitute",
+        "zh": "構成",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0015",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Roughly ten billion emoji are sent every day across messaging platforms, and some commentators have described this as evidence of a new, universal picture-writing system emerging alongside spoken languages. Solberg, a linguist who has studied the question since 2019, is sceptical of the comparison.\n\nB. A true writing system, Solberg argues, must be able to represent the grammar of a spoken language: word order, tense, and the relationships between subject and object. Emoji sequences do none of this reliably. A string such as a face crying with laughter followed by a birthday cake could mean several different things depending on the conversation, and readers routinely disagree about the intended meaning when shown the same sequence out of context.\n\nC. Supporters of the 'emoji as language' idea point to the fact that certain emoji have taken on conventional meanings within specific communities, much as slang words do. About 60 percent of surveyed teenagers in one 2020 study reported using a small set of emoji with a fixed, shared meaning that differed from their literal picture. Solberg accepts this but notes that having some conventional symbols is not the same as having a grammar; traffic signs also carry conventional meaning without constituting a language.\n\nD. The more accurate description, Solberg suggests, is that emoji function as a paralinguistic layer, similar to tone of voice or a raised eyebrow, added on top of an existing written language rather than replacing it. Most emoji use in her data appears alongside text rather than in place of it, which she takes as evidence against the idea that emoji are evolving into an independent language.",
+    "group_id": "NIR-G03",
+    "stem": "What is Solberg's attitude towards the claim that emoji are becoming a new universal language?",
+    "options": [
+      "Enthusiastically supportive of the idea",
+      "Completely indifferent to the question",
+      "Convinced that emoji will soon replace written text entirely",
+      "Doubtful, though she acknowledges emoji do carry some conventional meaning"
+    ],
+    "answer": 3,
+    "explain_zh": "Solberg 全文的立場是「懷疑但不否定部分事實」：段落 A 說她 sceptical，段落 C 她 accepts 部分證據，段落 D 給出替代解釋，整體態度是「有所保留的懷疑」，最接近「Doubtful, though she acknowledges emoji do carry some conventional meaning」，故選 D。A「熱情支持這個說法」與她整體保留、質疑的態度不符；B「完全不在乎這個問題」與她的懷疑立場相反；C「完全相信 emoji 很快會取代書面文字」與她花篇幅逐點反駁的行為矛盾。技巧：作者觀點題要看整篇文章「同意的部分」與「反對的部分」各是什麼，再選出兼顧兩者的選項。",
+    "vocab": [
+      {
+        "w": "doubtful",
+        "zh": "存疑的",
+        "pos": "adj."
+      },
+      {
+        "w": "acknowledge",
+        "zh": "承認",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0016",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Organ donor registration rates vary enormously between countries with otherwise similar healthcare systems. Reyes and colleagues compared 15 European countries in 2013 and found that nations where citizens are automatically registered as donors unless they actively opt out had consent rates above 90 percent, while nations requiring people to actively opt in had rates closer to 20 percent.\n\nB. The gap is striking because surveys in both types of country show broadly similar levels of stated willingness to donate; roughly 70 percent of respondents in both groups say in principle that they support organ donation. Reyes argues that the difference in actual registration is explained not by differing attitudes but by the design of the default option, since most people simply never revisit a form once it is filled in or left blank.\n\nC. Critics caution against reading the comparison as a simple recipe for policy. Countries differ in how consent is used in practice: some opt-out systems still ask family members to approve donation at the time of death, which softens the effect of the legal default. Rothman has pointed out that two countries with identical opt-out laws on paper produced donation rates that differed by more than 20 percentage points once actual hospital practice was taken into account.\n\nD. Reyes accepts that defaults alone do not fully determine outcomes but maintains that they exert a powerful influence on behaviour precisely because most people are inattentive rather than firmly opposed either way. She suggests that policymakers wanting to raise donation rates should treat the default setting as one lever among several, alongside public education and clear communication with hospital staff.",
+    "group_id": "NIR-G04",
+    "stem": "What is the passage mainly discussing?",
+    "options": [
+      "How default settings, alongside other factors, strongly influence organ donor registration rates",
+      "An argument that public attitudes towards donation are entirely irrelevant",
+      "Proof that opt-out policies alone guarantee high organ donation rates",
+      "A history of organ transplant surgery in Europe"
+    ],
+    "answer": 0,
+    "explain_zh": "全文從預設選項造成的巨大登記率差異，談到批評者指出還有其他因素（家屬同意、醫院實務），最後 Reyes 承認預設不是唯一因素但仍具強大影響力，主旨是 A：預設選項連同其他因素共同影響捐贈登記率。B 過度簡化，段落 C、D 都強調並非只靠預設；C 文章沒有談手術史；D 段落 B 明確提到雙方態度其實相近，並非無關，而是態度相近但結果不同才是重點。技巧：主旨題要能涵蓋文章正反兩面的討論，不能只取單一段落。",
+    "vocab": [
+      {
+        "w": "consent",
+        "zh": "同意；同意書",
+        "pos": "n."
+      },
+      {
+        "w": "default",
+        "zh": "預設值",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0017",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Organ donor registration rates vary enormously between countries with otherwise similar healthcare systems. Reyes and colleagues compared 15 European countries in 2013 and found that nations where citizens are automatically registered as donors unless they actively opt out had consent rates above 90 percent, while nations requiring people to actively opt in had rates closer to 20 percent.\n\nB. The gap is striking because surveys in both types of country show broadly similar levels of stated willingness to donate; roughly 70 percent of respondents in both groups say in principle that they support organ donation. Reyes argues that the difference in actual registration is explained not by differing attitudes but by the design of the default option, since most people simply never revisit a form once it is filled in or left blank.\n\nC. Critics caution against reading the comparison as a simple recipe for policy. Countries differ in how consent is used in practice: some opt-out systems still ask family members to approve donation at the time of death, which softens the effect of the legal default. Rothman has pointed out that two countries with identical opt-out laws on paper produced donation rates that differed by more than 20 percentage points once actual hospital practice was taken into account.\n\nD. Reyes accepts that defaults alone do not fully determine outcomes but maintains that they exert a powerful influence on behaviour precisely because most people are inattentive rather than firmly opposed either way. She suggests that policymakers wanting to raise donation rates should treat the default setting as one lever among several, alongside public education and clear communication with hospital staff.",
+    "group_id": "NIR-G04",
+    "stem": "According to Reyes's 2013 comparison, roughly what consent rate did opt-in countries have?",
+    "options": [
+      "Around 20 percent",
+      "Around 50 percent",
+      "Around 90 percent",
+      "Around 70 percent"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 A 寫 nations requiring people to actively opt in had rates closer to 20 percent，選 A。90 percent 是 opt-out 國家的數字，容易被誘答混淆；70 percent 是段落 B 提到的「原則上支持捐贈」的態度調查比例，不是實際登記率；50 percent 原文未提及。技巧：文章出現多組百分比時，先標出每個數字對應的是哪一種國家、哪一種調查，再回答問題。",
+    "vocab": [
+      {
+        "w": "registration",
+        "zh": "登記",
+        "pos": "n."
+      },
+      {
+        "w": "opt-in",
+        "zh": "選擇加入（預設不参加）",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0018",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Organ donor registration rates vary enormously between countries with otherwise similar healthcare systems. Reyes and colleagues compared 15 European countries in 2013 and found that nations where citizens are automatically registered as donors unless they actively opt out had consent rates above 90 percent, while nations requiring people to actively opt in had rates closer to 20 percent.\n\nB. The gap is striking because surveys in both types of country show broadly similar levels of stated willingness to donate; roughly 70 percent of respondents in both groups say in principle that they support organ donation. Reyes argues that the difference in actual registration is explained not by differing attitudes but by the design of the default option, since most people simply never revisit a form once it is filled in or left blank.\n\nC. Critics caution against reading the comparison as a simple recipe for policy. Countries differ in how consent is used in practice: some opt-out systems still ask family members to approve donation at the time of death, which softens the effect of the legal default. Rothman has pointed out that two countries with identical opt-out laws on paper produced donation rates that differed by more than 20 percentage points once actual hospital practice was taken into account.\n\nD. Reyes accepts that defaults alone do not fully determine outcomes but maintains that they exert a powerful influence on behaviour precisely because most people are inattentive rather than firmly opposed either way. She suggests that policymakers wanting to raise donation rates should treat the default setting as one lever among several, alongside public education and clear communication with hospital staff.",
+    "group_id": "NIR-G04",
+    "stem": "What can be inferred from Rothman's finding about two countries with identical opt-out laws?",
+    "options": [
+      "Opt-out laws have no effect on donation rates whatsoever.",
+      "Hospital practice is identical in every opt-out country.",
+      "Rothman disputes that opt-out rates are ever above 90 percent.",
+      "The legal default alone does not fully explain real-world donation rates."
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 說兩個法律上相同的 opt-out 國家，實際捐贈率卻相差超過 20 個百分點，代表除了法律預設之外還有其他因素（如醫院實務）在起作用，最接近「The legal default alone does not fully explain real-world donation rates」，故選 D。A「opt-out 法律完全沒有影響」太極端，與段落 A 的整體趨勢矛盾；B「所有 opt-out 國家的醫院實務都一樣」恰好相反，原文正是在說醫院實務「不同」；C「Rothman 質疑捐贈率是否曾經高於 90%」原文沒有否認 90 percent 這個數字，質疑的是「單靠法律預設不能完全解釋結果」。技巧：推論題常考「一個反例說明了什麼」，反例通常是用來限縮而非推翻主要論點。",
+    "vocab": [
+      {
+        "w": "soften",
+        "zh": "緩和；削弱",
+        "pos": "v."
+      },
+      {
+        "w": "percentage point",
+        "zh": "百分點",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0019",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Organ donor registration rates vary enormously between countries with otherwise similar healthcare systems. Reyes and colleagues compared 15 European countries in 2013 and found that nations where citizens are automatically registered as donors unless they actively opt out had consent rates above 90 percent, while nations requiring people to actively opt in had rates closer to 20 percent.\n\nB. The gap is striking because surveys in both types of country show broadly similar levels of stated willingness to donate; roughly 70 percent of respondents in both groups say in principle that they support organ donation. Reyes argues that the difference in actual registration is explained not by differing attitudes but by the design of the default option, since most people simply never revisit a form once it is filled in or left blank.\n\nC. Critics caution against reading the comparison as a simple recipe for policy. Countries differ in how consent is used in practice: some opt-out systems still ask family members to approve donation at the time of death, which softens the effect of the legal default. Rothman has pointed out that two countries with identical opt-out laws on paper produced donation rates that differed by more than 20 percentage points once actual hospital practice was taken into account.\n\nD. Reyes accepts that defaults alone do not fully determine outcomes but maintains that they exert a powerful influence on behaviour precisely because most people are inattentive rather than firmly opposed either way. She suggests that policymakers wanting to raise donation rates should treat the default setting as one lever among several, alongside public education and clear communication with hospital staff.",
+    "group_id": "NIR-G04",
+    "stem": "Statement: Surveys show that people in opt-in countries are, in principle, much less willing to donate organs than people in opt-out countries.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 B 明確寫 roughly 70 percent of respondents in both groups say in principle that they support organ donation，兩類國家的「原則上意願」相近，並不是 opt-in 國家意願低很多，因此題幹說法被原文直接反駁，選 False。技巧：這題的陷阱是把「登記率差很多」誤推成「意願也差很多」，一定要分清楚「態度調查」與「實際登記結果」是兩組不同的數字。",
+    "vocab": [
+      {
+        "w": "respondent",
+        "zh": "受訪者",
+        "pos": "n."
+      },
+      {
+        "w": "in principle",
+        "zh": "原則上",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0020",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Organ donor registration rates vary enormously between countries with otherwise similar healthcare systems. Reyes and colleagues compared 15 European countries in 2013 and found that nations where citizens are automatically registered as donors unless they actively opt out had consent rates above 90 percent, while nations requiring people to actively opt in had rates closer to 20 percent.\n\nB. The gap is striking because surveys in both types of country show broadly similar levels of stated willingness to donate; roughly 70 percent of respondents in both groups say in principle that they support organ donation. Reyes argues that the difference in actual registration is explained not by differing attitudes but by the design of the default option, since most people simply never revisit a form once it is filled in or left blank.\n\nC. Critics caution against reading the comparison as a simple recipe for policy. Countries differ in how consent is used in practice: some opt-out systems still ask family members to approve donation at the time of death, which softens the effect of the legal default. Rothman has pointed out that two countries with identical opt-out laws on paper produced donation rates that differed by more than 20 percentage points once actual hospital practice was taken into account.\n\nD. Reyes accepts that defaults alone do not fully determine outcomes but maintains that they exert a powerful influence on behaviour precisely because most people are inattentive rather than firmly opposed either way. She suggests that policymakers wanting to raise donation rates should treat the default setting as one lever among several, alongside public education and clear communication with hospital staff.",
+    "group_id": "NIR-G04",
+    "stem": "Which paragraph suggests that policymakers should combine default settings with other measures?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 提到 policymakers wanting to raise donation rates should treat the default setting as one lever among several, alongside public education and clear communication，正是建議多管齊下，答案是 Paragraph D。段落 A、B 在描述數據與其成因；段落 C 是批評者提出的限制條件，尚未提出政策建議。技巧：找「建議、政策」類段落，留意 should、suggests、recommend 等提示詞。",
+    "vocab": [
+      {
+        "w": "lever",
+        "zh": "槓桿；施力點",
+        "pos": "n."
+      },
+      {
+        "w": "inattentive",
+        "zh": "不留意的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0021",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. The '15-minute city' concept, popularised in planning circles after 2020, proposes that residents should be able to reach work, schools, shops, healthcare and green space within a 15-minute walk or bicycle ride of home. Duarte and colleagues modelled the idea for three mid-sized cities and estimated that fully implementing it could cut car trips for daily errands by up to 35 percent.\n\nB. Supporters argue that concentrating services locally reduces traffic congestion, lowers emissions, and strengthens neighbourhood ties, since residents interact more often with people nearby rather than commuting through areas they never stop in. Several cities have begun redesigning zoning rules to allow shops and small offices in areas previously reserved only for housing.\n\nC. Critics raise two separate objections. The first is practical: retrofitting existing suburbs, built around car travel for decades, is far more expensive and disruptive than building a new district from scratch, so early gains are likely to be concentrated in already well-served inner-city areas. The second is more political; some residents have interpreted proposals to restrict through-traffic in certain zones as an attempt to limit their freedom of movement, a reading Duarte calls a misunderstanding of the policy's intent.\n\nD. Duarte maintains that the model was never meant to eliminate cars or confine people to their neighbourhood, only to make local trips convenient enough that residents choose them voluntarily. Whether the approach delivers the estimated 35 percent reduction outside the pilot cities studied so far remains, in her words, an open empirical question rather than a settled fact.",
+    "group_id": "NIR-G05",
+    "stem": "According to Duarte's model, fully implementing the 15-minute city could cut car trips for daily errands by up to what percentage?",
+    "options": [
+      "Up to 35 percent",
+      "Up to 15 percent",
+      "The passage does not specify a figure",
+      "Up to 53 percent"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 A 寫 could cut car trips for daily errands by up to 35 percent，選 A。53 percent 是數字顛倒的誘答；15 percent 是把「15分鐘城市」的15誤植成百分比；文章其實有明確給出數字。技巧：文章中若同時出現「15分鐘」與「35%」兩個數字，要小心不要張冠李戴。",
+    "vocab": [
+      {
+        "w": "errand",
+        "zh": "日常雜務；跑腿",
+        "pos": "n."
+      },
+      {
+        "w": "congestion",
+        "zh": "（交通）壅塞",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0022",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. The '15-minute city' concept, popularised in planning circles after 2020, proposes that residents should be able to reach work, schools, shops, healthcare and green space within a 15-minute walk or bicycle ride of home. Duarte and colleagues modelled the idea for three mid-sized cities and estimated that fully implementing it could cut car trips for daily errands by up to 35 percent.\n\nB. Supporters argue that concentrating services locally reduces traffic congestion, lowers emissions, and strengthens neighbourhood ties, since residents interact more often with people nearby rather than commuting through areas they never stop in. Several cities have begun redesigning zoning rules to allow shops and small offices in areas previously reserved only for housing.\n\nC. Critics raise two separate objections. The first is practical: retrofitting existing suburbs, built around car travel for decades, is far more expensive and disruptive than building a new district from scratch, so early gains are likely to be concentrated in already well-served inner-city areas. The second is more political; some residents have interpreted proposals to restrict through-traffic in certain zones as an attempt to limit their freedom of movement, a reading Duarte calls a misunderstanding of the policy's intent.\n\nD. Duarte maintains that the model was never meant to eliminate cars or confine people to their neighbourhood, only to make local trips convenient enough that residents choose them voluntarily. Whether the approach delivers the estimated 35 percent reduction outside the pilot cities studied so far remains, in her words, an open empirical question rather than a settled fact.",
+    "group_id": "NIR-G05",
+    "stem": "What can be inferred about why early gains from the 15-minute city model are likely to be concentrated in inner-city areas?",
+    "options": [
+      "Suburban residents are entirely opposed to the concept in every case.",
+      "Duarte's model was tested only in suburban districts.",
+      "Retrofitting car-oriented suburbs is more costly and disruptive than working with existing dense areas.",
+      "Inner cities have never had any zoning restrictions on shops."
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 說 retrofitting existing suburbs... is far more expensive and disruptive than building a new district from scratch, so early gains are likely to be concentrated in already well-served inner-city areas，可推知成本與難度是主因，最接近「Retrofitting car-oriented suburbs is more costly and disruptive than working with existing dense areas」，故選 C。A「郊區居民在每個案例中都完全反對」過度誇大，原文只說「部分居民」有疑慮；B「Duarte 的模型只在郊區地區做過測試」段落 A 說模型是套用在三個中型城市，並未限定為郊區；D「市中心從來沒有任何針對商店的分區限制」與段落 B 提到已有城市正在改變分區規則、允許商店進駐矛盾。技巧：推論題常要求把「原因子句（so 前面的內容）」轉換成完整句子作答。",
+    "vocab": [
+      {
+        "w": "retrofit",
+        "zh": "改裝；翻修",
+        "pos": "v."
+      },
+      {
+        "w": "disruptive",
+        "zh": "造成干擾的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0023",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. The '15-minute city' concept, popularised in planning circles after 2020, proposes that residents should be able to reach work, schools, shops, healthcare and green space within a 15-minute walk or bicycle ride of home. Duarte and colleagues modelled the idea for three mid-sized cities and estimated that fully implementing it could cut car trips for daily errands by up to 35 percent.\n\nB. Supporters argue that concentrating services locally reduces traffic congestion, lowers emissions, and strengthens neighbourhood ties, since residents interact more often with people nearby rather than commuting through areas they never stop in. Several cities have begun redesigning zoning rules to allow shops and small offices in areas previously reserved only for housing.\n\nC. Critics raise two separate objections. The first is practical: retrofitting existing suburbs, built around car travel for decades, is far more expensive and disruptive than building a new district from scratch, so early gains are likely to be concentrated in already well-served inner-city areas. The second is more political; some residents have interpreted proposals to restrict through-traffic in certain zones as an attempt to limit their freedom of movement, a reading Duarte calls a misunderstanding of the policy's intent.\n\nD. Duarte maintains that the model was never meant to eliminate cars or confine people to their neighbourhood, only to make local trips convenient enough that residents choose them voluntarily. Whether the approach delivers the estimated 35 percent reduction outside the pilot cities studied so far remains, in her words, an open empirical question rather than a settled fact.",
+    "group_id": "NIR-G05",
+    "stem": "In paragraph C, the phrase 'a misunderstanding of the policy's intent' suggests that Duarte believes the critics' political objection is based on what?",
+    "options": [
+      "A deliberate attempt by residents to mislead planners",
+      "An inaccurate reading of what the policy actually aims to do",
+      "A completely accurate summary of the policy's real goals",
+      "Evidence from a separate, unrelated pilot study"
+    ],
+    "answer": 1,
+    "explain_zh": "misunderstanding 由 mis-（錯誤）加 understanding（理解）組成，指「誤解」，Duarte 認為反對者把政策目的理解錯了，最接近「An inaccurate reading of what the policy actually aims to do」，故選 B。A「居民故意想要誤導規劃者」原文沒有這個意思，Duarte 說的是「誤解」而非「蓄意誤導」；C「完全準確地摘要了政策的真正目標」與「誤解」字義相反；D「來自另一項不相關的先導研究的證據」原文並未提及。技巧：mis- 這個字首在雅思常考詞彙中經常出現（misread、mislead、misinterpret），看到就要往「錯誤地」聯想。",
+    "vocab": [
+      {
+        "w": "intent",
+        "zh": "意圖",
+        "pos": "n."
+      },
+      {
+        "w": "restrict",
+        "zh": "限制",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0024",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. The '15-minute city' concept, popularised in planning circles after 2020, proposes that residents should be able to reach work, schools, shops, healthcare and green space within a 15-minute walk or bicycle ride of home. Duarte and colleagues modelled the idea for three mid-sized cities and estimated that fully implementing it could cut car trips for daily errands by up to 35 percent.\n\nB. Supporters argue that concentrating services locally reduces traffic congestion, lowers emissions, and strengthens neighbourhood ties, since residents interact more often with people nearby rather than commuting through areas they never stop in. Several cities have begun redesigning zoning rules to allow shops and small offices in areas previously reserved only for housing.\n\nC. Critics raise two separate objections. The first is practical: retrofitting existing suburbs, built around car travel for decades, is far more expensive and disruptive than building a new district from scratch, so early gains are likely to be concentrated in already well-served inner-city areas. The second is more political; some residents have interpreted proposals to restrict through-traffic in certain zones as an attempt to limit their freedom of movement, a reading Duarte calls a misunderstanding of the policy's intent.\n\nD. Duarte maintains that the model was never meant to eliminate cars or confine people to their neighbourhood, only to make local trips convenient enough that residents choose them voluntarily. Whether the approach delivers the estimated 35 percent reduction outside the pilot cities studied so far remains, in her words, an open empirical question rather than a settled fact.",
+    "group_id": "NIR-G05",
+    "stem": "Which paragraph presents two separate objections raised by critics of the concept?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 開頭就說 Critics raise two separate objections，接著分別說明 practical 與 political 兩點，答案是 Paragraph C。段落 A 在介紹概念與模型估計；段落 B 講支持者的論點；段落 D 是 Duarte 的回應與保留態度。技巧：段落配對題常可直接抓段落主題句（topic sentence），本題的主題句幾乎就是題幹的同義改寫。",
+    "vocab": [
+      {
+        "w": "objection",
+        "zh": "反對意見",
+        "pos": "n."
+      },
+      {
+        "w": "zoning",
+        "zh": "土地分區",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0025",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. The '15-minute city' concept, popularised in planning circles after 2020, proposes that residents should be able to reach work, schools, shops, healthcare and green space within a 15-minute walk or bicycle ride of home. Duarte and colleagues modelled the idea for three mid-sized cities and estimated that fully implementing it could cut car trips for daily errands by up to 35 percent.\n\nB. Supporters argue that concentrating services locally reduces traffic congestion, lowers emissions, and strengthens neighbourhood ties, since residents interact more often with people nearby rather than commuting through areas they never stop in. Several cities have begun redesigning zoning rules to allow shops and small offices in areas previously reserved only for housing.\n\nC. Critics raise two separate objections. The first is practical: retrofitting existing suburbs, built around car travel for decades, is far more expensive and disruptive than building a new district from scratch, so early gains are likely to be concentrated in already well-served inner-city areas. The second is more political; some residents have interpreted proposals to restrict through-traffic in certain zones as an attempt to limit their freedom of movement, a reading Duarte calls a misunderstanding of the policy's intent.\n\nD. Duarte maintains that the model was never meant to eliminate cars or confine people to their neighbourhood, only to make local trips convenient enough that residents choose them voluntarily. Whether the approach delivers the estimated 35 percent reduction outside the pilot cities studied so far remains, in her words, an open empirical question rather than a settled fact.",
+    "group_id": "NIR-G05",
+    "stem": "How does the writer characterise the current state of evidence for the 15-minute city model?",
+    "options": [
+      "As definitively proven across every city studied",
+      "As entirely discredited by suburban residents",
+      "As irrelevant to questions of traffic congestion",
+      "As promising but still an open empirical question outside the pilot cities"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 引用 Duarte 的話：Whether the approach delivers the estimated 35 percent reduction outside the pilot cities studied so far remains... an open empirical question rather than a settled fact，顯示作者呈現的是「有希望但未定論」，最接近「As promising but still an open empirical question outside the pilot cities」，故選 D。A「已經在每個研究過的城市都被確定證實」與「open question」矛盾；B「已被郊區居民完全推翻」太負面，批評只是部分意見而非全盤推翻；C「與交通壅塞問題無關」與全文主題（交通壅塞、排放）直接相關。技巧：結尾段落常是作者給出整體評價的地方，特別留意 remains、rather than 這類轉折收尾句。",
+    "vocab": [
+      {
+        "w": "empirical",
+        "zh": "以實證為依據的",
+        "pos": "adj."
+      },
+      {
+        "w": "settled",
+        "zh": "已定案的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0026",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Loggerhead sea turtles hatch on a single beach, spend years roaming thousands of kilometres across open ocean, and then return, as adults, to nest on a beach close to where they themselves hatched. Papadopoulos and colleagues have proposed that turtles achieve this by imprinting on the unique magnetic signature of their natal beach, since the Earth's magnetic field varies slightly and predictably from place to place along a coastline.\n\nB. In a 2019 tagging study, turtles that were experimentally exposed to a magnetic field resembling a different stretch of coastline, hundreds of kilometres from their true natal beach, later attempted to nest at beaches whose magnetic signature matched the artificial field rather than their actual birthplace. Roughly 80 percent of the tagged turtles in the experimental group showed this shifted nesting preference.\n\nC. The magnetic imprinting hypothesis does not, however, explain everything about turtle navigation. Some turtles nest at beaches with magnetic signatures too similar to distinguish from several genuine candidates, and yet still choose correctly, suggesting that smell, water temperature, or wave patterns may supplement the magnetic sense in certain regions. Nevill has argued that treating magnetism as the sole mechanism risks oversimplifying a navigation system that likely draws on several senses working together.\n\nD. Papadopoulos accepts that other cues probably play a supporting role but maintains that the magnetic sense is the primary long-range mechanism, since it is the only cue reliably available far out at sea, where smell and wave patterns from a specific beach cannot travel. Conservation planners are now weighing whether coastal development that alters local magnetic infrastructure, such as large underwater cables, could disrupt nesting site selection in the future.",
+    "group_id": "NIR-G06",
+    "stem": "Which of the following best summarises the passage?",
+    "options": [
+      "Evidence that magnetic imprinting is likely the primary, though not the only, mechanism turtles use to find their natal beach",
+      "Proof that sea turtles navigate using smell alone",
+      "A description of how underwater cables are built along coastlines",
+      "An argument that turtle nesting behaviour is entirely random"
+    ],
+    "answer": 0,
+    "explain_zh": "全文先提出磁場印痕假說與支持證據，再指出侷限、可能有其他感官輔助，最後 Papadopoulos 仍主張磁場是主要遠距機制，主旨是 A。B 與段落 C 提到「氣味等可能是輔助」矛盾，且原文並未說「單靠氣味」；C 只是段落 D 提到的延伸議題；D 與整篇文章描述的精確返巢行為矛盾。技巧：主旨題要能同時涵蓋「主要論點」與「但書」，通常出現在文章最後一段的總結句最準。",
+    "vocab": [
+      {
+        "w": "imprint",
+        "zh": "銘印；刻印",
+        "pos": "v."
+      },
+      {
+        "w": "natal",
+        "zh": "出生地的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0027",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Loggerhead sea turtles hatch on a single beach, spend years roaming thousands of kilometres across open ocean, and then return, as adults, to nest on a beach close to where they themselves hatched. Papadopoulos and colleagues have proposed that turtles achieve this by imprinting on the unique magnetic signature of their natal beach, since the Earth's magnetic field varies slightly and predictably from place to place along a coastline.\n\nB. In a 2019 tagging study, turtles that were experimentally exposed to a magnetic field resembling a different stretch of coastline, hundreds of kilometres from their true natal beach, later attempted to nest at beaches whose magnetic signature matched the artificial field rather than their actual birthplace. Roughly 80 percent of the tagged turtles in the experimental group showed this shifted nesting preference.\n\nC. The magnetic imprinting hypothesis does not, however, explain everything about turtle navigation. Some turtles nest at beaches with magnetic signatures too similar to distinguish from several genuine candidates, and yet still choose correctly, suggesting that smell, water temperature, or wave patterns may supplement the magnetic sense in certain regions. Nevill has argued that treating magnetism as the sole mechanism risks oversimplifying a navigation system that likely draws on several senses working together.\n\nD. Papadopoulos accepts that other cues probably play a supporting role but maintains that the magnetic sense is the primary long-range mechanism, since it is the only cue reliably available far out at sea, where smell and wave patterns from a specific beach cannot travel. Conservation planners are now weighing whether coastal development that alters local magnetic infrastructure, such as large underwater cables, could disrupt nesting site selection in the future.",
+    "group_id": "NIR-G06",
+    "stem": "What can be inferred about turtles that correctly chose between beaches with very similar magnetic signatures?",
+    "options": [
+      "They prove that magnetism is completely irrelevant to navigation.",
+      "They always fail to find their correct natal beach in such cases.",
+      "They may be relying on additional cues beyond magnetism to make the distinction.",
+      "They were part of the experimental group exposed to an artificial field."
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 說這種情況下海龜仍選對，suggesting that smell, water temperature, or wave patterns may supplement the magnetic sense，可推知牠們可能運用了額外線索，最接近「They may be relying on additional cues beyond magnetism to make the distinction」，故選 C。A「證明磁場對導航完全不重要」太極端，與磁場印痕假說整體證據矛盾；B「在這種情況下一定找不到正確的天然海灘」與原文「仍選對」相反；D「牠們屬於被暴露在人工磁場中的實驗組」這裡談的是野外自然選擇正確的案例，並非段落 B 的人工實驗組。技巧：推論題若原文用 suggesting that 引導，後面的內容通常就是最接近答案的改寫來源。",
+    "vocab": [
+      {
+        "w": "supplement",
+        "zh": "補充；輔助",
+        "pos": "v."
+      },
+      {
+        "w": "distinguish",
+        "zh": "辨別",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0028",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Loggerhead sea turtles hatch on a single beach, spend years roaming thousands of kilometres across open ocean, and then return, as adults, to nest on a beach close to where they themselves hatched. Papadopoulos and colleagues have proposed that turtles achieve this by imprinting on the unique magnetic signature of their natal beach, since the Earth's magnetic field varies slightly and predictably from place to place along a coastline.\n\nB. In a 2019 tagging study, turtles that were experimentally exposed to a magnetic field resembling a different stretch of coastline, hundreds of kilometres from their true natal beach, later attempted to nest at beaches whose magnetic signature matched the artificial field rather than their actual birthplace. Roughly 80 percent of the tagged turtles in the experimental group showed this shifted nesting preference.\n\nC. The magnetic imprinting hypothesis does not, however, explain everything about turtle navigation. Some turtles nest at beaches with magnetic signatures too similar to distinguish from several genuine candidates, and yet still choose correctly, suggesting that smell, water temperature, or wave patterns may supplement the magnetic sense in certain regions. Nevill has argued that treating magnetism as the sole mechanism risks oversimplifying a navigation system that likely draws on several senses working together.\n\nD. Papadopoulos accepts that other cues probably play a supporting role but maintains that the magnetic sense is the primary long-range mechanism, since it is the only cue reliably available far out at sea, where smell and wave patterns from a specific beach cannot travel. Conservation planners are now weighing whether coastal development that alters local magnetic infrastructure, such as large underwater cables, could disrupt nesting site selection in the future.",
+    "group_id": "NIR-G06",
+    "stem": "In paragraph D, the word 'disrupt' is closest in meaning to which of the following?",
+    "options": [
+      "interfere with or interrupt",
+      "accurately predict",
+      "strengthen or reinforce",
+      "completely ignore"
+    ],
+    "answer": 0,
+    "explain_zh": "disrupt 指「打斷、擾亂」，段落 D 擔心海底電纜的磁場可能 disrupt nesting site selection，也就是干擾選址，最接近 A。B「強化」與「擾亂」意思相反；C、D 都偏離了「造成干擾」這個核心語意。技巧：disrupt／disruption 在學術文章中常與「原本正常運作的系統被打亂」搭配出現，可與 interfere with 互相替換記憶。",
+    "vocab": [
+      {
+        "w": "disrupt",
+        "zh": "擾亂；打斷",
+        "pos": "v."
+      },
+      {
+        "w": "infrastructure",
+        "zh": "基礎設施",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0029",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Loggerhead sea turtles hatch on a single beach, spend years roaming thousands of kilometres across open ocean, and then return, as adults, to nest on a beach close to where they themselves hatched. Papadopoulos and colleagues have proposed that turtles achieve this by imprinting on the unique magnetic signature of their natal beach, since the Earth's magnetic field varies slightly and predictably from place to place along a coastline.\n\nB. In a 2019 tagging study, turtles that were experimentally exposed to a magnetic field resembling a different stretch of coastline, hundreds of kilometres from their true natal beach, later attempted to nest at beaches whose magnetic signature matched the artificial field rather than their actual birthplace. Roughly 80 percent of the tagged turtles in the experimental group showed this shifted nesting preference.\n\nC. The magnetic imprinting hypothesis does not, however, explain everything about turtle navigation. Some turtles nest at beaches with magnetic signatures too similar to distinguish from several genuine candidates, and yet still choose correctly, suggesting that smell, water temperature, or wave patterns may supplement the magnetic sense in certain regions. Nevill has argued that treating magnetism as the sole mechanism risks oversimplifying a navigation system that likely draws on several senses working together.\n\nD. Papadopoulos accepts that other cues probably play a supporting role but maintains that the magnetic sense is the primary long-range mechanism, since it is the only cue reliably available far out at sea, where smell and wave patterns from a specific beach cannot travel. Conservation planners are now weighing whether coastal development that alters local magnetic infrastructure, such as large underwater cables, could disrupt nesting site selection in the future.",
+    "group_id": "NIR-G06",
+    "stem": "Statement: In the 2019 tagging study, all of the turtles exposed to the artificial magnetic field nested at the beach matching that field.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 B 明確寫 Roughly 80 percent of the tagged turtles in the experimental group showed this shifted nesting preference，是「大約八成」而不是「全部」，題幹的 all 與原文數據直接矛盾，選 False。技巧：True/False/Not Given 題最常見的陷阱字就是 all、every、never、always 這類絕對詞，只要原文給的是比例而非全部，通常就是 False。",
+    "vocab": [
+      {
+        "w": "tagging",
+        "zh": "標記（追蹤）",
+        "pos": "n."
+      },
+      {
+        "w": "preference",
+        "zh": "偏好",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0030",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Loggerhead sea turtles hatch on a single beach, spend years roaming thousands of kilometres across open ocean, and then return, as adults, to nest on a beach close to where they themselves hatched. Papadopoulos and colleagues have proposed that turtles achieve this by imprinting on the unique magnetic signature of their natal beach, since the Earth's magnetic field varies slightly and predictably from place to place along a coastline.\n\nB. In a 2019 tagging study, turtles that were experimentally exposed to a magnetic field resembling a different stretch of coastline, hundreds of kilometres from their true natal beach, later attempted to nest at beaches whose magnetic signature matched the artificial field rather than their actual birthplace. Roughly 80 percent of the tagged turtles in the experimental group showed this shifted nesting preference.\n\nC. The magnetic imprinting hypothesis does not, however, explain everything about turtle navigation. Some turtles nest at beaches with magnetic signatures too similar to distinguish from several genuine candidates, and yet still choose correctly, suggesting that smell, water temperature, or wave patterns may supplement the magnetic sense in certain regions. Nevill has argued that treating magnetism as the sole mechanism risks oversimplifying a navigation system that likely draws on several senses working together.\n\nD. Papadopoulos accepts that other cues probably play a supporting role but maintains that the magnetic sense is the primary long-range mechanism, since it is the only cue reliably available far out at sea, where smell and wave patterns from a specific beach cannot travel. Conservation planners are now weighing whether coastal development that alters local magnetic infrastructure, such as large underwater cables, could disrupt nesting site selection in the future.",
+    "group_id": "NIR-G06",
+    "stem": "What is the writer's stance on the claim that magnetism is the sole mechanism behind turtle navigation?",
+    "options": [
+      "Uncertain whether turtles navigate purposefully at all",
+      "Dismissive of magnetic imprinting as a factor altogether",
+      "Fully convinced that magnetism explains every aspect of navigation",
+      "Sceptical that it is the sole mechanism, while accepting it as the primary long-range cue"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 引用 Nevill 質疑「只靠磁場」會過度簡化，段落 D 又指出磁場是遠距離唯一可靠線索，整體呈現「磁場是主要機制，但不是唯一機制」的立場，最接近「Sceptical that it is the sole mechanism, while accepting it as the primary long-range cue」，故選 D。A「不確定海龜到底是不是有目的地導航」與全文描述海龜精確返巢的行為矛盾，作者從未質疑海龜是有方向性地導航；B「完全否定磁場印痕是一個因素」、C「完全相信磁場能解釋導航的每個層面」都走向兩個極端，與原文的折衷立場不符。技巧：當文章同時呈現「主要原因」與「但並非全部」時，正確答案通常也要包含這兩層意思。",
+    "vocab": [
+      {
+        "w": "sceptical",
+        "zh": "懷疑的",
+        "pos": "adj."
+      },
+      {
+        "w": "dismissive",
+        "zh": "不屑一顧的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0031",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Whether the adult human brain continues to generate new neurons throughout life, a process called neurogenesis, has been debated among neuroscientists for over two decades. Early animal studies in the 1990s found clear evidence of new neuron growth in the hippocampus, a region linked to memory, in adult rodents, and researchers assumed a similar process likely occurred in humans.\n\nB. In 2018, a study led by Kessler examined post-mortem brain tissue from donors aged between 18 and 77 and reported markers of new neuron formation even in the oldest samples, though the number of newly formed cells declined sharply with age. The same year, a separate study led by Alvarado examined a different set of donor brains using a different tissue preparation method and found no reliable evidence of new neurons after adolescence.\n\nC. The contradiction appears to stem partly from technical differences rather than a simple right-or-wrong outcome. Markers used to identify young neurons can degrade depending on how quickly tissue is preserved after death, and donors in the two studies differed in cause of death and time between death and preservation. Kessler has argued that Alvarado's samples may have been affected by longer preservation delays, while Alvarado maintains that Kessler's markers may have picked up signals from cells other than true new neurons.\n\nD. Most researchers in the field now treat the question as unresolved rather than settled in either direction, and several groups are developing methods that do not rely on post-mortem tissue at all, using instead chemical tracers that can, in principle, be measured in living volunteers. Until such methods are validated, claims about adult neurogenesis in humans are likely to remain, as one review put it, 'plausible but not proven.'",
+    "group_id": "NIR-G07",
+    "stem": "What overall topic does the passage address?",
+    "options": [
+      "A step-by-step description of how to preserve brain tissue after death",
+      "An unresolved scientific debate over whether new neurons form in the adult human brain",
+      "Proof that adult humans never generate any new brain cells",
+      "An argument that rodent studies are entirely useless for human research"
+    ],
+    "answer": 1,
+    "explain_zh": "全文描述兩派研究結果矛盾、可能的技術原因，以及目前學界「尚未定論」的立場，主旨最接近「An unresolved scientific debate over whether new neurons form in the adult human brain」，故選 B。A「一步步說明死後如何保存腦組織的步驟」只是段落 C 提到的技術細節，不是全文主軸；C「證明成年人類絕不會產生任何新腦細胞」與段落 B 中 Kessler 的研究發現相反；D「主張齧齒類研究對人類研究完全沒有用」段落 A 說明齧齒類研究是這個議題的起點，並未被批評為無用。技巧：當文章描述「兩派研究互相矛盾，最後結論是尚無定論」時，主旨通常就是這個「未解之爭」本身。",
+    "vocab": [
+      {
+        "w": "neurogenesis",
+        "zh": "神經新生",
+        "pos": "n."
+      },
+      {
+        "w": "hippocampus",
+        "zh": "海馬迴",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0032",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Whether the adult human brain continues to generate new neurons throughout life, a process called neurogenesis, has been debated among neuroscientists for over two decades. Early animal studies in the 1990s found clear evidence of new neuron growth in the hippocampus, a region linked to memory, in adult rodents, and researchers assumed a similar process likely occurred in humans.\n\nB. In 2018, a study led by Kessler examined post-mortem brain tissue from donors aged between 18 and 77 and reported markers of new neuron formation even in the oldest samples, though the number of newly formed cells declined sharply with age. The same year, a separate study led by Alvarado examined a different set of donor brains using a different tissue preparation method and found no reliable evidence of new neurons after adolescence.\n\nC. The contradiction appears to stem partly from technical differences rather than a simple right-or-wrong outcome. Markers used to identify young neurons can degrade depending on how quickly tissue is preserved after death, and donors in the two studies differed in cause of death and time between death and preservation. Kessler has argued that Alvarado's samples may have been affected by longer preservation delays, while Alvarado maintains that Kessler's markers may have picked up signals from cells other than true new neurons.\n\nD. Most researchers in the field now treat the question as unresolved rather than settled in either direction, and several groups are developing methods that do not rely on post-mortem tissue at all, using instead chemical tracers that can, in principle, be measured in living volunteers. Until such methods are validated, claims about adult neurogenesis in humans are likely to remain, as one review put it, 'plausible but not proven.'",
+    "group_id": "NIR-G07",
+    "stem": "According to the passage, what age range did the donors in Kessler's 2018 study fall into?",
+    "options": [
+      "The passage does not specify an age range",
+      "Between 18 and 77",
+      "Between 40 and 77",
+      "Between 18 and 27"
+    ],
+    "answer": 1,
+    "explain_zh": "段落 B 寫 post-mortem brain tissue from donors aged between 18 and 77，故選「Between 18 and 77」（B）。其餘選項都是把上下限數字改小或省略其中一個，屬於常見的數字誘答。技巧：年齡區間題要同時核對「下限」與「上限」兩個數字，只對一半仍算錯。",
+    "vocab": [
+      {
+        "w": "donor",
+        "zh": "（大體、器官）捐贈者",
+        "pos": "n."
+      },
+      {
+        "w": "marker",
+        "zh": "標記物",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0033",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Whether the adult human brain continues to generate new neurons throughout life, a process called neurogenesis, has been debated among neuroscientists for over two decades. Early animal studies in the 1990s found clear evidence of new neuron growth in the hippocampus, a region linked to memory, in adult rodents, and researchers assumed a similar process likely occurred in humans.\n\nB. In 2018, a study led by Kessler examined post-mortem brain tissue from donors aged between 18 and 77 and reported markers of new neuron formation even in the oldest samples, though the number of newly formed cells declined sharply with age. The same year, a separate study led by Alvarado examined a different set of donor brains using a different tissue preparation method and found no reliable evidence of new neurons after adolescence.\n\nC. The contradiction appears to stem partly from technical differences rather than a simple right-or-wrong outcome. Markers used to identify young neurons can degrade depending on how quickly tissue is preserved after death, and donors in the two studies differed in cause of death and time between death and preservation. Kessler has argued that Alvarado's samples may have been affected by longer preservation delays, while Alvarado maintains that Kessler's markers may have picked up signals from cells other than true new neurons.\n\nD. Most researchers in the field now treat the question as unresolved rather than settled in either direction, and several groups are developing methods that do not rely on post-mortem tissue at all, using instead chemical tracers that can, in principle, be measured in living volunteers. Until such methods are validated, claims about adult neurogenesis in humans are likely to remain, as one review put it, 'plausible but not proven.'",
+    "group_id": "NIR-G07",
+    "stem": "In paragraph D, the phrase 'plausible but not proven' most nearly means which of the following?",
+    "options": [
+      "reasonably believable, yet not confirmed with certainty",
+      "irrelevant to the current scientific debate",
+      "completely false and without any supporting evidence",
+      "definitively established beyond any doubt"
+    ],
+    "answer": 0,
+    "explain_zh": "plausible 指「看似合理、可信」，proven 指「被證實」，加上 not 就是「可信但尚未被證實」，最接近 A。B 把「尚未證實」誤讀成「完全錯誤」；C 與 not proven 直接矛盾；D 與整段強調此議題仍受關注的語氣不符。技巧：plausible 常出現在學術文章總結處，表示「合理但保留」，是雅思閱讀的高頻詞彙。",
+    "vocab": [
+      {
+        "w": "plausible",
+        "zh": "看似合理的",
+        "pos": "adj."
+      },
+      {
+        "w": "validate",
+        "zh": "驗證",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0034",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Whether the adult human brain continues to generate new neurons throughout life, a process called neurogenesis, has been debated among neuroscientists for over two decades. Early animal studies in the 1990s found clear evidence of new neuron growth in the hippocampus, a region linked to memory, in adult rodents, and researchers assumed a similar process likely occurred in humans.\n\nB. In 2018, a study led by Kessler examined post-mortem brain tissue from donors aged between 18 and 77 and reported markers of new neuron formation even in the oldest samples, though the number of newly formed cells declined sharply with age. The same year, a separate study led by Alvarado examined a different set of donor brains using a different tissue preparation method and found no reliable evidence of new neurons after adolescence.\n\nC. The contradiction appears to stem partly from technical differences rather than a simple right-or-wrong outcome. Markers used to identify young neurons can degrade depending on how quickly tissue is preserved after death, and donors in the two studies differed in cause of death and time between death and preservation. Kessler has argued that Alvarado's samples may have been affected by longer preservation delays, while Alvarado maintains that Kessler's markers may have picked up signals from cells other than true new neurons.\n\nD. Most researchers in the field now treat the question as unresolved rather than settled in either direction, and several groups are developing methods that do not rely on post-mortem tissue at all, using instead chemical tracers that can, in principle, be measured in living volunteers. Until such methods are validated, claims about adult neurogenesis in humans are likely to remain, as one review put it, 'plausible but not proven.'",
+    "group_id": "NIR-G07",
+    "stem": "Statement: Alvarado's 2018 study used exactly the same tissue preparation method as Kessler's study.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 B 寫 a separate study led by Alvarado examined a different set of donor brains using a different tissue preparation method，明確指出兩者方法不同，與題幹「完全相同」直接矛盾，選 False。技巧：題幹中的 exactly the same 這類強調「完全一致」的字眼，只要原文用了 different 來對照，就可以直接判定為 False。",
+    "vocab": [
+      {
+        "w": "preparation",
+        "zh": "（樣本）製備",
+        "pos": "n."
+      },
+      {
+        "w": "preserve",
+        "zh": "保存",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0035",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Whether the adult human brain continues to generate new neurons throughout life, a process called neurogenesis, has been debated among neuroscientists for over two decades. Early animal studies in the 1990s found clear evidence of new neuron growth in the hippocampus, a region linked to memory, in adult rodents, and researchers assumed a similar process likely occurred in humans.\n\nB. In 2018, a study led by Kessler examined post-mortem brain tissue from donors aged between 18 and 77 and reported markers of new neuron formation even in the oldest samples, though the number of newly formed cells declined sharply with age. The same year, a separate study led by Alvarado examined a different set of donor brains using a different tissue preparation method and found no reliable evidence of new neurons after adolescence.\n\nC. The contradiction appears to stem partly from technical differences rather than a simple right-or-wrong outcome. Markers used to identify young neurons can degrade depending on how quickly tissue is preserved after death, and donors in the two studies differed in cause of death and time between death and preservation. Kessler has argued that Alvarado's samples may have been affected by longer preservation delays, while Alvarado maintains that Kessler's markers may have picked up signals from cells other than true new neurons.\n\nD. Most researchers in the field now treat the question as unresolved rather than settled in either direction, and several groups are developing methods that do not rely on post-mortem tissue at all, using instead chemical tracers that can, in principle, be measured in living volunteers. Until such methods are validated, claims about adult neurogenesis in humans are likely to remain, as one review put it, 'plausible but not proven.'",
+    "group_id": "NIR-G07",
+    "stem": "Which paragraph suggests that technical differences between the two studies, rather than a simple right-or-wrong result, may explain the contradiction?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 開頭就寫 The contradiction appears to stem partly from technical differences rather than a simple right-or-wrong outcome，答案是 Paragraph C。段落 A、B 在描述背景與兩項研究本身的結果；段落 D 談的是未來研究方向與目前共識。技巧：段落配對題常見策略是先把題幹關鍵詞（technical differences、contradiction）在各段落找同義詞，段落主題句通常就是最佳線索。",
+    "vocab": [
+      {
+        "w": "stem from",
+        "zh": "源自於",
+        "pos": "phr."
+      },
+      {
+        "w": "contradiction",
+        "zh": "矛盾",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0036",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. No-till farming, in which fields are planted without ploughing the soil beforehand, has been promoted for decades as a way to reduce erosion and, more recently, as a method of storing additional carbon in the soil. Achebe and colleagues compiled data from 48 long-term trial sites across three continents to test how consistently this carbon benefit actually appears.\n\nB. The compiled data showed that, on average, no-till fields stored about 12 percent more organic carbon in the top 15 centimetres of soil compared with matched fields that were ploughed conventionally. However, the benefit was far from uniform: roughly a third of the sites showed little or no measurable difference, and a small number actually showed slightly lower carbon in the no-till fields.\n\nC. Achebe suggests that climate and soil type explain much of this variation. In cooler, wetter regions, undisturbed soil tends to retain organic material more effectively, whereas in warmer regions, the same undisturbed conditions can favour microbial activity that breaks organic matter down faster than it accumulates, partly offsetting the expected gain. Measurement depth also mattered: several of the sites showing no benefit had measured carbon only in the top 15 centimetres, while additional sampling at greater depth sometimes revealed carbon accumulating lower in the soil profile instead.\n\nD. The findings do not overturn the case for no-till farming, since reduced erosion and improved soil structure remain well supported regardless of the carbon question. But Achebe cautions policymakers against treating no-till adoption as a guaranteed, uniform tool for carbon storage, arguing that regional soil surveys should precede any large-scale programme that pays farmers specifically for the carbon benefit.",
+    "group_id": "NIR-G08",
+    "stem": "On average, how much more organic carbon did no-till fields store in the top 15 centimetres compared with conventionally ploughed fields?",
+    "options": [
+      "About 48 percent more",
+      "About 21 percent more",
+      "No difference was found on average",
+      "About 12 percent more"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 B 明確寫 no-till fields stored about 12 percent more organic carbon，故選「About 12 percent more」（D）。21 percent 是數字顛倒的誘答；48 percent 其實是段落 A 提到的「試驗地點數量」，不是碳含量增加的比例；文章確實有測到平均差異，並非沒有差異。技巧：文章中出現多個數字時（48 個地點、12%、15 公分），要對應清楚每個數字代表的是「什麼的數量」。",
+    "vocab": [
+      {
+        "w": "erosion",
+        "zh": "（土壤）侵蝕",
+        "pos": "n."
+      },
+      {
+        "w": "organic carbon",
+        "zh": "有機碳",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0037",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. No-till farming, in which fields are planted without ploughing the soil beforehand, has been promoted for decades as a way to reduce erosion and, more recently, as a method of storing additional carbon in the soil. Achebe and colleagues compiled data from 48 long-term trial sites across three continents to test how consistently this carbon benefit actually appears.\n\nB. The compiled data showed that, on average, no-till fields stored about 12 percent more organic carbon in the top 15 centimetres of soil compared with matched fields that were ploughed conventionally. However, the benefit was far from uniform: roughly a third of the sites showed little or no measurable difference, and a small number actually showed slightly lower carbon in the no-till fields.\n\nC. Achebe suggests that climate and soil type explain much of this variation. In cooler, wetter regions, undisturbed soil tends to retain organic material more effectively, whereas in warmer regions, the same undisturbed conditions can favour microbial activity that breaks organic matter down faster than it accumulates, partly offsetting the expected gain. Measurement depth also mattered: several of the sites showing no benefit had measured carbon only in the top 15 centimetres, while additional sampling at greater depth sometimes revealed carbon accumulating lower in the soil profile instead.\n\nD. The findings do not overturn the case for no-till farming, since reduced erosion and improved soil structure remain well supported regardless of the carbon question. But Achebe cautions policymakers against treating no-till adoption as a guaranteed, uniform tool for carbon storage, arguing that regional soil surveys should precede any large-scale programme that pays farmers specifically for the carbon benefit.",
+    "group_id": "NIR-G08",
+    "stem": "What can be inferred about why some sites showed no measurable carbon benefit from no-till farming?",
+    "options": [
+      "No-till farming provides no benefits of any kind at those sites.",
+      "Those sites were the only ones included in Achebe's study.",
+      "Ploughed fields always store more carbon than no-till fields everywhere.",
+      "Regional climate, soil type, or shallow measurement depth may have masked a real benefit."
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 解釋氣候、土壤類型與測量深度都可能導致「看似沒有效果」，例如碳可能累積在更深層而未被採樣測到，最接近「Regional climate, soil type, or shallow measurement depth may have masked a real benefit」，故選 D。A「免耕農法在那些地點完全沒有任何好處」過度推翻，段落 D 明確說 no-till 在減少侵蝕、改善土壤結構上仍有支持；B「那些地點是研究中唯一納入的地點」段落 A 說研究涵蓋 48 個地點，不只是無效果的那些；C「犁耕田在任何地方碳儲存量都一定比較高」與段落 B 的平均結果（no-till 平均較高）相反。技巧：推論題要留意「測量方法本身的侷限」也可能是造成某些結果看似矛盾的原因。",
+    "vocab": [
+      {
+        "w": "offset",
+        "zh": "抵銷",
+        "pos": "v."
+      },
+      {
+        "w": "accumulate",
+        "zh": "累積",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0038",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. No-till farming, in which fields are planted without ploughing the soil beforehand, has been promoted for decades as a way to reduce erosion and, more recently, as a method of storing additional carbon in the soil. Achebe and colleagues compiled data from 48 long-term trial sites across three continents to test how consistently this carbon benefit actually appears.\n\nB. The compiled data showed that, on average, no-till fields stored about 12 percent more organic carbon in the top 15 centimetres of soil compared with matched fields that were ploughed conventionally. However, the benefit was far from uniform: roughly a third of the sites showed little or no measurable difference, and a small number actually showed slightly lower carbon in the no-till fields.\n\nC. Achebe suggests that climate and soil type explain much of this variation. In cooler, wetter regions, undisturbed soil tends to retain organic material more effectively, whereas in warmer regions, the same undisturbed conditions can favour microbial activity that breaks organic matter down faster than it accumulates, partly offsetting the expected gain. Measurement depth also mattered: several of the sites showing no benefit had measured carbon only in the top 15 centimetres, while additional sampling at greater depth sometimes revealed carbon accumulating lower in the soil profile instead.\n\nD. The findings do not overturn the case for no-till farming, since reduced erosion and improved soil structure remain well supported regardless of the carbon question. But Achebe cautions policymakers against treating no-till adoption as a guaranteed, uniform tool for carbon storage, arguing that regional soil surveys should precede any large-scale programme that pays farmers specifically for the carbon benefit.",
+    "group_id": "NIR-G08",
+    "stem": "Statement: Achebe's findings show that no-till farming provides no benefit for reducing soil erosion.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 D 明確寫 reduced erosion and improved soil structure remain well supported regardless of the carbon question，也就是說即使碳儲存效果不穩定，減少侵蝕的好處依然成立，題幹說法與原文直接矛盾，選 False。技巧：文章質疑的是「碳儲存效果是否穩定」，不是「免耕農法完全沒用」，作答時要精確區分被質疑的到底是哪一項好處。",
+    "vocab": [
+      {
+        "w": "soil structure",
+        "zh": "土壤結構",
+        "pos": "n."
+      },
+      {
+        "w": "adoption",
+        "zh": "採用",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0039",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. No-till farming, in which fields are planted without ploughing the soil beforehand, has been promoted for decades as a way to reduce erosion and, more recently, as a method of storing additional carbon in the soil. Achebe and colleagues compiled data from 48 long-term trial sites across three continents to test how consistently this carbon benefit actually appears.\n\nB. The compiled data showed that, on average, no-till fields stored about 12 percent more organic carbon in the top 15 centimetres of soil compared with matched fields that were ploughed conventionally. However, the benefit was far from uniform: roughly a third of the sites showed little or no measurable difference, and a small number actually showed slightly lower carbon in the no-till fields.\n\nC. Achebe suggests that climate and soil type explain much of this variation. In cooler, wetter regions, undisturbed soil tends to retain organic material more effectively, whereas in warmer regions, the same undisturbed conditions can favour microbial activity that breaks organic matter down faster than it accumulates, partly offsetting the expected gain. Measurement depth also mattered: several of the sites showing no benefit had measured carbon only in the top 15 centimetres, while additional sampling at greater depth sometimes revealed carbon accumulating lower in the soil profile instead.\n\nD. The findings do not overturn the case for no-till farming, since reduced erosion and improved soil structure remain well supported regardless of the carbon question. But Achebe cautions policymakers against treating no-till adoption as a guaranteed, uniform tool for carbon storage, arguing that regional soil surveys should precede any large-scale programme that pays farmers specifically for the carbon benefit.",
+    "group_id": "NIR-G08",
+    "stem": "Which paragraph explains that climate and soil type may account for the inconsistent results?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 開頭寫 Achebe suggests that climate and soil type explain much of this variation，正是解釋結果不一致的原因，答案是 Paragraph C。段落 A 介紹研究背景；段落 B 呈現整體數據結果；段落 D 則是政策建議。技巧：先看題幹的關鍵詞「climate and soil type」，再掃描各段落找同義或直接對應的詞語。",
+    "vocab": [
+      {
+        "w": "microbial",
+        "zh": "微生物的",
+        "pos": "adj."
+      },
+      {
+        "w": "profile",
+        "zh": "（土壤）剖面",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0040",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. No-till farming, in which fields are planted without ploughing the soil beforehand, has been promoted for decades as a way to reduce erosion and, more recently, as a method of storing additional carbon in the soil. Achebe and colleagues compiled data from 48 long-term trial sites across three continents to test how consistently this carbon benefit actually appears.\n\nB. The compiled data showed that, on average, no-till fields stored about 12 percent more organic carbon in the top 15 centimetres of soil compared with matched fields that were ploughed conventionally. However, the benefit was far from uniform: roughly a third of the sites showed little or no measurable difference, and a small number actually showed slightly lower carbon in the no-till fields.\n\nC. Achebe suggests that climate and soil type explain much of this variation. In cooler, wetter regions, undisturbed soil tends to retain organic material more effectively, whereas in warmer regions, the same undisturbed conditions can favour microbial activity that breaks organic matter down faster than it accumulates, partly offsetting the expected gain. Measurement depth also mattered: several of the sites showing no benefit had measured carbon only in the top 15 centimetres, while additional sampling at greater depth sometimes revealed carbon accumulating lower in the soil profile instead.\n\nD. The findings do not overturn the case for no-till farming, since reduced erosion and improved soil structure remain well supported regardless of the carbon question. But Achebe cautions policymakers against treating no-till adoption as a guaranteed, uniform tool for carbon storage, arguing that regional soil surveys should precede any large-scale programme that pays farmers specifically for the carbon benefit.",
+    "group_id": "NIR-G08",
+    "stem": "What is Achebe's overall message to policymakers, according to the passage?",
+    "options": [
+      "They should ignore soil type when designing carbon payment schemes.",
+      "They should abandon no-till farming programmes entirely.",
+      "They should not treat no-till farming as a guaranteed, uniform source of carbon storage without regional surveys.",
+      "They should assume every region will show the same 12 percent carbon increase."
+    ],
+    "answer": 2,
+    "explain_zh": "段落 D 明確寫 Achebe cautions policymakers against treating no-till adoption as a guaranteed, uniform tool for carbon storage, arguing that regional soil surveys should precede any large-scale programme，最接近「They should not treat no-till farming as a guaranteed, uniform source of carbon storage without regional surveys」，故選 C。A「設計碳補貼方案時應忽略土壤類型」與 Achebe 的建議方向相反，她正是要政策者重視土壤類型的差異；B「應該完全放棄免耕農法計畫」過度極端，文章沒有建議放棄免耕農法；D「應該假設每個地區都會出現一樣的 12% 碳增加」忽略了段落 B 明確指出效果「並不一致」。技巧：作者觀點題的答案常常就是文章最後一段的建議句，注意 caution against、argue that 等提示動詞。",
+    "vocab": [
+      {
+        "w": "caution against",
+        "zh": "提醒不要…",
+        "pos": "phr."
+      },
+      {
+        "w": "guaranteed",
+        "zh": "保證的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0041",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Solid-state batteries, which replace the liquid electrolyte in conventional lithium-ion cells with a solid material, have been promoted as a safer and higher-capacity alternative for electric vehicles. Lindqvist and colleagues published a 2023 review estimating that solid-state designs could, in principle, store roughly 40 percent more energy by weight than the best current lithium-ion cells.\n\nB. The main obstacle has been a phenomenon known as dendrite formation: needle-like structures of lithium metal that can grow through the solid electrolyte during repeated charging and discharging, eventually creating a short circuit inside the cell. In liquid-electrolyte batteries this problem is less severe because the liquid can, to some extent, absorb the uneven growth; solid electrolytes have no such flexibility.\n\nC. Lindqvist's review reports that several laboratory prototypes have achieved several hundred charge cycles without failure by using a ceramic electrolyte with a carefully controlled microstructure, up from fewer than fifty cycles in early designs a decade ago. However, laboratory results achieved under controlled temperature and pressure have not always translated into similar performance when cells are tested under the more variable conditions of an actual vehicle.\n\nD. Manufacturers remain divided on timelines. Some have announced plans to introduce limited solid-state models within the next few years, while others, citing the gap between laboratory and real-world performance, expect meaningful mass production to be at least a decade away. Lindqvist herself declines to predict a date, noting that similar battery technologies have previously taken far longer to reach market than early announcements suggested.",
+    "group_id": "NIR-G09",
+    "stem": "Which statement best captures the main idea of the passage?",
+    "options": [
+      "The promise and remaining technical obstacles of solid-state batteries for electric vehicles",
+      "Proof that solid-state batteries have already replaced lithium-ion batteries in most vehicles",
+      "A history of how liquid-electrolyte batteries were first invented",
+      "An argument that dendrite formation makes solid-state batteries completely unusable"
+    ],
+    "answer": 0,
+    "explain_zh": "全文先介紹固態電池的潛力（多40%能量密度），再詳述技術瓶頸（枝晶問題）與進展，最後說明廠商對時程仍有分歧，主旨是 A：兼具前景與待解決的技術障礙。B 與段落 D 提到「量產時程仍有爭議」矛盾；C 文章沒有談液態電池的發明史；D 段落 C 顯示枝晶問題已有實驗室突破，並非「完全不可用」。技巧：主旨題要能同時涵蓋「優點」與「限制」兩個面向，不能只選其中一邊。",
+    "vocab": [
+      {
+        "w": "electrolyte",
+        "zh": "電解質",
+        "pos": "n."
+      },
+      {
+        "w": "dendrite",
+        "zh": "（金屬）枝晶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0042",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Solid-state batteries, which replace the liquid electrolyte in conventional lithium-ion cells with a solid material, have been promoted as a safer and higher-capacity alternative for electric vehicles. Lindqvist and colleagues published a 2023 review estimating that solid-state designs could, in principle, store roughly 40 percent more energy by weight than the best current lithium-ion cells.\n\nB. The main obstacle has been a phenomenon known as dendrite formation: needle-like structures of lithium metal that can grow through the solid electrolyte during repeated charging and discharging, eventually creating a short circuit inside the cell. In liquid-electrolyte batteries this problem is less severe because the liquid can, to some extent, absorb the uneven growth; solid electrolytes have no such flexibility.\n\nC. Lindqvist's review reports that several laboratory prototypes have achieved several hundred charge cycles without failure by using a ceramic electrolyte with a carefully controlled microstructure, up from fewer than fifty cycles in early designs a decade ago. However, laboratory results achieved under controlled temperature and pressure have not always translated into similar performance when cells are tested under the more variable conditions of an actual vehicle.\n\nD. Manufacturers remain divided on timelines. Some have announced plans to introduce limited solid-state models within the next few years, while others, citing the gap between laboratory and real-world performance, expect meaningful mass production to be at least a decade away. Lindqvist herself declines to predict a date, noting that similar battery technologies have previously taken far longer to reach market than early announcements suggested.",
+    "group_id": "NIR-G09",
+    "stem": "What can be inferred about why liquid-electrolyte batteries are less affected by dendrite formation?",
+    "options": [
+      "Liquid-electrolyte batteries store less energy, so dendrites cannot grow.",
+      "Liquid electrolytes never allow any lithium metal to form at all.",
+      "The liquid can partly absorb uneven lithium growth, unlike a rigid solid electrolyte.",
+      "Dendrite formation only occurs in solid-state batteries and nowhere else."
+    ],
+    "answer": 2,
+    "explain_zh": "段落 B 說 the liquid can, to some extent, absorb the uneven growth; solid electrolytes have no such flexibility，可推知液態電解質之所以受影響較小，是因為它能吸收不均勻生長的空間，最接近「The liquid can partly absorb uneven lithium growth, unlike a rigid solid electrolyte」，故選 C。A「液態電池儲存的能量較少，所以枝晶無法生長」原文沒有提到能量密度與枝晶生長之間的這種因果關係；B「液態電解質完全不會讓任何鋰金屬形成」過度絕對，原文只說「較不嚴重」而非「完全不會有鋰金屬形成」；D「枝晶只會在固態電池中出現，其他地方都不會」段落 B 的語氣是「較不嚴重」而非「只發生在固態」。技巧：推論題常考「為什麼 A 比 B 更能承受某個問題」，答案通常藏在描述兩者物理特性差異的句子裡。",
+    "vocab": [
+      {
+        "w": "flexibility",
+        "zh": "彈性；柔韌性",
+        "pos": "n."
+      },
+      {
+        "w": "short circuit",
+        "zh": "短路",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0043",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Solid-state batteries, which replace the liquid electrolyte in conventional lithium-ion cells with a solid material, have been promoted as a safer and higher-capacity alternative for electric vehicles. Lindqvist and colleagues published a 2023 review estimating that solid-state designs could, in principle, store roughly 40 percent more energy by weight than the best current lithium-ion cells.\n\nB. The main obstacle has been a phenomenon known as dendrite formation: needle-like structures of lithium metal that can grow through the solid electrolyte during repeated charging and discharging, eventually creating a short circuit inside the cell. In liquid-electrolyte batteries this problem is less severe because the liquid can, to some extent, absorb the uneven growth; solid electrolytes have no such flexibility.\n\nC. Lindqvist's review reports that several laboratory prototypes have achieved several hundred charge cycles without failure by using a ceramic electrolyte with a carefully controlled microstructure, up from fewer than fifty cycles in early designs a decade ago. However, laboratory results achieved under controlled temperature and pressure have not always translated into similar performance when cells are tested under the more variable conditions of an actual vehicle.\n\nD. Manufacturers remain divided on timelines. Some have announced plans to introduce limited solid-state models within the next few years, while others, citing the gap between laboratory and real-world performance, expect meaningful mass production to be at least a decade away. Lindqvist herself declines to predict a date, noting that similar battery technologies have previously taken far longer to reach market than early announcements suggested.",
+    "group_id": "NIR-G09",
+    "stem": "In paragraph D, the word 'divided' is closest in meaning to which of the following?",
+    "options": [
+      "holding differing opinions among themselves",
+      "in complete and unanimous agreement",
+      "financially unable to continue research",
+      "legally prohibited from making predictions"
+    ],
+    "answer": 0,
+    "explain_zh": "divided 在此指「意見分歧」，段落 D 說 Manufacturers remain divided on timelines，接著描述有人樂觀、有人保守，最接近 A。B「完全一致同意」與 divided 意思相反；C、D 都是原文沒有提及的臆測。技巧：divided 用來形容一群人時，通常表示「陣營分裂、看法不一」，常與 opinion、view、timeline 等名詞搭配。",
+    "vocab": [
+      {
+        "w": "divided",
+        "zh": "意見分歧的",
+        "pos": "adj."
+      },
+      {
+        "w": "prototype",
+        "zh": "原型；試作品",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0044",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Solid-state batteries, which replace the liquid electrolyte in conventional lithium-ion cells with a solid material, have been promoted as a safer and higher-capacity alternative for electric vehicles. Lindqvist and colleagues published a 2023 review estimating that solid-state designs could, in principle, store roughly 40 percent more energy by weight than the best current lithium-ion cells.\n\nB. The main obstacle has been a phenomenon known as dendrite formation: needle-like structures of lithium metal that can grow through the solid electrolyte during repeated charging and discharging, eventually creating a short circuit inside the cell. In liquid-electrolyte batteries this problem is less severe because the liquid can, to some extent, absorb the uneven growth; solid electrolytes have no such flexibility.\n\nC. Lindqvist's review reports that several laboratory prototypes have achieved several hundred charge cycles without failure by using a ceramic electrolyte with a carefully controlled microstructure, up from fewer than fifty cycles in early designs a decade ago. However, laboratory results achieved under controlled temperature and pressure have not always translated into similar performance when cells are tested under the more variable conditions of an actual vehicle.\n\nD. Manufacturers remain divided on timelines. Some have announced plans to introduce limited solid-state models within the next few years, while others, citing the gap between laboratory and real-world performance, expect meaningful mass production to be at least a decade away. Lindqvist herself declines to predict a date, noting that similar battery technologies have previously taken far longer to reach market than early announcements suggested.",
+    "group_id": "NIR-G09",
+    "stem": "Which paragraph reports an improvement in the number of charge cycles achieved by laboratory prototypes?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 提到 several hundred charge cycles without failure... up from fewer than fifty cycles in early designs a decade ago，正是描述充放電循環次數的進步，答案是 Paragraph C。段落 A 介紹整體潛力；段落 B 解釋枝晶問題本身；段落 D 討論廠商對量產時程的分歧。技巧：找「數據隨時間改善」的段落，留意 up from、compared with 這類表示前後對比的用語。",
+    "vocab": [
+      {
+        "w": "microstructure",
+        "zh": "微結構",
+        "pos": "n."
+      },
+      {
+        "w": "charge cycle",
+        "zh": "充放電循環",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0045",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Solid-state batteries, which replace the liquid electrolyte in conventional lithium-ion cells with a solid material, have been promoted as a safer and higher-capacity alternative for electric vehicles. Lindqvist and colleagues published a 2023 review estimating that solid-state designs could, in principle, store roughly 40 percent more energy by weight than the best current lithium-ion cells.\n\nB. The main obstacle has been a phenomenon known as dendrite formation: needle-like structures of lithium metal that can grow through the solid electrolyte during repeated charging and discharging, eventually creating a short circuit inside the cell. In liquid-electrolyte batteries this problem is less severe because the liquid can, to some extent, absorb the uneven growth; solid electrolytes have no such flexibility.\n\nC. Lindqvist's review reports that several laboratory prototypes have achieved several hundred charge cycles without failure by using a ceramic electrolyte with a carefully controlled microstructure, up from fewer than fifty cycles in early designs a decade ago. However, laboratory results achieved under controlled temperature and pressure have not always translated into similar performance when cells are tested under the more variable conditions of an actual vehicle.\n\nD. Manufacturers remain divided on timelines. Some have announced plans to introduce limited solid-state models within the next few years, while others, citing the gap between laboratory and real-world performance, expect meaningful mass production to be at least a decade away. Lindqvist herself declines to predict a date, noting that similar battery technologies have previously taken far longer to reach market than early announcements suggested.",
+    "group_id": "NIR-G09",
+    "stem": "What is Lindqvist's attitude towards predicting when solid-state batteries will reach mass production?",
+    "options": [
+      "Certain that mass production will never happen at all",
+      "Cautious, given that similar technologies have taken longer than early predictions suggested",
+      "Confident that mass production will happen within the next two years",
+      "Indifferent, since she believes the question is unimportant"
+    ],
+    "answer": 1,
+    "explain_zh": "段落 D 寫 Lindqvist herself declines to predict a date, noting that similar battery technologies have previously taken far longer to reach market than early announcements suggested，顯示她態度謹慎、不願打包票，最接近「Cautious, given that similar technologies have taken longer than early predictions suggested」，故選 B。A「確定量產永遠不會發生」過度負面，她並未否定量產的可能性，只是不願預測時間；C「有信心量產會在兩年內發生」與她「拒絕預測日期」矛盾；D「毫不在乎，認為這個問題不重要」與她特別提出歷史經驗作為理由的行為矛盾，顯示她其實很重視這個問題。技巧：當受訪者「拒絕給出明確答案」並提出歷史前例作為理由時，通常代表態度是「謹慎保留」而非「毫不在乎」。",
+    "vocab": [
+      {
+        "w": "decline",
+        "zh": "婉拒",
+        "pos": "v."
+      },
+      {
+        "w": "timeline",
+        "zh": "時程",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0046",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Wastewater surveillance, which involves testing sewage for traces of viral genetic material, expanded rapidly as a public health tool after 2020. Because infected individuals shed virus in faeces regardless of whether they show symptoms or seek testing, Nkemelu and colleagues have argued that sewage sampling can reveal outbreak trends days before they appear in clinical case counts.\n\nB. In a study covering 34 treatment plants over 18 months, Nkemelu's team found that increases in viral concentration in wastewater preceded corresponding rises in hospital admissions by an average of six days. The method proved especially useful in areas where clinical testing rates had declined, since it does not depend on individuals choosing to get tested.\n\nC. The approach has clear limitations. Viral concentration in sewage is affected by rainfall, which dilutes samples, and by the size and demographic makeup of the population served by a given treatment plant, both of which make comparisons between different locations difficult without careful statistical adjustment. Sewage data also cannot identify who is infected, only that infection is present somewhere in the area, which limits its usefulness for directing treatment to specific individuals.\n\nD. Nkemelu maintains that these limitations do not undermine the method's core value as an early-warning system rather than a diagnostic tool. Several health authorities have since incorporated wastewater data into routine outbreak monitoring, using it alongside, rather than instead of, clinical testing, to flag rising trends before they become visible in hospital data.",
+    "group_id": "NIR-G10",
+    "stem": "What is the central topic of the passage?",
+    "options": [
+      "A description of how sewage treatment plants physically operate",
+      "The usefulness and limitations of wastewater surveillance as an early-warning tool for disease outbreaks",
+      "Proof that wastewater surveillance can identify exactly which individuals are infected",
+      "An argument that clinical testing should be abandoned entirely in favour of sewage sampling"
+    ],
+    "answer": 1,
+    "explain_zh": "全文說明污水監測能提前預警疫情趨勢，同時列出其限制（降雨稀釋、無法定位個人），最後強調它是「早期預警工具」而非「診斷工具」，主旨最接近「The usefulness and limitations of wastewater surveillance as an early-warning tool for disease outbreaks」，故選 B。A「描述污水處理廠的實際運作方式」文章沒有描述污水廠的運作原理；C「證明污水監測能精確辨識出是哪些人被感染」與段落 C「無法定位個人」直接矛盾；D「主張應該完全放棄臨床檢測，改用污水採樣」段落 D 明確說是「搭配」而非「取代」臨床檢測。技巧：主旨題遇到「工具的用途與限制」類文章，答案通常會同時提到「有用」與「有限制」兩個面向。",
+    "vocab": [
+      {
+        "w": "surveillance",
+        "zh": "監測",
+        "pos": "n."
+      },
+      {
+        "w": "shed",
+        "zh": "（病毒）排出",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0047",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Wastewater surveillance, which involves testing sewage for traces of viral genetic material, expanded rapidly as a public health tool after 2020. Because infected individuals shed virus in faeces regardless of whether they show symptoms or seek testing, Nkemelu and colleagues have argued that sewage sampling can reveal outbreak trends days before they appear in clinical case counts.\n\nB. In a study covering 34 treatment plants over 18 months, Nkemelu's team found that increases in viral concentration in wastewater preceded corresponding rises in hospital admissions by an average of six days. The method proved especially useful in areas where clinical testing rates had declined, since it does not depend on individuals choosing to get tested.\n\nC. The approach has clear limitations. Viral concentration in sewage is affected by rainfall, which dilutes samples, and by the size and demographic makeup of the population served by a given treatment plant, both of which make comparisons between different locations difficult without careful statistical adjustment. Sewage data also cannot identify who is infected, only that infection is present somewhere in the area, which limits its usefulness for directing treatment to specific individuals.\n\nD. Nkemelu maintains that these limitations do not undermine the method's core value as an early-warning system rather than a diagnostic tool. Several health authorities have since incorporated wastewater data into routine outbreak monitoring, using it alongside, rather than instead of, clinical testing, to flag rising trends before they become visible in hospital data.",
+    "group_id": "NIR-G10",
+    "stem": "According to Nkemelu's study, increases in viral concentration in wastewater preceded rises in hospital admissions by an average of how many days?",
+    "options": [
+      "Thirty-four days",
+      "Six days",
+      "The passage does not give a figure",
+      "Eighteen days"
+    ],
+    "answer": 1,
+    "explain_zh": "段落 B 寫 preceded corresponding rises in hospital admissions by an average of six days，故選「Six days」（B）。Eighteen 是研究涵蓋的月數，Thirty-four 是研究的污水廠數量，都是容易混淆的其他數字；文章確實有給出平均天數，並非「沒有給出數字」。技巧：同一段落出現多個數字時（34 個廠、18 個月、6 天），務必看清楚題幹問的是「哪一個數字對應哪一件事」。",
+    "vocab": [
+      {
+        "w": "admission",
+        "zh": "（醫院）收治",
+        "pos": "n."
+      },
+      {
+        "w": "precede",
+        "zh": "先於；在…之前發生",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0048",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Wastewater surveillance, which involves testing sewage for traces of viral genetic material, expanded rapidly as a public health tool after 2020. Because infected individuals shed virus in faeces regardless of whether they show symptoms or seek testing, Nkemelu and colleagues have argued that sewage sampling can reveal outbreak trends days before they appear in clinical case counts.\n\nB. In a study covering 34 treatment plants over 18 months, Nkemelu's team found that increases in viral concentration in wastewater preceded corresponding rises in hospital admissions by an average of six days. The method proved especially useful in areas where clinical testing rates had declined, since it does not depend on individuals choosing to get tested.\n\nC. The approach has clear limitations. Viral concentration in sewage is affected by rainfall, which dilutes samples, and by the size and demographic makeup of the population served by a given treatment plant, both of which make comparisons between different locations difficult without careful statistical adjustment. Sewage data also cannot identify who is infected, only that infection is present somewhere in the area, which limits its usefulness for directing treatment to specific individuals.\n\nD. Nkemelu maintains that these limitations do not undermine the method's core value as an early-warning system rather than a diagnostic tool. Several health authorities have since incorporated wastewater data into routine outbreak monitoring, using it alongside, rather than instead of, clinical testing, to flag rising trends before they become visible in hospital data.",
+    "group_id": "NIR-G10",
+    "stem": "In paragraph C, the word 'dilutes' is closest in meaning to which of the following?",
+    "options": [
+      "makes a substance weaker or less concentrated",
+      "accurately measures the amount of a substance",
+      "makes a substance stronger or more concentrated",
+      "completely removes a substance from a sample"
+    ],
+    "answer": 0,
+    "explain_zh": "dilute 指「稀釋」，段落 C 說降雨會 dilutes samples，也就是讓污水樣本中的病毒濃度變低，最接近 A。B 與「稀釋」意思相反；C、D 都偏離了「使濃度變低」這個核心意思。技巧：dilute 常與 concentration（濃度）、sample（樣本）搭配出現，在描述環境或化學檢測的文章中是常見字彙。",
+    "vocab": [
+      {
+        "w": "dilute",
+        "zh": "稀釋",
+        "pos": "v."
+      },
+      {
+        "w": "demographic",
+        "zh": "人口統計的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0049",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Wastewater surveillance, which involves testing sewage for traces of viral genetic material, expanded rapidly as a public health tool after 2020. Because infected individuals shed virus in faeces regardless of whether they show symptoms or seek testing, Nkemelu and colleagues have argued that sewage sampling can reveal outbreak trends days before they appear in clinical case counts.\n\nB. In a study covering 34 treatment plants over 18 months, Nkemelu's team found that increases in viral concentration in wastewater preceded corresponding rises in hospital admissions by an average of six days. The method proved especially useful in areas where clinical testing rates had declined, since it does not depend on individuals choosing to get tested.\n\nC. The approach has clear limitations. Viral concentration in sewage is affected by rainfall, which dilutes samples, and by the size and demographic makeup of the population served by a given treatment plant, both of which make comparisons between different locations difficult without careful statistical adjustment. Sewage data also cannot identify who is infected, only that infection is present somewhere in the area, which limits its usefulness for directing treatment to specific individuals.\n\nD. Nkemelu maintains that these limitations do not undermine the method's core value as an early-warning system rather than a diagnostic tool. Several health authorities have since incorporated wastewater data into routine outbreak monitoring, using it alongside, rather than instead of, clinical testing, to flag rising trends before they become visible in hospital data.",
+    "group_id": "NIR-G10",
+    "stem": "Statement: Wastewater surveillance can identify exactly which individuals in an area are infected.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 C 明確寫 Sewage data also cannot identify who is infected, only that infection is present somewhere in the area，直接反駁題幹「能精確定位是誰感染」的說法，選 False。技巧：題幹若把工具的「偵測到趨勢」誇大成「精確定位個人」，通常就是明確的 False，因為原文常會特別點出這項限制。",
+    "vocab": [
+      {
+        "w": "diagnostic",
+        "zh": "診斷用的",
+        "pos": "adj."
+      },
+      {
+        "w": "incorporate",
+        "zh": "納入",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0050",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Wastewater surveillance, which involves testing sewage for traces of viral genetic material, expanded rapidly as a public health tool after 2020. Because infected individuals shed virus in faeces regardless of whether they show symptoms or seek testing, Nkemelu and colleagues have argued that sewage sampling can reveal outbreak trends days before they appear in clinical case counts.\n\nB. In a study covering 34 treatment plants over 18 months, Nkemelu's team found that increases in viral concentration in wastewater preceded corresponding rises in hospital admissions by an average of six days. The method proved especially useful in areas where clinical testing rates had declined, since it does not depend on individuals choosing to get tested.\n\nC. The approach has clear limitations. Viral concentration in sewage is affected by rainfall, which dilutes samples, and by the size and demographic makeup of the population served by a given treatment plant, both of which make comparisons between different locations difficult without careful statistical adjustment. Sewage data also cannot identify who is infected, only that infection is present somewhere in the area, which limits its usefulness for directing treatment to specific individuals.\n\nD. Nkemelu maintains that these limitations do not undermine the method's core value as an early-warning system rather than a diagnostic tool. Several health authorities have since incorporated wastewater data into routine outbreak monitoring, using it alongside, rather than instead of, clinical testing, to flag rising trends before they become visible in hospital data.",
+    "group_id": "NIR-G10",
+    "stem": "How does Nkemelu view the relationship between wastewater surveillance and clinical testing?",
+    "options": [
+      "As complementary tools, with wastewater data used alongside rather than instead of clinical testing",
+      "As entirely unrelated methods with no practical connection",
+      "As direct competitors, where one method should fully replace the other",
+      "As equally reliable for identifying specific infected individuals"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 寫 health authorities... using it alongside, rather than instead of, clinical testing，明確顯示兩者是互補關係，選 A。B 與 rather than instead of 直接矛盾；C 與全文反覆比較兩種方法的關聯性矛盾；D 段落 C 已說明污水監測無法定位個人，與臨床檢測的功能並不對等。技巧：alongside, rather than instead of 這種句型是雅思常見的「互補而非取代」表達，看到就能直接定位作者立場。",
+    "vocab": [
+      {
+        "w": "complementary",
+        "zh": "互補的",
+        "pos": "adj."
+      },
+      {
+        "w": "undermine",
+        "zh": "削弱",
+        "pos": "v."
+      }
+    ]
+  }
+]

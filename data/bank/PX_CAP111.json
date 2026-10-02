@@ -1,0 +1,1037 @@
+[
+ {
+  "id": "PX-CAP111-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions-result",
+  "tag_zh": "表結果連接詞",
+  "stem": "The movie starts at two o'clock, ____ let's meet at the theater at one forty-five.",
+  "options": [
+   "so",
+   "or",
+   "if",
+   "because"
+  ],
+  "answer": 0,
+  "explain_zh": "電影兩點開演，後面建議「一點四十五就在戲院見」，前後是原因和建議的結果關係，故選 so。or 表選擇、if 表條件、because 表原因（但前面子句本身已經是原因，語法上不能重複用 because 開頭），都不符合此處的因果銜接。",
+  "vocab": [
+   {
+    "w": "so",
+    "zh": "所以",
+    "pos": "conj."
+   },
+   {
+    "w": "theater",
+    "zh": "戲院",
+    "pos": "n."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:nouns",
+  "tag_zh": "名詞語意",
+  "stem": "Peter is afraid of the dark.  He even leaves the ____ on when sleeping.",
+  "options": [
+   "computer",
+   "fans",
+   "lights",
+   "music"
+  ],
+  "answer": 2,
+  "explain_zh": "怕黑的人睡覺時會開著「燈」，故選 lights。computer、fans（風扇）、music 都不是為了「怕黑」而特別開著的東西，只有燈光能直接對應「怕黑」的原因。",
+  "vocab": [
+   {
+    "w": "light",
+    "zh": "燈",
+    "pos": "n."
+   },
+   {
+    "w": "afraid of",
+    "zh": "害怕",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "Pam is a ____ baseball player; she has more fans than any other player on her team.",
+  "options": [
+   "boring",
+   "heavy",
+   "popular",
+   "rich"
+  ],
+  "answer": 2,
+  "explain_zh": "後句說她的粉絲比隊上任何人都多，可知她是「受歡迎的」棒球選手，故選 popular。boring（無聊的）、heavy（重的）、rich（有錢的）都與「粉絲眾多」的語意無關。",
+  "vocab": [
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "pos": "adj."
+   },
+   {
+    "w": "fan",
+    "zh": "粉絲",
+    "pos": "n."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-obligation",
+  "tag_zh": "義務語態",
+  "stem": "I did not do my homework, so my teacher said I ____ stay after school to finish it.",
+  "options": [
+   "failed to",
+   "had to",
+   "hoped to",
+   "used to"
+  ],
+  "answer": 1,
+  "explain_zh": "因為沒寫作業，老師規定他放學後「必須」留下來完成，had to 表示過去「不得不」做某事，故選 had to。failed to（未能做到）、hoped to（希望）、used to（過去習慣）都無法表達「被要求、必須做」的語意。",
+  "vocab": [
+   {
+    "w": "have to",
+    "zh": "必須",
+    "pos": "phr."
+   },
+   {
+    "w": "after school",
+    "zh": "放學後",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:nouns",
+  "tag_zh": "名詞語意",
+  "stem": "Kevin has only enough money for the bag or the shoes.  That is a hard ____ to make because he likes them both.",
+  "options": [
+   "choice",
+   "gift",
+   "rule",
+   "trick"
+  ],
+  "answer": 0,
+  "explain_zh": "錢只夠買包包或鞋子二選一，兩者都喜歡因此很難抉擇，這是一個「選擇」的難題，故選 choice。gift（禮物）、rule（規則）、trick（把戲）都無法表達「兩者選一」的情境。make a choice 是常見搭配。",
+  "vocab": [
+   {
+    "w": "choice",
+    "zh": "選擇",
+    "pos": "n."
+   },
+   {
+    "w": "enough",
+    "zh": "足夠的",
+    "pos": "adj."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "It was ____ for us to answer the math question because we've done the same kind of questions many times.",
+  "options": [
+   "common",
+   "easy",
+   "safe",
+   "special"
+  ],
+  "answer": 1,
+  "explain_zh": "因為已經做過很多次同類型的題目，數學題對他們來說變得「簡單」，故選 easy。common（常見的）、safe（安全的）、special（特別的）都無法對應「因為練習多次而變得容易」的因果關係。",
+  "vocab": [
+   {
+    "w": "easy",
+    "zh": "簡單的",
+    "pos": "adj."
+   },
+   {
+    "w": "the same kind of",
+    "zh": "同一種類的",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:it-takes-to-V",
+  "tag_zh": "it takes句型",
+  "stem": "Although it took me lots of time ____ a big meal for ten people, I was happy that everyone enjoyed it.",
+  "options": [
+   "prepare",
+   "to prepare",
+   "preparing",
+   "prepared"
+  ],
+  "answer": 1,
+  "explain_zh": "it takes/took + 時間 + to V 是固定句型，表示「花了…時間去做某事」，故選 to prepare。prepare 少了 to、preparing 是動名詞、prepared 是過去式/過去分詞，都不能直接接在 lots of time 後面構成此句型。",
+  "vocab": [
+   {
+    "w": "prepare",
+    "zh": "準備",
+    "pos": "v."
+   },
+   {
+    "w": "although",
+    "zh": "雖然",
+    "pos": "conj."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "Don't let the children swim in the river.  We don't know how ____ it is.  It could be dangerous.",
+  "options": [
+   "deep",
+   "far",
+   "long",
+   "thick"
+  ],
+  "answer": 0,
+  "explain_zh": "後句說「可能很危險」，暗示大家不知道河水有多「深」，故選 deep。far（遠）、long（長）、thick（厚）都無法對應「水的深淺」這個攸關安全的描述。",
+  "vocab": [
+   {
+    "w": "deep",
+    "zh": "深的",
+    "pos": "adj."
+   },
+   {
+    "w": "dangerous",
+    "zh": "危險的",
+    "pos": "adj."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:superlatives",
+  "tag_zh": "最高級",
+  "stem": "Bob is ____ of the boys in the family.  He never does any housework.  His brothers at least take out the garbage sometimes.",
+  "options": [
+   "lazier",
+   "the lazy",
+   "the lazier",
+   "the laziest"
+  ],
+  "answer": 3,
+  "explain_zh": "後句用「哥哥們至少偶爾會倒垃圾」來對比 Bob 完全不做家事，可知他是家裡「最懶惰」的，多人（三者以上）比較用最高級 the laziest，故選 the laziest。lazier 是比較級（只能比較兩者）、the lazy、the lazier 文法或型態都不正確。",
+  "vocab": [
+   {
+    "w": "lazy",
+    "zh": "懶惰的",
+    "pos": "adj."
+   },
+   {
+    "w": "take out the garbage",
+    "zh": "倒垃圾",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-present-simple",
+  "tag_zh": "簡單現在式",
+  "stem": "Aunt Gina has lived in this town for more than sixty years, so she ____ it very well.",
+  "options": [
+   "will know",
+   "knew",
+   "knows",
+   "was going to know"
+  ],
+  "answer": 2,
+  "explain_zh": "阿姨已經在這裡住了超過六十年，所以她現在「熟悉」這個小鎮，用現在簡單式表達長期累積後的現在事實，故選 knows。will know 是未來式、knew 是過去式、was going to know 是過去未來式，都不符合「現在已經很了解」的語意。",
+  "vocab": [
+   {
+    "w": "know well",
+    "zh": "熟悉",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verbs",
+  "tag_zh": "動詞語意",
+  "stem": "We won't see the sun even after the typhoon leaves, because the news said that heavier rain will soon ____.",
+  "options": [
+   "catch",
+   "follow",
+   "move",
+   "stop"
+  ],
+  "answer": 1,
+  "explain_zh": "新聞說颱風走後還會有更大的雨「接著」到來，所以太陽仍然不會出現，故選 follow（隨後而來）。catch（抓住）、move（移動）、stop（停止）都無法表達「颱風走了、雨接著又來」的先後關係。",
+  "vocab": [
+   {
+    "w": "follow",
+    "zh": "隨後發生",
+    "pos": "v."
+   },
+   {
+    "w": "typhoon",
+    "zh": "颱風",
+    "pos": "n."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-past-continuous",
+  "tag_zh": "過去進行式",
+  "stem": "Yesterday when I got home from work, my brother ____ for dinner, so he invited me to join him.",
+  "options": [
+   "goes out",
+   "went out",
+   "has gone out",
+   "was going out"
+  ],
+  "answer": 3,
+  "explain_zh": "昨天我到家時，弟弟「正準備出門」吃晚餐，過去某時間點正在進行的動作要用過去進行式，故選 was going out。goes out 是現在式、went out 是過去簡單式（動作已完成，無法再邀請同行）、has gone out 是現在完成式，都不符合「正要出門、被撞見」的情境。",
+  "vocab": [
+   {
+    "w": "go out",
+    "zh": "外出",
+    "pos": "phr.v."
+   },
+   {
+    "w": "invite",
+    "zh": "邀請",
+    "pos": "v."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "You were ____ not to lend Amy money.  She never gives back what she borrows.",
+  "options": [
+   "crazy",
+   "helpful",
+   "wise",
+   "wrong"
+  ],
+  "answer": 2,
+  "explain_zh": "後句說 Amy 從不歸還借的東西，可知借錢給她是不「明智」的行為，故選 wise。crazy（瘋狂的）、helpful（有幫助的）、wrong（錯誤的，語氣較直接指責）都不如 wise（不智）貼切表達「早知道就不該借」的語氣。",
+  "vocab": [
+   {
+    "w": "wise",
+    "zh": "明智的",
+    "pos": "adj."
+   },
+   {
+    "w": "lend",
+    "zh": "借出",
+    "pos": "v."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-present-continuous",
+  "tag_zh": "現在進行式",
+  "stem": "Have you found a summer job yet?  Mr. Firth ____ someone to take care of his kids during the vacation.  Maybe you can talk to him.",
+  "options": [
+   "has looked for",
+   "is looking for",
+   "looks for",
+   "was looking for"
+  ],
+  "answer": 1,
+  "explain_zh": "還沒找到暑期工作嗎？後句建議「或許可以找他談談」，可知 Mr. Firth「現在正在找」臨時保母，用現在進行式表達正在進行的動作，故選 is looking for。has looked for、looks for、was looking for 的時態都無法對應「現在仍在找、還有機會」的情境。",
+  "vocab": [
+   {
+    "w": "look for",
+    "zh": "尋找",
+    "pos": "phr.v."
+   },
+   {
+    "w": "take care of",
+    "zh": "照顧",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-015",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:perception-verbs",
+  "tag_zh": "感官動詞句型",
+  "stem": "David looked out of the balcony window and saw a woman get in his car ____ away.",
+  "options": [
+   "drive",
+   "drove",
+   "and drive",
+   "and drove"
+  ],
+  "answer": 2,
+  "explain_zh": "David 看到一名女子上車「然後」開走，兩個連續動作用 and 連接，且都要用過去式（因為主要動詞 saw 是過去式，感官動詞後的兩個並列原形動詞應一致），故選 and drive（get in...and drive away，感官動詞 see 後接原形動詞）。drove、and drove 使用了錯誤時態，drive 缺了連接詞。",
+  "vocab": [
+   {
+    "w": "get in",
+    "zh": "上車",
+    "pos": "phr.v."
+   },
+   {
+    "w": "drive away",
+    "zh": "開車離開",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-voice",
+  "tag_zh": "被動語態",
+  "stem": "The police haven't found the little girl who ____ at a supermarket.  They'll keep doing all they can to find her.",
+  "options": [
+   "took away",
+   "taken away",
+   "has taken away",
+   "was taken away"
+  ],
+  "answer": 3,
+  "explain_zh": "小女孩是被「帶走」的，主詞是被害者，動作是被動發生在她身上，且與過去某時間點（發生綁架當下）對應，用過去簡單式被動語態，故選 was taken away。took away 是主動語態、taken away 缺 be 動詞、has taken away 也是主動且時態不合，皆與「女孩被帶走」的被動語意不符。",
+  "vocab": [
+   {
+    "w": "take away",
+    "zh": "帶走",
+    "pos": "phr.v."
+   },
+   {
+    "w": "supermarket",
+    "zh": "超市",
+    "pos": "n."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:pronoun-one",
+  "tag_zh": "代名詞one",
+  "stem": "Buses to the airport only come once every hour, and we just missed ____.  Why don't we take a taxi?",
+  "options": [
+   "another",
+   "it",
+   "one",
+   "them"
+  ],
+  "answer": 2,
+  "explain_zh": "巴士一小時一班，我們剛好錯過「一班」（不特定的一班巴士），故選 one，代替前面提到的 bus（單數、不特定）。another 指「另一班」但語意重複、it 是特定的那班車（但此處只是泛指錯過一班）、them 是複數，皆不符合語境。",
+  "vocab": [
+   {
+    "w": "miss",
+    "zh": "錯過",
+    "pos": "v."
+   },
+   {
+    "w": "once every hour",
+    "zh": "每小時一班",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-simple-past",
+  "tag_zh": "簡單過去式",
+  "stem": "Ariel ____ every night for a week before her Chinese test and got a very good grade.",
+  "options": [
+   "studied",
+   "studies",
+   "has studied",
+   "was going to study"
+  ],
+  "answer": 0,
+  "explain_zh": "描述「考試前一週、每晚都讀書」這個已經完成的過去習慣，且與「拿到好成績」都是過去已發生的事，用簡單過去式，故選 studied。studies 是現在式、has studied 是現在完成式、was going to study 表示「原本打算卻沒做」，都與「已經讀了、也考到好成績」的事實不符。",
+  "vocab": [
+   {
+    "w": "study",
+    "zh": "讀書",
+    "pos": "v."
+   },
+   {
+    "w": "grade",
+    "zh": "成績",
+    "pos": "n."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-019",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "Josh turned off the screen and sat back.  \"Why are they trolling me like this?\"  He didn't understand.  They wanted him to share what he thought about the show, and he did.  And now look what he got.  In the end, all they wanted was nice words.  While reading this story, Brad saw the word \"trolling\" and didn't know what it meant.  He found several meanings of the word in a dictionary.  Which one should Brad choose?",
+  "options": [
+   "To celebrate in song.",
+   "To make someone or something move around.",
+   "To pull a fishing line through the water, often from a boat.",
+   "To write something on the Internet to hurt someone or make them angry."
+  ],
+  "answer": 3,
+  "explain_zh": "Josh 分享自己真實的想法卻被大家群起攻擊、逼他只能說好聽話，這正是「在網路上留言傷害或激怒他人」的 trolling，故選 D。它與歌唱（A）、讓某物到處移動（B）、拖釣魚線（C）等字典釋義都無關，只有 D 符合網路霸凌的語境。",
+  "vocab": [
+   {
+    "w": "trolling",
+    "zh": "網路酸民行為、挑釁留言",
+    "pos": "n."
+   },
+   {
+    "w": "in the end",
+    "zh": "最後",
+    "pos": "phr."
+   }
+  ],
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-020",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "Why did Darrell tell Marina to go to Pinterest?",
+  "options": [
+   "To find some examples for her homework.",
+   "To shop for things that are needed for art classes.",
+   "To meet new friends who have the same interests.",
+   "To share her works and tell people how they are made."
+  ],
+  "answer": 0,
+  "explain_zh": "Marina 因為美術作業要畫未來房屋卻毫無靈感，Darrell 才建議她去 Pinterest 找靈感，可知目的是「幫作業找範例」，故選 A。Pinterest 不是購物平台（B，Marina 一開始誤會了）、也不是用來交朋友（C）或分享作品給別人看（D，那是別人在做的事）。",
+  "vocab": [
+   {
+    "w": "look for ideas",
+    "zh": "尋找靈感",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Darrell: Marina…Marina…MARINA!\nMarina: Oh, sorry.  I didn't hear you.  I was thinking about my homework.\nDarrell: What's it about?\nMarina: Well, I need to draw a future house for my art class, but I haven't got any ideas.  Maybe I should go to the library and look for something useful.\nDarrell: Or you can try Pinterest.\nMarina: Isn't it a shopping app?\nDarrell: Not really.  Many people share their works on Pinterest and tell you how they made them.  I'm sure you can get some ideas there.\nMarina: Sounds like you use it often.\nDarrell: Yeah.  Just last week I went there and found the A to Z of making chocolate cake—from choosing good chocolate to baking the cake to making sugar flowers on top.\nMarina: Really?  I'll check it out later.  Thanks a lot.",
+  "group_id": "PX-CAP111-G01",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-021",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "What does it mean when you learn something from A to Z?",
+  "options": [
+   "You can learn it at any time.",
+   "You learn it in a baking class.",
+   "You learn everything about it.",
+   "You spend all your life learning it."
+  ],
+  "answer": 2,
+  "explain_zh": "文中舉例在 Pinterest 上可以學到做巧克力蛋糕「從挑選巧克力到烘焙、裝飾」的完整流程，A to Z 表示「從頭到尾、無所不包」，故選 C（學到關於某事的一切）。並非指隨時都能學（A）或要花一輩子學習（D）。",
+  "vocab": [
+   {
+    "w": "from A to Z",
+    "zh": "從頭到尾、全部",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Darrell: Marina…Marina…MARINA!\nMarina: Oh, sorry.  I didn't hear you.  I was thinking about my homework.\nDarrell: What's it about?\nMarina: Well, I need to draw a future house for my art class, but I haven't got any ideas.  Maybe I should go to the library and look for something useful.\nDarrell: Or you can try Pinterest.\nMarina: Isn't it a shopping app?\nDarrell: Not really.  Many people share their works on Pinterest and tell you how they made them.  I'm sure you can get some ideas there.\nMarina: Sounds like you use it often.\nDarrell: Yeah.  Just last week I went there and found the A to Z of making chocolate cake—from choosing good chocolate to baking the cake to making sugar flowers on top.\nMarina: Really?  I'll check it out later.  Thanks a lot.",
+  "group_id": "PX-CAP111-G01",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-022",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "Which idea is talked about in the first paragraph of the reading?",
+  "options": [
+   "How you should do Tabata training.",
+   "What is the best time for Tabata training.",
+   "Who first had the idea of Tabata training.",
+   "How often you should do Tabata training."
+  ],
+  "answer": 0,
+  "explain_zh": "第一段說明 Tabata 訓練「運動20秒、休息10秒、重複至少八次」的做法，重點在說明具體「怎麼做」，故選 A。並未提到最佳運動時間（B）、發明者是誰（C）或該多常做（D）。",
+  "vocab": [
+   {
+    "w": "training",
+    "zh": "訓練",
+    "pos": "n."
+   },
+   {
+    "w": "repeat",
+    "zh": "重複",
+    "pos": "v."
+   }
+  ],
+  "passage": "Tabata training is a very popular way of exercising these days.  It doesn't take much time or space, and it burns calories faster than other ways of exercising.  The idea of Tabata training is simple: exercise for 20 seconds, rest for 10 seconds, and then repeat (at least eight times).  The moves for the 20-second exercise are not difficult to learn.  Jumping jacks, high knees, squats, and planks are some of the most common moves.  You can decide yourself what moves to do in your Tabata training.  For example, you can do more leg exercises if you want strong legs.\nOne great thing about Tabata training is that your body will keep burning calories for at least an hour after 4 minutes of Tabata training.  But to have this wonderful \"afterburn,\" you need to exercise really hard during each 20 seconds.  If you seldom exercise or have heart problems, this exercise may not be good for you.  But for people who enjoy exercising but are too busy to go to the gym, Tabata training might just be the answer.",
+  "group_id": "PX-CAP111-G02",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-023",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "Who might find that Tabata training is right for them?",
+  "options": [
+   "People who enjoy team sports.",
+   "People who want to start exercising.",
+   "People who want to fix their heart problems.",
+   "People who already have a habit of exercising."
+  ],
+  "answer": 3,
+  "explain_zh": "文末說明這項運動適合「喜歡運動卻沒時間上健身房」的人，也就是已經有運動習慣、只是時間有限的人，故選 D。文中反而提醒「很少運動或有心臟問題的人」不適合（C錯），也沒特別針對團體運動愛好者（A）或剛開始運動的人（B）。",
+  "vocab": [
+   {
+    "w": "habit",
+    "zh": "習慣",
+    "pos": "n."
+   },
+   {
+    "w": "afterburn",
+    "zh": "運動後持續燃脂效果",
+    "pos": "n."
+   }
+  ],
+  "passage": "Tabata training is a very popular way of exercising these days.  It doesn't take much time or space, and it burns calories faster than other ways of exercising.  The idea of Tabata training is simple: exercise for 20 seconds, rest for 10 seconds, and then repeat (at least eight times).  The moves for the 20-second exercise are not difficult to learn.  Jumping jacks, high knees, squats, and planks are some of the most common moves.  You can decide yourself what moves to do in your Tabata training.  For example, you can do more leg exercises if you want strong legs.\nOne great thing about Tabata training is that your body will keep burning calories for at least an hour after 4 minutes of Tabata training.  But to have this wonderful \"afterburn,\" you need to exercise really hard during each 20 seconds.  If you seldom exercise or have heart problems, this exercise may not be good for you.  But for people who enjoy exercising but are too busy to go to the gym, Tabata training might just be the answer.",
+  "group_id": "PX-CAP111-G02",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-024",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "Which is true about Tabata training?",
+  "options": [
+   "It is difficult to learn the moves.",
+   "You are free to choose your own moves.",
+   "You need a large space to do the exercises.",
+   "You cannot rest between moves if you want the afterburn."
+  ],
+  "answer": 1,
+  "explain_zh": "文中提到「你可以自己決定要做哪些動作」，例如想練腿就多做腿部動作，可知動作可以自由選擇，故選 B。文章反而說動作不難學（A錯），也沒說需要很大空間（C），且每20秒內要休息10秒、並非完全不能休息（D錯）。",
+  "vocab": [
+   {
+    "w": "move",
+    "zh": "動作",
+    "pos": "n."
+   },
+   {
+    "w": "decide",
+    "zh": "決定",
+    "pos": "v."
+   }
+  ],
+  "passage": "Tabata training is a very popular way of exercising these days.  It doesn't take much time or space, and it burns calories faster than other ways of exercising.  The idea of Tabata training is simple: exercise for 20 seconds, rest for 10 seconds, and then repeat (at least eight times).  The moves for the 20-second exercise are not difficult to learn.  Jumping jacks, high knees, squats, and planks are some of the most common moves.  You can decide yourself what moves to do in your Tabata training.  For example, you can do more leg exercises if you want strong legs.\nOne great thing about Tabata training is that your body will keep burning calories for at least an hour after 4 minutes of Tabata training.  But to have this wonderful \"afterburn,\" you need to exercise really hard during each 20 seconds.  If you seldom exercise or have heart problems, this exercise may not be good for you.  But for people who enjoy exercising but are too busy to go to the gym, Tabata training might just be the answer.",
+  "group_id": "PX-CAP111-G02",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-025",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:organization",
+  "tag_zh": "文章結構",
+  "stem": "There are four important points in the report: a. What \"No Overtime Day\" is  b. Why \"No Overtime Day\" fails  c. Why there is \"No Overtime Day\" in the country  d. How workers deal with \"No Overtime Day\"  How are they ordered in the report?",
+  "options": [
+   "acdb.",
+   "adcb.",
+   "cabd.",
+   "cadb."
+  ],
+  "answer": 3,
+  "explain_zh": "報告先說明什麼是「無加班日」（a），接著解釋為什麼這個國家會有這個制度（c），再說明員工實際上如何應對、變相加班（d），最後點出制度為何失敗（b），順序為 c, a, d, b，故選 D（cadb）。",
+  "vocab": [
+   {
+    "w": "overtime",
+    "zh": "加班",
+    "pos": "n."
+   },
+   {
+    "w": "fail",
+    "zh": "失敗",
+    "pos": "v."
+   }
+  ],
+  "passage": "The problem of long working hours is a real headache in our country. It kills many people every year (see Figure 1), and many companies are trying to change that. They have at least one \"No Overtime Day\" in a week, and it is often Wednesday. On \"No Overtime Day,\" workers are asked to leave their offices before 8 p.m. At 8 p.m., companies play the song \"There's Always Tomorrow\" and turn off all the lights.\nHowever, after the workers walk out of their offices, they don't go home. Some go back later, turn on their table lamps, and keep working, and others find somewhere else to work until very late at night. Restaurants and coffee shops are busier on Wednesday evenings, and they have started selling drinks and meals for these workers.\nBut why do these people keep working?  A study shows that workers who work more hours often have a bigger chance to get paid more and rise higher in their companies. This is true for both men and women (see Figure 2). Working long hours has become a way to show that people are hard-working. Clearly, this must be changed before the problem gets any worse.",
+  "group_id": "PX-CAP111-G03",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-026",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What does \"this\" mean in the report? (\"...this must be changed before the problem gets any worse.\")",
+  "options": [
+   "The way workers show they are hard-working.",
+   "Restaurants and coffee shops open until very late at night.",
+   "Workers do not go home when they walk out of the office.",
+   "The number of workers who get paid more and rise higher in the company."
+  ],
+  "answer": 0,
+  "explain_zh": "this 承接前一句「長工時已經變成大家用來表現自己認真工作的方式」，作者認為這種風氣必須被改變，故選 A。並非指餐廳咖啡廳營業到很晚（B）或員工下班後不回家（C，這只是現象而非「this」所指的核心問題），D 則是造成這個現象的原因而非 this 本身。",
+  "vocab": [
+   {
+    "w": "hard-working",
+    "zh": "勤奮的",
+    "pos": "adj."
+   },
+   {
+    "w": "change",
+    "zh": "改變",
+    "pos": "v."
+   }
+  ],
+  "passage": "The problem of long working hours is a real headache in our country. It kills many people every year (see Figure 1), and many companies are trying to change that. They have at least one \"No Overtime Day\" in a week, and it is often Wednesday. On \"No Overtime Day,\" workers are asked to leave their offices before 8 p.m. At 8 p.m., companies play the song \"There's Always Tomorrow\" and turn off all the lights.\nHowever, after the workers walk out of their offices, they don't go home. Some go back later, turn on their table lamps, and keep working, and others find somewhere else to work until very late at night. Restaurants and coffee shops are busier on Wednesday evenings, and they have started selling drinks and meals for these workers.\nBut why do these people keep working?  A study shows that workers who work more hours often have a bigger chance to get paid more and rise higher in their companies. This is true for both men and women (see Figure 2). Working long hours has become a way to show that people are hard-working. Clearly, this must be changed before the problem gets any worse.",
+  "group_id": "PX-CAP111-G03",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-028",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "What does resentful mean in the reading?",
+  "options": [
+   "Sad.",
+   "Angry.",
+   "Careful.",
+   "Worried."
+  ],
+  "answer": 1,
+  "explain_zh": "文中描述英語使用者長期在自己國家找不到政府工作、被迫在正式場合說法語，因而對政府感到不滿，resentful 應解釋為「憤怒的」，故選 B。並非單純難過（A）、小心（C）或擔心（D），這種長期委屈累積出來的更接近憤怒。",
+  "vocab": [
+   {
+    "w": "resentful",
+    "zh": "憤恨不平的",
+    "pos": "adj."
+   },
+   {
+    "w": "government",
+    "zh": "政府",
+    "pos": "n."
+   }
+  ],
+  "passage": "In the modern world, being able to speak English is often a way to get power.  However, this is not true for English speakers in Cameroon.  To know why things are different in this African country, we need to go back one hundred years.\nIn 1919, Kamerun (the name of Cameroon at the time) was cut into two parts: one belonged to France, and the other belonged to the UK.  In 1960, the French Cameroon became the Republic of Cameroun, and the UK's part joined it in 1961.  The new country changed its name to the Federal Republic of Cameroon.  Although both French and English are Cameroon's official languages, only around 20% of its people speak English.  Also, the government has been in French speakers' hands since the two parts became one country.\nFor a long time, Cameroon's English speakers have felt they are not welcome in their own country.  For example, it is very difficult for them to find jobs in the government, and they are often asked to speak French in business and at official events.  They have become more resentful at the government and decided to fight for themselves.  Since last year, the English speakers have tried to build their own country.  Yesterday, they said in a public meeting that they were not part of Cameroon anymore.  They are now a new country, \"Ambazonia.\"  When the police tried to stop the meeting, at least eight people were killed.",
+  "group_id": "PX-CAP111-G04",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-029",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "What does Cameroon's government most likely think of Ambazonia?",
+  "options": [
+   "It plans to do business with Ambazonia.",
+   "It needs Ambazonia for money and help.",
+   "It does not want to be part of Ambazonia.",
+   "It does not agree that Ambazonia is a country."
+  ],
+  "answer": 3,
+  "explain_zh": "文末提到警方出動阻止「Ambazonia」的獨立集會，還造成傷亡，可知喀麥隆政府並不承認 Ambazonia 是一個獨立國家，故選 D。文中沒有提到政府想與其做生意（A）或需要它提供資源（B），政府反而是想維持喀麥隆的統一（C 用詞方向相反）。",
+  "vocab": [
+   {
+    "w": "government",
+    "zh": "政府",
+    "pos": "n."
+   },
+   {
+    "w": "agree",
+    "zh": "同意",
+    "pos": "v."
+   }
+  ],
+  "passage": "In the modern world, being able to speak English is often a way to get power.  However, this is not true for English speakers in Cameroon.  To know why things are different in this African country, we need to go back one hundred years.\nIn 1919, Kamerun (the name of Cameroon at the time) was cut into two parts: one belonged to France, and the other belonged to the UK.  In 1960, the French Cameroon became the Republic of Cameroun, and the UK's part joined it in 1961.  The new country changed its name to the Federal Republic of Cameroon.  Although both French and English are Cameroon's official languages, only around 20% of its people speak English.  Also, the government has been in French speakers' hands since the two parts became one country.\nFor a long time, Cameroon's English speakers have felt they are not welcome in their own country.  For example, it is very difficult for them to find jobs in the government, and they are often asked to speak French in business and at official events.  They have become more resentful at the government and decided to fight for themselves.  Since last year, the English speakers have tried to build their own country.  Yesterday, they said in a public meeting that they were not part of Cameroon anymore.  They are now a new country, \"Ambazonia.\"  When the police tried to stop the meeting, at least eight people were killed.",
+  "group_id": "PX-CAP111-G04",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-030",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "What does Elisa Grant try to tell readers by talking about the history of Cameroon?",
+  "options": [
+   "Why speaking English is a way to get power.",
+   "Why English speakers in Cameroon have less power.",
+   "Why the two parts of Cameroon became one country.",
+   "Why only 20% of the people in Cameroon speak English."
+  ],
+  "answer": 1,
+  "explain_zh": "作者回溯喀麥隆百年來被英法兩國分治、統一後政府長期由法語人士掌權的歷史，藉此說明「為什麼說英語的人在國內權力較小」，故選 B。歷史說明的重點不是英語代表權力（A，文章開頭就說在喀麥隆並非如此）或兩部分為何合併成一國（C，這只是背景）。",
+  "vocab": [
+   {
+    "w": "history",
+    "zh": "歷史",
+    "pos": "n."
+   },
+   {
+    "w": "power",
+    "zh": "權力",
+    "pos": "n."
+   }
+  ],
+  "passage": "In the modern world, being able to speak English is often a way to get power.  However, this is not true for English speakers in Cameroon.  To know why things are different in this African country, we need to go back one hundred years.\nIn 1919, Kamerun (the name of Cameroon at the time) was cut into two parts: one belonged to France, and the other belonged to the UK.  In 1960, the French Cameroon became the Republic of Cameroun, and the UK's part joined it in 1961.  The new country changed its name to the Federal Republic of Cameroon.  Although both French and English are Cameroon's official languages, only around 20% of its people speak English.  Also, the government has been in French speakers' hands since the two parts became one country.\nFor a long time, Cameroon's English speakers have felt they are not welcome in their own country.  For example, it is very difficult for them to find jobs in the government, and they are often asked to speak French in business and at official events.  They have become more resentful at the government and decided to fight for themselves.  Since last year, the English speakers have tried to build their own country.  Yesterday, they said in a public meeting that they were not part of Cameroon anymore.  They are now a new country, \"Ambazonia.\"  When the police tried to stop the meeting, at least eight people were killed.",
+  "group_id": "PX-CAP111-G04",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-031",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What is recommended to people who are visiting the Southend Trail?",
+  "options": [
+   "Camping on the side trails.",
+   "Biking along the side trails.",
+   "Hiking one part of the trail a day.",
+   "Visiting the museum in the morning."
+  ],
+  "answer": 2,
+  "explain_zh": "文中建議每天安排走完步道的一部分，並提醒每段路至少要走七小時、最好一早就出發，故選 C。並沒有建議在支線露營（A，支線只允許在特定營地露營）或騎車（B，支線太窄不能騎車），博物館也沒說一定要早上去參觀（D）。",
+  "vocab": [
+   {
+    "w": "hike",
+    "zh": "健行",
+    "pos": "v."
+   },
+   {
+    "w": "trail",
+    "zh": "步道",
+    "pos": "n."
+   }
+  ],
+  "passage": "THE SOUTHEND TRAIL has been popular with nature lovers for years.  The 120-km trail passes beautiful lakes, crosses rivers, and goes through mountains and hills.  This gives bird lovers some of the best places for birdwatching.  The trail also takes you to the Southend Museum and to two famous castles, Edward Castle and Sloan Castle.\nIt's best to plan one day for one part of the trail and start your hike early in the morning, because each part takes at least seven hours.  If you don't want to walk, you can bike, but make sure you stay on the main trail, because the side trails are not wide enough for biking.\nThere are two types of lodging for visitors.  Camping is popular in summer, but it is only allowed on a few campgrounds (see the map).  A more comfortable one is to stay at a hotel in one of the towns.  You can find some very nice ones that also have breakfast.",
+  "group_id": "PX-CAP111-G05",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-032",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "What does lodging mean in the reading?",
+  "options": [
+   "A meal to have.",
+   "A place to stay in.",
+   "A time for visiting.",
+   "A way of moving around."
+  ],
+  "answer": 1,
+  "explain_zh": "文末介紹兩種 lodging：露營和住旅館，都是提供旅客「過夜的地方」，故選 B。它不是指一頓餐點（A）、參觀的時段（C）或移動方式（D）。",
+  "vocab": [
+   {
+    "w": "lodging",
+    "zh": "住宿",
+    "pos": "n."
+   },
+   {
+    "w": "campground",
+    "zh": "露營地",
+    "pos": "n."
+   }
+  ],
+  "passage": "THE SOUTHEND TRAIL has been popular with nature lovers for years.  The 120-km trail passes beautiful lakes, crosses rivers, and goes through mountains and hills.  This gives bird lovers some of the best places for birdwatching.  The trail also takes you to the Southend Museum and to two famous castles, Edward Castle and Sloan Castle.\nIt's best to plan one day for one part of the trail and start your hike early in the morning, because each part takes at least seven hours.  If you don't want to walk, you can bike, but make sure you stay on the main trail, because the side trails are not wide enough for biking.\nThere are two types of lodging for visitors.  Camping is popular in summer, but it is only allowed on a few campgrounds (see the map).  A more comfortable one is to stay at a hotel in one of the towns.  You can find some very nice ones that also have breakfast.",
+  "group_id": "PX-CAP111-G05",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-033",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "A palindrome is a word or a sentence that reads the same from left to right or from right to left, ____, \"eye,\" \"Bob,\" \"my gym,\" and \"Was it a car or a cat I saw?\"",
+  "options": [
+   "in fact",
+   "at first",
+   "of course",
+   "for example"
+  ],
+  "answer": 3,
+  "explain_zh": "空格後面接了一串具體例子（eye、Bob、my gym…），用來「舉例說明」前面對迴文的定義，故選 for example。in fact（事實上）、at first（起初）、of course（當然）都不是用來引出例子的正確連接詞。",
+  "vocab": [
+   {
+    "w": "for example",
+    "zh": "舉例來說",
+    "pos": "phr."
+   },
+   {
+    "w": "palindrome",
+    "zh": "迴文",
+    "pos": "n."
+   }
+  ],
+  "passage": "English words are made of 26 letters, and palindromes and anagrams are two kinds of word games about spelling.  A palindrome is a word or a sentence that reads the same from left to right or from right to left, ____, \"eye,\" \"Bob,\" \"my gym,\" and \"Was it a car or a cat I saw?\"  An anagram of a word or words is made by putting the letters of the word or words in a different way.  Look at the words and their anagrams below.  Can you think of other possible anagrams of these words?\nAnagrams are often longer words that don't really mean anything but are fun to say.  Sometimes they can even mean something ____, like when a common word, \"restaurant,\" becomes \"Eat rats, run!\"\nActually, palindromes and anagrams are ____.  Palindromes can be used to learn mathematics and make music.  Anagrams are also a good way to hide something.  In history, people often hid their important studies in anagrams.  Can you think of any other way to use them?",
+  "group_id": "PX-CAP111-G06",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-034",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "Anagrams are often longer words that don't really mean anything but are fun to say.  Sometimes they can even mean something ____, like when a common word, \"restaurant,\" becomes \"Eat rats, run!\"",
+  "options": [
+   "strange",
+   "difficult",
+   "delicious",
+   "important"
+  ],
+  "answer": 0,
+  "explain_zh": "restaurant（餐廳）重組字母後變成 Eat rats, run!（吃老鼠，快跑！），語意荒誕搞笑又出人意料，最貼切的形容是「奇怪的」，故選 strange。difficult（困難的）、delicious（美味的）、important（重要的）都無法呼應這種無厘頭的趣味。",
+  "vocab": [
+   {
+    "w": "strange",
+    "zh": "奇怪的",
+    "pos": "adj."
+   },
+   {
+    "w": "anagram",
+    "zh": "字母重組詞",
+    "pos": "n."
+   }
+  ],
+  "passage": "English words are made of 26 letters, and palindromes and anagrams are two kinds of word games about spelling.  A palindrome is a word or a sentence that reads the same from left to right or from right to left, ____, \"eye,\" \"Bob,\" \"my gym,\" and \"Was it a car or a cat I saw?\"  An anagram of a word or words is made by putting the letters of the word or words in a different way.  Look at the words and their anagrams below.  Can you think of other possible anagrams of these words?\nAnagrams are often longer words that don't really mean anything but are fun to say.  Sometimes they can even mean something ____, like when a common word, \"restaurant,\" becomes \"Eat rats, run!\"\nActually, palindromes and anagrams are ____.  Palindromes can be used to learn mathematics and make music.  Anagrams are also a good way to hide something.  In history, people often hid their important studies in anagrams.  Can you think of any other way to use them?",
+  "group_id": "PX-CAP111-G06",
+  "source": "111會考"
+ },
+ {
+  "id": "PX-CAP111-035",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "Actually, palindromes and anagrams are ____.  Palindromes can be used to learn mathematics and make music.  Anagrams are also a good way to hide something.",
+  "options": [
+   "more than just games",
+   "often played in public",
+   "not so popular as before",
+   "not first used to learn words"
+  ],
+  "answer": 0,
+  "explain_zh": "後文說迴文可以用來學數學、作曲，字謎則可以用來藏密語，可知這兩種文字遊戏「不只是遊戲而已」，還有實際用途，故選 more than just games。其餘選項（常在公開場合玩、不像以前流行、並非最初用於學單字）都與後文舉出的「實用功能」無關。",
+  "vocab": [
+   {
+    "w": "more than",
+    "zh": "不只是",
+    "pos": "phr."
+   },
+   {
+    "w": "hide",
+    "zh": "隱藏",
+    "pos": "v."
+   }
+  ],
+  "passage": "English words are made of 26 letters, and palindromes and anagrams are two kinds of word games about spelling.  A palindrome is a word or a sentence that reads the same from left to right or from right to left, ____, \"eye,\" \"Bob,\" \"my gym,\" and \"Was it a car or a cat I saw?\"  An anagram of a word or words is made by putting the letters of the word or words in a different way.  Look at the words and their anagrams below.  Can you think of other possible anagrams of these words?\nAnagrams are often longer words that don't really mean anything but are fun to say.  Sometimes they can even mean something ____, like when a common word, \"restaurant,\" becomes \"Eat rats, run!\"\nActually, palindromes and anagrams are ____.  Palindromes can be used to learn mathematics and make music.  Anagrams are also a good way to hide something.  In history, people often hid their important studies in anagrams.  Can you think of any other way to use them?",
+  "group_id": "PX-CAP111-G06",
+  "source": "111會考"
+ }
+]

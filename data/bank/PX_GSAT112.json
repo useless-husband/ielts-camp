@@ -1,0 +1,974 @@
+[
+ {
+  "id": "PX-GSAT112-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The bus driver often complains about chewing gum found under passenger seats because it is ____ and very hard to remove.",
+  "options": [
+   "sticky",
+   "greasy",
+   "clumsy",
+   "mighty"
+  ],
+  "answer": 0,
+  "explain_zh": "公車司機常抱怨座椅底下的口香糖「黏黏的」很難清除，故選 sticky。greasy（油膩的）、clumsy（笨拙的）、mighty（強大的）皆無法形容口香糖沾黏難以清除的特性。sticky 常用來描述具有黏性、不易分離的物體。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "sticky",
+    "zh": "黏的",
+    "pos": "adj."
+   },
+   {
+    "w": "complain",
+    "zh": "抱怨",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Jesse is a talented model. He can easily adopt an elegant ____ for a camera shoot.",
+  "options": [
+   "clap",
+   "toss",
+   "pose",
+   "snap"
+  ],
+  "answer": 2,
+  "explain_zh": "傑西是位有天分的模特兒，拍照時能輕易擺出優雅的「姿勢」，故選 pose。clap（鼓掌）、toss（拋擲）、snap（猛咬、拍照的動作但非指姿勢本身）皆無法形容拍照時身體呈現的姿態。pose 常用於攝影或藝術情境中描述擺姿勢。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "pose",
+    "zh": "姿勢",
+    "pos": "n."
+   },
+   {
+    "w": "elegant",
+    "zh": "優雅的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "In order to draw her family tree, Mary tried to trace her ____ back to their arrival in North America.",
+  "options": [
+   "siblings",
+   "commuters",
+   "ancestors",
+   "instructors"
+  ],
+  "answer": 2,
+  "explain_zh": "瑪莉為了畫家族樹，試圖追溯「祖先」自何時抵達北美，故選 ancestors。siblings（手足）、commuters（通勤者）、instructors（教練、講師）皆與「家族血緣的上一代」無關。ancestor 常用於描述家族世系中的祖先。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "ancestor",
+    "zh": "祖先",
+    "pos": "n."
+   },
+   {
+    "w": "trace",
+    "zh": "追溯",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Upon the super typhoon warning, Nancy rushed to the supermarket—only to find the shelves almost ____ and the stock nearly gone.",
+  "options": [
+   "blank",
+   "bare",
+   "hollow",
+   "queer"
+  ],
+  "answer": 1,
+  "explain_zh": "颱風警報一發布，南西趕到超市卻發現貨架幾乎「空」了，存貨所剩無幾，故選 bare。blank（空白的，通常形容紙張或表情）、hollow（中空的）、queer（古怪的）皆無法形容貨架上「東西被搶購一空」的狀態。bare shelves 是常見的固定搭配。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "bare",
+    "zh": "空的",
+    "pos": "adj."
+   },
+   {
+    "w": "stock",
+    "zh": "存貨",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Even though Jack said \"Sorry!\" to me in person, I did not feel any ____ in his apology.",
+  "options": [
+   "liability",
+   "generosity",
+   "integrity",
+   "sincerity"
+  ],
+  "answer": 3,
+  "explain_zh": "傑克雖然當面說了「對不起」，但說話者完全感受不到道歉中的「誠意」，故選 sincerity。liability（責任、負債）、generosity（慷慨）、integrity（正直）皆無法形容道歉是否出自真心。sincerity 常用來描述話語或行為的真誠程度。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "sincerity",
+    "zh": "誠意",
+    "pos": "n."
+   },
+   {
+    "w": "apology",
+    "zh": "道歉",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "My grandfather has astonishing powers of ____. He can still vividly describe his first day at school as a child.",
+  "options": [
+   "resolve",
+   "fraction",
+   "privilege",
+   "recall"
+  ],
+  "answer": 3,
+  "explain_zh": "祖父擁有驚人的「回憶」力，至今仍能生動描述小時候第一天上學的情景，故選 recall。resolve（決心）、fraction（分數、部分）、privilege（特權）皆無法形容記憶或回想的能力。powers of recall 是描述記憶力的常見說法。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "recall",
+    "zh": "回憶",
+    "pos": "n."
+   },
+   {
+    "w": "vividly",
+    "zh": "生動地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Recent research has found lots of evidence to ____ the drug company's claims about its \"miracle\" tablets for curing cancer.",
+  "options": [
+   "provoke",
+   "counter",
+   "expose",
+   "convert"
+  ],
+  "answer": 1,
+  "explain_zh": "最新研究找到大量證據，用來「反駁」藥廠關於抗癌神奇藥丸的說法，故選 counter。provoke（挑釁、激起）、expose（揭露）、convert（轉換）皆無法與 the drug company's claims 搭配出「反駁」的語意。counter 作動詞使用時常指提出相反的證據來反擊。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "counter",
+    "zh": "反駁",
+    "pos": "v."
+   },
+   {
+    "w": "evidence",
+    "zh": "證據",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Corrupt officials and misguided policies have ____ the country's economy and burdened its people with enormous foreign debts.",
+  "options": [
+   "crippled",
+   "accelerated",
+   "rendered",
+   "ventured"
+  ],
+  "answer": 0,
+  "explain_zh": "貪腐官員與錯誤政策「拖垮」了國家經濟，也讓人民背負龐大外債，故選 crippled。accelerated（加速，語意方向相反）、rendered（使成為，需搭配補語）、ventured（冒險嘗試）皆無法與 the country's economy 搭配出「重創」的語意。cripple 常用於描述使某事物嚴重受損失能。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "cripple",
+    "zh": "重創、使癱瘓",
+    "pos": "v."
+   },
+   {
+    "w": "corrupt",
+    "zh": "貪腐的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "As a record number of fans showed up for the baseball final, the highways around the stadium were ____ with traffic all day.",
+  "options": [
+   "choked",
+   "disturbed",
+   "enclosed",
+   "injected"
+  ],
+  "answer": 0,
+  "explain_zh": "破紀錄的球迷人數湧入棒球總決賽，讓球場周邊高速公路整天「塞爆」車潮，故選 choked。disturbed（打擾）、enclosed（圍住）、injected（注射）皆無法形容道路被車潮堵塞的狀態。be choked with traffic 是常見的固定搭配，表示交通嚴重堵塞。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "choke",
+    "zh": "堵塞",
+    "pos": "v."
+   },
+   {
+    "w": "highway",
+    "zh": "高速公路",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Studies show that the ____ unbiased media are in fact often deeply influenced by political ideology.",
+  "options": [
+   "undoubtedly",
+   "roughly",
+   "understandably",
+   "supposedly"
+  ],
+  "answer": 3,
+  "explain_zh": "研究顯示，「號稱」中立公正的媒體其實常深受政治意識形態影響，帶有反諷語氣，故選 supposedly，表示「據說、號稱」但實際未必如此。undoubtedly（無疑地）、roughly（大致上）、understandably（可以理解地）皆無法傳達這種名不符實的反諷語氣。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "supposedly",
+    "zh": "據說、號稱",
+    "pos": "adv."
+   },
+   {
+    "w": "ideology",
+    "zh": "意識形態",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, (11), touches the neighboring tree. This beautiful phenomenon is called crown shyness.\nScientists have been discussing crown shyness since the 1920s, proposing (12) explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\nOther scientists suggest that plants, like animals, (13) resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their (14) light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. (15) decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+  "group_id": "PX-GSAT112-G01",
+  "stem": "(11) 應填入：each branch growing just perfectly so it almost, ____, touches the neighboring tree.",
+  "options": [
+   "in no time",
+   "by all means",
+   "but not quite",
+   "and pretty much"
+  ],
+  "answer": 2,
+  "explain_zh": "樹枝生長得恰到好處，幾乎快要碰到鄰樹，「卻還沒真的」碰到，but not quite 表示「但並非完全如此」，故選 but not quite。in no time（馬上）、by all means（務必）、and pretty much（幾乎完全，與「還沒碰到」矛盾）皆不符合此處的微妙語意。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "but not quite",
+    "zh": "卻還沒真的",
+    "pos": "phr."
+   },
+   {
+    "w": "phenomenon",
+    "zh": "現象",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, (11), touches the neighboring tree. This beautiful phenomenon is called crown shyness.\nScientists have been discussing crown shyness since the 1920s, proposing (12) explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\nOther scientists suggest that plants, like animals, (13) resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their (14) light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. (15) decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+  "group_id": "PX-GSAT112-G01",
+  "stem": "(12) 應填入：Scientists have been discussing crown shyness since the 1920s, proposing ____ explanations for the phenomenon.",
+  "options": [
+   "universal",
+   "productive",
+   "conventional",
+   "multiple"
+  ],
+  "answer": 3,
+  "explain_zh": "科學家自1920年代起針對樹冠羞避現象提出「多種」不同解釋，故選 multiple。universal（普遍適用的）、productive（有生產力的）、conventional（傳統的）皆無法形容「數量眾多、各不相同」的解釋。multiple explanations 常用於描述對同一現象的多種理論。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "multiple",
+    "zh": "多種的",
+    "pos": "adj."
+   },
+   {
+    "w": "propose",
+    "zh": "提出",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, (11), touches the neighboring tree. This beautiful phenomenon is called crown shyness.\nScientists have been discussing crown shyness since the 1920s, proposing (12) explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\nOther scientists suggest that plants, like animals, (13) resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their (14) light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. (15) decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+  "group_id": "PX-GSAT112-G01",
+  "stem": "(13) 應填入：Other scientists suggest that plants, like animals, ____ resources—nutrients, water, space, and light.",
+  "options": [
+   "get over",
+   "compete for",
+   "give way to",
+   "make up for"
+  ],
+  "answer": 1,
+  "explain_zh": "科學家指出植物如同動物一樣會「爭奪」養分、水分、空間與陽光等資源，故選 compete for。get over（克服）、give way to（讓位給）、make up for（彌補）皆無法與 resources 搭配出「競爭資源」的語意。compete for 常用於描述生物間的資源競爭。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "compete for",
+    "zh": "爭奪",
+    "pos": "phr."
+   },
+   {
+    "w": "nutrient",
+    "zh": "養分",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, (11), touches the neighboring tree. This beautiful phenomenon is called crown shyness.\nScientists have been discussing crown shyness since the 1920s, proposing (12) explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\nOther scientists suggest that plants, like animals, (13) resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their (14) light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. (15) decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+  "group_id": "PX-GSAT112-G01",
+  "stem": "(14) 應填入：Gaps in the treetops resulting from crown shyness may allow trees to increase their ____ light and enhance photosynthesis.",
+  "options": [
+   "reliance on",
+   "exposure to",
+   "sensitivity to",
+   "reflection on"
+  ],
+  "answer": 1,
+  "explain_zh": "樹冠間的空隙可以增加樹木「接觸」陽光的機會，進而提升光合作用效率，故選 exposure to。reliance on（依賴）、sensitivity to（敏感度）、reflection on（對……的反思）皆無法表達「暴露在陽光下」的語意。exposure to light 是常見的固定搭配。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "exposure",
+    "zh": "暴露、接觸",
+    "pos": "n."
+   },
+   {
+    "w": "photosynthesis",
+    "zh": "光合作用",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "In certain forests, when you look up you will see a network of cracks formed by gaps between the outermost edges of tree branches. It looks like a precisely engineered jigsaw puzzle, each branch growing just perfectly so it almost, (11), touches the neighboring tree. This beautiful phenomenon is called crown shyness.\nScientists have been discussing crown shyness since the 1920s, proposing (12) explanations for the phenomenon. Some researchers point out that as trees often grow close together, treetops can easily collide and break when swayed by the wind. In order to protect their branches from breakage, trees maintain \"shyness gaps\"—spaces large enough to prevent them from touching their neighbors.\nOther scientists suggest that plants, like animals, (13) resources—nutrients, water, space, and light. In forested areas with thick tree crowns, there is intense struggle for these resources. Gaps in the treetops resulting from crown shyness may allow trees to increase their (14) light and enhance photosynthesis. Additionally, by having branches that do not touch those of their neighbors, trees may be able to limit the spread of leaf-eating insects, and potentially also the transmission of diseases from tree to tree. (15) decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+  "group_id": "PX-GSAT112-G01",
+  "stem": "(15) 應填入：____ decades of investigation, there is no consensus on exactly what causes the beautiful and mysterious phenomenon of crown shyness.",
+  "options": [
+   "For",
+   "Besides",
+   "Despite",
+   "Concerning"
+  ],
+  "answer": 2,
+  "explain_zh": "「儘管」經過數十年的研究，科學家對於樹冠羞避現象成因仍未有共識，Despite 表示讓步關係，故選 Despite。For（因為，不能直接接名詞片語表讓步）、Besides（此外）、Concerning（關於）皆無法表達「儘管……仍然」的讓步語氣。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "despite",
+    "zh": "儘管",
+    "pos": "prep."
+   },
+   {
+    "w": "consensus",
+    "zh": "共識",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Gravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot (16) Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' (17) condition.\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids (18), shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more (19) when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often (20) space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+  "group_id": "PX-GSAT112-G02",
+  "stem": "(16) 應填入：scientists tried to overcome the force of gravity so that a rocket could shoot ____ Earth's pull in order to land humans on the moon.",
+  "options": [
+   "back to",
+   "free of",
+   "long before",
+   "straight on"
+  ],
+  "answer": 1,
+  "explain_zh": "早期太空科學家致力克服地心引力，讓火箭能「脫離」地球引力束縛以登陸月球，free of 表示「擺脫……」，故選 free of。back to（回到）、long before（早於）、straight on（直直向前）皆無法表達「掙脫地心引力」的語意。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "free of",
+    "zh": "脫離、擺脫",
+    "pos": "phr."
+   },
+   {
+    "w": "pull",
+    "zh": "引力、拉力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Gravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot (16) Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' (17) condition.\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids (18), shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more (19) when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often (20) space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+  "group_id": "PX-GSAT112-G02",
+  "stem": "(17) 應填入：Today, they are more interested in how reduced gravity affects the astronauts' ____ condition.",
+  "options": [
+   "physical",
+   "perceptual",
+   "mental",
+   "external"
+  ],
+  "answer": 0,
+  "explain_zh": "如今科學家更關心低重力如何影響太空人的「生理」狀況，後文描述體液分布改變、臉部浮腫等身體現象，故選 physical。perceptual（知覺的）、mental（心理的）、external（外部的）皆與後文描述的身體生理變化不符。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "physical",
+    "zh": "生理的、身體的",
+    "pos": "adj."
+   },
+   {
+    "w": "gravity",
+    "zh": "重力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Gravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot (16) Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' (17) condition.\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids (18), shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more (19) when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often (20) space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+  "group_id": "PX-GSAT112-G02",
+  "stem": "(18) 應填入：with the absence of gravity in the outer space, our body fluids ____, shifting toward the upper body and the head.",
+  "options": [
+   "redistribute",
+   "redistributed",
+   "redistributing",
+   "being redistributed"
+  ],
+  "answer": 0,
+  "explain_zh": "在太空無重力環境下，體液會向上半身與頭部「重新分布」，主詞 fluids 為複數且句意為現在式主動描述的一般事實，故選 redistribute。redistributed（過去式）、redistributing（現在分詞需搭配助動詞）、being redistributed（被動進行式）皆不符合此處單句主動語態的文法要求。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "redistribute",
+    "zh": "重新分布",
+    "pos": "v."
+   },
+   {
+    "w": "absence",
+    "zh": "缺乏、不存在",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Gravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot (16) Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' (17) condition.\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids (18), shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more (19) when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often (20) space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+  "group_id": "PX-GSAT112-G02",
+  "stem": "(19) 應填入：This \"Charlie Brown effect\" will be more ____ when the astronauts go on their Mars missions, which will take about three years to complete.",
+  "options": [
+   "contagious",
+   "unusual",
+   "severe",
+   "aggressive"
+  ],
+  "answer": 2,
+  "explain_zh": "火星任務耗時約三年，比登月任務長得多，這種「查理布朗效應」（臉部浮腫）也會變得更「嚴重」，故選 severe。contagious（傳染性的）、unusual（不尋常的）、aggressive（有攻擊性的）皆無法形容生理症狀因任務時間拉長而惡化的程度。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "severe",
+    "zh": "嚴重的",
+    "pos": "adj."
+   },
+   {
+    "w": "puffy",
+    "zh": "浮腫的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Gravity has been at the top of the science agenda since the start of Mars missions. In the earlier days of space travel, scientists tried to overcome the force of gravity so that a rocket could shoot (16) Earth's pull in order to land humans on the moon. Today, they are more interested in how reduced gravity affects the astronauts' (17) condition.\nOur bodies have evolved to exist within Earth's gravity (1 g), not in the weightlessness of space (0 g) or the microgravity of Mars (0.3 g). When on Earth, we have more fluids in our lower body because they are pulled down by Earth's gravity. However, with the absence of gravity in the outer space, our body fluids (18), shifting toward the upper body and the head. As a result, the astronauts have swollen, puffy faces, very much resembling that of the round-headed Charlie Brown in the famous comic strip. This \"Charlie Brown effect\" will be more (19) when the astronauts go on their Mars missions, which will take about three years to complete, much longer than missions to the moon. Moreover, the effect is often (20) space motion sickness, headaches, and nausea. Such a syndrome is considered the top health risk for the astronauts, and scientists are still trying to figure out how it may be prevented.",
+  "group_id": "PX-GSAT112-G02",
+  "stem": "(20) 應填入：Moreover, the effect is often ____ space motion sickness, headaches, and nausea.",
+  "options": [
+   "varied with",
+   "brought about",
+   "transferred from",
+   "accompanied by"
+  ],
+  "answer": 3,
+  "explain_zh": "此效應常「伴隨」太空暈眩症、頭痛與噁心等症狀一起出現，accompanied by 表示「伴隨著」，故選 accompanied by。varied with（隨……而變化）、brought about（被引發，語意方向較弱）、transferred from（從……轉移而來）皆不如 accompanied by 貼切表達症狀併發的語意。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "accompany",
+    "zh": "伴隨",
+    "pos": "v."
+   },
+   {
+    "w": "nausea",
+    "zh": "噁心",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-021",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "When did people first experience the joy of the hula hoop? Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times. As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine. They threw, jumped, and slung them around their bodies as we do today. They also struck them with sticks to roll them down the road. Hoop rolling was also popular in ancient Greece. Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.\nIn the 14th century, hoops were popular as a form of recreation in Great Britain. The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records. The term \"hula,\" however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands. Though no hoops were used, the movements of the ritual dances looked very similar to those in hooping. Thus \"hula\" and \"hoop\" came together, resulting in the term \"hula hooping.\"\nHoops spun their way through the cultures of pre-colonial America as well. Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans. Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes. With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.\nThe hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company. Twenty-five million plastic hoops were sold in less than four months. The hula hoop \"fad\" is still going strong today.",
+  "group_id": "PX-GSAT112-G03",
+  "stem": "What question does the passage answer?",
+  "options": [
+   "How was the word \"hula-hooping\" derived?",
+   "Why did Wham-O start making hula hoops?",
+   "Where did Hawaiian hula dancing come from?",
+   "What was the favorite toy of ancient Egyptian kids?"
+  ],
+  "answer": 0,
+  "explain_zh": "全文說明 hula 與 hoop 兩字如何因水手見識夏威夷呼拉舞而結合成 hula-hooping 這個詞，回答的正是「這個詞怎麼來的」，故選 A。選項 B、C、D 皆非文章主要想回答的問題，只是文中提及的部分背景資訊。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "derive",
+    "zh": "衍生、源自",
+    "pos": "v."
+   },
+   {
+    "w": "witness",
+    "zh": "目擊",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-022",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "When did people first experience the joy of the hula hoop? Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times. As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine. They threw, jumped, and slung them around their bodies as we do today. They also struck them with sticks to roll them down the road. Hoop rolling was also popular in ancient Greece. Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.\nIn the 14th century, hoops were popular as a form of recreation in Great Britain. The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records. The term \"hula,\" however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands. Though no hoops were used, the movements of the ritual dances looked very similar to those in hooping. Thus \"hula\" and \"hoop\" came together, resulting in the term \"hula hooping.\"\nHoops spun their way through the cultures of pre-colonial America as well. Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans. Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes. With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.\nThe hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company. Twenty-five million plastic hoops were sold in less than four months. The hula hoop \"fad\" is still going strong today.",
+  "group_id": "PX-GSAT112-G03",
+  "stem": "Which of the following statements is true about use of the hoop in history?",
+  "options": [
+   "The British used it for medical purposes.",
+   "Native Americans used it to train animals.",
+   "Ancient Greeks used it as a tool for workout.",
+   "Hawaiian dancers used it to represent the circle of life."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到古希臘的金屬環除了是孩童玩具，也被當作「運動健身」的器材，故選 C。選項 A 誤把英國的圈環熱潮說成醫療用途（其實反而造成運動傷害）、B、D 皆與原住民及夏威夷舞者對圈環的實際用途描述不符。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "workout",
+    "zh": "運動、健身",
+    "pos": "n."
+   },
+   {
+    "w": "device",
+    "zh": "器材、裝置",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-023",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "When did people first experience the joy of the hula hoop? Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times. As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine. They threw, jumped, and slung them around their bodies as we do today. They also struck them with sticks to roll them down the road. Hoop rolling was also popular in ancient Greece. Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.\nIn the 14th century, hoops were popular as a form of recreation in Great Britain. The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records. The term \"hula,\" however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands. Though no hoops were used, the movements of the ritual dances looked very similar to those in hooping. Thus \"hula\" and \"hoop\" came together, resulting in the term \"hula hooping.\"\nHoops spun their way through the cultures of pre-colonial America as well. Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans. Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes. With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.\nThe hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company. Twenty-five million plastic hoops were sold in less than four months. The hula hoop \"fad\" is still going strong today.",
+  "group_id": "PX-GSAT112-G03",
+  "stem": "Which of the following is NOT mentioned as a way of enjoying hula hoop fun?",
+  "options": [
+   "Striking.",
+   "Twirling.",
+   "Spinning.",
+   "Kicking."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到人們用棍子敲打圈環使其滾動（striking）、將圈環繞在身上甩動（twirling）、快速旋轉（spinning），但並未提及「踢」的玩法，故選 D。此為反向細節題，須逐一核對選項在原文中是否被提及。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "strike",
+    "zh": "敲打",
+    "pos": "v."
+   },
+   {
+    "w": "twirl",
+    "zh": "旋轉甩動",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-024",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "When did people first experience the joy of the hula hoop? Although the term did not emerge until the 18th century, toy hoops twirled around the waist, limbs, or neck can be traced back to ancient times. As early as 1000 BC, Egyptian children played with hoop toys of dried grapevine. They threw, jumped, and slung them around their bodies as we do today. They also struck them with sticks to roll them down the road. Hoop rolling was also popular in ancient Greece. Their hoops, often made of metal, were not merely toys for Greek children but served as exercise devices as well.\nIn the 14th century, hoops were popular as a form of recreation in Great Britain. The craze for hoops even resulted in dislocated backs and heart attacks, according to medical records. The term \"hula,\" however, did not enter the English language until the 1700s, when British sailors first witnessed hula dancing in the Hawaiian Islands. Though no hoops were used, the movements of the ritual dances looked very similar to those in hooping. Thus \"hula\" and \"hoop\" came together, resulting in the term \"hula hooping.\"\nHoops spun their way through the cultures of pre-colonial America as well. Often considered as representing the circle of life, hoops featured prominently in the ritual dances of Native Americans. Dancers used small reed hoops as symbolic representations of animals such as eagles or snakes. With very rapid movements, they used the hoops to construct the symbolic forms around their bodies.\nThe hula hoop gained international popularity in the late 1950s, when a plastic version was successfully marketed by California's Wham-O toy company. Twenty-five million plastic hoops were sold in less than four months. The hula hoop \"fad\" is still going strong today.",
+  "group_id": "PX-GSAT112-G03",
+  "stem": "According to the passage, what materials have been used for making hoops?",
+  "options": [
+   "reed, grapevine, bamboo, plastic",
+   "reed, grapevine, plastic, metal",
+   "reed, bamboo, plastic, animal skin",
+   "grapevine, plastic, metal, animal skin"
+  ],
+  "answer": 1,
+  "explain_zh": "文中依序提到埃及人用「乾葡萄藤」、希臘人用「金屬」、印第安人用「蘆葦」、現代用「塑膠」製作圈環，四種材質對應選項 B（reed, grapevine, plastic, metal）皆有出現，故選 B。選項 A、C、D 中的 bamboo（竹子）、animal skin（獸皮）皆非文中提及的材質。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "reed",
+    "zh": "蘆葦",
+    "pos": "n."
+   },
+   {
+    "w": "grapevine",
+    "zh": "葡萄藤",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-025",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "When you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.\nIn the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.\nIs it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.",
+  "group_id": "PX-GSAT112-G04",
+  "stem": "Why do farmers in Assam dig trenches in tea gardens?",
+  "options": [
+   "To protect tea trees.",
+   "To trap elephants.",
+   "To expand tea farms.",
+   "To mark boundaries of tea gardens."
+  ],
+  "answer": 0,
+  "explain_zh": "阿薩姆邦的農民挖掘排水溝渠，是為了「防止積水傷害茶樹」，保護作物生長，故選 A。選項 B、C、D 皆非農民挖溝渠的初衷，溝渠反而是後續意外傷及大象的副作用，並非挖掘的原始目的。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "trench",
+    "zh": "溝渠",
+    "pos": "n."
+   },
+   {
+    "w": "drainage",
+    "zh": "排水",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-026",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "When you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.\nIn the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.\nIs it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.",
+  "group_id": "PX-GSAT112-G04",
+  "stem": "Why are baby elephants easily injured in the Assam tea gardens according to the passage?",
+  "options": [
+   "They cannot find a safe shelter when climbing out of the trenches.",
+   "They cannot locate the landmarks while trying to navigate forests.",
+   "They are trapped by the sharp branches of the tea trees.",
+   "They have difficulties moving around the uneven fields."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到小象「不熟悉崎嶇不平的地形」，容易因此跌落溝渠而受傷，故選 D。選項 A、B、C 皆非文章描述的真正原因，屬於過度延伸或無中生有的陷阱選項。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "uneven",
+    "zh": "不平坦的",
+    "pos": "adj."
+   },
+   {
+    "w": "negotiate",
+    "zh": "通過（崎嶇地形）",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-027",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "When you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.\nIn the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.\nIs it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.",
+  "group_id": "PX-GSAT112-G04",
+  "stem": "Which of the following statements about elephants and the tea gardens is true according to the passage?",
+  "options": [
+   "The elephants use the trenches to roam around the tea gardens.",
+   "The fast growth of the tea gardens destroys the elephants' food source.",
+   "Elephants are unwilling to leave their injured members behind in the tea gardens.",
+   "Pregnant elephants avoid delivering babies in the tea gardens for fear of being disturbed."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到大象不願拋下生病或垂死的同伴，象群甚至會在受困小象的溝渠旁「逗留數小時」不肯離開，故選 C。選項 A、B、D 皆與原文描述的大象行為或茶園現況不符。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "reluctant",
+    "zh": "不情願的",
+    "pos": "adj."
+   },
+   {
+    "w": "linger",
+    "zh": "逗留",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-028",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "When you enjoy your morning cup of tea, you are probably not aware that those tea leaves can mean injury, or even death, for Asian elephants roaming Indian tea gardens.\nIn the Indian state of Assam, growing numbers of tea farms are destroying the Asian elephant's habitats and endangering their population. Much of the forest land where tea is grown in Assam is flat and thus farmers must dig drainage trenches to prevent water from accumulating and hurting the shrubs. The trenches, however, can be death traps for the elephants. Since the elephants need to use tea plantations as landmarks when navigating forests, they almost inevitably have to move through the farms. Moreover, because there are fewer humans around, pregnant females often use tea-growing areas as safe shelters to give birth. But baby elephants, not used to negotiating rough ground, may easily fall into the trenches and get hurt; and once injured, they might not be able to climb out. When mothers try to dig their babies out, both may be trapped and smothered by thick mud. Furthermore, elephants are known to resist leaving their sick or dying behind, and a herd may linger at a trench with a trapped baby for hours, reluctant to move on until all hope is lost.\nIs it possible for elephants to coexist with the prosperous tea business? Elephant Friendly Tea is an organization that takes the initiative to make it possible. The organization encourages consumers to choose brands that take precautions to protect elephants and has set up a certification program to reward tea growers who are doing it right. Until now, only smaller tea brands have been certified, but awareness is growing. The organization believes that people may be motivated to buy elephant-friendly brands when they know more about the risk tea can pose to these endangered animals.",
+  "group_id": "PX-GSAT112-G04",
+  "stem": "What does \"it\" in the last paragraph refer to?",
+  "options": [
+   "To certify elephant-friendly trenches and organizations.",
+   "To reward tea growers for protecting the environment.",
+   "To encourage consumers to choose high-quality brands.",
+   "To create a win-win situation for elephants and tea farms."
+  ],
+  "answer": 3,
+  "explain_zh": "it 承接前句「大象是否能與蓬勃發展的茶產業共存」的疑問，指的是讓兩者「共存雙贏」成為可能，故選 D。選項 A、B、C 只是該組織達成目標所採取的部分手段，並非 it 所指涉的核心概念。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "coexist",
+    "zh": "共存",
+    "pos": "v."
+   },
+   {
+    "w": "initiative",
+    "zh": "主動措施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-029",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Situated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago comprised of several scattered islands. This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas. But few people know that in the past, control of Zanzibar meant access to unimaginable wealth.\nFrom ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa. Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD). In the 8th century, Persian merchants built settlements here, which grew over the next four centuries into their trading posts. Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.\nDuring the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade. At the close of the 15th century, Europeans' craze for spices gave rise to the Spice Route, a network of sea lanes joining Europe with the Far East, where most spices came from. In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa. In 1499, he arrived at Zanzibar, an archipelago sitting at the crossroads of the Spice Route. The islands soon attracted traders from different lands. Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.\nSince the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place. The paths of various religions also crossed here: Muslims have lived peacefully with Christians and Buddhists on the islands for centuries. The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon floating in the air, give these jewels on the Indian Ocean an amazing charm that goes far beyond tropical beach fun.",
+  "group_id": "PX-GSAT112-G05",
+  "stem": "Which of the following is true about the earliest traders in Zanzibar?",
+  "options": [
+   "The earliest traders arrived around 900 AD.",
+   "Most of the earliest merchants came from Africa.",
+   "Asian merchants arrived centuries before the African settlers.",
+   "Traders from Persia settled down permanently around 1000 AD."
+  ],
+  "answer": 2,
+  "explain_zh": "文中明確提到亞洲商人比首批來自非洲大陸的定居者早了「900年」抵達尚吉巴，故選 C。選項 A 把年代誤植給最早商人、B 誤把最早定居者說成主要是非洲人（其實是後來才定居）、D 誤把波斯商人的年代與永久定居者混淆，皆與原文不符。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "settler",
+    "zh": "定居者",
+    "pos": "n."
+   },
+   {
+    "w": "trading post",
+    "zh": "貿易站",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-030",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Situated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago comprised of several scattered islands. This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas. But few people know that in the past, control of Zanzibar meant access to unimaginable wealth.\nFrom ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa. Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD). In the 8th century, Persian merchants built settlements here, which grew over the next four centuries into their trading posts. Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.\nDuring the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade. At the close of the 15th century, Europeans' craze for spices gave rise to the Spice Route, a network of sea lanes joining Europe with the Far East, where most spices came from. In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa. In 1499, he arrived at Zanzibar, an archipelago sitting at the crossroads of the Spice Route. The islands soon attracted traders from different lands. Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.\nSince the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place. The paths of various religions also crossed here: Muslims have lived peacefully with Christians and Buddhists on the islands for centuries. The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon floating in the air, give these jewels on the Indian Ocean an amazing charm that goes far beyond tropical beach fun.",
+  "group_id": "PX-GSAT112-G05",
+  "stem": "Which of the following can be inferred from the passage about Zanzibar?",
+  "options": [
+   "For centuries, Zanzibar has been a heaven for beach lovers.",
+   "Cloves, vanilla, and cinnamon are common spices in Zanzibar.",
+   "Besides spices, Zanzibar is well known for a great variety of jewelry.",
+   "Vasco da Gama was Zanzibar's first foreign ruler during the Age of Exploration."
+  ],
+  "answer": 1,
+  "explain_zh": "文末提到空氣中飄散著丁香、香草與肉桂的香氣，可推論這些正是尚吉巴當地盛產的常見香料，故選 B。選項 A、C、D 皆為過度推論或文章未明確支持的敘述，並非合理的推論結果。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "clove",
+    "zh": "丁香",
+    "pos": "n."
+   },
+   {
+    "w": "cinnamon",
+    "zh": "肉桂",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT112-031",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Situated off the coast of Tanzania and washed by the warm, clean waters of the Indian Ocean, Zanzibar is a tropical archipelago comprised of several scattered islands. This popular beach destination is now famous for its white sand beaches, slender palms, and turquoise seas. But few people know that in the past, control of Zanzibar meant access to unimaginable wealth.\nFrom ancient times, Zanzibar has been a trading hotspot, thanks to its location on the trade route between Arabia and Africa. Traders from Asia had already visited the islands 900 years before the arrival of its first permanent settlers from the African mainland (around 1000 AD). In the 8th century, Persian merchants built settlements here, which grew over the next four centuries into their trading posts. Between the 12th and 15th centuries, trade increased between Arabia, Persia, and Zanzibar, bringing the archipelago both wealth and power.\nDuring the Age of Exploration, commerce in Zanzibar quickly boomed, largely due to the rise of the spice trade. At the close of the 15th century, Europeans' craze for spices gave rise to the Spice Route, a network of sea lanes joining Europe with the Far East, where most spices came from. In 1498, Portuguese explorer Vasco da Gama made the first sea voyage to India, via the southernmost tip of Africa. In 1499, he arrived at Zanzibar, an archipelago sitting at the crossroads of the Spice Route. The islands soon attracted traders from different lands. Hundreds of ships sailing the Spice Route docked here, bringing spices and goods for transaction, and Zanzibar became one of the biggest trading centers in the world.\nSince the 16th century, Zanzibar has come under the rule of the Portuguese, the Arabians, and then the British, each leaving a mark on the place. The paths of various religions also crossed here: Muslims have lived peacefully with Christians and Buddhists on the islands for centuries. The unique cultural intersections, scented with the aroma of cloves, vanilla, and cinnamon floating in the air, give these jewels on the Indian Ocean an amazing charm that goes far beyond tropical beach fun.",
+  "group_id": "PX-GSAT112-G05",
+  "stem": "Which set of words is used in the passage to refer to Zanzibar?",
+  "options": [
+   "islands, settlements, posts, crossroads",
+   "islands, posts, jewels, destination",
+   "archipelago, islands, jewels, destination",
+   "archipelago, settlements, paths, islands"
+  ],
+  "answer": 2,
+  "explain_zh": "文中用來指稱尚吉巴的詞彙包括 archipelago（群島）、islands（島嶼）、jewels（珍寶，比喻用法）、destination（旅遊目的地），故選 C。選項 A、B、D 中的 settlements（聚落）、posts（貿易站）、paths（路徑）皆非用來直接指稱尚吉巴本身的詞彙。",
+  "source": "112學測",
+  "vocab": [
+   {
+    "w": "archipelago",
+    "zh": "群島",
+    "pos": "n."
+   },
+   {
+    "w": "destination",
+    "zh": "目的地",
+    "pos": "n."
+   }
+  ]
+ }
+]

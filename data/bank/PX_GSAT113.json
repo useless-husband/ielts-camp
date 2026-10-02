@@ -1,0 +1,974 @@
+[
+ {
+  "id": "PX-GSAT113-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "People who desire a ____ figure should exercise regularly and maintain healthy eating habits.",
+  "options": [
+   "spicy",
+   "slender",
+   "slight",
+   "slippery"
+  ],
+  "answer": 1,
+  "explain_zh": "想擁有「苗條」身材的人應規律運動並維持健康的飲食習慣，故選 slender。spicy（辛辣的）、slight（輕微的）、slippery（滑的）皆無法形容身材體態。slender figure 是常見的固定搭配，指纖細苗條的身形。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "slender",
+    "zh": "苗條的",
+    "pos": "adj."
+   },
+   {
+    "w": "figure",
+    "zh": "身材",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Watching the sun ____ from a sea of clouds is a must-do activity for all visitors to Ali Mountain.",
+  "options": [
+   "emerging",
+   "flashing",
+   "rushing",
+   "floating"
+  ],
+  "answer": 0,
+  "explain_zh": "觀賞太陽「從雲海中浮現」是所有到阿里山遊客必做的活動，故選 emerging。flashing（閃爍）、rushing（衝、湧）、floating（漂浮）皆無法形容日出時太陽逐漸顯露的過程。emerge from 常用於描述事物從隱藏處逐漸顯現。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "emerge",
+    "zh": "浮現",
+    "pos": "v."
+   },
+   {
+    "w": "a sea of clouds",
+    "zh": "雲海",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Do you know what time the next bus is ____? I've been waiting here for more than 30 minutes.",
+  "options": [
+   "apt",
+   "due",
+   "bound",
+   "docked"
+  ],
+  "answer": 1,
+  "explain_zh": "說話者已等了超過三十分鐘，想詢問下一班公車「預定」何時到站，故選 due，表示按表定時間應該到達。apt（易於……的）、bound（受約束的、開往……的）、docked（停靠的，通常用於船隻）皆無法表達「預計抵達」的語意。due 常用於詢問交通工具的預定到站時間。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "due",
+    "zh": "預定到達的",
+    "pos": "adj."
+   },
+   {
+    "w": "wait",
+    "zh": "等待",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The roasting heat and high ____ made me feel hot and sticky, no matter what I did to cool off.",
+  "options": [
+   "density",
+   "humidity",
+   "circulation",
+   "atmosphere"
+  ],
+  "answer": 1,
+  "explain_zh": "酷熱高溫加上高「濕度」讓人感到悶熱又黏膩，無論怎麼做都無法涼快，故選 humidity。density（密度）、circulation（循環）、atmosphere（大氣、氛圍）皆無法與 hot and sticky 的悶熱感受直接對應。humidity 專指空氣中的濕度。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "humidity",
+    "zh": "濕度",
+    "pos": "n."
+   },
+   {
+    "w": "roasting",
+    "zh": "酷熱的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Artwork created by truly great artists such as Picasso and Monet will no doubt ____ the test of time.",
+  "options": [
+   "stay",
+   "take",
+   "serve",
+   "stand"
+  ],
+  "answer": 3,
+  "explain_zh": "畢卡索、莫內等偉大藝術家的作品必定「經得起」時間的考驗，stand the test of time 是固定片語，故選 stand。stay、take、serve 皆無法與 the test of time 搭配出此固定用法。此片語常用來形容經典之作歷久彌新。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "stand the test of time",
+    "zh": "經得起時間考驗",
+    "pos": "phr."
+   },
+   {
+    "w": "artwork",
+    "zh": "藝術作品",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "In some countries, military service is ____ for men only; women do not have to serve in the military.",
+  "options": [
+   "forceful",
+   "realistic",
+   "compulsory",
+   "distinctive"
+  ],
+  "answer": 2,
+  "explain_zh": "某些國家的兵役僅限男性須「義務」服役，女性則無此義務，故選 compulsory。forceful（強有力的）、realistic（實際的）、distinctive（獨特的）皆無法形容「強制性、義務性」的規定。compulsory military service 是常見的固定搭配。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "compulsory",
+    "zh": "義務的、強制的",
+    "pos": "adj."
+   },
+   {
+    "w": "military service",
+    "zh": "兵役",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The team complained that its leader always took the ____ for all the hard work done by the team members.",
+  "options": [
+   "advantage",
+   "revenge",
+   "remedy",
+   "credit"
+  ],
+  "answer": 3,
+  "explain_zh": "團隊抱怨隊長總是把大家辛苦付出的成果「攬功」在自己身上，take the credit 是固定片語，表示「居功」，故選 credit。advantage（優勢）、revenge（報復）、remedy（補救辦法）皆無法與 take 搭配出此固定用法。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "take the credit",
+    "zh": "攬功、居功",
+    "pos": "phr."
+   },
+   {
+    "w": "complain",
+    "zh": "抱怨",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Located at the center of the city, the business hotel ____ not only good service but also convenient public transport.",
+  "options": [
+   "proposes",
+   "contains",
+   "promises",
+   "confirms"
+  ],
+  "answer": 2,
+  "explain_zh": "這間位於市中心的商務飯店「保證」提供優質服務與便利的大眾運輸，故選 promises。proposes（提議）、contains（包含，通常指物品內容物而非承諾）、confirms（確認）皆無法表達「向顧客保證」的語意。promise 常用於描述業者對品質或服務的承諾。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "promise",
+    "zh": "保證",
+    "pos": "v."
+   },
+   {
+    "w": "convenient",
+    "zh": "便利的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "As blood supplies have fallen to a critically low level, many hospitals are making an ____ for the public to donate blood.",
+  "options": [
+   "appeal",
+   "approach",
+   "operation",
+   "observation"
+  ],
+  "answer": 0,
+  "explain_zh": "血庫存量降到危急低點，許多醫院正發出捐血的「呼籲」，make an appeal 為固定片語，故選 appeal。approach（方法、途徑）、operation（手術、行動）、observation（觀察）皆無法與 make an ____ for 搭配出「呼籲」的語意。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "appeal",
+    "zh": "呼籲",
+    "pos": "n."
+   },
+   {
+    "w": "critically",
+    "zh": "危急地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "David felt disappointed when he found out that he could not choose his study partners, but would be ____ placed in a study group.",
+  "options": [
+   "eligibly",
+   "randomly",
+   "apparently",
+   "consequently"
+  ],
+  "answer": 1,
+  "explain_zh": "大衛得知自己不能選擇讀書夥伴，只能被「隨機」分配到讀書小組時感到失望，故選 randomly。eligibly（合格地，非常用副詞）、apparently（顯然地）、consequently（因此）皆無法表達「隨機分配」的語意。randomly placed 常用於描述不經個人選擇的分組方式。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "randomly",
+    "zh": "隨機地",
+    "pos": "adv."
+   },
+   {
+    "w": "disappointed",
+    "zh": "失望的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Mystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers (11) regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores (12) they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid (13). They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be (14) customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for (15) and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+  "group_id": "PX-GSAT113-G01",
+  "stem": "(11) 應填入：Sometimes referred to as secret shoppers, mystery shoppers ____ regular customers to purchase items, eat in restaurants, make inquiries, or return items.",
+  "options": [
+   "call for",
+   "pose as",
+   "attend to",
+   "engage in"
+  ],
+  "answer": 1,
+  "explain_zh": "神秘客有時會「假扮成」一般顧客，實際去購物、用餐、詢問或退貨，藉此評估服務品質，pose as 表示「偽裝成」，故選 pose as。call for（需要、呼籲）、attend to（照料）、engage in（從事）皆無法表達「假冒身分」的語意。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "pose as",
+    "zh": "假扮成",
+    "pos": "phr."
+   },
+   {
+    "w": "inquiry",
+    "zh": "詢問",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Mystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers (11) regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores (12) they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid (13). They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be (14) customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for (15) and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+  "group_id": "PX-GSAT113-G01",
+  "stem": "(12) 應填入：They grade and report on the quality of products, customer service, and environment of the stores ____ they are assigned.",
+  "options": [
+   "in that",
+   "with which",
+   "for that",
+   "to which"
+  ],
+  "answer": 3,
+  "explain_zh": "神秘客為所「被指派前往」的商店評分並撰寫報告，此處用「介系詞＋關係代名詞」構成形容詞子句修飾 the stores，assign to 表示「指派至」，故選 to which。in that（因為）、with which、for that 皆無法與 assigned 搭配出正確的介系詞語意。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "assign",
+    "zh": "指派",
+    "pos": "v."
+   },
+   {
+    "w": "grade",
+    "zh": "評分",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Mystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers (11) regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores (12) they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid (13). They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be (14) customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for (15) and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+  "group_id": "PX-GSAT113-G01",
+  "stem": "(13) 應填入：When evaluating a business, mystery shoppers have to follow certain standard procedures to avoid ____.",
+  "options": [
+   "keen competitions",
+   "financial hardship",
+   "racial conflicts",
+   "personal bias"
+  ],
+  "answer": 3,
+  "explain_zh": "評估商家時，神秘客須遵循標準流程，以避免摻雜「個人偏見」影響評分的客觀性，故選 personal bias。keen competitions（激烈競爭）、financial hardship（財務困境）、racial conflicts（種族衝突）皆與評估流程的公正性無關。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "bias",
+    "zh": "偏見",
+    "pos": "n."
+   },
+   {
+    "w": "consistency",
+    "zh": "一致性",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Mystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers (11) regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores (12) they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid (13). They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be (14) customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for (15) and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+  "group_id": "PX-GSAT113-G01",
+  "stem": "(14) 應填入：They may also pretend to be ____ customers, arguing with a salesperson without a good reason.",
+  "options": [
+   "difficult",
+   "potential",
+   "constant",
+   "anonymous"
+  ],
+  "answer": 0,
+  "explain_zh": "神秘客有時會假裝成「難搞」的顧客，無理由地與店員爭執，藉此測試店員的應對能力，故選 difficult。potential（潛在的）、constant（不變的）、anonymous（匿名的）皆無法形容「刻意刁難」的顧客類型。difficult customer 是常見的固定用語。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "difficult",
+    "zh": "難搞的",
+    "pos": "adj."
+   },
+   {
+    "w": "salesperson",
+    "zh": "銷售員",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Mystery shoppers are paid consumers who are hired to shop in stores and collect data. They are sent to a wide variety of service-based businesses, including stores, restaurants, and banks—potentially anywhere customers are served. Sometimes referred to as secret shoppers, mystery shoppers (11) regular customers to purchase items, eat in restaurants, make inquiries, or return items. They grade and report on the quality of products, customer service, and environment of the stores (12) they are assigned.\nWhen evaluating a business, mystery shoppers have to follow certain standard procedures to avoid (13). They are often given a checklist that provides directions on what to observe or look out for to ensure consistency. Sometimes these shoppers collect data about their \"normal\" observations, such as cleanliness of the store or timeliness of the service. They may also pretend to be (14) customers, arguing with a salesperson without a good reason. With the data they collect, mystery shoppers can identify areas for (15) and thereby help enhance the quality of products and services. In this way, these secret shoppers may help a business gain a competitive edge.",
+  "group_id": "PX-GSAT113-G01",
+  "stem": "(15) 應填入：With the data they collect, mystery shoppers can identify areas for ____ and thereby help enhance the quality of products and services.",
+  "options": [
+   "distribution",
+   "expectation",
+   "improvement",
+   "management"
+  ],
+  "answer": 2,
+  "explain_zh": "神秘客藉由蒐集的資料找出可「改進」之處，進而提升產品與服務品質，故選 improvement。distribution（分配）、expectation（期望）、management（管理）皆無法與 identify areas for 搭配出「找出改善空間」的語意。areas for improvement 是常見的商業用語。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "improvement",
+    "zh": "改進",
+    "pos": "n."
+   },
+   {
+    "w": "enhance",
+    "zh": "提升",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They (16) alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" (17) sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became (18) throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it (19) as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot (20) the personal attention coming from the distinctive tap of a pea shooter.",
+  "group_id": "PX-GSAT113-G02",
+  "stem": "(16) 應填入：They ____ alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable.",
+  "options": [
+   "must be using",
+   "could have used",
+   "had hardly used",
+   "were mostly using"
+  ],
+  "answer": 1,
+  "explain_zh": "十九世紀中葉已有可調式鬧鐘問世，工人「本可使用」卻因價格昂貴又不可靠而作罷，這是與過去事實相反的推測語氣，故選 could have used。must be using、had hardly used、were mostly using 皆不符合此處表達「原本有可能但實際未必如此」的過去式推測句型。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "toil",
+    "zh": "辛苦工作",
+    "pos": "v."
+   },
+   {
+    "w": "adjustable",
+    "zh": "可調整的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They (16) alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" (17) sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became (18) throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it (19) as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot (20) the personal attention coming from the distinctive tap of a pea shooter.",
+  "group_id": "PX-GSAT113-G02",
+  "stem": "(17) 應填入：____ sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas.",
+  "options": [
+   "Aimed at",
+   "Trained for",
+   "Equipped with",
+   "Exhausted by"
+  ],
+  "answer": 2,
+  "explain_zh": "敲窗人（人肉鬧鐘）身上「配備」棍子或豌豆吹管，沿街拍窗或用乾豌豆射擊窗戶叫醒顧客，Equipped with 表示「配有」，故選 Equipped with。Aimed at（瞄準）、Trained for（受訓）、Exhausted by（因……而疲憊）皆無法表達「隨身攜帶工具」的語意。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "equipped with",
+    "zh": "配備有",
+    "pos": "phr."
+   },
+   {
+    "w": "pea shooter",
+    "zh": "豌豆吹管",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They (16) alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" (17) sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became (18) throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it (19) as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot (20) the personal attention coming from the distinctive tap of a pea shooter.",
+  "group_id": "PX-GSAT113-G02",
+  "stem": "(18) 應填入：Whether they wielded rods or pea shooters, knockers-up became ____ throughout the United Kingdom.",
+  "options": [
+   "familiar presences",
+   "distant memories",
+   "vague images",
+   "public eyesores"
+  ],
+  "answer": 0,
+  "explain_zh": "不論手持棍子或吹管，敲窗人成了全英國街頭巷尾都熟悉的「身影」，故選 familiar presences。distant memories（遙遠的記憶）、vague images（模糊的印象）、public eyesores（惹人厭的公共景象）皆與文中敲窗人受歡迎、廣為人知的正面描述不符。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "presence",
+    "zh": "身影、存在",
+    "pos": "n."
+   },
+   {
+    "w": "wield",
+    "zh": "揮舞、使用",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They (16) alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" (17) sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became (18) throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it (19) as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot (20) the personal attention coming from the distinctive tap of a pea shooter.",
+  "group_id": "PX-GSAT113-G02",
+  "stem": "(19) 應填入：While the practice continued in some parts of the country until the 1970s, it ____ as alarm clocks became more widespread and affordable.",
+  "options": [
+   "remained",
+   "dismissed",
+   "revised",
+   "declined"
+  ],
+  "answer": 3,
+  "explain_zh": "隨著鬧鐘日漸普及且價格更親民，敲窗人這項行業逐漸「式微」，故選 declined。remained（維持不變，與後文行業消失的走向矛盾）、dismissed（被解僱）、revised（被修訂）皆無法表達「逐漸沒落」的語意。decline 常用於描述某行業或現象的衰退。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "decline",
+    "zh": "衰退、式微",
+    "pos": "v."
+   },
+   {
+    "w": "widespread",
+    "zh": "普及的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The modern worker rolls out of bed, groans, and turns off an alarm clock before reluctantly getting up for the day's work. But how did people get to work on time before alarm clocks were widely used?\nDuring the second Industrial Age, people toiled at unusual hours in mines or factories and often had to get up for work early in the morning. They (16) alarm clocks because adjustable alarms had been invented by the mid-19th century. But the new device was still relatively expensive and unreliable. British workers thus relied on a human alarm clock known as a \"knocker-up.\" (17) sticks or pea shooters, the human alarms would tour the streets, tap on windows, or blast them with dried peas, trying to wake paying customers in time for work.\nWhether they wielded rods or pea shooters, knockers-up became (18) throughout the United Kingdom. Every morning, these people, often older in age, were seen in big streets and small alleys, waking up their customers professionally. They usually would not leave people's houses until they were sure their customers were awake.\nWhile the practice continued in some parts of the country until the 1970s, it (19) as alarm clocks became more widespread and affordable. Today, beeping alarm clocks and smartphones that play morning music are surely simpler and more convenient. However, they cannot (20) the personal attention coming from the distinctive tap of a pea shooter.",
+  "group_id": "PX-GSAT113-G02",
+  "stem": "(20) 應填入：However, they cannot ____ the personal attention coming from the distinctive tap of a pea shooter.",
+  "options": [
+   "forget",
+   "change",
+   "match",
+   "regret"
+  ],
+  "answer": 2,
+  "explain_zh": "現代的電子鬧鐘與智慧型手機雖然更方便，卻無法「比得上」敲窗人親自拍窗傳達的個人化關懷，match 表示「相匹敵」，故選 match。forget（忘記）、change（改變）、regret（後悔）皆無法表達「比較不上」的語意。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "match",
+    "zh": "比得上",
+    "pos": "v."
+   },
+   {
+    "w": "distinctive",
+    "zh": "獨特的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-021",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "One fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons' gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.",
+  "group_id": "PX-GSAT113-G03",
+  "stem": "What does the author mean by \"a lightbulb moment\" in the first paragraph?",
+  "options": [
+   "A blessing in disguise.",
+   "A happy ending.",
+   "An unpredictable future.",
+   "A sudden inspiration."
+  ],
+  "answer": 3,
+  "explain_zh": "a lightbulb moment 字面指「燈泡亮起的瞬間」，引申為「靈光一閃、突然頓悟」，呼應德梅斯特拉爾看到芒刺後產生發明魔鬼氈的靈感，故選 D sudden inspiration。A、B、C 皆非此片語在此處表達的正確含意，屬於望文生義的陷阱選項。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "inspiration",
+    "zh": "靈感",
+    "pos": "n."
+   },
+   {
+    "w": "burr",
+    "zh": "芒刺",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-022",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "One fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons' gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.",
+  "group_id": "PX-GSAT113-G03",
+  "stem": "Which of the following statements about Velcro is true?",
+  "options": [
+   "It has been a market favorite since its first appearance.",
+   "Cotton was not durable enough to be used as its materials.",
+   "It was given a French name because it was first produced in France.",
+   "The design was intended to look as shiny and smooth as velvet."
+  ],
+  "answer": 1,
+  "explain_zh": "文中明確提到他最初嘗試用棉布，但棉布太軟、禁不起反覆開合的考驗，故選 B。選項 A 與文中「起初市場反應不佳」矛盾、C 誤解 Velcro 一詞的來源（源自法文而非在法國生產）、D 誤解命名用意（並非為了外觀像絲絨），皆與原文不符。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "durable",
+    "zh": "耐用的",
+    "pos": "adj."
+   },
+   {
+    "w": "withstand",
+    "zh": "承受、禁得起",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-023",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "One fine morning in 1941, Swiss engineer George de Mestral went for a walk in the woods with his dog. Upon their return home, he found a lot of burrs (from plants) stuck to the dog's fur and his pants. He immediately rushed to his microscope and examined the burrs attached on his pants—feeling a lightbulb moment coming on.\nUpon closer examination, de Mestral observed that the burrs, which appeared straight to the naked eye, actually contained many small hooks that clung firmly to the loops in the fabric of his pants. He determined that if he could recreate the same thing, making hooks-and-loops that bind to each other firmly, he could produce a strong fastener with many uses.\nDe Mestral's first challenge was finding a fabric for a strong bonding system. He first tried cotton, but it proved too soft and could not withstand repeated openings and closures. After years of research and testing, he learned that synthetics worked best and eventually settled on heat-treated nylon, a strong and durable substance. By 1955, he had completed an improved version of the product, with each square inch of material containing 300 hooks, which made it stay fastened and yet easy enough to pull apart when needed. Named \"Velcro,\" from the French words velours (velvet) and crochet (hook), the new product received a patent from the Swiss government in 1955. De Mestral thus began mass-producing Velcro, opening plants in Europe and eventually into Canada and the United States.\nInitially Velcro did not fare well. As most fashion critics considered it ugly and cheap-looking, the use of Velcro was limited to athletic equipment. In the early 1960s, the product received a huge boost in popularity when NASA began using it in a lot of equipment that went into space along with astronauts. Today, de Mestral's design is found almost everywhere: clothing and footwear, toys, airline seat cushions, blood pressure cuffs and surgeons' gowns. Most impressively, the magical fastener was used in the first human artificial heart transplantation to hold together parts of the device.",
+  "group_id": "PX-GSAT113-G03",
+  "stem": "Which of the following fields is NOT mentioned for Velcro uses in the passage?",
+  "options": [
+   "Civil engineering.",
+   "Aerospace industry.",
+   "Medical technology.",
+   "Sports and recreation."
+  ],
+  "answer": 0,
+  "explain_zh": "文中提到魔鬼氈用於太空設備（NASA）、醫療器材（血壓計、手術袍、人工心臟）以及運動用品，但並未提及「土木工程」領域，故選 A。選項 B、C、D 皆能在文章第四段找到對應的敘述。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "civil engineering",
+    "zh": "土木工程",
+    "pos": "n."
+   },
+   {
+    "w": "aerospace",
+    "zh": "航太的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-024",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Thomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors—the first color renderings of the area—as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
+  "group_id": "PX-GSAT113-G04",
+  "stem": "What can we learn from the passage?",
+  "options": [
+   "How national parks around the world were established.",
+   "How Yellowstone's natural features were formed.",
+   "Why Moran's family moved to the United States.",
+   "Why Moran started painting Yellowstone."
+  ],
+  "answer": 3,
+  "explain_zh": "全文說明摩蘭因緣際會受託繪製《黃石奇觀》插畫，進而親自前往黃石地區寫生，最終促成黃石成為國家公園，主軸是「他為何開始繪製黃石」，故選 D。選項 A、B、C 皆非文章核心，只是背景資訊或部分細節。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "establishment",
+    "zh": "設立",
+    "pos": "n."
+   },
+   {
+    "w": "captivate",
+    "zh": "使著迷",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-025",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Thomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors—the first color renderings of the area—as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
+  "group_id": "PX-GSAT113-G04",
+  "stem": "Why does the author use \"the blackened heart\" in paragraph 2 to describe Moran's hometown?",
+  "options": [
+   "The place was severely polluted.",
+   "The town was filled with darkened holes.",
+   "There were many evil-hearted industry owners.",
+   "The laborers mostly wore dark and dirty uniforms."
+  ],
+  "answer": 0,
+  "explain_zh": "作者用「烏黑的心臟」比喻摩蘭故鄉是工業革命的核心地帶，街道髒污、河流如一條髒水帶，藉此描繪當地遭受嚴重污染的景象，故選 A。選項 B、C、D 皆是對這個比喻的字面誤讀，並非作者真正想表達的意涵。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "pollute",
+    "zh": "污染",
+    "pos": "v."
+   },
+   {
+    "w": "industrial",
+    "zh": "工業的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-026",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Thomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors—the first color renderings of the area—as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
+  "group_id": "PX-GSAT113-G04",
+  "stem": "Which of the following statements is true about the Yellowstone National Park?",
+  "options": [
+   "Its establishment was proposed by Langford.",
+   "Americans knew little about its beauty before the 1870s.",
+   "The government project was started due to its rich natural resources.",
+   "It was the only national park established because of Moran's works."
+  ],
+  "answer": 1,
+  "explain_zh": "文中提到在摩蘭的作品問世之前，黃石在大眾想像中只是個充滿熱水蒸氣、如地獄般的蠻荒之地，顯示當時美國人對其美景所知甚少，故選 B。選項 A 把提議者誤植為朗福德（他只是撰寫故事的人）、C 與原文重點（因摩蘭畫作而設立）不符、D 誇大成唯一因摩蘭而設立的公園，皆與原文不符。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "picturesque",
+    "zh": "如畫般美麗的",
+    "pos": "adj."
+   },
+   {
+    "w": "wonderland",
+    "zh": "奇境",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-027",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Thomas Moran, a famous painter in the 19th century, played an important role in the establishment of American national parks. His vivid paintings brought the splendor of the extraordinary landscapes before the eyes of American people, thus setting the stage for the regions to be widely recognized and officially established as national parks.\nMoran came to the United States at age 7 with his family and settled in Philadelphia. They came from northwest England, the blackened heart of the Industrial Revolution: Its main street was \"a dark, unattractive hole\" and the river running through it was a string of dirty water. That was all the nature that Moran knew. Moran began painting by age 15, inspired by the landscape paintings of the British master J.M.W. Turner. There was plenty of landscape for him to paint in America, much different from his hometown. Showing great talent in painting, Moran was soon hired as an illustrator at Scribner's Monthly, and later appointed chief illustrator by age 34. In 1871, he was appointed to illustrate The Wonders of Yellowstone, a story by Nathaniel P. Langford, who had participated in an expedition to Yellowstone. Captivated by the utterly fantastic sights Langford described, Moran became eager to see this odd territory for himself.\nIn 1871 Moran joined the first US government survey of the Yellowstone region with photographer William Henry Jackson. For two weeks he filled his sketchbook with the landscape's most stunning sights. Moran's watercolors—the first color renderings of the area—as well as Jackson's photos and the survey results were presented to the Congress. His powerful images of Yellowstone fired the imagination of Congress members. In March 1872, lawmakers officially made Yellowstone a national park, the world's first.\nBefore Moran arrived, Yellowstone in the popular imagination was a harsh, wild place with hot water and steam coming out of hellish holes in the ground. Since the painter's work appeared, Yellowstone National Park has come to be known as a picturesque wonderland. By the time Moran died, he had painted a dozen other areas that would become national parks or monuments.",
+  "group_id": "PX-GSAT113-G04",
+  "stem": "What can be inferred from the passage?",
+  "options": [
+   "Scribner's Monthly was a magazine promoting national parks.",
+   "Moran had visited Yellowstone before he started painting its landscapes.",
+   "Color photos were not common when Moran started painting Yellowstone.",
+   "Watercolor was the most popular form of landscape painting in the 19th century."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到摩蘭的水彩畫是該地區「首批彩色影像」，可推知當時彩色攝影技術尚未普及，只能靠畫家以顏料呈現色彩，故選 C。選項 A、B、D 皆屬過度推論或與原文描述不符的陷阱選項。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "rendering",
+    "zh": "（藝術的）呈現",
+    "pos": "n."
+   },
+   {
+    "w": "common",
+    "zh": "普遍的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-028",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.",
+  "group_id": "PX-GSAT113-G05",
+  "stem": "What is the primary goal of 100% Fish?",
+  "options": [
+   "To advance ocean technology.",
+   "To reduce food crises worldwide.",
+   "To enhance cross-industry cooperation.",
+   "To make the most of marine resources."
+  ],
+  "answer": 3,
+  "explain_zh": "文中明確指出「100% Fish」計畫的宗旨是鼓勵充分利用每一條捕獲的魚，強化海鮮產品的創新，核心目標是「善用海洋資源」，故選 D。選項 A、B、C 皆只是達成此目標所採取的部分手段或附帶效益，並非計畫的主要目的。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "utilization",
+    "zh": "利用",
+    "pos": "n."
+   },
+   {
+    "w": "marine",
+    "zh": "海洋的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-029",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.",
+  "group_id": "PX-GSAT113-G05",
+  "stem": "What does \"this pioneering procedure\" in the second paragraph refer to?",
+  "options": [
+   "100% Fish's mission.",
+   "Oddsson's skin transplant.",
+   "A fundamental change in seafood business.",
+   "A new approach to protect the environment."
+  ],
+  "answer": 1,
+  "explain_zh": "this pioneering procedure 承接第一段所述、用鱈魚皮移植拯救厄德森性命的創新醫療手術，故選 B。選項 A、C、D 皆是「100% Fish」計畫的整體任務或理念，並非這句話所指涉的具體手術本身。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "transplantation",
+    "zh": "移植",
+    "pos": "n."
+   },
+   {
+    "w": "pioneering",
+    "zh": "開創性的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-030",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.",
+  "group_id": "PX-GSAT113-G05",
+  "stem": "Which of the following is true according to the passage?",
+  "options": [
+   "Iceland has increased their fish catch by 30% in the last 20 years.",
+   "Petur Oddsson was an important member of the Icelandic project.",
+   "Cross-field collaboration has proved to be very fruitful for 100% Fish.",
+   "100% Fish is a big international enterprise marketing seafood products."
+  ],
+  "answer": 2,
+  "explain_zh": "文末段落說明「100% Fish」的成功很大程度來自跨產業的合作，透過知識共享催生出多項創新產品，故選 C。選項 A、B、D 皆與原文描述的事實不符，屬於無中生有或錯置細節的陷阱選項。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "collaboration",
+    "zh": "合作",
+    "pos": "n."
+   },
+   {
+    "w": "fruitful",
+    "zh": "富有成效的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT113-031",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In 2020, Petur Oddsson, a power station worker in Iceland, was struck by a 60,000-volt current. The electrical shock burned almost half of his body and melted layers of his skin off. Such deep and extensive burns can be fatal. But Oddsson's life was saved by a creative invention: transplanting codfish skins onto human bodies.\nA triumph for medical technology, Oddsson's fish skin transplantation was actually part of the astonishing achievement of \"100% Fish,\" an ambitious task in promoting environmental efficiency. The Icelandic project, from which this pioneering procedure emerged, strives for making a fundamental change in the marine industry. It aims to encourage full utilization of each fish caught, and to strengthen innovation in seafood products.\nReducing waste of fish catch has become a serious issue today, when many countries are faced with food crises. According to a 2003 study, about 60% of a codfish caught in Iceland was lost or wasted during the production process for human consumption. Under the guidance of 100% Fish, however, Icelanders are now using almost 95% of a cod. Cod skin, for example, is made into calcium supplement and energy drinks, and even as material for skin transplantation as in Oddsson's case. Dried fish heads and spines are exported to West Africa, where they are used as the base of a protein-rich soup. Other groundbreaking products, including Omega-3 capsules, cold virus pretreatment sprays, and dog snacks are made from what was once cod catch detritus.\nThe Icelandic success is accomplished largely through cooperative efforts across various industries. 100% Fish takes the initiative to show seafood companies the importance of collaboration, and facilitate valuable connections between fishing companies and other participants of the project, including academia, start-ups, and research and development teams. By sharing knowledge and information, the different sectors are able to come up with improved processing and handling, through which creation of various innovative products was made possible. The project not only helps Icelanders to get 30% more value from each cod than most developed countries, but also provides an effective model to promote resource efficiency worldwide.",
+  "group_id": "PX-GSAT113-G05",
+  "stem": "Here is a sentence: \"Almost nothing of a fish is left for the trash bin.\" Which paragraph is most suitable to have it as the final sentence?",
+  "options": [
+   "Paragraph 1.",
+   "Paragraph 2.",
+   "Paragraph 3.",
+   "Paragraph 4."
+  ],
+  "answer": 2,
+  "explain_zh": "「幾乎沒有任何部位被丟進垃圾桶」這句話最適合放在第三段結尾，因為該段正是列舉魚皮、魚頭、魚骨等各部位如何被充分再利用的具體例子，故選 Paragraph 3。第一、二、四段的內容主軸與此總結句的語意不完全吻合。",
+  "source": "113學測",
+  "vocab": [
+   {
+    "w": "detritus",
+    "zh": "殘渣、廢棄物",
+    "pos": "n."
+   },
+   {
+    "w": "trash bin",
+    "zh": "垃圾桶",
+    "pos": "n."
+   }
+  ]
+ }
+]

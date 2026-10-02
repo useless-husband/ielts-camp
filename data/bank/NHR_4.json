@@ -1,0 +1,1357 @@
+[
+{
+"id": "NHR-0151",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "WHY WARM WATER TURNS CORAL REEFS WHITE\n\nCoral reefs along parts of Taiwan's southern coast, including areas near Kenting, have experienced repeated bleaching events over the past decade, a phenomenon that alarms marine biologists studying the region's underwater ecosystems.\n\nCoral bleaching occurs when ocean temperatures rise even slightly above a coral's normal tolerance range, often by just one or two degrees Celsius sustained over several weeks. Under stress, coral expels the colourful algae living inside its tissue, algae that normally provide the coral with both its vibrant colour and most of its food energy through photosynthesis. Without these algae, the coral turns pale white and becomes far more vulnerable to disease and starvation.\n\nBleaching does not always mean death. If water temperatures drop back to normal relatively quickly, coral can sometimes recover and rebuild its relationship with algae over several months. However, repeated bleaching events, occurring more frequently as ocean temperatures continue rising globally, leave coral increasingly little time to recover between episodes.\n\nResearchers at a marine station near Kenting have begun testing whether selectively breeding coral that survived previous bleaching events could produce offspring more resistant to heat stress. Early results are promising but preliminary, and scientists caution that breeding heat-resistant coral cannot substitute for addressing the underlying cause: rising ocean temperatures driven by global climate change.\n\nLocal dive operators, who depend economically on healthy reefs, have started participating in citizen science programs, reporting bleaching observations that help researchers track the problem across a wider area than research teams alone could cover.",
+"group_id": "NHR-G31",
+"stem": "According to the passage, what does coral expel from its tissue when it is under heat stress?",
+"options": [
+"The colourful algae that normally provide colour and food energy",
+"Small fish that typically live and hide within coral structures",
+"Excess salt water that has built up inside its structure",
+"Bacteria that cause disease in stressed coral reefs"
+],
+"answer": 0,
+"explain_zh": "文中明確提到珊瑚受壓力時會「expels the colourful algae living inside its tissue」，這些藻類提供珊瑚色彩與大部分食物能量，故選A。B、C、D 文章都沒有提到，屬於捏造的細節。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "expel",
+"zh": "排出",
+"pos": "v."
+},
+{
+"w": "algae",
+"zh": "藻類",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0152",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "WHY WARM WATER TURNS CORAL REEFS WHITE\n\nCoral reefs along parts of Taiwan's southern coast, including areas near Kenting, have experienced repeated bleaching events over the past decade, a phenomenon that alarms marine biologists studying the region's underwater ecosystems.\n\nCoral bleaching occurs when ocean temperatures rise even slightly above a coral's normal tolerance range, often by just one or two degrees Celsius sustained over several weeks. Under stress, coral expels the colourful algae living inside its tissue, algae that normally provide the coral with both its vibrant colour and most of its food energy through photosynthesis. Without these algae, the coral turns pale white and becomes far more vulnerable to disease and starvation.\n\nBleaching does not always mean death. If water temperatures drop back to normal relatively quickly, coral can sometimes recover and rebuild its relationship with algae over several months. However, repeated bleaching events, occurring more frequently as ocean temperatures continue rising globally, leave coral increasingly little time to recover between episodes.\n\nResearchers at a marine station near Kenting have begun testing whether selectively breeding coral that survived previous bleaching events could produce offspring more resistant to heat stress. Early results are promising but preliminary, and scientists caution that breeding heat-resistant coral cannot substitute for addressing the underlying cause: rising ocean temperatures driven by global climate change.\n\nLocal dive operators, who depend economically on healthy reefs, have started participating in citizen science programs, reporting bleaching observations that help researchers track the problem across a wider area than research teams alone could cover.",
+"group_id": "NHR-G31",
+"stem": "What can be inferred about why repeated bleaching events are especially dangerous for coral?",
+"options": [
+"Each bleaching event permanently changes coral's genetic structure within days",
+"Coral has increasingly little time to recover between frequent bleaching episodes",
+"Repeated bleaching makes coral immune to future temperature increases",
+"Coral cannot survive even a single bleaching event under any circumstances"
+],
+"answer": 1,
+"explain_zh": "文中提到「repeated bleaching events... leave coral increasingly little time to recover between episodes」，可推論反覆發生的白化事件之所以危險，是因為珊瑚沒有足夠時間恢復，故選B。A、C、D 文章都沒有根據。推論題要抓住這句話給出的因果關係。",
+"vocab": [
+{
+"w": "episode",
+"zh": "事件、發作",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0153",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "WHY WARM WATER TURNS CORAL REEFS WHITE\n\nCoral reefs along parts of Taiwan's southern coast, including areas near Kenting, have experienced repeated bleaching events over the past decade, a phenomenon that alarms marine biologists studying the region's underwater ecosystems.\n\nCoral bleaching occurs when ocean temperatures rise even slightly above a coral's normal tolerance range, often by just one or two degrees Celsius sustained over several weeks. Under stress, coral expels the colourful algae living inside its tissue, algae that normally provide the coral with both its vibrant colour and most of its food energy through photosynthesis. Without these algae, the coral turns pale white and becomes far more vulnerable to disease and starvation.\n\nBleaching does not always mean death. If water temperatures drop back to normal relatively quickly, coral can sometimes recover and rebuild its relationship with algae over several months. However, repeated bleaching events, occurring more frequently as ocean temperatures continue rising globally, leave coral increasingly little time to recover between episodes.\n\nResearchers at a marine station near Kenting have begun testing whether selectively breeding coral that survived previous bleaching events could produce offspring more resistant to heat stress. Early results are promising but preliminary, and scientists caution that breeding heat-resistant coral cannot substitute for addressing the underlying cause: rising ocean temperatures driven by global climate change.\n\nLocal dive operators, who depend economically on healthy reefs, have started participating in citizen science programs, reporting bleaching observations that help researchers track the problem across a wider area than research teams alone could cover.",
+"group_id": "NHR-G31",
+"stem": "The word \"vulnerable\" in the second paragraph is closest in meaning to which of the following?",
+"options": [
+"Completely protected from any form of external damage or disease",
+"Brightly coloured and easily visible to divers and researchers",
+"Easily harmed or at greater risk of damage than normal",
+"Capable of producing its own food through photosynthesis"
+],
+"answer": 2,
+"explain_zh": "vulnerable 指「脆弱的、易受傷害的」，文中說珊瑚失去藻類後「becomes far more vulnerable to disease and starvation」，也就是更容易生病或餓死，故選C。A、B、D 都不是 vulnerable 的意思。字義題可從「more vulnerable to disease and starvation」判斷語意方向。",
+"vocab": [
+{
+"w": "vulnerable",
+"zh": "脆弱的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0154",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "WHY WARM WATER TURNS CORAL REEFS WHITE\n\nCoral reefs along parts of Taiwan's southern coast, including areas near Kenting, have experienced repeated bleaching events over the past decade, a phenomenon that alarms marine biologists studying the region's underwater ecosystems.\n\nCoral bleaching occurs when ocean temperatures rise even slightly above a coral's normal tolerance range, often by just one or two degrees Celsius sustained over several weeks. Under stress, coral expels the colourful algae living inside its tissue, algae that normally provide the coral with both its vibrant colour and most of its food energy through photosynthesis. Without these algae, the coral turns pale white and becomes far more vulnerable to disease and starvation.\n\nBleaching does not always mean death. If water temperatures drop back to normal relatively quickly, coral can sometimes recover and rebuild its relationship with algae over several months. However, repeated bleaching events, occurring more frequently as ocean temperatures continue rising globally, leave coral increasingly little time to recover between episodes.\n\nResearchers at a marine station near Kenting have begun testing whether selectively breeding coral that survived previous bleaching events could produce offspring more resistant to heat stress. Early results are promising but preliminary, and scientists caution that breeding heat-resistant coral cannot substitute for addressing the underlying cause: rising ocean temperatures driven by global climate change.\n\nLocal dive operators, who depend economically on healthy reefs, have started participating in citizen science programs, reporting bleaching observations that help researchers track the problem across a wider area than research teams alone could cover.",
+"group_id": "NHR-G31",
+"stem": "What is the writer's purpose in mentioning the breeding research at the marine station near Kenting?",
+"options": [
+"To argue that breeding heat-resistant coral has completely solved the bleaching problem",
+"To prove that ocean temperatures have already stopped rising worldwide",
+"To criticize researchers for wasting resources on an unnecessary project",
+"To present a promising but limited effort that cannot replace addressing climate change"
+],
+"answer": 3,
+"explain_zh": "文章說明育種研究的初步成果「promising but preliminary」，並提醒這無法取代處理海水升溫的根本原因，目的是呈現這項努力的價值與侷限，故選D。A、B、C 都與段落內容不符。目的題要看該段落如何在肯定研究的同時加上但書。",
+"vocab": [
+{
+"w": "preliminary",
+"zh": "初步的",
+"pos": "adj."
+},
+{
+"w": "substitute",
+"zh": "取代",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0155",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "WHY WARM WATER TURNS CORAL REEFS WHITE\n\nCoral reefs along parts of Taiwan's southern coast, including areas near Kenting, have experienced repeated bleaching events over the past decade, a phenomenon that alarms marine biologists studying the region's underwater ecosystems.\n\nCoral bleaching occurs when ocean temperatures rise even slightly above a coral's normal tolerance range, often by just one or two degrees Celsius sustained over several weeks. Under stress, coral expels the colourful algae living inside its tissue, algae that normally provide the coral with both its vibrant colour and most of its food energy through photosynthesis. Without these algae, the coral turns pale white and becomes far more vulnerable to disease and starvation.\n\nBleaching does not always mean death. If water temperatures drop back to normal relatively quickly, coral can sometimes recover and rebuild its relationship with algae over several months. However, repeated bleaching events, occurring more frequently as ocean temperatures continue rising globally, leave coral increasingly little time to recover between episodes.\n\nResearchers at a marine station near Kenting have begun testing whether selectively breeding coral that survived previous bleaching events could produce offspring more resistant to heat stress. Early results are promising but preliminary, and scientists caution that breeding heat-resistant coral cannot substitute for addressing the underlying cause: rising ocean temperatures driven by global climate change.\n\nLocal dive operators, who depend economically on healthy reefs, have started participating in citizen science programs, reporting bleaching observations that help researchers track the problem across a wider area than research teams alone could cover.",
+"group_id": "NHR-G31",
+"stem": "In the sentence \"Local dive operators, who depend economically on healthy reefs, have started participating in citizen science programs, reporting bleaching observations that help researchers track the problem across a wider area than research teams alone could cover,\" what does \"the problem\" refer to?",
+"options": [
+"Coral bleaching, the phenomenon discussed throughout the passage",
+"A decline in the number of tourists visiting Kenting each year",
+"A disagreement between dive operators and marine researchers",
+"The cost of running citizen science programs near coral reefs"
+],
+"answer": 0,
+"explain_zh": "全文都在討論珊瑚白化現象，這裡的 \"the problem\" 指的就是這個現象，潛水業者回報觀察資料能幫助研究團隊追蹤更大範圍的白化狀況，故選A。B、C、D 文章都沒有提到這些內容。指代題要注意全文核心議題是什麼。",
+"vocab": [
+{
+"w": "track",
+"zh": "追蹤",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0156",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "INTERVIEW: LIFE AS A LICENSED STREET PERFORMER IN TAIPEI\n\nReporter: You've been performing as a street violinist in Ximending for six years now. How did you get started?\n\nA-Ting: I actually started almost by accident. I was practising in a park one evening, and a small crowd gathered and started leaving coins in my violin case. I hadn't even set it out intentionally. That night made me realise there might be a real audience for this.\n\nReporter: Taipei requires performers to apply for a license and audition for a specific spot. Was that process difficult?\n\nA-Ting: It was more competitive than I expected. Hundreds of performers apply for a limited number of approved locations each year, and you're judged on a short live audition. Getting a spot in a busy area like Ximending means my income is fairly steady, but performers who get less popular locations often struggle to make performing pay enough on its own.\n\nReporter: What's the hardest part of this job that people might not expect?\n\nA-Ting: Honestly, it's the unpredictability. Weather ruins an entire evening's earnings instantly, and some nights almost no one stops no matter how well I play. There's also no sick leave, no guaranteed pay. If I don't perform, I don't earn anything that day.\n\nReporter: Despite that, you've stayed with it for six years. Why?\n\nA-Ting: There's something honest about street performing. People stop, listen, and pay only if they genuinely want to. That direct connection with an audience is something I never found doing anything else.",
+"group_id": "NHR-G32",
+"stem": "Which of the following best expresses the main idea of the interview?",
+"options": [
+"Street performing in Taipei requires no license and anyone can perform anywhere",
+"A-Ting has decided to quit street performing because the income is too unstable",
+"Despite real challenges like unpredictable income, A-Ting values the direct connection with audiences that street performing offers",
+"Weather has no effect on how much money street performers earn each night"
+],
+"answer": 2,
+"explain_zh": "訪談中阿廷說明表演證申請的競爭、收入的不穩定，卻也強調這份工作與觀眾之間直接的連結讓他堅持六年，C 最能涵蓋全文重點。A、D 與文章內容相反；B 與文章相反（他仍持續表演）。主旨題要抓住受訪者對這份工作整體的評價。",
+"vocab": [
+{
+"w": "license",
+"zh": "執照",
+"pos": "n."
+},
+{
+"w": "audition",
+"zh": "試演、甄選",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0157",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "INTERVIEW: LIFE AS A LICENSED STREET PERFORMER IN TAIPEI\n\nReporter: You've been performing as a street violinist in Ximending for six years now. How did you get started?\n\nA-Ting: I actually started almost by accident. I was practising in a park one evening, and a small crowd gathered and started leaving coins in my violin case. I hadn't even set it out intentionally. That night made me realise there might be a real audience for this.\n\nReporter: Taipei requires performers to apply for a license and audition for a specific spot. Was that process difficult?\n\nA-Ting: It was more competitive than I expected. Hundreds of performers apply for a limited number of approved locations each year, and you're judged on a short live audition. Getting a spot in a busy area like Ximending means my income is fairly steady, but performers who get less popular locations often struggle to make performing pay enough on its own.\n\nReporter: What's the hardest part of this job that people might not expect?\n\nA-Ting: Honestly, it's the unpredictability. Weather ruins an entire evening's earnings instantly, and some nights almost no one stops no matter how well I play. There's also no sick leave, no guaranteed pay. If I don't perform, I don't earn anything that day.\n\nReporter: Despite that, you've stayed with it for six years. Why?\n\nA-Ting: There's something honest about street performing. People stop, listen, and pay only if they genuinely want to. That direct connection with an audience is something I never found doing anything else.",
+"group_id": "NHR-G32",
+"stem": "What can be inferred about performers who are assigned less popular locations?",
+"options": [
+"They likely earn less steady income than performers in busy areas like Ximending",
+"They are required to pay an extra fee to the city government each month",
+"They automatically receive a busier location after one year of performing",
+"They are banned from applying for a better location in future years"
+],
+"answer": 0,
+"explain_zh": "阿廷提到在熱門地點如西門町表演「my income is fairly steady」，而地點較冷門的表演者「often struggle to make performing pay enough on its own」，可推論他們收入較不穩定，故選A。B、C、D 文章都沒有根據。推論題要抓住訪談中明確給出的對比。",
+"vocab": [
+{
+"w": "steady",
+"zh": "穩定的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0158",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "INTERVIEW: LIFE AS A LICENSED STREET PERFORMER IN TAIPEI\n\nReporter: You've been performing as a street violinist in Ximending for six years now. How did you get started?\n\nA-Ting: I actually started almost by accident. I was practising in a park one evening, and a small crowd gathered and started leaving coins in my violin case. I hadn't even set it out intentionally. That night made me realise there might be a real audience for this.\n\nReporter: Taipei requires performers to apply for a license and audition for a specific spot. Was that process difficult?\n\nA-Ting: It was more competitive than I expected. Hundreds of performers apply for a limited number of approved locations each year, and you're judged on a short live audition. Getting a spot in a busy area like Ximending means my income is fairly steady, but performers who get less popular locations often struggle to make performing pay enough on its own.\n\nReporter: What's the hardest part of this job that people might not expect?\n\nA-Ting: Honestly, it's the unpredictability. Weather ruins an entire evening's earnings instantly, and some nights almost no one stops no matter how well I play. There's also no sick leave, no guaranteed pay. If I don't perform, I don't earn anything that day.\n\nReporter: Despite that, you've stayed with it for six years. Why?\n\nA-Ting: There's something honest about street performing. People stop, listen, and pay only if they genuinely want to. That direct connection with an audience is something I never found doing anything else.",
+"group_id": "NHR-G32",
+"stem": "The word \"unpredictability\" in the third answer is closest in meaning to which of the following?",
+"options": [
+"The quality of being extremely well organised and planned in advance",
+"The quality of being impossible to know or expect in advance",
+"The amount of money a street performer earns in a single evening",
+"The number of locations available for licensed street performers"
+],
+"answer": 1,
+"explain_zh": "unpredictability 指「不可預測性」，阿廷用這個字來形容天氣、觀眾反應等無法事先掌握的因素，故選B。A、C、D 都不是這個字的意思。字義題可從後面列舉的例子「Weather ruins... some nights almost no one stops」去判斷語意。",
+"vocab": [
+{
+"w": "unpredictability",
+"zh": "不可預測性",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0159",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "INTERVIEW: LIFE AS A LICENSED STREET PERFORMER IN TAIPEI\n\nReporter: You've been performing as a street violinist in Ximending for six years now. How did you get started?\n\nA-Ting: I actually started almost by accident. I was practising in a park one evening, and a small crowd gathered and started leaving coins in my violin case. I hadn't even set it out intentionally. That night made me realise there might be a real audience for this.\n\nReporter: Taipei requires performers to apply for a license and audition for a specific spot. Was that process difficult?\n\nA-Ting: It was more competitive than I expected. Hundreds of performers apply for a limited number of approved locations each year, and you're judged on a short live audition. Getting a spot in a busy area like Ximending means my income is fairly steady, but performers who get less popular locations often struggle to make performing pay enough on its own.\n\nReporter: What's the hardest part of this job that people might not expect?\n\nA-Ting: Honestly, it's the unpredictability. Weather ruins an entire evening's earnings instantly, and some nights almost no one stops no matter how well I play. There's also no sick leave, no guaranteed pay. If I don't perform, I don't earn anything that day.\n\nReporter: Despite that, you've stayed with it for six years. Why?\n\nA-Ting: There's something honest about street performing. People stop, listen, and pay only if they genuinely want to. That direct connection with an audience is something I never found doing anything else.",
+"group_id": "NHR-G32",
+"stem": "What is A-Ting's overall attitude toward street performing, based on the interview?",
+"options": [
+"Entirely negative, regretting that he ever became a street performer",
+"Entirely positive, claiming the job has absolutely no difficulties at all",
+"Indifferent, showing no strong feeling about continuing this work",
+"Appreciative of its honesty and connection with audiences, despite acknowledging real difficulties"
+],
+"answer": 3,
+"explain_zh": "阿廷坦承收入不穩定、沒有病假保障等困難，但最後強調「something honest about street performing」以及與觀眾的直接連結，顯示他整體態度是珍惜這份工作，同時務實承認挑戰，故選D。A、B、C 都與訪談內容不符。態度題要看受訪者結尾如何總結自己的感受。",
+"vocab": [
+{
+"w": "appreciative",
+"zh": "感激的、欣賞的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0160",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "INTERVIEW: LIFE AS A LICENSED STREET PERFORMER IN TAIPEI\n\nReporter: You've been performing as a street violinist in Ximending for six years now. How did you get started?\n\nA-Ting: I actually started almost by accident. I was practising in a park one evening, and a small crowd gathered and started leaving coins in my violin case. I hadn't even set it out intentionally. That night made me realise there might be a real audience for this.\n\nReporter: Taipei requires performers to apply for a license and audition for a specific spot. Was that process difficult?\n\nA-Ting: It was more competitive than I expected. Hundreds of performers apply for a limited number of approved locations each year, and you're judged on a short live audition. Getting a spot in a busy area like Ximending means my income is fairly steady, but performers who get less popular locations often struggle to make performing pay enough on its own.\n\nReporter: What's the hardest part of this job that people might not expect?\n\nA-Ting: Honestly, it's the unpredictability. Weather ruins an entire evening's earnings instantly, and some nights almost no one stops no matter how well I play. There's also no sick leave, no guaranteed pay. If I don't perform, I don't earn anything that day.\n\nReporter: Despite that, you've stayed with it for six years. Why?\n\nA-Ting: There's something honest about street performing. People stop, listen, and pay only if they genuinely want to. That direct connection with an audience is something I never found doing anything else.",
+"group_id": "NHR-G32",
+"stem": "In A-Ting's answer \"That direct connection with an audience is something I never found doing anything else,\" what does \"anything else\" refer to?",
+"options": [
+"Other street performers who compete for the same locations in Ximending",
+"Other kinds of jobs or activities A-Ting did before street performing",
+"Other cities in Taiwan where street performing is also popular",
+"Other musical instruments A-Ting considered learning before the violin"
+],
+"answer": 1,
+"explain_zh": "這句話是阿廷在比較街頭表演與他過去做過的其他事情，\"anything else\" 指的是他做過的其他工作或活動，而不是特定的人、城市或樂器，故選B。A、C、D 都不是這裡所指的內容。指代題要理解句子的比較對象是什麼類型的事物。",
+"vocab": [
+{
+"w": "connection",
+"zh": "連結",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0161",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "THE MAN WHO SAVED THIRTY THOUSAND SECONDHAND BOOKS\n\nWhen Chou Ping-an inherited a small bookstore from his father in 2010, most people assumed he would close it within a few years. Physical bookstores across Taiwan were struggling against online retailers and falling reading rates, and secondhand bookstores in particular seemed to belong to an earlier era.\n\nChou had other plans. Rather than compete directly with large bookstore chains on new releases, he decided to specialise entirely in secondhand books, building relationships with retiring professors, closing libraries, and families clearing out relatives' homes after they passed away. Within a decade, his small shop had grown into a labyrinth of shelves holding more than thirty thousand secondhand volumes, organised by an idiosyncratic system that regular customers eventually learned to navigate.\n\nThe turning point came when Chou began posting short videos online describing unusual finds in his collection: a first edition novel with the original owner's handwritten notes in the margins, or a textbook signed by a now-famous scientist decades before their career began. The videos attracted an unexpected following among younger readers who had never previously visited a secondhand bookstore.\n\nChou insists his goal was never really about business growth. \"Every secondhand book has already survived one journey,\" he says. \"My job is just to make sure it gets a second one, instead of ending up thrown away.\" Today, his shop hosts monthly reading events, and several university students have taken part-time jobs there specifically to learn from his knowledge of rare editions.",
+"group_id": "NHR-G33",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Chou Ping-an transformed a struggling inherited bookstore into a thriving secondhand book destination",
+"Chou Ping-an closed his father's bookstore shortly after inheriting it in 2010",
+"Large bookstore chains have completely stopped selling any secondhand books",
+"Chou Ping-an's videos have failed to attract any new customers to his shop"
+],
+"answer": 0,
+"explain_zh": "文章描述周先生如何把父親留下的舊書店轉型為專營二手書、吸引年輕讀者的成功書店，A 最能涵蓋全文重點。B、C、D 都與文章內容相反。主旨題要抓住人物傳記中人物做出的關鍵決定與成果。",
+"vocab": [
+{
+"w": "inherit",
+"zh": "繼承",
+"pos": "v."
+},
+{
+"w": "specialise",
+"zh": "專營、專攻",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0162",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "THE MAN WHO SAVED THIRTY THOUSAND SECONDHAND BOOKS\n\nWhen Chou Ping-an inherited a small bookstore from his father in 2010, most people assumed he would close it within a few years. Physical bookstores across Taiwan were struggling against online retailers and falling reading rates, and secondhand bookstores in particular seemed to belong to an earlier era.\n\nChou had other plans. Rather than compete directly with large bookstore chains on new releases, he decided to specialise entirely in secondhand books, building relationships with retiring professors, closing libraries, and families clearing out relatives' homes after they passed away. Within a decade, his small shop had grown into a labyrinth of shelves holding more than thirty thousand secondhand volumes, organised by an idiosyncratic system that regular customers eventually learned to navigate.\n\nThe turning point came when Chou began posting short videos online describing unusual finds in his collection: a first edition novel with the original owner's handwritten notes in the margins, or a textbook signed by a now-famous scientist decades before their career began. The videos attracted an unexpected following among younger readers who had never previously visited a secondhand bookstore.\n\nChou insists his goal was never really about business growth. \"Every secondhand book has already survived one journey,\" he says. \"My job is just to make sure it gets a second one, instead of ending up thrown away.\" Today, his shop hosts monthly reading events, and several university students have taken part-time jobs there specifically to learn from his knowledge of rare editions.",
+"group_id": "NHR-G33",
+"stem": "According to the passage, how did Chou build his collection of secondhand books?",
+"options": [
+"By purchasing new releases directly from large bookstore chains",
+"By building relationships with retiring professors and families clearing out homes",
+"By borrowing books permanently from a nearby public library",
+"By importing rare books exclusively from bookstores overseas"
+],
+"answer": 1,
+"explain_zh": "文中提到他「building relationships with retiring professors, closing libraries, and families clearing out relatives' homes」，故選B。A、C、D 文章都沒有提到，屬於捏造的細節。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "clear out",
+"zh": "清空",
+"pos": "phr. v."
+}
+]
+},
+{
+"id": "NHR-0163",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "THE MAN WHO SAVED THIRTY THOUSAND SECONDHAND BOOKS\n\nWhen Chou Ping-an inherited a small bookstore from his father in 2010, most people assumed he would close it within a few years. Physical bookstores across Taiwan were struggling against online retailers and falling reading rates, and secondhand bookstores in particular seemed to belong to an earlier era.\n\nChou had other plans. Rather than compete directly with large bookstore chains on new releases, he decided to specialise entirely in secondhand books, building relationships with retiring professors, closing libraries, and families clearing out relatives' homes after they passed away. Within a decade, his small shop had grown into a labyrinth of shelves holding more than thirty thousand secondhand volumes, organised by an idiosyncratic system that regular customers eventually learned to navigate.\n\nThe turning point came when Chou began posting short videos online describing unusual finds in his collection: a first edition novel with the original owner's handwritten notes in the margins, or a textbook signed by a now-famous scientist decades before their career began. The videos attracted an unexpected following among younger readers who had never previously visited a secondhand bookstore.\n\nChou insists his goal was never really about business growth. \"Every secondhand book has already survived one journey,\" he says. \"My job is just to make sure it gets a second one, instead of ending up thrown away.\" Today, his shop hosts monthly reading events, and several university students have taken part-time jobs there specifically to learn from his knowledge of rare editions.",
+"group_id": "NHR-G33",
+"stem": "The word \"labyrinth\" in the second paragraph is closest in meaning to which of the following?",
+"options": [
+"A small, simple room with only a few shelves of books",
+"A modern building designed using digital organisation systems",
+"A complicated, maze-like space that is easy to get lost in",
+"A collection of books arranged in strict alphabetical order"
+],
+"answer": 2,
+"explain_zh": "labyrinth 指「迷宮」，文中形容書店變成「a labyrinth of shelves」，也就是書架排列複雜、如迷宮般，需要熟客才能摸熟系統，故選C。A、B、D 都不是 labyrinth 的意思，且D與後文「idiosyncratic system」矛盾。字義題可從「regular customers eventually learned to navigate」判斷語意。",
+"vocab": [
+{
+"w": "labyrinth",
+"zh": "迷宮",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0164",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "THE MAN WHO SAVED THIRTY THOUSAND SECONDHAND BOOKS\n\nWhen Chou Ping-an inherited a small bookstore from his father in 2010, most people assumed he would close it within a few years. Physical bookstores across Taiwan were struggling against online retailers and falling reading rates, and secondhand bookstores in particular seemed to belong to an earlier era.\n\nChou had other plans. Rather than compete directly with large bookstore chains on new releases, he decided to specialise entirely in secondhand books, building relationships with retiring professors, closing libraries, and families clearing out relatives' homes after they passed away. Within a decade, his small shop had grown into a labyrinth of shelves holding more than thirty thousand secondhand volumes, organised by an idiosyncratic system that regular customers eventually learned to navigate.\n\nThe turning point came when Chou began posting short videos online describing unusual finds in his collection: a first edition novel with the original owner's handwritten notes in the margins, or a textbook signed by a now-famous scientist decades before their career began. The videos attracted an unexpected following among younger readers who had never previously visited a secondhand bookstore.\n\nChou insists his goal was never really about business growth. \"Every secondhand book has already survived one journey,\" he says. \"My job is just to make sure it gets a second one, instead of ending up thrown away.\" Today, his shop hosts monthly reading events, and several university students have taken part-time jobs there specifically to learn from his knowledge of rare editions.",
+"group_id": "NHR-G33",
+"stem": "What is Chou's attitude toward his work, based on his own quotation in the passage?",
+"options": [
+"He views the bookstore purely as a way to maximise business profit",
+"He regrets not selling new books instead of secondhand ones",
+"He believes secondhand books have no value once their first owner is gone",
+"He sees his role as meaningful: giving old books a second life instead of being discarded"
+],
+"answer": 3,
+"explain_zh": "周先生說「Every secondhand book has already survived one journey... My job is just to make sure it gets a second one」，顯示他把工作視為賦予舊書「第二次生命」的有意義使命，而非單純的生意，故選D。A、B、C 都與他的話不符。態度題要直接引用他自己的話去判斷。",
+"vocab": [
+{
+"w": "discard",
+"zh": "丟棄",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0165",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "THE MAN WHO SAVED THIRTY THOUSAND SECONDHAND BOOKS\n\nWhen Chou Ping-an inherited a small bookstore from his father in 2010, most people assumed he would close it within a few years. Physical bookstores across Taiwan were struggling against online retailers and falling reading rates, and secondhand bookstores in particular seemed to belong to an earlier era.\n\nChou had other plans. Rather than compete directly with large bookstore chains on new releases, he decided to specialise entirely in secondhand books, building relationships with retiring professors, closing libraries, and families clearing out relatives' homes after they passed away. Within a decade, his small shop had grown into a labyrinth of shelves holding more than thirty thousand secondhand volumes, organised by an idiosyncratic system that regular customers eventually learned to navigate.\n\nThe turning point came when Chou began posting short videos online describing unusual finds in his collection: a first edition novel with the original owner's handwritten notes in the margins, or a textbook signed by a now-famous scientist decades before their career began. The videos attracted an unexpected following among younger readers who had never previously visited a secondhand bookstore.\n\nChou insists his goal was never really about business growth. \"Every secondhand book has already survived one journey,\" he says. \"My job is just to make sure it gets a second one, instead of ending up thrown away.\" Today, his shop hosts monthly reading events, and several university students have taken part-time jobs there specifically to learn from his knowledge of rare editions.",
+"group_id": "NHR-G33",
+"stem": "In the sentence \"The videos attracted an unexpected following among younger readers who had never previously visited a secondhand bookstore,\" what does \"an unexpected following\" refer to?",
+"options": [
+"A group of new fans and viewers who became interested in Chou's shop",
+"A group of retiring professors who donated books to the shop",
+"University students who currently work part-time at the bookstore",
+"Families who cleared out relatives' homes after they passed away"
+],
+"answer": 0,
+"explain_zh": "\"an unexpected following\" 指的是影片意外吸引到的一群追蹤者或支持者，也就是後面說明的「younger readers who had never previously visited a secondhand bookstore」，故選A。B、C、D 文章都不是這裡所指的對象。指代題要往後找同位語或補充說明的內容。",
+"vocab": [
+{
+"w": "following",
+"zh": "追隨者、粉絲群",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0166",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "TAIPEI PET LOVERS EXPO — THIS WEEKEND ONLY\n\nLooking for a fun weekend outing with your furry family member? The Taipei Pet Lovers Expo returns to the Nangang Exhibition Center this Saturday and Sunday, bringing together more than two hundred booths dedicated to everything a modern pet owner could need.\n\nWander through sections featuring premium pet food brands offering free samples, grooming demonstrations from professional stylists, and a dedicated adoption area hosted by local animal shelters, where over one hundred dogs and cats are currently looking for permanent homes. Visitors interested in adoption should bring identification and be prepared for a short interview with shelter staff.\n\nNew this year is the Pet Fitness Zone, where trainers will demonstrate exercises designed to keep senior pets healthy and mobile, along with a veterinary consultation corner offering free basic health checks for the first two hundred pets each day.\n\nTickets cost two hundred dollars for adults and are free for children under twelve, with all proceeds after operating costs donated to participating animal shelters. Pets are welcome throughout the venue as long as they remain leashed or in a carrier at all times.\n\nParking is limited, so organisers strongly recommend taking the MRT to Nangang Exhibition Center Station, just a two-minute walk from the main entrance.\n\nDon't miss this chance to spoil your pet, meet fellow animal lovers, and maybe even bring home a new family member.",
+"group_id": "NHR-G34",
+"stem": "Which of the following best expresses the main idea of the advertisement?",
+"options": [
+"The Taipei Pet Lovers Expo has been cancelled due to low ticket sales this year",
+"The Taipei Pet Lovers Expo offers pet owners a weekend of shopping, services, and adoption opportunities",
+"Only professional pet groomers are allowed to attend the Taipei Pet Lovers Expo",
+"Ticket proceeds from the expo are used entirely to cover parking costs"
+],
+"answer": 1,
+"explain_zh": "這則廣告介紹寵物博覽會提供的攤位、服務、送養活動等內容，目的是吸引民眾週末前往參加，B 最能涵蓋全文重點。A、C、D 都與文章內容不符。主旨題要注意廣告文類的目的是「宣傳、邀請參加」。",
+"vocab": [
+{
+"w": "expo",
+"zh": "博覽會",
+"pos": "n."
+},
+{
+"w": "booth",
+"zh": "攤位",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0167",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "TAIPEI PET LOVERS EXPO — THIS WEEKEND ONLY\n\nLooking for a fun weekend outing with your furry family member? The Taipei Pet Lovers Expo returns to the Nangang Exhibition Center this Saturday and Sunday, bringing together more than two hundred booths dedicated to everything a modern pet owner could need.\n\nWander through sections featuring premium pet food brands offering free samples, grooming demonstrations from professional stylists, and a dedicated adoption area hosted by local animal shelters, where over one hundred dogs and cats are currently looking for permanent homes. Visitors interested in adoption should bring identification and be prepared for a short interview with shelter staff.\n\nNew this year is the Pet Fitness Zone, where trainers will demonstrate exercises designed to keep senior pets healthy and mobile, along with a veterinary consultation corner offering free basic health checks for the first two hundred pets each day.\n\nTickets cost two hundred dollars for adults and are free for children under twelve, with all proceeds after operating costs donated to participating animal shelters. Pets are welcome throughout the venue as long as they remain leashed or in a carrier at all times.\n\nParking is limited, so organisers strongly recommend taking the MRT to Nangang Exhibition Center Station, just a two-minute walk from the main entrance.\n\nDon't miss this chance to spoil your pet, meet fellow animal lovers, and maybe even bring home a new family member.",
+"group_id": "NHR-G34",
+"stem": "According to the advertisement, what should visitors bring if they are interested in adopting a pet?",
+"options": [
+"A veterinary health certificate from their family doctor",
+"A letter of recommendation from a previous pet owner",
+"Identification, and be prepared for a short interview with shelter staff",
+"A deposit of two hundred dollars paid in advance online"
+],
+"answer": 2,
+"explain_zh": "廣告中提到「Visitors interested in adoption should bring identification and be prepared for a short interview with shelter staff」，故選C。A、B、D 文章都沒有提到這些要求。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "identification",
+"zh": "身分證明",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0168",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "TAIPEI PET LOVERS EXPO — THIS WEEKEND ONLY\n\nLooking for a fun weekend outing with your furry family member? The Taipei Pet Lovers Expo returns to the Nangang Exhibition Center this Saturday and Sunday, bringing together more than two hundred booths dedicated to everything a modern pet owner could need.\n\nWander through sections featuring premium pet food brands offering free samples, grooming demonstrations from professional stylists, and a dedicated adoption area hosted by local animal shelters, where over one hundred dogs and cats are currently looking for permanent homes. Visitors interested in adoption should bring identification and be prepared for a short interview with shelter staff.\n\nNew this year is the Pet Fitness Zone, where trainers will demonstrate exercises designed to keep senior pets healthy and mobile, along with a veterinary consultation corner offering free basic health checks for the first two hundred pets each day.\n\nTickets cost two hundred dollars for adults and are free for children under twelve, with all proceeds after operating costs donated to participating animal shelters. Pets are welcome throughout the venue as long as they remain leashed or in a carrier at all times.\n\nParking is limited, so organisers strongly recommend taking the MRT to Nangang Exhibition Center Station, just a two-minute walk from the main entrance.\n\nDon't miss this chance to spoil your pet, meet fellow animal lovers, and maybe even bring home a new family member.",
+"group_id": "NHR-G34",
+"stem": "What can be inferred about why the advertisement recommends taking the MRT instead of driving?",
+"options": [
+"Parking space near the venue is limited",
+"Driving to the venue is officially prohibited by law",
+"The MRT station is located inside the exhibition hall itself",
+"Taking the MRT is completely free for all visitors that weekend"
+],
+"answer": 0,
+"explain_zh": "廣告提到「Parking is limited, so organisers strongly recommend taking the MRT」，可推論建議搭乘捷運是因為停車空間有限，故選A。B、C、D 文章都沒有根據。推論題要抓住句子中明確給出的理由。",
+"vocab": [
+{
+"w": "venue",
+"zh": "場地",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0169",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "TAIPEI PET LOVERS EXPO — THIS WEEKEND ONLY\n\nLooking for a fun weekend outing with your furry family member? The Taipei Pet Lovers Expo returns to the Nangang Exhibition Center this Saturday and Sunday, bringing together more than two hundred booths dedicated to everything a modern pet owner could need.\n\nWander through sections featuring premium pet food brands offering free samples, grooming demonstrations from professional stylists, and a dedicated adoption area hosted by local animal shelters, where over one hundred dogs and cats are currently looking for permanent homes. Visitors interested in adoption should bring identification and be prepared for a short interview with shelter staff.\n\nNew this year is the Pet Fitness Zone, where trainers will demonstrate exercises designed to keep senior pets healthy and mobile, along with a veterinary consultation corner offering free basic health checks for the first two hundred pets each day.\n\nTickets cost two hundred dollars for adults and are free for children under twelve, with all proceeds after operating costs donated to participating animal shelters. Pets are welcome throughout the venue as long as they remain leashed or in a carrier at all times.\n\nParking is limited, so organisers strongly recommend taking the MRT to Nangang Exhibition Center Station, just a two-minute walk from the main entrance.\n\nDon't miss this chance to spoil your pet, meet fellow animal lovers, and maybe even bring home a new family member.",
+"group_id": "NHR-G34",
+"stem": "What is the overall purpose of this advertisement?",
+"options": [
+"To warn pet owners about the dangers of attending large public events",
+"To encourage pet owners to attend the expo for shopping, services, and adoption",
+"To criticize animal shelters for having too many pets available for adoption",
+"To announce that the expo will no longer be held in future years"
+],
+"answer": 1,
+"explain_zh": "整篇廣告列出博覽會的各項活動與福利，最後以「Don't miss this chance」作結，目的是鼓勵讀者前往參加，故選B。A、C、D 都與廣告的宣傳性質不符。目的題要注意廣告文類的核心功能是「勸誘行動」。",
+"vocab": [
+{
+"w": "proceeds",
+"zh": "收益",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0170",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "TAIPEI PET LOVERS EXPO — THIS WEEKEND ONLY\n\nLooking for a fun weekend outing with your furry family member? The Taipei Pet Lovers Expo returns to the Nangang Exhibition Center this Saturday and Sunday, bringing together more than two hundred booths dedicated to everything a modern pet owner could need.\n\nWander through sections featuring premium pet food brands offering free samples, grooming demonstrations from professional stylists, and a dedicated adoption area hosted by local animal shelters, where over one hundred dogs and cats are currently looking for permanent homes. Visitors interested in adoption should bring identification and be prepared for a short interview with shelter staff.\n\nNew this year is the Pet Fitness Zone, where trainers will demonstrate exercises designed to keep senior pets healthy and mobile, along with a veterinary consultation corner offering free basic health checks for the first two hundred pets each day.\n\nTickets cost two hundred dollars for adults and are free for children under twelve, with all proceeds after operating costs donated to participating animal shelters. Pets are welcome throughout the venue as long as they remain leashed or in a carrier at all times.\n\nParking is limited, so organisers strongly recommend taking the MRT to Nangang Exhibition Center Station, just a two-minute walk from the main entrance.\n\nDon't miss this chance to spoil your pet, meet fellow animal lovers, and maybe even bring home a new family member.",
+"group_id": "NHR-G34",
+"stem": "In the sentence \"with all proceeds after operating costs donated to participating animal shelters,\" what does \"participating animal shelters\" refer to?",
+"options": [
+"Veterinary clinics offering free health checks at the expo",
+"Pet food companies that provide free samples to visitors",
+"Professional stylists who perform grooming demonstrations at the expo",
+"The local animal shelters hosting the adoption area at the expo"
+],
+"answer": 3,
+"explain_zh": "前文提到「a dedicated adoption area hosted by local animal shelters」，這裡的 \"participating animal shelters\" 指的就是這些參與送養活動的動物收容所，博覽會盈餘捐給它們，故選D。A、B、C 都不是這裡所指的對象。指代題要往前找出文章中提到的動物收容所。",
+"vocab": [
+{
+"w": "donate",
+"zh": "捐贈",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0171",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "MAPPING THE OCEAN'S LAST UNCHARTED FRONTIER\n\nMore than eighty percent of the world's ocean floor remains unmapped in any detailed way, a striking gap in scientific knowledge given how thoroughly humans have charted the surface of the Moon and Mars. Deep-sea exploration faces unique obstacles that space missions do not: crushing water pressure, complete darkness beyond a few hundred metres, and the sheer scale of the ocean floor, which covers roughly seventy percent of the planet's surface.\n\nRecent advances in autonomous underwater vehicles have begun to close this gap. Unlike earlier research submarines, which required a ship and crew to remain on the surface throughout a dive, modern robotic vehicles can operate independently for days at a time, following pre-programmed routes and surfacing periodically to transmit collected data.\n\nThese vehicles have already revealed features previously unknown to science, including underwater mountain ranges taller than anything on land and thriving ecosystems clustered around hydrothermal vents, where chemical-rich water heated by volcanic activity supports life entirely independent of sunlight.\n\nBeyond scientific curiosity, detailed ocean floor maps carry practical importance. They help researchers predict tsunami behaviour more accurately, since underwater terrain significantly affects how waves travel and where they strike land with the greatest force. Mining companies interested in deep-sea mineral deposits also rely on these maps, a use that has drawn criticism from environmental groups concerned about disturbing ecosystems that scientists have barely begun to understand.\n\nFull mapping of the ocean floor at high resolution remains decades away at current progress, according to most estimates from major oceanographic institutions.",
+"group_id": "NHR-G35",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"The entire ocean floor has now been mapped in complete detail using submarines",
+"Deep-sea exploration is impossible because of water pressure and complete darkness",
+"New autonomous vehicles are helping map the ocean floor, revealing new features with both scientific and practical value",
+"Mining companies have stopped using ocean floor maps due to environmental criticism"
+],
+"answer": 2,
+"explain_zh": "文章說明自主水下載具如何協助繪製海底地圖、發現新地貌，也提到這些地圖在海嘯預測與礦業上的實際用途及爭議，C 最能涵蓋全文重點。A、D 與文章內容不符；B 過度誇大，文章說這是「obstacles」而非「impossible」。主旨題要能涵蓋科學發現與實際應用兩個層面。",
+"vocab": [
+{
+"w": "autonomous",
+"zh": "自主的",
+"pos": "adj."
+},
+{
+"w": "terrain",
+"zh": "地形",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0172",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "MAPPING THE OCEAN'S LAST UNCHARTED FRONTIER\n\nMore than eighty percent of the world's ocean floor remains unmapped in any detailed way, a striking gap in scientific knowledge given how thoroughly humans have charted the surface of the Moon and Mars. Deep-sea exploration faces unique obstacles that space missions do not: crushing water pressure, complete darkness beyond a few hundred metres, and the sheer scale of the ocean floor, which covers roughly seventy percent of the planet's surface.\n\nRecent advances in autonomous underwater vehicles have begun to close this gap. Unlike earlier research submarines, which required a ship and crew to remain on the surface throughout a dive, modern robotic vehicles can operate independently for days at a time, following pre-programmed routes and surfacing periodically to transmit collected data.\n\nThese vehicles have already revealed features previously unknown to science, including underwater mountain ranges taller than anything on land and thriving ecosystems clustered around hydrothermal vents, where chemical-rich water heated by volcanic activity supports life entirely independent of sunlight.\n\nBeyond scientific curiosity, detailed ocean floor maps carry practical importance. They help researchers predict tsunami behaviour more accurately, since underwater terrain significantly affects how waves travel and where they strike land with the greatest force. Mining companies interested in deep-sea mineral deposits also rely on these maps, a use that has drawn criticism from environmental groups concerned about disturbing ecosystems that scientists have barely begun to understand.\n\nFull mapping of the ocean floor at high resolution remains decades away at current progress, according to most estimates from major oceanographic institutions.",
+"group_id": "NHR-G35",
+"stem": "According to the passage, what advantage do modern robotic vehicles have over earlier research submarines?",
+"options": [
+"They can operate independently for days without a ship and crew on the surface throughout the dive",
+"They can travel to the Moon and Mars in addition to exploring the ocean",
+"They require twice as many crew members to operate safely underwater",
+"They can only be used in shallow water less than one hundred metres deep"
+],
+"answer": 0,
+"explain_zh": "文中提到現代機器載具「can operate independently for days at a time」，不像早期研究潛艇「required a ship and crew to remain on the surface throughout a dive」，故選A。B、C、D 文章都沒有提到，屬於捏造的細節。細節題直接對照原文的對比敘述即可判斷。",
+"vocab": [
+{
+"w": "vehicle",
+"zh": "載具",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0173",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "MAPPING THE OCEAN'S LAST UNCHARTED FRONTIER\n\nMore than eighty percent of the world's ocean floor remains unmapped in any detailed way, a striking gap in scientific knowledge given how thoroughly humans have charted the surface of the Moon and Mars. Deep-sea exploration faces unique obstacles that space missions do not: crushing water pressure, complete darkness beyond a few hundred metres, and the sheer scale of the ocean floor, which covers roughly seventy percent of the planet's surface.\n\nRecent advances in autonomous underwater vehicles have begun to close this gap. Unlike earlier research submarines, which required a ship and crew to remain on the surface throughout a dive, modern robotic vehicles can operate independently for days at a time, following pre-programmed routes and surfacing periodically to transmit collected data.\n\nThese vehicles have already revealed features previously unknown to science, including underwater mountain ranges taller than anything on land and thriving ecosystems clustered around hydrothermal vents, where chemical-rich water heated by volcanic activity supports life entirely independent of sunlight.\n\nBeyond scientific curiosity, detailed ocean floor maps carry practical importance. They help researchers predict tsunami behaviour more accurately, since underwater terrain significantly affects how waves travel and where they strike land with the greatest force. Mining companies interested in deep-sea mineral deposits also rely on these maps, a use that has drawn criticism from environmental groups concerned about disturbing ecosystems that scientists have barely begun to understand.\n\nFull mapping of the ocean floor at high resolution remains decades away at current progress, according to most estimates from major oceanographic institutions.",
+"group_id": "NHR-G35",
+"stem": "What can be inferred about ecosystems near hydrothermal vents?",
+"options": [
+"They rely entirely on sunlight to survive, just like most ocean ecosystems",
+"They can survive without sunlight because they depend on chemical-rich heated water",
+"They were discovered decades ago using traditional research submarines only",
+"They are located exclusively near the ocean's shallow coastal regions"
+],
+"answer": 1,
+"explain_zh": "文中提到熱泉生態系「supports life entirely independent of sunlight」，能量來源是「chemical-rich water heated by volcanic activity」，可推論這些生態系不依賴陽光生存，故選B。A 與文意相反；C、D 文章都沒有根據。推論題要抓住這句話說明的因果關係。",
+"vocab": [
+{
+"w": "hydrothermal vent",
+"zh": "熱泉噴口",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0174",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "MAPPING THE OCEAN'S LAST UNCHARTED FRONTIER\n\nMore than eighty percent of the world's ocean floor remains unmapped in any detailed way, a striking gap in scientific knowledge given how thoroughly humans have charted the surface of the Moon and Mars. Deep-sea exploration faces unique obstacles that space missions do not: crushing water pressure, complete darkness beyond a few hundred metres, and the sheer scale of the ocean floor, which covers roughly seventy percent of the planet's surface.\n\nRecent advances in autonomous underwater vehicles have begun to close this gap. Unlike earlier research submarines, which required a ship and crew to remain on the surface throughout a dive, modern robotic vehicles can operate independently for days at a time, following pre-programmed routes and surfacing periodically to transmit collected data.\n\nThese vehicles have already revealed features previously unknown to science, including underwater mountain ranges taller than anything on land and thriving ecosystems clustered around hydrothermal vents, where chemical-rich water heated by volcanic activity supports life entirely independent of sunlight.\n\nBeyond scientific curiosity, detailed ocean floor maps carry practical importance. They help researchers predict tsunami behaviour more accurately, since underwater terrain significantly affects how waves travel and where they strike land with the greatest force. Mining companies interested in deep-sea mineral deposits also rely on these maps, a use that has drawn criticism from environmental groups concerned about disturbing ecosystems that scientists have barely begun to understand.\n\nFull mapping of the ocean floor at high resolution remains decades away at current progress, according to most estimates from major oceanographic institutions.",
+"group_id": "NHR-G35",
+"stem": "The word \"resolution\" in the last paragraph is closest in meaning to which of the following?",
+"options": [
+"A formal decision made by a government or scientific committee",
+"The total amount of money spent on an ocean mapping project",
+"A firm determination to solve a difficult scientific problem",
+"The level of fine detail visible in an image or map"
+],
+"answer": 3,
+"explain_zh": "resolution 在此處指「解析度」，文中說「Full mapping of the ocean floor at high resolution remains decades away」，也就是要繪製出高解析度、細節清晰的海底地圖還需要數十年，故選D。A、B、C 都不是這裡的意思。字義題要注意 resolution 在不同語境（決議、解析度、決心）有不同意思。",
+"vocab": [
+{
+"w": "resolution",
+"zh": "解析度",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0175",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "MAPPING THE OCEAN'S LAST UNCHARTED FRONTIER\n\nMore than eighty percent of the world's ocean floor remains unmapped in any detailed way, a striking gap in scientific knowledge given how thoroughly humans have charted the surface of the Moon and Mars. Deep-sea exploration faces unique obstacles that space missions do not: crushing water pressure, complete darkness beyond a few hundred metres, and the sheer scale of the ocean floor, which covers roughly seventy percent of the planet's surface.\n\nRecent advances in autonomous underwater vehicles have begun to close this gap. Unlike earlier research submarines, which required a ship and crew to remain on the surface throughout a dive, modern robotic vehicles can operate independently for days at a time, following pre-programmed routes and surfacing periodically to transmit collected data.\n\nThese vehicles have already revealed features previously unknown to science, including underwater mountain ranges taller than anything on land and thriving ecosystems clustered around hydrothermal vents, where chemical-rich water heated by volcanic activity supports life entirely independent of sunlight.\n\nBeyond scientific curiosity, detailed ocean floor maps carry practical importance. They help researchers predict tsunami behaviour more accurately, since underwater terrain significantly affects how waves travel and where they strike land with the greatest force. Mining companies interested in deep-sea mineral deposits also rely on these maps, a use that has drawn criticism from environmental groups concerned about disturbing ecosystems that scientists have barely begun to understand.\n\nFull mapping of the ocean floor at high resolution remains decades away at current progress, according to most estimates from major oceanographic institutions.",
+"group_id": "NHR-G35",
+"stem": "In the sentence \"Mining companies interested in deep-sea mineral deposits also rely on these maps, a use that has drawn criticism from environmental groups concerned about disturbing ecosystems that scientists have barely begun to understand,\" what does \"these maps\" refer to?",
+"options": [
+"Maps of the Moon and Mars created by space exploration missions",
+"Maps used specifically to predict tsunami behaviour near coastlines",
+"Detailed ocean floor maps created using autonomous underwater vehicles",
+"Maps showing the locations of hydrothermal vents discovered recently"
+],
+"answer": 2,
+"explain_zh": "前文一直在討論利用自主載具繪製的海底地圖，這裡的 \"these maps\" 承接的就是這些詳細海底地圖，礦業公司利用它們尋找深海礦藏，引發環保團體的批評，故選C。A、B、D 都不是這裡所指的對象。指代題要往前追蹤文章持續討論的核心名詞。",
+"vocab": [
+{
+"w": "deposit",
+"zh": "礦藏、沉積",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0176",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "WILL AI TRANSLATION MAKE LEARNING A SECOND LANGUAGE POINTLESS?\n\nReal-time AI translation tools have advanced dramatically in recent years, capable of translating spoken conversation almost instantly through earbuds or smartphone apps. Some students, faced with the enormous time investment required to reach fluency in a second language, have begun asking a genuinely provocative question: if a device in my pocket can translate for me, why spend years studying grammar and vocabulary?\n\nProponents of relying on AI translation point to its practical value. For basic travel, simple business transactions, and everyday communication, current tools already perform well enough to be genuinely useful, and the technology continues improving each year. Time spent memorising vocabulary lists, they argue, might be better invested in other skills.\n\nLanguage educators, unsurprisingly, push back against this framing. They argue that translation, however accurate, cannot replicate the deeper benefits of language learning, including improved cognitive flexibility, a more intuitive understanding of another culture's assumptions, and the ability to build genuine relationships without a device mediating every exchange. Several studies suggest that people who speak multiple languages show measurable cognitive advantages unrelated to translation ability at all, such as improved multitasking and delayed onset of certain age-related cognitive declines.\n\nThere is also a practical limitation critics highlight: AI translation still struggles with humour, idiom, and the subtle emotional tone that fluent speakers convey naturally, meaning something is often lost even when the literal words are translated correctly.\n\nMost linguists conclude that AI translation is a powerful tool but not a genuine substitute for the deeper human experience of learning another language.",
+"group_id": "NHR-G36",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"AI translation tools have completely eliminated any reason to learn a second language",
+"Although AI translation is genuinely useful, most linguists argue it does not replace the deeper benefits of learning a language",
+"Language educators agree that AI translation tools are entirely useless for any purpose",
+"Studies show that people who rely on AI translation gain the same cognitive benefits as language learners"
+],
+"answer": 1,
+"explain_zh": "文章呈現AI翻譯的實用價值，也說明語言教育者提出的深層好處（認知彈性、文化理解、人際連結），最後總結「強大工具但非真正替代品」，B 最能涵蓋全文重點。A、C、D 都與文章內容不符或相反。主旨題要注意文章結尾語言學家的總結立場。",
+"vocab": [
+{
+"w": "proponent",
+"zh": "支持者",
+"pos": "n."
+},
+{
+"w": "fluency",
+"zh": "流利程度",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0177",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "WILL AI TRANSLATION MAKE LEARNING A SECOND LANGUAGE POINTLESS?\n\nReal-time AI translation tools have advanced dramatically in recent years, capable of translating spoken conversation almost instantly through earbuds or smartphone apps. Some students, faced with the enormous time investment required to reach fluency in a second language, have begun asking a genuinely provocative question: if a device in my pocket can translate for me, why spend years studying grammar and vocabulary?\n\nProponents of relying on AI translation point to its practical value. For basic travel, simple business transactions, and everyday communication, current tools already perform well enough to be genuinely useful, and the technology continues improving each year. Time spent memorising vocabulary lists, they argue, might be better invested in other skills.\n\nLanguage educators, unsurprisingly, push back against this framing. They argue that translation, however accurate, cannot replicate the deeper benefits of language learning, including improved cognitive flexibility, a more intuitive understanding of another culture's assumptions, and the ability to build genuine relationships without a device mediating every exchange. Several studies suggest that people who speak multiple languages show measurable cognitive advantages unrelated to translation ability at all, such as improved multitasking and delayed onset of certain age-related cognitive declines.\n\nThere is also a practical limitation critics highlight: AI translation still struggles with humour, idiom, and the subtle emotional tone that fluent speakers convey naturally, meaning something is often lost even when the literal words are translated correctly.\n\nMost linguists conclude that AI translation is a powerful tool but not a genuine substitute for the deeper human experience of learning another language.",
+"group_id": "NHR-G36",
+"stem": "According to the passage, what practical limitation do critics highlight about AI translation?",
+"options": [
+"It cannot translate basic travel phrases or simple business transactions at all",
+"It requires an internet connection that is unavailable in most countries",
+"It still struggles with humour, idiom, and subtle emotional tone",
+"It has become more expensive to use than hiring a human translator"
+],
+"answer": 2,
+"explain_zh": "文中提到「AI translation still struggles with humour, idiom, and the subtle emotional tone that fluent speakers convey naturally」，故選C。A、B、D 文章都沒有提到，甚至與文意相反。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "idiom",
+"zh": "慣用語",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0178",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "WILL AI TRANSLATION MAKE LEARNING A SECOND LANGUAGE POINTLESS?\n\nReal-time AI translation tools have advanced dramatically in recent years, capable of translating spoken conversation almost instantly through earbuds or smartphone apps. Some students, faced with the enormous time investment required to reach fluency in a second language, have begun asking a genuinely provocative question: if a device in my pocket can translate for me, why spend years studying grammar and vocabulary?\n\nProponents of relying on AI translation point to its practical value. For basic travel, simple business transactions, and everyday communication, current tools already perform well enough to be genuinely useful, and the technology continues improving each year. Time spent memorising vocabulary lists, they argue, might be better invested in other skills.\n\nLanguage educators, unsurprisingly, push back against this framing. They argue that translation, however accurate, cannot replicate the deeper benefits of language learning, including improved cognitive flexibility, a more intuitive understanding of another culture's assumptions, and the ability to build genuine relationships without a device mediating every exchange. Several studies suggest that people who speak multiple languages show measurable cognitive advantages unrelated to translation ability at all, such as improved multitasking and delayed onset of certain age-related cognitive declines.\n\nThere is also a practical limitation critics highlight: AI translation still struggles with humour, idiom, and the subtle emotional tone that fluent speakers convey naturally, meaning something is often lost even when the literal words are translated correctly.\n\nMost linguists conclude that AI translation is a powerful tool but not a genuine substitute for the deeper human experience of learning another language.",
+"group_id": "NHR-G36",
+"stem": "What can be inferred about why language educators mention cognitive advantages unrelated to translation ability?",
+"options": [
+"To show that language learning offers benefits beyond simply being able to communicate accurately",
+"To prove that AI translation tools cause measurable harm to the human brain",
+"To argue that only people who speak multiple languages can multitask effectively",
+"To demonstrate that AI translation improves a person's cognitive flexibility over time"
+],
+"answer": 0,
+"explain_zh": "文中提到多語者展現的認知優勢「unrelated to translation ability at all」，可推論教育者提出這點是為了證明語言學習的好處不只是翻譯溝通能力，還有更廣泛的認知益處，故選A。B、C、D 文章都沒有根據或過度延伸。推論題要抓住「unrelated to translation ability」這個關鍵限定詞。",
+"vocab": [
+{
+"w": "cognitive",
+"zh": "認知的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0179",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "WILL AI TRANSLATION MAKE LEARNING A SECOND LANGUAGE POINTLESS?\n\nReal-time AI translation tools have advanced dramatically in recent years, capable of translating spoken conversation almost instantly through earbuds or smartphone apps. Some students, faced with the enormous time investment required to reach fluency in a second language, have begun asking a genuinely provocative question: if a device in my pocket can translate for me, why spend years studying grammar and vocabulary?\n\nProponents of relying on AI translation point to its practical value. For basic travel, simple business transactions, and everyday communication, current tools already perform well enough to be genuinely useful, and the technology continues improving each year. Time spent memorising vocabulary lists, they argue, might be better invested in other skills.\n\nLanguage educators, unsurprisingly, push back against this framing. They argue that translation, however accurate, cannot replicate the deeper benefits of language learning, including improved cognitive flexibility, a more intuitive understanding of another culture's assumptions, and the ability to build genuine relationships without a device mediating every exchange. Several studies suggest that people who speak multiple languages show measurable cognitive advantages unrelated to translation ability at all, such as improved multitasking and delayed onset of certain age-related cognitive declines.\n\nThere is also a practical limitation critics highlight: AI translation still struggles with humour, idiom, and the subtle emotional tone that fluent speakers convey naturally, meaning something is often lost even when the literal words are translated correctly.\n\nMost linguists conclude that AI translation is a powerful tool but not a genuine substitute for the deeper human experience of learning another language.",
+"group_id": "NHR-G36",
+"stem": "The word \"mediating\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"Translating a conversation extremely quickly and accurately",
+"Recording a conversation for later scientific study",
+"Teaching someone a new language from the very beginning",
+"Standing between two things and managing the interaction between them"
+],
+"answer": 3,
+"explain_zh": "mediating 指「居中調解、介入」，文中說語言學習能建立真正的關係「without a device mediating every exchange」，也就是不需要裝置介入每一次的交流，故選D。A、B、C 都不是這個字的意思。字義題可從「without a device mediating every exchange」這個描述判斷語意。",
+"vocab": [
+{
+"w": "mediate",
+"zh": "居中調解、介入",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0180",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "WILL AI TRANSLATION MAKE LEARNING A SECOND LANGUAGE POINTLESS?\n\nReal-time AI translation tools have advanced dramatically in recent years, capable of translating spoken conversation almost instantly through earbuds or smartphone apps. Some students, faced with the enormous time investment required to reach fluency in a second language, have begun asking a genuinely provocative question: if a device in my pocket can translate for me, why spend years studying grammar and vocabulary?\n\nProponents of relying on AI translation point to its practical value. For basic travel, simple business transactions, and everyday communication, current tools already perform well enough to be genuinely useful, and the technology continues improving each year. Time spent memorising vocabulary lists, they argue, might be better invested in other skills.\n\nLanguage educators, unsurprisingly, push back against this framing. They argue that translation, however accurate, cannot replicate the deeper benefits of language learning, including improved cognitive flexibility, a more intuitive understanding of another culture's assumptions, and the ability to build genuine relationships without a device mediating every exchange. Several studies suggest that people who speak multiple languages show measurable cognitive advantages unrelated to translation ability at all, such as improved multitasking and delayed onset of certain age-related cognitive declines.\n\nThere is also a practical limitation critics highlight: AI translation still struggles with humour, idiom, and the subtle emotional tone that fluent speakers convey naturally, meaning something is often lost even when the literal words are translated correctly.\n\nMost linguists conclude that AI translation is a powerful tool but not a genuine substitute for the deeper human experience of learning another language.",
+"group_id": "NHR-G36",
+"stem": "What is the writer's overall attitude toward the idea that AI translation makes language learning pointless?",
+"options": [
+"Fully supportive, agreeing that learning a second language is now a waste of time",
+"Skeptical, presenting evidence that language learning still offers benefits AI translation cannot replace",
+"Completely neutral, refusing to present any evidence from either side of the debate",
+"Uncertain, admitting that no research exists on the benefits of language learning"
+],
+"answer": 1,
+"explain_zh": "文章雖然承認AI翻譯的實用性，但詳細列出語言學習獨有的認知與文化益處，並以語言學家的結論收尾，顯示作者對「翻譯讓語言學習變得沒意義」這個說法抱持懷疑態度，故選B。A、C、D 都與文章語氣不符。態度題要看文章如何安排證據的比重與結論。",
+"vocab": [
+{
+"w": "substitute",
+"zh": "替代品",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0181",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "THE GENETICALLY MODIFIED CROP DEBATE THAT WON'T GO AWAY\n\nGenetically modified crops, engineered to resist pests, tolerate herbicides, or survive drought conditions better than conventional varieties, have been grown commercially for roughly three decades, yet public opinion about their safety and value remains sharply divided in many countries, including Taiwan, which currently restricts commercial cultivation while permitting imported genetically modified ingredients in processed food.\n\nSupporters point to a large body of scientific research, including reviews by major national science academies, concluding that approved genetically modified crops currently on the market pose no greater health risk than conventionally bred varieties. They also highlight practical benefits: crops engineered to resist specific pests can reduce the amount of chemical pesticide farmers need to apply, and drought-tolerant varieties may become increasingly important as climate change affects growing conditions worldwide.\n\nCritics raise different concerns, some scientific and some economic. A frequently cited worry involves biodiversity: widespread cultivation of a small number of genetically uniform crop varieties could make agriculture more vulnerable to a single disease or pest capable of affecting an entire dominant variety at once. Other critics focus less on health risk and more on corporate control, noting that a small number of companies own patents on many widely used genetically modified seed varieties, potentially limiting farmers' independence.\n\nTaiwan's cautious middle-ground approach, restricting cultivation while allowing imports, reflects a broader pattern seen in several countries attempting to balance scientific consensus on safety against public unease and economic concerns that extend well beyond the science itself.",
+"group_id": "NHR-G37",
+"stem": "According to the passage, what does Taiwan currently do regarding genetically modified crops?",
+"options": [
+"It allows unlimited commercial cultivation of any genetically modified crop",
+"It restricts commercial cultivation while permitting imported genetically modified ingredients",
+"It has banned all imported food containing genetically modified ingredients",
+"It requires all genetically modified crops to be destroyed before entering the country"
+],
+"answer": 1,
+"explain_zh": "文中明確提到台灣「currently restricts commercial cultivation while permitting imported genetically modified ingredients in processed food」，故選B。A、C、D 文章都沒有提到，屬於捏造的細節。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "cultivation",
+"zh": "種植",
+"pos": "n."
+},
+{
+"w": "restrict",
+"zh": "限制",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0182",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "THE GENETICALLY MODIFIED CROP DEBATE THAT WON'T GO AWAY\n\nGenetically modified crops, engineered to resist pests, tolerate herbicides, or survive drought conditions better than conventional varieties, have been grown commercially for roughly three decades, yet public opinion about their safety and value remains sharply divided in many countries, including Taiwan, which currently restricts commercial cultivation while permitting imported genetically modified ingredients in processed food.\n\nSupporters point to a large body of scientific research, including reviews by major national science academies, concluding that approved genetically modified crops currently on the market pose no greater health risk than conventionally bred varieties. They also highlight practical benefits: crops engineered to resist specific pests can reduce the amount of chemical pesticide farmers need to apply, and drought-tolerant varieties may become increasingly important as climate change affects growing conditions worldwide.\n\nCritics raise different concerns, some scientific and some economic. A frequently cited worry involves biodiversity: widespread cultivation of a small number of genetically uniform crop varieties could make agriculture more vulnerable to a single disease or pest capable of affecting an entire dominant variety at once. Other critics focus less on health risk and more on corporate control, noting that a small number of companies own patents on many widely used genetically modified seed varieties, potentially limiting farmers' independence.\n\nTaiwan's cautious middle-ground approach, restricting cultivation while allowing imports, reflects a broader pattern seen in several countries attempting to balance scientific consensus on safety against public unease and economic concerns that extend well beyond the science itself.",
+"group_id": "NHR-G37",
+"stem": "What can be inferred about why critics worry about genetic uniformity in crops?",
+"options": [
+"A single disease or pest could potentially affect an entire widely planted variety at once",
+"Genetically uniform crops always produce lower yields than conventional crops",
+"Genetically uniform crops are illegal to grow in most countries worldwide",
+"Farmers who grow uniform crops receive no government support at all"
+],
+"answer": 0,
+"explain_zh": "文中提到批評者擔心「widespread cultivation of a small number of genetically uniform crop varieties could make agriculture more vulnerable to a single disease or pest capable of affecting an entire dominant variety at once」，故選A。B、C、D 文章都沒有根據。推論題要抓住這句話說明的風險邏輯。",
+"vocab": [
+{
+"w": "biodiversity",
+"zh": "生物多樣性",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0183",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "THE GENETICALLY MODIFIED CROP DEBATE THAT WON'T GO AWAY\n\nGenetically modified crops, engineered to resist pests, tolerate herbicides, or survive drought conditions better than conventional varieties, have been grown commercially for roughly three decades, yet public opinion about their safety and value remains sharply divided in many countries, including Taiwan, which currently restricts commercial cultivation while permitting imported genetically modified ingredients in processed food.\n\nSupporters point to a large body of scientific research, including reviews by major national science academies, concluding that approved genetically modified crops currently on the market pose no greater health risk than conventionally bred varieties. They also highlight practical benefits: crops engineered to resist specific pests can reduce the amount of chemical pesticide farmers need to apply, and drought-tolerant varieties may become increasingly important as climate change affects growing conditions worldwide.\n\nCritics raise different concerns, some scientific and some economic. A frequently cited worry involves biodiversity: widespread cultivation of a small number of genetically uniform crop varieties could make agriculture more vulnerable to a single disease or pest capable of affecting an entire dominant variety at once. Other critics focus less on health risk and more on corporate control, noting that a small number of companies own patents on many widely used genetically modified seed varieties, potentially limiting farmers' independence.\n\nTaiwan's cautious middle-ground approach, restricting cultivation while allowing imports, reflects a broader pattern seen in several countries attempting to balance scientific consensus on safety against public unease and economic concerns that extend well beyond the science itself.",
+"group_id": "NHR-G37",
+"stem": "The word \"patents\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"Scientific reports published by national science academies",
+"Government subsidies given directly to seed companies",
+"Legal rights that give a company exclusive control over an invention",
+"Agreements between farmers to share seeds with each other"
+],
+"answer": 2,
+"explain_zh": "patents 指「專利」，文中說少數公司「own patents on many widely used genetically modified seed varieties」，也就是擁有這些種子的專利權，限制農民的自主性，故選C。A、B、D 都不是 patents 的意思。字義題可從「potentially limiting farmers' independence」判斷這與法律上的獨佔權利有關。",
+"vocab": [
+{
+"w": "patent",
+"zh": "專利",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0184",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "THE GENETICALLY MODIFIED CROP DEBATE THAT WON'T GO AWAY\n\nGenetically modified crops, engineered to resist pests, tolerate herbicides, or survive drought conditions better than conventional varieties, have been grown commercially for roughly three decades, yet public opinion about their safety and value remains sharply divided in many countries, including Taiwan, which currently restricts commercial cultivation while permitting imported genetically modified ingredients in processed food.\n\nSupporters point to a large body of scientific research, including reviews by major national science academies, concluding that approved genetically modified crops currently on the market pose no greater health risk than conventionally bred varieties. They also highlight practical benefits: crops engineered to resist specific pests can reduce the amount of chemical pesticide farmers need to apply, and drought-tolerant varieties may become increasingly important as climate change affects growing conditions worldwide.\n\nCritics raise different concerns, some scientific and some economic. A frequently cited worry involves biodiversity: widespread cultivation of a small number of genetically uniform crop varieties could make agriculture more vulnerable to a single disease or pest capable of affecting an entire dominant variety at once. Other critics focus less on health risk and more on corporate control, noting that a small number of companies own patents on many widely used genetically modified seed varieties, potentially limiting farmers' independence.\n\nTaiwan's cautious middle-ground approach, restricting cultivation while allowing imports, reflects a broader pattern seen in several countries attempting to balance scientific consensus on safety against public unease and economic concerns that extend well beyond the science itself.",
+"group_id": "NHR-G37",
+"stem": "What is the writer's purpose in the final paragraph?",
+"options": [
+"To argue that Taiwan should immediately allow unrestricted cultivation of all genetically modified crops",
+"To prove that scientific consensus on safety has been completely ignored by every country",
+"To criticize Taiwan's government for having no policy on genetically modified crops at all",
+"To explain Taiwan's policy as an example of countries balancing safety science against public and economic concerns"
+],
+"answer": 3,
+"explain_zh": "最後一段把台灣「限制種植但允許進口」的中間立場，放進更廣泛的國際脈絡中說明，目的是解釋這種政策反映的是科學共識與公眾疑慮、經濟考量之間的平衡，故選D。A、B、C 都與段落內容不符。目的題要看該段落如何總結整篇文章的爭論。",
+"vocab": [
+{
+"w": "consensus",
+"zh": "共識",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0185",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "THE GENETICALLY MODIFIED CROP DEBATE THAT WON'T GO AWAY\n\nGenetically modified crops, engineered to resist pests, tolerate herbicides, or survive drought conditions better than conventional varieties, have been grown commercially for roughly three decades, yet public opinion about their safety and value remains sharply divided in many countries, including Taiwan, which currently restricts commercial cultivation while permitting imported genetically modified ingredients in processed food.\n\nSupporters point to a large body of scientific research, including reviews by major national science academies, concluding that approved genetically modified crops currently on the market pose no greater health risk than conventionally bred varieties. They also highlight practical benefits: crops engineered to resist specific pests can reduce the amount of chemical pesticide farmers need to apply, and drought-tolerant varieties may become increasingly important as climate change affects growing conditions worldwide.\n\nCritics raise different concerns, some scientific and some economic. A frequently cited worry involves biodiversity: widespread cultivation of a small number of genetically uniform crop varieties could make agriculture more vulnerable to a single disease or pest capable of affecting an entire dominant variety at once. Other critics focus less on health risk and more on corporate control, noting that a small number of companies own patents on many widely used genetically modified seed varieties, potentially limiting farmers' independence.\n\nTaiwan's cautious middle-ground approach, restricting cultivation while allowing imports, reflects a broader pattern seen in several countries attempting to balance scientific consensus on safety against public unease and economic concerns that extend well beyond the science itself.",
+"group_id": "NHR-G37",
+"stem": "In the sentence \"Supporters point to a large body of scientific research, including reviews by major national science academies, concluding that approved genetically modified crops currently on the market pose no greater health risk than conventionally bred varieties,\" what does \"approved genetically modified crops currently on the market\" refer to?",
+"options": [
+"All genetically modified crops that have ever been proposed by scientists, including experimental ones",
+"Genetically modified crops that have passed safety review and are currently sold commercially",
+"Crops that Taiwan currently allows to be grown domestically without restriction",
+"Crops that critics have specifically identified as posing serious health risks"
+],
+"answer": 1,
+"explain_zh": "這裡的 \"approved genetically modified crops currently on the market\" 指的是已通過安全審查、目前在市場上販售的基改作物，這是支持者引用科學研究得出結論的對象，故選B。A、C、D 都不是這個片語所指的內容。指代題要理解該片語本身所限定的範圍（已核准、目前在市場上）。",
+"vocab": [
+{
+"w": "approved",
+"zh": "核准的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0186",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "FROM COLONIAL EXPORT TO ARTISAN CRAFT: THE STORY OF TAIWANESE TEA\n\nTea cultivation in the hills around present-day Pinglin and Maokong began in earnest during the nineteenth century, when Taiwanese oolong tea found eager buyers in markets as far away as New York, carried there by merchant ships that made Taiwan's tea trade one of the island's most profitable industries of that era. For decades, tea was grown, processed, and exported almost entirely as a bulk commodity, valued for consistent quantity rather than individual character.\n\nThe industry's fortunes shifted dramatically through the twentieth century. Rising labour costs made large-scale bulk export increasingly difficult to sustain profitably, and by the 1970s and 1980s, cheaper tea grown in other countries had captured much of the international bulk market that Taiwanese growers had once dominated.\n\nRather than disappear, Taiwan's tea industry transformed. Growers who once competed on volume began competing on quality and craftsmanship instead, developing distinctive high-mountain oolong varieties grown at increasingly higher elevations, where cooler temperatures and slower growth produced more complex flavour. Small family farms that survived the bulk-export collapse became specialists, some selling their entire annual harvest to loyal customers who returned year after year for a specific farm's distinctive character.\n\nToday, Taiwanese tea occupies a position almost opposite to its colonial-era origins: rather than competing on low price for mass export, it commands premium prices precisely because of its limited scale and individual character, a transformation few industries manage to complete without simply disappearing along the way.",
+"group_id": "NHR-G38",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Taiwan's tea industry survived decline by shifting from bulk export to premium, quality-focused production",
+"Taiwanese tea has always been sold as a premium product since the nineteenth century",
+"Taiwan's tea industry disappeared completely after losing the international bulk export market",
+"Cheaper tea from other countries has now completely replaced all Taiwanese tea exports"
+],
+"answer": 0,
+"explain_zh": "文章敘述台灣茶產業如何從大宗外銷轉型為精緻化、高山特色茶的過程，A 最能涵蓋全文重點。B 與文章開頭「valued for consistent quantity rather than individual character」相反；C、D 都與文章「Rather than disappear... transformed」相反。主旨題要抓住這篇歷史敘事的轉折重點。",
+"vocab": [
+{
+"w": "commodity",
+"zh": "大宗商品",
+"pos": "n."
+},
+{
+"w": "artisan",
+"zh": "工匠的、手工精製的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0187",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "FROM COLONIAL EXPORT TO ARTISAN CRAFT: THE STORY OF TAIWANESE TEA\n\nTea cultivation in the hills around present-day Pinglin and Maokong began in earnest during the nineteenth century, when Taiwanese oolong tea found eager buyers in markets as far away as New York, carried there by merchant ships that made Taiwan's tea trade one of the island's most profitable industries of that era. For decades, tea was grown, processed, and exported almost entirely as a bulk commodity, valued for consistent quantity rather than individual character.\n\nThe industry's fortunes shifted dramatically through the twentieth century. Rising labour costs made large-scale bulk export increasingly difficult to sustain profitably, and by the 1970s and 1980s, cheaper tea grown in other countries had captured much of the international bulk market that Taiwanese growers had once dominated.\n\nRather than disappear, Taiwan's tea industry transformed. Growers who once competed on volume began competing on quality and craftsmanship instead, developing distinctive high-mountain oolong varieties grown at increasingly higher elevations, where cooler temperatures and slower growth produced more complex flavour. Small family farms that survived the bulk-export collapse became specialists, some selling their entire annual harvest to loyal customers who returned year after year for a specific farm's distinctive character.\n\nToday, Taiwanese tea occupies a position almost opposite to its colonial-era origins: rather than competing on low price for mass export, it commands premium prices precisely because of its limited scale and individual character, a transformation few industries manage to complete without simply disappearing along the way.",
+"group_id": "NHR-G38",
+"stem": "What can be inferred about why some small family tea farms survived the collapse of the bulk export market?",
+"options": [
+"They received large government subsidies that other farms did not receive",
+"They shifted toward producing distinctive, high-quality tea with loyal customers",
+"They stopped selling tea entirely and switched to growing other crops",
+"They merged together to form a single large tea export company"
+],
+"answer": 1,
+"explain_zh": "文中提到存活下來的小農場「became specialists, some selling their entire annual harvest to loyal customers」，可推論這些農場靠轉型為精緻、獨特風味的茶而存活，故選B。A、C、D 文章都沒有根據。推論題要抓住文章描述的轉型過程。",
+"vocab": [
+{
+"w": "specialist",
+"zh": "專精者",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0188",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "FROM COLONIAL EXPORT TO ARTISAN CRAFT: THE STORY OF TAIWANESE TEA\n\nTea cultivation in the hills around present-day Pinglin and Maokong began in earnest during the nineteenth century, when Taiwanese oolong tea found eager buyers in markets as far away as New York, carried there by merchant ships that made Taiwan's tea trade one of the island's most profitable industries of that era. For decades, tea was grown, processed, and exported almost entirely as a bulk commodity, valued for consistent quantity rather than individual character.\n\nThe industry's fortunes shifted dramatically through the twentieth century. Rising labour costs made large-scale bulk export increasingly difficult to sustain profitably, and by the 1970s and 1980s, cheaper tea grown in other countries had captured much of the international bulk market that Taiwanese growers had once dominated.\n\nRather than disappear, Taiwan's tea industry transformed. Growers who once competed on volume began competing on quality and craftsmanship instead, developing distinctive high-mountain oolong varieties grown at increasingly higher elevations, where cooler temperatures and slower growth produced more complex flavour. Small family farms that survived the bulk-export collapse became specialists, some selling their entire annual harvest to loyal customers who returned year after year for a specific farm's distinctive character.\n\nToday, Taiwanese tea occupies a position almost opposite to its colonial-era origins: rather than competing on low price for mass export, it commands premium prices precisely because of its limited scale and individual character, a transformation few industries manage to complete without simply disappearing along the way.",
+"group_id": "NHR-G38",
+"stem": "The word \"sustain\" in the second paragraph is closest in meaning to which of the following?",
+"options": [
+"To sell a product at a significantly higher price than before",
+"To completely stop an activity that is no longer profitable",
+"To keep something going or continue it over a period of time",
+"To import a product from another country instead of producing it locally"
+],
+"answer": 2,
+"explain_zh": "sustain 指「維持、支撐」，文中說「bulk export increasingly difficult to sustain profitably」，也就是要持續維持有利潤的大宗外銷變得越來越困難，故選C。A、B、D 都不是 sustain 的意思。字義題可從「increasingly difficult to... profitably」判斷語意方向。",
+"vocab": [
+{
+"w": "sustain",
+"zh": "維持",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0189",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "FROM COLONIAL EXPORT TO ARTISAN CRAFT: THE STORY OF TAIWANESE TEA\n\nTea cultivation in the hills around present-day Pinglin and Maokong began in earnest during the nineteenth century, when Taiwanese oolong tea found eager buyers in markets as far away as New York, carried there by merchant ships that made Taiwan's tea trade one of the island's most profitable industries of that era. For decades, tea was grown, processed, and exported almost entirely as a bulk commodity, valued for consistent quantity rather than individual character.\n\nThe industry's fortunes shifted dramatically through the twentieth century. Rising labour costs made large-scale bulk export increasingly difficult to sustain profitably, and by the 1970s and 1980s, cheaper tea grown in other countries had captured much of the international bulk market that Taiwanese growers had once dominated.\n\nRather than disappear, Taiwan's tea industry transformed. Growers who once competed on volume began competing on quality and craftsmanship instead, developing distinctive high-mountain oolong varieties grown at increasingly higher elevations, where cooler temperatures and slower growth produced more complex flavour. Small family farms that survived the bulk-export collapse became specialists, some selling their entire annual harvest to loyal customers who returned year after year for a specific farm's distinctive character.\n\nToday, Taiwanese tea occupies a position almost opposite to its colonial-era origins: rather than competing on low price for mass export, it commands premium prices precisely because of its limited scale and individual character, a transformation few industries manage to complete without simply disappearing along the way.",
+"group_id": "NHR-G38",
+"stem": "What is the writer's purpose in the final paragraph?",
+"options": [
+"To argue that Taiwanese tea should return to competing on low price for mass export",
+"To criticize Taiwanese tea farmers for failing to adapt to changing market conditions",
+"To prove that no other industry has ever successfully transformed like this before",
+"To highlight the significance of Taiwan's tea industry completing a rare and difficult transformation"
+],
+"answer": 3,
+"explain_zh": "最後一段強調台灣茶產業從殖民時期大宗外銷轉變為現今講求限量與特色的精品茶，且這種轉型「few industries manage to complete without simply disappearing」，目的是凸顯這個轉變的難得與重要，故選D。A、B、C 都與段落內容不符或過度延伸。目的題要看文章如何在結尾強調轉型的意義。",
+"vocab": [
+{
+"w": "transformation",
+"zh": "轉型",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0190",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "FROM COLONIAL EXPORT TO ARTISAN CRAFT: THE STORY OF TAIWANESE TEA\n\nTea cultivation in the hills around present-day Pinglin and Maokong began in earnest during the nineteenth century, when Taiwanese oolong tea found eager buyers in markets as far away as New York, carried there by merchant ships that made Taiwan's tea trade one of the island's most profitable industries of that era. For decades, tea was grown, processed, and exported almost entirely as a bulk commodity, valued for consistent quantity rather than individual character.\n\nThe industry's fortunes shifted dramatically through the twentieth century. Rising labour costs made large-scale bulk export increasingly difficult to sustain profitably, and by the 1970s and 1980s, cheaper tea grown in other countries had captured much of the international bulk market that Taiwanese growers had once dominated.\n\nRather than disappear, Taiwan's tea industry transformed. Growers who once competed on volume began competing on quality and craftsmanship instead, developing distinctive high-mountain oolong varieties grown at increasingly higher elevations, where cooler temperatures and slower growth produced more complex flavour. Small family farms that survived the bulk-export collapse became specialists, some selling their entire annual harvest to loyal customers who returned year after year for a specific farm's distinctive character.\n\nToday, Taiwanese tea occupies a position almost opposite to its colonial-era origins: rather than competing on low price for mass export, it commands premium prices precisely because of its limited scale and individual character, a transformation few industries manage to complete without simply disappearing along the way.",
+"group_id": "NHR-G38",
+"stem": "In the sentence \"Small family farms that survived the bulk-export collapse became specialists, some selling their entire annual harvest to loyal customers who returned year after year for a specific farm's distinctive character,\" what does \"a specific farm's distinctive character\" refer to?",
+"options": [
+"The unique flavour and quality associated with tea grown on a particular small farm",
+"The historical buildings and land owned by a particular tea-growing family",
+"The specific price that a farm charges for its tea each year",
+"The number of years a family has been growing tea in the region"
+],
+"answer": 0,
+"explain_zh": "前文提到高山茶因為海拔、氣候而產生「more complex flavour」，這裡的 \"a specific farm's distinctive character\" 指的就是特定農場茶葉獨有的風味特色，顧客為此年年回頭購買，故選A。B、C、D 都不是這裡所指的內容。指代題要理解「character」在此語境中指的是風味特質而非其他意涵。",
+"vocab": [
+{
+"w": "distinctive",
+"zh": "獨特的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0191",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "THE SKY YOU CAN NO LONGER SEE\n\nResidents of major Taiwanese cities who travel to remote mountain areas at night often report the same startling reaction: astonishment at how many stars are visible far from urban centres, a sight increasingly unfamiliar to people who have spent their entire lives under artificially lit skies.\n\nLight pollution, the excessive or misdirected artificial light that brightens night skies over populated areas, has increased steadily worldwide as cities expand and outdoor lighting becomes cheaper and more widespread. Unlike air or water pollution, light pollution leaves no visible residue and causes no immediately obvious health symptoms, which researchers suggest partly explains why it receives comparatively little public attention despite mounting evidence of its effects.\n\nAstronomers were among the first to raise concerns, since observatories increasingly struggle to conduct certain types of research from locations that were reasonably dark just decades ago. More recently, researchers studying human health and wildlife behaviour have documented additional consequences. Excessive nighttime light exposure has been linked to disrupted sleep patterns in humans, while migratory birds, which navigate partly using natural light cues, sometimes become disoriented by bright urban lighting and collide with illuminated buildings during migration season.\n\nSome cities have begun addressing the problem through relatively simple measures: shielded streetlights that direct light downward rather than outward, motion-activated lighting in areas with limited foot traffic at night, and designated \"dark sky\" zones where lighting is deliberately restricted. Early results from cities that have adopted these measures suggest meaningful improvement in night sky visibility is achievable without compromising public safety.",
+"group_id": "NHR-G39",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Light pollution has already been completely eliminated in every major Taiwanese city",
+"Light pollution is a growing but underrecognised problem with real consequences, though simple solutions exist",
+"Migratory birds are no longer affected by artificial lighting in cities",
+"Astronomers are the only group affected by increasing levels of light pollution"
+],
+"answer": 1,
+"explain_zh": "文章說明光害逐漸增加、卻因不像空污水污那樣明顯而較少受關注，接著列出對人類與野生動物的影響，最後提出可行的改善措施，B 最能涵蓋全文重點。A、C 與文章內容相反；D 文章明確提到人類睡眠與候鳥都受影響，不只是天文學家。主旨題要平衡文章中「問題」與「解方」兩個部分。",
+"vocab": [
+{
+"w": "light pollution",
+"zh": "光害",
+"pos": "n."
+},
+{
+"w": "disrupt",
+"zh": "擾亂",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0192",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "THE SKY YOU CAN NO LONGER SEE\n\nResidents of major Taiwanese cities who travel to remote mountain areas at night often report the same startling reaction: astonishment at how many stars are visible far from urban centres, a sight increasingly unfamiliar to people who have spent their entire lives under artificially lit skies.\n\nLight pollution, the excessive or misdirected artificial light that brightens night skies over populated areas, has increased steadily worldwide as cities expand and outdoor lighting becomes cheaper and more widespread. Unlike air or water pollution, light pollution leaves no visible residue and causes no immediately obvious health symptoms, which researchers suggest partly explains why it receives comparatively little public attention despite mounting evidence of its effects.\n\nAstronomers were among the first to raise concerns, since observatories increasingly struggle to conduct certain types of research from locations that were reasonably dark just decades ago. More recently, researchers studying human health and wildlife behaviour have documented additional consequences. Excessive nighttime light exposure has been linked to disrupted sleep patterns in humans, while migratory birds, which navigate partly using natural light cues, sometimes become disoriented by bright urban lighting and collide with illuminated buildings during migration season.\n\nSome cities have begun addressing the problem through relatively simple measures: shielded streetlights that direct light downward rather than outward, motion-activated lighting in areas with limited foot traffic at night, and designated \"dark sky\" zones where lighting is deliberately restricted. Early results from cities that have adopted these measures suggest meaningful improvement in night sky visibility is achievable without compromising public safety.",
+"group_id": "NHR-G39",
+"stem": "According to the passage, what has excessive nighttime light exposure been linked to in humans?",
+"options": [
+"An increase in the number of stars visible from major cities",
+"A decline in the overall population of migratory bird species",
+"Disrupted sleep patterns among people exposed to it",
+"A reduction in the cost of outdoor lighting equipment"
+],
+"answer": 2,
+"explain_zh": "文中明確提到「Excessive nighttime light exposure has been linked to disrupted sleep patterns in humans」，故選C。A、B、D 文章都沒有提到或與文意不符。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "exposure",
+"zh": "暴露",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0193",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "THE SKY YOU CAN NO LONGER SEE\n\nResidents of major Taiwanese cities who travel to remote mountain areas at night often report the same startling reaction: astonishment at how many stars are visible far from urban centres, a sight increasingly unfamiliar to people who have spent their entire lives under artificially lit skies.\n\nLight pollution, the excessive or misdirected artificial light that brightens night skies over populated areas, has increased steadily worldwide as cities expand and outdoor lighting becomes cheaper and more widespread. Unlike air or water pollution, light pollution leaves no visible residue and causes no immediately obvious health symptoms, which researchers suggest partly explains why it receives comparatively little public attention despite mounting evidence of its effects.\n\nAstronomers were among the first to raise concerns, since observatories increasingly struggle to conduct certain types of research from locations that were reasonably dark just decades ago. More recently, researchers studying human health and wildlife behaviour have documented additional consequences. Excessive nighttime light exposure has been linked to disrupted sleep patterns in humans, while migratory birds, which navigate partly using natural light cues, sometimes become disoriented by bright urban lighting and collide with illuminated buildings during migration season.\n\nSome cities have begun addressing the problem through relatively simple measures: shielded streetlights that direct light downward rather than outward, motion-activated lighting in areas with limited foot traffic at night, and designated \"dark sky\" zones where lighting is deliberately restricted. Early results from cities that have adopted these measures suggest meaningful improvement in night sky visibility is achievable without compromising public safety.",
+"group_id": "NHR-G39",
+"stem": "The word \"disoriented\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"Confused about direction or position, unable to navigate properly",
+"Extremely tired after flying long distances without resting",
+"Attracted strongly toward a bright light source deliberately",
+"Injured seriously after colliding with a tall building"
+],
+"answer": 0,
+"explain_zh": "disoriented 指「迷失方向的」，文中說候鳥依賴自然光線導航，「sometimes become disoriented by bright urban lighting」，也就是被城市燈光干擾而迷失方向，故選A。B、C、D 都不是 disoriented 的意思。字義題可從「which navigate partly using natural light cues」判斷語意方向。",
+"vocab": [
+{
+"w": "disoriented",
+"zh": "迷失方向的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0194",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "THE SKY YOU CAN NO LONGER SEE\n\nResidents of major Taiwanese cities who travel to remote mountain areas at night often report the same startling reaction: astonishment at how many stars are visible far from urban centres, a sight increasingly unfamiliar to people who have spent their entire lives under artificially lit skies.\n\nLight pollution, the excessive or misdirected artificial light that brightens night skies over populated areas, has increased steadily worldwide as cities expand and outdoor lighting becomes cheaper and more widespread. Unlike air or water pollution, light pollution leaves no visible residue and causes no immediately obvious health symptoms, which researchers suggest partly explains why it receives comparatively little public attention despite mounting evidence of its effects.\n\nAstronomers were among the first to raise concerns, since observatories increasingly struggle to conduct certain types of research from locations that were reasonably dark just decades ago. More recently, researchers studying human health and wildlife behaviour have documented additional consequences. Excessive nighttime light exposure has been linked to disrupted sleep patterns in humans, while migratory birds, which navigate partly using natural light cues, sometimes become disoriented by bright urban lighting and collide with illuminated buildings during migration season.\n\nSome cities have begun addressing the problem through relatively simple measures: shielded streetlights that direct light downward rather than outward, motion-activated lighting in areas with limited foot traffic at night, and designated \"dark sky\" zones where lighting is deliberately restricted. Early results from cities that have adopted these measures suggest meaningful improvement in night sky visibility is achievable without compromising public safety.",
+"group_id": "NHR-G39",
+"stem": "What is the writer's purpose in mentioning that light pollution \"leaves no visible residue and causes no immediately obvious health symptoms\"?",
+"options": [
+"To argue that light pollution is not a real problem worth studying",
+"To prove that light pollution is more dangerous than air pollution",
+"To criticize astronomers for exaggerating the effects of light pollution",
+"To explain why light pollution receives less public attention than other forms of pollution"
+],
+"answer": 3,
+"explain_zh": "這句話後面緊接著「researchers suggest partly explains why it receives comparatively little public attention despite mounting evidence of its effects」，目的是解釋光害為何較不受重視的原因，故選D。A、B、C 都與段落內容不符。目的題要看該句子與後續句子之間的因果連結。",
+"vocab": [
+{
+"w": "residue",
+"zh": "殘留物",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0195",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "THE SKY YOU CAN NO LONGER SEE\n\nResidents of major Taiwanese cities who travel to remote mountain areas at night often report the same startling reaction: astonishment at how many stars are visible far from urban centres, a sight increasingly unfamiliar to people who have spent their entire lives under artificially lit skies.\n\nLight pollution, the excessive or misdirected artificial light that brightens night skies over populated areas, has increased steadily worldwide as cities expand and outdoor lighting becomes cheaper and more widespread. Unlike air or water pollution, light pollution leaves no visible residue and causes no immediately obvious health symptoms, which researchers suggest partly explains why it receives comparatively little public attention despite mounting evidence of its effects.\n\nAstronomers were among the first to raise concerns, since observatories increasingly struggle to conduct certain types of research from locations that were reasonably dark just decades ago. More recently, researchers studying human health and wildlife behaviour have documented additional consequences. Excessive nighttime light exposure has been linked to disrupted sleep patterns in humans, while migratory birds, which navigate partly using natural light cues, sometimes become disoriented by bright urban lighting and collide with illuminated buildings during migration season.\n\nSome cities have begun addressing the problem through relatively simple measures: shielded streetlights that direct light downward rather than outward, motion-activated lighting in areas with limited foot traffic at night, and designated \"dark sky\" zones where lighting is deliberately restricted. Early results from cities that have adopted these measures suggest meaningful improvement in night sky visibility is achievable without compromising public safety.",
+"group_id": "NHR-G39",
+"stem": "In the sentence \"Early results from cities that have adopted these measures suggest meaningful improvement in night sky visibility is achievable without compromising public safety,\" what does \"these measures\" refer to?",
+"options": [
+"International agreements signed by astronomers to protect observatories worldwide",
+"Shielded streetlights, motion-activated lighting, and designated dark sky zones",
+"Scientific studies documenting the health effects of light pollution on birds",
+"New laws requiring all outdoor lighting to be removed from cities entirely"
+],
+"answer": 1,
+"explain_zh": "前一段列出改善光害的具體做法：遮光路燈、感應式照明、暗空區域，這裡的 \"these measures\" 就是指這些具體措施，故選B。A、C、D 都不是這裡所指的內容。指代題要往前找列舉過的具體做法。",
+"vocab": [
+{
+"w": "measure",
+"zh": "措施",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0196",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "THE UNCOMFORTABLE QUESTIONS BEHIND VOLUNTEER TOURISM\n\nEvery year, thousands of young Taiwanese travellers sign up for short-term volunteer trips abroad, often to build classrooms, teach English, or work briefly at orphanages in developing countries. These trips are typically marketed as mutually beneficial: travellers gain meaningful cultural experience while local communities receive needed help. Increasingly, however, researchers and development workers are asking harder questions about who actually benefits most from these arrangements.\n\nA frequently cited concern involves skill mismatch. Volunteers who spend one or two weeks helping construct a building often possess less relevant construction skill than local workers who could have been paid to do the same job, potentially at lower overall cost and higher quality. Some critics argue that volunteer labour, however well-intentioned, occasionally displaces paid local employment rather than supplementing it.\n\nOrphanage volunteering raises particularly serious concerns. Child welfare researchers have documented cases where children experience repeated emotional attachment and separation as a constant rotation of short-term volunteers comes and goes, a pattern potentially harmful to child development regardless of volunteers' good intentions. Some researchers go further, noting that the presence of paying foreign volunteers has, in certain documented cases, created financial incentive for facilities to keep children in orphanages even when family reunification would have been possible.\n\nNone of this means volunteer tourism is inherently harmful. Organisations that involve long-term commitments, genuinely needed skills, and close partnership with local communities can produce real benefit. The uncomfortable lesson is that good intentions alone do not guarantee good outcomes, and prospective volunteers should research an organisation's practices carefully before signing up.",
+"group_id": "NHR-G40",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Volunteer tourism should be completely banned in every developing country",
+"All orphanage volunteering programs have been proven to harm children permanently",
+"Volunteer tourism can cause unintended harm, so travellers should carefully research organisations before participating",
+"Local workers always prefer having foreign volunteers complete construction projects instead of themselves"
+],
+"answer": 2,
+"explain_zh": "文章提出志工旅遊可能造成的問題（技能不符、孤兒院依附問題），最後結論不是全盤否定，而是提醒好意不保證好結果，應審慎選擇機構，C 最能涵蓋全文重點。A、B 過度誇大；D 與文章內容相反。主旨題要注意文章結尾「並非志工旅遊本質上有害」的但書。",
+"vocab": [
+{
+"w": "mismatch",
+"zh": "不匹配",
+"pos": "n."
+},
+{
+"w": "displace",
+"zh": "取代、排擠",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0197",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "THE UNCOMFORTABLE QUESTIONS BEHIND VOLUNTEER TOURISM\n\nEvery year, thousands of young Taiwanese travellers sign up for short-term volunteer trips abroad, often to build classrooms, teach English, or work briefly at orphanages in developing countries. These trips are typically marketed as mutually beneficial: travellers gain meaningful cultural experience while local communities receive needed help. Increasingly, however, researchers and development workers are asking harder questions about who actually benefits most from these arrangements.\n\nA frequently cited concern involves skill mismatch. Volunteers who spend one or two weeks helping construct a building often possess less relevant construction skill than local workers who could have been paid to do the same job, potentially at lower overall cost and higher quality. Some critics argue that volunteer labour, however well-intentioned, occasionally displaces paid local employment rather than supplementing it.\n\nOrphanage volunteering raises particularly serious concerns. Child welfare researchers have documented cases where children experience repeated emotional attachment and separation as a constant rotation of short-term volunteers comes and goes, a pattern potentially harmful to child development regardless of volunteers' good intentions. Some researchers go further, noting that the presence of paying foreign volunteers has, in certain documented cases, created financial incentive for facilities to keep children in orphanages even when family reunification would have been possible.\n\nNone of this means volunteer tourism is inherently harmful. Organisations that involve long-term commitments, genuinely needed skills, and close partnership with local communities can produce real benefit. The uncomfortable lesson is that good intentions alone do not guarantee good outcomes, and prospective volunteers should research an organisation's practices carefully before signing up.",
+"group_id": "NHR-G40",
+"stem": "According to the passage, what have child welfare researchers documented about orphanage volunteering?",
+"options": [
+"Children may experience repeated emotional attachment and separation from short-term volunteers",
+"Orphanages have completely stopped accepting any foreign volunteers in recent years",
+"Children in orphanages consistently prefer foreign volunteers to local caregivers",
+"Orphanage volunteering has no measurable effect on children's emotional development"
+],
+"answer": 0,
+"explain_zh": "文中明確提到「Child welfare researchers have documented cases where children experience repeated emotional attachment and separation as a constant rotation of short-term volunteers comes and goes」，故選A。B、C、D 文章都沒有提到或與文意相反。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "attachment",
+"zh": "依附",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0198",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "THE UNCOMFORTABLE QUESTIONS BEHIND VOLUNTEER TOURISM\n\nEvery year, thousands of young Taiwanese travellers sign up for short-term volunteer trips abroad, often to build classrooms, teach English, or work briefly at orphanages in developing countries. These trips are typically marketed as mutually beneficial: travellers gain meaningful cultural experience while local communities receive needed help. Increasingly, however, researchers and development workers are asking harder questions about who actually benefits most from these arrangements.\n\nA frequently cited concern involves skill mismatch. Volunteers who spend one or two weeks helping construct a building often possess less relevant construction skill than local workers who could have been paid to do the same job, potentially at lower overall cost and higher quality. Some critics argue that volunteer labour, however well-intentioned, occasionally displaces paid local employment rather than supplementing it.\n\nOrphanage volunteering raises particularly serious concerns. Child welfare researchers have documented cases where children experience repeated emotional attachment and separation as a constant rotation of short-term volunteers comes and goes, a pattern potentially harmful to child development regardless of volunteers' good intentions. Some researchers go further, noting that the presence of paying foreign volunteers has, in certain documented cases, created financial incentive for facilities to keep children in orphanages even when family reunification would have been possible.\n\nNone of this means volunteer tourism is inherently harmful. Organisations that involve long-term commitments, genuinely needed skills, and close partnership with local communities can produce real benefit. The uncomfortable lesson is that good intentions alone do not guarantee good outcomes, and prospective volunteers should research an organisation's practices carefully before signing up.",
+"group_id": "NHR-G40",
+"stem": "What can be inferred about why some facilities might have a financial incentive to keep children in orphanages?",
+"options": [
+"Government funding for orphanages decreases whenever a child is reunited with family",
+"Paying foreign volunteers provide income that depends on children remaining at the facility",
+"Local communities pay orphanages directly to keep children away from their families",
+"Family reunification is illegal in the countries where these orphanages operate"
+],
+"answer": 1,
+"explain_zh": "文中提到「the presence of paying foreign volunteers has... created financial incentive for facilities to keep children in orphanages even when family reunification would have been possible」，可推論這是因為付費志工帶來的收入與孩子留在機構有關，故選B。A、C、D 文章都沒有根據。推論題要抓住這句話隱含的財務邏輯。",
+"vocab": [
+{
+"w": "incentive",
+"zh": "誘因",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0199",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "THE UNCOMFORTABLE QUESTIONS BEHIND VOLUNTEER TOURISM\n\nEvery year, thousands of young Taiwanese travellers sign up for short-term volunteer trips abroad, often to build classrooms, teach English, or work briefly at orphanages in developing countries. These trips are typically marketed as mutually beneficial: travellers gain meaningful cultural experience while local communities receive needed help. Increasingly, however, researchers and development workers are asking harder questions about who actually benefits most from these arrangements.\n\nA frequently cited concern involves skill mismatch. Volunteers who spend one or two weeks helping construct a building often possess less relevant construction skill than local workers who could have been paid to do the same job, potentially at lower overall cost and higher quality. Some critics argue that volunteer labour, however well-intentioned, occasionally displaces paid local employment rather than supplementing it.\n\nOrphanage volunteering raises particularly serious concerns. Child welfare researchers have documented cases where children experience repeated emotional attachment and separation as a constant rotation of short-term volunteers comes and goes, a pattern potentially harmful to child development regardless of volunteers' good intentions. Some researchers go further, noting that the presence of paying foreign volunteers has, in certain documented cases, created financial incentive for facilities to keep children in orphanages even when family reunification would have been possible.\n\nNone of this means volunteer tourism is inherently harmful. Organisations that involve long-term commitments, genuinely needed skills, and close partnership with local communities can produce real benefit. The uncomfortable lesson is that good intentions alone do not guarantee good outcomes, and prospective volunteers should research an organisation's practices carefully before signing up.",
+"group_id": "NHR-G40",
+"stem": "What is the writer's overall attitude toward volunteer tourism, based on the passage?",
+"options": [
+"Entirely negative, believing all volunteer tourism programs cause serious harm",
+"Entirely positive, believing volunteer tourism always benefits local communities",
+"Indifferent, showing no real concern about the effects of volunteer tourism",
+"Cautiously critical, acknowledging potential benefits while highlighting the need for careful research"
+],
+"answer": 3,
+"explain_zh": "文章詳細列出志工旅遊可能造成的問題，但結尾明確說「None of this means volunteer tourism is inherently harmful」，並肯定長期、技能相符、與在地社區合作的機構能帶來實質幫助，顯示作者態度是審慎批判、而非全盤否定，故選D。A、B、C 都與文章語氣不符。態度題要看文章結尾如何調和前文的批評。",
+"vocab": [
+{
+"w": "prospective",
+"zh": "未來可能的、準…的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0200",
+"level": "H3",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "THE UNCOMFORTABLE QUESTIONS BEHIND VOLUNTEER TOURISM\n\nEvery year, thousands of young Taiwanese travellers sign up for short-term volunteer trips abroad, often to build classrooms, teach English, or work briefly at orphanages in developing countries. These trips are typically marketed as mutually beneficial: travellers gain meaningful cultural experience while local communities receive needed help. Increasingly, however, researchers and development workers are asking harder questions about who actually benefits most from these arrangements.\n\nA frequently cited concern involves skill mismatch. Volunteers who spend one or two weeks helping construct a building often possess less relevant construction skill than local workers who could have been paid to do the same job, potentially at lower overall cost and higher quality. Some critics argue that volunteer labour, however well-intentioned, occasionally displaces paid local employment rather than supplementing it.\n\nOrphanage volunteering raises particularly serious concerns. Child welfare researchers have documented cases where children experience repeated emotional attachment and separation as a constant rotation of short-term volunteers comes and goes, a pattern potentially harmful to child development regardless of volunteers' good intentions. Some researchers go further, noting that the presence of paying foreign volunteers has, in certain documented cases, created financial incentive for facilities to keep children in orphanages even when family reunification would have been possible.\n\nNone of this means volunteer tourism is inherently harmful. Organisations that involve long-term commitments, genuinely needed skills, and close partnership with local communities can produce real benefit. The uncomfortable lesson is that good intentions alone do not guarantee good outcomes, and prospective volunteers should research an organisation's practices carefully before signing up.",
+"group_id": "NHR-G40",
+"stem": "In the sentence \"Organisations that involve long-term commitments, genuinely needed skills, and close partnership with local communities can produce real benefit,\" what does \"Organisations\" refer to?",
+"options": [
+"Volunteer tourism organisations that operate travel programs abroad",
+"Government agencies that regulate orphanages in developing countries",
+"Child welfare researchers who study the effects of volunteering",
+"Local businesses that compete with foreign volunteer labour for jobs"
+],
+"answer": 0,
+"explain_zh": "全文討論的主體是志工旅遊機構，這裡的 \"Organisations\" 指的就是安排志工旅遊的機構，若具備長期承諾、真正需要的技能、與在地社區緊密合作，就能帶來實質助益，故選A。B、C、D 都不是這裡所指的對象。指代題要注意全文核心討論的機構類型。",
+"vocab": [
+{
+"w": "partnership",
+"zh": "夥伴關係",
+"pos": "n."
+}
+]
+}
+]

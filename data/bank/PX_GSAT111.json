@@ -1,0 +1,974 @@
+[
+ {
+  "id": "PX-GSAT111-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "When Jeffery doesn't feel like cooking, he often orders pizza online and has it ____ to his house.",
+  "options": [
+   "advanced",
+   "delivered",
+   "offered",
+   "stretched"
+  ],
+  "answer": 1,
+  "explain_zh": "傑佛瑞不想煮飯時，常上網訂披薩讓店家「外送」到家，故選 delivered。advanced（提前、推進）、offered（提供）、stretched（伸展）皆無法與 to his house 搭配出「送達到家」的語意。have sth delivered 是常見的使役句型，表示請人代為完成某事。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "deliver",
+    "zh": "外送、遞送",
+    "pos": "v."
+   },
+   {
+    "w": "order",
+    "zh": "訂購",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Jane is the best ____ I have ever had. I cannot imagine running my office without her help.",
+  "options": [
+   "assistant",
+   "influence",
+   "contribution",
+   "politician"
+  ],
+  "answer": 0,
+  "explain_zh": "珍是說話者遇過最棒的「得力助手」，沒有她幫忙簡直無法想像如何經營辦公室，故選 assistant。influence（影響力）、contribution（貢獻）、politician（政治人物）皆無法形容「協助工作的人」。assistant 常用來稱呼工作上的得力幫手。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "assistant",
+    "zh": "助手",
+    "pos": "n."
+   },
+   {
+    "w": "imagine",
+    "zh": "想像",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The temple celebrated Mazu Festival by hosting ten days of lion dances, Taiwanese operas, and traditional hand ____ shows.",
+  "options": [
+   "chat",
+   "quiz",
+   "puppet",
+   "variety"
+  ],
+  "answer": 2,
+  "explain_zh": "廟宇舉辦媽祖祭典，連續十天有舞獅、歌仔戲與傳統「布袋戲」表演，hand puppet show 指手操偶戲，故選 puppet。chat（聊天）、quiz（測驗）、variety（綜藝，語意較籠統）皆無法與 hand ____ shows 搭配出「布袋戲」的具體語意。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "puppet",
+    "zh": "木偶、布偶",
+    "pos": "n."
+   },
+   {
+    "w": "festival",
+    "zh": "節慶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The new vaccine was banned by the Food and Drug Administration due to its ____ fatal side effects.",
+  "options": [
+   "potentially",
+   "delicately",
+   "ambiguously",
+   "optionally"
+  ],
+  "answer": 0,
+  "explain_zh": "這款新疫苗因為有「潛在」致命的副作用而被食藥署禁用，故選 potentially。delicately（精緻地、微妙地）、ambiguously（模稜兩可地）、optionally（可選擇地）皆無法形容「可能發生但尚未確定」的風險程度。potentially fatal 是常見的醫療用語。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "potentially",
+    "zh": "潛在地",
+    "pos": "adv."
+   },
+   {
+    "w": "fatal",
+    "zh": "致命的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "____ the photos with dates and keywords help you sort them easily in your file.",
+  "options": [
+   "Tagging",
+   "Flocking",
+   "Rolling",
+   "Snapping"
+  ],
+  "answer": 0,
+  "explain_zh": "替照片加上日期與關鍵字「標記」，有助於在檔案中輕鬆分類整理，故選 Tagging。Flocking（成群聚集）、Rolling（滾動）、Snapping（拍照、猛咬）皆無法形容替檔案加註標籤的動作。tag 在數位情境中常指加上標籤以利分類搜尋。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "tag",
+    "zh": "標記",
+    "pos": "v."
+   },
+   {
+    "w": "sort",
+    "zh": "分類",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "An ____ person is usually pleasant and easy to get along with, but don't expect that he or she will always say \"yes\" to everything.",
+  "options": [
+   "enormous",
+   "intimate",
+   "agreeable",
+   "ultimate"
+  ],
+  "answer": 2,
+  "explain_zh": "「隨和」的人通常令人愉快、容易相處，但不代表對任何事都會說「好」，故選 agreeable。enormous（巨大的）、intimate（親密的）、ultimate（終極的）皆無法形容個性隨和好相處的特質。agreeable 常用於描述性格溫和、易於相處的人。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "agreeable",
+    "zh": "隨和的",
+    "pos": "adj."
+   },
+   {
+    "w": "pleasant",
+    "zh": "令人愉快的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "Hidden deep in a small alley among various tiny shops, the entrance of the Michelin star restaurant is barely ____ to passersby.",
+  "options": [
+   "identical",
+   "visible",
+   "available",
+   "remarkable"
+  ],
+  "answer": 1,
+  "explain_zh": "這家米其林餐廳藏在巷弄深處的小店之間，入口對路人來說幾乎「看不見」，故選 visible。identical（完全相同的）、available（可獲得的）、remarkable（顯著的、值得注意的，語意方向相反）皆不符合「隱密難尋」的語境。visible 常與 barely 搭配，表示幾乎無法被看見。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "visible",
+    "zh": "看得見的",
+    "pos": "adj."
+   },
+   {
+    "w": "passerby",
+    "zh": "路人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "The original budget for my round-island trip was NT$5,000, but the ____ cost is likely to be 50 percent higher.",
+  "options": [
+   "moderate",
+   "absolute",
+   "promising",
+   "eventual"
+  ],
+  "answer": 3,
+  "explain_zh": "環島旅行原本預算五千元，但「最終」花費恐怕會高出五成，故選 eventual，表示最後、最終的結果。moderate（適中的）、absolute（絕對的）、promising（有前途的）皆無法形容「最後實際發生」的花費。eventual cost 常用於描述超出預期的最終數字。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "eventual",
+    "zh": "最終的",
+    "pos": "adj."
+   },
+   {
+    "w": "budget",
+    "zh": "預算",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "After watching a TV program on natural history, Adam decided to go on a ____ for dinosaur fossils in South Dakota.",
+  "options": [
+   "trial",
+   "route",
+   "strike",
+   "quest"
+  ],
+  "answer": 3,
+  "explain_zh": "看完自然史節目後，亞當決定展開一趟尋找恐龍化石的「探尋」之旅，故選 quest，指帶有目標性的長途尋找。trial（試驗）、route（路線）、strike（罷工、打擊）皆無法形容「追尋某目標的旅程」。quest for 是常見的固定搭配。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "quest",
+    "zh": "探尋",
+    "pos": "n."
+   },
+   {
+    "w": "fossil",
+    "zh": "化石",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "stem": "With pink cherry blossoms blooming everywhere, the valley ____ like a young bride under the bright spring sunshine.",
+  "options": [
+   "bounces",
+   "blushes",
+   "polishes",
+   "transfers"
+  ],
+  "answer": 1,
+  "explain_zh": "開滿粉紅櫻花的山谷在春日陽光下彷彿像年輕新娘一樣「羞紅了臉」，blush 原指臉紅，此處用擬人法比喻山谷染上粉色，故選 blushes。bounces（彈跳）、polishes（擦亮）、transfers（轉移）皆無法傳達這種擬人化的比喻語意。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "blush",
+    "zh": "臉紅、泛紅",
+    "pos": "v."
+   },
+   {
+    "w": "blossom",
+    "zh": "花朵、開花",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "A book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was (11) by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye (12) up all over the world.\nAlthough all book towns have a great number of bookshops, that's where the similarities (13). Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest (14).\nAs digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to (15). The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+  "group_id": "PX-GSAT111-G01",
+  "stem": "(11) 應填入：The concept was ____ by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961.",
+  "options": [
+   "initiated",
+   "represented",
+   "acknowledged",
+   "manipulated"
+  ],
+  "answer": 0,
+  "explain_zh": "書鎮的概念是由 Richard Booth「發起」的，他於1961年在英國海伊河畔小鎮開設第一家二手書店，故選 initiated。represented（代表）、acknowledged（承認）、manipulated（操控）皆無法與 The concept 搭配出「首創、發起」的語意。initiate 常用於描述創始某項概念或運動。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "initiate",
+    "zh": "發起",
+    "pos": "v."
+   },
+   {
+    "w": "antiquarian",
+    "zh": "古書的、古董的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "A book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was (11) by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye (12) up all over the world.\nAlthough all book towns have a great number of bookshops, that's where the similarities (13). Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest (14).\nAs digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to (15). The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+  "group_id": "PX-GSAT111-G01",
+  "stem": "(12) 應填入：Since the 1970s, book towns like Hay-on-Wye ____ up all over the world.",
+  "options": [
+   "spring",
+   "sprang",
+   "had sprung",
+   "have been springing"
+  ],
+  "answer": 3,
+  "explain_zh": "since the 1970s 表示「自1970年代起」延續至今，須用現在完成進行式強調持續發展的動態過程，故選 have been springing。spring（現在式）、sprang（過去式）、had sprung（過去完成式）皆無法與 Since the 1970s 搭配出「持續至今」的正確時態。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "spring up",
+    "zh": "興起、湧現",
+    "pos": "phr."
+   },
+   {
+    "w": "concept",
+    "zh": "概念",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "A book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was (11) by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye (12) up all over the world.\nAlthough all book towns have a great number of bookshops, that's where the similarities (13). Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest (14).\nAs digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to (15). The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+  "group_id": "PX-GSAT111-G01",
+  "stem": "(13) 應填入：Although all book towns have a great number of bookshops, that's where the similarities ____.",
+  "options": [
+   "form",
+   "count",
+   "end",
+   "matter"
+  ],
+  "answer": 2,
+  "explain_zh": "雖然每個書鎮都擁有大量書店，但相似之處也「僅止於此」，that's where the similarities end 是固定表達方式，故選 end。form（形成）、count（計算、重要）、matter（重要）皆無法表達「相似性到此為止」的語意。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "similarity",
+    "zh": "相似之處",
+    "pos": "n."
+   },
+   {
+    "w": "feature",
+    "zh": "特色",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "A book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was (11) by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye (12) up all over the world.\nAlthough all book towns have a great number of bookshops, that's where the similarities (13). Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest (14).\nAs digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to (15). The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+  "group_id": "PX-GSAT111-G01",
+  "stem": "(14) 應填入：Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest ____.",
+  "options": [
+   "trends",
+   "releases",
+   "agendas",
+   "announcements"
+  ],
+  "answer": 1,
+  "explain_zh": "澳洲的克魯內斯每月舉辦書談，邀請作家討論他們最新的「出版作品」，故選 releases，此處指新發行的書籍。trends（趨勢）、agendas（議程）、announcements（公告）皆無法與 discuss their latest 搭配出「討論新書」的語意。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "release",
+    "zh": "（新書的）出版作品",
+    "pos": "n."
+   },
+   {
+    "w": "host",
+    "zh": "邀請、主持",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "A book town is a rural town in which second-hand and antiquarian bookshops are concentrated. The concept was (11) by Richard Booth, who opened the first second-hand bookshop in Hay-on-Wye, UK in 1961. Following him, many local people opened their own bookshops, and the small town soon became a model of sustainable rural development and tourism. Since the 1970s, book towns like Hay-on-Wye (12) up all over the world.\nAlthough all book towns have a great number of bookshops, that's where the similarities (13). Each of these towns shows unique features of its own. Some have many small private shops, while others have organizations steered by volunteers. Some even run regular activities to attract visitors. For example, an annual book festival is held in Hay-on-Wye. Clunes, in Australia, holds a monthly book talk that hosts authors to discuss their latest (14).\nAs digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to (15). The feel of a book, the smell, the weight, and the knowledge that a particular book might be more than a hundred years old—all these highlight the importance of preserving the physical book as a complement to technology.",
+  "group_id": "PX-GSAT111-G01",
+  "stem": "(15) 應填入：As digital reading is changing our traditional way of reading, book towns like Hay-on-Wye are particularly important to ____.",
+  "options": [
+   "get their worldwide fame",
+   "conform to the new mode",
+   "make their visitors satisfied",
+   "keep the printed word alive"
+  ],
+  "answer": 3,
+  "explain_zh": "在數位閱讀逐漸改變傳統閱讀方式的時代，像海伊河畔這樣的書鎮特別重要，因為它們有助於「延續紙本書的生命」，故選 keep the printed word alive。get their worldwide fame（獲得世界知名度）、conform to the new mode（順應新潮流）、make their visitors satisfied（讓遊客滿意）皆與文末強調保存紙本書價值的主旨不符。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "printed word",
+    "zh": "印刷文字、紙本書",
+    "pos": "n."
+   },
+   {
+    "w": "complement",
+    "zh": "補充、相輔相成",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Airline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons (16) aesthetics.\nIn the early days of aviation, plane windows (17) square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is (18) when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may (19).\nCurved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can (20) extreme differences in pressure inside and outside of an aircraft.\nThus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+  "group_id": "PX-GSAT111-G02",
+  "stem": "(16) 應填入：they actually were designed for reasons ____ aesthetics.",
+  "options": [
+   "contrary to",
+   "except for",
+   "more of",
+   "other than"
+  ],
+  "answer": 3,
+  "explain_zh": "飛機窗戶設計成圓角，其實是基於美觀「以外」的理由，other than 表示「除了……之外」，故選 other than。contrary to（與……相反）、except for（除了，語意較接近但用法不同）、more of（更多的）皆無法準確表達「不只是為了美觀」的語意。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "other than",
+    "zh": "除了……之外",
+    "pos": "prep."
+   },
+   {
+    "w": "aesthetics",
+    "zh": "美觀、美學",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Airline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons (16) aesthetics.\nIn the early days of aviation, plane windows (17) square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is (18) when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may (19).\nCurved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can (20) extreme differences in pressure inside and outside of an aircraft.\nThus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+  "group_id": "PX-GSAT111-G02",
+  "stem": "(17) 應填入：In the early days of aviation, plane windows ____ square in shape.",
+  "options": [
+   "used to be",
+   "were to be",
+   "would have been",
+   "must have been"
+  ],
+  "answer": 0,
+  "explain_zh": "航空業發展初期，飛機窗戶「曾經」是方形的，used to be 表示過去習慣性存在、現已改變的狀態，故選 used to be。were to be（預定要）、would have been（與過去事實相反的假設）、must have been（對過去的強烈推測）皆不符合此處單純描述過去事實的語境。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "used to",
+    "zh": "過去曾經",
+    "pos": "phr."
+   },
+   {
+    "w": "aviation",
+    "zh": "航空",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Airline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons (16) aesthetics.\nIn the early days of aviation, plane windows (17) square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is (18) when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may (19).\nCurved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can (20) extreme differences in pressure inside and outside of an aircraft.\nThus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+  "group_id": "PX-GSAT111-G02",
+  "stem": "(18) 應填入：The problem is ____ when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases.",
+  "options": [
+   "disguised",
+   "understood",
+   "confronted",
+   "intensified"
+  ],
+  "answer": 3,
+  "explain_zh": "飛機在高空飛行時，內外壓力差變大，使裂痕問題更加「惡化」，故選 intensified。disguised（被偽裝）、understood（被理解）、confronted（被面對）皆無法表達「問題因某條件而加劇」的語意。intensify 常用於描述問題或情勢的加劇。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "intensify",
+    "zh": "使加劇",
+    "pos": "v."
+   },
+   {
+    "w": "altitude",
+    "zh": "高度、海拔",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Airline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons (16) aesthetics.\nIn the early days of aviation, plane windows (17) square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is (18) when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may (19).\nCurved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can (20) extreme differences in pressure inside and outside of an aircraft.\nThus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+  "group_id": "PX-GSAT111-G02",
+  "stem": "(19) 應填入：When subjected to repeated pressurization high in the sky, the four corners on a square window may ____.",
+  "options": [
+   "cause conflict",
+   "rebuild strength",
+   "spell disaster",
+   "endure shock"
+  ],
+  "answer": 2,
+  "explain_zh": "方形窗角在反覆增壓下可能「釀成災難」，spell disaster 是固定片語，表示「預示災難」，故選 spell disaster。cause conflict（引發衝突）、rebuild strength（重建強度，與惡化的語境相反）、endure shock（承受衝擊）皆不符合此處強調窗角脆弱、恐生意外的語意。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "spell disaster",
+    "zh": "釀成災難",
+    "pos": "phr."
+   },
+   {
+    "w": "pressurization",
+    "zh": "增壓",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "Airline passengers may have noticed that all plane windows have rounded edges, instead of the hard corners commonly found in our house. The round windows are indeed pleasant to the eye, but they actually were designed for reasons (16) aesthetics.\nIn the early days of aviation, plane windows (17) square in shape. Then as commercial air travel became popular in the 1950s and airplanes began flying higher and faster, three planes mysteriously broke apart in midair. The cause? Square windows. Scientists found that sharp corners are natural weak spots where stress concentrates. The problem is (18) when airplanes fly at higher altitudes, where the difference between the inside and outside pressure increases, causing added stress. When subjected to repeated pressurization high in the sky, the four corners on a square window may (19).\nCurved windows, on the other hand, distribute stress around more evenly, reducing the likelihood of cracks or breaks. Circular shapes are also stronger and resist deformation, and therefore can (20) extreme differences in pressure inside and outside of an aircraft.\nThus, round windows are a major safety innovation that keeps planes from disintegrating mid-flight. They are also used on ships and spacecraft for their greater structural integrity.",
+  "group_id": "PX-GSAT111-G02",
+  "stem": "(20) 應填入：Circular shapes are also stronger and resist deformation, and therefore can ____ extreme differences in pressure inside and outside of an aircraft.",
+  "options": [
+   "tolerate",
+   "improve",
+   "justify",
+   "obtain"
+  ],
+  "answer": 0,
+  "explain_zh": "圓形機艙窗更堅固、能抵抗變形，因此能「承受」機艙內外的極端壓力差，故選 tolerate。improve（改善）、justify（證明合理）、obtain（獲得）皆無法與 extreme differences in pressure 搭配出「承受」的語意。tolerate 常用於描述物體承受外力或壓力的能力。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "tolerate",
+    "zh": "承受",
+    "pos": "v."
+   },
+   {
+    "w": "deformation",
+    "zh": "變形",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-021",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Standing proud in the savannah with their red blankets and painted shields, the Maasai people are one of the widely known symbols of East Africa. Their unique style, as remarked by Karen Blixen, author of Out of Africa, \"has grown from the inside, and is an expression of the race and its history.\"\nThe Maasai are a semi-nomadic group in Kenya and northern Tanzania, wandering in bands and living almost entirely on the meat, blood, and milk of their herds. Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle. In fact, they are one of the few tribes that have retained most of their traditions. Up until recently, the only way for a Maasai boy to achieve warrior status was to single-handedly kill a lion with his spear.\nMaasai clothing varies with age, gender, and place. The most recognizable piece of clothing is the shuka, a sheet of fabric worn wrapped around the body. Red is a popular color, and women generally opt for checked, striped, or patterned pieces of cloth. Young men wear black for several months after their circumcision, a ritual signifying their coming of age. A Maasai warrior is rarely seen without his spear and shield. In Blixen's words, \"their weapons and finery are as much a part of their being as are a stag's antlers\" (a male deer's horns).\nBeadwork is an important part of Maasai culture. Beaded jewelry is made by women, and is famous for its complexity. Natural materials such as clay, shells, and ivory were used before trading with the Europeans in the 19th century. They were then replaced by colorful glass beads, allowing for more detailed beadwork and color patterns. Multicolored beadwork is popular among both men and women. Each color holds a special meaning: White stands for peace, green for land and production, while red—the most favored color among the Maasai—is the symbol of unity and bravery.",
+  "group_id": "PX-GSAT111-G03",
+  "stem": "What can we learn from the passage about the Maasai people?",
+  "options": [
+   "They have been urged by governments to leave behind their traditions.",
+   "They resist foreign influence because they were enslaved in the past.",
+   "A boy has to kill a lion by himself before becoming an adult.",
+   "A Maasai woman is usually good at beadwork and farming."
+  ],
+  "answer": 0,
+  "explain_zh": "文中明確提到馬賽人曾受到肯亞與坦尚尼亞政府「敦促」採用更現代的生活方式，但他們仍堅守傳統，故選 A。選項 B 把「反抗現代化」的原因錯誤歸因於曾被奴役、C 誇大成「必須」殺獅才能成年（現已非唯一方式）、D 文中並未提及女性擅長務農，皆與原文不符。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "urge",
+    "zh": "敦促",
+    "pos": "v."
+   },
+   {
+    "w": "retain",
+    "zh": "保留",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-022",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Standing proud in the savannah with their red blankets and painted shields, the Maasai people are one of the widely known symbols of East Africa. Their unique style, as remarked by Karen Blixen, author of Out of Africa, \"has grown from the inside, and is an expression of the race and its history.\"\nThe Maasai are a semi-nomadic group in Kenya and northern Tanzania, wandering in bands and living almost entirely on the meat, blood, and milk of their herds. Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle. In fact, they are one of the few tribes that have retained most of their traditions. Up until recently, the only way for a Maasai boy to achieve warrior status was to single-handedly kill a lion with his spear.\nMaasai clothing varies with age, gender, and place. The most recognizable piece of clothing is the shuka, a sheet of fabric worn wrapped around the body. Red is a popular color, and women generally opt for checked, striped, or patterned pieces of cloth. Young men wear black for several months after their circumcision, a ritual signifying their coming of age. A Maasai warrior is rarely seen without his spear and shield. In Blixen's words, \"their weapons and finery are as much a part of their being as are a stag's antlers\" (a male deer's horns).\nBeadwork is an important part of Maasai culture. Beaded jewelry is made by women, and is famous for its complexity. Natural materials such as clay, shells, and ivory were used before trading with the Europeans in the 19th century. They were then replaced by colorful glass beads, allowing for more detailed beadwork and color patterns. Multicolored beadwork is popular among both men and women. Each color holds a special meaning: White stands for peace, green for land and production, while red—the most favored color among the Maasai—is the symbol of unity and bravery.",
+  "group_id": "PX-GSAT111-G03",
+  "stem": "Which of the following is true about Maasai clothing and beadwork?",
+  "options": [
+   "Striped and patterned cloth is preferred by young adults.",
+   "Young men cannot wear black until they become warriors.",
+   "Colorful glass jewelry became popular after the 19th century.",
+   "The color of the shuka represented one's importance in the tribe."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到十九世紀與歐洲人貿易往來後，天然材質才逐漸被「彩色玻璃珠」取代，使串珠工藝更加精細，故選 C。選項 A、B、D 皆與原文描述的服飾與串珠細節不符，屬於過度延伸或錯置因果的陷阱選項。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "replace",
+    "zh": "取代",
+    "pos": "v."
+   },
+   {
+    "w": "trade",
+    "zh": "貿易",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-023",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Standing proud in the savannah with their red blankets and painted shields, the Maasai people are one of the widely known symbols of East Africa. Their unique style, as remarked by Karen Blixen, author of Out of Africa, \"has grown from the inside, and is an expression of the race and its history.\"\nThe Maasai are a semi-nomadic group in Kenya and northern Tanzania, wandering in bands and living almost entirely on the meat, blood, and milk of their herds. Over the years, the fearless tribesmen have stood strong against slavery, and resisted the urging of the Kenyan and Tanzanian governments to adopt a more modern lifestyle. In fact, they are one of the few tribes that have retained most of their traditions. Up until recently, the only way for a Maasai boy to achieve warrior status was to single-handedly kill a lion with his spear.\nMaasai clothing varies with age, gender, and place. The most recognizable piece of clothing is the shuka, a sheet of fabric worn wrapped around the body. Red is a popular color, and women generally opt for checked, striped, or patterned pieces of cloth. Young men wear black for several months after their circumcision, a ritual signifying their coming of age. A Maasai warrior is rarely seen without his spear and shield. In Blixen's words, \"their weapons and finery are as much a part of their being as are a stag's antlers\" (a male deer's horns).\nBeadwork is an important part of Maasai culture. Beaded jewelry is made by women, and is famous for its complexity. Natural materials such as clay, shells, and ivory were used before trading with the Europeans in the 19th century. They were then replaced by colorful glass beads, allowing for more detailed beadwork and color patterns. Multicolored beadwork is popular among both men and women. Each color holds a special meaning: White stands for peace, green for land and production, while red—the most favored color among the Maasai—is the symbol of unity and bravery.",
+  "group_id": "PX-GSAT111-G03",
+  "stem": "Why does the author quote Blixen's comment at the end of the third paragraph?",
+  "options": [
+   "To explain how Maasai warriors hunt for deer in the wild.",
+   "To exemplify the types of weapons used by Maasai warriors.",
+   "To emphasize that weapons are an inseparable part of a Maasai warrior's outfit.",
+   "To show the similarities between the behavior of a Maasai warrior and that of a male deer."
+  ],
+  "answer": 2,
+  "explain_zh": "作者引用 Blixen 的話「武器與服飾裝扮如同他們身分的一部分，就像公鹿的角一樣」，是為了強調武器對馬賽戰士而言是「密不可分」的身分象徵，故選 C。選項 A、B、D 皆誤解了這句引言真正想表達的重點。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "inseparable",
+    "zh": "密不可分的",
+    "pos": "adj."
+   },
+   {
+    "w": "outfit",
+    "zh": "裝扮、服裝",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-024",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "A hard hat is a helmet used mostly at worksites to protect the head from injuries due to falling objects. Since its introduction in the early 20th century, the headgear has saved countless lives and is considered the number one safety tool for construction workers.\nThe hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head. Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long. The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact. Soon, hard hats became widely used. The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.\nOver the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic. Recently, new models have been introduced and accessories added to meet the needs of laborers working on various job sites. For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above. Today, attachments include radios, sensors, cameras, and a lot more. A common color code has also been developed for recognizing people and their roles on site. Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.\nNew products continue to expand the market. Global sales of hard hats totaled USD 2.1 billion in 2016, and are expected to reach USD 3.19 billion in 2025.",
+  "group_id": "PX-GSAT111-G04",
+  "stem": "Which of the following aspects about hard hats is NOT discussed in the passage?",
+  "options": [
+   "Their functions.",
+   "Their appearances.",
+   "Their materials.",
+   "Their limitations."
+  ],
+  "answer": 3,
+  "explain_zh": "全文依序介紹安全帽的功能（防護頭部）、外觀演變（顏色、配件）與材質演進（帆布皮革到玻璃纖維），但並未討論其「限制或缺點」，故選 D。選項 A、B、C 皆能在文章中找到對應段落的敘述。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "limitation",
+    "zh": "限制",
+    "pos": "n."
+   },
+   {
+    "w": "appearance",
+    "zh": "外觀",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-025",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "A hard hat is a helmet used mostly at worksites to protect the head from injuries due to falling objects. Since its introduction in the early 20th century, the headgear has saved countless lives and is considered the number one safety tool for construction workers.\nThe hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head. Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long. The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact. Soon, hard hats became widely used. The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.\nOver the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic. Recently, new models have been introduced and accessories added to meet the needs of laborers working on various job sites. For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above. Today, attachments include radios, sensors, cameras, and a lot more. A common color code has also been developed for recognizing people and their roles on site. Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.\nNew products continue to expand the market. Global sales of hard hats totaled USD 2.1 billion in 2016, and are expected to reach USD 3.19 billion in 2025.",
+  "group_id": "PX-GSAT111-G04",
+  "stem": "In what order did the following protective hats appear? a. fiberglass hats  b. hats with see-through shields  c. hats with canvas and leather  d. hats with tar over them",
+  "options": [
+   "dcab",
+   "cdba",
+   "cbad",
+   "dcba"
+  ],
+  "answer": 0,
+  "explain_zh": "依文章敘述，安全帽材質演進依序為：塗煤焦油的帽子(d)→帆布皮革製的安全帽(c)→鋁與玻璃纖維材質(a)→附透明面罩的新型安全帽(b)，正確順序為 dcab，故選 A。此題須依照文章第二、三段的時間線索逐一排列。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "canvas",
+    "zh": "帆布",
+    "pos": "n."
+   },
+   {
+    "w": "fiberglass",
+    "zh": "玻璃纖維",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-026",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "A hard hat is a helmet used mostly at worksites to protect the head from injuries due to falling objects. Since its introduction in the early 20th century, the headgear has saved countless lives and is considered the number one safety tool for construction workers.\nThe hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head. Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long. The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact. Soon, hard hats became widely used. The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.\nOver the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic. Recently, new models have been introduced and accessories added to meet the needs of laborers working on various job sites. For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above. Today, attachments include radios, sensors, cameras, and a lot more. A common color code has also been developed for recognizing people and their roles on site. Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.\nNew products continue to expand the market. Global sales of hard hats totaled USD 2.1 billion in 2016, and are expected to reach USD 3.19 billion in 2025.",
+  "group_id": "PX-GSAT111-G04",
+  "stem": "According to the passage, which of the following statements is true about the hard hat?",
+  "options": [
+   "Global sales have doubled every ten years.",
+   "The inspiration came from the inventor's wartime experience.",
+   "It was standard equipment for construction workers in the 1920s.",
+   "Different colors are used in different industries to signal the roles of people on site."
+  ],
+  "answer": 1,
+  "explain_zh": "發明者布拉德是因為在一戰中親眼見識到金屬鋼盔的救命力量，才決定發明安全帽，靈感來自他的「戰時經驗」，故選 B。選項 A 誇大成銷售額每十年翻倍（文中並無此數據）、C 誇大成1920年代已是標準配備（實際是1930年代大型工程才強制規定）、D 文章未提及不同產業使用不同顏色，皆與原文不符。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "inspiration",
+    "zh": "靈感",
+    "pos": "n."
+   },
+   {
+    "w": "witness",
+    "zh": "目擊",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-027",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "A hard hat is a helmet used mostly at worksites to protect the head from injuries due to falling objects. Since its introduction in the early 20th century, the headgear has saved countless lives and is considered the number one safety tool for construction workers.\nThe hard hat was invented in 1919 by Edward W. Bullard, who had just returned from World War I. Before the war, workers used to smear their hats with coal tar for protection of their head. Bullard, having witnessed the life-saving power of the metal helmet in the War, decided to produce a head protection device that was affordable for every worker and lightweight enough to be worn all day long. The Hard Boiled Hat was thus born, using steamed canvas and leather, covered with black paint, and featuring a suspension system to reduce impact. Soon, hard hats became widely used. The headgear was later made mandatory at construction sites in major construction projects, such as the Hoover Dam in 1931 and the Golden Gate Bridge in 1933.\nOver the past century, hard hats have advanced considerably, evolving from canvas and leather to aluminum, fiberglass, and, eventually, to thermoplastic. Recently, new models have been introduced and accessories added to meet the needs of laborers working on various job sites. For instance, a ventilated hard hat was developed to keep wearers cooler, and see-through face shields were attached to better see the hazards lurking above. Today, attachments include radios, sensors, cameras, and a lot more. A common color code has also been developed for recognizing people and their roles on site. Yellow is used for general laborers and contractors, white (or sometimes black) for supervisors and managers, and green for inspectors and new workers.\nNew products continue to expand the market. Global sales of hard hats totaled USD 2.1 billion in 2016, and are expected to reach USD 3.19 billion in 2025.",
+  "group_id": "PX-GSAT111-G04",
+  "stem": "Which of the following words are used in the passage to refer to the hard hat? a. tool  b. code  c. device  d. helmet  e. accessory  f. headgear",
+  "options": [
+   "a, b, d, e",
+   "a, c, d, f",
+   "c, d, e, f",
+   "a, d, e, f"
+  ],
+  "answer": 1,
+  "explain_zh": "文中用來指稱安全帽的詞彙包括 tool（工具）、device（裝置）、helmet（頭盔）、headgear（頭部裝備），而 code 是指顏色代碼系統、accessory 是指額外加裝的配件，兩者皆非指安全帽本體，故選 B（a, c, d, f）。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "headgear",
+    "zh": "頭部裝備",
+    "pos": "n."
+   },
+   {
+    "w": "device",
+    "zh": "裝置",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-028",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Zebrafish, named for their characteristic stripes, have been a popular test subject for researchers. Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs. Above all, they possess some amazing \"self-healing\" power. When part of their heart is removed, they can grow it back in a matter of weeks. When blinded, they can quickly regain the ability to see.\nRecent studies show that humans and zebrafish have the same major organs and share 70 percent of the genes. Moreover, 84 percent of human genes associated with disease find a counterpart in zebrafish. Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.\nResearchers at Vanderbilt University are particularly interested in zebrafish retina regeneration. They have learned that damage of retina can cause blindness in zebrafish, yet it only takes about three to four weeks before vision is restored. The structure and cell types of zebrafish retinas are almost identical to those of humans. If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage.\nIn order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons. They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process. This suggested that GABA plays an important role in the fish's ability to regain their sight.\nThe team is beginning to test the GABA theory on mice. If that works, human trials will be next on the agenda. If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank.",
+  "group_id": "PX-GSAT111-G05",
+  "stem": "What can we learn about zebrafish from the passage?",
+  "options": [
+   "How they should be studied in labs.",
+   "Where they derive their regenerative ability.",
+   "Why they share humans' genetic code.",
+   "What they may offer in medical advancements."
+  ],
+  "answer": 3,
+  "explain_zh": "全文說明斑馬魚驚人的再生能力如何啟發科學家，期望未來能應用於治療人類眼睛、心臟等器官的損傷，主軸是斑馬魚對「醫學發展的潛在貢獻」，故選 D。選項 A、B、C 皆只涵蓋部分內容，並非全文核心重點。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "regenerative",
+    "zh": "再生的",
+    "pos": "adj."
+   },
+   {
+    "w": "advancement",
+    "zh": "進展",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-029",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Zebrafish, named for their characteristic stripes, have been a popular test subject for researchers. Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs. Above all, they possess some amazing \"self-healing\" power. When part of their heart is removed, they can grow it back in a matter of weeks. When blinded, they can quickly regain the ability to see.\nRecent studies show that humans and zebrafish have the same major organs and share 70 percent of the genes. Moreover, 84 percent of human genes associated with disease find a counterpart in zebrafish. Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.\nResearchers at Vanderbilt University are particularly interested in zebrafish retina regeneration. They have learned that damage of retina can cause blindness in zebrafish, yet it only takes about three to four weeks before vision is restored. The structure and cell types of zebrafish retinas are almost identical to those of humans. If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage.\nIn order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons. They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process. This suggested that GABA plays an important role in the fish's ability to regain their sight.\nThe team is beginning to test the GABA theory on mice. If that works, human trials will be next on the agenda. If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank.",
+  "group_id": "PX-GSAT111-G05",
+  "stem": "Which of the following statements is true regarding GABA in zebrafish?",
+  "options": [
+   "Increasing GABA level facilitates neuron activities.",
+   "There is a high level of GABA in the brain of zebrafish.",
+   "Lowering GABA levels in the brain can stimulate retina regrowth.",
+   "GABA contains chemical elements that trigger the growth of neurons."
+  ],
+  "answer": 2,
+  "explain_zh": "研究發現「降低」GABA濃度可以「刺激」斑馬魚視網膜再生，而高濃度的GABA則會抑制再生過程，故選 C。選項 A、B、D 的敘述方向與原文相反或無中生有，須留意 GABA 濃度與再生能力之間的正確因果關係。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "stimulate",
+    "zh": "刺激",
+    "pos": "v."
+   },
+   {
+    "w": "neurotransmitter",
+    "zh": "神經傳導物質",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-030",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Zebrafish, named for their characteristic stripes, have been a popular test subject for researchers. Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs. Above all, they possess some amazing \"self-healing\" power. When part of their heart is removed, they can grow it back in a matter of weeks. When blinded, they can quickly regain the ability to see.\nRecent studies show that humans and zebrafish have the same major organs and share 70 percent of the genes. Moreover, 84 percent of human genes associated with disease find a counterpart in zebrafish. Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.\nResearchers at Vanderbilt University are particularly interested in zebrafish retina regeneration. They have learned that damage of retina can cause blindness in zebrafish, yet it only takes about three to four weeks before vision is restored. The structure and cell types of zebrafish retinas are almost identical to those of humans. If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage.\nIn order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons. They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process. This suggested that GABA plays an important role in the fish's ability to regain their sight.\nThe team is beginning to test the GABA theory on mice. If that works, human trials will be next on the agenda. If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank.",
+  "group_id": "PX-GSAT111-G05",
+  "stem": "Which of the following is closest in meaning to \"replicated\" in the third paragraph?",
+  "options": [
+   "Reproduced.",
+   "Reassembled.",
+   "Recycled.",
+   "Restored."
+  ],
+  "answer": 0,
+  "explain_zh": "replicated 在此指「複製、重現」斑馬魚視網膜再生的過程，語意最接近 Reproduced，故選 A。Reassembled（重新組裝）、Recycled（回收再利用）、Restored（恢復）皆與「重現某過程」的科學研究語境不夠貼切。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "replicate",
+    "zh": "複製、重現",
+    "pos": "v."
+   },
+   {
+    "w": "identical",
+    "zh": "完全相同的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT111-031",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Zebrafish, named for their characteristic stripes, have been a popular test subject for researchers. Only a few centimeters in length, the fish breed easily in captivity, grow quickly, and their transparent body makes it easy to study their organs. Above all, they possess some amazing \"self-healing\" power. When part of their heart is removed, they can grow it back in a matter of weeks. When blinded, they can quickly regain the ability to see.\nRecent studies show that humans and zebrafish have the same major organs and share 70 percent of the genes. Moreover, 84 percent of human genes associated with disease find a counterpart in zebrafish. Scientists thus hope that understanding the self-healing mystery of the fish may one day allow humans to regenerate such organs as eyes, hearts, and spines.\nResearchers at Vanderbilt University are particularly interested in zebrafish retina regeneration. They have learned that damage of retina can cause blindness in zebrafish, yet it only takes about three to four weeks before vision is restored. The structure and cell types of zebrafish retinas are almost identical to those of humans. If the process can be replicated in humans, it may give rise to new treatments for blindness caused by retinal damage.\nIn order to know exactly how zebrafish retina is regenerated, the team looked at the neurotransmitter gamma-aminobutyric acid (GABA), a chemical messenger in the brain that reduces the activity of neurons. They found that lowering GABA levels in zebrafish can trigger retina regeneration, while a high level of GABA concentration will suppress the regeneration process. This suggested that GABA plays an important role in the fish's ability to regain their sight.\nThe team is beginning to test the GABA theory on mice. If that works, human trials will be next on the agenda. If the research proves successful in humans, some of the nearly 40 million blind people worldwide may one day have a tiny, striped fish to thank.",
+  "group_id": "PX-GSAT111-G05",
+  "stem": "According to the passage, which of the following is an opinion, but NOT a fact?",
+  "options": [
+   "Humans and zebrafish have 70 percent of genes in common.",
+   "Zebrafish can quickly recover vision after damage to the retina.",
+   "Scientists are testing if the GABA theory works on mice as it does on zebrafish.",
+   "Understanding regeneration in zebrafish may allow humans to regrow their organs."
+  ],
+  "answer": 3,
+  "explain_zh": "「了解斑馬魚的再生機制未來可能讓人類器官再生」屬於科學家的「推測與期望」，尚未被證實，是意見而非事實，故選 D。選項 A、B、C 皆是文章中已被研究證實或明確陳述的客觀事實。",
+  "source": "111學測",
+  "vocab": [
+   {
+    "w": "opinion",
+    "zh": "意見、看法",
+    "pos": "n."
+   },
+   {
+    "w": "regenerate",
+    "zh": "使再生",
+    "pos": "v."
+   }
+  ]
+ }
+]

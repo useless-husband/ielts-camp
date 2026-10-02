@@ -1,0 +1,4492 @@
+[
+ {
+  "id": "HG2-0001",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If water ____ to one hundred degrees Celsius at sea level, it boils and turns into steam.",
+  "options": [
+   "would be heated",
+   "had been heated",
+   "is heated",
+   "was heated"
+  ],
+  "answer": 2,
+  "explain_zh": "零條件句講科學事實，if 子句和主句都用現在式，所以被動要用 is heated 搭配主句的 boils。was heated 指過去單一事件，would be heated 是第二條件句，had been heated 是第三條件句，都和「恆常事實」不合。記法：事實用「現在＋現在」。",
+  "vocab": [
+   {
+    "w": "boil",
+    "zh": "沸騰",
+    "pos": "v."
+   },
+   {
+    "w": "steam",
+    "zh": "蒸氣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0002",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If students ____ enough sleep, their memory works far better during morning examinations.",
+  "options": [
+   "get",
+   "will get",
+   "would get",
+   "had got"
+  ],
+  "answer": 0,
+  "explain_zh": "主句 works 是現在式，代表這是通則，屬於零條件句，if 子句也必須用現在式 get。will get 不能放在 if 子句裡，would get 與 had got 分別是第二、第三條件句的形式。記法：零條件句兩邊都現在式。",
+  "vocab": [
+   {
+    "w": "memory",
+    "zh": "記憶力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0003",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If the typhoon ____ tomorrow morning, the school will cancel all outdoor activities immediately.",
+  "options": [
+   "will arrive",
+   "would arrive",
+   "had arrived",
+   "arrives"
+  ],
+  "answer": 3,
+  "explain_zh": "第一條件句講未來可能發生的事，if 子句用現在簡單式代替未來式，主句才用 will。中文說「如果明天到」很容易誤寫成 will arrive，但 if 子句裡不放 will。would arrive 與 had arrived 是與事實相反的語氣，不符合這裡的真實可能性。",
+  "vocab": [
+   {
+    "w": "typhoon",
+    "zh": "颱風",
+    "pos": "n."
+   },
+   {
+    "w": "cancel",
+    "zh": "取消",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0004",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If you hand in the report before this Friday, the teacher ____ you extra credit points.",
+  "options": [
+   "will give",
+   "would give",
+   "would have given",
+   "will have given"
+  ],
+  "answer": 0,
+  "explain_zh": "if 子句用現在式 hand in，代表真實可能的未來，主句就用 will give。would give 屬於與現在事實相反的第二條件句，would have given 是與過去相反的第三條件句，will have given 是未來完成式，語意都不對。",
+  "vocab": [
+   {
+    "w": "hand in",
+    "zh": "繳交",
+    "pos": "phr."
+   },
+   {
+    "w": "credit",
+    "zh": "學分、加分",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0005",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "Unless we ____ the leaking pipe today, the water bill will double by next month.",
+  "options": [
+   "fixed",
+   "would fix",
+   "fix",
+   "will fix"
+  ],
+  "answer": 2,
+  "explain_zh": "unless 等於 if...not，同樣屬於條件副詞子句，要用現在式 fix 代替未來式。will fix 不能出現在條件子句中，fixed 與 would fix 則把真實條件變成與事實相反的假設，和主句 will double 不搭。",
+  "vocab": [
+   {
+    "w": "leak",
+    "zh": "漏水",
+    "pos": "v."
+   },
+   {
+    "w": "double",
+    "zh": "變成兩倍",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0006",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If the app ____ working again during the exam, I will submit my assignment by email instead.",
+  "options": [
+   "stops",
+   "will stop",
+   "would stop",
+   "had stopped"
+  ],
+  "answer": 0,
+  "explain_zh": "主句是 will submit，屬於第一條件句，if 子句必須用現在式 stops。will stop 犯了「條件句裡放 will」的常見錯誤；would stop、had stopped 都是假設語氣，和真實可能的情況不符。",
+  "vocab": [
+   {
+    "w": "submit",
+    "zh": "繳交、提交",
+    "pos": "v."
+   },
+   {
+    "w": "assignment",
+    "zh": "作業",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0007",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If I ____ you, I would apologize to your partner before the group presentation tomorrow.",
+  "options": [
+   "am",
+   "will be",
+   "had been",
+   "were"
+  ],
+  "answer": 3,
+  "explain_zh": "第二條件句表達與現在事實相反的假設，be 動詞一律用 were，主句搭配 would + 原形。am 是真實現在式，will be 不能放在 if 子句，had been 是與過去相反的第三條件句。記法：If I were you 是固定建議句型。",
+  "vocab": [
+   {
+    "w": "apologize",
+    "zh": "道歉",
+    "pos": "v."
+   },
+   {
+    "w": "presentation",
+    "zh": "報告",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0008",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If our town had a proper bike lane, far more residents ____ to work every day.",
+  "options": [
+   "cycled",
+   "would have cycled",
+   "would cycle",
+   "will cycle"
+  ],
+  "answer": 2,
+  "explain_zh": "if 子句用過去式 had，表示與現在事實相反，主句就要用 would + 原形 cycle。will cycle 用在真實條件句，cycled 少了 would，would have cycled 是與過去相反的講法，時間點都對不上。",
+  "vocab": [
+   {
+    "w": "lane",
+    "zh": "車道",
+    "pos": "n."
+   },
+   {
+    "w": "resident",
+    "zh": "居民",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0009",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If she ____ a little more confident, she would volunteer to give the opening speech.",
+  "options": [
+   "had been",
+   "were",
+   "is",
+   "would be"
+  ],
+  "answer": 1,
+  "explain_zh": "主句用 would volunteer，可知是與現在事實相反的第二條件句，if 子句的 be 動詞要用 were。is 是真實現在式，would be 不會出現在 if 子句，had been 屬於與過去相反的假設。",
+  "vocab": [
+   {
+    "w": "confident",
+    "zh": "有自信的",
+    "pos": "adj."
+   },
+   {
+    "w": "volunteer",
+    "zh": "自願",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0010",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If the government ____ tuition fees next year, thousands of families would struggle to pay.",
+  "options": [
+   "raised",
+   "raises",
+   "had raised",
+   "would raise"
+  ],
+  "answer": 0,
+  "explain_zh": "主句是 would struggle，代表說話者把這件事當成不太可能發生的假設，因此 if 子句要用過去式 raised。raises 會變成真實的第一條件句，主句就得改成 will struggle；had raised 是與過去相反；would raise 不能放進 if 子句。",
+  "vocab": [
+   {
+    "w": "tuition fee",
+    "zh": "學費",
+    "pos": "n."
+   },
+   {
+    "w": "struggle",
+    "zh": "掙扎、吃力",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0011",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "What would you do if your flight ____ cancelled only two hours before departure?",
+  "options": [
+   "had been",
+   "were",
+   "is",
+   "will be"
+  ],
+  "answer": 1,
+  "explain_zh": "主句用 would you do，屬於與現在或未來事實相反的假設，被動語態要用 were cancelled。is 是真實情況，will be 不能放在 if 子句，had been 會把時間拉到過去，與 would do 不一致。",
+  "vocab": [
+   {
+    "w": "departure",
+    "zh": "出發、起飛",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0012",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If we ____ the earlier train, we would not have missed the opening of the ceremony.",
+  "options": [
+   "caught",
+   "would catch",
+   "have caught",
+   "had caught"
+  ],
+  "answer": 3,
+  "explain_zh": "主句是 would not have missed，屬於與過去事實相反的第三條件句，if 子句必須用過去完成式 had caught。caught 只是單純過去式，would catch 不能放在 if 子句，have caught 是現在完成式，都無法表達「當時沒趕上」的懊悔。",
+  "vocab": [
+   {
+    "w": "ceremony",
+    "zh": "典禮",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0013",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If the coach had rested the injured player, the team ____ the championship last season.",
+  "options": [
+   "might have won",
+   "might win",
+   "would win",
+   "had won"
+  ],
+  "answer": 0,
+  "explain_zh": "if 子句用 had rested，是與過去事實相反，主句要用 would/could/might + have + 過去分詞，所以 might have won 正確。might win 與 would win 指向現在或未來，had won 不能當主句動詞。",
+  "vocab": [
+   {
+    "w": "injured",
+    "zh": "受傷的",
+    "pos": "adj."
+   },
+   {
+    "w": "championship",
+    "zh": "冠軍賽",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0014",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If I had known about the scholarship deadline, I ____ my application two weeks earlier.",
+  "options": [
+   "would have sent",
+   "would send",
+   "had sent",
+   "will have sent"
+  ],
+  "answer": 0,
+  "explain_zh": "had known 說明這是與過去事實相反的第三條件句，主句固定用 would have + 過去分詞。would send 指現在或未來，had sent 是條件子句的形式，will have sent 是未來完成式，都與「當時不知道」的懊悔語氣不合。",
+  "vocab": [
+   {
+    "w": "scholarship",
+    "zh": "獎學金",
+    "pos": "n."
+   },
+   {
+    "w": "application",
+    "zh": "申請書",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0015",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "The fire ____ so quickly if the old warehouse had been fitted with proper sprinklers.",
+  "options": [
+   "would not spread",
+   "had not spread",
+   "will not spread",
+   "would not have spread"
+  ],
+  "answer": 3,
+  "explain_zh": "if 子句用 had been fitted，是與過去事實相反，主句要用 would not have spread。would not spread 是與現在相反，had not spread 屬於條件子句用法，will not spread 是未來式，時間都錯。",
+  "vocab": [
+   {
+    "w": "warehouse",
+    "zh": "倉庫",
+    "pos": "n."
+   },
+   {
+    "w": "sprinkler",
+    "zh": "灑水器",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0016",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If the villagers ____ warned in time, nobody would have been trapped by the flood.",
+  "options": [
+   "were",
+   "would be",
+   "have been",
+   "had been"
+  ],
+  "answer": 3,
+  "explain_zh": "主句 would have been trapped 指出這是與過去事實相反，被動的條件子句要用 had been warned。were warned 是與現在相反，would be 不能放在 if 子句，have been 是現在完成式。",
+  "vocab": [
+   {
+    "w": "warn",
+    "zh": "警告",
+    "pos": "v."
+   },
+   {
+    "w": "trap",
+    "zh": "困住",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0017",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If I had studied biology in high school, I ____ a medical researcher now.",
+  "options": [
+   "will be",
+   "had been",
+   "would be",
+   "would have been"
+  ],
+  "answer": 2,
+  "explain_zh": "這是混合條件句：條件在過去（had studied），結果落在現在（now），所以主句用 would + 原形 be。would have been 把結果也放回過去，和 now 衝突；will be 是真實未來；had been 不能當主句。",
+  "vocab": [
+   {
+    "w": "biology",
+    "zh": "生物學",
+    "pos": "n."
+   },
+   {
+    "w": "researcher",
+    "zh": "研究員",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0018",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If she were not afraid of heights, she ____ the observation deck with us yesterday.",
+  "options": [
+   "yesterday visited",
+   "would have visited",
+   "would visit",
+   "had visited"
+  ],
+  "answer": 1,
+  "explain_zh": "這是混合條件句：條件是「她現在就是怕高」這個持續狀態，結果卻發生在 yesterday，所以主句用 would have visited。would visit 指現在或未來，had visited 是條件子句形式，最後一個選項語序錯誤。",
+  "vocab": [
+   {
+    "w": "observation deck",
+    "zh": "觀景台",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0019",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If we had bought the tickets last week, we ____ in this endless queue right now.",
+  "options": [
+   "would not be standing",
+   "would not have stood",
+   "were not standing",
+   "will not stand"
+  ],
+  "answer": 0,
+  "explain_zh": "條件在過去（last week），結果在現在（right now），屬於混合條件句，主句用 would + be + Ving。would not have stood 把結果也拉回過去，與 right now 矛盾；其餘兩個缺少 would，無法表達與事實相反。",
+  "vocab": [
+   {
+    "w": "endless",
+    "zh": "沒完沒了的",
+    "pos": "adj."
+   },
+   {
+    "w": "queue",
+    "zh": "排隊人龍",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0020",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If he were a more careful driver, he ____ into that lamp post last Saturday night.",
+  "options": [
+   "would not have crashed",
+   "would not crash",
+   "had not crashed",
+   "did not crash"
+  ],
+  "answer": 0,
+  "explain_zh": "條件描述他「一向不小心」這個現在的性格，結果卻是上週六的具體事件，因此主句用 would not have crashed。would not crash 指現在或未來，had not crashed 是條件子句形式，did not crash 只是陳述事實，沒有假設語氣。",
+  "vocab": [
+   {
+    "w": "crash",
+    "zh": "撞上",
+    "pos": "v."
+   },
+   {
+    "w": "lamp post",
+    "zh": "路燈桿",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0021",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "I wish I ____ how to swim; then I could join the diving course this summer.",
+  "options": [
+   "would know",
+   "knew",
+   "know",
+   "have known"
+  ],
+  "answer": 1,
+  "explain_zh": "wish 後面表達與現在事實相反的願望，動詞要退一格用過去式 knew。know 是直述現在事實，have known 是現在完成式，would know 在此不合語法。記法：wish + 過去式＝現在辦不到。",
+  "vocab": [
+   {
+    "w": "dive",
+    "zh": "潛水、跳水",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0022",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "She wishes she ____ the email before deleting it, because it contained her exam results.",
+  "options": [
+   "had read",
+   "read",
+   "would read",
+   "has read"
+  ],
+  "answer": 0,
+  "explain_zh": "wish 表達與「過去」事實相反的後悔時，要用過去完成式 had read。read 只表示與現在相反，would read 用於抱怨對方的習慣，has read 是現在完成式，都無法表達已經刪掉的懊悔。",
+  "vocab": [
+   {
+    "w": "delete",
+    "zh": "刪除",
+    "pos": "v."
+   },
+   {
+    "w": "contain",
+    "zh": "包含",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0023",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If only the museum ____ photography, I could have recorded that amazing dinosaur skeleton.",
+  "options": [
+   "allows",
+   "would allow",
+   "had allowed",
+   "allowed"
+  ],
+  "answer": 2,
+  "explain_zh": "If only 和 wish 用法相同；主句 could have recorded 指過去，所以條件要用過去完成式 had allowed。allowed 是與現在相反，allows 是真實現在式，would allow 則用於請求對方改變，語氣都不對。",
+  "vocab": [
+   {
+    "w": "photography",
+    "zh": "攝影",
+    "pos": "n."
+   },
+   {
+    "w": "skeleton",
+    "zh": "骨骼、骨架",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0024",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "If only my roommate ____ so loudly every night, I would get a decent night's rest.",
+  "options": [
+   "did not snore",
+   "does not snore",
+   "had not snored",
+   "has not snored"
+  ],
+  "answer": 0,
+  "explain_zh": "If only 表達與現在事實相反的願望，動詞退一格用過去式 did not snore，主句才會是 would get。does not snore 是直述現在事實，had not snored 與 has not snored 都把時間拉到過去，和 every night 的現況不符。",
+  "vocab": [
+   {
+    "w": "snore",
+    "zh": "打呼",
+    "pos": "v."
+   },
+   {
+    "w": "decent",
+    "zh": "不錯的、像樣的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0025",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "She orders everyone around as if she ____ the manager, although she joined only last month.",
+  "options": [
+   "were",
+   "is",
+   "has been",
+   "had been"
+  ],
+  "answer": 0,
+  "explain_zh": "as if 後面表示與現在事實相反的比喻時，be 動詞用 were。is 會變成陳述事實，等於承認她真的是經理；has been 與 had been 把時間往前推，和 although 後面的現況不搭。",
+  "vocab": [
+   {
+    "w": "order around",
+    "zh": "使喚",
+    "pos": "phr."
+   },
+   {
+    "w": "manager",
+    "zh": "經理",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0026",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "The old house looked as if it ____ empty for decades, with broken windows and thick dust.",
+  "options": [
+   "stood",
+   "has stood",
+   "would stand",
+   "had stood"
+  ],
+  "answer": 3,
+  "explain_zh": "主要動詞 looked 是過去式，as if 子句要描述「更早之前」的狀態，所以用過去完成式 had stood。stood 表示與過去同時，has stood 的現在完成式和 looked 不一致，would stand 沒有比較時間先後的功能。",
+  "vocab": [
+   {
+    "w": "decade",
+    "zh": "十年",
+    "pos": "n."
+   },
+   {
+    "w": "dust",
+    "zh": "灰塵",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0027",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ your timely advice, I would have signed that contract without reading the small print.",
+  "options": [
+   "Except for",
+   "Unless for",
+   "But for",
+   "But that"
+  ],
+  "answer": 2,
+  "explain_zh": "But for 等於 If it had not been for，表示「要不是有…」，後面接名詞並搭配 would have + 過去分詞。But that 後面要接子句，Except for 只是「除了」沒有假設意味，Unless for 不是正確的用法。",
+  "vocab": [
+   {
+    "w": "timely",
+    "zh": "及時的",
+    "pos": "adj."
+   },
+   {
+    "w": "contract",
+    "zh": "合約",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0028",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "But for the volunteers' quick response, the wildfire ____ the whole national park.",
+  "options": [
+   "had destroyed",
+   "will destroy",
+   "would have destroyed",
+   "would destroy"
+  ],
+  "answer": 2,
+  "explain_zh": "But for 引導與過去事實相反的假設，主句要用 would have + 過去分詞。would destroy 指現在或未來，had destroyed 是條件子句的形式，will destroy 是真實未來，都無法表達「幸好沒有燒掉」。",
+  "vocab": [
+   {
+    "w": "wildfire",
+    "zh": "野火",
+    "pos": "n."
+   },
+   {
+    "w": "response",
+    "zh": "反應、應變",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0029",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ a reliable internet connection, the online lecture would have been impossible to follow.",
+  "options": [
+   "Despite",
+   "Instead of",
+   "Without",
+   "Unless"
+  ],
+  "answer": 2,
+  "explain_zh": "Without 加名詞等於 If there had not been，可以引導與過去事實相反的假設。Unless 後面必須接子句，Despite 是「儘管」語意相反，Instead of 是「而不是」，都無法構成條件。",
+  "vocab": [
+   {
+    "w": "reliable",
+    "zh": "可靠的",
+    "pos": "adj."
+   },
+   {
+    "w": "lecture",
+    "zh": "講課",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0030",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conditionals",
+  "tag_zh": "條件句與假設語氣",
+  "passage": null,
+  "group_id": null,
+  "stem": "Without the scholarship, she ____ able to afford the exchange programme in Vancouver next year.",
+  "options": [
+   "would not have been",
+   "will not be",
+   "had not been",
+   "would not be"
+  ],
+  "answer": 3,
+  "explain_zh": "next year 說明結果在未來，Without 引導與現在或未來事實相反的假設，主句用 would not be。would not have been 指過去，will not be 是真實未來沒有假設語氣，had not been 不能當主句動詞。",
+  "vocab": [
+   {
+    "w": "afford",
+    "zh": "負擔得起",
+    "pos": "v."
+   },
+   {
+    "w": "exchange programme",
+    "zh": "交換計畫",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0031",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ down the corridor, the new student suddenly heard someone calling her English name.",
+  "options": [
+   "To walk",
+   "Walk",
+   "Walking",
+   "Walked"
+  ],
+  "answer": 2,
+  "explain_zh": "分詞構句的主詞就是主句的 the new student，她是「主動走」，所以用現在分詞 Walking。Walked 是被動或過去式，To walk 表示目的，Walk 是原形動詞，都不能連接兩個句子。",
+  "vocab": [
+   {
+    "w": "corridor",
+    "zh": "走廊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0032",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ by heavy rain, the annual sports meeting was postponed until the following Saturday.",
+  "options": [
+   "Delaying",
+   "Having delayed",
+   "To delay",
+   "Delayed"
+  ],
+  "answer": 3,
+  "explain_zh": "運動會是「被」大雨耽誤，主詞與動作是被動關係，要用過去分詞 Delayed。Delaying 是主動，Having delayed 也是主動且強調先後，To delay 表示目的，語意都相反。",
+  "vocab": [
+   {
+    "w": "annual",
+    "zh": "年度的",
+    "pos": "adj."
+   },
+   {
+    "w": "postpone",
+    "zh": "延期",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0033",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ his homework, Kevin went straight to the basketball court behind the library.",
+  "options": [
+   "To finish",
+   "Having finished",
+   "Have finished",
+   "Finished"
+  ],
+  "answer": 1,
+  "explain_zh": "先寫完功課才去球場，兩個動作有明顯先後，用完成式分詞 Having finished 最精準。Have finished 是原形動詞不能開頭，Finished 會變成被動，To finish 則表示目的。",
+  "vocab": [
+   {
+    "w": "straight",
+    "zh": "直接地",
+    "pos": "adv."
+   },
+   {
+    "w": "court",
+    "zh": "球場",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0034",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ in 1908, the wooden chapel is now the oldest building on our campus.",
+  "options": [
+   "Building",
+   "To build",
+   "Having built",
+   "Built"
+  ],
+  "answer": 3,
+  "explain_zh": "小教堂是「被」建造的，用過去分詞 Built 表示被動。Building 是主動，會變成「教堂蓋了什麼」；To build 表目的；Having built 是主動完成式，主詞關係不合。",
+  "vocab": [
+   {
+    "w": "chapel",
+    "zh": "小教堂",
+    "pos": "n."
+   },
+   {
+    "w": "campus",
+    "zh": "校園",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0035",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The students sat in the hall, ____ carefully to the professor's explanation of climate models.",
+  "options": [
+   "listened",
+   "listen",
+   "to listen",
+   "listening"
+  ],
+  "answer": 3,
+  "explain_zh": "逗號後接分詞構句表示同時進行的動作，學生是主動聽，所以用 listening。listened 會造成兩個動詞並列卻沒有連接詞，listen 是原形，to listen 表示目的而非同時發生。",
+  "vocab": [
+   {
+    "w": "explanation",
+    "zh": "說明",
+    "pos": "n."
+   },
+   {
+    "w": "climate",
+    "zh": "氣候",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0036",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ what to say next, the nervous candidate stared at the interviewer in complete silence.",
+  "options": [
+   "Knowing not",
+   "Not to know",
+   "Not knowing",
+   "Not known"
+  ],
+  "answer": 2,
+  "explain_zh": "分詞構句的否定要把 not 放在分詞前面，主動關係用現在分詞，所以是 Not knowing。Not known 是被動，Knowing not 語序錯誤，Not to know 是不定詞。記法：not + Ving。",
+  "vocab": [
+   {
+    "w": "candidate",
+    "zh": "應徵者、候選人",
+    "pos": "n."
+   },
+   {
+    "w": "stare",
+    "zh": "盯著看",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0037",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ several times by the same virus, the company finally upgraded its whole security system.",
+  "options": [
+   "Attacking",
+   "Have been attacked",
+   "Having been attacked",
+   "Having attacked"
+  ],
+  "answer": 2,
+  "explain_zh": "公司是「被」病毒攻擊，而且攻擊發生在升級之前，所以用完成式被動分詞 Having been attacked。Having attacked 與 Attacking 都是主動，Have been attacked 是原形動詞不能引導分詞構句。",
+  "vocab": [
+   {
+    "w": "virus",
+    "zh": "病毒",
+    "pos": "n."
+   },
+   {
+    "w": "upgrade",
+    "zh": "升級",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0038",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The typhoon swept across the island, ____ thousands of households without electricity for two days.",
+  "options": [
+   "leaving",
+   "left",
+   "leave",
+   "to leave"
+  ],
+  "answer": 0,
+  "explain_zh": "分詞構句放在句尾表示前面動作造成的結果，颱風是主動造成的，用現在分詞 leaving。left 會讓兩個過去式動詞並列卻沒有連接詞，leave 是原形，to leave 會誤解成颱風的目的。",
+  "vocab": [
+   {
+    "w": "sweep",
+    "zh": "橫掃",
+    "pos": "v."
+   },
+   {
+    "w": "household",
+    "zh": "家戶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0039",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ from the top of Taipei 101, the city looks like a glittering circuit board at night.",
+  "options": [
+   "Seen",
+   "Seeing",
+   "To see",
+   "Having seen"
+  ],
+  "answer": 0,
+  "explain_zh": "主句主詞是 the city，城市是「被」看的，所以要用過去分詞 Seen。Seeing 會變成城市在看，是典型的分詞主詞錯置；To see 表目的；Having seen 也是主動。",
+  "vocab": [
+   {
+    "w": "glitter",
+    "zh": "閃閃發光",
+    "pos": "v."
+   },
+   {
+    "w": "circuit board",
+    "zh": "電路板",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0040",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ with last year's figures, this month's electricity consumption dropped by nearly fifteen percent.",
+  "options": [
+   "Comparing",
+   "To compare",
+   "Compare",
+   "Compared"
+  ],
+  "answer": 3,
+  "explain_zh": "用電量是「被」拿來比較的，固定用法是 Compared with/to。Comparing with 會變成主詞主動去比較，To compare 表示目的，Compare 是原形動詞。記法：Compared with... 是固定的開頭語。",
+  "vocab": [
+   {
+    "w": "figure",
+    "zh": "數字、數據",
+    "pos": "n."
+   },
+   {
+    "w": "consumption",
+    "zh": "消耗量",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0041",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ that she had failed the interview, Mei spent the whole evening revising her résumé.",
+  "options": [
+   "Realized",
+   "Being realized",
+   "To realize",
+   "Realizing"
+  ],
+  "answer": 3,
+  "explain_zh": "美是主動察覺到這件事，所以用現在分詞 Realizing 引導分詞構句。Realized 與 Being realized 都是被動，語意變成「她被察覺」；To realize 表示目的，也不合邏輯。",
+  "vocab": [
+   {
+    "w": "interview",
+    "zh": "面試",
+    "pos": "n."
+   },
+   {
+    "w": "revise",
+    "zh": "修改",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0042",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "A tall man ____ a grey raincoat asked the guard where the lost property office was.",
+  "options": [
+   "to wear",
+   "wearing",
+   "worn",
+   "wear"
+  ],
+  "answer": 1,
+  "explain_zh": "wearing a grey raincoat 是簡化的形容詞子句 who was wearing，修飾前面的 man，用現在分詞表示主動。worn 是被動（雨衣被穿），wear 是原形，to wear 表示目的。",
+  "vocab": [
+   {
+    "w": "raincoat",
+    "zh": "雨衣",
+    "pos": "n."
+   },
+   {
+    "w": "lost property",
+    "zh": "失物招領",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0043",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ properly, these solar panels can supply a small household with electricity for twenty years.",
+  "options": [
+   "Having installed",
+   "To install",
+   "Installed",
+   "Installing"
+  ],
+  "answer": 2,
+  "explain_zh": "太陽能板是「被」安裝的，要用過去分詞 Installed，相當於 If they are installed properly。Installing 與 Having installed 都是主動，To install 表示目的，主詞關係都不對。",
+  "vocab": [
+   {
+    "w": "install",
+    "zh": "安裝",
+    "pos": "v."
+   },
+   {
+    "w": "supply",
+    "zh": "供應",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0044",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The volunteers walked along the riverbank, ____ rubbish into large blue bags.",
+  "options": [
+   "to collecting",
+   "collecting",
+   "collected",
+   "collect"
+  ],
+  "answer": 1,
+  "explain_zh": "志工是主動撿垃圾，且與 walked 同時進行，用現在分詞 collecting。collected 造成動詞並列缺少連接詞，collect 是原形，to collecting 的形式本身就錯。",
+  "vocab": [
+   {
+    "w": "riverbank",
+    "zh": "河岸",
+    "pos": "n."
+   },
+   {
+    "w": "rubbish",
+    "zh": "垃圾",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0045",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the difficulty of the task, the committee decided to extend the deadline by one month.",
+  "options": [
+   "Gave",
+   "Given",
+   "Giving",
+   "To give"
+  ],
+  "answer": 1,
+  "explain_zh": "Given 在句首是固定用法，意思是「考慮到、鑑於」，後面接名詞。Giving 是主動給予，To give 表示目的，Gave 是過去式動詞，都不能引導這種獨立說明。",
+  "vocab": [
+   {
+    "w": "committee",
+    "zh": "委員會",
+    "pos": "n."
+   },
+   {
+    "w": "extend",
+    "zh": "延長",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0046",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ no other choice, the passengers had to spend the night at the airport terminal.",
+  "options": [
+   "To have",
+   "Have",
+   "Having",
+   "Had"
+  ],
+  "answer": 2,
+  "explain_zh": "乘客是主動「沒有其他選擇」，用現在分詞 Having 引導分詞構句，相當於 Since they had no other choice。Had 與 Have 是限定動詞，需要連接詞；To have 表示目的。",
+  "vocab": [
+   {
+    "w": "passenger",
+    "zh": "乘客",
+    "pos": "n."
+   },
+   {
+    "w": "terminal",
+    "zh": "航廈",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0047",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ badly damaged by the earthquake, the bridge had to be closed for eighteen months.",
+  "options": [
+   "Have been",
+   "Having been",
+   "Having",
+   "To have been"
+  ],
+  "answer": 1,
+  "explain_zh": "橋是「被」地震損壞，而且損壞在封閉之前，完整寫法是 Having been badly damaged。Having 後面接過去分詞會變成主動完成式，To have been 表示目的，Have been 是原形動詞。",
+  "vocab": [
+   {
+    "w": "earthquake",
+    "zh": "地震",
+    "pos": "n."
+   },
+   {
+    "w": "damage",
+    "zh": "損壞",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0048",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the report twice, the manager still could not find the missing figure.",
+  "options": [
+   "Read",
+   "To read",
+   "Having read",
+   "Have read"
+  ],
+  "answer": 2,
+  "explain_zh": "經理是主動讀，而且讀完在後面的動作之前，用 Having read。Have read 是原形不能開頭，Read 在句首會被當成祈使句或被動，To read 表示目的。",
+  "vocab": [
+   {
+    "w": "missing",
+    "zh": "遺漏的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0049",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The children ran out of the classroom, ____ and waving their drawings in the air.",
+  "options": [
+   "shouted",
+   "shout",
+   "to shout",
+   "shouting"
+  ],
+  "answer": 3,
+  "explain_zh": "後面的 waving 已經提示要用現在分詞，兩個分詞並列表示同時發生的主動動作，所以填 shouting。shouted 與 waving 形式不一致，shout 是原形，to shout 表示目的。",
+  "vocab": [
+   {
+    "w": "wave",
+    "zh": "揮舞",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0050",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ at the bus stop for almost an hour, Joyce finally decided to walk home in the rain.",
+  "options": [
+   "Waited",
+   "To wait",
+   "Having waited",
+   "Have waited"
+  ],
+  "answer": 2,
+  "explain_zh": "等了將近一小時在「決定走路」之前，用完成式分詞 Having waited 才能凸顯先後與持續。Have waited 是原形，Waited 在句首變成被動，To wait 表示目的。",
+  "vocab": [
+   {
+    "w": "finally",
+    "zh": "最後、終於",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0051",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the strict safety rules, the lab manager refused to let the reporters go inside.",
+  "options": [
+   "Citing",
+   "Cited",
+   "To cite",
+   "Cite"
+  ],
+  "answer": 0,
+  "explain_zh": "主管是主動援引規定，用現在分詞 Citing。Cited 是被動，會變成「主管被引用」；To cite 表示目的，Cite 是原形動詞，都不能連接後面的主句。",
+  "vocab": [
+   {
+    "w": "cite",
+    "zh": "援引、引述",
+    "pos": "v."
+   },
+   {
+    "w": "strict",
+    "zh": "嚴格的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0052",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The letter, ____ in 1943, describes daily life in a small fishing village during the war.",
+  "options": [
+   "to write",
+   "wrote",
+   "written",
+   "writing"
+  ],
+  "answer": 2,
+  "explain_zh": "信是「被」寫的，過去分詞 written 相當於 which was written，插在主詞後面當補充說明。writing 是主動，to write 表示目的，wrote 是過去式動詞會造成兩個動詞並列。",
+  "vocab": [
+   {
+    "w": "describe",
+    "zh": "描述",
+    "pos": "v."
+   },
+   {
+    "w": "village",
+    "zh": "村莊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0053",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ that the machine was overheating, the engineer immediately switched off the main power.",
+  "options": [
+   "Being noticed",
+   "To notice",
+   "Noticing",
+   "Noticed"
+  ],
+  "answer": 2,
+  "explain_zh": "工程師是主動注意到，用現在分詞 Noticing 表示原因。Noticed 與 Being noticed 都是被動，語意變成工程師被注意到；To notice 表示目的，邏輯不通。",
+  "vocab": [
+   {
+    "w": "overheat",
+    "zh": "過熱",
+    "pos": "v."
+   },
+   {
+    "w": "switch off",
+    "zh": "關掉",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0054",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:participle-phrase",
+  "tag_zh": "分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ with modern equipment, the old hospital can now handle three times as many patients.",
+  "options": [
+   "Equipping",
+   "To equip",
+   "Having equipped",
+   "Equipped"
+  ],
+  "answer": 3,
+  "explain_zh": "醫院是「被」配備新設備，用過去分詞 Equipped，等於 Now that it is equipped。Equipping 與 Having equipped 都是主動，To equip 表示目的，主詞關係不合。",
+  "vocab": [
+   {
+    "w": "equipment",
+    "zh": "設備",
+    "pos": "n."
+   },
+   {
+    "w": "handle",
+    "zh": "處理、應付",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0055",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Never ____ such a spectacular sunrise as the one we watched on Mount Hehuan.",
+  "options": [
+   "I did see",
+   "have I seen",
+   "I have seen",
+   "did I saw"
+  ],
+  "answer": 1,
+  "explain_zh": "否定副詞 Never 放句首時，句子要倒裝，把助動詞移到主詞前面，成為 have I seen。I have seen 沒有倒裝，did I saw 的 did 後面必須接原形，I did see 同樣沒倒裝。",
+  "vocab": [
+   {
+    "w": "spectacular",
+    "zh": "壯觀的",
+    "pos": "adj."
+   },
+   {
+    "w": "sunrise",
+    "zh": "日出",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0056",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Hardly ____ the station when the announcement about the two-hour delay came over the loudspeaker.",
+  "options": [
+   "we have reached",
+   "had we reached",
+   "we had reached",
+   "did we reached"
+  ],
+  "answer": 1,
+  "explain_zh": "Hardly...when 是固定句型，主句用過去完成式且必須倒裝，寫成 had we reached。we had reached 沒倒裝，did we reached 時態錯誤，we have reached 既沒倒裝時態也不對。記法：Hardly had S Vpp when S Ved。",
+  "vocab": [
+   {
+    "w": "announcement",
+    "zh": "廣播、公告",
+    "pos": "n."
+   },
+   {
+    "w": "loudspeaker",
+    "zh": "擴音器",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0057",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Not only ____ the competition, but she also broke the national record that same afternoon.",
+  "options": [
+   "she did win",
+   "won she",
+   "did she win",
+   "she won"
+  ],
+  "answer": 2,
+  "explain_zh": "Not only 放句首要部分倒裝，一般動詞就借助動詞 did，並把動詞還原成 win，成為 did she win。she won 與 she did win 都沒有倒裝，won she 的語序在現代英語不成立。",
+  "vocab": [
+   {
+    "w": "competition",
+    "zh": "比賽",
+    "pos": "n."
+   },
+   {
+    "w": "record",
+    "zh": "紀錄",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0058",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Not only ____ the price reasonable, but the after-sales service is also excellent.",
+  "options": [
+   "it is",
+   "does",
+   "has been",
+   "is"
+  ],
+  "answer": 3,
+  "explain_zh": "Not only 開頭要倒裝，be 動詞直接移到主詞 the price 前面，所以填 is。it is 沒有倒裝而且多了主詞，does 不能接形容詞補語，has been 會造成時態與語意不合。",
+  "vocab": [
+   {
+    "w": "reasonable",
+    "zh": "合理的",
+    "pos": "adj."
+   },
+   {
+    "w": "service",
+    "zh": "服務",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0059",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Little ____ that his casual remark would start a heated debate across the whole school.",
+  "options": [
+   "did he know",
+   "he knew",
+   "he did know",
+   "knew he"
+  ],
+  "answer": 0,
+  "explain_zh": "Little 當否定副詞放句首要倒裝，借助動詞 did 並把動詞還原成 know。he knew 與 he did know 都沒倒裝，knew he 是舊式語序，現代英語不用。記法：Little did S know that...。",
+  "vocab": [
+   {
+    "w": "casual",
+    "zh": "隨口的、隨意的",
+    "pos": "adj."
+   },
+   {
+    "w": "remark",
+    "zh": "話語、評論",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0060",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Little ____ how much effort the volunteers had put into the charity concert that evening.",
+  "options": [
+   "most people realize",
+   "most people do realize",
+   "realize most people",
+   "do most people realize"
+  ],
+  "answer": 3,
+  "explain_zh": "Little 放句首必須倒裝，現在式一般動詞借 do，成為 do most people realize。most people realize 與 most people do realize 都沒有倒裝，realize most people 語序錯誤。",
+  "vocab": [
+   {
+    "w": "effort",
+    "zh": "努力",
+    "pos": "n."
+   },
+   {
+    "w": "charity",
+    "zh": "慈善",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0061",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Seldom ____ such a well-organized exhibition in a small town library before.",
+  "options": [
+   "have I attended",
+   "I have attended",
+   "did I attended",
+   "I did attend"
+  ],
+  "answer": 0,
+  "explain_zh": "Seldom 是否定副詞，放句首要把助動詞 have 移到主詞前面，成為 have I attended。I have attended 沒倒裝，did I attended 時態形式錯誤，I did attend 同樣沒倒裝。",
+  "vocab": [
+   {
+    "w": "exhibition",
+    "zh": "展覽",
+    "pos": "n."
+   },
+   {
+    "w": "attend",
+    "zh": "參加",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0062",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "No sooner ____ the front door than the telephone in the living room started ringing.",
+  "options": [
+   "had he locked",
+   "he had locked",
+   "did he lock",
+   "he locked"
+  ],
+  "answer": 0,
+  "explain_zh": "No sooner...than 是固定句型，前半用過去完成式並倒裝，寫成 had he locked。he had locked 沒倒裝，did he lock 時態不對，he locked 兩者都不符。注意後面配 than，不是 when。",
+  "vocab": [
+   {
+    "w": "lock",
+    "zh": "上鎖",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0063",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Only after the meeting ended ____ that his proposal had been rejected once again.",
+  "options": [
+   "Peter realized",
+   "Peter did realize",
+   "realized Peter",
+   "did Peter realize"
+  ],
+  "answer": 3,
+  "explain_zh": "Only 加副詞子句放句首時，主句要倒裝，一般動詞借助動詞 did，成為 did Peter realize。Peter realized 與 Peter did realize 都沒倒裝，realized Peter 語序錯誤。注意倒裝的是主句，不是 Only 後面的子句。",
+  "vocab": [
+   {
+    "w": "proposal",
+    "zh": "提案",
+    "pos": "n."
+   },
+   {
+    "w": "reject",
+    "zh": "否決",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0064",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Only when we ran out of drinking water ____ how serious the situation really was.",
+  "options": [
+   "understood we",
+   "did we understand",
+   "we understood",
+   "we did understand"
+  ],
+  "answer": 1,
+  "explain_zh": "Only when 引導的子句放句首，主句必須部分倒裝，過去式一般動詞借 did 並還原動詞，成為 did we understand。其餘選項都沒有正確倒裝。",
+  "vocab": [
+   {
+    "w": "run out of",
+    "zh": "用完",
+    "pos": "phr."
+   },
+   {
+    "w": "situation",
+    "zh": "情況",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0065",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Only by practising every single day ____ improve your pronunciation within three months.",
+  "options": [
+   "can you",
+   "you can",
+   "you could",
+   "could you to"
+  ],
+  "answer": 0,
+  "explain_zh": "Only 加介系詞片語放句首，主句要倒裝，把情態助動詞移到主詞前，成為 can you improve。you can 與 you could 沒有倒裝，could you to 多了 to。",
+  "vocab": [
+   {
+    "w": "pronunciation",
+    "zh": "發音",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0066",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "My sister loves horror films, and ____ my two cousins who live in Kaohsiung.",
+  "options": [
+   "neither do",
+   "so do",
+   "so are",
+   "so does"
+  ],
+  "answer": 1,
+  "explain_zh": "前句動詞是 loves（一般動詞現在式），後面主詞 my two cousins 是複數，所以用 so do。so are 對應 be 動詞，so does 是單數，neither 用於否定句的附和。",
+  "vocab": [
+   {
+    "w": "horror",
+    "zh": "恐怖的",
+    "pos": "adj."
+   },
+   {
+    "w": "cousin",
+    "zh": "堂表兄弟姊妹",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0067",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tom has never been to Penghu, and ____ his parents, though they love island trips.",
+  "options": [
+   "either have",
+   "neither have",
+   "neither has",
+   "so have"
+  ],
+  "answer": 1,
+  "explain_zh": "前句是否定，附和要用 neither 倒裝；主詞 his parents 是複數，助動詞用 have，所以是 neither have。neither has 主詞動詞不一致，so have 用在肯定句，either 不能這樣放句首倒裝。",
+  "vocab": [
+   {
+    "w": "island",
+    "zh": "島嶼",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0068",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "I was not satisfied with the hotel, and ____ the other guests on our tour.",
+  "options": [
+   "nor were",
+   "nor was",
+   "so were",
+   "either were"
+  ],
+  "answer": 0,
+  "explain_zh": "否定的附和用 nor 或 neither 並倒裝，主詞 the other guests 是複數，be 動詞用 were。nor was 單複數不合，so were 用於肯定附和，either were 語法不成立。",
+  "vocab": [
+   {
+    "w": "satisfied",
+    "zh": "滿意的",
+    "pos": "adj."
+   },
+   {
+    "w": "guest",
+    "zh": "房客、客人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0069",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "At the end of the narrow lane ____ a tiny bookshop that sells second-hand comic books.",
+  "options": [
+   "standing",
+   "stands",
+   "stand",
+   "is standing there"
+  ],
+  "answer": 1,
+  "explain_zh": "地方副詞片語放句首時要完全倒裝，動詞放在主詞前面；主詞 a tiny bookshop 是單數，所以用 stands。stand 單複數不合，多加 there 會重複，standing 不是限定動詞。",
+  "vocab": [
+   {
+    "w": "narrow",
+    "zh": "狹窄的",
+    "pos": "adj."
+   },
+   {
+    "w": "second-hand",
+    "zh": "二手的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0070",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "On the wall opposite the entrance ____ two portraits of the school's first principal.",
+  "options": [
+   "are hanging there",
+   "hanging",
+   "hang",
+   "hangs"
+  ],
+  "answer": 2,
+  "explain_zh": "地方副詞片語開頭的完全倒裝，動詞要配合真正的主詞 two portraits（複數），所以用 hang。hangs 是單數，are hanging there 多了贅字 there，hanging 缺少限定動詞。",
+  "vocab": [
+   {
+    "w": "portrait",
+    "zh": "肖像",
+    "pos": "n."
+   },
+   {
+    "w": "principal",
+    "zh": "校長",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0071",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Down the hill ____ the excited children, laughing all the way to the village square.",
+  "options": [
+   "run they",
+   "ran",
+   "did run",
+   "were run"
+  ],
+  "answer": 1,
+  "explain_zh": "表示方向的副詞片語放句首、主詞又是名詞時，用完全倒裝，動詞直接放前面，所以是 ran。did run 是部分倒裝，只用於否定副詞開頭；were run 是被動；run they 語序錯誤。",
+  "vocab": [
+   {
+    "w": "excited",
+    "zh": "興奮的",
+    "pos": "adj."
+   },
+   {
+    "w": "square",
+    "zh": "廣場",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0072",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:inversion",
+  "tag_zh": "倒裝句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Under no circumstances ____ the emergency exit be blocked by boxes or spare furniture.",
+  "options": [
+   "must to",
+   "should",
+   "should not",
+   "it should"
+  ],
+  "answer": 1,
+  "explain_zh": "Under no circumstances 本身已含否定，句子要倒裝，把 should 移到主詞前面，且不能再加 not 造成雙重否定。it should 沒有倒裝又多了主詞，must to 形式錯誤。",
+  "vocab": [
+   {
+    "w": "emergency exit",
+    "zh": "緊急出口",
+    "pos": "n."
+   },
+   {
+    "w": "block",
+    "zh": "堵住",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0073",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ in 2019 that our school started the recycling programme on every floor.",
+  "options": [
+   "There was",
+   "It was",
+   "It is",
+   "That was"
+  ],
+  "answer": 1,
+  "explain_zh": "強調句的固定框架是 It is/was + 被強調部分 + that，時間是 2019 年，所以用 It was。It is 時態不對，That was 與 There was 都不能組成強調句型。",
+  "vocab": [
+   {
+    "w": "recycling",
+    "zh": "回收",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0074",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was the heavy rain ____ ruined our carefully planned barbecue by the riverside.",
+  "options": [
+   "whom",
+   "that",
+   "what",
+   "when"
+  ],
+  "answer": 1,
+  "explain_zh": "It is/was...that 強調句中，不論強調的是人、事、物或時間，連接詞都可以用 that。what 不能出現在這個框架裡，when 只用於強調時間副詞且此處後面缺主詞，whom 用於人。",
+  "vocab": [
+   {
+    "w": "ruin",
+    "zh": "毀掉",
+    "pos": "v."
+   },
+   {
+    "w": "barbecue",
+    "zh": "烤肉",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0075",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ was my grandmother who taught me how to make traditional rice dumplings.",
+  "options": [
+   "There",
+   "It",
+   "That",
+   "She"
+  ],
+  "answer": 1,
+  "explain_zh": "強調句的主詞位置只能用虛主詞 It，句型是 It was + 人 + who。That was my grandmother 變成單純指認，She was 會和後面的 my grandmother 重複，There was 是存在句。",
+  "vocab": [
+   {
+    "w": "traditional",
+    "zh": "傳統的",
+    "pos": "adj."
+   },
+   {
+    "w": "dumpling",
+    "zh": "粽子、水餃類食物",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0076",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is not the price but the quality ____ makes this brand popular among young cyclists.",
+  "options": [
+   "that",
+   "what",
+   "which is",
+   "who"
+  ],
+  "answer": 0,
+  "explain_zh": "強調句用 It is...that，被強調的是 not the price but the quality，所以填 that。what 不能用在強調句，which is 多了動詞造成重複，who 只能指人。",
+  "vocab": [
+   {
+    "w": "quality",
+    "zh": "品質",
+    "pos": "n."
+   },
+   {
+    "w": "cyclist",
+    "zh": "單車騎士",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0077",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was only after the final exam ____ Jason remembered he had left his calculator at home.",
+  "options": [
+   "that",
+   "when",
+   "then",
+   "which"
+  ],
+  "answer": 0,
+  "explain_zh": "被強調的是時間副詞片語 only after the final exam，強調句框架仍然用 that。when 會讓句子變成時間子句而失去強調結構，then 是副詞，which 用來引導關係子句。",
+  "vocab": [
+   {
+    "w": "calculator",
+    "zh": "計算機",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0078",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was in the old library ____ the two writers met for the very first time.",
+  "options": [
+   "what",
+   "there",
+   "that",
+   "which"
+  ],
+  "answer": 2,
+  "explain_zh": "強調地點片語 in the old library 時，強調句仍固定用 that 連接。which 需要在後面的子句中擔任主詞或受詞，這裡子句已完整；what 與 there 都不能用於強調句。",
+  "vocab": [
+   {
+    "w": "writer",
+    "zh": "作家",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0079",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ impressed me most was the way the volunteers comforted the frightened children.",
+  "options": [
+   "It",
+   "Which",
+   "What",
+   "That"
+  ],
+  "answer": 2,
+  "explain_zh": "這是 what 引導的名詞子句當主詞的強調用法，What 同時扮演主詞角色，等於 The thing that。That 引導的名詞子句不能缺少成分，It 需要後面接 that 才成立，Which 通常需要先行詞。",
+  "vocab": [
+   {
+    "w": "comfort",
+    "zh": "安慰",
+    "pos": "v."
+   },
+   {
+    "w": "frightened",
+    "zh": "受驚嚇的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0080",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is because of his constant encouragement ____ I finally dared to enter the speech contest.",
+  "options": [
+   "that",
+   "which",
+   "so",
+   "why"
+  ],
+  "answer": 0,
+  "explain_zh": "強調原因片語 because of his constant encouragement，框架一樣是 It is...that。which 需要先行詞且要在子句中有角色，so 是連接副詞，why 會與 because 重複表達原因。",
+  "vocab": [
+   {
+    "w": "encouragement",
+    "zh": "鼓勵",
+    "pos": "n."
+   },
+   {
+    "w": "dare",
+    "zh": "敢於",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0081",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It ____ the students, not the teachers, who first proposed the campus bike-sharing scheme.",
+  "options": [
+   "were",
+   "is being",
+   "have been",
+   "was"
+  ],
+  "answer": 3,
+  "explain_zh": "強調句的 be 動詞永遠配合虛主詞 It，一律用單數，即使被強調的是複數 the students 也一樣，所以用 was。were 是學生最常犯的錯，is being 與 have been 時態語意都不合。",
+  "vocab": [
+   {
+    "w": "propose",
+    "zh": "提議",
+    "pos": "v."
+   },
+   {
+    "w": "scheme",
+    "zh": "方案",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0082",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was not until midnight ____ the rescue team finally reached the trapped hikers.",
+  "options": [
+   "that",
+   "when",
+   "then",
+   "until"
+  ],
+  "answer": 0,
+  "explain_zh": "not until 的強調句型固定是 It was not until... that...，所以填 that。when 會破壞強調結構，then 是副詞，until 會重複。記法：not until 配 that，不配 when。",
+  "vocab": [
+   {
+    "w": "rescue",
+    "zh": "救援",
+    "pos": "n."
+   },
+   {
+    "w": "hiker",
+    "zh": "登山客",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0083",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was last summer ____ my parents decided to move back to Tainan and open a bookshop.",
+  "options": [
+   "what",
+   "that",
+   "when it",
+   "which"
+  ],
+  "answer": 1,
+  "explain_zh": "強調時間名詞片語 last summer 時，用 It was...that 的框架。when it 多了主詞造成句子結構錯亂，which 需要在子句中有語法角色，what 不能用於強調句。",
+  "vocab": [
+   {
+    "w": "decide",
+    "zh": "決定",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0084",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:emphasis",
+  "tag_zh": "強調句 It is...that",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is the government, rather than individual drivers, ____ should tackle this air pollution.",
+  "options": [
+   "what",
+   "who it",
+   "which it",
+   "that"
+  ],
+  "answer": 3,
+  "explain_zh": "被強調的是 the government，強調句用 that 連接，後面直接接 should tackle。what 不能用於強調句，who it 與 which it 都多了一個主詞，句子會不完整。",
+  "vocab": [
+   {
+    "w": "tackle",
+    "zh": "處理、對付",
+    "pos": "v."
+   },
+   {
+    "w": "pollution",
+    "zh": "汙染",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0085",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ you practise speaking English, the more natural your pronunciation will become.",
+  "options": [
+   "The more",
+   "More",
+   "The most",
+   "As more"
+  ],
+  "answer": 0,
+  "explain_zh": "「越…越…」的句型是 The + 比較級..., the + 比較級...，兩邊都要有 the。More 少了 the，The most 是最高級，As more 不是正確用法。",
+  "vocab": [
+   {
+    "w": "practise",
+    "zh": "練習",
+    "pos": "v."
+   },
+   {
+    "w": "natural",
+    "zh": "自然的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0086",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "The harder the team trained, ____ they became about winning the final.",
+  "options": [
+   "the confident more",
+   "the more confident",
+   "more confident",
+   "the most confident"
+  ],
+  "answer": 1,
+  "explain_zh": "前半已是 The harder，後半必須對應 the + 比較級；confident 是多音節形容詞，比較級用 more confident，所以是 the more confident。少了 the、用最高級或語序顛倒都不對。",
+  "vocab": [
+   {
+    "w": "confident",
+    "zh": "有信心的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0087",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "The sooner we book the tickets, ____ we will have to pay for the return flight.",
+  "options": [
+   "the less",
+   "less",
+   "the least",
+   "the fewer"
+  ],
+  "answer": 0,
+  "explain_zh": "「越早訂越少錢」中的錢是不可數，比較級用 less，且句型需要 the，所以是 the less。less 少了 the，the least 是最高級，the fewer 用於可數名詞。",
+  "vocab": [
+   {
+    "w": "book",
+    "zh": "預訂",
+    "pos": "v."
+   },
+   {
+    "w": "flight",
+    "zh": "班機",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0088",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the air pollution becomes, the more people suffer from serious breathing problems.",
+  "options": [
+   "The worse",
+   "Worse",
+   "The worst",
+   "The more bad"
+  ],
+  "answer": 0,
+  "explain_zh": "bad 的比較級是不規則的 worse，並且要加 the 構成「越…越…」。Worse 少了 the，The worst 是最高級，The more bad 不是正確的比較級形式。",
+  "vocab": [
+   {
+    "w": "suffer from",
+    "zh": "受…之苦",
+    "pos": "phr."
+   },
+   {
+    "w": "breathing",
+    "zh": "呼吸",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0089",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "The longer you stare at the screen, ____ your eyes will feel by the end of the day.",
+  "options": [
+   "more tired",
+   "the most tired",
+   "the tireder",
+   "the more tired"
+  ],
+  "answer": 3,
+  "explain_zh": "前半是 The longer，後半必須是 the + 比較級；tired 是雙音節以上的分詞形容詞，比較級用 more tired。少了 the、用最高級或自創 tireder 都是錯的。",
+  "vocab": [
+   {
+    "w": "stare",
+    "zh": "盯著看",
+    "pos": "v."
+   },
+   {
+    "w": "screen",
+    "zh": "螢幕",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0090",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "The whole three-day trip cost ____ two thousand dollars, which surprised all of us.",
+  "options": [
+   "no fewer than",
+   "no more than",
+   "no less than",
+   "not less than"
+  ],
+  "answer": 1,
+  "explain_zh": "no more than 意思是「只不過、才」，強調金額少，符合後面 surprised 的語境。no less than 與 not less than 強調「多達、不少於」，語意相反；no fewer than 用於可數名詞。",
+  "vocab": [
+   {
+    "w": "whole",
+    "zh": "整個的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0091",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "He is ____ a scientist than I am a professional singer; he only reads popular science books.",
+  "options": [
+   "no more",
+   "not more",
+   "no less",
+   "much more"
+  ],
+  "answer": 0,
+  "explain_zh": "A is no more B than C is D 表示「兩者都不是」，用來否定雙方，符合後半的自嘲語氣。not more 只是比較程度，no less 意思相反變成「兩者都是」，much more 也是單純比較。",
+  "vocab": [
+   {
+    "w": "professional",
+    "zh": "專業的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0092",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ three hundred volunteers joined the beach clean-up, far beyond the organizers' expectations.",
+  "options": [
+   "No more than",
+   "Not more than",
+   "No less as",
+   "No fewer than"
+  ],
+  "answer": 3,
+  "explain_zh": "volunteers 是可數名詞，強調「多達」要用 No fewer than，正好呼應 far beyond expectations。No more than 與 Not more than 是「只不過」語意相反，No less as 形式錯誤。",
+  "vocab": [
+   {
+    "w": "organizer",
+    "zh": "主辦單位",
+    "pos": "n."
+   },
+   {
+    "w": "expectation",
+    "zh": "預期",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0093",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "This second-hand bicycle is ____ good as the brand-new one my cousin bought last month.",
+  "options": [
+   "as much",
+   "such",
+   "as",
+   "so"
+  ],
+  "answer": 2,
+  "explain_zh": "肯定句的同等比較用 as + 原級 + as，所以第一個空要填 as。so...as 只用於否定句，as much 用於不可數名詞的量，such 後面接名詞不接形容詞。",
+  "vocab": [
+   {
+    "w": "brand-new",
+    "zh": "全新的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0094",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "The film was not ____ interesting as the novel, though the photography was truly beautiful.",
+  "options": [
+   "very",
+   "so",
+   "as much",
+   "such"
+  ],
+  "answer": 1,
+  "explain_zh": "否定句可以用 not so + 原級 + as，因為選項沒有 as，答案是 so。as much 用於不可數的量，such 後面接名詞，very 不能和 as 搭配比較。",
+  "vocab": [
+   {
+    "w": "novel",
+    "zh": "小說",
+    "pos": "n."
+   },
+   {
+    "w": "photography",
+    "zh": "攝影",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0095",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "She speaks Japanese ____ fluently as her mother, who grew up in Osaka many years ago.",
+  "options": [
+   "so",
+   "more",
+   "such",
+   "as"
+  ],
+  "answer": 3,
+  "explain_zh": "肯定句的同等比較是 as + 副詞原級 + as，所以填 as fluently as。so 只用於否定，more 要配 than，such 不能修飾副詞。",
+  "vocab": [
+   {
+    "w": "fluently",
+    "zh": "流利地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0096",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "Our new office is ____ as large as the old one, so everyone finally has a proper desk.",
+  "options": [
+   "twice",
+   "double",
+   "two-fold",
+   "twice more"
+  ],
+  "answer": 0,
+  "explain_zh": "倍數表達的固定語序是「倍數 + as + 原級 + as」，所以用 twice as large as。double 不能這樣接 as...as，two-fold 是形容詞或副詞但不用於此句型，twice more 語意不清。",
+  "vocab": [
+   {
+    "w": "office",
+    "zh": "辦公室",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0097",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "Of all the sports facilities on campus, the swimming pool is used ____ in winter.",
+  "options": [
+   "the less",
+   "lesser",
+   "the least",
+   "least of"
+  ],
+  "answer": 2,
+  "explain_zh": "Of all... 表示三者以上的比較，要用最高級 the least。least of 語法不完整，the less 是比較級只能用於兩者，lesser 多用於固定片語如 the lesser evil。",
+  "vocab": [
+   {
+    "w": "facility",
+    "zh": "設施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0098",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "This year's rice harvest is ____ better than last year's, thanks to the new irrigation system.",
+  "options": [
+   "far",
+   "very",
+   "much more",
+   "so"
+  ],
+  "answer": 0,
+  "explain_zh": "修飾比較級 better 要用 far、much、a lot 等副詞，所以選 far。very 只能修飾原級，much more 會和 better 重複比較級，so 不能直接修飾比較級。",
+  "vocab": [
+   {
+    "w": "harvest",
+    "zh": "收成",
+    "pos": "n."
+   },
+   {
+    "w": "irrigation",
+    "zh": "灌溉",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0099",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:comparison-advanced",
+  "tag_zh": "進階比較用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "The more carefully you check your essay, ____ mistakes the examiner will find in it.",
+  "options": [
+   "fewer",
+   "the fewest",
+   "the fewer",
+   "the less"
+  ],
+  "answer": 2,
+  "explain_zh": "mistakes 是可數名詞，比較級用 fewer，且「越…越…」句型需要 the，所以是 the fewer。the less 用於不可數，fewer 少了 the，the fewest 是最高級。",
+  "vocab": [
+   {
+    "w": "essay",
+    "zh": "作文",
+    "pos": "n."
+   },
+   {
+    "w": "examiner",
+    "zh": "閱卷者、主考官",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0100",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The hotel was quite expensive; ____, the view from our balcony made it worth every dollar.",
+  "options": [
+   "therefore",
+   "moreover",
+   "otherwise",
+   "however"
+  ],
+  "answer": 3,
+  "explain_zh": "分號前後語意轉折，「很貴」對上「但很值得」，要用表示對比的 however。therefore 表結果，moreover 表補充，otherwise 表「否則」，都接不起這個轉折。",
+  "vocab": [
+   {
+    "w": "balcony",
+    "zh": "陽台",
+    "pos": "n."
+   },
+   {
+    "w": "worth",
+    "zh": "值得的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0101",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "He had studied the map carefully; ____, he still got lost in the old part of town.",
+  "options": [
+   "therefore",
+   "nevertheless",
+   "consequently",
+   "moreover"
+  ],
+  "answer": 1,
+  "explain_zh": "後半有 still，代表「儘管如此還是」的讓步轉折，用 nevertheless 最合適。consequently 與 therefore 表因果，moreover 表補充，都和 still 的語氣衝突。",
+  "vocab": [
+   {
+    "w": "get lost",
+    "zh": "迷路",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0102",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The bridge was closed for urgent repairs; ____, all the buses had to take a longer route.",
+  "options": [
+   "however",
+   "nevertheless",
+   "otherwise",
+   "therefore"
+  ],
+  "answer": 3,
+  "explain_zh": "橋封閉是原因，公車繞路是結果，要用表因果的 therefore。however 與 nevertheless 表轉折，otherwise 表「否則」，都不符合前後的因果關係。",
+  "vocab": [
+   {
+    "w": "repair",
+    "zh": "修繕",
+    "pos": "n."
+   },
+   {
+    "w": "route",
+    "zh": "路線",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0103",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The apartment is right next to the MRT station; ____, the rent is surprisingly reasonable.",
+  "options": [
+   "nevertheless",
+   "moreover",
+   "however",
+   "otherwise"
+  ],
+  "answer": 1,
+  "explain_zh": "兩句都是優點，屬於同方向的補充說明，用 moreover。however 與 nevertheless 表轉折，otherwise 表「否則」，都會讓語意變得矛盾。",
+  "vocab": [
+   {
+    "w": "apartment",
+    "zh": "公寓",
+    "pos": "n."
+   },
+   {
+    "w": "rent",
+    "zh": "租金",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0104",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She forgot to save the file before the power cut; ____, three hours of work disappeared.",
+  "options": [
+   "nevertheless",
+   "moreover",
+   "however",
+   "consequently"
+  ],
+  "answer": 3,
+  "explain_zh": "忘記存檔導致工作消失，是明確的因果關係，用 consequently。nevertheless 與 however 表轉折，moreover 表補充，都無法表達「結果」。",
+  "vocab": [
+   {
+    "w": "power cut",
+    "zh": "停電",
+    "pos": "n."
+   },
+   {
+    "w": "disappear",
+    "zh": "消失",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0105",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "You must leave the office before six; ____, you will be stuck in the evening traffic jam.",
+  "options": [
+   "moreover",
+   "however",
+   "otherwise",
+   "therefore"
+  ],
+  "answer": 2,
+  "explain_zh": "otherwise 表示「否則、不然的話」，正好接續前面的警告。therefore 表結果，moreover 表補充，however 表轉折，都無法表達「如果不照做就會…」。",
+  "vocab": [
+   {
+    "w": "stuck",
+    "zh": "動彈不得的",
+    "pos": "adj."
+   },
+   {
+    "w": "traffic jam",
+    "zh": "塞車",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0106",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The northern coast is windy and freezing in winter; ____, the south stays mild and sunny.",
+  "options": [
+   "for instance",
+   "in contrast",
+   "as a result",
+   "in addition"
+  ],
+  "answer": 1,
+  "explain_zh": "南北氣候形成對照，要用 in contrast。as a result 表結果，in addition 表補充，for instance 用來舉例，都不符合兩地相反的比較。",
+  "vocab": [
+   {
+    "w": "coast",
+    "zh": "海岸",
+    "pos": "n."
+   },
+   {
+    "w": "mild",
+    "zh": "溫和的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0107",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The experiment failed three times in a row; ____, the young researchers refused to give up.",
+  "options": [
+   "nonetheless",
+   "accordingly",
+   "likewise",
+   "thus"
+  ],
+  "answer": 0,
+  "explain_zh": "失敗卻不放棄，是讓步轉折，用 nonetheless（等同 nevertheless）。accordingly 與 thus 表結果，likewise 表相似，都無法表達這種反差。",
+  "vocab": [
+   {
+    "w": "experiment",
+    "zh": "實驗",
+    "pos": "n."
+   },
+   {
+    "w": "refuse",
+    "zh": "拒絕",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0108",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Online courses are flexible and cheap; ____, they demand a great deal of self-discipline.",
+  "options": [
+   "therefore",
+   "similarly",
+   "thus",
+   "however"
+  ],
+  "answer": 3,
+  "explain_zh": "前面講優點，後面講缺點，屬於轉折，用 however。therefore 與 thus 表結果，similarly 表相似，都會讓優缺點的對比消失。",
+  "vocab": [
+   {
+    "w": "flexible",
+    "zh": "有彈性的",
+    "pos": "adj."
+   },
+   {
+    "w": "self-discipline",
+    "zh": "自律",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0109",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The factory cut its emissions by half; ____, the air in the valley improved noticeably.",
+  "options": [
+   "in other words",
+   "as a result",
+   "on the contrary",
+   "even so"
+  ],
+  "answer": 1,
+  "explain_zh": "減少排放是原因，空氣變好是結果，用 as a result。on the contrary 表相反，even so 表讓步，in other words 是換句話說，都不合語意。",
+  "vocab": [
+   {
+    "w": "emission",
+    "zh": "排放",
+    "pos": "n."
+   },
+   {
+    "w": "noticeably",
+    "zh": "明顯地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0110",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She is completely fluent in Spanish; ____, she can handle basic conversations in Portuguese.",
+  "options": [
+   "nevertheless",
+   "conversely",
+   "furthermore",
+   "otherwise"
+  ],
+  "answer": 2,
+  "explain_zh": "兩句都在列舉她的語言能力，屬於補充，用 furthermore。otherwise 表「否則」，nevertheless 表轉折，conversely 表相反，都不符合累加的關係。",
+  "vocab": [
+   {
+    "w": "fluent",
+    "zh": "流利的",
+    "pos": "adj."
+   },
+   {
+    "w": "conversation",
+    "zh": "對話",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0111",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The team lost their first two matches badly; ____, they went on to win the championship.",
+  "options": [
+   "therefore",
+   "likewise",
+   "in addition",
+   "even so"
+  ],
+  "answer": 3,
+  "explain_zh": "輸了兩場卻仍奪冠，是「即使如此」的讓步轉折，用 even so。therefore 表結果，likewise 表相似，in addition 表補充，都無法呈現這種逆轉。",
+  "vocab": [
+   {
+    "w": "match",
+    "zh": "比賽",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0112",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Many people assume cycling is dangerous; ____, it is safer than driving in most cities.",
+  "options": [
+   "consequently",
+   "moreover",
+   "meanwhile",
+   "on the contrary"
+  ],
+  "answer": 3,
+  "explain_zh": "後半直接推翻前面的看法，用 on the contrary（正好相反）。consequently 表結果，moreover 表補充，meanwhile 表同時，都無法表達「事實恰恰相反」。",
+  "vocab": [
+   {
+    "w": "assume",
+    "zh": "認為、假定",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0113",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The head chef prepared the sauce; ____, his assistant chopped vegetables for the salad.",
+  "options": [
+   "meanwhile",
+   "therefore",
+   "nevertheless",
+   "otherwise"
+  ],
+  "answer": 0,
+  "explain_zh": "兩件事同時進行，用 meanwhile（與此同時）。therefore 表結果，nevertheless 表轉折，otherwise 表「否則」，都無法表達時間上的並行。",
+  "vocab": [
+   {
+    "w": "sauce",
+    "zh": "醬汁",
+    "pos": "n."
+   },
+   {
+    "w": "chop",
+    "zh": "切碎",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0114",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Paper straws often break within minutes; ____, many restaurants have quietly switched back.",
+  "options": [
+   "thus",
+   "however",
+   "instead of",
+   "although"
+  ],
+  "answer": 0,
+  "explain_zh": "吸管易斷是原因，餐廳換回去是結果，用 thus。however 表轉折語意相反，instead of 是介系詞後面要接名詞，although 是從屬連接詞不能放在分號後單獨使用。",
+  "vocab": [
+   {
+    "w": "straw",
+    "zh": "吸管",
+    "pos": "n."
+   },
+   {
+    "w": "switch",
+    "zh": "轉換",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0115",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "All the tickets sold out within an hour; ____, the organizers added two extra performances.",
+  "options": [
+   "in contrast",
+   "nevertheless",
+   "accordingly",
+   "otherwise"
+  ],
+  "answer": 2,
+  "explain_zh": "票秒殺因此加場，是因果關係，accordingly 表示「因此、相應地」。otherwise 表「否則」，in contrast 表對照，nevertheless 表轉折，都不合邏輯。",
+  "vocab": [
+   {
+    "w": "sell out",
+    "zh": "賣完",
+    "pos": "phr."
+   },
+   {
+    "w": "performance",
+    "zh": "場次、演出",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0116",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The report was thoroughly researched; ____, it was far too long for a ten-minute talk.",
+  "options": [
+   "nevertheless",
+   "consequently",
+   "moreover",
+   "similarly"
+  ],
+  "answer": 0,
+  "explain_zh": "研究紮實是優點，太長是缺點，兩者形成讓步轉折，用 nevertheless。consequently 表結果，moreover 表補充，similarly 表相似，語意都不通。",
+  "vocab": [
+   {
+    "w": "thoroughly",
+    "zh": "徹底地",
+    "pos": "adv."
+   },
+   {
+    "w": "research",
+    "zh": "研究",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0117",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Solar panels can reduce electricity bills; ____, they raise the market value of a house.",
+  "options": [
+   "in addition",
+   "in contrast",
+   "otherwise",
+   "nonetheless"
+  ],
+  "answer": 0,
+  "explain_zh": "兩句都在說太陽能板的好處，屬於補充累加，用 in addition。in contrast 表對照，otherwise 表「否則」，nonetheless 表轉折，都與同方向的列舉不符。",
+  "vocab": [
+   {
+    "w": "solar panel",
+    "zh": "太陽能板",
+    "pos": "n."
+   },
+   {
+    "w": "market value",
+    "zh": "市價",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0118",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The school network crashed twice last term; ____, students should back up their files regularly.",
+  "options": [
+   "however",
+   "in contrast",
+   "meanwhile",
+   "therefore"
+  ],
+  "answer": 3,
+  "explain_zh": "當機是原因，備份建議是結論，用 therefore。however 與 in contrast 表轉折或對照，meanwhile 表同時，都無法連接這個推論。",
+  "vocab": [
+   {
+    "w": "crash",
+    "zh": "當機",
+    "pos": "v."
+   },
+   {
+    "w": "back up",
+    "zh": "備份",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0119",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The two candidates share very similar policies; ____, their campaign styles are totally different.",
+  "options": [
+   "likewise",
+   "furthermore",
+   "however",
+   "hence"
+  ],
+  "answer": 2,
+  "explain_zh": "政見相似卻風格不同，是對比轉折，用 however。hence 表結果，likewise 表「同樣地」，furthermore 表補充，都與 different 的反差衝突。",
+  "vocab": [
+   {
+    "w": "candidate",
+    "zh": "候選人",
+    "pos": "n."
+   },
+   {
+    "w": "campaign",
+    "zh": "競選活動",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0120",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctive-adverb",
+  "tag_zh": "轉折與連接副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The renovation plan sounds attractive. ____, it will cost far more than the school can afford.",
+  "options": [
+   "Although",
+   "Despite",
+   "But that",
+   "However"
+  ],
+  "answer": 3,
+  "explain_zh": "這裡是兩個獨立句子，句首要用連接副詞 However 並加逗號。Although 是從屬連接詞，必須把兩句合成一句；Despite 是介系詞後面接名詞；But that 不是這種用法。",
+  "vocab": [
+   {
+    "w": "renovation",
+    "zh": "整修",
+    "pos": "n."
+   },
+   {
+    "w": "attractive",
+    "zh": "吸引人的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0121",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "The doctor insisted that the patient ____ in bed for at least three more days.",
+  "options": [
+   "is staying",
+   "stay",
+   "stays",
+   "stayed"
+  ],
+  "answer": 1,
+  "explain_zh": "insist 表達「堅持要求」時，that 子句用假設語氣，動詞一律用原形（should 可省略），所以是 stay。stays、stayed、is staying 都是隨主詞或時態變化的直述形式，不符合這個規則。",
+  "vocab": [
+   {
+    "w": "insist",
+    "zh": "堅持",
+    "pos": "v."
+   },
+   {
+    "w": "patient",
+    "zh": "病人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0122",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "Our English teacher suggested that we ____ the report in pairs instead of writing it alone.",
+  "options": [
+   "does",
+   "are doing",
+   "do",
+   "did"
+  ],
+  "answer": 2,
+  "explain_zh": "suggest 表建議時，that 子句用「(should +) 原形動詞」，所以填 do。did 是過去式，does 隨主詞變化，are doing 是進行式，都不是假設語氣的原形。",
+  "vocab": [
+   {
+    "w": "suggest",
+    "zh": "建議",
+    "pos": "v."
+   },
+   {
+    "w": "in pairs",
+    "zh": "兩人一組",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0123",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "The manager demanded that every employee ____ the new safety training before Friday.",
+  "options": [
+   "is completing",
+   "complete",
+   "completes",
+   "completed"
+  ],
+  "answer": 1,
+  "explain_zh": "demand 屬於要求類動詞，that 子句要用原形 complete，即使主詞 every employee 是第三人稱單數也不加 s。completes 是常見的錯誤，completed 與 is completing 時態也不對。",
+  "vocab": [
+   {
+    "w": "demand",
+    "zh": "要求",
+    "pos": "v."
+   },
+   {
+    "w": "employee",
+    "zh": "員工",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0124",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is essential that every applicant ____ two letters of recommendation with the form.",
+  "options": [
+   "submitted",
+   "is submitting",
+   "submit",
+   "submits"
+  ],
+  "answer": 2,
+  "explain_zh": "It is essential/important/necessary that... 這類句型後面同樣用假設語氣原形動詞，所以是 submit。submits 加了第三人稱單數 s，submitted 與 is submitting 時態都不符。",
+  "vocab": [
+   {
+    "w": "essential",
+    "zh": "必要的",
+    "pos": "adj."
+   },
+   {
+    "w": "recommendation",
+    "zh": "推薦",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0125",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "The committee proposed that the old library ____ into a student activity centre.",
+  "options": [
+   "is turned",
+   "was turned",
+   "turns",
+   "be turned"
+  ],
+  "answer": 3,
+  "explain_zh": "propose 後面的 that 子句用假設語氣，被動形式就是 be + 過去分詞，所以是 be turned。is turned 與 was turned 是直述被動，turns 是主動且語意不通。",
+  "vocab": [
+   {
+    "w": "propose",
+    "zh": "提議",
+    "pos": "v."
+   },
+   {
+    "w": "activity",
+    "zh": "活動",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0126",
+  "level": "H2",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "She requested that her name ____ from the list of contributors on the website.",
+  "options": [
+   "removes",
+   "be removed",
+   "is removed",
+   "was removed"
+  ],
+  "answer": 1,
+  "explain_zh": "request 屬於要求類動詞，that 子句用原形；被動就寫成 be removed。is removed 與 was removed 都是直述語氣，removes 是主動，語意會變成名字自己移除。",
+  "vocab": [
+   {
+    "w": "request",
+    "zh": "要求",
+    "pos": "v."
+   },
+   {
+    "w": "contributor",
+    "zh": "貢獻者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0127",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is important that nobody ____ the laboratory without wearing protective goggles.",
+  "options": [
+   "enters",
+   "entered",
+   "is entering",
+   "enter"
+  ],
+  "answer": 3,
+  "explain_zh": "It is important that... 後面用假設語氣原形 enter，即使主詞 nobody 看起來是單數也不加 s。enters 是最常見的誘答，entered 與 is entering 時態不合。",
+  "vocab": [
+   {
+    "w": "laboratory",
+    "zh": "實驗室",
+    "pos": "n."
+   },
+   {
+    "w": "goggles",
+    "zh": "護目鏡",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0128",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "The coach recommended that Jason ____ more attention to his breathing while swimming.",
+  "options": [
+   "is paying",
+   "pay",
+   "pays",
+   "paid"
+  ],
+  "answer": 1,
+  "explain_zh": "recommend 表建議時，that 子句用原形動詞 pay。pays 受主詞 Jason 影響加了 s，paid 是過去式，is paying 是進行式，都不是假設語氣。",
+  "vocab": [
+   {
+    "w": "recommend",
+    "zh": "建議",
+    "pos": "v."
+   },
+   {
+    "w": "attention",
+    "zh": "注意力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0129",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "The new law requires that every scooter rider ____ a valid licence at all times.",
+  "options": [
+   "carry",
+   "carries",
+   "carried",
+   "is carrying"
+  ],
+  "answer": 0,
+  "explain_zh": "require 屬於要求類動詞，that 子句用原形 carry，不隨主詞變化。carries 是典型錯誤，carried 是過去式，is carrying 是進行式。",
+  "vocab": [
+   {
+    "w": "require",
+    "zh": "要求、規定",
+    "pos": "v."
+   },
+   {
+    "w": "valid",
+    "zh": "有效的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0130",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "His mother insisted that he ____ home before eleven, however exciting the party was.",
+  "options": [
+   "comes",
+   "came",
+   "is coming",
+   "come"
+  ],
+  "answer": 3,
+  "explain_zh": "insist 表示堅持要求，that 子句用原形 come。comes 隨主詞變化，came 是過去式，is coming 是進行式；注意 insist 若是「堅稱某事實」才用直述語氣。",
+  "vocab": [
+   {
+    "w": "exciting",
+    "zh": "刺激的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0131",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was necessary that all the documents ____ before the board meeting started.",
+  "options": [
+   "be signed",
+   "were signed",
+   "are signed",
+   "have signed"
+  ],
+  "answer": 0,
+  "explain_zh": "It was necessary that... 後面仍用假設語氣，被動寫成 be signed，不受主要子句過去式影響。were signed 與 are signed 是直述語氣，have signed 是主動完成式。",
+  "vocab": [
+   {
+    "w": "document",
+    "zh": "文件",
+    "pos": "n."
+   },
+   {
+    "w": "board",
+    "zh": "董事會",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0132",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "The students demanded that the canteen ____ more vegetarian options every single day.",
+  "options": [
+   "offered",
+   "is offering",
+   "offer",
+   "offers"
+  ],
+  "answer": 2,
+  "explain_zh": "demand 後面的 that 子句用原形 offer，主詞 the canteen 雖是單數也不加 s。offers、offered、is offering 都是直述形式，不符合假設語氣。",
+  "vocab": [
+   {
+    "w": "canteen",
+    "zh": "餐廳、福利社",
+    "pos": "n."
+   },
+   {
+    "w": "vegetarian",
+    "zh": "素食的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0133",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "I suggest that the meeting ____ until everyone has read the proposal carefully.",
+  "options": [
+   "was postponed",
+   "postpones",
+   "be postponed",
+   "is postponed"
+  ],
+  "answer": 2,
+  "explain_zh": "suggest 表建議時，被動的 that 子句寫成 be postponed。is postponed 與 was postponed 是直述被動，postpones 是主動，語意變成會議自己延期。",
+  "vocab": [
+   {
+    "w": "postpone",
+    "zh": "延期",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0134",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is vital that the equipment ____ regularly, or the whole system may break down.",
+  "options": [
+   "was checked",
+   "checks",
+   "be checked",
+   "is checked"
+  ],
+  "answer": 2,
+  "explain_zh": "It is vital that... 屬於需要假設語氣的句型，被動用 be checked。is checked 與 was checked 都是直述語氣，checks 是主動，設備不會自己檢查。",
+  "vocab": [
+   {
+    "w": "vital",
+    "zh": "至關重要的",
+    "pos": "adj."
+   },
+   {
+    "w": "break down",
+    "zh": "故障",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0135",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:subjunctive",
+  "tag_zh": "假設語氣動詞原形",
+  "passage": null,
+  "group_id": null,
+  "stem": "The judge ordered that the company ____ all the polluted soil within six months.",
+  "options": [
+   "removes",
+   "removed",
+   "is removing",
+   "remove"
+  ],
+  "answer": 3,
+  "explain_zh": "order 表下令時，that 子句用原形 remove。removes 受主詞影響加了 s，removed 是過去式，is removing 是進行式，都不是假設語氣。",
+  "vocab": [
+   {
+    "w": "judge",
+    "zh": "法官",
+    "pos": "n."
+   },
+   {
+    "w": "soil",
+    "zh": "土壤",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0136",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Mr. Chen, ____ of our school's science club, will give a talk on renewable energy.",
+  "options": [
+   "he is the founder",
+   "the founder",
+   "who founder",
+   "founding"
+  ],
+  "answer": 1,
+  "explain_zh": "兩個逗號之間放的是同位語，用名詞片語 the founder 直接說明 Mr. Chen。who founder 少了動詞，founding 是分詞，he is the founder 是完整句子會造成兩句相連。",
+  "vocab": [
+   {
+    "w": "founder",
+    "zh": "創辦人",
+    "pos": "n."
+   },
+   {
+    "w": "renewable",
+    "zh": "可再生的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0137",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Taipei, ____ of Taiwan, attracts millions of international visitors every single year.",
+  "options": [
+   "is the capital",
+   "where the capital",
+   "the capital",
+   "which capital"
+  ],
+  "answer": 2,
+  "explain_zh": "同位語直接用名詞片語 the capital 補充說明 Taipei，不需要關係代名詞或動詞。which capital 與 where the capital 結構不完整，is the capital 會讓句子出現兩個主要動詞。",
+  "vocab": [
+   {
+    "w": "capital",
+    "zh": "首都",
+    "pos": "n."
+   },
+   {
+    "w": "attract",
+    "zh": "吸引",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0138",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "My best friend Anna, ____, has already published two short stories in an online magazine.",
+  "options": [
+   "being writer",
+   "a talented writer",
+   "who talented writer",
+   "she is a writer"
+  ],
+  "answer": 1,
+  "explain_zh": "同位語用名詞片語 a talented writer 說明 Anna 的身分。who talented writer 缺動詞，she is a writer 是獨立句子，being writer 少了冠詞而且語氣不自然。",
+  "vocab": [
+   {
+    "w": "talented",
+    "zh": "有才華的",
+    "pos": "adj."
+   },
+   {
+    "w": "publish",
+    "zh": "發表、出版",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0139",
+  "level": "H2",
+  "cefr": "B1",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "We visited Tainan, ____ city in Taiwan, during the long Lunar New Year holiday.",
+  "options": [
+   "the older",
+   "the oldest",
+   "oldest",
+   "which oldest"
+  ],
+  "answer": 1,
+  "explain_zh": "同位語 the oldest city in Taiwan 補充說明 Tainan，最高級前面要加 the。oldest 少了 the，which oldest 結構錯誤，the older 是比較級只能用於兩者之間。",
+  "vocab": [
+   {
+    "w": "visit",
+    "zh": "造訪",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0140",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Her first novel, ____ book she ever finished, is still popular among teenagers today.",
+  "options": [
+   "an only",
+   "the only",
+   "only",
+   "which only"
+  ],
+  "answer": 1,
+  "explain_zh": "同位語需要一個完整的名詞片語，the only book she ever finished 正好說明那本小說。only 少了 the，which only 結構不完整，an only book 不是自然的英文。",
+  "vocab": [
+   {
+    "w": "teenager",
+    "zh": "青少年",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0141",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____, Dr. Lin explained the research results in language that everyone could follow.",
+  "options": [
+   "Patient teacher",
+   "Being patient teacher",
+   "He is a patient teacher",
+   "A patient teacher"
+  ],
+  "answer": 3,
+  "explain_zh": "句首的同位語用名詞片語 A patient teacher 說明 Dr. Lin，需要冠詞。Patient teacher 少了冠詞，Being patient teacher 同樣缺冠詞，He is a patient teacher 是完整句子。",
+  "vocab": [
+   {
+    "w": "patient",
+    "zh": "有耐心的",
+    "pos": "adj."
+   },
+   {
+    "w": "explain",
+    "zh": "解釋",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0142",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Two of my classmates, ____, volunteered to design the poster for the charity concert.",
+  "options": [
+   "who Ben and Joy",
+   "they are Ben and Joy",
+   "being Ben and Joy",
+   "Ben and Joy"
+  ],
+  "answer": 3,
+  "explain_zh": "同位語直接用人名 Ben and Joy 點出前面提到的兩位同學。who Ben and Joy 缺少動詞，they are Ben and Joy 是獨立句子，being Ben and Joy 語意不自然。",
+  "vocab": [
+   {
+    "w": "design",
+    "zh": "設計",
+    "pos": "v."
+   },
+   {
+    "w": "poster",
+    "zh": "海報",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0143",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ permitting, the outdoor concert will begin at seven o'clock tomorrow evening.",
+  "options": [
+   "The weather has",
+   "Weather being",
+   "Weather",
+   "Weather is"
+  ],
+  "answer": 2,
+  "explain_zh": "Weather permitting 是固定的獨立分詞構句，意思是「天氣許可的話」，主詞是 weather，分詞是 permitting。Weather is 與 The weather has 是限定動詞需要連接詞，Weather being permitting 多了 being。",
+  "vocab": [
+   {
+    "w": "permit",
+    "zh": "允許",
+    "pos": "v."
+   },
+   {
+    "w": "outdoor",
+    "zh": "戶外的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0144",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ so heavily that afternoon, we decided to postpone the hiking trip to next weekend.",
+  "options": [
+   "Rain",
+   "It raining",
+   "It rained",
+   "It rains"
+  ],
+  "answer": 1,
+  "explain_zh": "獨立分詞構句要保留自己的主詞，這裡用虛主詞 it 加現在分詞 raining。It rained 與 It rains 是完整句子，會造成逗號連接兩個句子；Rain 缺少分詞。",
+  "vocab": [
+   {
+    "w": "heavily",
+    "zh": "猛烈地",
+    "pos": "adv."
+   },
+   {
+    "w": "hiking",
+    "zh": "健行",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0145",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The lecture over, the students ____ out of the hall in small, chatting groups.",
+  "options": [
+   "streaming",
+   "to stream",
+   "stream",
+   "streamed"
+  ],
+  "answer": 3,
+  "explain_zh": "The lecture over 是獨立分詞構句，後面的主句才需要限定動詞，配合過去的情境用 streamed。streaming 與 to stream 都不是限定動詞，stream 時態不符。",
+  "vocab": [
+   {
+    "w": "lecture",
+    "zh": "講座",
+    "pos": "n."
+   },
+   {
+    "w": "chat",
+    "zh": "聊天",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0146",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The little boy stood silently at the door, ____ full of tears and his lips trembling.",
+  "options": [
+   "his eyes were",
+   "with his eyes were",
+   "his eyes",
+   "he eyes"
+  ],
+  "answer": 2,
+  "explain_zh": "獨立分詞構句可以用「所有格 + 名詞 + 補語」的形式，his eyes full of tears 正好呼應後面的 his lips trembling。he eyes 少了所有格，加了 were 就變成完整句子需要連接詞。",
+  "vocab": [
+   {
+    "w": "silently",
+    "zh": "安靜地",
+    "pos": "adv."
+   },
+   {
+    "w": "tremble",
+    "zh": "顫抖",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0147",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ no bus at that late hour, we had to take a taxi all the way back to the hostel.",
+  "options": [
+   "There being",
+   "There was",
+   "There is",
+   "It being"
+  ],
+  "answer": 0,
+  "explain_zh": "there be 句型的獨立分詞構句寫成 There being，表示原因。There was 與 There is 是完整句子，會造成逗號連接兩句；It being no bus 語法不成立。",
+  "vocab": [
+   {
+    "w": "hostel",
+    "zh": "青年旅館",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0148",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The guide walked ahead of the group, his right hand ____ a small red flag.",
+  "options": [
+   "to hold",
+   "holding",
+   "held",
+   "holds"
+  ],
+  "answer": 1,
+  "explain_zh": "his right hand 是獨立分詞構句自己的主詞，手是主動舉旗，用現在分詞 holding。held 是被動或過去式，holds 是限定動詞需要連接詞，to hold 表示目的。",
+  "vocab": [
+   {
+    "w": "guide",
+    "zh": "導遊",
+    "pos": "n."
+   },
+   {
+    "w": "flag",
+    "zh": "旗子",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0149",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "All the work ____, we sat down and enjoyed a well-deserved cup of hot tea.",
+  "options": [
+   "did",
+   "is doing",
+   "done",
+   "was done"
+  ],
+  "answer": 2,
+  "explain_zh": "獨立分詞構句 All the work done 表示「工作都完成後」，work 是被動所以用過去分詞 done。was done 與 is doing 都是限定動詞，會造成兩個句子直接相連；did 語態錯誤。",
+  "vocab": [
+   {
+    "w": "well-deserved",
+    "zh": "應得的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "HG2-0150",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "grammar",
+  "tag": "grammar:apposition-absolute",
+  "tag_zh": "同位語與獨立分詞構句",
+  "passage": null,
+  "group_id": null,
+  "stem": "The weather ____ suddenly that morning, the organizers moved the whole market indoors.",
+  "options": [
+   "having changed",
+   "changed",
+   "has changed",
+   "change"
+  ],
+  "answer": 0,
+  "explain_zh": "兩個子句之間只有逗號，前面必須是獨立分詞構句；天氣先變才搬進室內，用 having changed。changed 與 has changed 是限定動詞會造成逗號連接兩句，change 形式也不對。",
+  "vocab": [
+   {
+    "w": "suddenly",
+    "zh": "突然地",
+    "pos": "adv."
+   },
+   {
+    "w": "indoors",
+    "zh": "室內",
+    "pos": "adv."
+   }
+  ]
+ }
+]

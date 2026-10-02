@@ -1,0 +1,9622 @@
+{
+ "a": {
+  "pos": "det.",
+  "zh": "一個"
+ },
+ "ability": {
+  "pos": "n.",
+  "zh": "能力"
+ },
+ "able": {
+  "pos": "adj.",
+  "zh": "能夠的"
+ },
+ "about": {
+  "pos": "prep.",
+  "zh": "關於;大約"
+ },
+ "above": {
+  "pos": "prep.",
+  "zh": "在…上方"
+ },
+ "abroad": {
+  "pos": "adv.",
+  "zh": "到國外"
+ },
+ "absent": {
+  "pos": "adj.",
+  "zh": "缺席的"
+ },
+ "absolutely": {
+  "pos": "adv.",
+  "zh": "絕對地"
+ },
+ "accept": {
+  "pos": "v.",
+  "zh": "接受"
+ },
+ "accident": {
+  "pos": "n.",
+  "zh": "意外"
+ },
+ "across": {
+  "pos": "prep.",
+  "zh": "橫越"
+ },
+ "act": {
+  "pos": "v.",
+  "zh": "行動;演出"
+ },
+ "action": {
+  "pos": "n.",
+  "zh": "行動"
+ },
+ "active": {
+  "pos": "adj.",
+  "zh": "活躍的"
+ },
+ "activity": {
+  "pos": "n.",
+  "zh": "活動"
+ },
+ "actor": {
+  "pos": "n.",
+  "zh": "演員"
+ },
+ "actress": {
+  "pos": "n.",
+  "zh": "女演員"
+ },
+ "actually": {
+  "pos": "adv.",
+  "zh": "其實"
+ },
+ "add": {
+  "pos": "v.",
+  "zh": "加"
+ },
+ "address": {
+  "pos": "n.",
+  "zh": "地址;演說"
+ },
+ "adjective": {
+  "pos": "n.",
+  "zh": "形容詞"
+ },
+ "admire": {
+  "pos": "v.",
+  "zh": "欽佩"
+ },
+ "adult": {
+  "pos": "n.",
+  "zh": "成人"
+ },
+ "adventure": {
+  "pos": "n.",
+  "zh": "冒險"
+ },
+ "adverb": {
+  "pos": "n.",
+  "zh": "副詞"
+ },
+ "advertisement": {
+  "pos": "n.",
+  "zh": "廣告"
+ },
+ "advice": {
+  "pos": "n.",
+  "zh": "建議"
+ },
+ "advise": {
+  "pos": "v.",
+  "zh": "勸告"
+ },
+ "affect": {
+  "pos": "v.",
+  "zh": "影響"
+ },
+ "afraid": {
+  "pos": "adj.",
+  "zh": "害怕的"
+ },
+ "africa": {
+  "pos": "n.",
+  "zh": "非洲"
+ },
+ "after": {
+  "pos": "prep.",
+  "zh": "在…之後"
+ },
+ "afternoon": {
+  "pos": "n.",
+  "zh": "下午"
+ },
+ "afterward": {
+  "pos": "adv.",
+  "zh": "之後"
+ },
+ "afterwards": {
+  "pos": "adv.",
+  "zh": "之後"
+ },
+ "again": {
+  "pos": "adv.",
+  "zh": "再一次"
+ },
+ "against": {
+  "pos": "prep.",
+  "zh": "反對;靠著"
+ },
+ "age": {
+  "pos": "n.",
+  "zh": "年齡;時代"
+ },
+ "ago": {
+  "pos": "adv.",
+  "zh": "以前"
+ },
+ "agree": {
+  "pos": "v.",
+  "zh": "同意"
+ },
+ "agreement": {
+  "pos": "n.",
+  "zh": "協議"
+ },
+ "ah": {
+  "pos": "int.",
+  "zh": "啊"
+ },
+ "ahead": {
+  "pos": "adv.",
+  "zh": "在前面"
+ },
+ "aid": {
+  "pos": "n.",
+  "zh": "援助"
+ },
+ "aim": {
+  "pos": "n.",
+  "zh": "目標;瞄準"
+ },
+ "air": {
+  "pos": "n.",
+  "zh": "空氣"
+ },
+ "airline": {
+  "pos": "n.",
+  "zh": "航空公司"
+ },
+ "airplane": {
+  "pos": "n.",
+  "zh": "飛機"
+ },
+ "airport": {
+  "pos": "n.",
+  "zh": "機場"
+ },
+ "alarm": {
+  "pos": "n.",
+  "zh": "警報;鬧鐘"
+ },
+ "album": {
+  "pos": "n.",
+  "zh": "專輯;相簿"
+ },
+ "alice": {
+  "pos": "n.",
+  "zh": "人名:愛麗絲"
+ },
+ "alishan": {
+  "pos": "n.",
+  "zh": "阿里山"
+ },
+ "alive": {
+  "pos": "adj.",
+  "zh": "活著的"
+ },
+ "all": {
+  "pos": "det.",
+  "zh": "全部"
+ },
+ "allow": {
+  "pos": "v.",
+  "zh": "允許"
+ },
+ "allowance": {
+  "pos": "n.",
+  "zh": "零用錢"
+ },
+ "almost": {
+  "pos": "adv.",
+  "zh": "幾乎"
+ },
+ "alone": {
+  "pos": "adj.",
+  "zh": "獨自的"
+ },
+ "along": {
+  "pos": "prep.",
+  "zh": "沿著"
+ },
+ "aloud": {
+  "pos": "adv.",
+  "zh": "出聲地"
+ },
+ "alphabet": {
+  "pos": "n.",
+  "zh": "字母"
+ },
+ "already": {
+  "pos": "adv.",
+  "zh": "已經"
+ },
+ "also": {
+  "pos": "adv.",
+  "zh": "也"
+ },
+ "although": {
+  "pos": "conj.",
+  "zh": "雖然"
+ },
+ "altogether": {
+  "pos": "adv.",
+  "zh": "總共"
+ },
+ "always": {
+  "pos": "adv.",
+  "zh": "總是"
+ },
+ "am": {
+  "pos": "v.",
+  "zh": "是(我用的現在式)"
+ },
+ "ambulance": {
+  "pos": "n.",
+  "zh": "救護車"
+ },
+ "america": {
+  "pos": "n.",
+  "zh": "美國;美洲"
+ },
+ "american": {
+  "pos": "adj.",
+  "zh": "美國的;美國人"
+ },
+ "among": {
+  "pos": "prep.",
+  "zh": "在…之中(三者以上)"
+ },
+ "amount": {
+  "pos": "n.",
+  "zh": "數量"
+ },
+ "amy": {
+  "pos": "n.",
+  "zh": "人名:艾咪"
+ },
+ "an": {
+  "pos": "det.",
+  "zh": "一個(母音前)"
+ },
+ "ancient": {
+  "pos": "adj.",
+  "zh": "古老的"
+ },
+ "and": {
+  "pos": "conj.",
+  "zh": "和;而且"
+ },
+ "andy": {
+  "pos": "n.",
+  "zh": "人名:安迪"
+ },
+ "anger": {
+  "pos": "n.",
+  "zh": "生氣"
+ },
+ "angrily": {
+  "pos": "adv.",
+  "zh": "生氣地"
+ },
+ "angry": {
+  "pos": "adj.",
+  "zh": "生氣的"
+ },
+ "animal": {
+  "pos": "n.",
+  "zh": "動物"
+ },
+ "ann": {
+  "pos": "n.",
+  "zh": "人名:安"
+ },
+ "anna": {
+  "pos": "n.",
+  "zh": "人名:安娜"
+ },
+ "another": {
+  "pos": "det.",
+  "zh": "另一個"
+ },
+ "answer": {
+  "pos": "v.",
+  "zh": "回答;答案"
+ },
+ "ant": {
+  "pos": "n.",
+  "zh": "螞蟻"
+ },
+ "any": {
+  "pos": "det.",
+  "zh": "任何;一些"
+ },
+ "anybody": {
+  "pos": "pron.",
+  "zh": "任何人"
+ },
+ "anymore": {
+  "pos": "adv.",
+  "zh": "不再"
+ },
+ "anyone": {
+  "pos": "pron.",
+  "zh": "任何人"
+ },
+ "anything": {
+  "pos": "pron.",
+  "zh": "任何事物"
+ },
+ "anyway": {
+  "pos": "adv.",
+  "zh": "反正;無論如何"
+ },
+ "anywhere": {
+  "pos": "adv.",
+  "zh": "任何地方"
+ },
+ "apart": {
+  "pos": "adv.",
+  "zh": "分開"
+ },
+ "apartment": {
+  "pos": "n.",
+  "zh": "公寓"
+ },
+ "apologize": {
+  "pos": "v.",
+  "zh": "道歉"
+ },
+ "app": {
+  "pos": "n.",
+  "zh": "應用程式"
+ },
+ "appear": {
+  "pos": "v.",
+  "zh": "出現;似乎"
+ },
+ "appearance": {
+  "pos": "n.",
+  "zh": "外表;出現"
+ },
+ "apple": {
+  "pos": "n.",
+  "zh": "蘋果"
+ },
+ "appointment": {
+  "pos": "n.",
+  "zh": "約會;預約"
+ },
+ "april": {
+  "pos": "n.",
+  "zh": "四月"
+ },
+ "are": {
+  "pos": "v.",
+  "zh": "是(複數現在式)"
+ },
+ "area": {
+  "pos": "n.",
+  "zh": "區域;面積"
+ },
+ "aren't": {
+  "pos": "v.",
+  "zh": "不是(are not)"
+ },
+ "arm": {
+  "pos": "n.",
+  "zh": "手臂"
+ },
+ "army": {
+  "pos": "n.",
+  "zh": "軍隊"
+ },
+ "around": {
+  "pos": "prep.",
+  "zh": "在…周圍;大約"
+ },
+ "arrive": {
+  "pos": "v.",
+  "zh": "抵達"
+ },
+ "art": {
+  "pos": "n.",
+  "zh": "美術;藝術"
+ },
+ "article": {
+  "pos": "n.",
+  "zh": "文章;冠詞"
+ },
+ "artist": {
+  "pos": "n.",
+  "zh": "藝術家"
+ },
+ "as": {
+  "pos": "prep.",
+  "zh": "作為;如同"
+ },
+ "asia": {
+  "pos": "n.",
+  "zh": "亞洲"
+ },
+ "ask": {
+  "pos": "v.",
+  "zh": "問;要求"
+ },
+ "asked": {
+  "pos": "v.",
+  "zh": "問(過去式)"
+ },
+ "asleep": {
+  "pos": "adj.",
+  "zh": "睡著的"
+ },
+ "assignment": {
+  "pos": "n.",
+  "zh": "作業;任務"
+ },
+ "at": {
+  "pos": "prep.",
+  "zh": "在(某點)"
+ },
+ "ate": {
+  "pos": "v.",
+  "zh": "吃(過去式)"
+ },
+ "attack": {
+  "pos": "v.",
+  "zh": "攻擊"
+ },
+ "attention": {
+  "pos": "n.",
+  "zh": "注意力"
+ },
+ "attitude": {
+  "pos": "n.",
+  "zh": "態度"
+ },
+ "attract": {
+  "pos": "v.",
+  "zh": "吸引"
+ },
+ "august": {
+  "pos": "n.",
+  "zh": "八月"
+ },
+ "aunt": {
+  "pos": "n.",
+  "zh": "阿姨;姑姑"
+ },
+ "australia": {
+  "pos": "n.",
+  "zh": "澳洲"
+ },
+ "australian": {
+  "pos": "adj.",
+  "zh": "澳洲的"
+ },
+ "autumn": {
+  "pos": "n.",
+  "zh": "秋天"
+ },
+ "available": {
+  "pos": "adj.",
+  "zh": "可獲得的"
+ },
+ "avoid": {
+  "pos": "v.",
+  "zh": "避免"
+ },
+ "awake": {
+  "pos": "adj.",
+  "zh": "醒著的"
+ },
+ "away": {
+  "pos": "adv.",
+  "zh": "離開;走開"
+ },
+ "awful": {
+  "pos": "adj.",
+  "zh": "糟糕的"
+ },
+ "baby": {
+  "pos": "n.",
+  "zh": "嬰兒"
+ },
+ "back": {
+  "pos": "adv.",
+  "zh": "回來;背部"
+ },
+ "background": {
+  "pos": "n.",
+  "zh": "背景"
+ },
+ "backpack": {
+  "pos": "n.",
+  "zh": "背包"
+ },
+ "backward": {
+  "pos": "adv.",
+  "zh": "向後"
+ },
+ "bad": {
+  "pos": "adj.",
+  "zh": "壞的"
+ },
+ "badly": {
+  "pos": "adv.",
+  "zh": "嚴重地;糟糕地"
+ },
+ "badminton": {
+  "pos": "n.",
+  "zh": "羽毛球"
+ },
+ "bag": {
+  "pos": "n.",
+  "zh": "袋子;包包"
+ },
+ "bake": {
+  "pos": "v.",
+  "zh": "烘烤"
+ },
+ "ball": {
+  "pos": "n.",
+  "zh": "球"
+ },
+ "banana": {
+  "pos": "n.",
+  "zh": "香蕉"
+ },
+ "band": {
+  "pos": "n.",
+  "zh": "樂團;帶子"
+ },
+ "bank": {
+  "pos": "n.",
+  "zh": "銀行;河岸"
+ },
+ "barely": {
+  "pos": "adv.",
+  "zh": "勉強;幾乎不"
+ },
+ "baseball": {
+  "pos": "n.",
+  "zh": "棒球"
+ },
+ "basic": {
+  "pos": "adj.",
+  "zh": "基本的"
+ },
+ "basket": {
+  "pos": "n.",
+  "zh": "籃子"
+ },
+ "basketball": {
+  "pos": "n.",
+  "zh": "籃球"
+ },
+ "bath": {
+  "pos": "n.",
+  "zh": "洗澡"
+ },
+ "bathroom": {
+  "pos": "n.",
+  "zh": "浴室;廁所"
+ },
+ "be": {
+  "pos": "v.",
+  "zh": "是;成為"
+ },
+ "beach": {
+  "pos": "n.",
+  "zh": "海灘"
+ },
+ "bean": {
+  "pos": "n.",
+  "zh": "豆子"
+ },
+ "bear": {
+  "pos": "n.",
+  "zh": "熊;忍受"
+ },
+ "beat": {
+  "pos": "v.",
+  "zh": "打敗;敲打"
+ },
+ "beautiful": {
+  "pos": "adj.",
+  "zh": "美麗的"
+ },
+ "beauty": {
+  "pos": "n.",
+  "zh": "美;美人"
+ },
+ "became": {
+  "pos": "v.",
+  "zh": "變成(過去式)"
+ },
+ "because": {
+  "pos": "conj.",
+  "zh": "因為"
+ },
+ "become": {
+  "pos": "v.",
+  "zh": "變成"
+ },
+ "bed": {
+  "pos": "n.",
+  "zh": "床"
+ },
+ "bedroom": {
+  "pos": "n.",
+  "zh": "臥室"
+ },
+ "bee": {
+  "pos": "n.",
+  "zh": "蜜蜂"
+ },
+ "beef": {
+  "pos": "n.",
+  "zh": "牛肉"
+ },
+ "been": {
+  "pos": "v.",
+  "zh": "是(過去分詞)"
+ },
+ "before": {
+  "pos": "prep.",
+  "zh": "在…之前"
+ },
+ "began": {
+  "pos": "v.",
+  "zh": "開始(過去式)"
+ },
+ "begin": {
+  "pos": "v.",
+  "zh": "開始"
+ },
+ "beginning": {
+  "pos": "n.",
+  "zh": "開始"
+ },
+ "begun": {
+  "pos": "v.",
+  "zh": "開始(過去分詞)"
+ },
+ "behavior": {
+  "pos": "n.",
+  "zh": "行為"
+ },
+ "behind": {
+  "pos": "prep.",
+  "zh": "在…後面"
+ },
+ "beijing": {
+  "pos": "n.",
+  "zh": "北京"
+ },
+ "being": {
+  "pos": "v.",
+  "zh": "是(現在分詞);存在"
+ },
+ "belief": {
+  "pos": "n.",
+  "zh": "信念"
+ },
+ "believe": {
+  "pos": "v.",
+  "zh": "相信"
+ },
+ "belong": {
+  "pos": "v.",
+  "zh": "屬於"
+ },
+ "below": {
+  "pos": "prep.",
+  "zh": "在…下方"
+ },
+ "ben": {
+  "pos": "n.",
+  "zh": "人名:班"
+ },
+ "beneath": {
+  "pos": "prep.",
+  "zh": "在…之下"
+ },
+ "berlin": {
+  "pos": "n.",
+  "zh": "柏林"
+ },
+ "beside": {
+  "pos": "prep.",
+  "zh": "在…旁邊"
+ },
+ "besides": {
+  "pos": "prep.",
+  "zh": "除此之外"
+ },
+ "best": {
+  "pos": "adj.",
+  "zh": "最好的"
+ },
+ "better": {
+  "pos": "adj.",
+  "zh": "更好的"
+ },
+ "betty": {
+  "pos": "n.",
+  "zh": "人名:貝蒂"
+ },
+ "between": {
+  "pos": "prep.",
+  "zh": "在…之間(兩者)"
+ },
+ "beyond": {
+  "pos": "prep.",
+  "zh": "超過;在…那邊"
+ },
+ "bicycle": {
+  "pos": "n.",
+  "zh": "腳踏車"
+ },
+ "big": {
+  "pos": "adj.",
+  "zh": "大的"
+ },
+ "bike": {
+  "pos": "n.",
+  "zh": "腳踏車"
+ },
+ "bill": {
+  "pos": "n.",
+  "zh": "人名:比爾;帳單"
+ },
+ "billion": {
+  "pos": "num.",
+  "zh": "十億"
+ },
+ "biology": {
+  "pos": "n.",
+  "zh": "生物學"
+ },
+ "bird": {
+  "pos": "n.",
+  "zh": "鳥"
+ },
+ "birthday": {
+  "pos": "n.",
+  "zh": "生日"
+ },
+ "bite": {
+  "pos": "v.",
+  "zh": "咬"
+ },
+ "bitter": {
+  "pos": "adj.",
+  "zh": "苦的"
+ },
+ "black": {
+  "pos": "adj.",
+  "zh": "黑色的"
+ },
+ "blackboard": {
+  "pos": "n.",
+  "zh": "黑板"
+ },
+ "blame": {
+  "pos": "v.",
+  "zh": "責怪"
+ },
+ "blanket": {
+  "pos": "n.",
+  "zh": "毯子"
+ },
+ "blew": {
+  "pos": "v.",
+  "zh": "吹(過去式)"
+ },
+ "block": {
+  "pos": "n.",
+  "zh": "街區;阻擋"
+ },
+ "blood": {
+  "pos": "n.",
+  "zh": "血"
+ },
+ "blow": {
+  "pos": "v.",
+  "zh": "吹;打擊"
+ },
+ "blown": {
+  "pos": "v.",
+  "zh": "吹(過去分詞)"
+ },
+ "blue": {
+  "pos": "adj.",
+  "zh": "藍色的;憂鬱的"
+ },
+ "board": {
+  "pos": "n.",
+  "zh": "板子;上車"
+ },
+ "boat": {
+  "pos": "n.",
+  "zh": "小船"
+ },
+ "bob": {
+  "pos": "n.",
+  "zh": "人名:鮑伯"
+ },
+ "body": {
+  "pos": "n.",
+  "zh": "身體"
+ },
+ "boil": {
+  "pos": "v.",
+  "zh": "煮沸"
+ },
+ "bone": {
+  "pos": "n.",
+  "zh": "骨頭"
+ },
+ "book": {
+  "pos": "n.",
+  "zh": "書"
+ },
+ "boots": {
+  "pos": "n.",
+  "zh": "靴子"
+ },
+ "bored": {
+  "pos": "adj.",
+  "zh": "無聊的(人)"
+ },
+ "boring": {
+  "pos": "adj.",
+  "zh": "無聊的(事)"
+ },
+ "borrow": {
+  "pos": "v.",
+  "zh": "借入"
+ },
+ "boss": {
+  "pos": "n.",
+  "zh": "老闆"
+ },
+ "boston": {
+  "pos": "n.",
+  "zh": "波士頓"
+ },
+ "both": {
+  "pos": "det.",
+  "zh": "兩者都"
+ },
+ "bottle": {
+  "pos": "n.",
+  "zh": "瓶子"
+ },
+ "bottom": {
+  "pos": "n.",
+  "zh": "底部"
+ },
+ "bought": {
+  "pos": "v.",
+  "zh": "買(過去式;過去分詞)"
+ },
+ "bowl": {
+  "pos": "n.",
+  "zh": "碗"
+ },
+ "box": {
+  "pos": "n.",
+  "zh": "盒子"
+ },
+ "boy": {
+  "pos": "n.",
+  "zh": "男孩"
+ },
+ "brain": {
+  "pos": "n.",
+  "zh": "大腦"
+ },
+ "branch": {
+  "pos": "n.",
+  "zh": "樹枝;分店"
+ },
+ "brave": {
+  "pos": "adj.",
+  "zh": "勇敢的"
+ },
+ "brazil": {
+  "pos": "n.",
+  "zh": "巴西"
+ },
+ "bread": {
+  "pos": "n.",
+  "zh": "麵包"
+ },
+ "break": {
+  "pos": "v.",
+  "zh": "打破;休息"
+ },
+ "breakfast": {
+  "pos": "n.",
+  "zh": "早餐"
+ },
+ "breath": {
+  "pos": "n.",
+  "zh": "呼吸(名詞)"
+ },
+ "breathe": {
+  "pos": "v.",
+  "zh": "呼吸(動詞)"
+ },
+ "bridge": {
+  "pos": "n.",
+  "zh": "橋"
+ },
+ "briefly": {
+  "pos": "adv.",
+  "zh": "簡短地"
+ },
+ "bright": {
+  "pos": "adj.",
+  "zh": "明亮的;聰明的"
+ },
+ "bring": {
+  "pos": "v.",
+  "zh": "帶來"
+ },
+ "britain": {
+  "pos": "n.",
+  "zh": "英國"
+ },
+ "british": {
+  "pos": "adj.",
+  "zh": "英國的"
+ },
+ "broke": {
+  "pos": "v.",
+  "zh": "打破(過去式)"
+ },
+ "broken": {
+  "pos": "v.",
+  "zh": "打破(過去分詞);壞掉的"
+ },
+ "brother": {
+  "pos": "n.",
+  "zh": "兄弟"
+ },
+ "brought": {
+  "pos": "v.",
+  "zh": "帶來(過去式;過去分詞)"
+ },
+ "brown": {
+  "pos": "n.",
+  "zh": "姓氏:布朗;棕色的"
+ },
+ "brush": {
+  "pos": "v.",
+  "zh": "刷;刷子"
+ },
+ "build": {
+  "pos": "v.",
+  "zh": "建造"
+ },
+ "building": {
+  "pos": "n.",
+  "zh": "建築物"
+ },
+ "built": {
+  "pos": "v.",
+  "zh": "建造(過去式;過去分詞)"
+ },
+ "burn": {
+  "pos": "v.",
+  "zh": "燃燒;燒傷"
+ },
+ "bus": {
+  "pos": "n.",
+  "zh": "公車"
+ },
+ "business": {
+  "pos": "n.",
+  "zh": "生意;事務"
+ },
+ "busy": {
+  "pos": "adj.",
+  "zh": "忙碌的"
+ },
+ "but": {
+  "pos": "conj.",
+  "zh": "但是"
+ },
+ "butter": {
+  "pos": "n.",
+  "zh": "奶油"
+ },
+ "butterfly": {
+  "pos": "n.",
+  "zh": "蝴蝶"
+ },
+ "button": {
+  "pos": "n.",
+  "zh": "按鈕;鈕扣"
+ },
+ "buy": {
+  "pos": "v.",
+  "zh": "買"
+ },
+ "by": {
+  "pos": "prep.",
+  "zh": "被;藉由;在…旁"
+ },
+ "bye": {
+  "pos": "int.",
+  "zh": "再見"
+ },
+ "cabbage": {
+  "pos": "n.",
+  "zh": "高麗菜"
+ },
+ "cafe": {
+  "pos": "n.",
+  "zh": "咖啡廳"
+ },
+ "cake": {
+  "pos": "n.",
+  "zh": "蛋糕"
+ },
+ "calendar": {
+  "pos": "n.",
+  "zh": "日曆"
+ },
+ "call": {
+  "pos": "v.",
+  "zh": "打電話;稱呼"
+ },
+ "calm": {
+  "pos": "adj.",
+  "zh": "冷靜的"
+ },
+ "came": {
+  "pos": "v.",
+  "zh": "來(過去式)"
+ },
+ "camera": {
+  "pos": "n.",
+  "zh": "相機"
+ },
+ "camp": {
+  "pos": "v.",
+  "zh": "露營;營地"
+ },
+ "can": {
+  "pos": "v.",
+  "zh": "能;可以;罐頭"
+ },
+ "can't": {
+  "pos": "v.",
+  "zh": "不能(cannot)"
+ },
+ "canada": {
+  "pos": "n.",
+  "zh": "加拿大"
+ },
+ "canadian": {
+  "pos": "adj.",
+  "zh": "加拿大的"
+ },
+ "cancel": {
+  "pos": "v.",
+  "zh": "取消"
+ },
+ "candle": {
+  "pos": "n.",
+  "zh": "蠟燭"
+ },
+ "candy": {
+  "pos": "n.",
+  "zh": "糖果"
+ },
+ "cannot": {
+  "pos": "v.",
+  "zh": "不能"
+ },
+ "cap": {
+  "pos": "n.",
+  "zh": "鴨舌帽;蓋子"
+ },
+ "captain": {
+  "pos": "n.",
+  "zh": "隊長;船長"
+ },
+ "car": {
+  "pos": "n.",
+  "zh": "汽車"
+ },
+ "card": {
+  "pos": "n.",
+  "zh": "卡片"
+ },
+ "care": {
+  "pos": "v.",
+  "zh": "在乎;照顧"
+ },
+ "career": {
+  "pos": "n.",
+  "zh": "職業生涯"
+ },
+ "careful": {
+  "pos": "adj.",
+  "zh": "小心的"
+ },
+ "carefully": {
+  "pos": "adv.",
+  "zh": "小心地"
+ },
+ "careless": {
+  "pos": "adj.",
+  "zh": "粗心的"
+ },
+ "carrot": {
+  "pos": "n.",
+  "zh": "胡蘿蔔"
+ },
+ "carry": {
+  "pos": "v.",
+  "zh": "攜帶;搬"
+ },
+ "cartoon": {
+  "pos": "n.",
+  "zh": "卡通"
+ },
+ "cash": {
+  "pos": "n.",
+  "zh": "現金"
+ },
+ "cat": {
+  "pos": "n.",
+  "zh": "貓"
+ },
+ "catch": {
+  "pos": "v.",
+  "zh": "抓住;趕上"
+ },
+ "caught": {
+  "pos": "v.",
+  "zh": "抓住(過去式;過去分詞)"
+ },
+ "cause": {
+  "pos": "v.",
+  "zh": "造成;原因"
+ },
+ "celebrate": {
+  "pos": "v.",
+  "zh": "慶祝"
+ },
+ "celebration": {
+  "pos": "n.",
+  "zh": "慶祝活動"
+ },
+ "cellphone": {
+  "pos": "n.",
+  "zh": "手機"
+ },
+ "cent": {
+  "pos": "n.",
+  "zh": "分"
+ },
+ "center": {
+  "pos": "n.",
+  "zh": "中心"
+ },
+ "century": {
+  "pos": "n.",
+  "zh": "世紀"
+ },
+ "certain": {
+  "pos": "adj.",
+  "zh": "某個;確定的"
+ },
+ "certainly": {
+  "pos": "adv.",
+  "zh": "當然;一定"
+ },
+ "chair": {
+  "pos": "n.",
+  "zh": "椅子"
+ },
+ "chalk": {
+  "pos": "n.",
+  "zh": "粉筆"
+ },
+ "challenge": {
+  "pos": "n.",
+  "zh": "挑戰"
+ },
+ "chance": {
+  "pos": "n.",
+  "zh": "機會"
+ },
+ "change": {
+  "pos": "v.",
+  "zh": "改變;零錢"
+ },
+ "character": {
+  "pos": "n.",
+  "zh": "角色;性格"
+ },
+ "chase": {
+  "pos": "v.",
+  "zh": "追逐"
+ },
+ "cheap": {
+  "pos": "adj.",
+  "zh": "便宜的"
+ },
+ "check": {
+  "pos": "v.",
+  "zh": "檢查;支票"
+ },
+ "cheer": {
+  "pos": "v.",
+  "zh": "歡呼;加油"
+ },
+ "cheerful": {
+  "pos": "adj.",
+  "zh": "開朗的"
+ },
+ "cheese": {
+  "pos": "n.",
+  "zh": "起司"
+ },
+ "chemistry": {
+  "pos": "n.",
+  "zh": "化學"
+ },
+ "chen": {
+  "pos": "n.",
+  "zh": "姓氏:陳"
+ },
+ "chiayi": {
+  "pos": "n.",
+  "zh": "嘉義"
+ },
+ "chicago": {
+  "pos": "n.",
+  "zh": "芝加哥"
+ },
+ "chicken": {
+  "pos": "n.",
+  "zh": "雞;雞肉"
+ },
+ "child": {
+  "pos": "n.",
+  "zh": "小孩"
+ },
+ "children": {
+  "pos": "n.",
+  "zh": "小孩(複數)"
+ },
+ "china": {
+  "pos": "n.",
+  "zh": "中國;瓷器"
+ },
+ "chinese": {
+  "pos": "n.",
+  "zh": "中文;中國的"
+ },
+ "chocolate": {
+  "pos": "n.",
+  "zh": "巧克力"
+ },
+ "choice": {
+  "pos": "n.",
+  "zh": "選擇"
+ },
+ "choose": {
+  "pos": "v.",
+  "zh": "選擇"
+ },
+ "chopsticks": {
+  "pos": "n.",
+  "zh": "筷子"
+ },
+ "chose": {
+  "pos": "v.",
+  "zh": "選擇(過去式)"
+ },
+ "chosen": {
+  "pos": "v.",
+  "zh": "選擇(過去分詞)"
+ },
+ "christmas": {
+  "pos": "n.",
+  "zh": "聖誕節"
+ },
+ "church": {
+  "pos": "n.",
+  "zh": "教堂"
+ },
+ "cindy": {
+  "pos": "n.",
+  "zh": "人名:辛蒂"
+ },
+ "cinema": {
+  "pos": "n.",
+  "zh": "電影院"
+ },
+ "circle": {
+  "pos": "n.",
+  "zh": "圓圈"
+ },
+ "city": {
+  "pos": "n.",
+  "zh": "城市"
+ },
+ "class": {
+  "pos": "n.",
+  "zh": "班級;課"
+ },
+ "classmate": {
+  "pos": "n.",
+  "zh": "同學"
+ },
+ "classroom": {
+  "pos": "n.",
+  "zh": "教室"
+ },
+ "clean": {
+  "pos": "v.",
+  "zh": "打掃;乾淨的"
+ },
+ "clear": {
+  "pos": "adj.",
+  "zh": "清楚的;晴朗的"
+ },
+ "clearly": {
+  "pos": "adv.",
+  "zh": "清楚地"
+ },
+ "clerk": {
+  "pos": "n.",
+  "zh": "店員"
+ },
+ "clever": {
+  "pos": "adj.",
+  "zh": "聰明的"
+ },
+ "click": {
+  "pos": "v.",
+  "zh": "點擊"
+ },
+ "climate": {
+  "pos": "n.",
+  "zh": "氣候"
+ },
+ "climb": {
+  "pos": "v.",
+  "zh": "爬"
+ },
+ "clinic": {
+  "pos": "n.",
+  "zh": "診所"
+ },
+ "clock": {
+  "pos": "n.",
+  "zh": "時鐘"
+ },
+ "close": {
+  "pos": "v.",
+  "zh": "關;親近的"
+ },
+ "closed": {
+  "pos": "adj.",
+  "zh": "關閉的"
+ },
+ "clothes": {
+  "pos": "n.",
+  "zh": "衣服"
+ },
+ "clothing": {
+  "pos": "n.",
+  "zh": "服裝"
+ },
+ "cloud": {
+  "pos": "n.",
+  "zh": "雲"
+ },
+ "cloudy": {
+  "pos": "adj.",
+  "zh": "多雲的"
+ },
+ "club": {
+  "pos": "n.",
+  "zh": "社團;俱樂部"
+ },
+ "coach": {
+  "pos": "n.",
+  "zh": "教練;客運"
+ },
+ "coat": {
+  "pos": "n.",
+  "zh": "外套"
+ },
+ "coffee": {
+  "pos": "n.",
+  "zh": "咖啡"
+ },
+ "coin": {
+  "pos": "n.",
+  "zh": "硬幣"
+ },
+ "cold": {
+  "pos": "n.",
+  "zh": "感冒;冷的"
+ },
+ "collect": {
+  "pos": "v.",
+  "zh": "收集"
+ },
+ "college": {
+  "pos": "n.",
+  "zh": "大學;學院"
+ },
+ "color": {
+  "pos": "n.",
+  "zh": "顏色"
+ },
+ "colour": {
+  "pos": "n.",
+  "zh": "顏色"
+ },
+ "comb": {
+  "pos": "n.",
+  "zh": "梳子"
+ },
+ "come": {
+  "pos": "v.",
+  "zh": "來"
+ },
+ "comfortable": {
+  "pos": "adj.",
+  "zh": "舒服的"
+ },
+ "coming": {
+  "pos": "v.",
+  "zh": "正在來"
+ },
+ "common": {
+  "pos": "adj.",
+  "zh": "常見的"
+ },
+ "communicate": {
+  "pos": "v.",
+  "zh": "溝通"
+ },
+ "company": {
+  "pos": "n.",
+  "zh": "公司;陪伴"
+ },
+ "compare": {
+  "pos": "v.",
+  "zh": "比較"
+ },
+ "compete": {
+  "pos": "v.",
+  "zh": "競爭"
+ },
+ "complain": {
+  "pos": "v.",
+  "zh": "抱怨"
+ },
+ "complete": {
+  "pos": "v.",
+  "zh": "完成;完整的"
+ },
+ "completely": {
+  "pos": "adv.",
+  "zh": "完全地"
+ },
+ "complex": {
+  "pos": "adj.",
+  "zh": "複雜的"
+ },
+ "computer": {
+  "pos": "n.",
+  "zh": "電腦"
+ },
+ "computerize": {
+  "pos": "v.",
+  "zh": "電腦化"
+ },
+ "concert": {
+  "pos": "n.",
+  "zh": "演唱會"
+ },
+ "confident": {
+  "pos": "adj.",
+  "zh": "有自信的"
+ },
+ "congratulate": {
+  "pos": "v.",
+  "zh": "祝賀"
+ },
+ "conjunction": {
+  "pos": "n.",
+  "zh": "連接詞"
+ },
+ "connect": {
+  "pos": "v.",
+  "zh": "連接"
+ },
+ "consider": {
+  "pos": "v.",
+  "zh": "考慮"
+ },
+ "contact": {
+  "pos": "v.",
+  "zh": "聯絡"
+ },
+ "contain": {
+  "pos": "v.",
+  "zh": "容納;包含"
+ },
+ "continue": {
+  "pos": "v.",
+  "zh": "繼續"
+ },
+ "control": {
+  "pos": "v.",
+  "zh": "控制"
+ },
+ "convenient": {
+  "pos": "adj.",
+  "zh": "方便的"
+ },
+ "conversation": {
+  "pos": "n.",
+  "zh": "對話"
+ },
+ "cook": {
+  "pos": "v.",
+  "zh": "煮;廚師"
+ },
+ "cookie": {
+  "pos": "n.",
+  "zh": "餅乾"
+ },
+ "cooking": {
+  "pos": "n.",
+  "zh": "烹飪"
+ },
+ "cool": {
+  "pos": "adj.",
+  "zh": "涼爽的;酷的"
+ },
+ "copy": {
+  "pos": "v.",
+  "zh": "複製;副本"
+ },
+ "corn": {
+  "pos": "n.",
+  "zh": "玉米"
+ },
+ "corner": {
+  "pos": "n.",
+  "zh": "角落;轉角"
+ },
+ "correct": {
+  "pos": "adj.",
+  "zh": "正確的"
+ },
+ "correctly": {
+  "pos": "adv.",
+  "zh": "正確地"
+ },
+ "cost": {
+  "pos": "v.",
+  "zh": "花費;成本"
+ },
+ "cough": {
+  "pos": "n.",
+  "zh": "咳嗽"
+ },
+ "could": {
+  "pos": "v.",
+  "zh": "能夠(can 的過去式)"
+ },
+ "couldn't": {
+  "pos": "v.",
+  "zh": "不能(could not)"
+ },
+ "count": {
+  "pos": "v.",
+  "zh": "數;計算"
+ },
+ "country": {
+  "pos": "n.",
+  "zh": "國家;鄉下"
+ },
+ "couple": {
+  "pos": "n.",
+  "zh": "一對;兩個"
+ },
+ "course": {
+  "pos": "n.",
+  "zh": "課程"
+ },
+ "cousin": {
+  "pos": "n.",
+  "zh": "堂(表)兄弟姊妹"
+ },
+ "cover": {
+  "pos": "v.",
+  "zh": "覆蓋;封面"
+ },
+ "cow": {
+  "pos": "n.",
+  "zh": "母牛"
+ },
+ "crab": {
+  "pos": "n.",
+  "zh": "螃蟹"
+ },
+ "crayon": {
+  "pos": "n.",
+  "zh": "蠟筆"
+ },
+ "crazy": {
+  "pos": "adj.",
+  "zh": "瘋狂的"
+ },
+ "create": {
+  "pos": "v.",
+  "zh": "創造"
+ },
+ "creative": {
+  "pos": "adj.",
+  "zh": "有創意的"
+ },
+ "credit": {
+  "pos": "n.",
+  "zh": "信用;學分"
+ },
+ "crime": {
+  "pos": "n.",
+  "zh": "犯罪"
+ },
+ "cross": {
+  "pos": "v.",
+  "zh": "越過;十字"
+ },
+ "crowd": {
+  "pos": "n.",
+  "zh": "人群"
+ },
+ "crowded": {
+  "pos": "adj.",
+  "zh": "擁擠的"
+ },
+ "cry": {
+  "pos": "v.",
+  "zh": "哭;喊叫"
+ },
+ "culture": {
+  "pos": "n.",
+  "zh": "文化"
+ },
+ "cup": {
+  "pos": "n.",
+  "zh": "杯子"
+ },
+ "curious": {
+  "pos": "adj.",
+  "zh": "好奇的"
+ },
+ "current": {
+  "pos": "adj.",
+  "zh": "目前的;水流"
+ },
+ "customer": {
+  "pos": "n.",
+  "zh": "顧客"
+ },
+ "cut": {
+  "pos": "v.",
+  "zh": "切;剪"
+ },
+ "cute": {
+  "pos": "adj.",
+  "zh": "可愛的"
+ },
+ "dad": {
+  "pos": "n.",
+  "zh": "爸爸"
+ },
+ "daily": {
+  "pos": "adj.",
+  "zh": "每天的"
+ },
+ "dance": {
+  "pos": "v.",
+  "zh": "跳舞"
+ },
+ "dancer": {
+  "pos": "n.",
+  "zh": "舞者"
+ },
+ "danger": {
+  "pos": "n.",
+  "zh": "危險"
+ },
+ "dangerous": {
+  "pos": "adj.",
+  "zh": "危險的"
+ },
+ "danny": {
+  "pos": "n.",
+  "zh": "人名:丹尼"
+ },
+ "dare": {
+  "pos": "v.",
+  "zh": "敢"
+ },
+ "dark": {
+  "pos": "adj.",
+  "zh": "黑暗的"
+ },
+ "date": {
+  "pos": "n.",
+  "zh": "日期;約會"
+ },
+ "daughter": {
+  "pos": "n.",
+  "zh": "女兒"
+ },
+ "david": {
+  "pos": "n.",
+  "zh": "人名:大衛"
+ },
+ "day": {
+  "pos": "n.",
+  "zh": "天;白天"
+ },
+ "dead": {
+  "pos": "adj.",
+  "zh": "死的"
+ },
+ "dear": {
+  "pos": "adj.",
+  "zh": "親愛的"
+ },
+ "death": {
+  "pos": "n.",
+  "zh": "死亡"
+ },
+ "december": {
+  "pos": "n.",
+  "zh": "十二月"
+ },
+ "decide": {
+  "pos": "v.",
+  "zh": "決定"
+ },
+ "decision": {
+  "pos": "n.",
+  "zh": "決定"
+ },
+ "deep": {
+  "pos": "adj.",
+  "zh": "深的"
+ },
+ "deeply": {
+  "pos": "adv.",
+  "zh": "深深地"
+ },
+ "deer": {
+  "pos": "n.",
+  "zh": "鹿"
+ },
+ "definitely": {
+  "pos": "adv.",
+  "zh": "肯定地"
+ },
+ "degree": {
+  "pos": "n.",
+  "zh": "度;學位"
+ },
+ "delete": {
+  "pos": "v.",
+  "zh": "刪除"
+ },
+ "delicious": {
+  "pos": "adj.",
+  "zh": "美味的"
+ },
+ "deliver": {
+  "pos": "v.",
+  "zh": "遞送"
+ },
+ "dentist": {
+  "pos": "n.",
+  "zh": "牙醫"
+ },
+ "department": {
+  "pos": "n.",
+  "zh": "部門;系"
+ },
+ "depend": {
+  "pos": "v.",
+  "zh": "依靠"
+ },
+ "describe": {
+  "pos": "v.",
+  "zh": "描述"
+ },
+ "design": {
+  "pos": "v.",
+  "zh": "設計"
+ },
+ "desire": {
+  "pos": "n.",
+  "zh": "渴望"
+ },
+ "desk": {
+  "pos": "n.",
+  "zh": "書桌"
+ },
+ "despite": {
+  "pos": "prep.",
+  "zh": "儘管"
+ },
+ "dessert": {
+  "pos": "n.",
+  "zh": "甜點"
+ },
+ "destroy": {
+  "pos": "v.",
+  "zh": "摧毀"
+ },
+ "detail": {
+  "pos": "n.",
+  "zh": "細節"
+ },
+ "develop": {
+  "pos": "v.",
+  "zh": "發展"
+ },
+ "device": {
+  "pos": "n.",
+  "zh": "裝置"
+ },
+ "diary": {
+  "pos": "n.",
+  "zh": "日記"
+ },
+ "dictionary": {
+  "pos": "n.",
+  "zh": "字典"
+ },
+ "did": {
+  "pos": "v.",
+  "zh": "做(過去式)"
+ },
+ "didn't": {
+  "pos": "v.",
+  "zh": "沒有(did not)"
+ },
+ "die": {
+  "pos": "v.",
+  "zh": "死"
+ },
+ "died": {
+  "pos": "v.",
+  "zh": "死(過去式)"
+ },
+ "difference": {
+  "pos": "n.",
+  "zh": "差別"
+ },
+ "different": {
+  "pos": "adj.",
+  "zh": "不同的"
+ },
+ "difficult": {
+  "pos": "adj.",
+  "zh": "困難的"
+ },
+ "digital": {
+  "pos": "adj.",
+  "zh": "數位的"
+ },
+ "dinner": {
+  "pos": "n.",
+  "zh": "晚餐"
+ },
+ "dinosaur": {
+  "pos": "n.",
+  "zh": "恐龍"
+ },
+ "direct": {
+  "pos": "adj.",
+  "zh": "直接的;指導"
+ },
+ "direction": {
+  "pos": "n.",
+  "zh": "方向"
+ },
+ "directly": {
+  "pos": "adv.",
+  "zh": "直接地"
+ },
+ "director": {
+  "pos": "n.",
+  "zh": "導演;主管"
+ },
+ "dirty": {
+  "pos": "adj.",
+  "zh": "髒的"
+ },
+ "disagree": {
+  "pos": "v.",
+  "zh": "不同意"
+ },
+ "disappear": {
+  "pos": "v.",
+  "zh": "消失"
+ },
+ "disappoint": {
+  "pos": "v.",
+  "zh": "使失望"
+ },
+ "discover": {
+  "pos": "v.",
+  "zh": "發現"
+ },
+ "discuss": {
+  "pos": "v.",
+  "zh": "討論"
+ },
+ "discussion": {
+  "pos": "n.",
+  "zh": "討論"
+ },
+ "disease": {
+  "pos": "n.",
+  "zh": "疾病"
+ },
+ "dish": {
+  "pos": "n.",
+  "zh": "盤子;菜餚"
+ },
+ "distance": {
+  "pos": "n.",
+  "zh": "距離"
+ },
+ "divide": {
+  "pos": "v.",
+  "zh": "分開;除"
+ },
+ "do": {
+  "pos": "v.",
+  "zh": "做;(助動詞)"
+ },
+ "doctor": {
+  "pos": "n.",
+  "zh": "醫生"
+ },
+ "document": {
+  "pos": "n.",
+  "zh": "文件"
+ },
+ "does": {
+  "pos": "v.",
+  "zh": "做(第三人稱單數)"
+ },
+ "doesn't": {
+  "pos": "v.",
+  "zh": "不(does not)"
+ },
+ "dog": {
+  "pos": "n.",
+  "zh": "狗"
+ },
+ "doing": {
+  "pos": "v.",
+  "zh": "正在做"
+ },
+ "dollar": {
+  "pos": "n.",
+  "zh": "元"
+ },
+ "dolphin": {
+  "pos": "n.",
+  "zh": "海豚"
+ },
+ "don't": {
+  "pos": "v.",
+  "zh": "不(do not)"
+ },
+ "done": {
+  "pos": "v.",
+  "zh": "做(過去分詞);完成"
+ },
+ "door": {
+  "pos": "n.",
+  "zh": "門"
+ },
+ "double": {
+  "pos": "adj.",
+  "zh": "兩倍的;加倍"
+ },
+ "doubt": {
+  "pos": "v.",
+  "zh": "懷疑"
+ },
+ "down": {
+  "pos": "prep.",
+  "zh": "向下"
+ },
+ "download": {
+  "pos": "v.",
+  "zh": "下載"
+ },
+ "downstairs": {
+  "pos": "adv.",
+  "zh": "樓下"
+ },
+ "downtown": {
+  "pos": "adv.",
+  "zh": "市中心"
+ },
+ "downward": {
+  "pos": "adv.",
+  "zh": "向下"
+ },
+ "dozen": {
+  "pos": "num.",
+  "zh": "一打;十二個"
+ },
+ "dragon": {
+  "pos": "n.",
+  "zh": "龍"
+ },
+ "drama": {
+  "pos": "n.",
+  "zh": "戲劇"
+ },
+ "drank": {
+  "pos": "v.",
+  "zh": "喝(過去式)"
+ },
+ "draw": {
+  "pos": "v.",
+  "zh": "畫;拉"
+ },
+ "drawing": {
+  "pos": "n.",
+  "zh": "圖畫"
+ },
+ "drawn": {
+  "pos": "v.",
+  "zh": "畫(過去分詞)"
+ },
+ "dream": {
+  "pos": "v.",
+  "zh": "做夢;夢想"
+ },
+ "dress": {
+  "pos": "v.",
+  "zh": "穿衣;洋裝"
+ },
+ "drew": {
+  "pos": "v.",
+  "zh": "畫(過去式)"
+ },
+ "drink": {
+  "pos": "v.",
+  "zh": "喝;飲料"
+ },
+ "drive": {
+  "pos": "v.",
+  "zh": "開車;駕駛"
+ },
+ "driven": {
+  "pos": "v.",
+  "zh": "開車(過去分詞)"
+ },
+ "driver": {
+  "pos": "n.",
+  "zh": "司機"
+ },
+ "drop": {
+  "pos": "v.",
+  "zh": "掉落;水滴"
+ },
+ "drove": {
+  "pos": "v.",
+  "zh": "開車(過去式)"
+ },
+ "drugstore": {
+  "pos": "n.",
+  "zh": "藥妝店"
+ },
+ "drunk": {
+  "pos": "v.",
+  "zh": "喝(過去分詞);醉的"
+ },
+ "dry": {
+  "pos": "adj.",
+  "zh": "乾的"
+ },
+ "duck": {
+  "pos": "n.",
+  "zh": "鴨子"
+ },
+ "during": {
+  "pos": "prep.",
+  "zh": "在…期間"
+ },
+ "dust": {
+  "pos": "n.",
+  "zh": "灰塵"
+ },
+ "each": {
+  "pos": "det.",
+  "zh": "每一個"
+ },
+ "ear": {
+  "pos": "n.",
+  "zh": "耳朵"
+ },
+ "early": {
+  "pos": "adj.",
+  "zh": "早的"
+ },
+ "earth": {
+  "pos": "n.",
+  "zh": "地球;泥土"
+ },
+ "earthquake": {
+  "pos": "n.",
+  "zh": "地震"
+ },
+ "easily": {
+  "pos": "adv.",
+  "zh": "容易地"
+ },
+ "east": {
+  "pos": "n.",
+  "zh": "東方"
+ },
+ "easter": {
+  "pos": "n.",
+  "zh": "復活節"
+ },
+ "easy": {
+  "pos": "adj.",
+  "zh": "容易的"
+ },
+ "eat": {
+  "pos": "v.",
+  "zh": "吃"
+ },
+ "eaten": {
+  "pos": "v.",
+  "zh": "吃(過去分詞)"
+ },
+ "edge": {
+  "pos": "n.",
+  "zh": "邊緣"
+ },
+ "education": {
+  "pos": "n.",
+  "zh": "教育"
+ },
+ "effect": {
+  "pos": "n.",
+  "zh": "效果;影響"
+ },
+ "effort": {
+  "pos": "n.",
+  "zh": "努力"
+ },
+ "egg": {
+  "pos": "n.",
+  "zh": "蛋"
+ },
+ "egypt": {
+  "pos": "n.",
+  "zh": "埃及"
+ },
+ "eight": {
+  "pos": "num.",
+  "zh": "八"
+ },
+ "eighteen": {
+  "pos": "num.",
+  "zh": "十八"
+ },
+ "eighteenth": {
+  "pos": "num.",
+  "zh": "第十八"
+ },
+ "eighth": {
+  "pos": "num.",
+  "zh": "第八"
+ },
+ "eighty": {
+  "pos": "num.",
+  "zh": "八十"
+ },
+ "either": {
+  "pos": "det.",
+  "zh": "兩者之一;也(否定)"
+ },
+ "electric": {
+  "pos": "adj.",
+  "zh": "電的"
+ },
+ "electricity": {
+  "pos": "n.",
+  "zh": "電"
+ },
+ "elementary": {
+  "pos": "adj.",
+  "zh": "初級的;國小的"
+ },
+ "elephant": {
+  "pos": "n.",
+  "zh": "大象"
+ },
+ "elevator": {
+  "pos": "n.",
+  "zh": "電梯"
+ },
+ "eleven": {
+  "pos": "num.",
+  "zh": "十一"
+ },
+ "eleventh": {
+  "pos": "num.",
+  "zh": "第十一"
+ },
+ "ella": {
+  "pos": "n.",
+  "zh": "人名:艾拉"
+ },
+ "else": {
+  "pos": "adv.",
+  "zh": "其他"
+ },
+ "email": {
+  "pos": "n.",
+  "zh": "電子郵件"
+ },
+ "emily": {
+  "pos": "n.",
+  "zh": "人名:艾蜜莉"
+ },
+ "emma": {
+  "pos": "n.",
+  "zh": "人名:艾瑪"
+ },
+ "emotion": {
+  "pos": "n.",
+  "zh": "情緒"
+ },
+ "employee": {
+  "pos": "n.",
+  "zh": "員工"
+ },
+ "empty": {
+  "pos": "v.",
+  "zh": "倒空;空的"
+ },
+ "encourage": {
+  "pos": "v.",
+  "zh": "鼓勵"
+ },
+ "end": {
+  "pos": "v.",
+  "zh": "結束;末端"
+ },
+ "enemy": {
+  "pos": "n.",
+  "zh": "敵人"
+ },
+ "energy": {
+  "pos": "n.",
+  "zh": "能量;精力"
+ },
+ "engineer": {
+  "pos": "n.",
+  "zh": "工程師"
+ },
+ "england": {
+  "pos": "n.",
+  "zh": "英格蘭"
+ },
+ "english": {
+  "pos": "n.",
+  "zh": "英文;英國的"
+ },
+ "enjoy": {
+  "pos": "v.",
+  "zh": "享受"
+ },
+ "enough": {
+  "pos": "det.",
+  "zh": "足夠的"
+ },
+ "enter": {
+  "pos": "v.",
+  "zh": "進入"
+ },
+ "environment": {
+  "pos": "n.",
+  "zh": "環境"
+ },
+ "equal": {
+  "pos": "adj.",
+  "zh": "平等的"
+ },
+ "eraser": {
+  "pos": "n.",
+  "zh": "橡皮擦"
+ },
+ "eric": {
+  "pos": "n.",
+  "zh": "人名:艾瑞克"
+ },
+ "error": {
+  "pos": "n.",
+  "zh": "錯誤"
+ },
+ "escape": {
+  "pos": "v.",
+  "zh": "逃跑"
+ },
+ "especially": {
+  "pos": "adv.",
+  "zh": "特別是"
+ },
+ "europe": {
+  "pos": "n.",
+  "zh": "歐洲"
+ },
+ "even": {
+  "pos": "adv.",
+  "zh": "甚至;平的"
+ },
+ "evening": {
+  "pos": "n.",
+  "zh": "傍晚;晚上"
+ },
+ "event": {
+  "pos": "n.",
+  "zh": "事件;活動"
+ },
+ "ever": {
+  "pos": "adv.",
+  "zh": "曾經"
+ },
+ "every": {
+  "pos": "det.",
+  "zh": "每一"
+ },
+ "everybody": {
+  "pos": "pron.",
+  "zh": "每個人"
+ },
+ "everyone": {
+  "pos": "pron.",
+  "zh": "每個人"
+ },
+ "everything": {
+  "pos": "pron.",
+  "zh": "每件事"
+ },
+ "everywhere": {
+  "pos": "adv.",
+  "zh": "到處"
+ },
+ "exactly": {
+  "pos": "adv.",
+  "zh": "正好;確切地"
+ },
+ "exam": {
+  "pos": "n.",
+  "zh": "考試"
+ },
+ "example": {
+  "pos": "n.",
+  "zh": "例子"
+ },
+ "excellent": {
+  "pos": "adj.",
+  "zh": "優秀的"
+ },
+ "except": {
+  "pos": "prep.",
+  "zh": "除了"
+ },
+ "exchange": {
+  "pos": "v.",
+  "zh": "交換"
+ },
+ "excited": {
+  "pos": "adj.",
+  "zh": "興奮的"
+ },
+ "exciting": {
+  "pos": "adj.",
+  "zh": "令人興奮的"
+ },
+ "excuse": {
+  "pos": "n.",
+  "zh": "藉口;原諒"
+ },
+ "exercise": {
+  "pos": "v.",
+  "zh": "運動;練習"
+ },
+ "exist": {
+  "pos": "v.",
+  "zh": "存在"
+ },
+ "exit": {
+  "pos": "v.",
+  "zh": "出口;離開"
+ },
+ "expect": {
+  "pos": "v.",
+  "zh": "期待;預期"
+ },
+ "expensive": {
+  "pos": "adj.",
+  "zh": "昂貴的"
+ },
+ "experience": {
+  "pos": "n.",
+  "zh": "經驗"
+ },
+ "experiment": {
+  "pos": "n.",
+  "zh": "實驗"
+ },
+ "explain": {
+  "pos": "v.",
+  "zh": "解釋"
+ },
+ "explore": {
+  "pos": "v.",
+  "zh": "探索"
+ },
+ "express": {
+  "pos": "v.",
+  "zh": "表達;快速的"
+ },
+ "expression": {
+  "pos": "n.",
+  "zh": "表達;表情"
+ },
+ "extra": {
+  "pos": "adj.",
+  "zh": "額外的"
+ },
+ "eye": {
+  "pos": "n.",
+  "zh": "眼睛"
+ },
+ "face": {
+  "pos": "n.",
+  "zh": "臉;面對"
+ },
+ "fact": {
+  "pos": "n.",
+  "zh": "事實"
+ },
+ "factory": {
+  "pos": "n.",
+  "zh": "工廠"
+ },
+ "fail": {
+  "pos": "v.",
+  "zh": "失敗;不及格"
+ },
+ "failure": {
+  "pos": "n.",
+  "zh": "失敗"
+ },
+ "fair": {
+  "pos": "adj.",
+  "zh": "公平的;市集"
+ },
+ "fake": {
+  "pos": "adj.",
+  "zh": "假的"
+ },
+ "fall": {
+  "pos": "n.",
+  "zh": "秋天;跌倒"
+ },
+ "fallen": {
+  "pos": "v.",
+  "zh": "跌倒(過去分詞)"
+ },
+ "false": {
+  "pos": "adj.",
+  "zh": "錯的;假的"
+ },
+ "familiar": {
+  "pos": "adj.",
+  "zh": "熟悉的"
+ },
+ "family": {
+  "pos": "n.",
+  "zh": "家庭"
+ },
+ "famous": {
+  "pos": "adj.",
+  "zh": "有名的"
+ },
+ "fan": {
+  "pos": "n.",
+  "zh": "風扇;粉絲"
+ },
+ "fancy": {
+  "pos": "adj.",
+  "zh": "花俏的"
+ },
+ "fantastic": {
+  "pos": "adj.",
+  "zh": "太棒的"
+ },
+ "far": {
+  "pos": "adj.",
+  "zh": "遠的"
+ },
+ "farm": {
+  "pos": "n.",
+  "zh": "農場"
+ },
+ "farmer": {
+  "pos": "n.",
+  "zh": "農夫"
+ },
+ "fashion": {
+  "pos": "n.",
+  "zh": "時尚"
+ },
+ "fast": {
+  "pos": "adj.",
+  "zh": "快的"
+ },
+ "fat": {
+  "pos": "adj.",
+  "zh": "胖的;脂肪"
+ },
+ "father": {
+  "pos": "n.",
+  "zh": "父親"
+ },
+ "favorite": {
+  "pos": "adj.",
+  "zh": "最喜歡的"
+ },
+ "favourite": {
+  "pos": "adj.",
+  "zh": "最喜歡的"
+ },
+ "fear": {
+  "pos": "v.",
+  "zh": "害怕;恐懼"
+ },
+ "february": {
+  "pos": "n.",
+  "zh": "二月"
+ },
+ "fed": {
+  "pos": "v.",
+  "zh": "餵(過去式;過去分詞)"
+ },
+ "feed": {
+  "pos": "v.",
+  "zh": "餵"
+ },
+ "feel": {
+  "pos": "v.",
+  "zh": "感覺"
+ },
+ "feeling": {
+  "pos": "n.",
+  "zh": "感覺"
+ },
+ "feet": {
+  "pos": "n.",
+  "zh": "腳(複數)"
+ },
+ "fell": {
+  "pos": "v.",
+  "zh": "跌倒(過去式)"
+ },
+ "felt": {
+  "pos": "v.",
+  "zh": "感覺(過去式;過去分詞)"
+ },
+ "female": {
+  "pos": "adj.",
+  "zh": "女性的"
+ },
+ "festival": {
+  "pos": "n.",
+  "zh": "節慶"
+ },
+ "fever": {
+  "pos": "n.",
+  "zh": "發燒"
+ },
+ "few": {
+  "pos": "det.",
+  "zh": "很少(可數)"
+ },
+ "fewer": {
+  "pos": "det.",
+  "zh": "較少(可數)"
+ },
+ "field": {
+  "pos": "n.",
+  "zh": "田野;領域"
+ },
+ "fifteen": {
+  "pos": "num.",
+  "zh": "十五"
+ },
+ "fifteenth": {
+  "pos": "num.",
+  "zh": "第十五"
+ },
+ "fifth": {
+  "pos": "num.",
+  "zh": "第五"
+ },
+ "fiftieth": {
+  "pos": "num.",
+  "zh": "第五十"
+ },
+ "fifty": {
+  "pos": "num.",
+  "zh": "五十"
+ },
+ "fight": {
+  "pos": "v.",
+  "zh": "打架;戰鬥"
+ },
+ "file": {
+  "pos": "n.",
+  "zh": "檔案;銼刀"
+ },
+ "fill": {
+  "pos": "v.",
+  "zh": "裝滿"
+ },
+ "film": {
+  "pos": "n.",
+  "zh": "電影;底片"
+ },
+ "final": {
+  "pos": "adj.",
+  "zh": "最後的"
+ },
+ "finally": {
+  "pos": "adv.",
+  "zh": "最後"
+ },
+ "find": {
+  "pos": "v.",
+  "zh": "找到"
+ },
+ "fine": {
+  "pos": "adj.",
+  "zh": "很好的;罰款"
+ },
+ "finger": {
+  "pos": "n.",
+  "zh": "手指"
+ },
+ "finish": {
+  "pos": "v.",
+  "zh": "完成;結束"
+ },
+ "fire": {
+  "pos": "n.",
+  "zh": "火;解僱"
+ },
+ "firefighter": {
+  "pos": "n.",
+  "zh": "消防員"
+ },
+ "first": {
+  "pos": "num.",
+  "zh": "第一;首先"
+ },
+ "fish": {
+  "pos": "v.",
+  "zh": "釣魚;魚"
+ },
+ "fisherman": {
+  "pos": "n.",
+  "zh": "漁夫"
+ },
+ "fit": {
+  "pos": "v.",
+  "zh": "合身;適合"
+ },
+ "five": {
+  "pos": "num.",
+  "zh": "五"
+ },
+ "fix": {
+  "pos": "v.",
+  "zh": "修理;固定"
+ },
+ "flag": {
+  "pos": "n.",
+  "zh": "旗子"
+ },
+ "flashlight": {
+  "pos": "n.",
+  "zh": "手電筒"
+ },
+ "flat": {
+  "pos": "adj.",
+  "zh": "平的;公寓"
+ },
+ "flavor": {
+  "pos": "n.",
+  "zh": "口味"
+ },
+ "flew": {
+  "pos": "v.",
+  "zh": "飛(過去式)"
+ },
+ "flight": {
+  "pos": "n.",
+  "zh": "班機;飛行"
+ },
+ "flood": {
+  "pos": "n.",
+  "zh": "洪水"
+ },
+ "floor": {
+  "pos": "n.",
+  "zh": "地板;樓層"
+ },
+ "flower": {
+  "pos": "n.",
+  "zh": "花"
+ },
+ "flown": {
+  "pos": "v.",
+  "zh": "飛(過去分詞)"
+ },
+ "fly": {
+  "pos": "v.",
+  "zh": "飛;蒼蠅"
+ },
+ "focus": {
+  "pos": "v.",
+  "zh": "專注;焦點"
+ },
+ "fog": {
+  "pos": "n.",
+  "zh": "霧"
+ },
+ "foggy": {
+  "pos": "adj.",
+  "zh": "有霧的"
+ },
+ "follow": {
+  "pos": "v.",
+  "zh": "跟隨"
+ },
+ "food": {
+  "pos": "n.",
+  "zh": "食物"
+ },
+ "foolish": {
+  "pos": "adj.",
+  "zh": "愚笨的"
+ },
+ "foot": {
+  "pos": "n.",
+  "zh": "腳;英尺"
+ },
+ "football": {
+  "pos": "n.",
+  "zh": "美式足球"
+ },
+ "for": {
+  "pos": "prep.",
+  "zh": "為了;給;持續"
+ },
+ "foreign": {
+  "pos": "adj.",
+  "zh": "外國的"
+ },
+ "foreigner": {
+  "pos": "n.",
+  "zh": "外國人"
+ },
+ "forest": {
+  "pos": "n.",
+  "zh": "森林"
+ },
+ "forever": {
+  "pos": "adv.",
+  "zh": "永遠"
+ },
+ "forget": {
+  "pos": "v.",
+  "zh": "忘記"
+ },
+ "forgive": {
+  "pos": "v.",
+  "zh": "原諒"
+ },
+ "forgot": {
+  "pos": "v.",
+  "zh": "忘記(過去式)"
+ },
+ "forgotten": {
+  "pos": "v.",
+  "zh": "忘記(過去分詞)"
+ },
+ "fork": {
+  "pos": "n.",
+  "zh": "叉子"
+ },
+ "form": {
+  "pos": "n.",
+  "zh": "表格;形式"
+ },
+ "fortieth": {
+  "pos": "num.",
+  "zh": "第四十"
+ },
+ "fortune": {
+  "pos": "n.",
+  "zh": "財富;運氣"
+ },
+ "forty": {
+  "pos": "num.",
+  "zh": "四十"
+ },
+ "forward": {
+  "pos": "adv.",
+  "zh": "向前"
+ },
+ "fought": {
+  "pos": "v.",
+  "zh": "打架(過去式;過去分詞)"
+ },
+ "found": {
+  "pos": "v.",
+  "zh": "找到(過去式);建立"
+ },
+ "four": {
+  "pos": "num.",
+  "zh": "四"
+ },
+ "fourteen": {
+  "pos": "num.",
+  "zh": "十四"
+ },
+ "fourteenth": {
+  "pos": "num.",
+  "zh": "第十四"
+ },
+ "fourth": {
+  "pos": "num.",
+  "zh": "第四"
+ },
+ "fox": {
+  "pos": "n.",
+  "zh": "狐狸"
+ },
+ "france": {
+  "pos": "n.",
+  "zh": "法國"
+ },
+ "frank": {
+  "pos": "n.",
+  "zh": "人名:法蘭克"
+ },
+ "free": {
+  "pos": "adj.",
+  "zh": "自由的;免費的"
+ },
+ "freedom": {
+  "pos": "n.",
+  "zh": "自由"
+ },
+ "freeze": {
+  "pos": "v.",
+  "zh": "結冰;凍住"
+ },
+ "freezing": {
+  "pos": "adj.",
+  "zh": "冰凍的"
+ },
+ "french": {
+  "pos": "adj.",
+  "zh": "法國的;法語"
+ },
+ "fresh": {
+  "pos": "adj.",
+  "zh": "新鮮的"
+ },
+ "friday": {
+  "pos": "n.",
+  "zh": "星期五"
+ },
+ "fridge": {
+  "pos": "n.",
+  "zh": "冰箱"
+ },
+ "friend": {
+  "pos": "n.",
+  "zh": "朋友"
+ },
+ "friendly": {
+  "pos": "adj.",
+  "zh": "友善的"
+ },
+ "friends": {
+  "pos": "n.",
+  "zh": "朋友(複數)"
+ },
+ "frighten": {
+  "pos": "v.",
+  "zh": "使害怕"
+ },
+ "frog": {
+  "pos": "n.",
+  "zh": "青蛙"
+ },
+ "from": {
+  "pos": "prep.",
+  "zh": "從"
+ },
+ "front": {
+  "pos": "n.",
+  "zh": "前面"
+ },
+ "froze": {
+  "pos": "v.",
+  "zh": "結冰(過去式)"
+ },
+ "frozen": {
+  "pos": "adj.",
+  "zh": "結冰的"
+ },
+ "fruit": {
+  "pos": "n.",
+  "zh": "水果"
+ },
+ "fry": {
+  "pos": "v.",
+  "zh": "油炸"
+ },
+ "full": {
+  "pos": "adj.",
+  "zh": "飽的;滿的"
+ },
+ "fun": {
+  "pos": "n.",
+  "zh": "樂趣;好玩的"
+ },
+ "funny": {
+  "pos": "adj.",
+  "zh": "好笑的"
+ },
+ "furniture": {
+  "pos": "n.",
+  "zh": "家具"
+ },
+ "furthermore": {
+  "pos": "adv.",
+  "zh": "此外"
+ },
+ "future": {
+  "pos": "n.",
+  "zh": "未來"
+ },
+ "gain": {
+  "pos": "v.",
+  "zh": "獲得;增加"
+ },
+ "game": {
+  "pos": "n.",
+  "zh": "遊戲;比賽"
+ },
+ "garbage": {
+  "pos": "n.",
+  "zh": "垃圾"
+ },
+ "garden": {
+  "pos": "n.",
+  "zh": "花園"
+ },
+ "gas": {
+  "pos": "n.",
+  "zh": "瓦斯;汽油"
+ },
+ "gate": {
+  "pos": "n.",
+  "zh": "大門"
+ },
+ "gather": {
+  "pos": "v.",
+  "zh": "聚集"
+ },
+ "gave": {
+  "pos": "v.",
+  "zh": "給(過去式)"
+ },
+ "generally": {
+  "pos": "adv.",
+  "zh": "一般而言"
+ },
+ "gentle": {
+  "pos": "adj.",
+  "zh": "溫和的"
+ },
+ "gentleman": {
+  "pos": "n.",
+  "zh": "紳士"
+ },
+ "geography": {
+  "pos": "n.",
+  "zh": "地理"
+ },
+ "george": {
+  "pos": "n.",
+  "zh": "人名:喬治"
+ },
+ "german": {
+  "pos": "adj.",
+  "zh": "德國的;德語"
+ },
+ "germany": {
+  "pos": "n.",
+  "zh": "德國"
+ },
+ "get": {
+  "pos": "v.",
+  "zh": "得到;變得"
+ },
+ "giant": {
+  "pos": "adj.",
+  "zh": "巨大的;巨人"
+ },
+ "gift": {
+  "pos": "n.",
+  "zh": "禮物"
+ },
+ "giraffe": {
+  "pos": "n.",
+  "zh": "長頸鹿"
+ },
+ "girl": {
+  "pos": "n.",
+  "zh": "女孩"
+ },
+ "give": {
+  "pos": "v.",
+  "zh": "給"
+ },
+ "given": {
+  "pos": "v.",
+  "zh": "給(過去分詞)"
+ },
+ "glad": {
+  "pos": "adj.",
+  "zh": "高興的"
+ },
+ "glass": {
+  "pos": "n.",
+  "zh": "玻璃;玻璃杯"
+ },
+ "glasses": {
+  "pos": "n.",
+  "zh": "眼鏡"
+ },
+ "glove": {
+  "pos": "n.",
+  "zh": "手套"
+ },
+ "glue": {
+  "pos": "n.",
+  "zh": "膠水"
+ },
+ "go": {
+  "pos": "v.",
+  "zh": "去"
+ },
+ "goal": {
+  "pos": "n.",
+  "zh": "目標;進球"
+ },
+ "goat": {
+  "pos": "n.",
+  "zh": "山羊"
+ },
+ "god": {
+  "pos": "n.",
+  "zh": "神;上帝"
+ },
+ "goes": {
+  "pos": "v.",
+  "zh": "去(第三人稱單數)"
+ },
+ "going": {
+  "pos": "v.",
+  "zh": "正在去;將要"
+ },
+ "golden": {
+  "pos": "adj.",
+  "zh": "金色的"
+ },
+ "golf": {
+  "pos": "n.",
+  "zh": "高爾夫"
+ },
+ "gone": {
+  "pos": "v.",
+  "zh": "去(過去分詞)"
+ },
+ "good": {
+  "pos": "adj.",
+  "zh": "好的"
+ },
+ "goodbye": {
+  "pos": "int.",
+  "zh": "再見"
+ },
+ "goose": {
+  "pos": "n.",
+  "zh": "鵝"
+ },
+ "got": {
+  "pos": "v.",
+  "zh": "得到(過去式)"
+ },
+ "gotten": {
+  "pos": "v.",
+  "zh": "得到(過去分詞)"
+ },
+ "government": {
+  "pos": "n.",
+  "zh": "政府"
+ },
+ "grace": {
+  "pos": "n.",
+  "zh": "人名:葛瑞絲;優雅"
+ },
+ "grade": {
+  "pos": "n.",
+  "zh": "年級;成績"
+ },
+ "graduate": {
+  "pos": "v.",
+  "zh": "畢業"
+ },
+ "grammar": {
+  "pos": "n.",
+  "zh": "文法"
+ },
+ "grandfather": {
+  "pos": "n.",
+  "zh": "祖父"
+ },
+ "grandma": {
+  "pos": "n.",
+  "zh": "奶奶"
+ },
+ "grandmother": {
+  "pos": "n.",
+  "zh": "祖母"
+ },
+ "grandpa": {
+  "pos": "n.",
+  "zh": "爺爺"
+ },
+ "grape": {
+  "pos": "n.",
+  "zh": "葡萄"
+ },
+ "grass": {
+  "pos": "n.",
+  "zh": "草"
+ },
+ "gray": {
+  "pos": "adj.",
+  "zh": "灰色的"
+ },
+ "great": {
+  "pos": "adj.",
+  "zh": "很棒的;偉大的"
+ },
+ "green": {
+  "pos": "adj.",
+  "zh": "綠色的"
+ },
+ "greet": {
+  "pos": "v.",
+  "zh": "問候"
+ },
+ "greeting": {
+  "pos": "n.",
+  "zh": "問候語"
+ },
+ "grew": {
+  "pos": "v.",
+  "zh": "生長(過去式)"
+ },
+ "grey": {
+  "pos": "adj.",
+  "zh": "灰色的"
+ },
+ "ground": {
+  "pos": "n.",
+  "zh": "地面"
+ },
+ "group": {
+  "pos": "n.",
+  "zh": "團體"
+ },
+ "grow": {
+  "pos": "v.",
+  "zh": "生長;種植"
+ },
+ "grown": {
+  "pos": "v.",
+  "zh": "生長(過去分詞)"
+ },
+ "guard": {
+  "pos": "v.",
+  "zh": "守衛"
+ },
+ "guess": {
+  "pos": "v.",
+  "zh": "猜"
+ },
+ "guest": {
+  "pos": "n.",
+  "zh": "客人"
+ },
+ "guide": {
+  "pos": "n.",
+  "zh": "導遊;指引"
+ },
+ "guitar": {
+  "pos": "n.",
+  "zh": "吉他"
+ },
+ "gun": {
+  "pos": "n.",
+  "zh": "槍"
+ },
+ "guy": {
+  "pos": "n.",
+  "zh": "傢伙"
+ },
+ "gym": {
+  "pos": "n.",
+  "zh": "體育館;健身房"
+ },
+ "habit": {
+  "pos": "n.",
+  "zh": "習慣"
+ },
+ "had": {
+  "pos": "v.",
+  "zh": "有(過去式;過去分詞)"
+ },
+ "hadn't": {
+  "pos": "v.",
+  "zh": "沒有(had not)"
+ },
+ "hair": {
+  "pos": "n.",
+  "zh": "頭髮"
+ },
+ "half": {
+  "pos": "n.",
+  "zh": "一半"
+ },
+ "halloween": {
+  "pos": "n.",
+  "zh": "萬聖節"
+ },
+ "hamburger": {
+  "pos": "n.",
+  "zh": "漢堡"
+ },
+ "hand": {
+  "pos": "n.",
+  "zh": "手"
+ },
+ "handle": {
+  "pos": "v.",
+  "zh": "把手;處理"
+ },
+ "handsome": {
+  "pos": "adj.",
+  "zh": "英俊的"
+ },
+ "hang": {
+  "pos": "v.",
+  "zh": "掛;懸"
+ },
+ "happen": {
+  "pos": "v.",
+  "zh": "發生"
+ },
+ "happily": {
+  "pos": "adv.",
+  "zh": "快樂地"
+ },
+ "happy": {
+  "pos": "adj.",
+  "zh": "快樂的"
+ },
+ "hard": {
+  "pos": "adj.",
+  "zh": "困難的;硬的"
+ },
+ "hardly": {
+  "pos": "adv.",
+  "zh": "幾乎不"
+ },
+ "hardworking": {
+  "pos": "adj.",
+  "zh": "勤勞的"
+ },
+ "has": {
+  "pos": "v.",
+  "zh": "有(第三人稱單數)"
+ },
+ "hasn't": {
+  "pos": "v.",
+  "zh": "沒有(has not)"
+ },
+ "hat": {
+  "pos": "n.",
+  "zh": "帽子"
+ },
+ "hate": {
+  "pos": "v.",
+  "zh": "討厭"
+ },
+ "have": {
+  "pos": "v.",
+  "zh": "有;吃;喝"
+ },
+ "haven't": {
+  "pos": "v.",
+  "zh": "沒有(have not)"
+ },
+ "having": {
+  "pos": "v.",
+  "zh": "有(現在分詞)"
+ },
+ "hawaii": {
+  "pos": "n.",
+  "zh": "夏威夷"
+ },
+ "he": {
+  "pos": "pron.",
+  "zh": "他"
+ },
+ "he'd": {
+  "pos": "pron.",
+  "zh": "他會(he would/had)"
+ },
+ "he'll": {
+  "pos": "pron.",
+  "zh": "他將(he will)"
+ },
+ "he's": {
+  "pos": "pron.",
+  "zh": "他是;他有"
+ },
+ "head": {
+  "pos": "n.",
+  "zh": "頭;領導"
+ },
+ "headache": {
+  "pos": "n.",
+  "zh": "頭痛"
+ },
+ "headline": {
+  "pos": "n.",
+  "zh": "頭條"
+ },
+ "health": {
+  "pos": "n.",
+  "zh": "健康"
+ },
+ "healthy": {
+  "pos": "adj.",
+  "zh": "健康的"
+ },
+ "hear": {
+  "pos": "v.",
+  "zh": "聽見"
+ },
+ "heard": {
+  "pos": "v.",
+  "zh": "聽見(過去式;過去分詞)"
+ },
+ "heart": {
+  "pos": "n.",
+  "zh": "心臟;內心"
+ },
+ "heat": {
+  "pos": "n.",
+  "zh": "熱;加熱"
+ },
+ "heavy": {
+  "pos": "adj.",
+  "zh": "重的"
+ },
+ "height": {
+  "pos": "n.",
+  "zh": "高度"
+ },
+ "held": {
+  "pos": "v.",
+  "zh": "握住(過去式;過去分詞)"
+ },
+ "helen": {
+  "pos": "n.",
+  "zh": "人名:海倫"
+ },
+ "hello": {
+  "pos": "int.",
+  "zh": "你好"
+ },
+ "help": {
+  "pos": "v.",
+  "zh": "幫助"
+ },
+ "helpful": {
+  "pos": "adj.",
+  "zh": "有幫助的"
+ },
+ "henry": {
+  "pos": "n.",
+  "zh": "人名:亨利"
+ },
+ "her": {
+  "pos": "pron.",
+  "zh": "她(受格);她的"
+ },
+ "here": {
+  "pos": "adv.",
+  "zh": "這裡"
+ },
+ "here's": {
+  "pos": "pron.",
+  "zh": "這是(here is)"
+ },
+ "hero": {
+  "pos": "n.",
+  "zh": "英雄"
+ },
+ "hers": {
+  "pos": "pron.",
+  "zh": "她的(所有格代名詞)"
+ },
+ "herself": {
+  "pos": "pron.",
+  "zh": "她自己"
+ },
+ "hey": {
+  "pos": "int.",
+  "zh": "嘿"
+ },
+ "hi": {
+  "pos": "int.",
+  "zh": "嗨"
+ },
+ "hid": {
+  "pos": "v.",
+  "zh": "躲藏(過去式)"
+ },
+ "hidden": {
+  "pos": "adj.",
+  "zh": "隱藏的"
+ },
+ "hide": {
+  "pos": "v.",
+  "zh": "躲藏;隱藏"
+ },
+ "high": {
+  "pos": "adj.",
+  "zh": "高的"
+ },
+ "highly": {
+  "pos": "adv.",
+  "zh": "高度地"
+ },
+ "hike": {
+  "pos": "v.",
+  "zh": "健行"
+ },
+ "hill": {
+  "pos": "n.",
+  "zh": "小山"
+ },
+ "him": {
+  "pos": "pron.",
+  "zh": "他(受格)"
+ },
+ "himself": {
+  "pos": "pron.",
+  "zh": "他自己"
+ },
+ "his": {
+  "pos": "det.",
+  "zh": "他的"
+ },
+ "history": {
+  "pos": "n.",
+  "zh": "歷史"
+ },
+ "hit": {
+  "pos": "v.",
+  "zh": "打;撞"
+ },
+ "hmm": {
+  "pos": "int.",
+  "zh": "嗯"
+ },
+ "hobby": {
+  "pos": "n.",
+  "zh": "嗜好"
+ },
+ "hold": {
+  "pos": "v.",
+  "zh": "握住;舉行"
+ },
+ "hole": {
+  "pos": "n.",
+  "zh": "洞"
+ },
+ "holiday": {
+  "pos": "n.",
+  "zh": "假日"
+ },
+ "home": {
+  "pos": "n.",
+  "zh": "家"
+ },
+ "homework": {
+  "pos": "n.",
+  "zh": "回家作業"
+ },
+ "honest": {
+  "pos": "adj.",
+  "zh": "誠實的"
+ },
+ "honey": {
+  "pos": "n.",
+  "zh": "蜂蜜;親愛的"
+ },
+ "hongkong": {
+  "pos": "n.",
+  "zh": "香港"
+ },
+ "honor": {
+  "pos": "n.",
+  "zh": "榮譽"
+ },
+ "hooray": {
+  "pos": "int.",
+  "zh": "萬歲"
+ },
+ "hop": {
+  "pos": "v.",
+  "zh": "單腳跳"
+ },
+ "hope": {
+  "pos": "v.",
+  "zh": "希望"
+ },
+ "horrible": {
+  "pos": "adj.",
+  "zh": "可怕的"
+ },
+ "horse": {
+  "pos": "n.",
+  "zh": "馬"
+ },
+ "hospital": {
+  "pos": "n.",
+  "zh": "醫院"
+ },
+ "hot": {
+  "pos": "adj.",
+  "zh": "熱的;辣的"
+ },
+ "hotel": {
+  "pos": "n.",
+  "zh": "飯店"
+ },
+ "hour": {
+  "pos": "n.",
+  "zh": "小時"
+ },
+ "house": {
+  "pos": "n.",
+  "zh": "房子"
+ },
+ "how": {
+  "pos": "adv.",
+  "zh": "如何;多麼"
+ },
+ "how's": {
+  "pos": "pron.",
+  "zh": "如何(how is)"
+ },
+ "however": {
+  "pos": "adv.",
+  "zh": "然而;無論如何"
+ },
+ "hsinchu": {
+  "pos": "n.",
+  "zh": "新竹"
+ },
+ "hualien": {
+  "pos": "n.",
+  "zh": "花蓮"
+ },
+ "hug": {
+  "pos": "v.",
+  "zh": "擁抱"
+ },
+ "huge": {
+  "pos": "adj.",
+  "zh": "巨大的"
+ },
+ "human": {
+  "pos": "adj.",
+  "zh": "人類的"
+ },
+ "humor": {
+  "pos": "n.",
+  "zh": "幽默"
+ },
+ "hundred": {
+  "pos": "num.",
+  "zh": "百"
+ },
+ "hundredth": {
+  "pos": "num.",
+  "zh": "第一百"
+ },
+ "hung": {
+  "pos": "v.",
+  "zh": "掛(過去式;過去分詞)"
+ },
+ "hungry": {
+  "pos": "adj.",
+  "zh": "飢餓的"
+ },
+ "hunt": {
+  "pos": "v.",
+  "zh": "打獵"
+ },
+ "hunter": {
+  "pos": "n.",
+  "zh": "獵人"
+ },
+ "hurry": {
+  "pos": "v.",
+  "zh": "趕快"
+ },
+ "hurt": {
+  "pos": "v.",
+  "zh": "受傷;弄痛"
+ },
+ "husband": {
+  "pos": "n.",
+  "zh": "丈夫"
+ },
+ "i": {
+  "pos": "pron.",
+  "zh": "我"
+ },
+ "i'd": {
+  "pos": "pron.",
+  "zh": "我會;我曾(I would/had)"
+ },
+ "i'll": {
+  "pos": "pron.",
+  "zh": "我將(I will)"
+ },
+ "i'm": {
+  "pos": "pron.",
+  "zh": "我是(I am)"
+ },
+ "i've": {
+  "pos": "pron.",
+  "zh": "我有(I have)"
+ },
+ "ice": {
+  "pos": "n.",
+  "zh": "冰"
+ },
+ "idea": {
+  "pos": "n.",
+  "zh": "點子;想法"
+ },
+ "if": {
+  "pos": "conj.",
+  "zh": "如果;是否"
+ },
+ "ignore": {
+  "pos": "v.",
+  "zh": "忽視"
+ },
+ "ill": {
+  "pos": "adj.",
+  "zh": "生病的"
+ },
+ "illness": {
+  "pos": "n.",
+  "zh": "疾病"
+ },
+ "imagine": {
+  "pos": "v.",
+  "zh": "想像"
+ },
+ "immediately": {
+  "pos": "adv.",
+  "zh": "立刻"
+ },
+ "important": {
+  "pos": "adj.",
+  "zh": "重要的"
+ },
+ "impossible": {
+  "pos": "adj.",
+  "zh": "不可能的"
+ },
+ "improve": {
+  "pos": "v.",
+  "zh": "改善"
+ },
+ "in": {
+  "pos": "prep.",
+  "zh": "在…裡面"
+ },
+ "include": {
+  "pos": "v.",
+  "zh": "包含"
+ },
+ "including": {
+  "pos": "prep.",
+  "zh": "包括"
+ },
+ "increase": {
+  "pos": "v.",
+  "zh": "增加"
+ },
+ "indeed": {
+  "pos": "adv.",
+  "zh": "的確"
+ },
+ "india": {
+  "pos": "n.",
+  "zh": "印度"
+ },
+ "indian": {
+  "pos": "adj.",
+  "zh": "印度的;印第安的"
+ },
+ "indonesia": {
+  "pos": "n.",
+  "zh": "印尼"
+ },
+ "indoors": {
+  "pos": "adv.",
+  "zh": "室內"
+ },
+ "influence": {
+  "pos": "v.",
+  "zh": "影響"
+ },
+ "information": {
+  "pos": "n.",
+  "zh": "資訊"
+ },
+ "insect": {
+  "pos": "n.",
+  "zh": "昆蟲"
+ },
+ "inside": {
+  "pos": "prep.",
+  "zh": "在…內部"
+ },
+ "instead": {
+  "pos": "adv.",
+  "zh": "代替;反而"
+ },
+ "instrument": {
+  "pos": "n.",
+  "zh": "樂器;儀器"
+ },
+ "intelligent": {
+  "pos": "adj.",
+  "zh": "聰明的"
+ },
+ "interest": {
+  "pos": "n.",
+  "zh": "興趣;利息"
+ },
+ "interested": {
+  "pos": "adj.",
+  "zh": "感興趣的"
+ },
+ "interesting": {
+  "pos": "adj.",
+  "zh": "有趣的"
+ },
+ "international": {
+  "pos": "adj.",
+  "zh": "國際的"
+ },
+ "internet": {
+  "pos": "n.",
+  "zh": "網際網路"
+ },
+ "interview": {
+  "pos": "n.",
+  "zh": "面試;訪問"
+ },
+ "into": {
+  "pos": "prep.",
+  "zh": "進入"
+ },
+ "introduce": {
+  "pos": "v.",
+  "zh": "介紹"
+ },
+ "invent": {
+  "pos": "v.",
+  "zh": "發明"
+ },
+ "invitation": {
+  "pos": "n.",
+  "zh": "邀請函"
+ },
+ "invite": {
+  "pos": "v.",
+  "zh": "邀請"
+ },
+ "inward": {
+  "pos": "adv.",
+  "zh": "向內"
+ },
+ "iron": {
+  "pos": "n.",
+  "zh": "鐵;熨斗"
+ },
+ "is": {
+  "pos": "v.",
+  "zh": "是(第三人稱現在式)"
+ },
+ "island": {
+  "pos": "n.",
+  "zh": "島"
+ },
+ "isn't": {
+  "pos": "v.",
+  "zh": "不是(is not)"
+ },
+ "it": {
+  "pos": "pron.",
+  "zh": "它"
+ },
+ "it'll": {
+  "pos": "pron.",
+  "zh": "它將(it will)"
+ },
+ "it's": {
+  "pos": "pron.",
+  "zh": "它是(it is)"
+ },
+ "italian": {
+  "pos": "adj.",
+  "zh": "義大利的"
+ },
+ "italy": {
+  "pos": "n.",
+  "zh": "義大利"
+ },
+ "item": {
+  "pos": "n.",
+  "zh": "項目"
+ },
+ "its": {
+  "pos": "det.",
+  "zh": "它的"
+ },
+ "itself": {
+  "pos": "pron.",
+  "zh": "它自己"
+ },
+ "jack": {
+  "pos": "n.",
+  "zh": "人名:傑克"
+ },
+ "jacket": {
+  "pos": "n.",
+  "zh": "夾克"
+ },
+ "james": {
+  "pos": "n.",
+  "zh": "人名:詹姆士"
+ },
+ "jane": {
+  "pos": "n.",
+  "zh": "人名:珍"
+ },
+ "january": {
+  "pos": "n.",
+  "zh": "一月"
+ },
+ "japan": {
+  "pos": "n.",
+  "zh": "日本"
+ },
+ "japanese": {
+  "pos": "adj.",
+  "zh": "日本的;日語"
+ },
+ "jason": {
+  "pos": "n.",
+  "zh": "人名:傑森"
+ },
+ "jeans": {
+  "pos": "n.",
+  "zh": "牛仔褲"
+ },
+ "jenny": {
+  "pos": "n.",
+  "zh": "人名:珍妮"
+ },
+ "jimmy": {
+  "pos": "n.",
+  "zh": "人名:吉米"
+ },
+ "job": {
+  "pos": "n.",
+  "zh": "工作"
+ },
+ "joe": {
+  "pos": "n.",
+  "zh": "人名:喬"
+ },
+ "jogging": {
+  "pos": "n.",
+  "zh": "慢跑"
+ },
+ "john": {
+  "pos": "n.",
+  "zh": "人名:約翰"
+ },
+ "johnny": {
+  "pos": "n.",
+  "zh": "人名:強尼"
+ },
+ "join": {
+  "pos": "v.",
+  "zh": "加入"
+ },
+ "joke": {
+  "pos": "n.",
+  "zh": "笑話"
+ },
+ "journey": {
+  "pos": "n.",
+  "zh": "旅程"
+ },
+ "joy": {
+  "pos": "n.",
+  "zh": "喜悅"
+ },
+ "judy": {
+  "pos": "n.",
+  "zh": "人名:茱蒂"
+ },
+ "juice": {
+  "pos": "n.",
+  "zh": "果汁"
+ },
+ "july": {
+  "pos": "n.",
+  "zh": "七月"
+ },
+ "jump": {
+  "pos": "v.",
+  "zh": "跳"
+ },
+ "june": {
+  "pos": "n.",
+  "zh": "六月"
+ },
+ "junior": {
+  "pos": "adj.",
+  "zh": "國中的;較年少的"
+ },
+ "just": {
+  "pos": "adv.",
+  "zh": "剛剛;只是"
+ },
+ "kangaroo": {
+  "pos": "n.",
+  "zh": "袋鼠"
+ },
+ "kaohsiung": {
+  "pos": "n.",
+  "zh": "高雄"
+ },
+ "kate": {
+  "pos": "n.",
+  "zh": "人名:凱特"
+ },
+ "keelung": {
+  "pos": "n.",
+  "zh": "基隆"
+ },
+ "keep": {
+  "pos": "v.",
+  "zh": "保持;保存"
+ },
+ "ken": {
+  "pos": "n.",
+  "zh": "人名:肯"
+ },
+ "kenting": {
+  "pos": "n.",
+  "zh": "墾丁"
+ },
+ "kept": {
+  "pos": "v.",
+  "zh": "保持(過去式;過去分詞)"
+ },
+ "ketchup": {
+  "pos": "n.",
+  "zh": "番茄醬"
+ },
+ "kevin": {
+  "pos": "n.",
+  "zh": "人名:凱文"
+ },
+ "key": {
+  "pos": "n.",
+  "zh": "鑰匙;關鍵"
+ },
+ "keyboard": {
+  "pos": "n.",
+  "zh": "鍵盤"
+ },
+ "keyword": {
+  "pos": "n.",
+  "zh": "關鍵字"
+ },
+ "kick": {
+  "pos": "v.",
+  "zh": "踢"
+ },
+ "kid": {
+  "pos": "n.",
+  "zh": "小孩"
+ },
+ "kill": {
+  "pos": "v.",
+  "zh": "殺"
+ },
+ "kind": {
+  "pos": "n.",
+  "zh": "種類;親切的"
+ },
+ "kindergarten": {
+  "pos": "n.",
+  "zh": "幼稚園"
+ },
+ "king": {
+  "pos": "n.",
+  "zh": "國王"
+ },
+ "kingdom": {
+  "pos": "n.",
+  "zh": "王國"
+ },
+ "kiss": {
+  "pos": "v.",
+  "zh": "親吻"
+ },
+ "kitchen": {
+  "pos": "n.",
+  "zh": "廚房"
+ },
+ "kite": {
+  "pos": "n.",
+  "zh": "風箏"
+ },
+ "kitten": {
+  "pos": "n.",
+  "zh": "小貓"
+ },
+ "knee": {
+  "pos": "n.",
+  "zh": "膝蓋"
+ },
+ "knew": {
+  "pos": "v.",
+  "zh": "知道(過去式)"
+ },
+ "knife": {
+  "pos": "n.",
+  "zh": "刀子"
+ },
+ "knock": {
+  "pos": "v.",
+  "zh": "敲"
+ },
+ "know": {
+  "pos": "v.",
+  "zh": "知道;認識"
+ },
+ "knowledge": {
+  "pos": "n.",
+  "zh": "知識"
+ },
+ "known": {
+  "pos": "v.",
+  "zh": "知道(過去分詞)"
+ },
+ "korea": {
+  "pos": "n.",
+  "zh": "韓國"
+ },
+ "korean": {
+  "pos": "adj.",
+  "zh": "韓國的;韓語"
+ },
+ "kyoto": {
+  "pos": "n.",
+  "zh": "京都"
+ },
+ "lady": {
+  "pos": "n.",
+  "zh": "女士"
+ },
+ "lain": {
+  "pos": "v.",
+  "zh": "躺(過去分詞)"
+ },
+ "lake": {
+  "pos": "n.",
+  "zh": "湖"
+ },
+ "lamb": {
+  "pos": "n.",
+  "zh": "羊肉;小羊"
+ },
+ "lamp": {
+  "pos": "n.",
+  "zh": "檯燈"
+ },
+ "land": {
+  "pos": "n.",
+  "zh": "土地;降落"
+ },
+ "language": {
+  "pos": "n.",
+  "zh": "語言"
+ },
+ "laptop": {
+  "pos": "n.",
+  "zh": "筆記型電腦"
+ },
+ "large": {
+  "pos": "adj.",
+  "zh": "大的"
+ },
+ "last": {
+  "pos": "adj.",
+  "zh": "最後的;上一個"
+ },
+ "late": {
+  "pos": "adj.",
+  "zh": "晚的;遲的"
+ },
+ "lately": {
+  "pos": "adv.",
+  "zh": "最近"
+ },
+ "later": {
+  "pos": "adv.",
+  "zh": "後來"
+ },
+ "laugh": {
+  "pos": "v.",
+  "zh": "笑"
+ },
+ "laundry": {
+  "pos": "n.",
+  "zh": "洗衣"
+ },
+ "law": {
+  "pos": "n.",
+  "zh": "法律"
+ },
+ "lawyer": {
+  "pos": "n.",
+  "zh": "律師"
+ },
+ "lay": {
+  "pos": "v.",
+  "zh": "躺(過去式);放置"
+ },
+ "lazy": {
+  "pos": "adj.",
+  "zh": "懶惰的"
+ },
+ "lead": {
+  "pos": "v.",
+  "zh": "帶領;鉛"
+ },
+ "leader": {
+  "pos": "n.",
+  "zh": "領導者"
+ },
+ "leaf": {
+  "pos": "n.",
+  "zh": "葉子"
+ },
+ "learn": {
+  "pos": "v.",
+  "zh": "學習"
+ },
+ "learned": {
+  "pos": "v.",
+  "zh": "學習(過去式)"
+ },
+ "learnt": {
+  "pos": "v.",
+  "zh": "學習(過去式)"
+ },
+ "least": {
+  "pos": "det.",
+  "zh": "最少"
+ },
+ "leave": {
+  "pos": "v.",
+  "zh": "離開;留下"
+ },
+ "leaves": {
+  "pos": "n.",
+  "zh": "葉子(複數)"
+ },
+ "led": {
+  "pos": "v.",
+  "zh": "帶領(過去式;過去分詞)"
+ },
+ "lee": {
+  "pos": "n.",
+  "zh": "姓氏:李"
+ },
+ "left": {
+  "pos": "v.",
+  "zh": "離開(過去式);左邊"
+ },
+ "leg": {
+  "pos": "n.",
+  "zh": "腿"
+ },
+ "lemon": {
+  "pos": "n.",
+  "zh": "檸檬"
+ },
+ "lemonade": {
+  "pos": "n.",
+  "zh": "檸檬水"
+ },
+ "lend": {
+  "pos": "v.",
+  "zh": "借出"
+ },
+ "length": {
+  "pos": "n.",
+  "zh": "長度"
+ },
+ "lent": {
+  "pos": "v.",
+  "zh": "借出(過去式;過去分詞)"
+ },
+ "leo": {
+  "pos": "n.",
+  "zh": "人名:里歐"
+ },
+ "less": {
+  "pos": "det.",
+  "zh": "較少(不可數)"
+ },
+ "lesson": {
+  "pos": "n.",
+  "zh": "課;教訓"
+ },
+ "let": {
+  "pos": "v.",
+  "zh": "讓;允許"
+ },
+ "let's": {
+  "pos": "v.",
+  "zh": "讓我們(let us)"
+ },
+ "lets": {
+  "pos": "v.",
+  "zh": "讓(第三人稱單數)"
+ },
+ "letter": {
+  "pos": "n.",
+  "zh": "信;字母"
+ },
+ "letting": {
+  "pos": "v.",
+  "zh": "讓(現在分詞)"
+ },
+ "level": {
+  "pos": "n.",
+  "zh": "程度;水平"
+ },
+ "librarian": {
+  "pos": "n.",
+  "zh": "圖書館員"
+ },
+ "library": {
+  "pos": "n.",
+  "zh": "圖書館"
+ },
+ "lie": {
+  "pos": "v.",
+  "zh": "躺;說謊;謊言"
+ },
+ "life": {
+  "pos": "n.",
+  "zh": "生活;生命"
+ },
+ "lift": {
+  "pos": "v.",
+  "zh": "舉起;電梯"
+ },
+ "light": {
+  "pos": "n.",
+  "zh": "燈;光;輕的"
+ },
+ "lightning": {
+  "pos": "n.",
+  "zh": "閃電"
+ },
+ "like": {
+  "pos": "prep.",
+  "zh": "像;喜歡"
+ },
+ "likely": {
+  "pos": "adj.",
+  "zh": "可能的"
+ },
+ "limit": {
+  "pos": "n.",
+  "zh": "限制"
+ },
+ "lin": {
+  "pos": "n.",
+  "zh": "姓氏:林"
+ },
+ "linda": {
+  "pos": "n.",
+  "zh": "人名:琳達"
+ },
+ "line": {
+  "pos": "n.",
+  "zh": "線;排隊"
+ },
+ "link": {
+  "pos": "n.",
+  "zh": "連結"
+ },
+ "lion": {
+  "pos": "n.",
+  "zh": "獅子"
+ },
+ "lip": {
+  "pos": "n.",
+  "zh": "嘴唇"
+ },
+ "lisa": {
+  "pos": "n.",
+  "zh": "人名:麗莎"
+ },
+ "list": {
+  "pos": "n.",
+  "zh": "清單"
+ },
+ "listen": {
+  "pos": "v.",
+  "zh": "聽"
+ },
+ "listening": {
+  "pos": "n.",
+  "zh": "聽力"
+ },
+ "literature": {
+  "pos": "n.",
+  "zh": "文學"
+ },
+ "little": {
+  "pos": "det.",
+  "zh": "少的;小的"
+ },
+ "live": {
+  "pos": "v.",
+  "zh": "居住;活著"
+ },
+ "lives": {
+  "pos": "n.",
+  "zh": "生命(複數)"
+ },
+ "load": {
+  "pos": "v.",
+  "zh": "裝載;負荷"
+ },
+ "local": {
+  "pos": "adj.",
+  "zh": "當地的"
+ },
+ "location": {
+  "pos": "n.",
+  "zh": "位置"
+ },
+ "lock": {
+  "pos": "n.",
+  "zh": "鎖"
+ },
+ "london": {
+  "pos": "n.",
+  "zh": "倫敦"
+ },
+ "lonely": {
+  "pos": "adj.",
+  "zh": "寂寞的"
+ },
+ "long": {
+  "pos": "adj.",
+  "zh": "長的;久的"
+ },
+ "look": {
+  "pos": "v.",
+  "zh": "看;看起來"
+ },
+ "lose": {
+  "pos": "v.",
+  "zh": "失去;輸"
+ },
+ "loss": {
+  "pos": "n.",
+  "zh": "損失"
+ },
+ "lost": {
+  "pos": "v.",
+  "zh": "失去(過去式);迷路的"
+ },
+ "lot": {
+  "pos": "n.",
+  "zh": "許多;一塊地"
+ },
+ "lots": {
+  "pos": "n.",
+  "zh": "許多"
+ },
+ "loud": {
+  "pos": "adj.",
+  "zh": "大聲的"
+ },
+ "loudly": {
+  "pos": "adv.",
+  "zh": "大聲地"
+ },
+ "love": {
+  "pos": "v.",
+  "zh": "愛"
+ },
+ "lovely": {
+  "pos": "adj.",
+  "zh": "可愛的"
+ },
+ "lover": {
+  "pos": "n.",
+  "zh": "愛人"
+ },
+ "low": {
+  "pos": "adj.",
+  "zh": "低的"
+ },
+ "luck": {
+  "pos": "n.",
+  "zh": "運氣"
+ },
+ "luckily": {
+  "pos": "adv.",
+  "zh": "幸運地"
+ },
+ "lucky": {
+  "pos": "adj.",
+  "zh": "幸運的"
+ },
+ "lucy": {
+  "pos": "n.",
+  "zh": "人名:露西"
+ },
+ "luggage": {
+  "pos": "n.",
+  "zh": "行李"
+ },
+ "lunch": {
+  "pos": "n.",
+  "zh": "午餐"
+ },
+ "machine": {
+  "pos": "n.",
+  "zh": "機器"
+ },
+ "mad": {
+  "pos": "adj.",
+  "zh": "發怒的;瘋的"
+ },
+ "made": {
+  "pos": "v.",
+  "zh": "製作(過去式;過去分詞)"
+ },
+ "magazine": {
+  "pos": "n.",
+  "zh": "雜誌"
+ },
+ "magic": {
+  "pos": "n.",
+  "zh": "魔法"
+ },
+ "magician": {
+  "pos": "n.",
+  "zh": "魔術師"
+ },
+ "mail": {
+  "pos": "n.",
+  "zh": "郵件;寄信"
+ },
+ "main": {
+  "pos": "adj.",
+  "zh": "主要的"
+ },
+ "mainly": {
+  "pos": "adv.",
+  "zh": "主要地"
+ },
+ "major": {
+  "pos": "adj.",
+  "zh": "主要的;主修"
+ },
+ "make": {
+  "pos": "v.",
+  "zh": "製作;使得"
+ },
+ "malaysia": {
+  "pos": "n.",
+  "zh": "馬來西亞"
+ },
+ "male": {
+  "pos": "adj.",
+  "zh": "男性的"
+ },
+ "mall": {
+  "pos": "n.",
+  "zh": "購物中心"
+ },
+ "man": {
+  "pos": "n.",
+  "zh": "男人"
+ },
+ "manage": {
+  "pos": "v.",
+  "zh": "管理;設法"
+ },
+ "manager": {
+  "pos": "n.",
+  "zh": "經理"
+ },
+ "mango": {
+  "pos": "n.",
+  "zh": "芒果"
+ },
+ "manner": {
+  "pos": "n.",
+  "zh": "方式;禮貌"
+ },
+ "many": {
+  "pos": "det.",
+  "zh": "許多(可數)"
+ },
+ "map": {
+  "pos": "n.",
+  "zh": "地圖"
+ },
+ "march": {
+  "pos": "n.",
+  "zh": "三月;行軍"
+ },
+ "maria": {
+  "pos": "n.",
+  "zh": "人名:瑪莉亞"
+ },
+ "mark": {
+  "pos": "n.",
+  "zh": "人名:馬克;記號"
+ },
+ "marker": {
+  "pos": "n.",
+  "zh": "麥克筆"
+ },
+ "market": {
+  "pos": "n.",
+  "zh": "市場"
+ },
+ "marriage": {
+  "pos": "n.",
+  "zh": "婚姻"
+ },
+ "marry": {
+  "pos": "v.",
+  "zh": "結婚"
+ },
+ "mary": {
+  "pos": "n.",
+  "zh": "人名:瑪麗"
+ },
+ "mask": {
+  "pos": "n.",
+  "zh": "面具;口罩"
+ },
+ "match": {
+  "pos": "n.",
+  "zh": "比賽;火柴;配對"
+ },
+ "material": {
+  "pos": "n.",
+  "zh": "材料"
+ },
+ "math": {
+  "pos": "n.",
+  "zh": "數學"
+ },
+ "mathematic": {
+  "pos": "adj.",
+  "zh": "數學的"
+ },
+ "mathematics": {
+  "pos": "n.",
+  "zh": "數學"
+ },
+ "matter": {
+  "pos": "n.",
+  "zh": "事情;要緊"
+ },
+ "may": {
+  "pos": "v.",
+  "zh": "可以;也許;五月"
+ },
+ "maybe": {
+  "pos": "adv.",
+  "zh": "也許"
+ },
+ "me": {
+  "pos": "pron.",
+  "zh": "我(受格)"
+ },
+ "meal": {
+  "pos": "n.",
+  "zh": "一餐"
+ },
+ "mean": {
+  "pos": "v.",
+  "zh": "意思是;刻薄的"
+ },
+ "meaning": {
+  "pos": "n.",
+  "zh": "意思"
+ },
+ "means": {
+  "pos": "n.",
+  "zh": "方法;意謂"
+ },
+ "meant": {
+  "pos": "v.",
+  "zh": "意思是(過去式;過去分詞)"
+ },
+ "meanwhile": {
+  "pos": "adv.",
+  "zh": "同時"
+ },
+ "measure": {
+  "pos": "v.",
+  "zh": "測量"
+ },
+ "meat": {
+  "pos": "n.",
+  "zh": "肉"
+ },
+ "medical": {
+  "pos": "adj.",
+  "zh": "醫療的"
+ },
+ "medicine": {
+  "pos": "n.",
+  "zh": "藥;醫學"
+ },
+ "meet": {
+  "pos": "v.",
+  "zh": "見面;認識"
+ },
+ "meeting": {
+  "pos": "n.",
+  "zh": "會議"
+ },
+ "melt": {
+  "pos": "v.",
+  "zh": "融化"
+ },
+ "member": {
+  "pos": "n.",
+  "zh": "成員"
+ },
+ "memorize": {
+  "pos": "v.",
+  "zh": "背誦"
+ },
+ "memory": {
+  "pos": "n.",
+  "zh": "記憶"
+ },
+ "men": {
+  "pos": "n.",
+  "zh": "男人(複數)"
+ },
+ "mention": {
+  "pos": "v.",
+  "zh": "提到"
+ },
+ "menu": {
+  "pos": "n.",
+  "zh": "菜單"
+ },
+ "message": {
+  "pos": "n.",
+  "zh": "訊息"
+ },
+ "messy": {
+  "pos": "adj.",
+  "zh": "凌亂的"
+ },
+ "met": {
+  "pos": "v.",
+  "zh": "見面(過去式;過去分詞)"
+ },
+ "metal": {
+  "pos": "n.",
+  "zh": "金屬"
+ },
+ "method": {
+  "pos": "n.",
+  "zh": "方法"
+ },
+ "mexico": {
+  "pos": "n.",
+  "zh": "墨西哥"
+ },
+ "michael": {
+  "pos": "n.",
+  "zh": "人名:麥可"
+ },
+ "microwave": {
+  "pos": "n.",
+  "zh": "微波爐"
+ },
+ "middle": {
+  "pos": "n.",
+  "zh": "中間"
+ },
+ "midnight": {
+  "pos": "n.",
+  "zh": "午夜"
+ },
+ "might": {
+  "pos": "v.",
+  "zh": "也許;可能"
+ },
+ "mike": {
+  "pos": "n.",
+  "zh": "人名:麥克"
+ },
+ "milk": {
+  "pos": "n.",
+  "zh": "牛奶"
+ },
+ "million": {
+  "pos": "num.",
+  "zh": "百萬"
+ },
+ "mind": {
+  "pos": "v.",
+  "zh": "介意;心智"
+ },
+ "mine": {
+  "pos": "pron.",
+  "zh": "我的(所有格代名詞)"
+ },
+ "minute": {
+  "pos": "n.",
+  "zh": "分鐘"
+ },
+ "mirror": {
+  "pos": "n.",
+  "zh": "鏡子"
+ },
+ "miss": {
+  "pos": "v.",
+  "zh": "想念;錯過;小姐"
+ },
+ "mission": {
+  "pos": "n.",
+  "zh": "任務"
+ },
+ "mistake": {
+  "pos": "n.",
+  "zh": "錯誤"
+ },
+ "mix": {
+  "pos": "v.",
+  "zh": "混合"
+ },
+ "model": {
+  "pos": "n.",
+  "zh": "模型;模特兒"
+ },
+ "modern": {
+  "pos": "adj.",
+  "zh": "現代的"
+ },
+ "mom": {
+  "pos": "n.",
+  "zh": "媽媽"
+ },
+ "moment": {
+  "pos": "n.",
+  "zh": "時刻;片刻"
+ },
+ "monday": {
+  "pos": "n.",
+  "zh": "星期一"
+ },
+ "money": {
+  "pos": "n.",
+  "zh": "錢"
+ },
+ "monkey": {
+  "pos": "n.",
+  "zh": "猴子"
+ },
+ "monster": {
+  "pos": "n.",
+  "zh": "怪物"
+ },
+ "month": {
+  "pos": "n.",
+  "zh": "月"
+ },
+ "monthly": {
+  "pos": "adj.",
+  "zh": "每月的"
+ },
+ "mood": {
+  "pos": "n.",
+  "zh": "心情"
+ },
+ "moon": {
+  "pos": "n.",
+  "zh": "月亮"
+ },
+ "more": {
+  "pos": "det.",
+  "zh": "更多"
+ },
+ "moreover": {
+  "pos": "adv.",
+  "zh": "此外"
+ },
+ "morning": {
+  "pos": "n.",
+  "zh": "早上"
+ },
+ "mosquito": {
+  "pos": "n.",
+  "zh": "蚊子"
+ },
+ "most": {
+  "pos": "det.",
+  "zh": "最;大多數"
+ },
+ "mostly": {
+  "pos": "adv.",
+  "zh": "大部分"
+ },
+ "mother": {
+  "pos": "n.",
+  "zh": "母親"
+ },
+ "motorcycle": {
+  "pos": "n.",
+  "zh": "機車"
+ },
+ "mountain": {
+  "pos": "n.",
+  "zh": "山"
+ },
+ "mouse": {
+  "pos": "n.",
+  "zh": "滑鼠;老鼠"
+ },
+ "mouth": {
+  "pos": "n.",
+  "zh": "嘴巴"
+ },
+ "move": {
+  "pos": "v.",
+  "zh": "移動;搬家"
+ },
+ "movie": {
+  "pos": "n.",
+  "zh": "電影"
+ },
+ "mrt": {
+  "pos": "n.",
+  "zh": "捷運"
+ },
+ "much": {
+  "pos": "det.",
+  "zh": "許多(不可數)"
+ },
+ "murder": {
+  "pos": "n.",
+  "zh": "謀殺"
+ },
+ "muscle": {
+  "pos": "n.",
+  "zh": "肌肉"
+ },
+ "museum": {
+  "pos": "n.",
+  "zh": "博物館"
+ },
+ "music": {
+  "pos": "n.",
+  "zh": "音樂"
+ },
+ "musical": {
+  "pos": "adj.",
+  "zh": "音樂的"
+ },
+ "musician": {
+  "pos": "n.",
+  "zh": "音樂家"
+ },
+ "must": {
+  "pos": "v.",
+  "zh": "必須;一定"
+ },
+ "mustn't": {
+  "pos": "v.",
+  "zh": "不可以(must not)"
+ },
+ "my": {
+  "pos": "det.",
+  "zh": "我的"
+ },
+ "myself": {
+  "pos": "pron.",
+  "zh": "我自己"
+ },
+ "name": {
+  "pos": "n.",
+  "zh": "名字"
+ },
+ "nancy": {
+  "pos": "n.",
+  "zh": "人名:南西"
+ },
+ "nantou": {
+  "pos": "n.",
+  "zh": "南投"
+ },
+ "napkin": {
+  "pos": "n.",
+  "zh": "餐巾"
+ },
+ "narrow": {
+  "pos": "adj.",
+  "zh": "窄的"
+ },
+ "nation": {
+  "pos": "n.",
+  "zh": "國家;民族"
+ },
+ "national": {
+  "pos": "adj.",
+  "zh": "全國的"
+ },
+ "native": {
+  "pos": "adj.",
+  "zh": "本地的;母語的"
+ },
+ "natural": {
+  "pos": "adj.",
+  "zh": "自然的"
+ },
+ "nature": {
+  "pos": "n.",
+  "zh": "大自然"
+ },
+ "naughty": {
+  "pos": "adj.",
+  "zh": "頑皮的"
+ },
+ "near": {
+  "pos": "prep.",
+  "zh": "靠近"
+ },
+ "nearby": {
+  "pos": "adj.",
+  "zh": "附近的"
+ },
+ "nearly": {
+  "pos": "adv.",
+  "zh": "將近"
+ },
+ "neat": {
+  "pos": "adj.",
+  "zh": "整潔的"
+ },
+ "necessary": {
+  "pos": "adj.",
+  "zh": "必要的"
+ },
+ "neck": {
+  "pos": "n.",
+  "zh": "脖子"
+ },
+ "necklace": {
+  "pos": "n.",
+  "zh": "項鍊"
+ },
+ "need": {
+  "pos": "v.",
+  "zh": "需要;必須"
+ },
+ "needed": {
+  "pos": "v.",
+  "zh": "需要(過去式)"
+ },
+ "needn't": {
+  "pos": "v.",
+  "zh": "不需要(need not)"
+ },
+ "needs": {
+  "pos": "v.",
+  "zh": "需要(第三人稱單數)"
+ },
+ "negative": {
+  "pos": "adj.",
+  "zh": "負面的"
+ },
+ "neighbor": {
+  "pos": "n.",
+  "zh": "鄰居"
+ },
+ "neighborhood": {
+  "pos": "n.",
+  "zh": "鄰近地區"
+ },
+ "neither": {
+  "pos": "det.",
+  "zh": "兩者都不"
+ },
+ "nephew": {
+  "pos": "n.",
+  "zh": "姪子;外甥"
+ },
+ "nervous": {
+  "pos": "adj.",
+  "zh": "緊張的"
+ },
+ "nervously": {
+  "pos": "adv.",
+  "zh": "緊張地"
+ },
+ "net": {
+  "pos": "n.",
+  "zh": "網子;網路"
+ },
+ "network": {
+  "pos": "n.",
+  "zh": "網絡"
+ },
+ "never": {
+  "pos": "adv.",
+  "zh": "從不"
+ },
+ "nevertheless": {
+  "pos": "adv.",
+  "zh": "儘管如此"
+ },
+ "new": {
+  "pos": "adj.",
+  "zh": "新的"
+ },
+ "news": {
+  "pos": "n.",
+  "zh": "新聞"
+ },
+ "next": {
+  "pos": "adj.",
+  "zh": "下一個的"
+ },
+ "nice": {
+  "pos": "adj.",
+  "zh": "好的;友善的"
+ },
+ "nickname": {
+  "pos": "n.",
+  "zh": "綽號"
+ },
+ "niece": {
+  "pos": "n.",
+  "zh": "姪女;外甥女"
+ },
+ "night": {
+  "pos": "n.",
+  "zh": "夜晚"
+ },
+ "nightmare": {
+  "pos": "n.",
+  "zh": "惡夢"
+ },
+ "nine": {
+  "pos": "num.",
+  "zh": "九"
+ },
+ "nineteen": {
+  "pos": "num.",
+  "zh": "十九"
+ },
+ "nineteenth": {
+  "pos": "num.",
+  "zh": "第十九"
+ },
+ "ninety": {
+  "pos": "num.",
+  "zh": "九十"
+ },
+ "ninth": {
+  "pos": "num.",
+  "zh": "第九"
+ },
+ "no": {
+  "pos": "det.",
+  "zh": "不;沒有"
+ },
+ "nobody": {
+  "pos": "pron.",
+  "zh": "沒有人"
+ },
+ "nod": {
+  "pos": "v.",
+  "zh": "點頭"
+ },
+ "noise": {
+  "pos": "n.",
+  "zh": "噪音"
+ },
+ "noisy": {
+  "pos": "adj.",
+  "zh": "吵鬧的"
+ },
+ "none": {
+  "pos": "pron.",
+  "zh": "沒有一個"
+ },
+ "noodle": {
+  "pos": "n.",
+  "zh": "麵條"
+ },
+ "noodles": {
+  "pos": "n.",
+  "zh": "麵條"
+ },
+ "noon": {
+  "pos": "n.",
+  "zh": "中午"
+ },
+ "nor": {
+  "pos": "conj.",
+  "zh": "也不"
+ },
+ "normal": {
+  "pos": "adj.",
+  "zh": "正常的"
+ },
+ "normally": {
+  "pos": "adv.",
+  "zh": "通常"
+ },
+ "north": {
+  "pos": "n.",
+  "zh": "北方"
+ },
+ "northern": {
+  "pos": "adj.",
+  "zh": "北方的"
+ },
+ "nose": {
+  "pos": "n.",
+  "zh": "鼻子"
+ },
+ "not": {
+  "pos": "adv.",
+  "zh": "不"
+ },
+ "note": {
+  "pos": "n.",
+  "zh": "筆記;紙條"
+ },
+ "notebook": {
+  "pos": "n.",
+  "zh": "筆記本"
+ },
+ "nothing": {
+  "pos": "pron.",
+  "zh": "沒有東西"
+ },
+ "notice": {
+  "pos": "v.",
+  "zh": "注意到;通知"
+ },
+ "noun": {
+  "pos": "n.",
+  "zh": "名詞"
+ },
+ "novel": {
+  "pos": "n.",
+  "zh": "小說"
+ },
+ "november": {
+  "pos": "n.",
+  "zh": "十一月"
+ },
+ "now": {
+  "pos": "adv.",
+  "zh": "現在"
+ },
+ "nowhere": {
+  "pos": "adv.",
+  "zh": "無處"
+ },
+ "number": {
+  "pos": "n.",
+  "zh": "數字;號碼"
+ },
+ "nurse": {
+  "pos": "n.",
+  "zh": "護士"
+ },
+ "o'clock": {
+  "pos": "adv.",
+  "zh": "點鐘"
+ },
+ "object": {
+  "pos": "n.",
+  "zh": "物體;反對"
+ },
+ "obvious": {
+  "pos": "adj.",
+  "zh": "明顯的"
+ },
+ "ocean": {
+  "pos": "n.",
+  "zh": "海洋"
+ },
+ "october": {
+  "pos": "n.",
+  "zh": "十月"
+ },
+ "of": {
+  "pos": "prep.",
+  "zh": "…的"
+ },
+ "off": {
+  "pos": "prep.",
+  "zh": "離開;關掉"
+ },
+ "offer": {
+  "pos": "v.",
+  "zh": "提供;提議"
+ },
+ "office": {
+  "pos": "n.",
+  "zh": "辦公室"
+ },
+ "officer": {
+  "pos": "n.",
+  "zh": "警官;軍官"
+ },
+ "often": {
+  "pos": "adv.",
+  "zh": "常常"
+ },
+ "oh": {
+  "pos": "int.",
+  "zh": "喔"
+ },
+ "oil": {
+  "pos": "n.",
+  "zh": "油"
+ },
+ "ok": {
+  "pos": "int.",
+  "zh": "好;沒問題"
+ },
+ "okay": {
+  "pos": "int.",
+  "zh": "好;沒問題"
+ },
+ "old": {
+  "pos": "adj.",
+  "zh": "舊的;老的"
+ },
+ "on": {
+  "pos": "prep.",
+  "zh": "在…上面"
+ },
+ "once": {
+  "pos": "conj.",
+  "zh": "一旦;一次"
+ },
+ "one": {
+  "pos": "num.",
+  "zh": "一;一個"
+ },
+ "ones": {
+  "pos": "pron.",
+  "zh": "(指代複數的那些)"
+ },
+ "oneself": {
+  "pos": "pron.",
+  "zh": "自己"
+ },
+ "onion": {
+  "pos": "n.",
+  "zh": "洋蔥"
+ },
+ "only": {
+  "pos": "adv.",
+  "zh": "只有;唯一的"
+ },
+ "onto": {
+  "pos": "prep.",
+  "zh": "到…上面"
+ },
+ "oops": {
+  "pos": "int.",
+  "zh": "糟糕"
+ },
+ "open": {
+  "pos": "v.",
+  "zh": "打開;開著的"
+ },
+ "operate": {
+  "pos": "v.",
+  "zh": "操作;動手術"
+ },
+ "opinion": {
+  "pos": "n.",
+  "zh": "意見"
+ },
+ "opportunity": {
+  "pos": "n.",
+  "zh": "機會"
+ },
+ "opposite": {
+  "pos": "adj.",
+  "zh": "相反的"
+ },
+ "or": {
+  "pos": "conj.",
+  "zh": "或者"
+ },
+ "orange": {
+  "pos": "n.",
+  "zh": "柳橙;橘色"
+ },
+ "order": {
+  "pos": "v.",
+  "zh": "點餐;命令;順序"
+ },
+ "ordinary": {
+  "pos": "adj.",
+  "zh": "普通的"
+ },
+ "organization": {
+  "pos": "n.",
+  "zh": "組織"
+ },
+ "organize": {
+  "pos": "v.",
+  "zh": "組織"
+ },
+ "original": {
+  "pos": "adj.",
+  "zh": "原本的;原創的"
+ },
+ "osaka": {
+  "pos": "n.",
+  "zh": "大阪"
+ },
+ "other": {
+  "pos": "det.",
+  "zh": "其他的"
+ },
+ "others": {
+  "pos": "pron.",
+  "zh": "其他人;其他東西"
+ },
+ "otherwise": {
+  "pos": "adv.",
+  "zh": "否則"
+ },
+ "ouch": {
+  "pos": "int.",
+  "zh": "哎喲"
+ },
+ "ought": {
+  "pos": "v.",
+  "zh": "應該(ought to)"
+ },
+ "our": {
+  "pos": "det.",
+  "zh": "我們的"
+ },
+ "ours": {
+  "pos": "pron.",
+  "zh": "我們的(所有格代名詞)"
+ },
+ "ourselves": {
+  "pos": "pron.",
+  "zh": "我們自己"
+ },
+ "out": {
+  "pos": "prep.",
+  "zh": "向外"
+ },
+ "outdoor": {
+  "pos": "adj.",
+  "zh": "戶外的"
+ },
+ "outdoors": {
+  "pos": "adv.",
+  "zh": "戶外"
+ },
+ "outside": {
+  "pos": "prep.",
+  "zh": "在…外面"
+ },
+ "outward": {
+  "pos": "adv.",
+  "zh": "向外"
+ },
+ "oven": {
+  "pos": "n.",
+  "zh": "烤箱"
+ },
+ "over": {
+  "pos": "prep.",
+  "zh": "在…上方;超過"
+ },
+ "overseas": {
+  "pos": "adv.",
+  "zh": "海外"
+ },
+ "owl": {
+  "pos": "n.",
+  "zh": "貓頭鷹"
+ },
+ "own": {
+  "pos": "adj.",
+  "zh": "自己的;擁有"
+ },
+ "owner": {
+  "pos": "n.",
+  "zh": "擁有者"
+ },
+ "pack": {
+  "pos": "v.",
+  "zh": "打包;一包"
+ },
+ "package": {
+  "pos": "n.",
+  "zh": "包裹"
+ },
+ "page": {
+  "pos": "n.",
+  "zh": "頁"
+ },
+ "paid": {
+  "pos": "v.",
+  "zh": "付錢(過去式;過去分詞)"
+ },
+ "pain": {
+  "pos": "n.",
+  "zh": "疼痛"
+ },
+ "paint": {
+  "pos": "v.",
+  "zh": "畫;油漆"
+ },
+ "pair": {
+  "pos": "n.",
+  "zh": "一雙;一對"
+ },
+ "pancake": {
+  "pos": "n.",
+  "zh": "鬆餅"
+ },
+ "panda": {
+  "pos": "n.",
+  "zh": "貓熊"
+ },
+ "panic": {
+  "pos": "n.",
+  "zh": "驚慌"
+ },
+ "pants": {
+  "pos": "n.",
+  "zh": "長褲"
+ },
+ "paper": {
+  "pos": "n.",
+  "zh": "紙;報告"
+ },
+ "parade": {
+  "pos": "n.",
+  "zh": "遊行"
+ },
+ "parent": {
+  "pos": "n.",
+  "zh": "父母其中一位"
+ },
+ "parents": {
+  "pos": "n.",
+  "zh": "父母"
+ },
+ "paris": {
+  "pos": "n.",
+  "zh": "巴黎"
+ },
+ "park": {
+  "pos": "n.",
+  "zh": "公園;停車"
+ },
+ "parking": {
+  "pos": "n.",
+  "zh": "停車"
+ },
+ "parrot": {
+  "pos": "n.",
+  "zh": "鸚鵡"
+ },
+ "part": {
+  "pos": "n.",
+  "zh": "部分"
+ },
+ "partly": {
+  "pos": "adv.",
+  "zh": "部分地"
+ },
+ "partner": {
+  "pos": "n.",
+  "zh": "夥伴"
+ },
+ "party": {
+  "pos": "n.",
+  "zh": "派對;政黨"
+ },
+ "pass": {
+  "pos": "v.",
+  "zh": "通過;傳遞"
+ },
+ "passenger": {
+  "pos": "n.",
+  "zh": "乘客"
+ },
+ "passport": {
+  "pos": "n.",
+  "zh": "護照"
+ },
+ "password": {
+  "pos": "n.",
+  "zh": "密碼"
+ },
+ "past": {
+  "pos": "prep.",
+  "zh": "經過;過去的"
+ },
+ "path": {
+  "pos": "n.",
+  "zh": "小徑"
+ },
+ "patient": {
+  "pos": "adj.",
+  "zh": "有耐心的;病人"
+ },
+ "pattern": {
+  "pos": "n.",
+  "zh": "圖案;模式"
+ },
+ "paul": {
+  "pos": "n.",
+  "zh": "人名:保羅"
+ },
+ "pay": {
+  "pos": "v.",
+  "zh": "付錢"
+ },
+ "pe": {
+  "pos": "n.",
+  "zh": "體育課"
+ },
+ "peace": {
+  "pos": "n.",
+  "zh": "和平"
+ },
+ "peaceful": {
+  "pos": "adj.",
+  "zh": "和平的"
+ },
+ "peach": {
+  "pos": "n.",
+  "zh": "桃子"
+ },
+ "peanut": {
+  "pos": "n.",
+  "zh": "花生"
+ },
+ "pear": {
+  "pos": "n.",
+  "zh": "梨子"
+ },
+ "pen": {
+  "pos": "n.",
+  "zh": "原子筆"
+ },
+ "pencil": {
+  "pos": "n.",
+  "zh": "鉛筆"
+ },
+ "penghu": {
+  "pos": "n.",
+  "zh": "澎湖"
+ },
+ "penguin": {
+  "pos": "n.",
+  "zh": "企鵝"
+ },
+ "people": {
+  "pos": "n.",
+  "zh": "人們"
+ },
+ "pepper": {
+  "pos": "n.",
+  "zh": "胡椒"
+ },
+ "per": {
+  "pos": "prep.",
+  "zh": "每"
+ },
+ "percent": {
+  "pos": "n.",
+  "zh": "百分比"
+ },
+ "perfect": {
+  "pos": "adj.",
+  "zh": "完美的"
+ },
+ "perfectly": {
+  "pos": "adv.",
+  "zh": "完美地"
+ },
+ "perform": {
+  "pos": "v.",
+  "zh": "表演;執行"
+ },
+ "performance": {
+  "pos": "n.",
+  "zh": "表演;表現"
+ },
+ "perhaps": {
+  "pos": "adv.",
+  "zh": "也許"
+ },
+ "period": {
+  "pos": "n.",
+  "zh": "期間;句點"
+ },
+ "person": {
+  "pos": "n.",
+  "zh": "人"
+ },
+ "personal": {
+  "pos": "adj.",
+  "zh": "個人的"
+ },
+ "pet": {
+  "pos": "n.",
+  "zh": "寵物"
+ },
+ "peter": {
+  "pos": "n.",
+  "zh": "人名:彼得"
+ },
+ "philippines": {
+  "pos": "n.",
+  "zh": "菲律賓"
+ },
+ "phone": {
+  "pos": "n.",
+  "zh": "電話"
+ },
+ "photo": {
+  "pos": "n.",
+  "zh": "照片"
+ },
+ "phrase": {
+  "pos": "n.",
+  "zh": "片語"
+ },
+ "physics": {
+  "pos": "n.",
+  "zh": "物理學"
+ },
+ "piano": {
+  "pos": "n.",
+  "zh": "鋼琴"
+ },
+ "pick": {
+  "pos": "v.",
+  "zh": "挑選;採"
+ },
+ "picnic": {
+  "pos": "n.",
+  "zh": "野餐"
+ },
+ "picture": {
+  "pos": "n.",
+  "zh": "圖片;照片"
+ },
+ "pie": {
+  "pos": "n.",
+  "zh": "派"
+ },
+ "piece": {
+  "pos": "n.",
+  "zh": "一片;一塊"
+ },
+ "pig": {
+  "pos": "n.",
+  "zh": "豬"
+ },
+ "pill": {
+  "pos": "n.",
+  "zh": "藥丸"
+ },
+ "pillow": {
+  "pos": "n.",
+  "zh": "枕頭"
+ },
+ "pilot": {
+  "pos": "n.",
+  "zh": "飛行員"
+ },
+ "pineapple": {
+  "pos": "n.",
+  "zh": "鳳梨"
+ },
+ "pingpong": {
+  "pos": "n.",
+  "zh": "桌球"
+ },
+ "pingtung": {
+  "pos": "n.",
+  "zh": "屏東"
+ },
+ "pink": {
+  "pos": "adj.",
+  "zh": "粉紅色的"
+ },
+ "pizza": {
+  "pos": "n.",
+  "zh": "披薩"
+ },
+ "place": {
+  "pos": "n.",
+  "zh": "地方"
+ },
+ "plan": {
+  "pos": "v.",
+  "zh": "計畫"
+ },
+ "plane": {
+  "pos": "n.",
+  "zh": "飛機"
+ },
+ "plastic": {
+  "pos": "adj.",
+  "zh": "塑膠的"
+ },
+ "plate": {
+  "pos": "n.",
+  "zh": "盤子"
+ },
+ "play": {
+  "pos": "v.",
+  "zh": "玩;打(球);播放"
+ },
+ "played": {
+  "pos": "v.",
+  "zh": "玩(過去式)"
+ },
+ "player": {
+  "pos": "n.",
+  "zh": "球員;播放器"
+ },
+ "playground": {
+  "pos": "n.",
+  "zh": "操場;遊樂場"
+ },
+ "pleasant": {
+  "pos": "adj.",
+  "zh": "愉快的"
+ },
+ "please": {
+  "pos": "adv.",
+  "zh": "請"
+ },
+ "pleased": {
+  "pos": "adj.",
+  "zh": "開心的"
+ },
+ "pleasure": {
+  "pos": "n.",
+  "zh": "樂趣"
+ },
+ "plenty": {
+  "pos": "n.",
+  "zh": "大量;充足"
+ },
+ "plus": {
+  "pos": "prep.",
+  "zh": "加上"
+ },
+ "pm": {
+  "pos": "n.",
+  "zh": "下午"
+ },
+ "point": {
+  "pos": "v.",
+  "zh": "指;點"
+ },
+ "poison": {
+  "pos": "n.",
+  "zh": "毒藥"
+ },
+ "police": {
+  "pos": "n.",
+  "zh": "警察"
+ },
+ "policeman": {
+  "pos": "n.",
+  "zh": "警察"
+ },
+ "polite": {
+  "pos": "adj.",
+  "zh": "有禮貌的"
+ },
+ "politely": {
+  "pos": "adv.",
+  "zh": "有禮貌地"
+ },
+ "pollution": {
+  "pos": "n.",
+  "zh": "污染"
+ },
+ "pool": {
+  "pos": "n.",
+  "zh": "水池"
+ },
+ "poor": {
+  "pos": "adj.",
+  "zh": "貧窮的"
+ },
+ "popcorn": {
+  "pos": "n.",
+  "zh": "爆米花"
+ },
+ "popular": {
+  "pos": "adj.",
+  "zh": "受歡迎的"
+ },
+ "population": {
+  "pos": "n.",
+  "zh": "人口"
+ },
+ "pork": {
+  "pos": "n.",
+  "zh": "豬肉"
+ },
+ "position": {
+  "pos": "n.",
+  "zh": "位置;職位"
+ },
+ "positive": {
+  "pos": "adj.",
+  "zh": "正面的"
+ },
+ "possibility": {
+  "pos": "n.",
+  "zh": "可能性"
+ },
+ "possible": {
+  "pos": "adj.",
+  "zh": "可能的"
+ },
+ "postcard": {
+  "pos": "n.",
+  "zh": "明信片"
+ },
+ "poster": {
+  "pos": "n.",
+  "zh": "海報"
+ },
+ "potato": {
+  "pos": "n.",
+  "zh": "馬鈴薯"
+ },
+ "power": {
+  "pos": "n.",
+  "zh": "力量;電力"
+ },
+ "powerful": {
+  "pos": "adj.",
+  "zh": "強大的"
+ },
+ "practice": {
+  "pos": "v.",
+  "zh": "練習"
+ },
+ "practise": {
+  "pos": "v.",
+  "zh": "練習"
+ },
+ "praise": {
+  "pos": "v.",
+  "zh": "稱讚"
+ },
+ "pray": {
+  "pos": "v.",
+  "zh": "祈禱"
+ },
+ "prefer": {
+  "pos": "v.",
+  "zh": "偏好"
+ },
+ "preparation": {
+  "pos": "n.",
+  "zh": "準備"
+ },
+ "prepare": {
+  "pos": "v.",
+  "zh": "準備"
+ },
+ "preposition": {
+  "pos": "n.",
+  "zh": "介系詞"
+ },
+ "present": {
+  "pos": "n.",
+  "zh": "禮物;現在的"
+ },
+ "president": {
+  "pos": "n.",
+  "zh": "總統;校長"
+ },
+ "press": {
+  "pos": "v.",
+  "zh": "按;壓;媒體"
+ },
+ "pretend": {
+  "pos": "v.",
+  "zh": "假裝"
+ },
+ "pretty": {
+  "pos": "adj.",
+  "zh": "漂亮的;相當"
+ },
+ "prevent": {
+  "pos": "v.",
+  "zh": "預防"
+ },
+ "previous": {
+  "pos": "adj.",
+  "zh": "前一個的"
+ },
+ "price": {
+  "pos": "n.",
+  "zh": "價格"
+ },
+ "pride": {
+  "pos": "n.",
+  "zh": "驕傲"
+ },
+ "prince": {
+  "pos": "n.",
+  "zh": "王子"
+ },
+ "princess": {
+  "pos": "n.",
+  "zh": "公主"
+ },
+ "principal": {
+  "pos": "n.",
+  "zh": "校長;主要的"
+ },
+ "print": {
+  "pos": "v.",
+  "zh": "列印;印刷"
+ },
+ "prison": {
+  "pos": "n.",
+  "zh": "監獄"
+ },
+ "private": {
+  "pos": "adj.",
+  "zh": "私人的"
+ },
+ "prize": {
+  "pos": "n.",
+  "zh": "獎品"
+ },
+ "probably": {
+  "pos": "adv.",
+  "zh": "大概"
+ },
+ "problem": {
+  "pos": "n.",
+  "zh": "問題;難題"
+ },
+ "produce": {
+  "pos": "v.",
+  "zh": "生產"
+ },
+ "product": {
+  "pos": "n.",
+  "zh": "產品"
+ },
+ "program": {
+  "pos": "n.",
+  "zh": "節目;程式"
+ },
+ "progress": {
+  "pos": "n.",
+  "zh": "進步"
+ },
+ "project": {
+  "pos": "n.",
+  "zh": "專題;計畫"
+ },
+ "promise": {
+  "pos": "v.",
+  "zh": "承諾"
+ },
+ "pronoun": {
+  "pos": "n.",
+  "zh": "代名詞"
+ },
+ "pronounce": {
+  "pos": "v.",
+  "zh": "發音"
+ },
+ "protect": {
+  "pos": "v.",
+  "zh": "保護"
+ },
+ "protection": {
+  "pos": "n.",
+  "zh": "保護"
+ },
+ "proud": {
+  "pos": "adj.",
+  "zh": "驕傲的"
+ },
+ "prove": {
+  "pos": "v.",
+  "zh": "證明"
+ },
+ "provide": {
+  "pos": "v.",
+  "zh": "提供"
+ },
+ "public": {
+  "pos": "adj.",
+  "zh": "公共的"
+ },
+ "pudding": {
+  "pos": "n.",
+  "zh": "布丁"
+ },
+ "pull": {
+  "pos": "v.",
+  "zh": "拉"
+ },
+ "pumpkin": {
+  "pos": "n.",
+  "zh": "南瓜"
+ },
+ "punish": {
+  "pos": "v.",
+  "zh": "處罰"
+ },
+ "puppy": {
+  "pos": "n.",
+  "zh": "小狗"
+ },
+ "purple": {
+  "pos": "adj.",
+  "zh": "紫色的"
+ },
+ "purpose": {
+  "pos": "n.",
+  "zh": "目的"
+ },
+ "purse": {
+  "pos": "n.",
+  "zh": "錢包;手提包"
+ },
+ "push": {
+  "pos": "v.",
+  "zh": "推"
+ },
+ "put": {
+  "pos": "v.",
+  "zh": "放"
+ },
+ "puzzle": {
+  "pos": "n.",
+  "zh": "拼圖;謎題"
+ },
+ "quality": {
+  "pos": "n.",
+  "zh": "品質"
+ },
+ "quarter": {
+  "pos": "n.",
+  "zh": "四分之一;一刻鐘"
+ },
+ "queen": {
+  "pos": "n.",
+  "zh": "皇后;女王"
+ },
+ "question": {
+  "pos": "n.",
+  "zh": "問題"
+ },
+ "quick": {
+  "pos": "adj.",
+  "zh": "迅速的"
+ },
+ "quickly": {
+  "pos": "adv.",
+  "zh": "很快地"
+ },
+ "quiet": {
+  "pos": "adj.",
+  "zh": "安靜的"
+ },
+ "quietly": {
+  "pos": "adv.",
+  "zh": "安靜地"
+ },
+ "quit": {
+  "pos": "v.",
+  "zh": "放棄;辭職"
+ },
+ "quite": {
+  "pos": "adv.",
+  "zh": "相當"
+ },
+ "quiz": {
+  "pos": "n.",
+  "zh": "小考"
+ },
+ "rabbit": {
+  "pos": "n.",
+  "zh": "兔子"
+ },
+ "race": {
+  "pos": "v.",
+  "zh": "賽跑;種族"
+ },
+ "radio": {
+  "pos": "n.",
+  "zh": "收音機"
+ },
+ "railway": {
+  "pos": "n.",
+  "zh": "鐵路"
+ },
+ "rain": {
+  "pos": "n.",
+  "zh": "雨;下雨"
+ },
+ "rainbow": {
+  "pos": "n.",
+  "zh": "彩虹"
+ },
+ "raincoat": {
+  "pos": "n.",
+  "zh": "雨衣"
+ },
+ "rainy": {
+  "pos": "adj.",
+  "zh": "下雨的"
+ },
+ "raise": {
+  "pos": "v.",
+  "zh": "舉起;提高"
+ },
+ "ran": {
+  "pos": "v.",
+  "zh": "跑(過去式)"
+ },
+ "rang": {
+  "pos": "v.",
+  "zh": "響(過去式)"
+ },
+ "rare": {
+  "pos": "adj.",
+  "zh": "稀有的"
+ },
+ "rarely": {
+  "pos": "adv.",
+  "zh": "很少"
+ },
+ "rather": {
+  "pos": "adv.",
+  "zh": "寧願;相當"
+ },
+ "reach": {
+  "pos": "v.",
+  "zh": "到達;伸手"
+ },
+ "react": {
+  "pos": "v.",
+  "zh": "反應"
+ },
+ "read": {
+  "pos": "v.",
+  "zh": "讀"
+ },
+ "reading": {
+  "pos": "n.",
+  "zh": "閱讀"
+ },
+ "ready": {
+  "pos": "adj.",
+  "zh": "準備好的"
+ },
+ "real": {
+  "pos": "adj.",
+  "zh": "真實的"
+ },
+ "realize": {
+  "pos": "v.",
+  "zh": "了解到"
+ },
+ "really": {
+  "pos": "adv.",
+  "zh": "真的"
+ },
+ "reason": {
+  "pos": "n.",
+  "zh": "理由"
+ },
+ "reasonable": {
+  "pos": "adj.",
+  "zh": "合理的"
+ },
+ "receive": {
+  "pos": "v.",
+  "zh": "收到"
+ },
+ "recent": {
+  "pos": "adj.",
+  "zh": "最近的"
+ },
+ "recently": {
+  "pos": "adv.",
+  "zh": "最近"
+ },
+ "recipe": {
+  "pos": "n.",
+  "zh": "食譜"
+ },
+ "recognize": {
+  "pos": "v.",
+  "zh": "認出"
+ },
+ "recommend": {
+  "pos": "v.",
+  "zh": "推薦"
+ },
+ "record": {
+  "pos": "n.",
+  "zh": "紀錄;錄音"
+ },
+ "recover": {
+  "pos": "v.",
+  "zh": "康復;恢復"
+ },
+ "recycle": {
+  "pos": "v.",
+  "zh": "回收"
+ },
+ "red": {
+  "pos": "adj.",
+  "zh": "紅色的"
+ },
+ "reduce": {
+  "pos": "v.",
+  "zh": "減少"
+ },
+ "refrigerator": {
+  "pos": "n.",
+  "zh": "冰箱"
+ },
+ "refuse": {
+  "pos": "v.",
+  "zh": "拒絕"
+ },
+ "regret": {
+  "pos": "v.",
+  "zh": "後悔"
+ },
+ "reject": {
+  "pos": "v.",
+  "zh": "拒絕"
+ },
+ "relationship": {
+  "pos": "n.",
+  "zh": "關係"
+ },
+ "relax": {
+  "pos": "v.",
+  "zh": "放鬆"
+ },
+ "remain": {
+  "pos": "v.",
+  "zh": "保持;剩下"
+ },
+ "remember": {
+  "pos": "v.",
+  "zh": "記得"
+ },
+ "remind": {
+  "pos": "v.",
+  "zh": "提醒"
+ },
+ "remove": {
+  "pos": "v.",
+  "zh": "移除"
+ },
+ "rent": {
+  "pos": "v.",
+  "zh": "租;租金"
+ },
+ "repair": {
+  "pos": "v.",
+  "zh": "修理"
+ },
+ "repeat": {
+  "pos": "v.",
+  "zh": "重複"
+ },
+ "replace": {
+  "pos": "v.",
+  "zh": "取代"
+ },
+ "reply": {
+  "pos": "v.",
+  "zh": "回覆"
+ },
+ "report": {
+  "pos": "v.",
+  "zh": "報告"
+ },
+ "rescue": {
+  "pos": "v.",
+  "zh": "救援"
+ },
+ "research": {
+  "pos": "n.",
+  "zh": "研究"
+ },
+ "respect": {
+  "pos": "v.",
+  "zh": "尊敬"
+ },
+ "responsible": {
+  "pos": "adj.",
+  "zh": "負責任的"
+ },
+ "rest": {
+  "pos": "v.",
+  "zh": "休息;其餘"
+ },
+ "restaurant": {
+  "pos": "n.",
+  "zh": "餐廳"
+ },
+ "restroom": {
+  "pos": "n.",
+  "zh": "洗手間"
+ },
+ "result": {
+  "pos": "n.",
+  "zh": "結果"
+ },
+ "return": {
+  "pos": "v.",
+  "zh": "返回;歸還"
+ },
+ "review": {
+  "pos": "v.",
+  "zh": "複習;評論"
+ },
+ "reward": {
+  "pos": "n.",
+  "zh": "獎賞"
+ },
+ "rice": {
+  "pos": "n.",
+  "zh": "米;飯"
+ },
+ "rich": {
+  "pos": "adj.",
+  "zh": "富有的"
+ },
+ "ridden": {
+  "pos": "v.",
+  "zh": "騎(過去分詞)"
+ },
+ "ride": {
+  "pos": "v.",
+  "zh": "騎;搭乘"
+ },
+ "right": {
+  "pos": "n.",
+  "zh": "權利;右邊;對的"
+ },
+ "ring": {
+  "pos": "v.",
+  "zh": "打電話;戒指;響"
+ },
+ "rise": {
+  "pos": "v.",
+  "zh": "上升"
+ },
+ "risen": {
+  "pos": "v.",
+  "zh": "上升(過去分詞)"
+ },
+ "risk": {
+  "pos": "n.",
+  "zh": "風險"
+ },
+ "river": {
+  "pos": "n.",
+  "zh": "河流"
+ },
+ "road": {
+  "pos": "n.",
+  "zh": "道路"
+ },
+ "robert": {
+  "pos": "n.",
+  "zh": "人名:羅伯特"
+ },
+ "robot": {
+  "pos": "n.",
+  "zh": "機器人"
+ },
+ "rock": {
+  "pos": "n.",
+  "zh": "岩石;搖滾"
+ },
+ "rocket": {
+  "pos": "n.",
+  "zh": "火箭"
+ },
+ "rode": {
+  "pos": "v.",
+  "zh": "騎(過去式)"
+ },
+ "role": {
+  "pos": "n.",
+  "zh": "角色"
+ },
+ "roll": {
+  "pos": "v.",
+  "zh": "滾動;捲"
+ },
+ "romantic": {
+  "pos": "adj.",
+  "zh": "浪漫的"
+ },
+ "rome": {
+  "pos": "n.",
+  "zh": "羅馬"
+ },
+ "roof": {
+  "pos": "n.",
+  "zh": "屋頂"
+ },
+ "room": {
+  "pos": "n.",
+  "zh": "房間"
+ },
+ "roommate": {
+  "pos": "n.",
+  "zh": "室友"
+ },
+ "root": {
+  "pos": "n.",
+  "zh": "根"
+ },
+ "rope": {
+  "pos": "n.",
+  "zh": "繩子"
+ },
+ "rose": {
+  "pos": "v.",
+  "zh": "上升(過去式);玫瑰"
+ },
+ "rough": {
+  "pos": "adj.",
+  "zh": "粗糙的"
+ },
+ "round": {
+  "pos": "adj.",
+  "zh": "圓的;一輪"
+ },
+ "row": {
+  "pos": "n.",
+  "zh": "排;划船"
+ },
+ "rubber": {
+  "pos": "n.",
+  "zh": "橡膠"
+ },
+ "rude": {
+  "pos": "adj.",
+  "zh": "無禮的"
+ },
+ "rule": {
+  "pos": "n.",
+  "zh": "規則;統治"
+ },
+ "ruler": {
+  "pos": "n.",
+  "zh": "尺;統治者"
+ },
+ "run": {
+  "pos": "v.",
+  "zh": "跑;經營"
+ },
+ "rung": {
+  "pos": "v.",
+  "zh": "響(過去分詞)"
+ },
+ "runner": {
+  "pos": "n.",
+  "zh": "跑者"
+ },
+ "running": {
+  "pos": "v.",
+  "zh": "跑步;正在跑"
+ },
+ "rush": {
+  "pos": "v.",
+  "zh": "衝;匆忙"
+ },
+ "russia": {
+  "pos": "n.",
+  "zh": "俄羅斯"
+ },
+ "ryan": {
+  "pos": "n.",
+  "zh": "人名:萊恩"
+ },
+ "sad": {
+  "pos": "adj.",
+  "zh": "傷心的"
+ },
+ "sadly": {
+  "pos": "adv.",
+  "zh": "傷心地"
+ },
+ "sadness": {
+  "pos": "n.",
+  "zh": "悲傷"
+ },
+ "safe": {
+  "pos": "adj.",
+  "zh": "安全的"
+ },
+ "safety": {
+  "pos": "n.",
+  "zh": "安全"
+ },
+ "said": {
+  "pos": "v.",
+  "zh": "說(過去式;過去分詞)"
+ },
+ "sailor": {
+  "pos": "n.",
+  "zh": "水手"
+ },
+ "salad": {
+  "pos": "n.",
+  "zh": "沙拉"
+ },
+ "sale": {
+  "pos": "n.",
+  "zh": "拍賣;銷售"
+ },
+ "sally": {
+  "pos": "n.",
+  "zh": "人名:莎莉"
+ },
+ "salt": {
+  "pos": "n.",
+  "zh": "鹽"
+ },
+ "salty": {
+  "pos": "adj.",
+  "zh": "鹹的"
+ },
+ "sam": {
+  "pos": "n.",
+  "zh": "人名:山姆"
+ },
+ "same": {
+  "pos": "adj.",
+  "zh": "相同的"
+ },
+ "sample": {
+  "pos": "n.",
+  "zh": "樣本"
+ },
+ "sand": {
+  "pos": "n.",
+  "zh": "沙"
+ },
+ "sandwich": {
+  "pos": "n.",
+  "zh": "三明治"
+ },
+ "sang": {
+  "pos": "v.",
+  "zh": "唱歌(過去式)"
+ },
+ "santa": {
+  "pos": "n.",
+  "zh": "聖誕老人(Santa Claus)"
+ },
+ "sarah": {
+  "pos": "n.",
+  "zh": "人名:莎拉"
+ },
+ "sat": {
+  "pos": "v.",
+  "zh": "坐(過去式;過去分詞)"
+ },
+ "satisfy": {
+  "pos": "v.",
+  "zh": "使滿意"
+ },
+ "saturday": {
+  "pos": "n.",
+  "zh": "星期六"
+ },
+ "sauce": {
+  "pos": "n.",
+  "zh": "醬汁"
+ },
+ "sausage": {
+  "pos": "n.",
+  "zh": "香腸"
+ },
+ "save": {
+  "pos": "v.",
+  "zh": "節省;拯救"
+ },
+ "saw": {
+  "pos": "v.",
+  "zh": "看見(過去式);鋸子"
+ },
+ "say": {
+  "pos": "v.",
+  "zh": "說"
+ },
+ "says": {
+  "pos": "v.",
+  "zh": "說(第三人稱單數)"
+ },
+ "scarcely": {
+  "pos": "adv.",
+  "zh": "幾乎不"
+ },
+ "scared": {
+  "pos": "adj.",
+  "zh": "嚇到的"
+ },
+ "scarf": {
+  "pos": "n.",
+  "zh": "圍巾"
+ },
+ "scene": {
+  "pos": "n.",
+  "zh": "場景"
+ },
+ "schedule": {
+  "pos": "n.",
+  "zh": "時間表"
+ },
+ "school": {
+  "pos": "n.",
+  "zh": "學校"
+ },
+ "science": {
+  "pos": "n.",
+  "zh": "科學"
+ },
+ "scientist": {
+  "pos": "n.",
+  "zh": "科學家"
+ },
+ "scissors": {
+  "pos": "n.",
+  "zh": "剪刀"
+ },
+ "scold": {
+  "pos": "v.",
+  "zh": "責罵"
+ },
+ "scooter": {
+  "pos": "n.",
+  "zh": "速克達"
+ },
+ "score": {
+  "pos": "v.",
+  "zh": "得分;分數"
+ },
+ "scratch": {
+  "pos": "v.",
+  "zh": "抓;刮"
+ },
+ "scream": {
+  "pos": "v.",
+  "zh": "尖叫"
+ },
+ "screen": {
+  "pos": "n.",
+  "zh": "螢幕"
+ },
+ "sea": {
+  "pos": "n.",
+  "zh": "海"
+ },
+ "seafood": {
+  "pos": "n.",
+  "zh": "海鮮"
+ },
+ "search": {
+  "pos": "v.",
+  "zh": "搜尋"
+ },
+ "season": {
+  "pos": "n.",
+  "zh": "季節"
+ },
+ "seat": {
+  "pos": "n.",
+  "zh": "座位"
+ },
+ "second": {
+  "pos": "num.",
+  "zh": "第二;秒"
+ },
+ "secret": {
+  "pos": "n.",
+  "zh": "祕密"
+ },
+ "see": {
+  "pos": "v.",
+  "zh": "看見"
+ },
+ "seed": {
+  "pos": "n.",
+  "zh": "種子"
+ },
+ "seek": {
+  "pos": "v.",
+  "zh": "尋找"
+ },
+ "seem": {
+  "pos": "v.",
+  "zh": "似乎"
+ },
+ "seen": {
+  "pos": "v.",
+  "zh": "看見(過去分詞)"
+ },
+ "seldom": {
+  "pos": "adv.",
+  "zh": "很少"
+ },
+ "select": {
+  "pos": "v.",
+  "zh": "挑選"
+ },
+ "selfish": {
+  "pos": "adj.",
+  "zh": "自私的"
+ },
+ "sell": {
+  "pos": "v.",
+  "zh": "賣"
+ },
+ "send": {
+  "pos": "v.",
+  "zh": "寄;送"
+ },
+ "senior": {
+  "pos": "adj.",
+  "zh": "高年級的;年長的"
+ },
+ "sense": {
+  "pos": "n.",
+  "zh": "感覺;意義"
+ },
+ "sent": {
+  "pos": "v.",
+  "zh": "寄(過去式;過去分詞)"
+ },
+ "sentence": {
+  "pos": "n.",
+  "zh": "句子"
+ },
+ "seoul": {
+  "pos": "n.",
+  "zh": "首爾"
+ },
+ "separate": {
+  "pos": "adj.",
+  "zh": "分開的;分開"
+ },
+ "september": {
+  "pos": "n.",
+  "zh": "九月"
+ },
+ "serious": {
+  "pos": "adj.",
+  "zh": "嚴肅的;嚴重的"
+ },
+ "serve": {
+  "pos": "v.",
+  "zh": "服務;供應"
+ },
+ "service": {
+  "pos": "n.",
+  "zh": "服務"
+ },
+ "seven": {
+  "pos": "num.",
+  "zh": "七"
+ },
+ "seventeen": {
+  "pos": "num.",
+  "zh": "十七"
+ },
+ "seventeenth": {
+  "pos": "num.",
+  "zh": "第十七"
+ },
+ "seventh": {
+  "pos": "num.",
+  "zh": "第七"
+ },
+ "seventy": {
+  "pos": "num.",
+  "zh": "七十"
+ },
+ "several": {
+  "pos": "det.",
+  "zh": "幾個"
+ },
+ "sew": {
+  "pos": "v.",
+  "zh": "縫"
+ },
+ "shadow": {
+  "pos": "n.",
+  "zh": "影子"
+ },
+ "shake": {
+  "pos": "v.",
+  "zh": "搖;握(手)"
+ },
+ "shaken": {
+  "pos": "v.",
+  "zh": "搖(過去分詞)"
+ },
+ "shall": {
+  "pos": "v.",
+  "zh": "將;要不要(徵詢)"
+ },
+ "shallow": {
+  "pos": "adj.",
+  "zh": "淺的"
+ },
+ "shame": {
+  "pos": "n.",
+  "zh": "羞愧;遺憾"
+ },
+ "shampoo": {
+  "pos": "n.",
+  "zh": "洗髮精"
+ },
+ "shan't": {
+  "pos": "v.",
+  "zh": "不會(shall not)"
+ },
+ "shanghai": {
+  "pos": "n.",
+  "zh": "上海"
+ },
+ "shape": {
+  "pos": "n.",
+  "zh": "形狀"
+ },
+ "share": {
+  "pos": "v.",
+  "zh": "分享;股份"
+ },
+ "shark": {
+  "pos": "n.",
+  "zh": "鯊魚"
+ },
+ "sharp": {
+  "pos": "adj.",
+  "zh": "鋒利的;敏銳的"
+ },
+ "she": {
+  "pos": "pron.",
+  "zh": "她"
+ },
+ "she'd": {
+  "pos": "pron.",
+  "zh": "她會(she would/had)"
+ },
+ "she'll": {
+  "pos": "pron.",
+  "zh": "她將(she will)"
+ },
+ "she's": {
+  "pos": "pron.",
+  "zh": "她是;她有"
+ },
+ "sheep": {
+  "pos": "n.",
+  "zh": "綿羊"
+ },
+ "shelf": {
+  "pos": "n.",
+  "zh": "架子"
+ },
+ "shell": {
+  "pos": "n.",
+  "zh": "貝殼;殼"
+ },
+ "shine": {
+  "pos": "v.",
+  "zh": "發光"
+ },
+ "shiny": {
+  "pos": "adj.",
+  "zh": "閃亮的"
+ },
+ "ship": {
+  "pos": "n.",
+  "zh": "船;運送"
+ },
+ "shirt": {
+  "pos": "n.",
+  "zh": "襯衫"
+ },
+ "shock": {
+  "pos": "n.",
+  "zh": "震驚;電擊"
+ },
+ "shoe": {
+  "pos": "n.",
+  "zh": "鞋子"
+ },
+ "shoes": {
+  "pos": "n.",
+  "zh": "鞋子(複數)"
+ },
+ "shook": {
+  "pos": "v.",
+  "zh": "搖(過去式)"
+ },
+ "shoot": {
+  "pos": "v.",
+  "zh": "射擊;投籃"
+ },
+ "shop": {
+  "pos": "v.",
+  "zh": "購物;商店"
+ },
+ "shopping": {
+  "pos": "n.",
+  "zh": "購物"
+ },
+ "short": {
+  "pos": "adj.",
+  "zh": "短的;矮的"
+ },
+ "shorts": {
+  "pos": "n.",
+  "zh": "短褲"
+ },
+ "shot": {
+  "pos": "v.",
+  "zh": "射擊(過去式);一槍"
+ },
+ "should": {
+  "pos": "v.",
+  "zh": "應該"
+ },
+ "shoulder": {
+  "pos": "n.",
+  "zh": "肩膀"
+ },
+ "shouldn't": {
+  "pos": "v.",
+  "zh": "不應該(should not)"
+ },
+ "shout": {
+  "pos": "v.",
+  "zh": "大喊"
+ },
+ "show": {
+  "pos": "v.",
+  "zh": "展示;節目"
+ },
+ "showed": {
+  "pos": "v.",
+  "zh": "展示(過去式)"
+ },
+ "shower": {
+  "pos": "n.",
+  "zh": "淋浴;陣雨"
+ },
+ "shown": {
+  "pos": "v.",
+  "zh": "展示(過去分詞)"
+ },
+ "shrimp": {
+  "pos": "n.",
+  "zh": "蝦"
+ },
+ "shut": {
+  "pos": "v.",
+  "zh": "關上"
+ },
+ "shy": {
+  "pos": "adj.",
+  "zh": "害羞的"
+ },
+ "sick": {
+  "pos": "adj.",
+  "zh": "生病的"
+ },
+ "side": {
+  "pos": "n.",
+  "zh": "邊;側面"
+ },
+ "sidewalk": {
+  "pos": "n.",
+  "zh": "人行道"
+ },
+ "sigh": {
+  "pos": "v.",
+  "zh": "嘆氣"
+ },
+ "sight": {
+  "pos": "n.",
+  "zh": "視力;景象"
+ },
+ "sightseeing": {
+  "pos": "n.",
+  "zh": "觀光"
+ },
+ "sign": {
+  "pos": "n.",
+  "zh": "標誌;簽名"
+ },
+ "signal": {
+  "pos": "n.",
+  "zh": "信號"
+ },
+ "silent": {
+  "pos": "adj.",
+  "zh": "沉默的"
+ },
+ "silly": {
+  "pos": "adj.",
+  "zh": "愚蠢的"
+ },
+ "silver": {
+  "pos": "n.",
+  "zh": "銀;銀色的"
+ },
+ "similar": {
+  "pos": "adj.",
+  "zh": "相似的"
+ },
+ "simple": {
+  "pos": "adj.",
+  "zh": "簡單的"
+ },
+ "simply": {
+  "pos": "adv.",
+  "zh": "只是;簡單地"
+ },
+ "since": {
+  "pos": "prep.",
+  "zh": "自從;既然"
+ },
+ "sing": {
+  "pos": "v.",
+  "zh": "唱歌"
+ },
+ "singapore": {
+  "pos": "n.",
+  "zh": "新加坡"
+ },
+ "singer": {
+  "pos": "n.",
+  "zh": "歌手"
+ },
+ "single": {
+  "pos": "adj.",
+  "zh": "單一的;單身的"
+ },
+ "sister": {
+  "pos": "n.",
+  "zh": "姊妹"
+ },
+ "sit": {
+  "pos": "v.",
+  "zh": "坐"
+ },
+ "situation": {
+  "pos": "n.",
+  "zh": "情況"
+ },
+ "six": {
+  "pos": "num.",
+  "zh": "六"
+ },
+ "sixteen": {
+  "pos": "num.",
+  "zh": "十六"
+ },
+ "sixteenth": {
+  "pos": "num.",
+  "zh": "第十六"
+ },
+ "sixth": {
+  "pos": "num.",
+  "zh": "第六"
+ },
+ "sixty": {
+  "pos": "num.",
+  "zh": "六十"
+ },
+ "size": {
+  "pos": "n.",
+  "zh": "尺寸"
+ },
+ "skateboard": {
+  "pos": "n.",
+  "zh": "滑板"
+ },
+ "ski": {
+  "pos": "v.",
+  "zh": "滑雪"
+ },
+ "skill": {
+  "pos": "n.",
+  "zh": "技能"
+ },
+ "skin": {
+  "pos": "n.",
+  "zh": "皮膚"
+ },
+ "skinny": {
+  "pos": "adj.",
+  "zh": "很瘦的"
+ },
+ "skip": {
+  "pos": "v.",
+  "zh": "跳過;蹺(課)"
+ },
+ "skirt": {
+  "pos": "n.",
+  "zh": "裙子"
+ },
+ "sky": {
+  "pos": "n.",
+  "zh": "天空"
+ },
+ "skyscraper": {
+  "pos": "n.",
+  "zh": "摩天大樓"
+ },
+ "sleep": {
+  "pos": "v.",
+  "zh": "睡覺"
+ },
+ "sleepy": {
+  "pos": "adj.",
+  "zh": "想睡的"
+ },
+ "slept": {
+  "pos": "v.",
+  "zh": "睡覺(過去式;過去分詞)"
+ },
+ "slice": {
+  "pos": "n.",
+  "zh": "一片;切片"
+ },
+ "slide": {
+  "pos": "v.",
+  "zh": "滑動;溜滑梯"
+ },
+ "slow": {
+  "pos": "adj.",
+  "zh": "慢的"
+ },
+ "slowly": {
+  "pos": "adv.",
+  "zh": "慢慢地"
+ },
+ "small": {
+  "pos": "adj.",
+  "zh": "小的"
+ },
+ "smart": {
+  "pos": "adj.",
+  "zh": "聰明的"
+ },
+ "smell": {
+  "pos": "v.",
+  "zh": "聞;氣味"
+ },
+ "smile": {
+  "pos": "v.",
+  "zh": "微笑"
+ },
+ "smith": {
+  "pos": "n.",
+  "zh": "姓氏:史密斯"
+ },
+ "smoke": {
+  "pos": "n.",
+  "zh": "煙;抽菸"
+ },
+ "smooth": {
+  "pos": "adj.",
+  "zh": "光滑的"
+ },
+ "snack": {
+  "pos": "n.",
+  "zh": "點心"
+ },
+ "snail": {
+  "pos": "n.",
+  "zh": "蝸牛"
+ },
+ "snake": {
+  "pos": "n.",
+  "zh": "蛇"
+ },
+ "sneaker": {
+  "pos": "n.",
+  "zh": "運動鞋"
+ },
+ "sneeze": {
+  "pos": "v.",
+  "zh": "打噴嚏"
+ },
+ "snow": {
+  "pos": "n.",
+  "zh": "雪;下雪"
+ },
+ "snowy": {
+  "pos": "adj.",
+  "zh": "下雪的"
+ },
+ "so": {
+  "pos": "conj.",
+  "zh": "所以;如此"
+ },
+ "soap": {
+  "pos": "n.",
+  "zh": "肥皂"
+ },
+ "soccer": {
+  "pos": "n.",
+  "zh": "足球"
+ },
+ "social": {
+  "pos": "adj.",
+  "zh": "社會的"
+ },
+ "society": {
+  "pos": "n.",
+  "zh": "社會"
+ },
+ "socks": {
+  "pos": "n.",
+  "zh": "襪子"
+ },
+ "soda": {
+  "pos": "n.",
+  "zh": "汽水"
+ },
+ "sofa": {
+  "pos": "n.",
+  "zh": "沙發"
+ },
+ "soft": {
+  "pos": "adj.",
+  "zh": "柔軟的"
+ },
+ "software": {
+  "pos": "n.",
+  "zh": "軟體"
+ },
+ "soil": {
+  "pos": "n.",
+  "zh": "土壤"
+ },
+ "sold": {
+  "pos": "v.",
+  "zh": "賣(過去式;過去分詞)"
+ },
+ "soldier": {
+  "pos": "n.",
+  "zh": "軍人"
+ },
+ "solution": {
+  "pos": "n.",
+  "zh": "解決方法"
+ },
+ "solve": {
+  "pos": "v.",
+  "zh": "解決"
+ },
+ "some": {
+  "pos": "det.",
+  "zh": "一些"
+ },
+ "somebody": {
+  "pos": "pron.",
+  "zh": "某人"
+ },
+ "somehow": {
+  "pos": "adv.",
+  "zh": "不知怎麼地"
+ },
+ "someone": {
+  "pos": "pron.",
+  "zh": "某人"
+ },
+ "something": {
+  "pos": "pron.",
+  "zh": "某事;某物"
+ },
+ "sometime": {
+  "pos": "adv.",
+  "zh": "某個時候"
+ },
+ "sometimes": {
+  "pos": "adv.",
+  "zh": "有時候"
+ },
+ "somewhat": {
+  "pos": "adv.",
+  "zh": "有點"
+ },
+ "somewhere": {
+  "pos": "adv.",
+  "zh": "某處"
+ },
+ "son": {
+  "pos": "n.",
+  "zh": "兒子"
+ },
+ "song": {
+  "pos": "n.",
+  "zh": "歌曲"
+ },
+ "soon": {
+  "pos": "adv.",
+  "zh": "很快"
+ },
+ "sorry": {
+  "pos": "adj.",
+  "zh": "抱歉的"
+ },
+ "sort": {
+  "pos": "n.",
+  "zh": "種類;分類"
+ },
+ "sought": {
+  "pos": "v.",
+  "zh": "尋找(過去式;過去分詞)"
+ },
+ "soul": {
+  "pos": "n.",
+  "zh": "靈魂"
+ },
+ "sound": {
+  "pos": "n.",
+  "zh": "聲音;聽起來"
+ },
+ "soup": {
+  "pos": "n.",
+  "zh": "湯"
+ },
+ "sour": {
+  "pos": "adj.",
+  "zh": "酸的"
+ },
+ "south": {
+  "pos": "n.",
+  "zh": "南方"
+ },
+ "southern": {
+  "pos": "adj.",
+  "zh": "南方的"
+ },
+ "space": {
+  "pos": "n.",
+  "zh": "空間;太空"
+ },
+ "spaceship": {
+  "pos": "n.",
+  "zh": "太空船"
+ },
+ "spain": {
+  "pos": "n.",
+  "zh": "西班牙"
+ },
+ "spanish": {
+  "pos": "adj.",
+  "zh": "西班牙的;西語"
+ },
+ "speak": {
+  "pos": "v.",
+  "zh": "說話"
+ },
+ "speaker": {
+  "pos": "n.",
+  "zh": "說話者;喇叭"
+ },
+ "speaking": {
+  "pos": "n.",
+  "zh": "口說"
+ },
+ "special": {
+  "pos": "adj.",
+  "zh": "特別的"
+ },
+ "speech": {
+  "pos": "n.",
+  "zh": "演講"
+ },
+ "speed": {
+  "pos": "n.",
+  "zh": "速度"
+ },
+ "spell": {
+  "pos": "v.",
+  "zh": "拼字"
+ },
+ "spend": {
+  "pos": "v.",
+  "zh": "花(錢;時間)"
+ },
+ "spent": {
+  "pos": "v.",
+  "zh": "花費(過去式;過去分詞)"
+ },
+ "spicy": {
+  "pos": "adj.",
+  "zh": "辣的"
+ },
+ "spider": {
+  "pos": "n.",
+  "zh": "蜘蛛"
+ },
+ "spirit": {
+  "pos": "n.",
+  "zh": "精神"
+ },
+ "spoke": {
+  "pos": "v.",
+  "zh": "說話(過去式)"
+ },
+ "spoken": {
+  "pos": "v.",
+  "zh": "說話(過去分詞)"
+ },
+ "spoon": {
+  "pos": "n.",
+  "zh": "湯匙"
+ },
+ "sport": {
+  "pos": "n.",
+  "zh": "運動"
+ },
+ "spot": {
+  "pos": "n.",
+  "zh": "地點;斑點"
+ },
+ "spread": {
+  "pos": "v.",
+  "zh": "散播;塗抹"
+ },
+ "spring": {
+  "pos": "n.",
+  "zh": "春天;彈簧"
+ },
+ "square": {
+  "pos": "n.",
+  "zh": "正方形;廣場"
+ },
+ "squirrel": {
+  "pos": "n.",
+  "zh": "松鼠"
+ },
+ "stadium": {
+  "pos": "n.",
+  "zh": "體育場"
+ },
+ "staff": {
+  "pos": "n.",
+  "zh": "員工"
+ },
+ "stage": {
+  "pos": "n.",
+  "zh": "舞台;階段"
+ },
+ "stairs": {
+  "pos": "n.",
+  "zh": "樓梯"
+ },
+ "stamp": {
+  "pos": "n.",
+  "zh": "郵票;蓋章"
+ },
+ "stand": {
+  "pos": "v.",
+  "zh": "站;忍受"
+ },
+ "star": {
+  "pos": "n.",
+  "zh": "星星;明星"
+ },
+ "start": {
+  "pos": "v.",
+  "zh": "開始"
+ },
+ "state": {
+  "pos": "n.",
+  "zh": "州;狀態;陳述"
+ },
+ "station": {
+  "pos": "n.",
+  "zh": "車站"
+ },
+ "stay": {
+  "pos": "v.",
+  "zh": "停留"
+ },
+ "steak": {
+  "pos": "n.",
+  "zh": "牛排"
+ },
+ "steal": {
+  "pos": "v.",
+  "zh": "偷"
+ },
+ "steam": {
+  "pos": "n.",
+  "zh": "蒸氣"
+ },
+ "steel": {
+  "pos": "n.",
+  "zh": "鋼"
+ },
+ "step": {
+  "pos": "n.",
+  "zh": "步驟;腳步"
+ },
+ "steve": {
+  "pos": "n.",
+  "zh": "人名:史帝夫"
+ },
+ "stick": {
+  "pos": "n.",
+  "zh": "棍子;黏住"
+ },
+ "sticky": {
+  "pos": "adj.",
+  "zh": "黏的"
+ },
+ "still": {
+  "pos": "adv.",
+  "zh": "仍然;靜止的"
+ },
+ "stole": {
+  "pos": "v.",
+  "zh": "偷(過去式)"
+ },
+ "stolen": {
+  "pos": "v.",
+  "zh": "偷(過去分詞)"
+ },
+ "stomach": {
+  "pos": "n.",
+  "zh": "胃;肚子"
+ },
+ "stomachache": {
+  "pos": "n.",
+  "zh": "肚子痛"
+ },
+ "stone": {
+  "pos": "n.",
+  "zh": "石頭"
+ },
+ "stood": {
+  "pos": "v.",
+  "zh": "站(過去式;過去分詞)"
+ },
+ "stop": {
+  "pos": "v.",
+  "zh": "停止"
+ },
+ "store": {
+  "pos": "n.",
+  "zh": "商店;儲存"
+ },
+ "storm": {
+  "pos": "n.",
+  "zh": "暴風雨"
+ },
+ "story": {
+  "pos": "n.",
+  "zh": "故事"
+ },
+ "stove": {
+  "pos": "n.",
+  "zh": "爐子"
+ },
+ "straight": {
+  "pos": "adj.",
+  "zh": "直的;直接地"
+ },
+ "strange": {
+  "pos": "adj.",
+  "zh": "奇怪的"
+ },
+ "stranger": {
+  "pos": "n.",
+  "zh": "陌生人"
+ },
+ "strawberry": {
+  "pos": "n.",
+  "zh": "草莓"
+ },
+ "street": {
+  "pos": "n.",
+  "zh": "街道"
+ },
+ "stress": {
+  "pos": "n.",
+  "zh": "壓力;強調"
+ },
+ "string": {
+  "pos": "n.",
+  "zh": "繩子;弦"
+ },
+ "strong": {
+  "pos": "adj.",
+  "zh": "強壯的"
+ },
+ "student": {
+  "pos": "n.",
+  "zh": "學生"
+ },
+ "studied": {
+  "pos": "v.",
+  "zh": "讀書(過去式)"
+ },
+ "study": {
+  "pos": "v.",
+  "zh": "讀書;研究"
+ },
+ "stuff": {
+  "pos": "n.",
+  "zh": "東西;填塞"
+ },
+ "stupid": {
+  "pos": "adj.",
+  "zh": "笨的"
+ },
+ "style": {
+  "pos": "n.",
+  "zh": "風格"
+ },
+ "subject": {
+  "pos": "n.",
+  "zh": "科目;主題"
+ },
+ "subtract": {
+  "pos": "v.",
+  "zh": "減"
+ },
+ "subway": {
+  "pos": "n.",
+  "zh": "捷運;地鐵"
+ },
+ "succeed": {
+  "pos": "v.",
+  "zh": "成功"
+ },
+ "success": {
+  "pos": "n.",
+  "zh": "成功"
+ },
+ "such": {
+  "pos": "det.",
+  "zh": "這樣的"
+ },
+ "sudden": {
+  "pos": "adj.",
+  "zh": "突然的"
+ },
+ "suddenly": {
+  "pos": "adv.",
+  "zh": "突然地"
+ },
+ "sue": {
+  "pos": "n.",
+  "zh": "人名:蘇"
+ },
+ "suffer": {
+  "pos": "v.",
+  "zh": "受苦"
+ },
+ "sugar": {
+  "pos": "n.",
+  "zh": "糖"
+ },
+ "suggest": {
+  "pos": "v.",
+  "zh": "建議"
+ },
+ "suggestion": {
+  "pos": "n.",
+  "zh": "建議"
+ },
+ "suit": {
+  "pos": "n.",
+  "zh": "西裝;適合"
+ },
+ "suitable": {
+  "pos": "adj.",
+  "zh": "適合的"
+ },
+ "suitcase": {
+  "pos": "n.",
+  "zh": "行李箱"
+ },
+ "summer": {
+  "pos": "n.",
+  "zh": "夏天"
+ },
+ "sun": {
+  "pos": "n.",
+  "zh": "太陽"
+ },
+ "sunday": {
+  "pos": "n.",
+  "zh": "星期日"
+ },
+ "sung": {
+  "pos": "v.",
+  "zh": "唱歌(過去分詞)"
+ },
+ "sunlight": {
+  "pos": "n.",
+  "zh": "陽光"
+ },
+ "sunny": {
+  "pos": "adj.",
+  "zh": "晴朗的"
+ },
+ "sunrise": {
+  "pos": "n.",
+  "zh": "日出"
+ },
+ "sunset": {
+  "pos": "n.",
+  "zh": "日落"
+ },
+ "sunshine": {
+  "pos": "n.",
+  "zh": "陽光"
+ },
+ "supermarket": {
+  "pos": "n.",
+  "zh": "超級市場"
+ },
+ "supper": {
+  "pos": "n.",
+  "zh": "晚餐"
+ },
+ "support": {
+  "pos": "v.",
+  "zh": "支持"
+ },
+ "suppose": {
+  "pos": "v.",
+  "zh": "假設;認為"
+ },
+ "sure": {
+  "pos": "adj.",
+  "zh": "確定的"
+ },
+ "surely": {
+  "pos": "adv.",
+  "zh": "必定"
+ },
+ "surprise": {
+  "pos": "v.",
+  "zh": "使驚訝;驚喜"
+ },
+ "survive": {
+  "pos": "v.",
+  "zh": "存活"
+ },
+ "susan": {
+  "pos": "n.",
+  "zh": "人名:蘇珊"
+ },
+ "swam": {
+  "pos": "v.",
+  "zh": "游泳(過去式)"
+ },
+ "sweater": {
+  "pos": "n.",
+  "zh": "毛衣"
+ },
+ "sweep": {
+  "pos": "v.",
+  "zh": "掃"
+ },
+ "sweet": {
+  "pos": "adj.",
+  "zh": "甜的;貼心的"
+ },
+ "sweetly": {
+  "pos": "adv.",
+  "zh": "甜蜜地"
+ },
+ "swim": {
+  "pos": "v.",
+  "zh": "游泳"
+ },
+ "swimming": {
+  "pos": "n.",
+  "zh": "游泳"
+ },
+ "swing": {
+  "pos": "v.",
+  "zh": "盪鞦韆;擺動"
+ },
+ "switch": {
+  "pos": "n.",
+  "zh": "開關;切換"
+ },
+ "swum": {
+  "pos": "v.",
+  "zh": "游泳(過去分詞)"
+ },
+ "sydney": {
+  "pos": "n.",
+  "zh": "雪梨"
+ },
+ "symbol": {
+  "pos": "n.",
+  "zh": "符號"
+ },
+ "system": {
+  "pos": "n.",
+  "zh": "系統"
+ },
+ "table": {
+  "pos": "n.",
+  "zh": "桌子;表格"
+ },
+ "taichung": {
+  "pos": "n.",
+  "zh": "台中"
+ },
+ "tail": {
+  "pos": "n.",
+  "zh": "尾巴"
+ },
+ "tainan": {
+  "pos": "n.",
+  "zh": "台南"
+ },
+ "taipei": {
+  "pos": "n.",
+  "zh": "台北"
+ },
+ "taitung": {
+  "pos": "n.",
+  "zh": "台東"
+ },
+ "taiwan": {
+  "pos": "n.",
+  "zh": "台灣"
+ },
+ "taiwanese": {
+  "pos": "adj.",
+  "zh": "台灣的;台灣人"
+ },
+ "take": {
+  "pos": "v.",
+  "zh": "拿;帶;搭乘"
+ },
+ "taken": {
+  "pos": "v.",
+  "zh": "拿(過去分詞)"
+ },
+ "talent": {
+  "pos": "n.",
+  "zh": "才能"
+ },
+ "talk": {
+  "pos": "v.",
+  "zh": "談話"
+ },
+ "tall": {
+  "pos": "adj.",
+  "zh": "高的(人)"
+ },
+ "taoyuan": {
+  "pos": "n.",
+  "zh": "桃園"
+ },
+ "tape": {
+  "pos": "n.",
+  "zh": "膠帶;錄音帶"
+ },
+ "target": {
+  "pos": "n.",
+  "zh": "目標"
+ },
+ "task": {
+  "pos": "n.",
+  "zh": "任務"
+ },
+ "taste": {
+  "pos": "v.",
+  "zh": "嚐;味道"
+ },
+ "tasty": {
+  "pos": "adj.",
+  "zh": "好吃的"
+ },
+ "taught": {
+  "pos": "v.",
+  "zh": "教(過去式;過去分詞)"
+ },
+ "taxi": {
+  "pos": "n.",
+  "zh": "計程車"
+ },
+ "tea": {
+  "pos": "n.",
+  "zh": "茶"
+ },
+ "teach": {
+  "pos": "v.",
+  "zh": "教"
+ },
+ "teacher": {
+  "pos": "n.",
+  "zh": "老師"
+ },
+ "team": {
+  "pos": "n.",
+  "zh": "隊伍"
+ },
+ "teapot": {
+  "pos": "n.",
+  "zh": "茶壺"
+ },
+ "tear": {
+  "pos": "n.",
+  "zh": "眼淚;撕"
+ },
+ "technology": {
+  "pos": "n.",
+  "zh": "科技"
+ },
+ "teenage": {
+  "pos": "adj.",
+  "zh": "青少年的"
+ },
+ "teenager": {
+  "pos": "n.",
+  "zh": "青少年"
+ },
+ "teeth": {
+  "pos": "n.",
+  "zh": "牙齒(複數)"
+ },
+ "telephone": {
+  "pos": "n.",
+  "zh": "電話"
+ },
+ "telescope": {
+  "pos": "n.",
+  "zh": "望遠鏡"
+ },
+ "television": {
+  "pos": "n.",
+  "zh": "電視"
+ },
+ "tell": {
+  "pos": "v.",
+  "zh": "告訴"
+ },
+ "temperature": {
+  "pos": "n.",
+  "zh": "溫度"
+ },
+ "temple": {
+  "pos": "n.",
+  "zh": "寺廟"
+ },
+ "ten": {
+  "pos": "num.",
+  "zh": "十"
+ },
+ "tennis": {
+  "pos": "n.",
+  "zh": "網球"
+ },
+ "tenth": {
+  "pos": "num.",
+  "zh": "第十"
+ },
+ "terrible": {
+  "pos": "adj.",
+  "zh": "可怕的;糟糕的"
+ },
+ "terrific": {
+  "pos": "adj.",
+  "zh": "了不起的"
+ },
+ "test": {
+  "pos": "v.",
+  "zh": "測驗"
+ },
+ "textbook": {
+  "pos": "n.",
+  "zh": "教科書"
+ },
+ "thailand": {
+  "pos": "n.",
+  "zh": "泰國"
+ },
+ "than": {
+  "pos": "conj.",
+  "zh": "比"
+ },
+ "thank": {
+  "pos": "v.",
+  "zh": "感謝"
+ },
+ "thanks": {
+  "pos": "int.",
+  "zh": "謝謝"
+ },
+ "thanksgiving": {
+  "pos": "n.",
+  "zh": "感恩節"
+ },
+ "that": {
+  "pos": "det.",
+  "zh": "那個;(引導子句)"
+ },
+ "that'll": {
+  "pos": "pron.",
+  "zh": "那將會(that will)"
+ },
+ "that's": {
+  "pos": "pron.",
+  "zh": "那是(that is)"
+ },
+ "the": {
+  "pos": "det.",
+  "zh": "這;那(定冠詞)"
+ },
+ "theater": {
+  "pos": "n.",
+  "zh": "劇院"
+ },
+ "their": {
+  "pos": "det.",
+  "zh": "他們的"
+ },
+ "theirs": {
+  "pos": "pron.",
+  "zh": "他們的(所有格代名詞)"
+ },
+ "them": {
+  "pos": "pron.",
+  "zh": "他們(受格)"
+ },
+ "themselves": {
+  "pos": "pron.",
+  "zh": "他們自己"
+ },
+ "then": {
+  "pos": "adv.",
+  "zh": "然後;那時"
+ },
+ "there": {
+  "pos": "adv.",
+  "zh": "那裡;有"
+ },
+ "there's": {
+  "pos": "pron.",
+  "zh": "有(there is)"
+ },
+ "therefore": {
+  "pos": "adv.",
+  "zh": "因此"
+ },
+ "these": {
+  "pos": "det.",
+  "zh": "這些"
+ },
+ "they": {
+  "pos": "pron.",
+  "zh": "他們"
+ },
+ "they'd": {
+  "pos": "pron.",
+  "zh": "他們會(they would/had)"
+ },
+ "they'll": {
+  "pos": "pron.",
+  "zh": "他們將(they will)"
+ },
+ "they're": {
+  "pos": "pron.",
+  "zh": "他們是(they are)"
+ },
+ "they've": {
+  "pos": "pron.",
+  "zh": "他們有(they have)"
+ },
+ "thick": {
+  "pos": "adj.",
+  "zh": "厚的;粗的"
+ },
+ "thief": {
+  "pos": "n.",
+  "zh": "小偷"
+ },
+ "thin": {
+  "pos": "adj.",
+  "zh": "薄的;瘦的"
+ },
+ "think": {
+  "pos": "v.",
+  "zh": "想;認為"
+ },
+ "third": {
+  "pos": "num.",
+  "zh": "第三"
+ },
+ "thirsty": {
+  "pos": "adj.",
+  "zh": "口渴的"
+ },
+ "thirteen": {
+  "pos": "num.",
+  "zh": "十三"
+ },
+ "thirteenth": {
+  "pos": "num.",
+  "zh": "第十三"
+ },
+ "thirtieth": {
+  "pos": "num.",
+  "zh": "第三十"
+ },
+ "thirty": {
+  "pos": "num.",
+  "zh": "三十"
+ },
+ "this": {
+  "pos": "det.",
+  "zh": "這個"
+ },
+ "those": {
+  "pos": "det.",
+  "zh": "那些"
+ },
+ "though": {
+  "pos": "conj.",
+  "zh": "雖然;不過"
+ },
+ "thought": {
+  "pos": "v.",
+  "zh": "想(過去式);想法"
+ },
+ "thousand": {
+  "pos": "num.",
+  "zh": "千"
+ },
+ "three": {
+  "pos": "num.",
+  "zh": "三"
+ },
+ "threw": {
+  "pos": "v.",
+  "zh": "丟(過去式)"
+ },
+ "throat": {
+  "pos": "n.",
+  "zh": "喉嚨"
+ },
+ "through": {
+  "pos": "prep.",
+  "zh": "穿過;透過"
+ },
+ "throughout": {
+  "pos": "prep.",
+  "zh": "遍及"
+ },
+ "throw": {
+  "pos": "v.",
+  "zh": "丟"
+ },
+ "thrown": {
+  "pos": "v.",
+  "zh": "丟(過去分詞)"
+ },
+ "thunder": {
+  "pos": "n.",
+  "zh": "雷"
+ },
+ "thunderstorm": {
+  "pos": "n.",
+  "zh": "雷雨"
+ },
+ "thursday": {
+  "pos": "n.",
+  "zh": "星期四"
+ },
+ "ticket": {
+  "pos": "n.",
+  "zh": "票"
+ },
+ "tie": {
+  "pos": "n.",
+  "zh": "領帶;綁;平手"
+ },
+ "tiger": {
+  "pos": "n.",
+  "zh": "老虎"
+ },
+ "tight": {
+  "pos": "adj.",
+  "zh": "緊的"
+ },
+ "till": {
+  "pos": "prep.",
+  "zh": "直到"
+ },
+ "tim": {
+  "pos": "n.",
+  "zh": "人名:提姆"
+ },
+ "time": {
+  "pos": "n.",
+  "zh": "時間;次數"
+ },
+ "times": {
+  "pos": "n.",
+  "zh": "倍;次數"
+ },
+ "tiny": {
+  "pos": "adj.",
+  "zh": "微小的"
+ },
+ "tip": {
+  "pos": "n.",
+  "zh": "小費;尖端;訣竅"
+ },
+ "tire": {
+  "pos": "n.",
+  "zh": "輪胎;使疲倦"
+ },
+ "tired": {
+  "pos": "adj.",
+  "zh": "疲倦的"
+ },
+ "tissue": {
+  "pos": "n.",
+  "zh": "面紙;組織"
+ },
+ "title": {
+  "pos": "n.",
+  "zh": "標題;頭銜"
+ },
+ "to": {
+  "pos": "prep.",
+  "zh": "到;向"
+ },
+ "toast": {
+  "pos": "n.",
+  "zh": "吐司;乾杯"
+ },
+ "today": {
+  "pos": "adv.",
+  "zh": "今天"
+ },
+ "toe": {
+  "pos": "n.",
+  "zh": "腳趾"
+ },
+ "together": {
+  "pos": "adv.",
+  "zh": "一起"
+ },
+ "toilet": {
+  "pos": "n.",
+  "zh": "馬桶;廁所"
+ },
+ "tokyo": {
+  "pos": "n.",
+  "zh": "東京"
+ },
+ "told": {
+  "pos": "v.",
+  "zh": "告訴(過去式;過去分詞)"
+ },
+ "tom": {
+  "pos": "n.",
+  "zh": "人名:湯姆"
+ },
+ "tomato": {
+  "pos": "n.",
+  "zh": "番茄"
+ },
+ "tomorrow": {
+  "pos": "adv.",
+  "zh": "明天"
+ },
+ "tongue": {
+  "pos": "n.",
+  "zh": "舌頭"
+ },
+ "tonight": {
+  "pos": "adv.",
+  "zh": "今晚"
+ },
+ "tony": {
+  "pos": "n.",
+  "zh": "人名:東尼"
+ },
+ "too": {
+  "pos": "adv.",
+  "zh": "太;也"
+ },
+ "took": {
+  "pos": "v.",
+  "zh": "拿(過去式)"
+ },
+ "tool": {
+  "pos": "n.",
+  "zh": "工具"
+ },
+ "tooth": {
+  "pos": "n.",
+  "zh": "牙齒"
+ },
+ "toothache": {
+  "pos": "n.",
+  "zh": "牙痛"
+ },
+ "toothbrush": {
+  "pos": "n.",
+  "zh": "牙刷"
+ },
+ "top": {
+  "pos": "n.",
+  "zh": "頂端"
+ },
+ "topic": {
+  "pos": "n.",
+  "zh": "主題"
+ },
+ "total": {
+  "pos": "adj.",
+  "zh": "全部的;總計"
+ },
+ "totally": {
+  "pos": "adv.",
+  "zh": "完全地"
+ },
+ "touch": {
+  "pos": "v.",
+  "zh": "觸摸"
+ },
+ "touching": {
+  "pos": "adj.",
+  "zh": "感人的"
+ },
+ "tough": {
+  "pos": "adj.",
+  "zh": "困難的;強韌的"
+ },
+ "tour": {
+  "pos": "n.",
+  "zh": "旅遊"
+ },
+ "tourist": {
+  "pos": "n.",
+  "zh": "觀光客"
+ },
+ "toward": {
+  "pos": "prep.",
+  "zh": "朝向"
+ },
+ "towards": {
+  "pos": "prep.",
+  "zh": "朝向"
+ },
+ "towel": {
+  "pos": "n.",
+  "zh": "毛巾"
+ },
+ "town": {
+  "pos": "n.",
+  "zh": "城鎮"
+ },
+ "toy": {
+  "pos": "n.",
+  "zh": "玩具"
+ },
+ "track": {
+  "pos": "n.",
+  "zh": "軌道;跑道"
+ },
+ "trade": {
+  "pos": "n.",
+  "zh": "貿易;交換"
+ },
+ "tradition": {
+  "pos": "n.",
+  "zh": "傳統"
+ },
+ "traditional": {
+  "pos": "adj.",
+  "zh": "傳統的"
+ },
+ "traffic": {
+  "pos": "n.",
+  "zh": "交通"
+ },
+ "train": {
+  "pos": "v.",
+  "zh": "訓練;火車"
+ },
+ "trainer": {
+  "pos": "n.",
+  "zh": "教練"
+ },
+ "translate": {
+  "pos": "v.",
+  "zh": "翻譯"
+ },
+ "trash": {
+  "pos": "n.",
+  "zh": "垃圾"
+ },
+ "travel": {
+  "pos": "v.",
+  "zh": "旅行"
+ },
+ "treasure": {
+  "pos": "n.",
+  "zh": "寶藏"
+ },
+ "treat": {
+  "pos": "v.",
+  "zh": "對待;請客"
+ },
+ "treatment": {
+  "pos": "n.",
+  "zh": "治療;對待"
+ },
+ "tree": {
+  "pos": "n.",
+  "zh": "樹"
+ },
+ "triangle": {
+  "pos": "n.",
+  "zh": "三角形"
+ },
+ "tried": {
+  "pos": "v.",
+  "zh": "嘗試(過去式)"
+ },
+ "trip": {
+  "pos": "n.",
+  "zh": "旅行"
+ },
+ "triple": {
+  "pos": "adj.",
+  "zh": "三倍的"
+ },
+ "trouble": {
+  "pos": "n.",
+  "zh": "麻煩"
+ },
+ "truck": {
+  "pos": "n.",
+  "zh": "卡車"
+ },
+ "true": {
+  "pos": "adj.",
+  "zh": "真的"
+ },
+ "truly": {
+  "pos": "adv.",
+  "zh": "真正地"
+ },
+ "trust": {
+  "pos": "v.",
+  "zh": "信任"
+ },
+ "truth": {
+  "pos": "n.",
+  "zh": "真相"
+ },
+ "try": {
+  "pos": "v.",
+  "zh": "嘗試"
+ },
+ "tshirt": {
+  "pos": "n.",
+  "zh": "T恤"
+ },
+ "tuesday": {
+  "pos": "n.",
+  "zh": "星期二"
+ },
+ "tunnel": {
+  "pos": "n.",
+  "zh": "隧道"
+ },
+ "turn": {
+  "pos": "v.",
+  "zh": "轉;輪到"
+ },
+ "turtle": {
+  "pos": "n.",
+  "zh": "烏龜"
+ },
+ "tv": {
+  "pos": "n.",
+  "zh": "電視"
+ },
+ "twelfth": {
+  "pos": "num.",
+  "zh": "第十二"
+ },
+ "twelve": {
+  "pos": "num.",
+  "zh": "十二"
+ },
+ "twentieth": {
+  "pos": "num.",
+  "zh": "第二十"
+ },
+ "twenty": {
+  "pos": "num.",
+  "zh": "二十"
+ },
+ "twice": {
+  "pos": "adv.",
+  "zh": "兩次"
+ },
+ "two": {
+  "pos": "num.",
+  "zh": "二"
+ },
+ "type": {
+  "pos": "v.",
+  "zh": "打字;類型"
+ },
+ "typhoon": {
+  "pos": "n.",
+  "zh": "颱風"
+ },
+ "ugly": {
+  "pos": "adj.",
+  "zh": "醜的"
+ },
+ "umbrella": {
+  "pos": "n.",
+  "zh": "雨傘"
+ },
+ "uncle": {
+  "pos": "n.",
+  "zh": "叔叔;舅舅"
+ },
+ "uncomfortable": {
+  "pos": "adj.",
+  "zh": "不舒服的"
+ },
+ "under": {
+  "pos": "prep.",
+  "zh": "在…下面"
+ },
+ "underline": {
+  "pos": "v.",
+  "zh": "畫底線"
+ },
+ "underneath": {
+  "pos": "prep.",
+  "zh": "在…底下"
+ },
+ "understand": {
+  "pos": "v.",
+  "zh": "了解"
+ },
+ "understanding": {
+  "pos": "n.",
+  "zh": "理解"
+ },
+ "understood": {
+  "pos": "v.",
+  "zh": "了解(過去式;過去分詞)"
+ },
+ "underwear": {
+  "pos": "n.",
+  "zh": "內衣"
+ },
+ "unfair": {
+  "pos": "adj.",
+  "zh": "不公平的"
+ },
+ "unhappy": {
+  "pos": "adj.",
+  "zh": "不快樂的"
+ },
+ "uniform": {
+  "pos": "n.",
+  "zh": "制服"
+ },
+ "unique": {
+  "pos": "adj.",
+  "zh": "獨特的"
+ },
+ "unit": {
+  "pos": "n.",
+  "zh": "單位;單元"
+ },
+ "universe": {
+  "pos": "n.",
+  "zh": "宇宙"
+ },
+ "university": {
+  "pos": "n.",
+  "zh": "大學"
+ },
+ "unless": {
+  "pos": "conj.",
+  "zh": "除非"
+ },
+ "unlike": {
+  "pos": "prep.",
+  "zh": "不像"
+ },
+ "until": {
+  "pos": "prep.",
+  "zh": "直到"
+ },
+ "unusual": {
+  "pos": "adj.",
+  "zh": "不尋常的"
+ },
+ "up": {
+  "pos": "prep.",
+  "zh": "向上"
+ },
+ "update": {
+  "pos": "v.",
+  "zh": "更新"
+ },
+ "upload": {
+  "pos": "v.",
+  "zh": "上傳"
+ },
+ "upon": {
+  "pos": "prep.",
+  "zh": "在…之上"
+ },
+ "upset": {
+  "pos": "adj.",
+  "zh": "不高興的"
+ },
+ "upstairs": {
+  "pos": "adv.",
+  "zh": "樓上"
+ },
+ "upward": {
+  "pos": "adv.",
+  "zh": "向上"
+ },
+ "us": {
+  "pos": "pron.",
+  "zh": "我們(受格)"
+ },
+ "use": {
+  "pos": "v.",
+  "zh": "使用"
+ },
+ "used": {
+  "pos": "adj.",
+  "zh": "用過的;習慣於"
+ },
+ "useful": {
+  "pos": "adj.",
+  "zh": "有用的"
+ },
+ "useless": {
+  "pos": "adj.",
+  "zh": "沒用的"
+ },
+ "usual": {
+  "pos": "adj.",
+  "zh": "平常的"
+ },
+ "usually": {
+  "pos": "adv.",
+  "zh": "通常"
+ },
+ "vacation": {
+  "pos": "n.",
+  "zh": "假期"
+ },
+ "valentine": {
+  "pos": "n.",
+  "zh": "情人節的(Valentine's Day)"
+ },
+ "valley": {
+  "pos": "n.",
+  "zh": "山谷"
+ },
+ "value": {
+  "pos": "n.",
+  "zh": "價值"
+ },
+ "various": {
+  "pos": "adj.",
+  "zh": "各種的"
+ },
+ "vegetable": {
+  "pos": "n.",
+  "zh": "蔬菜"
+ },
+ "verb": {
+  "pos": "n.",
+  "zh": "動詞"
+ },
+ "versus": {
+  "pos": "prep.",
+  "zh": "對抗"
+ },
+ "very": {
+  "pos": "adv.",
+  "zh": "非常"
+ },
+ "via": {
+  "pos": "prep.",
+  "zh": "經由"
+ },
+ "victory": {
+  "pos": "n.",
+  "zh": "勝利"
+ },
+ "vietnam": {
+  "pos": "n.",
+  "zh": "越南"
+ },
+ "view": {
+  "pos": "n.",
+  "zh": "景色;看法"
+ },
+ "village": {
+  "pos": "n.",
+  "zh": "村莊"
+ },
+ "violin": {
+  "pos": "n.",
+  "zh": "小提琴"
+ },
+ "virus": {
+  "pos": "n.",
+  "zh": "病毒"
+ },
+ "visit": {
+  "pos": "v.",
+  "zh": "拜訪"
+ },
+ "visitor": {
+  "pos": "n.",
+  "zh": "訪客"
+ },
+ "vocabulary": {
+  "pos": "n.",
+  "zh": "字彙"
+ },
+ "voice": {
+  "pos": "n.",
+  "zh": "嗓音"
+ },
+ "volleyball": {
+  "pos": "n.",
+  "zh": "排球"
+ },
+ "wait": {
+  "pos": "v.",
+  "zh": "等待"
+ },
+ "waiter": {
+  "pos": "n.",
+  "zh": "服務生"
+ },
+ "waitress": {
+  "pos": "n.",
+  "zh": "女服務生"
+ },
+ "wake": {
+  "pos": "v.",
+  "zh": "醒來"
+ },
+ "walk": {
+  "pos": "v.",
+  "zh": "走路"
+ },
+ "wall": {
+  "pos": "n.",
+  "zh": "牆壁"
+ },
+ "wallet": {
+  "pos": "n.",
+  "zh": "皮夾"
+ },
+ "wang": {
+  "pos": "n.",
+  "zh": "姓氏:王"
+ },
+ "want": {
+  "pos": "v.",
+  "zh": "想要"
+ },
+ "war": {
+  "pos": "n.",
+  "zh": "戰爭"
+ },
+ "warm": {
+  "pos": "adj.",
+  "zh": "溫暖的"
+ },
+ "warn": {
+  "pos": "v.",
+  "zh": "警告"
+ },
+ "warning": {
+  "pos": "n.",
+  "zh": "警告"
+ },
+ "was": {
+  "pos": "v.",
+  "zh": "是(過去式單數)"
+ },
+ "wash": {
+  "pos": "v.",
+  "zh": "洗"
+ },
+ "wasn't": {
+  "pos": "v.",
+  "zh": "不是(was not)"
+ },
+ "waste": {
+  "pos": "v.",
+  "zh": "浪費;廢物"
+ },
+ "watch": {
+  "pos": "v.",
+  "zh": "觀看;手錶"
+ },
+ "watched": {
+  "pos": "v.",
+  "zh": "觀看(過去式)"
+ },
+ "water": {
+  "pos": "n.",
+  "zh": "水"
+ },
+ "waterfall": {
+  "pos": "n.",
+  "zh": "瀑布"
+ },
+ "watermelon": {
+  "pos": "n.",
+  "zh": "西瓜"
+ },
+ "wave": {
+  "pos": "v.",
+  "zh": "揮手;波浪"
+ },
+ "way": {
+  "pos": "n.",
+  "zh": "方法;路"
+ },
+ "we": {
+  "pos": "pron.",
+  "zh": "我們"
+ },
+ "we'd": {
+  "pos": "pron.",
+  "zh": "我們會(we would/had)"
+ },
+ "we'll": {
+  "pos": "pron.",
+  "zh": "我們將(we will)"
+ },
+ "we're": {
+  "pos": "pron.",
+  "zh": "我們是(we are)"
+ },
+ "we've": {
+  "pos": "pron.",
+  "zh": "我們有(we have)"
+ },
+ "weak": {
+  "pos": "adj.",
+  "zh": "虛弱的"
+ },
+ "wear": {
+  "pos": "v.",
+  "zh": "穿戴"
+ },
+ "weather": {
+  "pos": "n.",
+  "zh": "天氣"
+ },
+ "web": {
+  "pos": "n.",
+  "zh": "網;蜘蛛網"
+ },
+ "website": {
+  "pos": "n.",
+  "zh": "網站"
+ },
+ "wedding": {
+  "pos": "n.",
+  "zh": "婚禮"
+ },
+ "wednesday": {
+  "pos": "n.",
+  "zh": "星期三"
+ },
+ "week": {
+  "pos": "n.",
+  "zh": "星期"
+ },
+ "weekday": {
+  "pos": "n.",
+  "zh": "平日"
+ },
+ "weekend": {
+  "pos": "n.",
+  "zh": "週末"
+ },
+ "weekly": {
+  "pos": "adj.",
+  "zh": "每週的"
+ },
+ "weigh": {
+  "pos": "v.",
+  "zh": "秤重"
+ },
+ "weight": {
+  "pos": "n.",
+  "zh": "重量"
+ },
+ "welcome": {
+  "pos": "v.",
+  "zh": "歡迎"
+ },
+ "well": {
+  "pos": "adv.",
+  "zh": "好;井;健康的"
+ },
+ "went": {
+  "pos": "v.",
+  "zh": "去(過去式)"
+ },
+ "were": {
+  "pos": "v.",
+  "zh": "是(過去式複數)"
+ },
+ "weren't": {
+  "pos": "v.",
+  "zh": "不是(were not)"
+ },
+ "west": {
+  "pos": "n.",
+  "zh": "西方"
+ },
+ "western": {
+  "pos": "adj.",
+  "zh": "西方的"
+ },
+ "wet": {
+  "pos": "adj.",
+  "zh": "濕的"
+ },
+ "whale": {
+  "pos": "n.",
+  "zh": "鯨魚"
+ },
+ "what": {
+  "pos": "pron.",
+  "zh": "什麼"
+ },
+ "what's": {
+  "pos": "pron.",
+  "zh": "是什麼(what is)"
+ },
+ "whatever": {
+  "pos": "pron.",
+  "zh": "無論什麼"
+ },
+ "wheel": {
+  "pos": "n.",
+  "zh": "輪子"
+ },
+ "wheelchair": {
+  "pos": "n.",
+  "zh": "輪椅"
+ },
+ "when": {
+  "pos": "adv.",
+  "zh": "何時;當…的時候"
+ },
+ "whenever": {
+  "pos": "conj.",
+  "zh": "無論何時"
+ },
+ "where": {
+  "pos": "adv.",
+  "zh": "哪裡"
+ },
+ "where's": {
+  "pos": "pron.",
+  "zh": "在哪裡(where is)"
+ },
+ "whereas": {
+  "pos": "conj.",
+  "zh": "然而"
+ },
+ "wherever": {
+  "pos": "conj.",
+  "zh": "無論何處"
+ },
+ "whether": {
+  "pos": "conj.",
+  "zh": "是否"
+ },
+ "which": {
+  "pos": "pron.",
+  "zh": "哪一個;(關係代名詞)"
+ },
+ "whichever": {
+  "pos": "pron.",
+  "zh": "無論哪個"
+ },
+ "while": {
+  "pos": "conj.",
+  "zh": "當…時;然而"
+ },
+ "whisper": {
+  "pos": "v.",
+  "zh": "低聲說"
+ },
+ "whistle": {
+  "pos": "v.",
+  "zh": "吹口哨;哨子"
+ },
+ "white": {
+  "pos": "adj.",
+  "zh": "白色的"
+ },
+ "who": {
+  "pos": "pron.",
+  "zh": "誰;(關係代名詞)"
+ },
+ "who's": {
+  "pos": "pron.",
+  "zh": "是誰(who is)"
+ },
+ "whoever": {
+  "pos": "pron.",
+  "zh": "無論誰"
+ },
+ "whole": {
+  "pos": "adj.",
+  "zh": "整個的"
+ },
+ "whom": {
+  "pos": "pron.",
+  "zh": "誰(受格)"
+ },
+ "whose": {
+  "pos": "pron.",
+  "zh": "誰的"
+ },
+ "why": {
+  "pos": "adv.",
+  "zh": "為什麼"
+ },
+ "wide": {
+  "pos": "adj.",
+  "zh": "寬的"
+ },
+ "widely": {
+  "pos": "adv.",
+  "zh": "廣泛地"
+ },
+ "width": {
+  "pos": "n.",
+  "zh": "寬度"
+ },
+ "wife": {
+  "pos": "n.",
+  "zh": "妻子"
+ },
+ "wild": {
+  "pos": "adj.",
+  "zh": "野生的;瘋狂的"
+ },
+ "will": {
+  "pos": "v.",
+  "zh": "將會;意志"
+ },
+ "william": {
+  "pos": "n.",
+  "zh": "人名:威廉"
+ },
+ "willing": {
+  "pos": "adj.",
+  "zh": "願意的"
+ },
+ "win": {
+  "pos": "v.",
+  "zh": "贏"
+ },
+ "wind": {
+  "pos": "n.",
+  "zh": "風"
+ },
+ "window": {
+  "pos": "n.",
+  "zh": "窗戶"
+ },
+ "windy": {
+  "pos": "adj.",
+  "zh": "有風的"
+ },
+ "wine": {
+  "pos": "n.",
+  "zh": "葡萄酒"
+ },
+ "wing": {
+  "pos": "n.",
+  "zh": "翅膀"
+ },
+ "winner": {
+  "pos": "n.",
+  "zh": "贏家"
+ },
+ "winter": {
+  "pos": "n.",
+  "zh": "冬天"
+ },
+ "wipe": {
+  "pos": "v.",
+  "zh": "擦拭"
+ },
+ "wise": {
+  "pos": "adj.",
+  "zh": "有智慧的"
+ },
+ "wish": {
+  "pos": "v.",
+  "zh": "希望;願望"
+ },
+ "with": {
+  "pos": "prep.",
+  "zh": "和…一起;用"
+ },
+ "within": {
+  "pos": "prep.",
+  "zh": "在…之內"
+ },
+ "without": {
+  "pos": "prep.",
+  "zh": "沒有"
+ },
+ "woke": {
+  "pos": "v.",
+  "zh": "醒來(過去式)"
+ },
+ "woken": {
+  "pos": "v.",
+  "zh": "醒來(過去分詞)"
+ },
+ "wolf": {
+  "pos": "n.",
+  "zh": "狼"
+ },
+ "woman": {
+  "pos": "n.",
+  "zh": "女人"
+ },
+ "women": {
+  "pos": "n.",
+  "zh": "女人(複數)"
+ },
+ "won": {
+  "pos": "v.",
+  "zh": "贏(過去式;過去分詞)"
+ },
+ "won't": {
+  "pos": "v.",
+  "zh": "不會(will not)"
+ },
+ "wonder": {
+  "pos": "v.",
+  "zh": "想知道;奇觀"
+ },
+ "wonderful": {
+  "pos": "adj.",
+  "zh": "極好的"
+ },
+ "wood": {
+  "pos": "n.",
+  "zh": "木頭"
+ },
+ "wooden": {
+  "pos": "adj.",
+  "zh": "木製的"
+ },
+ "word": {
+  "pos": "n.",
+  "zh": "單字;話"
+ },
+ "wore": {
+  "pos": "v.",
+  "zh": "穿(過去式)"
+ },
+ "work": {
+  "pos": "v.",
+  "zh": "工作;運作"
+ },
+ "workbook": {
+  "pos": "n.",
+  "zh": "習作簿"
+ },
+ "worked": {
+  "pos": "v.",
+  "zh": "工作(過去式)"
+ },
+ "worker": {
+  "pos": "n.",
+  "zh": "工人"
+ },
+ "world": {
+  "pos": "n.",
+  "zh": "世界"
+ },
+ "worn": {
+  "pos": "v.",
+  "zh": "穿(過去分詞)"
+ },
+ "worried": {
+  "pos": "adj.",
+  "zh": "擔心的"
+ },
+ "worry": {
+  "pos": "v.",
+  "zh": "擔心"
+ },
+ "worse": {
+  "pos": "adj.",
+  "zh": "更糟的"
+ },
+ "worst": {
+  "pos": "adj.",
+  "zh": "最糟的"
+ },
+ "would": {
+  "pos": "v.",
+  "zh": "將會(will 的過去式)"
+ },
+ "wouldn't": {
+  "pos": "v.",
+  "zh": "不會(would not)"
+ },
+ "wow": {
+  "pos": "int.",
+  "zh": "哇"
+ },
+ "wrap": {
+  "pos": "v.",
+  "zh": "包裝"
+ },
+ "write": {
+  "pos": "v.",
+  "zh": "寫"
+ },
+ "writer": {
+  "pos": "n.",
+  "zh": "作家"
+ },
+ "writing": {
+  "pos": "n.",
+  "zh": "寫作"
+ },
+ "written": {
+  "pos": "v.",
+  "zh": "寫(過去分詞)"
+ },
+ "wrong": {
+  "pos": "adj.",
+  "zh": "錯誤的"
+ },
+ "wrote": {
+  "pos": "v.",
+  "zh": "寫(過去式)"
+ },
+ "yard": {
+  "pos": "n.",
+  "zh": "院子;碼"
+ },
+ "yeah": {
+  "pos": "int.",
+  "zh": "對啊"
+ },
+ "year": {
+  "pos": "n.",
+  "zh": "年"
+ },
+ "yearly": {
+  "pos": "adj.",
+  "zh": "每年的"
+ },
+ "yellow": {
+  "pos": "adj.",
+  "zh": "黃色的"
+ },
+ "yes": {
+  "pos": "int.",
+  "zh": "是的"
+ },
+ "yesterday": {
+  "pos": "adv.",
+  "zh": "昨天"
+ },
+ "yet": {
+  "pos": "conj.",
+  "zh": "然而;還(沒)"
+ },
+ "yilan": {
+  "pos": "n.",
+  "zh": "宜蘭"
+ },
+ "yogurt": {
+  "pos": "n.",
+  "zh": "優格"
+ },
+ "york": {
+  "pos": "n.",
+  "zh": "約克(New York 紐約)"
+ },
+ "you": {
+  "pos": "pron.",
+  "zh": "你;你們"
+ },
+ "you'd": {
+  "pos": "pron.",
+  "zh": "你會(you would/had)"
+ },
+ "you'll": {
+  "pos": "pron.",
+  "zh": "你將(you will)"
+ },
+ "you're": {
+  "pos": "pron.",
+  "zh": "你是(you are)"
+ },
+ "you've": {
+  "pos": "pron.",
+  "zh": "你有(you have)"
+ },
+ "young": {
+  "pos": "adj.",
+  "zh": "年輕的"
+ },
+ "your": {
+  "pos": "det.",
+  "zh": "你的;你們的"
+ },
+ "yours": {
+  "pos": "pron.",
+  "zh": "你的(所有格代名詞)"
+ },
+ "yourself": {
+  "pos": "pron.",
+  "zh": "你自己"
+ },
+ "yourselves": {
+  "pos": "pron.",
+  "zh": "你們自己"
+ },
+ "youth": {
+  "pos": "n.",
+  "zh": "青春;年輕人"
+ },
+ "zebra": {
+  "pos": "n.",
+  "zh": "斑馬"
+ },
+ "zero": {
+  "pos": "num.",
+  "zh": "零"
+ },
+ "zoo": {
+  "pos": "n.",
+  "zh": "動物園"
+ }
+}

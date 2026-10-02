@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block body %}
+<h1>分級測驗</h1>
+<p class="sub">30 題，從國一到雅思難度都有。不會就猜，猜錯沒關係，這只是用來抓你的起點。</p>
+<div class="card" id="q"></div>
+<script src="/static/quiz.js"></script>
+<script>
+Quiz({mount:'q',url:'/api/items?mode=placement',mode:'placement',onfinish:async res=>{
+  const r=await fetch('/api/placement',{method:'POST',
+    headers:{'Content-Type':'application/json'},body:JSON.stringify({results:res})});
+  const d=await r.json();
+  document.getElementById('q').insertAdjacentHTML('beforeend',
+    '<div class="card" style="border-color:var(--accent);text-align:center">'+
+    '<h2>你的起點：'+d.level_zh+'</h2>'+
+    '<p class="muted">課表與出題難度已經照這個程度調整好了。</p>'+
+    '<a class="btn" href="/">看我的 90 天課表</a></div>');
+}});
+</script>
+{% endblock %}

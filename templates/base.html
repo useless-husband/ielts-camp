@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>{% block title %}雅思特訓營{% endblock %}</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header><nav>
+  <span class="logo">🎯 雅思特訓營</span>
+  <a href="/" class="{{ 'on' if req=='home' }}">首頁</a>
+  <a href="/drill" class="{{ 'on' if req=='drill' }}">刷題</a>
+  <a href="/reading" class="{{ 'on' if req=='reading' }}">閱讀</a>
+  <a href="/listening" class="{{ 'on' if req=='listening' }}">聽力</a>
+  <a href="/writing" class="{{ 'on' if req=='writing' }}">寫作</a>
+  <a href="/speaking" class="{{ 'on' if req=='speaking' }}">口說</a>
+  <a href="/wrongs" class="{{ 'on' if req=='wrongs' }}">錯題本</a>
+  <a href="/marks" class="{{ 'on' if req=='marks' }}">⭐ 標記</a>
+  <a href="/report" class="{{ 'on' if req=='report' }}">弱點分析</a>
+  <a href="/plan" class="{{ 'on' if req=='plan' }}">課表</a>
+</nav></header>
+<main>
+{% block body %}{% endblock %}
+</main>
+</body>
+</html>

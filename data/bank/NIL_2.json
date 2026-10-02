@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "NIL-0051",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Hello, Paws & Claws Grooming, this is Wendy.\nB: Hi, I'd like to book a grooming appointment for my dog.\nA: Sure, what breed is he, and how big?\nB: He's a golden retriever, quite large, about thirty kilos.\nA: Okay, for a large dog, a full groom is forty-five pounds — actually, sorry, golden retrievers need extra de-shedding treatment, so it's fifty-five pounds for the full package.\nB: That's fine. When can you fit him in?\nA: We have Monday at ten a.m. or Wednesday at one p.m.\nB: Wednesday at one is better for us.\nA: Great. Does he have any skin conditions or allergies?\nB: Yes, he's allergic to a certain shampoo brand, so please avoid anything with lavender.\nA: Noted, I'll tell the groomer. Can I get your name?\nB: It's Marianne Kirkpatrick — K-I-R-K-P-A-T-R-I-C-K.\nA: And your number?\nB: 0769 254 8871.\nA: Thanks, Marianne. Please bring his vaccination record, and note that owners aren't allowed to stay in the grooming area during the session.",
+    "group_id": "NIL-G11",
+    "stem": "Why is the woman calling the grooming salon?",
+    "options": [
+      "To adopt a dog",
+      "To complain about a previous visit",
+      "To buy dog food",
+      "To book a grooming appointment"
+    ],
+    "answer": 3,
+    "explain_zh": "女子打電話是要幫她的狗預約美容服務，這是對話開頭就說明的目的。其餘選項如買飼料、領養狗都沒有在對話中出現。",
+    "vocab": [
+      {
+        "w": "groom",
+        "zh": "美容；梳理毛髮",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0052",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Hello, Paws & Claws Grooming, this is Wendy.\nB: Hi, I'd like to book a grooming appointment for my dog.\nA: Sure, what breed is he, and how big?\nB: He's a golden retriever, quite large, about thirty kilos.\nA: Okay, for a large dog, a full groom is forty-five pounds — actually, sorry, golden retrievers need extra de-shedding treatment, so it's fifty-five pounds for the full package.\nB: That's fine. When can you fit him in?\nA: We have Monday at ten a.m. or Wednesday at one p.m.\nB: Wednesday at one is better for us.\nA: Great. Does he have any skin conditions or allergies?\nB: Yes, he's allergic to a certain shampoo brand, so please avoid anything with lavender.\nA: Noted, I'll tell the groomer. Can I get your name?\nB: It's Marianne Kirkpatrick — K-I-R-K-P-A-T-R-I-C-K.\nA: And your number?\nB: 0769 254 8871.\nA: Thanks, Marianne. Please bring his vaccination record, and note that owners aren't allowed to stay in the grooming area during the session.",
+    "group_id": "NIL-G11",
+    "stem": "How much does the full grooming package cost?",
+    "options": [
+      "£55",
+      "£35",
+      "£65",
+      "£45"
+    ],
+    "answer": 0,
+    "explain_zh": "接線員先說一般大型犬全套美容是四十五鎊，但因為黃金獵犬需要額外的去毛處理，實際費用是五十五鎊。要聽到最後更正的金額才是正確答案。",
+    "vocab": [
+      {
+        "w": "de-shedding",
+        "zh": "去除脫毛",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0053",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hello, Paws & Claws Grooming, this is Wendy.\nB: Hi, I'd like to book a grooming appointment for my dog.\nA: Sure, what breed is he, and how big?\nB: He's a golden retriever, quite large, about thirty kilos.\nA: Okay, for a large dog, a full groom is forty-five pounds — actually, sorry, golden retrievers need extra de-shedding treatment, so it's fifty-five pounds for the full package.\nB: That's fine. When can you fit him in?\nA: We have Monday at ten a.m. or Wednesday at one p.m.\nB: Wednesday at one is better for us.\nA: Great. Does he have any skin conditions or allergies?\nB: Yes, he's allergic to a certain shampoo brand, so please avoid anything with lavender.\nA: Noted, I'll tell the groomer. Can I get your name?\nB: It's Marianne Kirkpatrick — K-I-R-K-P-A-T-R-I-C-K.\nA: And your number?\nB: 0769 254 8871.\nA: Thanks, Marianne. Please bring his vaccination record, and note that owners aren't allowed to stay in the grooming area during the session.",
+    "group_id": "NIL-G11",
+    "stem": "When is the appointment scheduled?",
+    "options": [
+      "Monday at 10 a.m.",
+      "Wednesday at 1 p.m.",
+      "Monday at 1 p.m.",
+      "Wednesday at 10 a.m."
+    ],
+    "answer": 1,
+    "explain_zh": "接線員提供週一上午十點或週三下午一點兩個時段，女子選擇了週三下午一點。數字時間題要抓住最終確認的時段。",
+    "vocab": [
+      {
+        "w": "fit in",
+        "zh": "安排進去；騰出時間",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0054",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Hello, Paws & Claws Grooming, this is Wendy.\nB: Hi, I'd like to book a grooming appointment for my dog.\nA: Sure, what breed is he, and how big?\nB: He's a golden retriever, quite large, about thirty kilos.\nA: Okay, for a large dog, a full groom is forty-five pounds — actually, sorry, golden retrievers need extra de-shedding treatment, so it's fifty-five pounds for the full package.\nB: That's fine. When can you fit him in?\nA: We have Monday at ten a.m. or Wednesday at one p.m.\nB: Wednesday at one is better for us.\nA: Great. Does he have any skin conditions or allergies?\nB: Yes, he's allergic to a certain shampoo brand, so please avoid anything with lavender.\nA: Noted, I'll tell the groomer. Can I get your name?\nB: It's Marianne Kirkpatrick — K-I-R-K-P-A-T-R-I-C-K.\nA: And your number?\nB: 0769 254 8871.\nA: Thanks, Marianne. Please bring his vaccination record, and note that owners aren't allowed to stay in the grooming area during the session.",
+    "group_id": "NIL-G11",
+    "stem": "How is the woman's surname spelled?",
+    "options": [
+      "KIRKPATRIC",
+      "KIRKPADRICK",
+      "KIRKPATRICK",
+      "KIRPATRICK"
+    ],
+    "answer": 2,
+    "explain_zh": "女子拼出 K-I-R-K-P-A-T-R-I-C-K，也就是 Kirkpatrick，中間有兩個 K 和完整的 PATRICK。拼字題要注意字母是否有缺漏。",
+    "vocab": [
+      {
+        "w": "allergic",
+        "zh": "過敏的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0055",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hello, Paws & Claws Grooming, this is Wendy.\nB: Hi, I'd like to book a grooming appointment for my dog.\nA: Sure, what breed is he, and how big?\nB: He's a golden retriever, quite large, about thirty kilos.\nA: Okay, for a large dog, a full groom is forty-five pounds — actually, sorry, golden retrievers need extra de-shedding treatment, so it's fifty-five pounds for the full package.\nB: That's fine. When can you fit him in?\nA: We have Monday at ten a.m. or Wednesday at one p.m.\nB: Wednesday at one is better for us.\nA: Great. Does he have any skin conditions or allergies?\nB: Yes, he's allergic to a certain shampoo brand, so please avoid anything with lavender.\nA: Noted, I'll tell the groomer. Can I get your name?\nB: It's Marianne Kirkpatrick — K-I-R-K-P-A-T-R-I-C-K.\nA: And your number?\nB: 0769 254 8871.\nA: Thanks, Marianne. Please bring his vaccination record, and note that owners aren't allowed to stay in the grooming area during the session.",
+    "group_id": "NIL-G11",
+    "stem": "What should the woman bring to the appointment?",
+    "options": [
+      "A towel",
+      "His favourite toy",
+      "A leash",
+      "His vaccination record"
+    ],
+    "answer": 3,
+    "explain_zh": "店員在最後提醒女子要攜帶狗狗的疫苗接種紀錄，並說明飼主不能待在美容區內。這題考驗聽出結尾的具體要求。",
+    "vocab": [
+      {
+        "w": "vaccination",
+        "zh": "疫苗接種",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0056",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Good morning, Star Driving School, this is Felix.\nB: Hi, I'd like to sign up for driving lessons.\nA: Great, have you had any lessons before?\nB: No, this would be my first time.\nA: Okay, for beginners we recommend a package of ten lessons, which is normally three hundred pounds — actually, we're running a promotion this month, so it's two hundred and seventy pounds for new students.\nB: That sounds good. How long is each lesson?\nA: Each lesson is one hour, and we usually schedule two lessons a week.\nB: Can I start this Saturday?\nA: Let me check... Saturday morning is full, but we have an opening on Sunday at nine a.m.\nB: Sunday works.\nA: Great. Can I get your name and number?\nB: It's Nathaniel Verhoeven — V-E-R-H-O-E-V-E-N.\nA: And your number?\nB: 0785 337 2214.\nA: Thanks, Nathaniel. Please bring your provisional licence to the first lesson, and note that lessons can't be rescheduled less than twenty-four hours in advance.",
+    "group_id": "NIL-G12",
+    "stem": "What is the man calling about?",
+    "options": [
+      "To sign up for driving lessons",
+      "To ask about parking rules",
+      "To rent a car",
+      "To renew his driving licence"
+    ],
+    "answer": 0,
+    "explain_zh": "男子打電話是要報名駕駛課程，這是對話開頭清楚說明的目的。其餘選項如換照、租車都沒有在對話中出現。",
+    "vocab": [
+      {
+        "w": "beginner",
+        "zh": "初學者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0057",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Good morning, Star Driving School, this is Felix.\nB: Hi, I'd like to sign up for driving lessons.\nA: Great, have you had any lessons before?\nB: No, this would be my first time.\nA: Okay, for beginners we recommend a package of ten lessons, which is normally three hundred pounds — actually, we're running a promotion this month, so it's two hundred and seventy pounds for new students.\nB: That sounds good. How long is each lesson?\nA: Each lesson is one hour, and we usually schedule two lessons a week.\nB: Can I start this Saturday?\nA: Let me check... Saturday morning is full, but we have an opening on Sunday at nine a.m.\nB: Sunday works.\nA: Great. Can I get your name and number?\nB: It's Nathaniel Verhoeven — V-E-R-H-O-E-V-E-N.\nA: And your number?\nB: 0785 337 2214.\nA: Thanks, Nathaniel. Please bring your provisional licence to the first lesson, and note that lessons can't be rescheduled less than twenty-four hours in advance.",
+    "group_id": "NIL-G12",
+    "stem": "How much does the ten-lesson package cost for him?",
+    "options": [
+      "£300",
+      "£270",
+      "£250",
+      "£320"
+    ],
+    "answer": 1,
+    "explain_zh": "接線員先說一般價格是三百鎊，但因為本月有促銷活動，新學生只要兩百七十鎊。這是先講原價再更正優惠價的陷阱題。",
+    "vocab": [
+      {
+        "w": "promotion",
+        "zh": "促銷活動",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0058",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Good morning, Star Driving School, this is Felix.\nB: Hi, I'd like to sign up for driving lessons.\nA: Great, have you had any lessons before?\nB: No, this would be my first time.\nA: Okay, for beginners we recommend a package of ten lessons, which is normally three hundred pounds — actually, we're running a promotion this month, so it's two hundred and seventy pounds for new students.\nB: That sounds good. How long is each lesson?\nA: Each lesson is one hour, and we usually schedule two lessons a week.\nB: Can I start this Saturday?\nA: Let me check... Saturday morning is full, but we have an opening on Sunday at nine a.m.\nB: Sunday works.\nA: Great. Can I get your name and number?\nB: It's Nathaniel Verhoeven — V-E-R-H-O-E-V-E-N.\nA: And your number?\nB: 0785 337 2214.\nA: Thanks, Nathaniel. Please bring your provisional licence to the first lesson, and note that lessons can't be rescheduled less than twenty-four hours in advance.",
+    "group_id": "NIL-G12",
+    "stem": "When is the man's first lesson scheduled?",
+    "options": [
+      "Sunday afternoon",
+      "Saturday morning",
+      "Sunday at 9 a.m.",
+      "Saturday at 9 a.m."
+    ],
+    "answer": 2,
+    "explain_zh": "男子原本想約週六，但駕訓班表示週六早上已滿，改為週日早上九點才確定下來。要聽出「已滿→改期」的更正過程。",
+    "vocab": [
+      {
+        "w": "opening",
+        "zh": "空檔；名額",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0059",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Good morning, Star Driving School, this is Felix.\nB: Hi, I'd like to sign up for driving lessons.\nA: Great, have you had any lessons before?\nB: No, this would be my first time.\nA: Okay, for beginners we recommend a package of ten lessons, which is normally three hundred pounds — actually, we're running a promotion this month, so it's two hundred and seventy pounds for new students.\nB: That sounds good. How long is each lesson?\nA: Each lesson is one hour, and we usually schedule two lessons a week.\nB: Can I start this Saturday?\nA: Let me check... Saturday morning is full, but we have an opening on Sunday at nine a.m.\nB: Sunday works.\nA: Great. Can I get your name and number?\nB: It's Nathaniel Verhoeven — V-E-R-H-O-E-V-E-N.\nA: And your number?\nB: 0785 337 2214.\nA: Thanks, Nathaniel. Please bring your provisional licence to the first lesson, and note that lessons can't be rescheduled less than twenty-four hours in advance.",
+    "group_id": "NIL-G12",
+    "stem": "How is the man's surname spelled?",
+    "options": [
+      "VERHOEVAN",
+      "VERHOEFEN",
+      "VERHOEVEN'S",
+      "VERHOEVEN"
+    ],
+    "answer": 3,
+    "explain_zh": "男子拼出 V-E-R-H-O-E-V-E-N，也就是 Verhoeven，中間是 HOEVEN 而非 HOEFEN。拼字題要留意子音是 V 還是 F 的差異。",
+    "vocab": [
+      {
+        "w": "provisional licence",
+        "zh": "臨時／學習駕照",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0060",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good morning, Star Driving School, this is Felix.\nB: Hi, I'd like to sign up for driving lessons.\nA: Great, have you had any lessons before?\nB: No, this would be my first time.\nA: Okay, for beginners we recommend a package of ten lessons, which is normally three hundred pounds — actually, we're running a promotion this month, so it's two hundred and seventy pounds for new students.\nB: That sounds good. How long is each lesson?\nA: Each lesson is one hour, and we usually schedule two lessons a week.\nB: Can I start this Saturday?\nA: Let me check... Saturday morning is full, but we have an opening on Sunday at nine a.m.\nB: Sunday works.\nA: Great. Can I get your name and number?\nB: It's Nathaniel Verhoeven — V-E-R-H-O-E-V-E-N.\nA: And your number?\nB: 0785 337 2214.\nA: Thanks, Nathaniel. Please bring your provisional licence to the first lesson, and note that lessons can't be rescheduled less than twenty-four hours in advance.",
+    "group_id": "NIL-G12",
+    "stem": "What does the school require for the first lesson?",
+    "options": [
+      "A provisional licence",
+      "Payment in full",
+      "A parent's signature",
+      "A medical certificate"
+    ],
+    "answer": 0,
+    "explain_zh": "接線員提醒第一堂課要攜帶臨時駕照，並說明課程若要取消，需在二十四小時前告知。這題考驗聽出結尾附加的要求。",
+    "vocab": [
+      {
+        "w": "reschedule",
+        "zh": "重新安排",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0061",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Hello, Golden Table Catering, this is Priya.\nB: Hi, I'd like to order catering for a birthday party.\nA: Sure, how many guests are we talking about?\nB: About forty people.\nA: Okay, for forty guests, our standard buffet package is three hundred and sixty pounds — oh, actually, that price is for thirty guests, for forty it would be four hundred and eighty pounds.\nB: I see, that works. Do you offer vegetarian options?\nA: Yes, we can do a mixed buffet with vegetarian and meat dishes, at no extra charge.\nB: Great, when is the earliest you could deliver?\nA: We need at least five days' notice, so the earliest would be next Friday.\nB: Friday is perfect, that's the party date anyway.\nA: Wonderful. Can I get your name for the order?\nB: It's Isabelle Thackeray — T-H-A-C-K-E-R-A-Y.\nA: And a contact number?\nB: 0772 916 3358.\nA: Thanks, Isabelle. We'll deliver at noon on Friday, and please note a fifty pound deposit is required to confirm the booking.",
+    "group_id": "NIL-G13",
+    "stem": "What is the woman calling about?",
+    "options": [
+      "To complain about food quality",
+      "To order catering for a party",
+      "To cancel an order",
+      "To apply for a catering job"
+    ],
+    "answer": 1,
+    "explain_zh": "女子打電話是要為生日派對訂購外燴服務，這是對話開頭就說明的目的。其餘選項如抱怨品質、應徵工作都沒有出現。",
+    "vocab": [
+      {
+        "w": "buffet",
+        "zh": "自助餐",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0062",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Hello, Golden Table Catering, this is Priya.\nB: Hi, I'd like to order catering for a birthday party.\nA: Sure, how many guests are we talking about?\nB: About forty people.\nA: Okay, for forty guests, our standard buffet package is three hundred and sixty pounds — oh, actually, that price is for thirty guests, for forty it would be four hundred and eighty pounds.\nB: I see, that works. Do you offer vegetarian options?\nA: Yes, we can do a mixed buffet with vegetarian and meat dishes, at no extra charge.\nB: Great, when is the earliest you could deliver?\nA: We need at least five days' notice, so the earliest would be next Friday.\nB: Friday is perfect, that's the party date anyway.\nA: Wonderful. Can I get your name for the order?\nB: It's Isabelle Thackeray — T-H-A-C-K-E-R-A-Y.\nA: And a contact number?\nB: 0772 916 3358.\nA: Thanks, Isabelle. We'll deliver at noon on Friday, and please note a fifty pound deposit is required to confirm the booking.",
+    "group_id": "NIL-G13",
+    "stem": "How much does the catering cost for forty guests?",
+    "options": [
+      "£420",
+      "£360",
+      "£480",
+      "£400"
+    ],
+    "answer": 2,
+    "explain_zh": "接線員一開始報價三百六十鎊，但那是三十人的價格，四十人實際上是四百八十鎊。這是典型「人數不符再更正」的陷阱題。",
+    "vocab": [
+      {
+        "w": "guest",
+        "zh": "賓客",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0063",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hello, Golden Table Catering, this is Priya.\nB: Hi, I'd like to order catering for a birthday party.\nA: Sure, how many guests are we talking about?\nB: About forty people.\nA: Okay, for forty guests, our standard buffet package is three hundred and sixty pounds — oh, actually, that price is for thirty guests, for forty it would be four hundred and eighty pounds.\nB: I see, that works. Do you offer vegetarian options?\nA: Yes, we can do a mixed buffet with vegetarian and meat dishes, at no extra charge.\nB: Great, when is the earliest you could deliver?\nA: We need at least five days' notice, so the earliest would be next Friday.\nB: Friday is perfect, that's the party date anyway.\nA: Wonderful. Can I get your name for the order?\nB: It's Isabelle Thackeray — T-H-A-C-K-E-R-A-Y.\nA: And a contact number?\nB: 0772 916 3358.\nA: Thanks, Isabelle. We'll deliver at noon on Friday, and please note a fifty pound deposit is required to confirm the booking.",
+    "group_id": "NIL-G13",
+    "stem": "When will the food be delivered?",
+    "options": [
+      "Thursday evening",
+      "Saturday morning",
+      "Wednesday",
+      "Friday at noon"
+    ],
+    "answer": 3,
+    "explain_zh": "接線員說明需要至少五天前預訂，最快能在下週五中午送達，剛好符合派對日期。數字時間題要聽出最終確定的送達時間。",
+    "vocab": [
+      {
+        "w": "notice",
+        "zh": "事先通知",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0064",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Hello, Golden Table Catering, this is Priya.\nB: Hi, I'd like to order catering for a birthday party.\nA: Sure, how many guests are we talking about?\nB: About forty people.\nA: Okay, for forty guests, our standard buffet package is three hundred and sixty pounds — oh, actually, that price is for thirty guests, for forty it would be four hundred and eighty pounds.\nB: I see, that works. Do you offer vegetarian options?\nA: Yes, we can do a mixed buffet with vegetarian and meat dishes, at no extra charge.\nB: Great, when is the earliest you could deliver?\nA: We need at least five days' notice, so the earliest would be next Friday.\nB: Friday is perfect, that's the party date anyway.\nA: Wonderful. Can I get your name for the order?\nB: It's Isabelle Thackeray — T-H-A-C-K-E-R-A-Y.\nA: And a contact number?\nB: 0772 916 3358.\nA: Thanks, Isabelle. We'll deliver at noon on Friday, and please note a fifty pound deposit is required to confirm the booking.",
+    "group_id": "NIL-G13",
+    "stem": "How is the woman's surname spelled?",
+    "options": [
+      "THACKERAY",
+      "THACKARY",
+      "THACKERY",
+      "THAKERAY"
+    ],
+    "answer": 0,
+    "explain_zh": "女子拼出 T-H-A-C-K-E-R-A-Y，也就是 Thackeray，中間有完整的 CKER，結尾是 AY。拼字題要注意中間音節有無漏字母。",
+    "vocab": [
+      {
+        "w": "deposit",
+        "zh": "訂金",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0065",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hello, Golden Table Catering, this is Priya.\nB: Hi, I'd like to order catering for a birthday party.\nA: Sure, how many guests are we talking about?\nB: About forty people.\nA: Okay, for forty guests, our standard buffet package is three hundred and sixty pounds — oh, actually, that price is for thirty guests, for forty it would be four hundred and eighty pounds.\nB: I see, that works. Do you offer vegetarian options?\nA: Yes, we can do a mixed buffet with vegetarian and meat dishes, at no extra charge.\nB: Great, when is the earliest you could deliver?\nA: We need at least five days' notice, so the earliest would be next Friday.\nB: Friday is perfect, that's the party date anyway.\nA: Wonderful. Can I get your name for the order?\nB: It's Isabelle Thackeray — T-H-A-C-K-E-R-A-Y.\nA: And a contact number?\nB: 0772 916 3358.\nA: Thanks, Isabelle. We'll deliver at noon on Friday, and please note a fifty pound deposit is required to confirm the booking.",
+    "group_id": "NIL-G13",
+    "stem": "What is required to confirm the booking?",
+    "options": [
+      "A guest list",
+      "A £50 deposit",
+      "Full payment upfront",
+      "A signed contract"
+    ],
+    "answer": 1,
+    "explain_zh": "接線員在最後說明需要支付五十鎊訂金才能確認訂單，這題考驗聽出結尾的具體要求。",
+    "vocab": [
+      {
+        "w": "confirm",
+        "zh": "確認",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0066",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "Good morning, everyone, and welcome to the City History Museum. My name is Claudia, and I'll be guiding you through today. We'll begin on the ground floor, which houses artefacts from the medieval period, including coins, tools, and pottery found during the construction of the new bridge in 2019. From there, we'll move up to the first floor, where the Victorian gallery is located — please note that photography is allowed there, but flash photography is not, as it can damage the fabric exhibits. The second floor was originally going to be our final stop, but due to a new temporary exhibition on ancient trade routes, we'll actually be ending the tour on the third floor instead, which offers a wonderful view of the old town. The whole tour will take about ninety minutes. Please stay with the group at all times, and if you need to step away, let me know first. There is a gift shop on the ground floor, and it stays open thirty minutes after the museum closes for visitors who want to make a purchase. Restrooms are located near the entrance and on the second floor. Let's get started — please follow me to the first exhibit.",
+    "group_id": "NIL-G14",
+    "stem": "What is the main purpose of this talk?",
+    "options": [
+      "To recruit museum volunteers",
+      "To sell museum tickets",
+      "To introduce a guided museum tour",
+      "To advertise a gift shop"
+    ],
+    "answer": 2,
+    "explain_zh": "這段獨白是導覽員在博物館入口為遊客介紹整個導覽行程的安排，屬於典型的導覽開場白。其餘選項如賣票、招募志工都沒有出現在內容中。",
+    "vocab": [
+      {
+        "w": "guide",
+        "zh": "導覽；引導",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0067",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good morning, everyone, and welcome to the City History Museum. My name is Claudia, and I'll be guiding you through today. We'll begin on the ground floor, which houses artefacts from the medieval period, including coins, tools, and pottery found during the construction of the new bridge in 2019. From there, we'll move up to the first floor, where the Victorian gallery is located — please note that photography is allowed there, but flash photography is not, as it can damage the fabric exhibits. The second floor was originally going to be our final stop, but due to a new temporary exhibition on ancient trade routes, we'll actually be ending the tour on the third floor instead, which offers a wonderful view of the old town. The whole tour will take about ninety minutes. Please stay with the group at all times, and if you need to step away, let me know first. There is a gift shop on the ground floor, and it stays open thirty minutes after the museum closes for visitors who want to make a purchase. Restrooms are located near the entrance and on the second floor. Let's get started — please follow me to the first exhibit.",
+    "group_id": "NIL-G14",
+    "stem": "What can visitors find on the ground floor?",
+    "options": [
+      "A trade route exhibition",
+      "Modern sculptures",
+      "Victorian paintings",
+      "Medieval artefacts"
+    ],
+    "answer": 3,
+    "explain_zh": "導覽員說明一樓展示的是中世紀文物，包括錢幣、工具和陶器，都是興建新橋時挖掘出來的。其餘選項屬於其他樓層的展覽。",
+    "vocab": [
+      {
+        "w": "artefact",
+        "zh": "文物；人工製品",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0068",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "Good morning, everyone, and welcome to the City History Museum. My name is Claudia, and I'll be guiding you through today. We'll begin on the ground floor, which houses artefacts from the medieval period, including coins, tools, and pottery found during the construction of the new bridge in 2019. From there, we'll move up to the first floor, where the Victorian gallery is located — please note that photography is allowed there, but flash photography is not, as it can damage the fabric exhibits. The second floor was originally going to be our final stop, but due to a new temporary exhibition on ancient trade routes, we'll actually be ending the tour on the third floor instead, which offers a wonderful view of the old town. The whole tour will take about ninety minutes. Please stay with the group at all times, and if you need to step away, let me know first. There is a gift shop on the ground floor, and it stays open thirty minutes after the museum closes for visitors who want to make a purchase. Restrooms are located near the entrance and on the second floor. Let's get started — please follow me to the first exhibit.",
+    "group_id": "NIL-G14",
+    "stem": "Where will the tour actually end?",
+    "options": [
+      "The third floor",
+      "The first floor",
+      "The second floor",
+      "The ground floor"
+    ],
+    "answer": 0,
+    "explain_zh": "導覽員原本說第二樓是最後一站，但因為新增了關於古代貿易路線的臨時展覽，導覽其實會改在三樓結束。這是先講原計畫再更正的陷阱題。",
+    "vocab": [
+      {
+        "w": "temporary exhibition",
+        "zh": "臨時展覽",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0069",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning, everyone, and welcome to the City History Museum. My name is Claudia, and I'll be guiding you through today. We'll begin on the ground floor, which houses artefacts from the medieval period, including coins, tools, and pottery found during the construction of the new bridge in 2019. From there, we'll move up to the first floor, where the Victorian gallery is located — please note that photography is allowed there, but flash photography is not, as it can damage the fabric exhibits. The second floor was originally going to be our final stop, but due to a new temporary exhibition on ancient trade routes, we'll actually be ending the tour on the third floor instead, which offers a wonderful view of the old town. The whole tour will take about ninety minutes. Please stay with the group at all times, and if you need to step away, let me know first. There is a gift shop on the ground floor, and it stays open thirty minutes after the museum closes for visitors who want to make a purchase. Restrooms are located near the entrance and on the second floor. Let's get started — please follow me to the first exhibit.",
+    "group_id": "NIL-G14",
+    "stem": "How long will the whole tour take?",
+    "options": [
+      "Sixty minutes",
+      "Ninety minutes",
+      "Thirty minutes",
+      "Two hours"
+    ],
+    "answer": 1,
+    "explain_zh": "導覽員明確說明整個導覽大約需要九十分鐘，這是對話中清楚提到的數字，要與其他樓層資訊分開記憶。",
+    "vocab": [
+      {
+        "w": "duration",
+        "zh": "持續時間",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0070",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good morning, everyone, and welcome to the City History Museum. My name is Claudia, and I'll be guiding you through today. We'll begin on the ground floor, which houses artefacts from the medieval period, including coins, tools, and pottery found during the construction of the new bridge in 2019. From there, we'll move up to the first floor, where the Victorian gallery is located — please note that photography is allowed there, but flash photography is not, as it can damage the fabric exhibits. The second floor was originally going to be our final stop, but due to a new temporary exhibition on ancient trade routes, we'll actually be ending the tour on the third floor instead, which offers a wonderful view of the old town. The whole tour will take about ninety minutes. Please stay with the group at all times, and if you need to step away, let me know first. There is a gift shop on the ground floor, and it stays open thirty minutes after the museum closes for visitors who want to make a purchase. Restrooms are located near the entrance and on the second floor. Let's get started — please follow me to the first exhibit.",
+    "group_id": "NIL-G14",
+    "stem": "What are visitors NOT allowed to do on the first floor?",
+    "options": [
+      "Talk loudly",
+      "Take photographs",
+      "Use flash photography",
+      "Touch the exhibits"
+    ],
+    "answer": 2,
+    "explain_zh": "導覽員特別說明一樓的維多利亞展廳可以拍照，但不能使用閃光燈，因為會損壞布料類展品。這題考驗聽出對話中間的限制規定。",
+    "vocab": [
+      {
+        "w": "flash photography",
+        "zh": "閃光燈攝影",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0071",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "Hi everyone, thanks for coming. I'm Marcus from the town council, and I want to give you a quick update on the upcoming Riverside Autumn Festival. The festival was originally planned for the second Saturday of October, but due to a scheduling clash with the regional marathon, it has been moved to the third Saturday instead. The event will run from ten in the morning until eight in the evening, and it will take place in Riverside Park, near the old boathouse. This year we're introducing a new craft market with over thirty local stalls, alongside the usual food trucks and live music stage. Entry is free for everyone, but there will be a small charge of three pounds for the children's activity zone, which covers face painting and games. We're also looking for volunteers to help with setup on the Friday evening before the festival, and anyone who volunteers for at least two hours will get a free festival T-shirt. If you're interested, please sign up at the community centre desk by the end of this week. Parking near the park is limited, so we strongly recommend walking or cycling if possible.",
+    "group_id": "NIL-G15",
+    "stem": "What is this announcement mainly about?",
+    "options": [
+      "A council election",
+      "A new park opening",
+      "A road closure notice",
+      "An update on an autumn festival"
+    ],
+    "answer": 3,
+    "explain_zh": "這段獨白主要在向居民更新即將舉辦的河畔秋季節慶的相關資訊，包含日期、地點與活動內容。其餘選項如選舉、新公園開幕都沒有出現。",
+    "vocab": [
+      {
+        "w": "update",
+        "zh": "最新消息；更新",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0072",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "Hi everyone, thanks for coming. I'm Marcus from the town council, and I want to give you a quick update on the upcoming Riverside Autumn Festival. The festival was originally planned for the second Saturday of October, but due to a scheduling clash with the regional marathon, it has been moved to the third Saturday instead. The event will run from ten in the morning until eight in the evening, and it will take place in Riverside Park, near the old boathouse. This year we're introducing a new craft market with over thirty local stalls, alongside the usual food trucks and live music stage. Entry is free for everyone, but there will be a small charge of three pounds for the children's activity zone, which covers face painting and games. We're also looking for volunteers to help with setup on the Friday evening before the festival, and anyone who volunteers for at least two hours will get a free festival T-shirt. If you're interested, please sign up at the community centre desk by the end of this week. Parking near the park is limited, so we strongly recommend walking or cycling if possible.",
+    "group_id": "NIL-G15",
+    "stem": "When will the festival now take place?",
+    "options": [
+      "The third Saturday of October",
+      "The first Sunday of October",
+      "The last Saturday of September",
+      "The second Saturday of October"
+    ],
+    "answer": 0,
+    "explain_zh": "說話者提到節慶原訂在十月第二個星期六舉行，但因為和區域馬拉松撞期，已經改到第三個星期六。這是先講原計畫再更正的陷阱題。",
+    "vocab": [
+      {
+        "w": "scheduling clash",
+        "zh": "時間撞期",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0073",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Hi everyone, thanks for coming. I'm Marcus from the town council, and I want to give you a quick update on the upcoming Riverside Autumn Festival. The festival was originally planned for the second Saturday of October, but due to a scheduling clash with the regional marathon, it has been moved to the third Saturday instead. The event will run from ten in the morning until eight in the evening, and it will take place in Riverside Park, near the old boathouse. This year we're introducing a new craft market with over thirty local stalls, alongside the usual food trucks and live music stage. Entry is free for everyone, but there will be a small charge of three pounds for the children's activity zone, which covers face painting and games. We're also looking for volunteers to help with setup on the Friday evening before the festival, and anyone who volunteers for at least two hours will get a free festival T-shirt. If you're interested, please sign up at the community centre desk by the end of this week. Parking near the park is limited, so we strongly recommend walking or cycling if possible.",
+    "group_id": "NIL-G15",
+    "stem": "How much does the children's activity zone cost?",
+    "options": [
+      "It is free",
+      "£3",
+      "£5",
+      "£10"
+    ],
+    "answer": 1,
+    "explain_zh": "說話者說明整個節慶免費入場，但兒童活動區需要另外付三鎊，這題考驗聽出「整體免費、部分收費」的細節區分。",
+    "vocab": [
+      {
+        "w": "charge",
+        "zh": "費用；收費",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0074",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Hi everyone, thanks for coming. I'm Marcus from the town council, and I want to give you a quick update on the upcoming Riverside Autumn Festival. The festival was originally planned for the second Saturday of October, but due to a scheduling clash with the regional marathon, it has been moved to the third Saturday instead. The event will run from ten in the morning until eight in the evening, and it will take place in Riverside Park, near the old boathouse. This year we're introducing a new craft market with over thirty local stalls, alongside the usual food trucks and live music stage. Entry is free for everyone, but there will be a small charge of three pounds for the children's activity zone, which covers face painting and games. We're also looking for volunteers to help with setup on the Friday evening before the festival, and anyone who volunteers for at least two hours will get a free festival T-shirt. If you're interested, please sign up at the community centre desk by the end of this week. Parking near the park is limited, so we strongly recommend walking or cycling if possible.",
+    "group_id": "NIL-G15",
+    "stem": "What new feature is being introduced this year?",
+    "options": [
+      "A pet parade",
+      "A firework show",
+      "A craft market",
+      "A boat race"
+    ],
+    "answer": 2,
+    "explain_zh": "說話者提到今年新增了超過三十個攤位的手工藝市集，這是相較於往年新加入的活動內容。其餘選項在對話中沒有提及。",
+    "vocab": [
+      {
+        "w": "stall",
+        "zh": "攤位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0075",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Hi everyone, thanks for coming. I'm Marcus from the town council, and I want to give you a quick update on the upcoming Riverside Autumn Festival. The festival was originally planned for the second Saturday of October, but due to a scheduling clash with the regional marathon, it has been moved to the third Saturday instead. The event will run from ten in the morning until eight in the evening, and it will take place in Riverside Park, near the old boathouse. This year we're introducing a new craft market with over thirty local stalls, alongside the usual food trucks and live music stage. Entry is free for everyone, but there will be a small charge of three pounds for the children's activity zone, which covers face painting and games. We're also looking for volunteers to help with setup on the Friday evening before the festival, and anyone who volunteers for at least two hours will get a free festival T-shirt. If you're interested, please sign up at the community centre desk by the end of this week. Parking near the park is limited, so we strongly recommend walking or cycling if possible.",
+    "group_id": "NIL-G15",
+    "stem": "What reward do volunteers receive for at least two hours of help?",
+    "options": [
+      "A parking pass",
+      "A gift voucher",
+      "A cash payment",
+      "A free festival T-shirt"
+    ],
+    "answer": 3,
+    "explain_zh": "說話者說明志工只要幫忙至少兩小時的佈置工作，就能獲得一件免費的節慶T恤。這題考驗聽出獨白後段的具體獎勵內容。",
+    "vocab": [
+      {
+        "w": "volunteer",
+        "zh": "志工；自願",
+        "pos": "n./v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0076",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "Good afternoon, and welcome to Kingsley University. I'm Professor Adeyemi, and on behalf of the faculty, I'd like to walk you through a few important points before the semester begins. First, all new students must complete their course registration online by the thirty-first of this month — the original deadline was the twenty-fifth, but it's been extended by six days due to the recent system upgrade. Orientation week activities will be held across campus, and the main welcome event takes place in the Grand Hall at two p.m. on Monday. Please bring your student ID card, which you can collect from the administration office on the ground floor of the library building. Each student is also assigned an academic advisor, and you should arrange a first meeting within your first two weeks. For students living in the dormitories, check-in begins this Sunday at nine a.m., and rooms must be vacated during winter break unless you apply for special permission. Lastly, the student union offers over fifty clubs and societies, and joining one is a great way to make friends early on. If you have questions, the student services desk is open every weekday from nine to five.",
+    "group_id": "NIL-G16",
+    "stem": "What is the main purpose of this talk?",
+    "options": [
+      "To orient new students before the semester",
+      "To recruit teaching staff",
+      "To explain library fines",
+      "To announce exam results"
+    ],
+    "answer": 0,
+    "explain_zh": "這段獨白是教授在為新生說明開學前的重要事項，屬於典型的新生說明會內容。其餘選項如公告考試成績、招募教職員都沒有出現。",
+    "vocab": [
+      {
+        "w": "orientation",
+        "zh": "新生說明會；迎新",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0077",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "Good afternoon, and welcome to Kingsley University. I'm Professor Adeyemi, and on behalf of the faculty, I'd like to walk you through a few important points before the semester begins. First, all new students must complete their course registration online by the thirty-first of this month — the original deadline was the twenty-fifth, but it's been extended by six days due to the recent system upgrade. Orientation week activities will be held across campus, and the main welcome event takes place in the Grand Hall at two p.m. on Monday. Please bring your student ID card, which you can collect from the administration office on the ground floor of the library building. Each student is also assigned an academic advisor, and you should arrange a first meeting within your first two weeks. For students living in the dormitories, check-in begins this Sunday at nine a.m., and rooms must be vacated during winter break unless you apply for special permission. Lastly, the student union offers over fifty clubs and societies, and joining one is a great way to make friends early on. If you have questions, the student services desk is open every weekday from nine to five.",
+    "group_id": "NIL-G16",
+    "stem": "What is the actual deadline for course registration?",
+    "options": [
+      "The 25th",
+      "The 31st",
+      "The 20th",
+      "The 1st of next month"
+    ],
+    "answer": 1,
+    "explain_zh": "教授提到原本的截止日是二十五號，但因系統升級延長了六天，實際截止日是三十一號。這是先講原訂日期再更正的陷阱題，要聽到最終確定的日期。",
+    "vocab": [
+      {
+        "w": "deadline",
+        "zh": "截止日期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0078",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good afternoon, and welcome to Kingsley University. I'm Professor Adeyemi, and on behalf of the faculty, I'd like to walk you through a few important points before the semester begins. First, all new students must complete their course registration online by the thirty-first of this month — the original deadline was the twenty-fifth, but it's been extended by six days due to the recent system upgrade. Orientation week activities will be held across campus, and the main welcome event takes place in the Grand Hall at two p.m. on Monday. Please bring your student ID card, which you can collect from the administration office on the ground floor of the library building. Each student is also assigned an academic advisor, and you should arrange a first meeting within your first two weeks. For students living in the dormitories, check-in begins this Sunday at nine a.m., and rooms must be vacated during winter break unless you apply for special permission. Lastly, the student union offers over fifty clubs and societies, and joining one is a great way to make friends early on. If you have questions, the student services desk is open every weekday from nine to five.",
+    "group_id": "NIL-G16",
+    "stem": "Where can students collect their student ID card?",
+    "options": [
+      "The dormitory office",
+      "The Grand Hall",
+      "The administration office in the library building",
+      "The student union"
+    ],
+    "answer": 2,
+    "explain_zh": "教授說明學生證要到圖書館大樓一樓的行政辦公室領取，這題考驗聽出獨白中段的具體地點。",
+    "vocab": [
+      {
+        "w": "administration office",
+        "zh": "行政辦公室",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0079",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good afternoon, and welcome to Kingsley University. I'm Professor Adeyemi, and on behalf of the faculty, I'd like to walk you through a few important points before the semester begins. First, all new students must complete their course registration online by the thirty-first of this month — the original deadline was the twenty-fifth, but it's been extended by six days due to the recent system upgrade. Orientation week activities will be held across campus, and the main welcome event takes place in the Grand Hall at two p.m. on Monday. Please bring your student ID card, which you can collect from the administration office on the ground floor of the library building. Each student is also assigned an academic advisor, and you should arrange a first meeting within your first two weeks. For students living in the dormitories, check-in begins this Sunday at nine a.m., and rooms must be vacated during winter break unless you apply for special permission. Lastly, the student union offers over fifty clubs and societies, and joining one is a great way to make friends early on. If you have questions, the student services desk is open every weekday from nine to five.",
+    "group_id": "NIL-G16",
+    "stem": "When does dormitory check-in begin?",
+    "options": [
+      "Monday at 2 p.m.",
+      "Sunday at 2 p.m.",
+      "Saturday at 9 a.m.",
+      "Sunday at 9 a.m."
+    ],
+    "answer": 3,
+    "explain_zh": "教授明確說明宿舍入住從這週日早上九點開始，這是獨白中清楚提到的時間點，要與週一的迎新活動時間分開記憶。",
+    "vocab": [
+      {
+        "w": "check-in",
+        "zh": "報到；入住登記",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0080",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good afternoon, and welcome to Kingsley University. I'm Professor Adeyemi, and on behalf of the faculty, I'd like to walk you through a few important points before the semester begins. First, all new students must complete their course registration online by the thirty-first of this month — the original deadline was the twenty-fifth, but it's been extended by six days due to the recent system upgrade. Orientation week activities will be held across campus, and the main welcome event takes place in the Grand Hall at two p.m. on Monday. Please bring your student ID card, which you can collect from the administration office on the ground floor of the library building. Each student is also assigned an academic advisor, and you should arrange a first meeting within your first two weeks. For students living in the dormitories, check-in begins this Sunday at nine a.m., and rooms must be vacated during winter break unless you apply for special permission. Lastly, the student union offers over fifty clubs and societies, and joining one is a great way to make friends early on. If you have questions, the student services desk is open every weekday from nine to five.",
+    "group_id": "NIL-G16",
+    "stem": "How many clubs and societies does the student union offer?",
+    "options": [
+      "Over fifty",
+      "Over sixty",
+      "Over thirty",
+      "Over forty"
+    ],
+    "answer": 0,
+    "explain_zh": "教授在最後提到學生會提供超過五十個社團供學生加入，這是獨白結尾的具體數字，要留意「over」表示「超過」的用法。",
+    "vocab": [
+      {
+        "w": "society",
+        "zh": "社團；學會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0081",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "Welcome to Pinecrest National Park. Before you head out on the trails, I'd like to go over a few important rules. The park covers a large area, and the main visitor trail is six kilometres long, taking most walkers about two hours to complete. Please stay on the marked paths at all times — leaving the trail can damage the local plant life, which the park has been working to restore for over a decade. Campfires are strictly prohibited anywhere in the park due to wildfire risk, though we do provide designated barbecue areas near the entrance for cooking. We originally allowed dogs on all trails, but following some incidents with wildlife, dogs are now only permitted on the shorter riverside path, and they must be kept on a lead at all times. The visitor centre closes at five p.m., but the trails themselves remain open until sunset. If you plan to camp overnight, you'll need to book a permit in advance at the visitor centre, and only fifteen camping permits are issued per night to protect the environment. Lastly, please take all your rubbish with you, as there are no bins along the trails.",
+    "group_id": "NIL-G17",
+    "stem": "What is this talk mainly about?",
+    "options": [
+      "Directions to the nearest town",
+      "Rules for visiting the national park",
+      "A history of the park",
+      "Weather warnings"
+    ],
+    "answer": 1,
+    "explain_zh": "這段獨白是公園管理員在向遊客說明入園前必須遵守的規定，屬於典型的公園規則說明。其餘選項如小鎮方向、公園歷史都沒有出現。",
+    "vocab": [
+      {
+        "w": "trail",
+        "zh": "步道",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0082",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "Welcome to Pinecrest National Park. Before you head out on the trails, I'd like to go over a few important rules. The park covers a large area, and the main visitor trail is six kilometres long, taking most walkers about two hours to complete. Please stay on the marked paths at all times — leaving the trail can damage the local plant life, which the park has been working to restore for over a decade. Campfires are strictly prohibited anywhere in the park due to wildfire risk, though we do provide designated barbecue areas near the entrance for cooking. We originally allowed dogs on all trails, but following some incidents with wildlife, dogs are now only permitted on the shorter riverside path, and they must be kept on a lead at all times. The visitor centre closes at five p.m., but the trails themselves remain open until sunset. If you plan to camp overnight, you'll need to book a permit in advance at the visitor centre, and only fifteen camping permits are issued per night to protect the environment. Lastly, please take all your rubbish with you, as there are no bins along the trails.",
+    "group_id": "NIL-G17",
+    "stem": "Where are dogs now permitted?",
+    "options": [
+      "Only in the camping area",
+      "On all trails",
+      "On the shorter riverside path only",
+      "Nowhere in the park"
+    ],
+    "answer": 2,
+    "explain_zh": "管理員提到原本所有步道都能帶狗，但因為發生與野生動物的意外事件，現在只有較短的河濱步道能帶狗，而且必須繫牽繩。這是先講原規定再更正的陷阱題。",
+    "vocab": [
+      {
+        "w": "wildlife",
+        "zh": "野生動物",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0083",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome to Pinecrest National Park. Before you head out on the trails, I'd like to go over a few important rules. The park covers a large area, and the main visitor trail is six kilometres long, taking most walkers about two hours to complete. Please stay on the marked paths at all times — leaving the trail can damage the local plant life, which the park has been working to restore for over a decade. Campfires are strictly prohibited anywhere in the park due to wildfire risk, though we do provide designated barbecue areas near the entrance for cooking. We originally allowed dogs on all trails, but following some incidents with wildlife, dogs are now only permitted on the shorter riverside path, and they must be kept on a lead at all times. The visitor centre closes at five p.m., but the trails themselves remain open until sunset. If you plan to camp overnight, you'll need to book a permit in advance at the visitor centre, and only fifteen camping permits are issued per night to protect the environment. Lastly, please take all your rubbish with you, as there are no bins along the trails.",
+    "group_id": "NIL-G17",
+    "stem": "How long is the main visitor trail?",
+    "options": [
+      "Eight kilometres",
+      "Ten kilometres",
+      "Four kilometres",
+      "Six kilometres"
+    ],
+    "answer": 3,
+    "explain_zh": "管理員說明主要遊客步道全長六公里，一般遊客大約需要兩小時完成。這是獨白中明確提到的數字細節。",
+    "vocab": [
+      {
+        "w": "marked path",
+        "zh": "標示步道",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0084",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Welcome to Pinecrest National Park. Before you head out on the trails, I'd like to go over a few important rules. The park covers a large area, and the main visitor trail is six kilometres long, taking most walkers about two hours to complete. Please stay on the marked paths at all times — leaving the trail can damage the local plant life, which the park has been working to restore for over a decade. Campfires are strictly prohibited anywhere in the park due to wildfire risk, though we do provide designated barbecue areas near the entrance for cooking. We originally allowed dogs on all trails, but following some incidents with wildlife, dogs are now only permitted on the shorter riverside path, and they must be kept on a lead at all times. The visitor centre closes at five p.m., but the trails themselves remain open until sunset. If you plan to camp overnight, you'll need to book a permit in advance at the visitor centre, and only fifteen camping permits are issued per night to protect the environment. Lastly, please take all your rubbish with you, as there are no bins along the trails.",
+    "group_id": "NIL-G17",
+    "stem": "Why are campfires prohibited in the park?",
+    "options": [
+      "Because of wildfire risk",
+      "Because of air pollution rules",
+      "Because of insect problems",
+      "Because of noise complaints"
+    ],
+    "answer": 0,
+    "explain_zh": "管理員明確說明因為野火風險，園內全面禁止生營火，但入口附近有指定的烤肉區可以使用。這題考驗聽出禁令背後的原因。",
+    "vocab": [
+      {
+        "w": "prohibited",
+        "zh": "被禁止的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0085",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Welcome to Pinecrest National Park. Before you head out on the trails, I'd like to go over a few important rules. The park covers a large area, and the main visitor trail is six kilometres long, taking most walkers about two hours to complete. Please stay on the marked paths at all times — leaving the trail can damage the local plant life, which the park has been working to restore for over a decade. Campfires are strictly prohibited anywhere in the park due to wildfire risk, though we do provide designated barbecue areas near the entrance for cooking. We originally allowed dogs on all trails, but following some incidents with wildlife, dogs are now only permitted on the shorter riverside path, and they must be kept on a lead at all times. The visitor centre closes at five p.m., but the trails themselves remain open until sunset. If you plan to camp overnight, you'll need to book a permit in advance at the visitor centre, and only fifteen camping permits are issued per night to protect the environment. Lastly, please take all your rubbish with you, as there are no bins along the trails.",
+    "group_id": "NIL-G17",
+    "stem": "How many camping permits are issued per night?",
+    "options": [
+      "Ten",
+      "Fifteen",
+      "Twenty",
+      "Twenty-five"
+    ],
+    "answer": 1,
+    "explain_zh": "管理員在後段提到為了保護環境，每晚只發放十五張露營許可證，需事先到遊客中心申請。這題考驗聽出獨白後段的具體數字。",
+    "vocab": [
+      {
+        "w": "permit",
+        "zh": "許可證",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0086",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "Hi everyone, thanks for stopping by. I'm Leo, from the Coastal Care Society, and we're currently recruiting volunteers for our monthly beach cleanup programme. The cleanups take place on the first Sunday of every month at Seaford Beach, starting at eight in the morning and usually finishing by eleven. We originally met at the main car park, but since that area is being repaired, we now meet at the small car park near the lighthouse instead. All equipment, including gloves and rubbish bags, is provided, so you don't need to bring anything except comfortable shoes and, ideally, a reusable water bottle. Last month, our volunteers collected over two hundred kilograms of rubbish, mostly plastic bottles and fishing nets, which really shows how much this work matters. Volunteers under sixteen must be accompanied by an adult, and we ask everyone to sign a short registration form on the day for insurance purposes. After each cleanup, we usually have a short chat over coffee at the nearby cafe, which is a nice way to get to know other volunteers. If you'd like to join, just show up on the day, or email us in advance so we can keep a rough headcount.",
+    "group_id": "NIL-G18",
+    "stem": "What is the main purpose of this talk?",
+    "options": [
+      "To announce a beach closure",
+      "To recruit volunteers for a beach cleanup",
+      "To report on ocean pollution research",
+      "To sell reusable water bottles"
+    ],
+    "answer": 2,
+    "explain_zh": "這段獨白是說話者在招募志工參加每月一次的海灘淨灘活動，屬於典型的志工招募說明。其餘選項如研究報告、關閉海灘都沒有出現。",
+    "vocab": [
+      {
+        "w": "recruit",
+        "zh": "招募",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0087",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "Hi everyone, thanks for stopping by. I'm Leo, from the Coastal Care Society, and we're currently recruiting volunteers for our monthly beach cleanup programme. The cleanups take place on the first Sunday of every month at Seaford Beach, starting at eight in the morning and usually finishing by eleven. We originally met at the main car park, but since that area is being repaired, we now meet at the small car park near the lighthouse instead. All equipment, including gloves and rubbish bags, is provided, so you don't need to bring anything except comfortable shoes and, ideally, a reusable water bottle. Last month, our volunteers collected over two hundred kilograms of rubbish, mostly plastic bottles and fishing nets, which really shows how much this work matters. Volunteers under sixteen must be accompanied by an adult, and we ask everyone to sign a short registration form on the day for insurance purposes. After each cleanup, we usually have a short chat over coffee at the nearby cafe, which is a nice way to get to know other volunteers. If you'd like to join, just show up on the day, or email us in advance so we can keep a rough headcount.",
+    "group_id": "NIL-G18",
+    "stem": "Where do volunteers now meet before the cleanup?",
+    "options": [
+      "The cafe",
+      "The beach entrance",
+      "The main car park",
+      "The small car park near the lighthouse"
+    ],
+    "answer": 3,
+    "explain_zh": "說話者提到原本在主停車場集合，但因為該區正在維修，現在改到燈塔附近的小停車場集合。這是先講原地點再更正的陷阱題。",
+    "vocab": [
+      {
+        "w": "lighthouse",
+        "zh": "燈塔",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0088",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Hi everyone, thanks for stopping by. I'm Leo, from the Coastal Care Society, and we're currently recruiting volunteers for our monthly beach cleanup programme. The cleanups take place on the first Sunday of every month at Seaford Beach, starting at eight in the morning and usually finishing by eleven. We originally met at the main car park, but since that area is being repaired, we now meet at the small car park near the lighthouse instead. All equipment, including gloves and rubbish bags, is provided, so you don't need to bring anything except comfortable shoes and, ideally, a reusable water bottle. Last month, our volunteers collected over two hundred kilograms of rubbish, mostly plastic bottles and fishing nets, which really shows how much this work matters. Volunteers under sixteen must be accompanied by an adult, and we ask everyone to sign a short registration form on the day for insurance purposes. After each cleanup, we usually have a short chat over coffee at the nearby cafe, which is a nice way to get to know other volunteers. If you'd like to join, just show up on the day, or email us in advance so we can keep a rough headcount.",
+    "group_id": "NIL-G18",
+    "stem": "What time does the cleanup usually finish?",
+    "options": [
+      "11 a.m.",
+      "12 p.m.",
+      "9 a.m.",
+      "10 a.m."
+    ],
+    "answer": 0,
+    "explain_zh": "說話者說明淨灘活動從早上八點開始，通常到十一點結束，這是獨白中清楚提到的時間資訊。",
+    "vocab": [
+      {
+        "w": "cleanup",
+        "zh": "清潔活動",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0089",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Hi everyone, thanks for stopping by. I'm Leo, from the Coastal Care Society, and we're currently recruiting volunteers for our monthly beach cleanup programme. The cleanups take place on the first Sunday of every month at Seaford Beach, starting at eight in the morning and usually finishing by eleven. We originally met at the main car park, but since that area is being repaired, we now meet at the small car park near the lighthouse instead. All equipment, including gloves and rubbish bags, is provided, so you don't need to bring anything except comfortable shoes and, ideally, a reusable water bottle. Last month, our volunteers collected over two hundred kilograms of rubbish, mostly plastic bottles and fishing nets, which really shows how much this work matters. Volunteers under sixteen must be accompanied by an adult, and we ask everyone to sign a short registration form on the day for insurance purposes. After each cleanup, we usually have a short chat over coffee at the nearby cafe, which is a nice way to get to know other volunteers. If you'd like to join, just show up on the day, or email us in advance so we can keep a rough headcount.",
+    "group_id": "NIL-G18",
+    "stem": "What should volunteers bring themselves?",
+    "options": [
+      "Gloves and rubbish bags",
+      "Comfortable shoes and a water bottle",
+      "Sunscreen and a hat",
+      "A first aid kit"
+    ],
+    "answer": 1,
+    "explain_zh": "說話者說明手套和垃圾袋都由主辦單位提供，志工只需要自備舒適的鞋子和水壺。這題考驗聽出「已提供」與「需自備」的區別。",
+    "vocab": [
+      {
+        "w": "reusable",
+        "zh": "可重複使用的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0090",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Hi everyone, thanks for stopping by. I'm Leo, from the Coastal Care Society, and we're currently recruiting volunteers for our monthly beach cleanup programme. The cleanups take place on the first Sunday of every month at Seaford Beach, starting at eight in the morning and usually finishing by eleven. We originally met at the main car park, but since that area is being repaired, we now meet at the small car park near the lighthouse instead. All equipment, including gloves and rubbish bags, is provided, so you don't need to bring anything except comfortable shoes and, ideally, a reusable water bottle. Last month, our volunteers collected over two hundred kilograms of rubbish, mostly plastic bottles and fishing nets, which really shows how much this work matters. Volunteers under sixteen must be accompanied by an adult, and we ask everyone to sign a short registration form on the day for insurance purposes. After each cleanup, we usually have a short chat over coffee at the nearby cafe, which is a nice way to get to know other volunteers. If you'd like to join, just show up on the day, or email us in advance so we can keep a rough headcount.",
+    "group_id": "NIL-G18",
+    "stem": "How much rubbish did volunteers collect last month?",
+    "options": [
+      "Over 500 kilograms",
+      "Over 100 kilograms",
+      "Over 200 kilograms",
+      "Over 300 kilograms"
+    ],
+    "answer": 2,
+    "explain_zh": "說話者提到上個月志工總共清出超過兩百公斤的垃圾，大多是塑膠瓶和漁網。這題考驗聽出獨白中段的統計數字。",
+    "vocab": [
+      {
+        "w": "fishing net",
+        "zh": "漁網",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0091",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "Welcome to the Bluewater Aquarium, my name's Sian and I'll be your guide for today's tour. We'll start in the tropical zone, home to over sixty species of colourful reef fish, before moving on to the shark tunnel, where you can walk right underneath the tank. The shark feeding was originally scheduled for eleven o'clock, but since our marine biologist is running a special talk this morning, feeding has been moved to one p.m. instead. After the shark tunnel, we'll visit the touch pool, where children can gently handle starfish and small crabs under staff supervision. Please note that flash photography is not allowed anywhere in the aquarium, as it can stress the animals. The jellyfish exhibit, our newest addition, opened just last month and uses special lighting to highlight the jellyfish's natural glow. The full tour takes around seventy minutes, and there's a cafe near the exit if you'd like a break afterwards. Restrooms are located next to the gift shop. If anyone needs a wheelchair or pushchair, please ask a staff member at the front desk before we begin.",
+    "group_id": "NIL-G19",
+    "stem": "What is the main purpose of this talk?",
+    "options": [
+      "To explain shark biology",
+      "To announce the aquarium's closing",
+      "To introduce a guided aquarium tour",
+      "To advertise aquarium memberships"
+    ],
+    "answer": 3,
+    "explain_zh": "這段獨白是導覽員在水族館入口介紹整個導覽行程，屬於典型的導覽開場白。其餘選項如會員推廣、鯊魚生態解說都不是主要目的。",
+    "vocab": [
+      {
+        "w": "reef fish",
+        "zh": "珊瑚礁魚類",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0092",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "Welcome to the Bluewater Aquarium, my name's Sian and I'll be your guide for today's tour. We'll start in the tropical zone, home to over sixty species of colourful reef fish, before moving on to the shark tunnel, where you can walk right underneath the tank. The shark feeding was originally scheduled for eleven o'clock, but since our marine biologist is running a special talk this morning, feeding has been moved to one p.m. instead. After the shark tunnel, we'll visit the touch pool, where children can gently handle starfish and small crabs under staff supervision. Please note that flash photography is not allowed anywhere in the aquarium, as it can stress the animals. The jellyfish exhibit, our newest addition, opened just last month and uses special lighting to highlight the jellyfish's natural glow. The full tour takes around seventy minutes, and there's a cafe near the exit if you'd like a break afterwards. Restrooms are located next to the gift shop. If anyone needs a wheelchair or pushchair, please ask a staff member at the front desk before we begin.",
+    "group_id": "NIL-G19",
+    "stem": "What time is the shark feeding now scheduled for?",
+    "options": [
+      "1 p.m.",
+      "12 p.m.",
+      "10 a.m.",
+      "11 a.m."
+    ],
+    "answer": 0,
+    "explain_zh": "導覽員提到鯊魚餵食原訂上午十一點，但因為早上有海洋生物學家的特別演講，時間改到下午一點。這是先講原計畫再更正的陷阱題。",
+    "vocab": [
+      {
+        "w": "marine biologist",
+        "zh": "海洋生物學家",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0093",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Welcome to the Bluewater Aquarium, my name's Sian and I'll be your guide for today's tour. We'll start in the tropical zone, home to over sixty species of colourful reef fish, before moving on to the shark tunnel, where you can walk right underneath the tank. The shark feeding was originally scheduled for eleven o'clock, but since our marine biologist is running a special talk this morning, feeding has been moved to one p.m. instead. After the shark tunnel, we'll visit the touch pool, where children can gently handle starfish and small crabs under staff supervision. Please note that flash photography is not allowed anywhere in the aquarium, as it can stress the animals. The jellyfish exhibit, our newest addition, opened just last month and uses special lighting to highlight the jellyfish's natural glow. The full tour takes around seventy minutes, and there's a cafe near the exit if you'd like a break afterwards. Restrooms are located next to the gift shop. If anyone needs a wheelchair or pushchair, please ask a staff member at the front desk before we begin.",
+    "group_id": "NIL-G19",
+    "stem": "How long does the full tour take?",
+    "options": [
+      "Fifty minutes",
+      "Seventy minutes",
+      "Ninety minutes",
+      "Sixty minutes"
+    ],
+    "answer": 1,
+    "explain_zh": "導覽員說明整個導覽大約需要七十分鐘，這是獨白中明確提到的時間長度。",
+    "vocab": [
+      {
+        "w": "tour",
+        "zh": "導覽；行程",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0094",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Welcome to the Bluewater Aquarium, my name's Sian and I'll be your guide for today's tour. We'll start in the tropical zone, home to over sixty species of colourful reef fish, before moving on to the shark tunnel, where you can walk right underneath the tank. The shark feeding was originally scheduled for eleven o'clock, but since our marine biologist is running a special talk this morning, feeding has been moved to one p.m. instead. After the shark tunnel, we'll visit the touch pool, where children can gently handle starfish and small crabs under staff supervision. Please note that flash photography is not allowed anywhere in the aquarium, as it can stress the animals. The jellyfish exhibit, our newest addition, opened just last month and uses special lighting to highlight the jellyfish's natural glow. The full tour takes around seventy minutes, and there's a cafe near the exit if you'd like a break afterwards. Restrooms are located next to the gift shop. If anyone needs a wheelchair or pushchair, please ask a staff member at the front desk before we begin.",
+    "group_id": "NIL-G19",
+    "stem": "What can children do at the touch pool?",
+    "options": [
+      "Watch a jellyfish show",
+      "Feed the sharks",
+      "Handle starfish and small crabs",
+      "Swim with dolphins"
+    ],
+    "answer": 2,
+    "explain_zh": "導覽員說明觸摸池讓小朋友能在工作人員監督下輕輕觸摸海星和小螃蟹。這題考驗聽出獨白中段的具體活動內容。",
+    "vocab": [
+      {
+        "w": "supervision",
+        "zh": "監督；照看",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0095",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Welcome to the Bluewater Aquarium, my name's Sian and I'll be your guide for today's tour. We'll start in the tropical zone, home to over sixty species of colourful reef fish, before moving on to the shark tunnel, where you can walk right underneath the tank. The shark feeding was originally scheduled for eleven o'clock, but since our marine biologist is running a special talk this morning, feeding has been moved to one p.m. instead. After the shark tunnel, we'll visit the touch pool, where children can gently handle starfish and small crabs under staff supervision. Please note that flash photography is not allowed anywhere in the aquarium, as it can stress the animals. The jellyfish exhibit, our newest addition, opened just last month and uses special lighting to highlight the jellyfish's natural glow. The full tour takes around seventy minutes, and there's a cafe near the exit if you'd like a break afterwards. Restrooms are located next to the gift shop. If anyone needs a wheelchair or pushchair, please ask a staff member at the front desk before we begin.",
+    "group_id": "NIL-G19",
+    "stem": "What is special about the jellyfish exhibit?",
+    "options": [
+      "It requires an extra ticket",
+      "It is only open on weekends",
+      "It is the largest tank in the aquarium",
+      "It is the newest addition with special lighting"
+    ],
+    "answer": 3,
+    "explain_zh": "導覽員提到水母展區是上個月才開放的最新展區，並使用特殊燈光凸顯水母的自然螢光。這題考驗聽出獨白後段的補充說明。",
+    "vocab": [
+      {
+        "w": "exhibit",
+        "zh": "展覽；展品",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0096",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "Good morning and welcome to the Millbrook Farmers Market. I'm Owen, one of the market organisers, and I'll quickly explain how things work here. The market runs every Saturday from eight a.m. to one p.m., rain or shine, in the town square. We currently have over forty stalls selling everything from fresh vegetables to handmade cheese and baked goods. The market was originally going to stay in its usual spot by the fountain, but due to construction work this month, it's been temporarily moved to the car park behind the town hall instead. Most stalls accept card payments now, though a few of the smaller ones are cash only, so it's a good idea to carry some change. If you're a dog owner, pets are welcome, but they must be kept on a lead at all times. There's also a small seating area near the entrance where you can enjoy a coffee from the mobile cafe stall. For anyone interested in becoming a vendor, applications are reviewed monthly, and there's currently a short waiting list, so early application is recommended. Enjoy your visit, and please remember to bring your own bags.",
+    "group_id": "NIL-G20",
+    "stem": "What is this talk mainly about?",
+    "options": [
+      "A cooking demonstration schedule",
+      "A complaint about vendor fees",
+      "A road closure announcement",
+      "An introduction to the farmers market"
+    ],
+    "answer": 0,
+    "explain_zh": "這段獨白是主辦人在向遊客介紹農夫市集的基本運作方式，屬於典型的市集介紹說明。其餘選項如烹飪示範、道路封閉都沒有出現。",
+    "vocab": [
+      {
+        "w": "vendor",
+        "zh": "攤商；賣家",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0097",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "Good morning and welcome to the Millbrook Farmers Market. I'm Owen, one of the market organisers, and I'll quickly explain how things work here. The market runs every Saturday from eight a.m. to one p.m., rain or shine, in the town square. We currently have over forty stalls selling everything from fresh vegetables to handmade cheese and baked goods. The market was originally going to stay in its usual spot by the fountain, but due to construction work this month, it's been temporarily moved to the car park behind the town hall instead. Most stalls accept card payments now, though a few of the smaller ones are cash only, so it's a good idea to carry some change. If you're a dog owner, pets are welcome, but they must be kept on a lead at all times. There's also a small seating area near the entrance where you can enjoy a coffee from the mobile cafe stall. For anyone interested in becoming a vendor, applications are reviewed monthly, and there's currently a short waiting list, so early application is recommended. Enjoy your visit, and please remember to bring your own bags.",
+    "group_id": "NIL-G20",
+    "stem": "Where is the market currently located?",
+    "options": [
+      "By the fountain",
+      "In the car park behind the town hall",
+      "Inside the town hall",
+      "At the train station"
+    ],
+    "answer": 1,
+    "explain_zh": "說話者提到市集原本固定在噴水池旁，但因為這個月有施工，暫時搬到市政廳後方的停車場。這是先講原地點再更正的陷阱題。",
+    "vocab": [
+      {
+        "w": "construction work",
+        "zh": "施工",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0098",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning and welcome to the Millbrook Farmers Market. I'm Owen, one of the market organisers, and I'll quickly explain how things work here. The market runs every Saturday from eight a.m. to one p.m., rain or shine, in the town square. We currently have over forty stalls selling everything from fresh vegetables to handmade cheese and baked goods. The market was originally going to stay in its usual spot by the fountain, but due to construction work this month, it's been temporarily moved to the car park behind the town hall instead. Most stalls accept card payments now, though a few of the smaller ones are cash only, so it's a good idea to carry some change. If you're a dog owner, pets are welcome, but they must be kept on a lead at all times. There's also a small seating area near the entrance where you can enjoy a coffee from the mobile cafe stall. For anyone interested in becoming a vendor, applications are reviewed monthly, and there's currently a short waiting list, so early application is recommended. Enjoy your visit, and please remember to bring your own bags.",
+    "group_id": "NIL-G20",
+    "stem": "What time does the market close?",
+    "options": [
+      "11 a.m.",
+      "Noon",
+      "1 p.m.",
+      "2 p.m."
+    ],
+    "answer": 2,
+    "explain_zh": "說話者說明市集每週六從早上八點營業到下午一點，這是獨白中明確提到的營業時間。",
+    "vocab": [
+      {
+        "w": "stall",
+        "zh": "攤位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0099",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good morning and welcome to the Millbrook Farmers Market. I'm Owen, one of the market organisers, and I'll quickly explain how things work here. The market runs every Saturday from eight a.m. to one p.m., rain or shine, in the town square. We currently have over forty stalls selling everything from fresh vegetables to handmade cheese and baked goods. The market was originally going to stay in its usual spot by the fountain, but due to construction work this month, it's been temporarily moved to the car park behind the town hall instead. Most stalls accept card payments now, though a few of the smaller ones are cash only, so it's a good idea to carry some change. If you're a dog owner, pets are welcome, but they must be kept on a lead at all times. There's also a small seating area near the entrance where you can enjoy a coffee from the mobile cafe stall. For anyone interested in becoming a vendor, applications are reviewed monthly, and there's currently a short waiting list, so early application is recommended. Enjoy your visit, and please remember to bring your own bags.",
+    "group_id": "NIL-G20",
+    "stem": "What payment method do a few small stalls require?",
+    "options": [
+      "Mobile payment only",
+      "Cheque only",
+      "Card only",
+      "Cash only"
+    ],
+    "answer": 3,
+    "explain_zh": "說話者提到雖然大部分攤位可以刷卡，但少數小攤位只收現金，建議遊客隨身攜帶一些零錢。這題考驗聽出獨白中段的付款方式細節。",
+    "vocab": [
+      {
+        "w": "payment",
+        "zh": "付款",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0100",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good morning and welcome to the Millbrook Farmers Market. I'm Owen, one of the market organisers, and I'll quickly explain how things work here. The market runs every Saturday from eight a.m. to one p.m., rain or shine, in the town square. We currently have over forty stalls selling everything from fresh vegetables to handmade cheese and baked goods. The market was originally going to stay in its usual spot by the fountain, but due to construction work this month, it's been temporarily moved to the car park behind the town hall instead. Most stalls accept card payments now, though a few of the smaller ones are cash only, so it's a good idea to carry some change. If you're a dog owner, pets are welcome, but they must be kept on a lead at all times. There's also a small seating area near the entrance where you can enjoy a coffee from the mobile cafe stall. For anyone interested in becoming a vendor, applications are reviewed monthly, and there's currently a short waiting list, so early application is recommended. Enjoy your visit, and please remember to bring your own bags.",
+    "group_id": "NIL-G20",
+    "stem": "What is required of dog owners at the market?",
+    "options": [
+      "Dogs must be kept on a lead",
+      "Dogs are not allowed",
+      "Dogs must wear a muzzle",
+      "Dogs need a special pass"
+    ],
+    "answer": 0,
+    "explain_zh": "說話者說明市集歡迎攜帶寵物，但狗必須全程繫著牽繩。這題考驗聽出獨白後段對寵物的具體規定。",
+    "vocab": [
+      {
+        "w": "lead",
+        "zh": "牽繩",
+        "pos": "n."
+      }
+    ]
+  }
+]

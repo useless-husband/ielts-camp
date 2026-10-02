@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "NJL-0001",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Good morning! What would you like today?\nB: Good morning! I'd like one ham and egg sandwich and a cup of hot soy milk, please.\nA: Sure. Do you want the sandwich with or without cheese?\nB: With cheese, please. Oh, and can you make the soy milk less sweet?\nA: No problem. That's one ham and egg sandwich with cheese and a small soy milk, less sweet. Anything else?\nB: Yes, one order of French toast too. My brother is waiting outside.\nA: OK, that will be ninety dollars. Please wait a few minutes by the counter.\nB: Thank you!",
+    "group_id": "NJL-G01",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A customer is ordering breakfast.",
+      "A customer is complaining about food.",
+      "Two friends are planning a trip.",
+      "A worker is asking for a day off."
+    ],
+    "answer": 0,
+    "explain_zh": "整段對話都是顧客在跟早餐店店員點餐，所以答案是「顧客在點早餐」。對話中沒有抱怨食物、規劃旅行或請假的內容，這些都是聽到零星單字就聯想錯方向。聽力主旨題要抓對話的整體情境，不要被單一單字牽走。",
+    "vocab": [
+      {
+        "w": "order",
+        "zh": "點餐",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0002",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good morning! What would you like today?\nB: Good morning! I'd like one ham and egg sandwich and a cup of hot soy milk, please.\nA: Sure. Do you want the sandwich with or without cheese?\nB: With cheese, please. Oh, and can you make the soy milk less sweet?\nA: No problem. That's one ham and egg sandwich with cheese and a small soy milk, less sweet. Anything else?\nB: Yes, one order of French toast too. My brother is waiting outside.\nA: OK, that will be ninety dollars. Please wait a few minutes by the counter.\nB: Thank you!",
+    "group_id": "NJL-G01",
+    "stem": "What does the customer want on the sandwich?",
+    "options": [
+      "No cheese on the sandwich.",
+      "Cheese added to the sandwich.",
+      "Extra ham on the sandwich.",
+      "A different type of bread."
+    ],
+    "answer": 1,
+    "explain_zh": "顧客回答「With cheese, please」，明確要求加起司，所以答案是加起司。對話沒有提到不要起司、加火腿或換麵包。細節題要聽關鍵的肯定/否定回答。",
+    "vocab": [
+      {
+        "w": "cheese",
+        "zh": "起司",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0003",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Good morning! What would you like today?\nB: Good morning! I'd like one ham and egg sandwich and a cup of hot soy milk, please.\nA: Sure. Do you want the sandwich with or without cheese?\nB: With cheese, please. Oh, and can you make the soy milk less sweet?\nA: No problem. That's one ham and egg sandwich with cheese and a small soy milk, less sweet. Anything else?\nB: Yes, one order of French toast too. My brother is waiting outside.\nA: OK, that will be ninety dollars. Please wait a few minutes by the counter.\nB: Thank you!",
+    "group_id": "NJL-G01",
+    "stem": "How much does the customer need to pay?",
+    "options": [
+      "19 dollars",
+      "900 dollars",
+      "90 dollars",
+      "9 dollars"
+    ],
+    "answer": 2,
+    "explain_zh": "店員最後說「that will be ninety dollars」，所以正確金額是90元。其他選項是數字聽錯或多加零的常見錯誤。聽數字題要特別小心十位數與百位數的發音差異。",
+    "vocab": [
+      {
+        "w": "dollar",
+        "zh": "元；美元",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0004",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Good morning! What would you like today?\nB: Good morning! I'd like one ham and egg sandwich and a cup of hot soy milk, please.\nA: Sure. Do you want the sandwich with or without cheese?\nB: With cheese, please. Oh, and can you make the soy milk less sweet?\nA: No problem. That's one ham and egg sandwich with cheese and a small soy milk, less sweet. Anything else?\nB: Yes, one order of French toast too. My brother is waiting outside.\nA: OK, that will be ninety dollars. Please wait a few minutes by the counter.\nB: Thank you!",
+    "group_id": "NJL-G01",
+    "stem": "Why does the customer order French toast too?",
+    "options": [
+      "Because the sandwich is sold out.",
+      "Because he wants a free gift.",
+      "Because the soy milk is too sweet.",
+      "Because his brother is also waiting for breakfast."
+    ],
+    "answer": 3,
+    "explain_zh": "顧客說「My brother is waiting outside」，暗示法式吐司是要帶給弟弟的早餐，所以答案是弟弟也在等早餐。對話沒有提到三明治賣完、贈品或豆漿太甜。推論題要把前後句子的因果連起來想。",
+    "vocab": [
+      {
+        "w": "wait",
+        "zh": "等待",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0005",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good morning! What would you like today?\nB: Good morning! I'd like one ham and egg sandwich and a cup of hot soy milk, please.\nA: Sure. Do you want the sandwich with or without cheese?\nB: With cheese, please. Oh, and can you make the soy milk less sweet?\nA: No problem. That's one ham and egg sandwich with cheese and a small soy milk, less sweet. Anything else?\nB: Yes, one order of French toast too. My brother is waiting outside.\nA: OK, that will be ninety dollars. Please wait a few minutes by the counter.\nB: Thank you!",
+    "group_id": "NJL-G01",
+    "stem": "How does the customer want the soy milk?",
+    "options": [
+      "Less sweet than usual.",
+      "Very sweet.",
+      "Ice cold.",
+      "Without any soy milk."
+    ],
+    "answer": 0,
+    "explain_zh": "顧客要求「make the soy milk less sweet」，所以答案是要求少糖。對話沒有說要很甜、冰的或不要豆漿。聽到 less、more 這類比較詞要特別注意方向。",
+    "vocab": [
+      {
+        "w": "sweet",
+        "zh": "甜的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0006",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hello, this is Wei-Chen from Miss Lin's Tuesday math class. Is this the ABC Cram School office?\nB: Yes, this is the office. How can I help you?\nA: I have a bad cold, so I can't come to class this evening. Could I take today's class another time?\nB: I'm sorry to hear that. Yes, you can join the Thursday class this week to make up the lesson, or watch the online video on our website.\nA: I think I'll watch the video first, and go to the Thursday class if I still have questions.\nB: That sounds good. I'll mark you as absent for today and send the video link to your mother's phone.\nA: Thank you very much. I hope to feel better by tomorrow.\nB: Take care, and remember to drink lots of water.",
+    "group_id": "NJL-G02",
+    "stem": "What is this phone call mainly about?",
+    "options": [
+      "A student is signing up for a new class.",
+      "A student is asking for leave from cram school because he is sick.",
+      "A teacher is calling a student's parents.",
+      "A student is asking to change his class time permanently."
+    ],
+    "answer": 1,
+    "explain_zh": "男生一開口就說自己感冒不能去上課，並詢問可否補課，所以主旨是請假。對話中沒有提到報名新課程、老師打給家長，或永久換時段。抓住開頭的請假原因就能掌握全文主旨。",
+    "vocab": [
+      {
+        "w": "absent",
+        "zh": "缺席的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0007",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hello, this is Wei-Chen from Miss Lin's Tuesday math class. Is this the ABC Cram School office?\nB: Yes, this is the office. How can I help you?\nA: I have a bad cold, so I can't come to class this evening. Could I take today's class another time?\nB: I'm sorry to hear that. Yes, you can join the Thursday class this week to make up the lesson, or watch the online video on our website.\nA: I think I'll watch the video first, and go to the Thursday class if I still have questions.\nB: That sounds good. I'll mark you as absent for today and send the video link to your mother's phone.\nA: Thank you very much. I hope to feel better by tomorrow.\nB: Take care, and remember to drink lots of water.",
+    "group_id": "NJL-G02",
+    "stem": "Why can't the student go to class today?",
+    "options": [
+      "He has a family trip.",
+      "He forgot his book.",
+      "He has a bad cold.",
+      "He has too much homework."
+    ],
+    "answer": 2,
+    "explain_zh": "學生說「I have a bad cold」，所以原因是感冒。對話沒有提到旅行、忘記帶書或功課太多。細節題只要抓住原因句就能作答。",
+    "vocab": [
+      {
+        "w": "cold",
+        "zh": "感冒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0008",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hello, this is Wei-Chen from Miss Lin's Tuesday math class. Is this the ABC Cram School office?\nB: Yes, this is the office. How can I help you?\nA: I have a bad cold, so I can't come to class this evening. Could I take today's class another time?\nB: I'm sorry to hear that. Yes, you can join the Thursday class this week to make up the lesson, or watch the online video on our website.\nA: I think I'll watch the video first, and go to the Thursday class if I still have questions.\nB: That sounds good. I'll mark you as absent for today and send the video link to your mother's phone.\nA: Thank you very much. I hope to feel better by tomorrow.\nB: Take care, and remember to drink lots of water.",
+    "group_id": "NJL-G02",
+    "stem": "When can the student make up the lesson in person?",
+    "options": [
+      "On Friday.",
+      "Next Tuesday.",
+      "This weekend.",
+      "On Thursday."
+    ],
+    "answer": 3,
+    "explain_zh": "櫃檯人員說可以「join the Thursday class this week」來補課，所以答案是星期四。其他選項的星期或時間都沒有在對話中出現。聽到星期幾的單字要特別留意。",
+    "vocab": [
+      {
+        "w": "make up",
+        "zh": "補做；彌補",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0009",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hello, this is Wei-Chen from Miss Lin's Tuesday math class. Is this the ABC Cram School office?\nB: Yes, this is the office. How can I help you?\nA: I have a bad cold, so I can't come to class this evening. Could I take today's class another time?\nB: I'm sorry to hear that. Yes, you can join the Thursday class this week to make up the lesson, or watch the online video on our website.\nA: I think I'll watch the video first, and go to the Thursday class if I still have questions.\nB: That sounds good. I'll mark you as absent for today and send the video link to your mother's phone.\nA: Thank you very much. I hope to feel better by tomorrow.\nB: Take care, and remember to drink lots of water.",
+    "group_id": "NJL-G02",
+    "stem": "Who will the office send the video link to?",
+    "options": [
+      "The student's mother.",
+      "The student's teacher.",
+      "The student himself only.",
+      "The school principal."
+    ],
+    "answer": 0,
+    "explain_zh": "櫃檯說會把影片連結傳到「your mother's phone」，所以是傳給媽媽。對話沒有說要傳給老師、學生自己或校長。細節題要聽清楚受詞是誰。",
+    "vocab": [
+      {
+        "w": "link",
+        "zh": "連結",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0010",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hello, this is Wei-Chen from Miss Lin's Tuesday math class. Is this the ABC Cram School office?\nB: Yes, this is the office. How can I help you?\nA: I have a bad cold, so I can't come to class this evening. Could I take today's class another time?\nB: I'm sorry to hear that. Yes, you can join the Thursday class this week to make up the lesson, or watch the online video on our website.\nA: I think I'll watch the video first, and go to the Thursday class if I still have questions.\nB: That sounds good. I'll mark you as absent for today and send the video link to your mother's phone.\nA: Thank you very much. I hope to feel better by tomorrow.\nB: Take care, and remember to drink lots of water.",
+    "group_id": "NJL-G02",
+    "stem": "What will the student probably do first?",
+    "options": [
+      "Go to the Thursday class right away.",
+      "Watch the online video.",
+      "Stop taking the class completely.",
+      "Ask for a refund."
+    ],
+    "answer": 1,
+    "explain_zh": "學生說「I think I'll watch the video first」，可推論他會先看影片，有問題才去補課。對話沒有提到直接去上星期四的課、完全停課或退費。推論題要聽出說話者最後的決定。",
+    "vocab": [
+      {
+        "w": "video",
+        "zh": "影片",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0011",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good afternoon, passengers. This bus is Route 15, going to Central Station. The next stop is Zhongshan Road, near the post office and the new sports center. Passengers who want to get off at Zhongshan Road, please press the yellow button now. After Zhongshan Road, this bus will stop at Fuxing Park and then arrive at Central Station in about twenty minutes. Please remember to use your EasyCard when you get on and off the bus. If you are carrying a large bag, please hold it carefully so other passengers can pass. Thank you for riding with us today, and please watch your step when you leave the bus.",
+    "group_id": "NJL-G03",
+    "stem": "What is this recording mainly about?",
+    "options": [
+      "An advertisement for a sports center.",
+      "A warning about bad weather.",
+      "An announcement about the bus route and stops.",
+      "A notice about a bus schedule change."
+    ],
+    "answer": 2,
+    "explain_zh": "整段廣播都在說明公車路線、下一站與到站方式，所以主旨是公車站點廣播。廣播裡沒有廣告運動中心、天氣警報或時刻表更動的內容，運動中心只是拿來指路用的地標。聽公車廣播要抓「下一站」和「路線號碼」這類關鍵詞。",
+    "vocab": [
+      {
+        "w": "route",
+        "zh": "路線",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0012",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good afternoon, passengers. This bus is Route 15, going to Central Station. The next stop is Zhongshan Road, near the post office and the new sports center. Passengers who want to get off at Zhongshan Road, please press the yellow button now. After Zhongshan Road, this bus will stop at Fuxing Park and then arrive at Central Station in about twenty minutes. Please remember to use your EasyCard when you get on and off the bus. If you are carrying a large bag, please hold it carefully so other passengers can pass. Thank you for riding with us today, and please watch your step when you leave the bus.",
+    "group_id": "NJL-G03",
+    "stem": "What is near Zhongshan Road?",
+    "options": [
+      "A train station and a library.",
+      "A night market and a school.",
+      "A hospital and a park.",
+      "The post office and a new sports center."
+    ],
+    "answer": 3,
+    "explain_zh": "廣播提到中山路「near the post office and the new sports center」，所以答案是郵局和運動中心。其他選項的地標都沒有出現在廣播中。細節題要留意地標名稱的對應站名。",
+    "vocab": [
+      {
+        "w": "near",
+        "zh": "靠近",
+        "pos": "prep."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0013",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good afternoon, passengers. This bus is Route 15, going to Central Station. The next stop is Zhongshan Road, near the post office and the new sports center. Passengers who want to get off at Zhongshan Road, please press the yellow button now. After Zhongshan Road, this bus will stop at Fuxing Park and then arrive at Central Station in about twenty minutes. Please remember to use your EasyCard when you get on and off the bus. If you are carrying a large bag, please hold it carefully so other passengers can pass. Thank you for riding with us today, and please watch your step when you leave the bus.",
+    "group_id": "NJL-G03",
+    "stem": "How long until the bus reaches Central Station after Zhongshan Road?",
+    "options": [
+      "About twenty minutes.",
+      "About two minutes.",
+      "About two hours.",
+      "About twelve minutes."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說之後會在中山路、復興公園停靠，「arrive at Central Station in about twenty minutes」，所以答案是大約二十分鐘。其他選項是聽錯二和二十的常見混淆。數字題要注意 teen 和 ty 結尾發音的差別。",
+    "vocab": [
+      {
+        "w": "arrive",
+        "zh": "抵達",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0014",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "Good afternoon, passengers. This bus is Route 15, going to Central Station. The next stop is Zhongshan Road, near the post office and the new sports center. Passengers who want to get off at Zhongshan Road, please press the yellow button now. After Zhongshan Road, this bus will stop at Fuxing Park and then arrive at Central Station in about twenty minutes. Please remember to use your EasyCard when you get on and off the bus. If you are carrying a large bag, please hold it carefully so other passengers can pass. Thank you for riding with us today, and please watch your step when you leave the bus.",
+    "group_id": "NJL-G03",
+    "stem": "What should passengers do if they want to get off at Zhongshan Road?",
+    "options": [
+      "Tell the driver loudly.",
+      "Press the yellow button.",
+      "Wait until the last stop.",
+      "Stand near the front door."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播明確指示「please press the yellow button now」，所以答案是按黃色按鈕。廣播沒有要求大聲告訴司機、等到最後一站或站在前門。方向指引題要抓住祈使句裡的動作指令。",
+    "vocab": [
+      {
+        "w": "button",
+        "zh": "按鈕",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0015",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good afternoon, passengers. This bus is Route 15, going to Central Station. The next stop is Zhongshan Road, near the post office and the new sports center. Passengers who want to get off at Zhongshan Road, please press the yellow button now. After Zhongshan Road, this bus will stop at Fuxing Park and then arrive at Central Station in about twenty minutes. Please remember to use your EasyCard when you get on and off the bus. If you are carrying a large bag, please hold it carefully so other passengers can pass. Thank you for riding with us today, and please watch your step when you leave the bus.",
+    "group_id": "NJL-G03",
+    "stem": "What should passengers use to pay when getting on and off?",
+    "options": [
+      "Cash only.",
+      "A credit card.",
+      "An EasyCard.",
+      "A student ID card."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播提醒「use your EasyCard when you get on and off」，所以答案是悠遊卡。廣播沒有提到只能付現、信用卡或學生證。細節題要抓住付款方式的關鍵字。",
+    "vocab": [
+      {
+        "w": "EasyCard",
+        "zh": "悠遊卡",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0016",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Good morning. I have an appointment at ten o'clock. My name is Amy Huang.\nB: Let me check... yes, Amy, please have a seat. The dentist will see you in about five minutes. Is this your first visit?\nA: No, I came here last year to fix a broken tooth. Today my back tooth hurts when I eat something cold.\nB: I see. The dentist will take an X-ray first to check what is wrong. Have you eaten anything in the last hour?\nA: No, I haven't eaten since breakfast.\nB: Good, that makes it easier to check your teeth. Please rinse your mouth with this cup of water before you go in.\nA: OK, thank you. How long will the whole visit take today?\nB: Usually about thirty minutes, but it depends on what the dentist finds.",
+    "group_id": "NJL-G04",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A patient is paying a hospital bill.",
+      "A dentist is calling a patient at home.",
+      "A patient is buying medicine at a pharmacy.",
+      "A patient is checking in for a dentist appointment."
+    ],
+    "answer": 3,
+    "explain_zh": "對話一開始病人就報上預約時間與姓名，之後在講牙齒問題與看診流程，所以主旨是掛號看牙醫。對話沒有提到繳費、打電話到家裡或買藥。聽開場白通常就能判斷場景。",
+    "vocab": [
+      {
+        "w": "appointment",
+        "zh": "預約",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0017",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good morning. I have an appointment at ten o'clock. My name is Amy Huang.\nB: Let me check... yes, Amy, please have a seat. The dentist will see you in about five minutes. Is this your first visit?\nA: No, I came here last year to fix a broken tooth. Today my back tooth hurts when I eat something cold.\nB: I see. The dentist will take an X-ray first to check what is wrong. Have you eaten anything in the last hour?\nA: No, I haven't eaten since breakfast.\nB: Good, that makes it easier to check your teeth. Please rinse your mouth with this cup of water before you go in.\nA: OK, thank you. How long will the whole visit take today?\nB: Usually about thirty minutes, but it depends on what the dentist finds.",
+    "group_id": "NJL-G04",
+    "stem": "What problem does Amy have today?",
+    "options": [
+      "Her back tooth hurts when she eats something cold.",
+      "She has a broken arm.",
+      "She has a bad cold.",
+      "She lost a filling completely."
+    ],
+    "answer": 0,
+    "explain_zh": "Amy說「my back tooth hurts when I eat something cold」，所以答案是吃冰的東西牙齒會痛。對話沒有提到手臂骨折、感冒或補牙脫落。細節題要抓住主詞和症狀的搭配。",
+    "vocab": [
+      {
+        "w": "hurt",
+        "zh": "疼痛",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0018",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good morning. I have an appointment at ten o'clock. My name is Amy Huang.\nB: Let me check... yes, Amy, please have a seat. The dentist will see you in about five minutes. Is this your first visit?\nA: No, I came here last year to fix a broken tooth. Today my back tooth hurts when I eat something cold.\nB: I see. The dentist will take an X-ray first to check what is wrong. Have you eaten anything in the last hour?\nA: No, I haven't eaten since breakfast.\nB: Good, that makes it easier to check your teeth. Please rinse your mouth with this cup of water before you go in.\nA: OK, thank you. How long will the whole visit take today?\nB: Usually about thirty minutes, but it depends on what the dentist finds.",
+    "group_id": "NJL-G04",
+    "stem": "What will the dentist do first?",
+    "options": [
+      "Pull out the tooth right away.",
+      "Take an X-ray.",
+      "Give her a shot.",
+      "Clean all her teeth."
+    ],
+    "answer": 1,
+    "explain_zh": "櫃檯說「The dentist will take an X-ray first」，所以答案是先照X光。對話沒有提到馬上拔牙、打針或洗牙。細節題留意 first 這個順序詞。",
+    "vocab": [
+      {
+        "w": "X-ray",
+        "zh": "X光",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0019",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Good morning. I have an appointment at ten o'clock. My name is Amy Huang.\nB: Let me check... yes, Amy, please have a seat. The dentist will see you in about five minutes. Is this your first visit?\nA: No, I came here last year to fix a broken tooth. Today my back tooth hurts when I eat something cold.\nB: I see. The dentist will take an X-ray first to check what is wrong. Have you eaten anything in the last hour?\nA: No, I haven't eaten since breakfast.\nB: Good, that makes it easier to check your teeth. Please rinse your mouth with this cup of water before you go in.\nA: OK, thank you. How long will the whole visit take today?\nB: Usually about thirty minutes, but it depends on what the dentist finds.",
+    "group_id": "NJL-G04",
+    "stem": "Why does the receptionist ask if Amy has eaten recently?",
+    "options": [
+      "Because the dentist wants to have lunch with her.",
+      "Because eating makes the appointment longer.",
+      "Because it is easier to check her teeth on an empty stomach.",
+      "Because the clinic is out of food."
+    ],
+    "answer": 2,
+    "explain_zh": "櫃檯聽到沒吃東西後說「that makes it easier to check your teeth」，可推論是為了方便檢查牙齒。對話沒有提到要一起吃午餐、讓看診變長或診所沒食物。推論題要連結前後兩句的邏輯關係。",
+    "vocab": [
+      {
+        "w": "empty",
+        "zh": "空的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0020",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Good morning. I have an appointment at ten o'clock. My name is Amy Huang.\nB: Let me check... yes, Amy, please have a seat. The dentist will see you in about five minutes. Is this your first visit?\nA: No, I came here last year to fix a broken tooth. Today my back tooth hurts when I eat something cold.\nB: I see. The dentist will take an X-ray first to check what is wrong. Have you eaten anything in the last hour?\nA: No, I haven't eaten since breakfast.\nB: Good, that makes it easier to check your teeth. Please rinse your mouth with this cup of water before you go in.\nA: OK, thank you. How long will the whole visit take today?\nB: Usually about thirty minutes, but it depends on what the dentist finds.",
+    "group_id": "NJL-G04",
+    "stem": "About how long will today's visit take?",
+    "options": [
+      "About three minutes.",
+      "About three hours.",
+      "About thirteen minutes.",
+      "About thirty minutes."
+    ],
+    "answer": 3,
+    "explain_zh": "櫃檯最後說「Usually about thirty minutes」，所以答案是大約三十分鐘。其他選項是把 thirty 聽成 three、thirteen 等相近發音的干擾。聽數字時要分辨字尾的重音位置。",
+    "vocab": [
+      {
+        "w": "usually",
+        "zh": "通常",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0021",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, Tina! I'm having a birthday party this Saturday afternoon at my house. Can you come?\nB: I'd love to! What time should I get there?\nA: Come around three o'clock. We'll play games first, and then have cake and pizza at five.\nB: Sounds fun! Should I bring anything?\nA: Just bring yourself! But if you want, you could bring some music for us to dance to.\nB: OK, I'll bring my speaker then. Is anyone else from our class coming?\nA: Yes, about ten classmates are coming, including Jason and Mia. My little brother will help with games too.\nB: Great, I can't wait! Thanks for inviting me.\nA: See you Saturday. Don't forget to wear comfortable shoes for the games!",
+    "group_id": "NJL-G05",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A girl is inviting her friend to her birthday party.",
+      "A girl is asking her friend for help with homework.",
+      "A girl is planning a school trip.",
+      "A girl is selling tickets to a concert."
+    ],
+    "answer": 0,
+    "explain_zh": "對話開頭就說「I'm having a birthday party... Can you come?」，所以主旨是邀請朋友參加生日派對。對話沒有提到功課、校外教學或賣票。掌握第一句通常就能抓到主旨。",
+    "vocab": [
+      {
+        "w": "invite",
+        "zh": "邀請",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0022",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, Tina! I'm having a birthday party this Saturday afternoon at my house. Can you come?\nB: I'd love to! What time should I get there?\nA: Come around three o'clock. We'll play games first, and then have cake and pizza at five.\nB: Sounds fun! Should I bring anything?\nA: Just bring yourself! But if you want, you could bring some music for us to dance to.\nB: OK, I'll bring my speaker then. Is anyone else from our class coming?\nA: Yes, about ten classmates are coming, including Jason and Mia. My little brother will help with games too.\nB: Great, I can't wait! Thanks for inviting me.\nA: See you Saturday. Don't forget to wear comfortable shoes for the games!",
+    "group_id": "NJL-G05",
+    "stem": "What time does the party start?",
+    "options": [
+      "Five o'clock in the afternoon.",
+      "Three o'clock in the afternoon.",
+      "Ten o'clock in the morning.",
+      "Three o'clock in the morning."
+    ],
+    "answer": 1,
+    "explain_zh": "主人說「Come around three o'clock」，所以派對三點開始，五點才是吃蛋糕披薩的時間。其他選項把開始時間跟吃東西時間搞混，或誤把下午聽成早上。時間題要分清楚不同活動對應的時間點。",
+    "vocab": [
+      {
+        "w": "around",
+        "zh": "大約",
+        "pos": "prep."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0023",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, Tina! I'm having a birthday party this Saturday afternoon at my house. Can you come?\nB: I'd love to! What time should I get there?\nA: Come around three o'clock. We'll play games first, and then have cake and pizza at five.\nB: Sounds fun! Should I bring anything?\nA: Just bring yourself! But if you want, you could bring some music for us to dance to.\nB: OK, I'll bring my speaker then. Is anyone else from our class coming?\nA: Yes, about ten classmates are coming, including Jason and Mia. My little brother will help with games too.\nB: Great, I can't wait! Thanks for inviting me.\nA: See you Saturday. Don't forget to wear comfortable shoes for the games!",
+    "group_id": "NJL-G05",
+    "stem": "What does Tina offer to bring?",
+    "options": [
+      "A birthday cake.",
+      "Pizza for everyone.",
+      "Music from her speaker.",
+      "A present for the host's brother."
+    ],
+    "answer": 2,
+    "explain_zh": "Tina說「I'll bring my speaker」來放音樂，所以答案是音樂。對話沒有提到她要帶蛋糕、披薩或禮物給弟弟。細節題要抓住說話者自己承諾要做的事。",
+    "vocab": [
+      {
+        "w": "speaker",
+        "zh": "喇叭",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0024",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, Tina! I'm having a birthday party this Saturday afternoon at my house. Can you come?\nB: I'd love to! What time should I get there?\nA: Come around three o'clock. We'll play games first, and then have cake and pizza at five.\nB: Sounds fun! Should I bring anything?\nA: Just bring yourself! But if you want, you could bring some music for us to dance to.\nB: OK, I'll bring my speaker then. Is anyone else from our class coming?\nA: Yes, about ten classmates are coming, including Jason and Mia. My little brother will help with games too.\nB: Great, I can't wait! Thanks for inviting me.\nA: See you Saturday. Don't forget to wear comfortable shoes for the games!",
+    "group_id": "NJL-G05",
+    "stem": "Who will help with the party games?",
+    "options": [
+      "Tina's older sister.",
+      "A teacher from school.",
+      "Jason and Mia.",
+      "The host's little brother."
+    ],
+    "answer": 3,
+    "explain_zh": "主人說「My little brother will help with games too」，所以答案是主人的弟弟。對話沒有提到Tina的姊姊、老師或Jason和Mia來幫忙遊戲，他們只是受邀的同學。細節題要分清楚「誰做什麼」。",
+    "vocab": [
+      {
+        "w": "brother",
+        "zh": "弟弟；哥哥",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0025",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hi, Tina! I'm having a birthday party this Saturday afternoon at my house. Can you come?\nB: I'd love to! What time should I get there?\nA: Come around three o'clock. We'll play games first, and then have cake and pizza at five.\nB: Sounds fun! Should I bring anything?\nA: Just bring yourself! But if you want, you could bring some music for us to dance to.\nB: OK, I'll bring my speaker then. Is anyone else from our class coming?\nA: Yes, about ten classmates are coming, including Jason and Mia. My little brother will help with games too.\nB: Great, I can't wait! Thanks for inviting me.\nA: See you Saturday. Don't forget to wear comfortable shoes for the games!",
+    "group_id": "NJL-G05",
+    "stem": "Why does the host tell Tina to wear comfortable shoes?",
+    "options": [
+      "Because they will play games at the party.",
+      "Because they will go swimming.",
+      "Because they will go shopping after.",
+      "Because the party is outdoors in the rain."
+    ],
+    "answer": 0,
+    "explain_zh": "對話前面提到派對會先玩遊戲，最後又提醒要穿舒適的鞋子，可推論是為了方便玩遊戲。對話沒有提到游泳、購物或下雨。推論題要把整段對話的線索串起來。",
+    "vocab": [
+      {
+        "w": "comfortable",
+        "zh": "舒適的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0026",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Excuse me, everyone, could I have your attention for a moment? My dog Lucky is missing since this morning. He is a small brown dog with a white spot on his ear, and he was wearing a blue collar with my phone number on it. He is friendly and not afraid of people, but he might be scared because of the noise from the construction near the park. If you see him near the riverside park or the parking lot behind the supermarket, please do not chase him. Just call the number on his collar, or come find me at the fruit stand near the park entrance. I will be here until six in the evening. Thank you so much for your help.",
+    "group_id": "NJL-G06",
+    "stem": "What is this announcement mainly about?",
+    "options": [
+      "A person is selling a dog at the market.",
+      "A person is asking for help to find a lost dog.",
+      "A person is warning people about a dangerous dog.",
+      "A person is asking people to donate money for a pet hospital."
+    ],
+    "answer": 1,
+    "explain_zh": "說話者一開始就說自己的狗走失了，並請大家幫忙留意，所以主旨是尋找走失的狗。廣播沒有提到賣狗、警告危險或募款看醫生。抓住開頭的求助句就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "missing",
+        "zh": "走失的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0027",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Excuse me, everyone, could I have your attention for a moment? My dog Lucky is missing since this morning. He is a small brown dog with a white spot on his ear, and he was wearing a blue collar with my phone number on it. He is friendly and not afraid of people, but he might be scared because of the noise from the construction near the park. If you see him near the riverside park or the parking lot behind the supermarket, please do not chase him. Just call the number on his collar, or come find me at the fruit stand near the park entrance. I will be here until six in the evening. Thank you so much for your help.",
+    "group_id": "NJL-G06",
+    "stem": "What does Lucky look like?",
+    "options": [
+      "A large black dog with short legs.",
+      "A white cat with blue eyes.",
+      "A small brown dog with a white spot on his ear.",
+      "A grey dog with a long tail."
+    ],
+    "answer": 2,
+    "explain_zh": "說話者描述「a small brown dog with a white spot on his ear」，所以外型是棕色小狗、耳朵有白斑。其他選項的顏色、體型都不符合描述。細節題要抓住外觀描述的形容詞。",
+    "vocab": [
+      {
+        "w": "spot",
+        "zh": "斑點",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0028",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Excuse me, everyone, could I have your attention for a moment? My dog Lucky is missing since this morning. He is a small brown dog with a white spot on his ear, and he was wearing a blue collar with my phone number on it. He is friendly and not afraid of people, but he might be scared because of the noise from the construction near the park. If you see him near the riverside park or the parking lot behind the supermarket, please do not chase him. Just call the number on his collar, or come find me at the fruit stand near the park entrance. I will be here until six in the evening. Thank you so much for your help.",
+    "group_id": "NJL-G06",
+    "stem": "What is on Lucky's collar?",
+    "options": [
+      "The dog's name only.",
+      "A small bell.",
+      "Nothing at all.",
+      "The owner's phone number."
+    ],
+    "answer": 3,
+    "explain_zh": "說話者說項圈上「with my phone number on it」，所以答案是主人的電話號碼。廣播沒有提到只有名字、鈴鐺或什麼都沒有。細節題要留意項圈相關的描述句。",
+    "vocab": [
+      {
+        "w": "collar",
+        "zh": "項圈",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0029",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Excuse me, everyone, could I have your attention for a moment? My dog Lucky is missing since this morning. He is a small brown dog with a white spot on his ear, and he was wearing a blue collar with my phone number on it. He is friendly and not afraid of people, but he might be scared because of the noise from the construction near the park. If you see him near the riverside park or the parking lot behind the supermarket, please do not chase him. Just call the number on his collar, or come find me at the fruit stand near the park entrance. I will be here until six in the evening. Thank you so much for your help.",
+    "group_id": "NJL-G06",
+    "stem": "Why might Lucky be scared?",
+    "options": [
+      "Because of the noise from nearby construction.",
+      "Because he does not like other dogs.",
+      "Because he is afraid of the fruit stand.",
+      "Because he has never left home before."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播提到「he might be scared because of the noise from the construction near the park」，所以答案是工地噪音。廣播沒有提到怕其他狗、怕水果攤或第一次離家。推論題要聽出原因子句 because 後面的內容。",
+    "vocab": [
+      {
+        "w": "construction",
+        "zh": "施工",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0030",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "Excuse me, everyone, could I have your attention for a moment? My dog Lucky is missing since this morning. He is a small brown dog with a white spot on his ear, and he was wearing a blue collar with my phone number on it. He is friendly and not afraid of people, but he might be scared because of the noise from the construction near the park. If you see him near the riverside park or the parking lot behind the supermarket, please do not chase him. Just call the number on his collar, or come find me at the fruit stand near the park entrance. I will be here until six in the evening. Thank you so much for your help.",
+    "group_id": "NJL-G06",
+    "stem": "Where can people find the owner in person?",
+    "options": [
+      "At the supermarket checkout.",
+      "At the fruit stand near the park entrance.",
+      "At the police station.",
+      "At the pet hospital."
+    ],
+    "answer": 1,
+    "explain_zh": "說話者說「come find me at the fruit stand near the park entrance」，所以答案是公園入口的水果攤。廣播沒有提到超市結帳處、警察局或寵物醫院。方向指引題要抓住 come find me 後面的地點。",
+    "vocab": [
+      {
+        "w": "entrance",
+        "zh": "入口",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0031",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Hello, classmates. My name is Chen Yu-Han, and I want to be your new class leader. This year, I noticed that our classroom is often messy after lunch, and some students don't know about school events until the last minute. If I become class leader, I will make a cleaning schedule so everyone takes turns keeping the room tidy. I will also write down important dates, like test dates and sports day, on the whiteboard every Monday morning. I am good at listening to others, and I promise to tell our teacher if classmates have problems or good ideas. I have been the sports team helper for two years, so I already know how to work with different people. Please vote for me this Friday. Thank you for listening!",
+    "group_id": "NJL-G07",
+    "stem": "What is this speech mainly about?",
+    "options": [
+      "A student is reporting a problem to the principal.",
+      "A teacher is explaining the class rules.",
+      "A student is giving a speech to become class leader.",
+      "A student is thanking classmates for a gift."
+    ],
+    "answer": 2,
+    "explain_zh": "說話者一開始就說「I want to be your new class leader」，所以主旨是競選班級幹部的演講。演講沒有提到向校長報告問題、老師講班規或感謝禮物。聽演講開場白就能判斷目的。",
+    "vocab": [
+      {
+        "w": "leader",
+        "zh": "領導者；幹部",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0032",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Hello, classmates. My name is Chen Yu-Han, and I want to be your new class leader. This year, I noticed that our classroom is often messy after lunch, and some students don't know about school events until the last minute. If I become class leader, I will make a cleaning schedule so everyone takes turns keeping the room tidy. I will also write down important dates, like test dates and sports day, on the whiteboard every Monday morning. I am good at listening to others, and I promise to tell our teacher if classmates have problems or good ideas. I have been the sports team helper for two years, so I already know how to work with different people. Please vote for me this Friday. Thank you for listening!",
+    "group_id": "NJL-G07",
+    "stem": "What problem does the speaker mention about the classroom?",
+    "options": [
+      "It is too cold in winter.",
+      "It is too small for the class.",
+      "It is too noisy during tests.",
+      "It is often messy after lunch."
+    ],
+    "answer": 3,
+    "explain_zh": "說話者提到「our classroom is often messy after lunch」，所以答案是午餐後教室很亂。演講沒有提到冬天太冷、教室太小或考試太吵。細節題要抓住 problem 對應的描述句。",
+    "vocab": [
+      {
+        "w": "messy",
+        "zh": "凌亂的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0033",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Hello, classmates. My name is Chen Yu-Han, and I want to be your new class leader. This year, I noticed that our classroom is often messy after lunch, and some students don't know about school events until the last minute. If I become class leader, I will make a cleaning schedule so everyone takes turns keeping the room tidy. I will also write down important dates, like test dates and sports day, on the whiteboard every Monday morning. I am good at listening to others, and I promise to tell our teacher if classmates have problems or good ideas. I have been the sports team helper for two years, so I already know how to work with different people. Please vote for me this Friday. Thank you for listening!",
+    "group_id": "NJL-G07",
+    "stem": "When will the speaker write down important dates?",
+    "options": [
+      "Every Monday morning.",
+      "Every Friday afternoon.",
+      "Once a month.",
+      "Only before exams."
+    ],
+    "answer": 0,
+    "explain_zh": "說話者說會在「every Monday morning」把重要日期寫在白板上，所以答案是每週一早上。其他選項的時間點都沒有出現在演講中。時間題要聽清楚頻率副詞和星期幾的搭配。",
+    "vocab": [
+      {
+        "w": "whiteboard",
+        "zh": "白板",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0034",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Hello, classmates. My name is Chen Yu-Han, and I want to be your new class leader. This year, I noticed that our classroom is often messy after lunch, and some students don't know about school events until the last minute. If I become class leader, I will make a cleaning schedule so everyone takes turns keeping the room tidy. I will also write down important dates, like test dates and sports day, on the whiteboard every Monday morning. I am good at listening to others, and I promise to tell our teacher if classmates have problems or good ideas. I have been the sports team helper for two years, so I already know how to work with different people. Please vote for me this Friday. Thank you for listening!",
+    "group_id": "NJL-G07",
+    "stem": "What experience does the speaker already have?",
+    "options": [
+      "Being class leader last year.",
+      "Being the sports team helper for two years.",
+      "Working in the school library.",
+      "Teaching younger students."
+    ],
+    "answer": 1,
+    "explain_zh": "說話者說自己「have been the sports team helper for two years」，所以答案是當了兩年的運動代表隊小幫手。演講沒有提到當過幹部、在圖書館工作或教低年級學生。細節題要抓住自我介紹的經歷句。",
+    "vocab": [
+      {
+        "w": "helper",
+        "zh": "幫手",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0035",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Hello, classmates. My name is Chen Yu-Han, and I want to be your new class leader. This year, I noticed that our classroom is often messy after lunch, and some students don't know about school events until the last minute. If I become class leader, I will make a cleaning schedule so everyone takes turns keeping the room tidy. I will also write down important dates, like test dates and sports day, on the whiteboard every Monday morning. I am good at listening to others, and I promise to tell our teacher if classmates have problems or good ideas. I have been the sports team helper for two years, so I already know how to work with different people. Please vote for me this Friday. Thank you for listening!",
+    "group_id": "NJL-G07",
+    "stem": "When will the class vote?",
+    "options": [
+      "Next Monday.",
+      "Tomorrow morning.",
+      "This Friday.",
+      "At the end of the semester."
+    ],
+    "answer": 2,
+    "explain_zh": "說話者最後說「Please vote for me this Friday」，所以投票時間是這星期五。其他選項的時間都沒有出現在演講中。抓住結尾的呼籲句通常就能找到答案。",
+    "vocab": [
+      {
+        "w": "vote",
+        "zh": "投票",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0036",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Welcome! What can I get for you today?\nB: Hi, I'd like a large brown sugar milk tea with boba, please.\nA: Sure. How sweet would you like it, and how much ice?\nB: Half sugar, and less ice, please. Also, can I add pudding on top?\nA: Of course, pudding is ten dollars extra. Anything else?\nB: Yes, my friend wants a medium green tea with lemon, no sugar, no ice.\nA: Got it. That's one large brown sugar milk tea with boba and pudding, half sugar, less ice, and one medium lemon green tea, no sugar, no ice. That will be one hundred and thirty dollars total.\nB: Here you go. How long will it take?\nA: About eight minutes. Please wait over there and we'll call your number.",
+    "group_id": "NJL-G08",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A worker is training a new employee.",
+      "A customer is returning a drink.",
+      "A shop owner is checking the menu prices.",
+      "Two friends are ordering drinks at a bubble tea shop."
+    ],
+    "answer": 3,
+    "explain_zh": "整段對話都是顧客在跟店員點手搖飲，所以主旨是點飲料。對話沒有提到訓練新員工、退貨或檢查菜單價格。聽開頭「What can I get for you」就知道是點餐場景。",
+    "vocab": [
+      {
+        "w": "boba",
+        "zh": "珍珠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0037",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Welcome! What can I get for you today?\nB: Hi, I'd like a large brown sugar milk tea with boba, please.\nA: Sure. How sweet would you like it, and how much ice?\nB: Half sugar, and less ice, please. Also, can I add pudding on top?\nA: Of course, pudding is ten dollars extra. Anything else?\nB: Yes, my friend wants a medium green tea with lemon, no sugar, no ice.\nA: Got it. That's one large brown sugar milk tea with boba and pudding, half sugar, less ice, and one medium lemon green tea, no sugar, no ice. That will be one hundred and thirty dollars total.\nB: Here you go. How long will it take?\nA: About eight minutes. Please wait over there and we'll call your number.",
+    "group_id": "NJL-G08",
+    "stem": "What does the customer add to the brown sugar milk tea?",
+    "options": [
+      "Pudding.",
+      "Extra boba.",
+      "Whipped cream.",
+      "Aloe vera."
+    ],
+    "answer": 0,
+    "explain_zh": "顧客問「can I add pudding on top」，所以加的是布丁。對話沒有提到加珍珠、鮮奶油或蘆薈。細節題要抓住 add 後面的名詞。",
+    "vocab": [
+      {
+        "w": "pudding",
+        "zh": "布丁",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0038",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Welcome! What can I get for you today?\nB: Hi, I'd like a large brown sugar milk tea with boba, please.\nA: Sure. How sweet would you like it, and how much ice?\nB: Half sugar, and less ice, please. Also, can I add pudding on top?\nA: Of course, pudding is ten dollars extra. Anything else?\nB: Yes, my friend wants a medium green tea with lemon, no sugar, no ice.\nA: Got it. That's one large brown sugar milk tea with boba and pudding, half sugar, less ice, and one medium lemon green tea, no sugar, no ice. That will be one hundred and thirty dollars total.\nB: Here you go. How long will it take?\nA: About eight minutes. Please wait over there and we'll call your number.",
+    "group_id": "NJL-G08",
+    "stem": "How does the friend want the green tea?",
+    "options": [
+      "Half sugar, less ice.",
+      "No sugar, no ice.",
+      "Full sugar, more ice.",
+      "Half sugar, no ice."
+    ],
+    "answer": 1,
+    "explain_zh": "顧客說朋友要「no sugar, no ice」的綠茶，所以答案是無糖無冰。半糖少冰是顧客自己那杯奶茶的喝法，容易搞混。細節題要分清楚兩杯飲料各自的需求。",
+    "vocab": [
+      {
+        "w": "lemon",
+        "zh": "檸檬",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0039",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Welcome! What can I get for you today?\nB: Hi, I'd like a large brown sugar milk tea with boba, please.\nA: Sure. How sweet would you like it, and how much ice?\nB: Half sugar, and less ice, please. Also, can I add pudding on top?\nA: Of course, pudding is ten dollars extra. Anything else?\nB: Yes, my friend wants a medium green tea with lemon, no sugar, no ice.\nA: Got it. That's one large brown sugar milk tea with boba and pudding, half sugar, less ice, and one medium lemon green tea, no sugar, no ice. That will be one hundred and thirty dollars total.\nB: Here you go. How long will it take?\nA: About eight minutes. Please wait over there and we'll call your number.",
+    "group_id": "NJL-G08",
+    "stem": "How much is the total price?",
+    "options": [
+      "One hundred dollars.",
+      "Thirty dollars.",
+      "One hundred and thirty dollars.",
+      "Thirteen dollars."
+    ],
+    "answer": 2,
+    "explain_zh": "店員最後說「That will be one hundred and thirty dollars total」，所以總金額是一百三十元。其他選項是聽漏或聽錯數字組合的常見錯誤。聽價格時要把整串數字聽完再作答。",
+    "vocab": [
+      {
+        "w": "total",
+        "zh": "總計",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0040",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Welcome! What can I get for you today?\nB: Hi, I'd like a large brown sugar milk tea with boba, please.\nA: Sure. How sweet would you like it, and how much ice?\nB: Half sugar, and less ice, please. Also, can I add pudding on top?\nA: Of course, pudding is ten dollars extra. Anything else?\nB: Yes, my friend wants a medium green tea with lemon, no sugar, no ice.\nA: Got it. That's one large brown sugar milk tea with boba and pudding, half sugar, less ice, and one medium lemon green tea, no sugar, no ice. That will be one hundred and thirty dollars total.\nB: Here you go. How long will it take?\nA: About eight minutes. Please wait over there and we'll call your number.",
+    "group_id": "NJL-G08",
+    "stem": "About how long will the drinks take?",
+    "options": [
+      "About eighteen minutes.",
+      "About eighty minutes.",
+      "About two minutes.",
+      "About eight minutes."
+    ],
+    "answer": 3,
+    "explain_zh": "店員說「About eight minutes」，所以大約要等八分鐘。其他選項是把 eight 和 eighteen、eighty 的發音搞混。數字聽力要特別注意字尾的 -teen 和 -ty。",
+    "vocab": [
+      {
+        "w": "wait",
+        "zh": "等候",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0041",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good evening, parents and students. This is an important message from the school. Because of Typhoon Meihua, all classes are cancelled tomorrow, Wednesday. Students do not need to come to school, and the school bus will not run. However, the online homework on the math worksheet is still due on Thursday morning, so please finish it at home if it is safe to do so. If the weather gets better tonight, we will check the government website early tomorrow morning and send another message before seven a.m. Please stay indoors, keep your windows closed, and be careful of strong wind and heavy rain. We hope everyone stays safe, and we will see you back at school once the typhoon has passed.",
+    "group_id": "NJL-G09",
+    "stem": "What is this message mainly about?",
+    "options": [
+      "Classes are cancelled tomorrow because of a typhoon.",
+      "The school is closing early today.",
+      "A school trip has been cancelled.",
+      "The school bus route has changed permanently."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播一開始就說「all classes are cancelled tomorrow」是因為颱風，所以主旨是明天停課。廣播沒有提到今天提早放學、校外教學取消或公車路線永久改變。抓住開頭句就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "cancel",
+        "zh": "取消",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0042",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good evening, parents and students. This is an important message from the school. Because of Typhoon Meihua, all classes are cancelled tomorrow, Wednesday. Students do not need to come to school, and the school bus will not run. However, the online homework on the math worksheet is still due on Thursday morning, so please finish it at home if it is safe to do so. If the weather gets better tonight, we will check the government website early tomorrow morning and send another message before seven a.m. Please stay indoors, keep your windows closed, and be careful of strong wind and heavy rain. We hope everyone stays safe, and we will see you back at school once the typhoon has passed.",
+    "group_id": "NJL-G09",
+    "stem": "Which day are classes cancelled?",
+    "options": [
+      "Tuesday.",
+      "Wednesday.",
+      "Thursday.",
+      "Friday."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說「all classes are cancelled tomorrow, Wednesday」，所以停課的是星期三。廣播提到星期四是交作業的日子，容易和停課日混淆。聽時間題要分清楚每個星期幾對應的事件。",
+    "vocab": [
+      {
+        "w": "tomorrow",
+        "zh": "明天",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0043",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good evening, parents and students. This is an important message from the school. Because of Typhoon Meihua, all classes are cancelled tomorrow, Wednesday. Students do not need to come to school, and the school bus will not run. However, the online homework on the math worksheet is still due on Thursday morning, so please finish it at home if it is safe to do so. If the weather gets better tonight, we will check the government website early tomorrow morning and send another message before seven a.m. Please stay indoors, keep your windows closed, and be careful of strong wind and heavy rain. We hope everyone stays safe, and we will see you back at school once the typhoon has passed.",
+    "group_id": "NJL-G09",
+    "stem": "What still needs to be finished by Thursday morning?",
+    "options": [
+      "A science project.",
+      "An art poster.",
+      "The math worksheet.",
+      "A reading report."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播提到「the online homework on the math worksheet is still due on Thursday morning」，所以答案是數學學習單。廣播沒有提到科展、海報或讀書報告。細節題要抓住 due 後面的作業項目。",
+    "vocab": [
+      {
+        "w": "worksheet",
+        "zh": "學習單",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0044",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good evening, parents and students. This is an important message from the school. Because of Typhoon Meihua, all classes are cancelled tomorrow, Wednesday. Students do not need to come to school, and the school bus will not run. However, the online homework on the math worksheet is still due on Thursday morning, so please finish it at home if it is safe to do so. If the weather gets better tonight, we will check the government website early tomorrow morning and send another message before seven a.m. Please stay indoors, keep your windows closed, and be careful of strong wind and heavy rain. We hope everyone stays safe, and we will see you back at school once the typhoon has passed.",
+    "group_id": "NJL-G09",
+    "stem": "By what time will another message be sent if needed?",
+    "options": [
+      "Before noon.",
+      "Before nine p.m. tonight.",
+      "At five p.m. tomorrow.",
+      "Before seven a.m."
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說如果天氣好轉會「send another message before seven a.m.」，所以答案是早上七點前。其他時間都沒有出現在廣播中。時間題要聽清楚 before 後面接的確切時刻。",
+    "vocab": [
+      {
+        "w": "government",
+        "zh": "政府",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0045",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good evening, parents and students. This is an important message from the school. Because of Typhoon Meihua, all classes are cancelled tomorrow, Wednesday. Students do not need to come to school, and the school bus will not run. However, the online homework on the math worksheet is still due on Thursday morning, so please finish it at home if it is safe to do so. If the weather gets better tonight, we will check the government website early tomorrow morning and send another message before seven a.m. Please stay indoors, keep your windows closed, and be careful of strong wind and heavy rain. We hope everyone stays safe, and we will see you back at school once the typhoon has passed.",
+    "group_id": "NJL-G09",
+    "stem": "What are students told to do during the typhoon?",
+    "options": [
+      "Stay indoors and keep windows closed.",
+      "Go outside to watch the wind.",
+      "Ride bikes to check on friends.",
+      "Open windows for fresh air."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播提醒「stay indoors, keep your windows closed」，所以答案是待在室內並關好窗戶。廣播沒有叫大家出門看風、騎車找朋友或開窗透氣。細節題要抓住祈使句裡的安全提醒。",
+    "vocab": [
+      {
+        "w": "indoors",
+        "zh": "在室內",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0046",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'd like to borrow these three books, please. Here is my student card.\nB: Sure, let me scan them... I see you already have one book that is two days overdue. There is a small fine of two dollars per day.\nA: Oh no, I forgot about that one! How much do I owe?\nB: It comes to four dollars. You can pay now or add it to your account.\nA: I'll pay now. Here you go. By the way, how many books can I borrow at one time?\nB: Junior high students can borrow up to six books for two weeks. You can renew each book one more time online if no one else wants it.\nA: Great, thank you. Can I also reserve a book that is currently borrowed by someone else?\nB: Yes, just fill out this reservation card, and we will call you when it's returned.",
+    "group_id": "NJL-G10",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A student is returning a lost library card.",
+      "A student is borrowing books and paying a late fine at the library.",
+      "A librarian is teaching a class how to use computers.",
+      "A student is buying new books at a bookstore."
+    ],
+    "answer": 1,
+    "explain_zh": "對話從借書開始，接著處理逾期罰款，所以主旨是在圖書館借書並繳交罰金。對話沒有提到遺失借書證、教電腦課或買新書。聽對話開頭的動作動詞就能判斷場景。",
+    "vocab": [
+      {
+        "w": "overdue",
+        "zh": "逾期的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0047",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to borrow these three books, please. Here is my student card.\nB: Sure, let me scan them... I see you already have one book that is two days overdue. There is a small fine of two dollars per day.\nA: Oh no, I forgot about that one! How much do I owe?\nB: It comes to four dollars. You can pay now or add it to your account.\nA: I'll pay now. Here you go. By the way, how many books can I borrow at one time?\nB: Junior high students can borrow up to six books for two weeks. You can renew each book one more time online if no one else wants it.\nA: Great, thank you. Can I also reserve a book that is currently borrowed by someone else?\nB: Yes, just fill out this reservation card, and we will call you when it's returned.",
+    "group_id": "NJL-G10",
+    "stem": "How much is the late fine in total?",
+    "options": [
+      "Two dollars.",
+      "Six dollars.",
+      "Four dollars.",
+      "Forty dollars."
+    ],
+    "answer": 2,
+    "explain_zh": "館員說逾期兩天、一天兩元，「It comes to four dollars」，所以總共是四元。二元只是每天的罰金，不是總額，容易被誤選。數字題要注意單價和總價的差別。",
+    "vocab": [
+      {
+        "w": "fine",
+        "zh": "罰款",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0048",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to borrow these three books, please. Here is my student card.\nB: Sure, let me scan them... I see you already have one book that is two days overdue. There is a small fine of two dollars per day.\nA: Oh no, I forgot about that one! How much do I owe?\nB: It comes to four dollars. You can pay now or add it to your account.\nA: I'll pay now. Here you go. By the way, how many books can I borrow at one time?\nB: Junior high students can borrow up to six books for two weeks. You can renew each book one more time online if no one else wants it.\nA: Great, thank you. Can I also reserve a book that is currently borrowed by someone else?\nB: Yes, just fill out this reservation card, and we will call you when it's returned.",
+    "group_id": "NJL-G10",
+    "stem": "How many books can a junior high student borrow at once?",
+    "options": [
+      "Up to two books.",
+      "Up to sixteen books.",
+      "Up to three books.",
+      "Up to six books."
+    ],
+    "answer": 3,
+    "explain_zh": "館員說「Junior high students can borrow up to six books」，所以答案是最多六本。三本是這次借的數量，不是上限，容易混淆。聽數字題要分清楚題目問的是「這次」還是「上限」。",
+    "vocab": [
+      {
+        "w": "borrow",
+        "zh": "借（入）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0049",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, I'd like to borrow these three books, please. Here is my student card.\nB: Sure, let me scan them... I see you already have one book that is two days overdue. There is a small fine of two dollars per day.\nA: Oh no, I forgot about that one! How much do I owe?\nB: It comes to four dollars. You can pay now or add it to your account.\nA: I'll pay now. Here you go. By the way, how many books can I borrow at one time?\nB: Junior high students can borrow up to six books for two weeks. You can renew each book one more time online if no one else wants it.\nA: Great, thank you. Can I also reserve a book that is currently borrowed by someone else?\nB: Yes, just fill out this reservation card, and we will call you when it's returned.",
+    "group_id": "NJL-G10",
+    "stem": "How can the student renew a book?",
+    "options": [
+      "Online, if no one else wants it.",
+      "Only by coming to the library in person.",
+      "By calling the librarian.",
+      "Books cannot be renewed."
+    ],
+    "answer": 0,
+    "explain_zh": "館員說「You can renew each book one more time online if no one else wants it」，所以可以線上續借。對話沒有說一定要親自來、要打電話，或不能續借。細節題要抓住續借方式的完整條件。",
+    "vocab": [
+      {
+        "w": "renew",
+        "zh": "續借；更新",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0050",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "A: Hi, I'd like to borrow these three books, please. Here is my student card.\nB: Sure, let me scan them... I see you already have one book that is two days overdue. There is a small fine of two dollars per day.\nA: Oh no, I forgot about that one! How much do I owe?\nB: It comes to four dollars. You can pay now or add it to your account.\nA: I'll pay now. Here you go. By the way, how many books can I borrow at one time?\nB: Junior high students can borrow up to six books for two weeks. You can renew each book one more time online if no one else wants it.\nA: Great, thank you. Can I also reserve a book that is currently borrowed by someone else?\nB: Yes, just fill out this reservation card, and we will call you when it's returned.",
+    "group_id": "NJL-G10",
+    "stem": "What should the student do to reserve a book that is currently out?",
+    "options": [
+      "Wait outside the library every day.",
+      "Fill out a reservation card.",
+      "Pay an extra fee immediately.",
+      "Ask another student to return it early."
+    ],
+    "answer": 1,
+    "explain_zh": "館員說「just fill out this reservation card」，所以要填寫預約單。對話沒有要求天天在圖書館外等、馬上付額外費用或請別人提前還書。方向指引題要抓住館員給的具體步驟。",
+    "vocab": [
+      {
+        "w": "reserve",
+        "zh": "預約",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0051",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Okay class, listen carefully before we get on the bus for our field trip to the science museum. First, please line up in your groups of five, just like we practiced yesterday. Group leaders, please check that everyone in your group is wearing their name tag. We will meet back at the main gate of the museum at twelve thirty for lunch, so please remember that time. If you get separated from your group, do not walk around alone — go to the information desk near the entrance and ask a staff member to call me. Also, keep your bag closed and your phone in your pocket at all times. We will leave the museum at three o'clock to come back to school. Any questions before we go?",
+    "group_id": "NJL-G11",
+    "stem": "What is this talk mainly about?",
+    "options": [
+      "A teacher is teaching a science lesson.",
+      "A teacher is giving out test results.",
+      "A teacher is giving instructions before a field trip.",
+      "A teacher is planning next year's trip."
+    ],
+    "answer": 2,
+    "explain_zh": "老師從排隊集合開始，一路交代校外教學的注意事項，所以主旨是出發前的叮嚀。談話沒有在上科學課、公布考試成績或規劃明年的行程。聽開頭「before we get on the bus」就能判斷情境。",
+    "vocab": [
+      {
+        "w": "field trip",
+        "zh": "校外教學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0052",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Okay class, listen carefully before we get on the bus for our field trip to the science museum. First, please line up in your groups of five, just like we practiced yesterday. Group leaders, please check that everyone in your group is wearing their name tag. We will meet back at the main gate of the museum at twelve thirty for lunch, so please remember that time. If you get separated from your group, do not walk around alone — go to the information desk near the entrance and ask a staff member to call me. Also, keep your bag closed and your phone in your pocket at all times. We will leave the museum at three o'clock to come back to school. Any questions before we go?",
+    "group_id": "NJL-G11",
+    "stem": "What should group leaders check?",
+    "options": [
+      "That everyone has money for lunch.",
+      "That everyone has a raincoat.",
+      "That everyone has a museum map.",
+      "That everyone is wearing a name tag."
+    ],
+    "answer": 3,
+    "explain_zh": "老師說「please check that everyone in your group is wearing their name tag」，所以答案是檢查名牌。談話沒有提到檢查午餐錢、雨衣或地圖。細節題要抓住 check 後面的受詞。",
+    "vocab": [
+      {
+        "w": "name tag",
+        "zh": "名牌",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0053",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Okay class, listen carefully before we get on the bus for our field trip to the science museum. First, please line up in your groups of five, just like we practiced yesterday. Group leaders, please check that everyone in your group is wearing their name tag. We will meet back at the main gate of the museum at twelve thirty for lunch, so please remember that time. If you get separated from your group, do not walk around alone — go to the information desk near the entrance and ask a staff member to call me. Also, keep your bag closed and your phone in your pocket at all times. We will leave the museum at three o'clock to come back to school. Any questions before we go?",
+    "group_id": "NJL-G11",
+    "stem": "What time will the class meet for lunch?",
+    "options": [
+      "Twelve thirty.",
+      "One thirty.",
+      "Ten thirty.",
+      "Twelve o'clock."
+    ],
+    "answer": 0,
+    "explain_zh": "老師說「We will meet back at the main gate... at twelve thirty for lunch」，所以是十二點半。其他時間都沒有在談話中出現。時間題要聽清楚整點和半點的差別。",
+    "vocab": [
+      {
+        "w": "gate",
+        "zh": "大門",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0054",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "Okay class, listen carefully before we get on the bus for our field trip to the science museum. First, please line up in your groups of five, just like we practiced yesterday. Group leaders, please check that everyone in your group is wearing their name tag. We will meet back at the main gate of the museum at twelve thirty for lunch, so please remember that time. If you get separated from your group, do not walk around alone — go to the information desk near the entrance and ask a staff member to call me. Also, keep your bag closed and your phone in your pocket at all times. We will leave the museum at three o'clock to come back to school. Any questions before we go?",
+    "group_id": "NJL-G11",
+    "stem": "What should a student do if separated from the group?",
+    "options": [
+      "Wait outside the museum gate alone.",
+      "Go to the information desk and ask staff to call the teacher.",
+      "Try to find the group by walking around.",
+      "Call a classmate's phone right away."
+    ],
+    "answer": 1,
+    "explain_zh": "老師說「go to the information desk near the entrance and ask a staff member to call me」，所以要去服務台請人聯絡老師。談話明確說不要自己走來走去找，也沒有提到打給同學。方向指引題要抓住老師給的正確做法。",
+    "vocab": [
+      {
+        "w": "separated",
+        "zh": "分開的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0055",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Okay class, listen carefully before we get on the bus for our field trip to the science museum. First, please line up in your groups of five, just like we practiced yesterday. Group leaders, please check that everyone in your group is wearing their name tag. We will meet back at the main gate of the museum at twelve thirty for lunch, so please remember that time. If you get separated from your group, do not walk around alone — go to the information desk near the entrance and ask a staff member to call me. Also, keep your bag closed and your phone in your pocket at all times. We will leave the museum at three o'clock to come back to school. Any questions before we go?",
+    "group_id": "NJL-G11",
+    "stem": "What time will the class leave the museum?",
+    "options": [
+      "Three thirty.",
+      "Two o'clock.",
+      "Three o'clock.",
+      "Twelve thirty."
+    ],
+    "answer": 2,
+    "explain_zh": "老師說「We will leave the museum at three o'clock」，所以離開時間是三點。十二點半是集合吃午餐的時間，容易和離開時間搞混。時間題要分清楚不同活動對應的時刻。",
+    "vocab": [
+      {
+        "w": "leave",
+        "zh": "離開",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0056",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'd like to pay this electricity bill and this water bill, please.\nB: Sure, let me scan them... The electricity bill is eight hundred and fifty dollars, and the water bill is three hundred dollars. That's one thousand one hundred and fifty dollars altogether.\nA: Here's my card. Oh wait, can I also buy a phone card while I'm here?\nB: Yes, we have phone cards worth two hundred, three hundred, or five hundred dollars.\nA: I'll take the three hundred dollar one, please.\nB: OK, so the total is now one thousand four hundred and fifty dollars. Would you like a receipt?\nA: Yes, please. Also, is this the last day I can pay the water bill without a late fee?\nB: Let me check... yes, today is the last day. You paid just in time!",
+    "group_id": "NJL-G12",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A customer is returning a broken phone.",
+      "A worker is checking the store's electricity usage.",
+      "A customer is opening a new bank account.",
+      "A customer is paying bills and buying a phone card at a convenience store."
+    ],
+    "answer": 3,
+    "explain_zh": "對話從繳費開始，接著又買了電話卡，所以主旨是在便利商店繳費並購物。對話沒有提到退貨手機、檢查店裡用電量或開銀行帳戶。聽開頭「pay this electricity bill」就能判斷場景。",
+    "vocab": [
+      {
+        "w": "bill",
+        "zh": "帳單",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0057",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to pay this electricity bill and this water bill, please.\nB: Sure, let me scan them... The electricity bill is eight hundred and fifty dollars, and the water bill is three hundred dollars. That's one thousand one hundred and fifty dollars altogether.\nA: Here's my card. Oh wait, can I also buy a phone card while I'm here?\nB: Yes, we have phone cards worth two hundred, three hundred, or five hundred dollars.\nA: I'll take the three hundred dollar one, please.\nB: OK, so the total is now one thousand four hundred and fifty dollars. Would you like a receipt?\nA: Yes, please. Also, is this the last day I can pay the water bill without a late fee?\nB: Let me check... yes, today is the last day. You paid just in time!",
+    "group_id": "NJL-G12",
+    "stem": "What is the total cost of the two bills before the phone card?",
+    "options": [
+      "One thousand one hundred and fifty dollars.",
+      "Eight hundred and fifty dollars.",
+      "Three hundred dollars.",
+      "One thousand four hundred and fifty dollars."
+    ],
+    "answer": 0,
+    "explain_zh": "店員說兩張帳單「That's one thousand one hundred and fifty dollars altogether」，所以是一千一百五十元。八百五十和三百分別只是單張帳單的金額。數字題要注意題目問的是「加總後」還是「單項」。",
+    "vocab": [
+      {
+        "w": "electricity",
+        "zh": "電；電力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0058",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, I'd like to pay this electricity bill and this water bill, please.\nB: Sure, let me scan them... The electricity bill is eight hundred and fifty dollars, and the water bill is three hundred dollars. That's one thousand one hundred and fifty dollars altogether.\nA: Here's my card. Oh wait, can I also buy a phone card while I'm here?\nB: Yes, we have phone cards worth two hundred, three hundred, or five hundred dollars.\nA: I'll take the three hundred dollar one, please.\nB: OK, so the total is now one thousand four hundred and fifty dollars. Would you like a receipt?\nA: Yes, please. Also, is this the last day I can pay the water bill without a late fee?\nB: Let me check... yes, today is the last day. You paid just in time!",
+    "group_id": "NJL-G12",
+    "stem": "Which phone card does the customer buy?",
+    "options": [
+      "The two hundred dollar one.",
+      "The three hundred dollar one.",
+      "The five hundred dollar one.",
+      "The customer does not buy one."
+    ],
+    "answer": 1,
+    "explain_zh": "顧客說「I'll take the three hundred dollar one」，所以買的是三百元的電話卡。對話中兩百元和五百元只是店員提供的其他選項。細節題要抓住顧客最後選定的那個。",
+    "vocab": [
+      {
+        "w": "phone card",
+        "zh": "電話卡",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0059",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, I'd like to pay this electricity bill and this water bill, please.\nB: Sure, let me scan them... The electricity bill is eight hundred and fifty dollars, and the water bill is three hundred dollars. That's one thousand one hundred and fifty dollars altogether.\nA: Here's my card. Oh wait, can I also buy a phone card while I'm here?\nB: Yes, we have phone cards worth two hundred, three hundred, or five hundred dollars.\nA: I'll take the three hundred dollar one, please.\nB: OK, so the total is now one thousand four hundred and fifty dollars. Would you like a receipt?\nA: Yes, please. Also, is this the last day I can pay the water bill without a late fee?\nB: Let me check... yes, today is the last day. You paid just in time!",
+    "group_id": "NJL-G12",
+    "stem": "What does the customer ask for at the end?",
+    "options": [
+      "A plastic bag.",
+      "A refund.",
+      "A receipt.",
+      "A discount coupon."
+    ],
+    "answer": 2,
+    "explain_zh": "顧客回答「Yes, please」是在回應店員問「Would you like a receipt?」，所以要的是收據。對話沒有提到袋子、退款或折價券。細節題要注意問句和回答的對應關係。",
+    "vocab": [
+      {
+        "w": "receipt",
+        "zh": "收據",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0060",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hi, I'd like to pay this electricity bill and this water bill, please.\nB: Sure, let me scan them... The electricity bill is eight hundred and fifty dollars, and the water bill is three hundred dollars. That's one thousand one hundred and fifty dollars altogether.\nA: Here's my card. Oh wait, can I also buy a phone card while I'm here?\nB: Yes, we have phone cards worth two hundred, three hundred, or five hundred dollars.\nA: I'll take the three hundred dollar one, please.\nB: OK, so the total is now one thousand four hundred and fifty dollars. Would you like a receipt?\nA: Yes, please. Also, is this the last day I can pay the water bill without a late fee?\nB: Let me check... yes, today is the last day. You paid just in time!",
+    "group_id": "NJL-G12",
+    "stem": "Why is the customer lucky about the water bill?",
+    "options": [
+      "Because the water bill was free this month.",
+      "Because the store gave him a discount.",
+      "Because the water bill was already paid.",
+      "Because today is the last day to pay without a late fee."
+    ],
+    "answer": 3,
+    "explain_zh": "店員說「today is the last day. You paid just in time!」，可推論顧客剛好趕上最後繳費期限。對話沒有提到這個月免費、有折扣或已經繳過。推論題要聽出說話者語氣中隱含的意思。",
+    "vocab": [
+      {
+        "w": "late fee",
+        "zh": "逾期罰款",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0061",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Excuse me, how does this bike rental station work?\nB: It's easy! You scan the QR code on the bike with your phone app, and it will unlock automatically.\nA: I see. How much does it cost?\nB: The first thirty minutes are free. After that, it's ten dollars for every thirty minutes.\nA: Oh, that's cheap! Can I return the bike at any station?\nB: Yes, you can return it at any station in the city, not just this one. Just push the bike into an empty slot until you hear a beep.\nA: Great. What if the bike has a problem, like a flat tire?\nB: You can report it in the app, and please don't ride a bike that looks broken. Choose another one instead.\nA: OK, thank you for explaining!",
+    "group_id": "NJL-G13",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A person is learning how to use a bike rental service.",
+      "A person is buying a new bicycle.",
+      "A worker is fixing a broken bike.",
+      "A person is asking for directions to a bike shop."
+    ],
+    "answer": 0,
+    "explain_zh": "對話一開始就問「how does this bike rental station work」，所以主旨是學習如何使用租借腳踏車服務。對話沒有提到買新車、修車或問路去腳踏車店。聽開頭的問句就能判斷主題。",
+    "vocab": [
+      {
+        "w": "rental",
+        "zh": "租借",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0062",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Excuse me, how does this bike rental station work?\nB: It's easy! You scan the QR code on the bike with your phone app, and it will unlock automatically.\nA: I see. How much does it cost?\nB: The first thirty minutes are free. After that, it's ten dollars for every thirty minutes.\nA: Oh, that's cheap! Can I return the bike at any station?\nB: Yes, you can return it at any station in the city, not just this one. Just push the bike into an empty slot until you hear a beep.\nA: Great. What if the bike has a problem, like a flat tire?\nB: You can report it in the app, and please don't ride a bike that looks broken. Choose another one instead.\nA: OK, thank you for explaining!",
+    "group_id": "NJL-G13",
+    "stem": "How long is the free rental time?",
+    "options": [
+      "The first ten minutes.",
+      "The first thirty minutes.",
+      "The first hour.",
+      "There is no free time."
+    ],
+    "answer": 1,
+    "explain_zh": "對方說「The first thirty minutes are free」，所以前三十分鐘免費。其他選項的時間都沒有在對話中出現。時間題要抓住 free 前面對應的時間長度。",
+    "vocab": [
+      {
+        "w": "free",
+        "zh": "免費的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0063",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Excuse me, how does this bike rental station work?\nB: It's easy! You scan the QR code on the bike with your phone app, and it will unlock automatically.\nA: I see. How much does it cost?\nB: The first thirty minutes are free. After that, it's ten dollars for every thirty minutes.\nA: Oh, that's cheap! Can I return the bike at any station?\nB: Yes, you can return it at any station in the city, not just this one. Just push the bike into an empty slot until you hear a beep.\nA: Great. What if the bike has a problem, like a flat tire?\nB: You can report it in the app, and please don't ride a bike that looks broken. Choose another one instead.\nA: OK, thank you for explaining!",
+    "group_id": "NJL-G13",
+    "stem": "How much does it cost after the free time?",
+    "options": [
+      "Thirty dollars for every ten minutes.",
+      "Ten dollars for the whole day.",
+      "Ten dollars for every thirty minutes.",
+      "One hundred dollars per hour."
+    ],
+    "answer": 2,
+    "explain_zh": "對方說「it's ten dollars for every thirty minutes」，所以之後每三十分鐘十元。其他選項把數字順序或範圍講反了。數字題要聽清楚金額和時間單位的正確配對。",
+    "vocab": [
+      {
+        "w": "cost",
+        "zh": "花費",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0064",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "A: Excuse me, how does this bike rental station work?\nB: It's easy! You scan the QR code on the bike with your phone app, and it will unlock automatically.\nA: I see. How much does it cost?\nB: The first thirty minutes are free. After that, it's ten dollars for every thirty minutes.\nA: Oh, that's cheap! Can I return the bike at any station?\nB: Yes, you can return it at any station in the city, not just this one. Just push the bike into an empty slot until you hear a beep.\nA: Great. What if the bike has a problem, like a flat tire?\nB: You can report it in the app, and please don't ride a bike that looks broken. Choose another one instead.\nA: OK, thank you for explaining!",
+    "group_id": "NJL-G13",
+    "stem": "Where can the bike be returned?",
+    "options": [
+      "Only at the station where it was rented.",
+      "Only at bike shops.",
+      "It cannot be returned once rented.",
+      "At any station in the city."
+    ],
+    "answer": 3,
+    "explain_zh": "對方說「you can return it at any station in the city」，所以任何一個站點都能還車。對話明確說不是只能在原站還，也沒有提到只能在腳踏車店還。方向指引題要抓住地點範圍的關鍵詞。",
+    "vocab": [
+      {
+        "w": "return",
+        "zh": "歸還",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0065",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Excuse me, how does this bike rental station work?\nB: It's easy! You scan the QR code on the bike with your phone app, and it will unlock automatically.\nA: I see. How much does it cost?\nB: The first thirty minutes are free. After that, it's ten dollars for every thirty minutes.\nA: Oh, that's cheap! Can I return the bike at any station?\nB: Yes, you can return it at any station in the city, not just this one. Just push the bike into an empty slot until you hear a beep.\nA: Great. What if the bike has a problem, like a flat tire?\nB: You can report it in the app, and please don't ride a bike that looks broken. Choose another one instead.\nA: OK, thank you for explaining!",
+    "group_id": "NJL-G13",
+    "stem": "What should a person do if a bike looks broken?",
+    "options": [
+      "Choose another bike instead of riding it.",
+      "Ride it carefully anyway.",
+      "Fix it themselves.",
+      "Leave it in the middle of the road."
+    ],
+    "answer": 0,
+    "explain_zh": "對方說「please don't ride a bike that looks broken. Choose another one instead」，所以應該換一台車騎。對話沒有說可以小心騎、自己修理或丟在路中間。細節題要抓住 instead 前後的建議動作。",
+    "vocab": [
+      {
+        "w": "broken",
+        "zh": "壞掉的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0066",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Mom, Grandpa just called. He said we should come to his house at six thirty for dinner this Sunday, not six like last time.\nB: Oh, that's good to know. Did he say what we should bring?\nA: Yes, he asked if you could bring your special mango cake for dessert. Uncle Wei is also bringing his famous fried rice.\nB: Sure, I can make the cake on Saturday night. Is anyone else coming?\nA: Grandpa said Aunt Lin and her two kids will come too, so it will be a big group, about ten people.\nB: Then I should probably make two cakes instead of one! Should we bring anything to drink?\nA: He said he already bought enough juice and tea, so we don't need to bring drinks.\nB: Perfect. I'll start baking on Saturday afternoon then.",
+    "group_id": "NJL-G14",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A family is planning a birthday surprise.",
+      "A family is planning what to bring to a family dinner.",
+      "A family is arguing about dinner plans.",
+      "A family is cancelling a dinner because of rain."
+    ],
+    "answer": 1,
+    "explain_zh": "對話都在討論星期天要去爺爺家吃飯、要帶什麼東西，所以主旨是安排家庭聚餐的準備事項。對話沒有提到驚喜派對、爭吵或因雨取消。聽整段對話的話題主軸就能抓到主旨。",
+    "vocab": [
+      {
+        "w": "dessert",
+        "zh": "甜點",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0067",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Mom, Grandpa just called. He said we should come to his house at six thirty for dinner this Sunday, not six like last time.\nB: Oh, that's good to know. Did he say what we should bring?\nA: Yes, he asked if you could bring your special mango cake for dessert. Uncle Wei is also bringing his famous fried rice.\nB: Sure, I can make the cake on Saturday night. Is anyone else coming?\nA: Grandpa said Aunt Lin and her two kids will come too, so it will be a big group, about ten people.\nB: Then I should probably make two cakes instead of one! Should we bring anything to drink?\nA: He said he already bought enough juice and tea, so we don't need to bring drinks.\nB: Perfect. I'll start baking on Saturday afternoon then.",
+    "group_id": "NJL-G14",
+    "stem": "What time should the family arrive on Sunday?",
+    "options": [
+      "Six o'clock.",
+      "Seven o'clock.",
+      "Six thirty.",
+      "Five thirty."
+    ],
+    "answer": 2,
+    "explain_zh": "女兒說這次是「six thirty for dinner this Sunday, not six like last time」，所以是六點半，六點是上次的時間。時間題要特別注意句子裡「不是...而是...」的對比結構。",
+    "vocab": [
+      {
+        "w": "arrive",
+        "zh": "到達",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0068",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Mom, Grandpa just called. He said we should come to his house at six thirty for dinner this Sunday, not six like last time.\nB: Oh, that's good to know. Did he say what we should bring?\nA: Yes, he asked if you could bring your special mango cake for dessert. Uncle Wei is also bringing his famous fried rice.\nB: Sure, I can make the cake on Saturday night. Is anyone else coming?\nA: Grandpa said Aunt Lin and her two kids will come too, so it will be a big group, about ten people.\nB: Then I should probably make two cakes instead of one! Should we bring anything to drink?\nA: He said he already bought enough juice and tea, so we don't need to bring drinks.\nB: Perfect. I'll start baking on Saturday afternoon then.",
+    "group_id": "NJL-G14",
+    "stem": "What is Mom asked to bring?",
+    "options": [
+      "Fried rice.",
+      "Juice and tea.",
+      "A birthday present.",
+      "A mango cake."
+    ],
+    "answer": 3,
+    "explain_zh": "女兒說爺爺「asked if you could bring your special mango cake for dessert」，所以是芒果蛋糕。炒飯是叔叔要帶的，飲料是爺爺自己準備的。細節題要分清楚每個人各自負責帶的東西。",
+    "vocab": [
+      {
+        "w": "mango",
+        "zh": "芒果",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0069",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Mom, Grandpa just called. He said we should come to his house at six thirty for dinner this Sunday, not six like last time.\nB: Oh, that's good to know. Did he say what we should bring?\nA: Yes, he asked if you could bring your special mango cake for dessert. Uncle Wei is also bringing his famous fried rice.\nB: Sure, I can make the cake on Saturday night. Is anyone else coming?\nA: Grandpa said Aunt Lin and her two kids will come too, so it will be a big group, about ten people.\nB: Then I should probably make two cakes instead of one! Should we bring anything to drink?\nA: He said he already bought enough juice and tea, so we don't need to bring drinks.\nB: Perfect. I'll start baking on Saturday afternoon then.",
+    "group_id": "NJL-G14",
+    "stem": "About how many people will be at the dinner?",
+    "options": [
+      "About ten people.",
+      "About five people.",
+      "About twenty people.",
+      "Just the immediate family."
+    ],
+    "answer": 0,
+    "explain_zh": "女兒說加上阿姨和她的兩個小孩，「it will be a big group, about ten people」，所以大約十個人。其他選項的人數都沒有在對話中出現。數字題要把提到的每個人加總起來理解。",
+    "vocab": [
+      {
+        "w": "group",
+        "zh": "群體；一群人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0070",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Mom, Grandpa just called. He said we should come to his house at six thirty for dinner this Sunday, not six like last time.\nB: Oh, that's good to know. Did he say what we should bring?\nA: Yes, he asked if you could bring your special mango cake for dessert. Uncle Wei is also bringing his famous fried rice.\nB: Sure, I can make the cake on Saturday night. Is anyone else coming?\nA: Grandpa said Aunt Lin and her two kids will come too, so it will be a big group, about ten people.\nB: Then I should probably make two cakes instead of one! Should we bring anything to drink?\nA: He said he already bought enough juice and tea, so we don't need to bring drinks.\nB: Perfect. I'll start baking on Saturday afternoon then.",
+    "group_id": "NJL-G14",
+    "stem": "Why does Mom decide to make two cakes?",
+    "options": [
+      "Because Grandpa asked for two flavors.",
+      "Because there will be a big group of people.",
+      "Because the first cake might fail.",
+      "Because Uncle Wei asked for extra dessert."
+    ],
+    "answer": 1,
+    "explain_zh": "媽媽聽到大約十人會來之後才說要做兩個蛋糕，可推論是因為人多需要更多份量。對話沒有提到爺爺要求兩種口味、擔心失敗或叔叔要求加甜點。推論題要看前後句的因果順序。",
+    "vocab": [
+      {
+        "w": "bake",
+        "zh": "烘焙",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0071",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, two tickets for the seven o'clock showing of \"Ocean Adventure,\" please.\nB: Sure. Would you like normal seats or the bigger recliner seats? The recliner seats are fifty dollars more per ticket.\nA: Just normal seats is fine. Do you have any seats near the back?\nB: Let me check... yes, I have two seats in row H, right in the middle.\nA: Perfect, we'll take those. Can we also buy a large popcorn and two drinks?\nB: Of course. With the combo deal, a large popcorn and two medium drinks together are one hundred and fifty dollars, which saves you thirty dollars.\nA: Great, we'll get the combo then. What time should we go into the theater?\nB: The doors open at six forty-five, fifteen minutes before the movie starts.",
+    "group_id": "NJL-G15",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A worker is cleaning the movie theater.",
+      "A customer is asking for a refund on a ticket.",
+      "A customer is buying movie tickets and snacks.",
+      "A manager is checking ticket prices for a report."
+    ],
+    "answer": 2,
+    "explain_zh": "對話從買電影票開始，接著又買了爆米花和飲料，所以主旨是買票和零食。對話沒有提到打掃電影院、退票或整理價目表。聽開頭「two tickets for」就能判斷場景。",
+    "vocab": [
+      {
+        "w": "ticket",
+        "zh": "票",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0072",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, two tickets for the seven o'clock showing of \"Ocean Adventure,\" please.\nB: Sure. Would you like normal seats or the bigger recliner seats? The recliner seats are fifty dollars more per ticket.\nA: Just normal seats is fine. Do you have any seats near the back?\nB: Let me check... yes, I have two seats in row H, right in the middle.\nA: Perfect, we'll take those. Can we also buy a large popcorn and two drinks?\nB: Of course. With the combo deal, a large popcorn and two medium drinks together are one hundred and fifty dollars, which saves you thirty dollars.\nA: Great, we'll get the combo then. What time should we go into the theater?\nB: The doors open at six forty-five, fifteen minutes before the movie starts.",
+    "group_id": "NJL-G15",
+    "stem": "What time does the movie start?",
+    "options": [
+      "Six forty-five.",
+      "Six thirty.",
+      "Eight o'clock.",
+      "Seven o'clock."
+    ],
+    "answer": 3,
+    "explain_zh": "顧客一開始就說要買「seven o'clock showing」的票，所以電影七點開演。六點四十五是開放進場的時間，容易和開演時間搞混。時間題要區分「開放入場」和「正式開始」。",
+    "vocab": [
+      {
+        "w": "showing",
+        "zh": "播映場次",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0073",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, two tickets for the seven o'clock showing of \"Ocean Adventure,\" please.\nB: Sure. Would you like normal seats or the bigger recliner seats? The recliner seats are fifty dollars more per ticket.\nA: Just normal seats is fine. Do you have any seats near the back?\nB: Let me check... yes, I have two seats in row H, right in the middle.\nA: Perfect, we'll take those. Can we also buy a large popcorn and two drinks?\nB: Of course. With the combo deal, a large popcorn and two medium drinks together are one hundred and fifty dollars, which saves you thirty dollars.\nA: Great, we'll get the combo then. What time should we go into the theater?\nB: The doors open at six forty-five, fifteen minutes before the movie starts.",
+    "group_id": "NJL-G15",
+    "stem": "Which seats does the customer choose?",
+    "options": [
+      "Normal seats in row H.",
+      "Recliner seats in the front.",
+      "Recliner seats in row H.",
+      "Normal seats near the screen."
+    ],
+    "answer": 0,
+    "explain_zh": "顧客說「Just normal seats is fine」，店員又找到「two seats in row H」，所以是H排的一般座位。對話沒有選豪華椅，也不是靠近螢幕的位置。細節題要把座位種類和排號兩個資訊合併判斷。",
+    "vocab": [
+      {
+        "w": "row",
+        "zh": "排",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0074",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, two tickets for the seven o'clock showing of \"Ocean Adventure,\" please.\nB: Sure. Would you like normal seats or the bigger recliner seats? The recliner seats are fifty dollars more per ticket.\nA: Just normal seats is fine. Do you have any seats near the back?\nB: Let me check... yes, I have two seats in row H, right in the middle.\nA: Perfect, we'll take those. Can we also buy a large popcorn and two drinks?\nB: Of course. With the combo deal, a large popcorn and two medium drinks together are one hundred and fifty dollars, which saves you thirty dollars.\nA: Great, we'll get the combo then. What time should we go into the theater?\nB: The doors open at six forty-five, fifteen minutes before the movie starts.",
+    "group_id": "NJL-G15",
+    "stem": "How much does the combo deal save?",
+    "options": [
+      "Fifty dollars.",
+      "Thirty dollars.",
+      "One hundred and fifty dollars.",
+      "Fifteen dollars."
+    ],
+    "answer": 1,
+    "explain_zh": "店員說套餐「saves you thirty dollars」，所以省下三十元。一百五十元是套餐總價，不是省下的金額，容易混淆。數字題要分清楚「總價」和「省下的差額」。",
+    "vocab": [
+      {
+        "w": "combo",
+        "zh": "套餐",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0075",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, two tickets for the seven o'clock showing of \"Ocean Adventure,\" please.\nB: Sure. Would you like normal seats or the bigger recliner seats? The recliner seats are fifty dollars more per ticket.\nA: Just normal seats is fine. Do you have any seats near the back?\nB: Let me check... yes, I have two seats in row H, right in the middle.\nA: Perfect, we'll take those. Can we also buy a large popcorn and two drinks?\nB: Of course. With the combo deal, a large popcorn and two medium drinks together are one hundred and fifty dollars, which saves you thirty dollars.\nA: Great, we'll get the combo then. What time should we go into the theater?\nB: The doors open at six forty-five, fifteen minutes before the movie starts.",
+    "group_id": "NJL-G15",
+    "stem": "What time do the theater doors open?",
+    "options": [
+      "Seven o'clock.",
+      "Six thirty.",
+      "Six forty-five.",
+      "Seven fifteen."
+    ],
+    "answer": 2,
+    "explain_zh": "店員說「The doors open at six forty-five」，所以進場時間是六點四十五。七點是電影開演時間，容易和開門時間搞混。時間題要聽清楚句子主詞是「開門」還是「開演」。",
+    "vocab": [
+      {
+        "w": "theater",
+        "zh": "電影院；劇院",
+        "pos": "n."
+      }
+    ]
+  }
+]

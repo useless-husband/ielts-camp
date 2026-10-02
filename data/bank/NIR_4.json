@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "NIR-0151",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Ice cores drilled from Antarctica and Greenland preserve tiny bubbles of ancient air trapped as snow compacted into ice over hundreds of thousands of years, giving researchers a direct record of past atmospheric carbon dioxide levels. Sorensen and colleagues extended one such record using a core reaching depths corresponding to roughly 800,000 years of accumulation, the longest continuous record obtained to date.\n\nB. Near the surface, annual snow layers are thick enough that a single year of accumulation can be identified and dated with high confidence, sometimes to within a single year. At greater depth, however, the immense pressure of overlying ice compresses each year's layer to a fraction of a millimetre, and gradual diffusion of gas within the ice can blur the boundary between adjacent years, so that dating at the oldest depths carries an uncertainty of several centuries rather than single years.\n\nC. This depth-dependent uncertainty matters for interpreting rapid climate events. Sorensen's team identified several instances in the older portion of the record where carbon dioxide levels appeared to rise unusually quickly, but cautioned that the true rate of these changes could be somewhat faster or slower than the ice core alone suggests, since gas trapped in bubbles is on average slightly younger than the surrounding ice due to how long it takes air to become sealed off from the surface as snow compacts.\n\nD. Despite these limitations, Sorensen argues that ice cores remain the single most reliable direct record of ancient atmospheric composition available, since alternative methods, such as inferring past carbon dioxide levels from fossil plant material, carry their own, generally larger, uncertainties. She recommends that researchers report a clearly stated uncertainty range alongside any date drawn from the oldest portions of an ice core, rather than presenting a single precise figure.",
+    "group_id": "NIR-G31",
+    "stem": "What is the main point the passage makes about dating ice core records?",
+    "options": [
+      "Dating becomes considerably less precise at greater depths, which matters for interpreting rapid climate events",
+      "Ice core dating is equally precise at every depth of the core",
+      "Fossil plant material provides far more precise dates than ice cores at any depth",
+      "Ice cores have been shown to be completely unreliable as a climate record"
+    ],
+    "answer": 0,
+    "explain_zh": "全文說明表層定年精確、深層因壓縮與氣體擴散而產生數世紀誤差，且這對解讀快速氣候事件有影響，對應選項 A，故選 A。B 與段落 B 描述「表層精確、深層誤差較大」矛盾；C 與段落 D 明確說冰芯仍是「最可靠的直接紀錄」、化石植物法誤差通常更大矛盾；D 段落 D 明確說冰芯仍是「最可靠的直接紀錄」，並非完全不可靠。技巧：主旨題遇到「精確度隨某個變因改變」的文章，答案要精準反映這個變化趨勢本身。",
+    "vocab": [
+      {
+        "w": "compact",
+        "zh": "壓縮",
+        "pos": "v."
+      },
+      {
+        "w": "diffusion",
+        "zh": "擴散",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0152",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Ice cores drilled from Antarctica and Greenland preserve tiny bubbles of ancient air trapped as snow compacted into ice over hundreds of thousands of years, giving researchers a direct record of past atmospheric carbon dioxide levels. Sorensen and colleagues extended one such record using a core reaching depths corresponding to roughly 800,000 years of accumulation, the longest continuous record obtained to date.\n\nB. Near the surface, annual snow layers are thick enough that a single year of accumulation can be identified and dated with high confidence, sometimes to within a single year. At greater depth, however, the immense pressure of overlying ice compresses each year's layer to a fraction of a millimetre, and gradual diffusion of gas within the ice can blur the boundary between adjacent years, so that dating at the oldest depths carries an uncertainty of several centuries rather than single years.\n\nC. This depth-dependent uncertainty matters for interpreting rapid climate events. Sorensen's team identified several instances in the older portion of the record where carbon dioxide levels appeared to rise unusually quickly, but cautioned that the true rate of these changes could be somewhat faster or slower than the ice core alone suggests, since gas trapped in bubbles is on average slightly younger than the surrounding ice due to how long it takes air to become sealed off from the surface as snow compacts.\n\nD. Despite these limitations, Sorensen argues that ice cores remain the single most reliable direct record of ancient atmospheric composition available, since alternative methods, such as inferring past carbon dioxide levels from fossil plant material, carry their own, generally larger, uncertainties. She recommends that researchers report a clearly stated uncertainty range alongside any date drawn from the oldest portions of an ice core, rather than presenting a single precise figure.",
+    "group_id": "NIR-G31",
+    "stem": "According to the passage, Sorensen's ice core reached depths corresponding to roughly how many years of accumulation?",
+    "options": [
+      "Roughly 800,000 years",
+      "Roughly 8,000 years",
+      "Roughly 80,000 years",
+      "The passage does not give a figure"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 A 寫 a core reaching depths corresponding to roughly 800,000 years of accumulation，選 A。80,000 years、8,000 years 都是把數字位數改變的常見誘答；文章確實有給出明確的年代數字。技巧：碰到位數差距很大的誘答（800,000 vs 80,000），要仔細核對零的個數，避免快速瀏覽時看錯。",
+    "vocab": [
+      {
+        "w": "accumulation",
+        "zh": "堆積；累積",
+        "pos": "n."
+      },
+      {
+        "w": "bubble",
+        "zh": "氣泡",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0153",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Ice cores drilled from Antarctica and Greenland preserve tiny bubbles of ancient air trapped as snow compacted into ice over hundreds of thousands of years, giving researchers a direct record of past atmospheric carbon dioxide levels. Sorensen and colleagues extended one such record using a core reaching depths corresponding to roughly 800,000 years of accumulation, the longest continuous record obtained to date.\n\nB. Near the surface, annual snow layers are thick enough that a single year of accumulation can be identified and dated with high confidence, sometimes to within a single year. At greater depth, however, the immense pressure of overlying ice compresses each year's layer to a fraction of a millimetre, and gradual diffusion of gas within the ice can blur the boundary between adjacent years, so that dating at the oldest depths carries an uncertainty of several centuries rather than single years.\n\nC. This depth-dependent uncertainty matters for interpreting rapid climate events. Sorensen's team identified several instances in the older portion of the record where carbon dioxide levels appeared to rise unusually quickly, but cautioned that the true rate of these changes could be somewhat faster or slower than the ice core alone suggests, since gas trapped in bubbles is on average slightly younger than the surrounding ice due to how long it takes air to become sealed off from the surface as snow compacts.\n\nD. Despite these limitations, Sorensen argues that ice cores remain the single most reliable direct record of ancient atmospheric composition available, since alternative methods, such as inferring past carbon dioxide levels from fossil plant material, carry their own, generally larger, uncertainties. She recommends that researchers report a clearly stated uncertainty range alongside any date drawn from the oldest portions of an ice core, rather than presenting a single precise figure.",
+    "group_id": "NIR-G31",
+    "stem": "In paragraph C, the word 'blur' is closest in meaning to which of the following?",
+    "options": [
+      "make less clear or distinct",
+      "completely remove or erase",
+      "make extremely sharp and precise",
+      "artificially colour or highlight"
+    ],
+    "answer": 0,
+    "explain_zh": "blur 指「使模糊」，段落 B 說氣體擴散 can blur the boundary between adjacent years，也就是讓相鄰年份之間的界線變得不清楚，對應選項 A，故選 A。C「使其變得極度清晰精確」與「模糊」意思相反；B、D 都偏離了原文語意。技巧：blur 常與 boundary、line、distinction 等字搭配，表示「使原本清楚的界線變得難以辨別」。",
+    "vocab": [
+      {
+        "w": "blur",
+        "zh": "使模糊",
+        "pos": "v."
+      },
+      {
+        "w": "overlying",
+        "zh": "上覆的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0154",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Ice cores drilled from Antarctica and Greenland preserve tiny bubbles of ancient air trapped as snow compacted into ice over hundreds of thousands of years, giving researchers a direct record of past atmospheric carbon dioxide levels. Sorensen and colleagues extended one such record using a core reaching depths corresponding to roughly 800,000 years of accumulation, the longest continuous record obtained to date.\n\nB. Near the surface, annual snow layers are thick enough that a single year of accumulation can be identified and dated with high confidence, sometimes to within a single year. At greater depth, however, the immense pressure of overlying ice compresses each year's layer to a fraction of a millimetre, and gradual diffusion of gas within the ice can blur the boundary between adjacent years, so that dating at the oldest depths carries an uncertainty of several centuries rather than single years.\n\nC. This depth-dependent uncertainty matters for interpreting rapid climate events. Sorensen's team identified several instances in the older portion of the record where carbon dioxide levels appeared to rise unusually quickly, but cautioned that the true rate of these changes could be somewhat faster or slower than the ice core alone suggests, since gas trapped in bubbles is on average slightly younger than the surrounding ice due to how long it takes air to become sealed off from the surface as snow compacts.\n\nD. Despite these limitations, Sorensen argues that ice cores remain the single most reliable direct record of ancient atmospheric composition available, since alternative methods, such as inferring past carbon dioxide levels from fossil plant material, carry their own, generally larger, uncertainties. She recommends that researchers report a clearly stated uncertainty range alongside any date drawn from the oldest portions of an ice core, rather than presenting a single precise figure.",
+    "group_id": "NIR-G31",
+    "stem": "Statement: Sorensen argues that ice cores should be abandoned in favour of fossil plant material for reconstructing past carbon dioxide levels.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 D 明確寫 ice cores remain the single most reliable direct record...since alternative methods, such as inferring past carbon dioxide levels from fossil plant material, carry their own, generally larger, uncertainties，直接反駁題幹的說法，選 False。技巧：題幹說「應該放棄冰芯改用化石植物」，與原文「冰芯仍是最可靠、替代方法誤差更大」方向相反，屬於清楚的 False。",
+    "vocab": [
+      {
+        "w": "reconstruct",
+        "zh": "重建",
+        "pos": "v."
+      },
+      {
+        "w": "infer",
+        "zh": "推斷",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0155",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Ice cores drilled from Antarctica and Greenland preserve tiny bubbles of ancient air trapped as snow compacted into ice over hundreds of thousands of years, giving researchers a direct record of past atmospheric carbon dioxide levels. Sorensen and colleagues extended one such record using a core reaching depths corresponding to roughly 800,000 years of accumulation, the longest continuous record obtained to date.\n\nB. Near the surface, annual snow layers are thick enough that a single year of accumulation can be identified and dated with high confidence, sometimes to within a single year. At greater depth, however, the immense pressure of overlying ice compresses each year's layer to a fraction of a millimetre, and gradual diffusion of gas within the ice can blur the boundary between adjacent years, so that dating at the oldest depths carries an uncertainty of several centuries rather than single years.\n\nC. This depth-dependent uncertainty matters for interpreting rapid climate events. Sorensen's team identified several instances in the older portion of the record where carbon dioxide levels appeared to rise unusually quickly, but cautioned that the true rate of these changes could be somewhat faster or slower than the ice core alone suggests, since gas trapped in bubbles is on average slightly younger than the surrounding ice due to how long it takes air to become sealed off from the surface as snow compacts.\n\nD. Despite these limitations, Sorensen argues that ice cores remain the single most reliable direct record of ancient atmospheric composition available, since alternative methods, such as inferring past carbon dioxide levels from fossil plant material, carry their own, generally larger, uncertainties. She recommends that researchers report a clearly stated uncertainty range alongside any date drawn from the oldest portions of an ice core, rather than presenting a single precise figure.",
+    "group_id": "NIR-G31",
+    "stem": "What is Sorensen's recommendation regarding dates drawn from the oldest portions of an ice core?",
+    "options": [
+      "Researchers should always report a single, maximally precise date regardless of depth",
+      "Researchers should rely solely on fossil plant material for these depths",
+      "Researchers should stop studying the oldest portions of ice cores altogether",
+      "Researchers should report a clearly stated uncertainty range rather than a single precise figure"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 明確寫 She recommends that researchers report a clearly stated uncertainty range alongside any date drawn from the oldest portions of an ice core, rather than presenting a single precise figure，對應選項 D，故選 D。A 與此建議方向相反；B 段落 D 明確說化石植物法誤差通常更大，並非建議改用；C 與整篇文章討論如何妥善運用冰芯紀錄矛盾。技巧：建議類題目答案常見於文章結尾，留意 recommends that、rather than 這類明確表達具體做法的句型。",
+    "vocab": [
+      {
+        "w": "uncertainty range",
+        "zh": "不確定範圍",
+        "pos": "n."
+      },
+      {
+        "w": "precise",
+        "zh": "精確的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0156",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. For much of the twentieth century, sign languages used by deaf communities were widely regarded, even by many educators, as simplified gesture systems rather than full languages with their own grammar. Marsh traces how this view began to change following linguistic analyses in the 1960s that treated American Sign Language as an independent language with systematic rules for word order, grammatical markers, and sentence structure, rather than a visual code for spoken English.\n\nB. Evidence for this reassessment includes the discovery that sign languages develop independently in different deaf communities, with distinct grammars unrelated to the spoken language of the surrounding hearing population; British Sign Language and American Sign Language, for instance, are largely mutually unintelligible despite both existing alongside spoken English. Marsh cites this as strong evidence that sign languages are not derivative systems but languages that emerged through their own independent processes.\n\nC. Perhaps the clearest evidence comes from cases where a new sign language has emerged from scratch within a single generation. When a school for deaf children was established in one Central American country in the 1980s, bringing together children who previously had little shared means of communication, researchers observed a shared sign system emerging among the children within a few years, one that grew progressively more grammatically complex as younger children, exposed to the emerging system from an early age, added structure that the original older students had not used.\n\nD. Marsh argues that this rapid emergence, observed directly rather than reconstructed from historical records, offers an unusually clear window into how a human language can arise, since spoken languages generally form over centuries, too gradually to observe from beginning to end. She suggests that this makes sign languages not merely equal in linguistic status to spoken languages but, for certain research questions about language emergence, uniquely valuable as a natural experiment.",
+    "group_id": "NIR-G32",
+    "stem": "What overall shift in understanding does the passage describe regarding sign languages?",
+    "options": [
+      "Sign languages have been shown to take centuries to emerge, just like spoken languages",
+      "Sign languages are now understood to be simplified codes for spoken languages",
+      "Linguists have concluded that all sign languages share an identical grammar",
+      "Sign languages have come to be recognised as full, independently structured languages rather than simplified gesture systems"
+    ],
+    "answer": 3,
+    "explain_zh": "全文描述手語從被視為「簡化手勢系統」轉變為被認可具有獨立文法的完整語言，並以新手語誕生的案例作為有力證據，對應選項 D，故選 D。A 段落 D 明確說手語能在一個世代內迅速形成，與口語需要數世紀形成相反；B 與段落 A 描述的轉變方向相反；C 與段落 B 提到「英式與美式手語彼此難以互通」矛盾，代表文法並不相同。技巧：主旨題遇到「舊觀念被新證據修正」的文章，答案要精準對應這個轉變的方向與內容。",
+    "vocab": [
+      {
+        "w": "derivative",
+        "zh": "衍生的",
+        "pos": "adj."
+      },
+      {
+        "w": "reassessment",
+        "zh": "重新評估",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0157",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. For much of the twentieth century, sign languages used by deaf communities were widely regarded, even by many educators, as simplified gesture systems rather than full languages with their own grammar. Marsh traces how this view began to change following linguistic analyses in the 1960s that treated American Sign Language as an independent language with systematic rules for word order, grammatical markers, and sentence structure, rather than a visual code for spoken English.\n\nB. Evidence for this reassessment includes the discovery that sign languages develop independently in different deaf communities, with distinct grammars unrelated to the spoken language of the surrounding hearing population; British Sign Language and American Sign Language, for instance, are largely mutually unintelligible despite both existing alongside spoken English. Marsh cites this as strong evidence that sign languages are not derivative systems but languages that emerged through their own independent processes.\n\nC. Perhaps the clearest evidence comes from cases where a new sign language has emerged from scratch within a single generation. When a school for deaf children was established in one Central American country in the 1980s, bringing together children who previously had little shared means of communication, researchers observed a shared sign system emerging among the children within a few years, one that grew progressively more grammatically complex as younger children, exposed to the emerging system from an early age, added structure that the original older students had not used.\n\nD. Marsh argues that this rapid emergence, observed directly rather than reconstructed from historical records, offers an unusually clear window into how a human language can arise, since spoken languages generally form over centuries, too gradually to observe from beginning to end. She suggests that this makes sign languages not merely equal in linguistic status to spoken languages but, for certain research questions about language emergence, uniquely valuable as a natural experiment.",
+    "group_id": "NIR-G32",
+    "stem": "According to the passage, in what decade did linguistic analyses begin treating American Sign Language as an independent language?",
+    "options": [
+      "The 1990s",
+      "The passage does not mention a decade",
+      "The 1960s",
+      "The 1980s"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 A 寫 following linguistic analyses in the 1960s that treated American Sign Language as an independent language，對應選項 C，故選 C。D「1980s」其實是段落 C 提到「中美洲某國設立聾人學校」的年代，容易混淆；A「1990s」原文未提及；B 文章確實有明確提到年代。技巧：文章中出現多個年代時（1960s、1980s），要清楚對應每個年代分別描述的是哪一件事。",
+    "vocab": [
+      {
+        "w": "grammatical marker",
+        "zh": "文法標記",
+        "pos": "n."
+      },
+      {
+        "w": "mutually unintelligible",
+        "zh": "彼此無法互通理解的",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0158",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. For much of the twentieth century, sign languages used by deaf communities were widely regarded, even by many educators, as simplified gesture systems rather than full languages with their own grammar. Marsh traces how this view began to change following linguistic analyses in the 1960s that treated American Sign Language as an independent language with systematic rules for word order, grammatical markers, and sentence structure, rather than a visual code for spoken English.\n\nB. Evidence for this reassessment includes the discovery that sign languages develop independently in different deaf communities, with distinct grammars unrelated to the spoken language of the surrounding hearing population; British Sign Language and American Sign Language, for instance, are largely mutually unintelligible despite both existing alongside spoken English. Marsh cites this as strong evidence that sign languages are not derivative systems but languages that emerged through their own independent processes.\n\nC. Perhaps the clearest evidence comes from cases where a new sign language has emerged from scratch within a single generation. When a school for deaf children was established in one Central American country in the 1980s, bringing together children who previously had little shared means of communication, researchers observed a shared sign system emerging among the children within a few years, one that grew progressively more grammatically complex as younger children, exposed to the emerging system from an early age, added structure that the original older students had not used.\n\nD. Marsh argues that this rapid emergence, observed directly rather than reconstructed from historical records, offers an unusually clear window into how a human language can arise, since spoken languages generally form over centuries, too gradually to observe from beginning to end. She suggests that this makes sign languages not merely equal in linguistic status to spoken languages but, for certain research questions about language emergence, uniquely valuable as a natural experiment.",
+    "group_id": "NIR-G32",
+    "stem": "What can be inferred from the fact that younger children added more grammatical structure than the older students who first developed the emerging sign system?",
+    "options": [
+      "The emerging sign system stopped changing entirely once the school was established.",
+      "Older students were physically unable to learn any sign language at all.",
+      "Younger children were taught the system directly by hearing teachers fluent in it.",
+      "Early childhood exposure may play an important role in how fully a language's grammar develops."
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 說年幼兒童從小接觸這個新興系統，逐漸增加了原本年長學生沒有使用的文法結構，可推知童年早期接觸可能是語言文法完整發展的重要因素，對應選項 D，故選 D。A 與「逐漸變得更複雜」矛盾；B 與原文描述年長學生也參與了系統的初步發展矛盾；C 原文描述的是系統在兒童之間自然浮現，並非由聽人教師直接教授。技巧：推論題常考「兩個世代之間的差異說明了什麼」，答案通常指向「暴露時機、學習關鍵期」這類因素。",
+    "vocab": [
+      {
+        "w": "emerge",
+        "zh": "浮現；產生",
+        "pos": "v."
+      },
+      {
+        "w": "progressively",
+        "zh": "逐漸地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0159",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. For much of the twentieth century, sign languages used by deaf communities were widely regarded, even by many educators, as simplified gesture systems rather than full languages with their own grammar. Marsh traces how this view began to change following linguistic analyses in the 1960s that treated American Sign Language as an independent language with systematic rules for word order, grammatical markers, and sentence structure, rather than a visual code for spoken English.\n\nB. Evidence for this reassessment includes the discovery that sign languages develop independently in different deaf communities, with distinct grammars unrelated to the spoken language of the surrounding hearing population; British Sign Language and American Sign Language, for instance, are largely mutually unintelligible despite both existing alongside spoken English. Marsh cites this as strong evidence that sign languages are not derivative systems but languages that emerged through their own independent processes.\n\nC. Perhaps the clearest evidence comes from cases where a new sign language has emerged from scratch within a single generation. When a school for deaf children was established in one Central American country in the 1980s, bringing together children who previously had little shared means of communication, researchers observed a shared sign system emerging among the children within a few years, one that grew progressively more grammatically complex as younger children, exposed to the emerging system from an early age, added structure that the original older students had not used.\n\nD. Marsh argues that this rapid emergence, observed directly rather than reconstructed from historical records, offers an unusually clear window into how a human language can arise, since spoken languages generally form over centuries, too gradually to observe from beginning to end. She suggests that this makes sign languages not merely equal in linguistic status to spoken languages but, for certain research questions about language emergence, uniquely valuable as a natural experiment.",
+    "group_id": "NIR-G32",
+    "stem": "Statement: British Sign Language and American Sign Language are largely mutually intelligible because both exist alongside spoken English.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 B 明確寫 British Sign Language and American Sign Language...are largely mutually unintelligible despite both existing alongside spoken English，直接反駁題幹「因為都伴隨英語存在所以彼此可以互通」的說法，選 False。技巧：題幹把 unintelligible（無法互通）誤植為 intelligible（可以互通），只差一個字首 un-，作答時務必逐字核對原文的否定字首。",
+    "vocab": [
+      {
+        "w": "intelligible",
+        "zh": "可理解的",
+        "pos": "adj."
+      },
+      {
+        "w": "surrounding",
+        "zh": "周遭的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0160",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. For much of the twentieth century, sign languages used by deaf communities were widely regarded, even by many educators, as simplified gesture systems rather than full languages with their own grammar. Marsh traces how this view began to change following linguistic analyses in the 1960s that treated American Sign Language as an independent language with systematic rules for word order, grammatical markers, and sentence structure, rather than a visual code for spoken English.\n\nB. Evidence for this reassessment includes the discovery that sign languages develop independently in different deaf communities, with distinct grammars unrelated to the spoken language of the surrounding hearing population; British Sign Language and American Sign Language, for instance, are largely mutually unintelligible despite both existing alongside spoken English. Marsh cites this as strong evidence that sign languages are not derivative systems but languages that emerged through their own independent processes.\n\nC. Perhaps the clearest evidence comes from cases where a new sign language has emerged from scratch within a single generation. When a school for deaf children was established in one Central American country in the 1980s, bringing together children who previously had little shared means of communication, researchers observed a shared sign system emerging among the children within a few years, one that grew progressively more grammatically complex as younger children, exposed to the emerging system from an early age, added structure that the original older students had not used.\n\nD. Marsh argues that this rapid emergence, observed directly rather than reconstructed from historical records, offers an unusually clear window into how a human language can arise, since spoken languages generally form over centuries, too gradually to observe from beginning to end. She suggests that this makes sign languages not merely equal in linguistic status to spoken languages but, for certain research questions about language emergence, uniquely valuable as a natural experiment.",
+    "group_id": "NIR-G32",
+    "stem": "Which paragraph describes a new sign language emerging within a single generation at a school for deaf children?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 描述 a school for deaf children was established in one Central American country in the 1980s...researchers observed a shared sign system emerging among the children within a few years，正是描述新手語誕生的段落，答案是 Paragraph C。段落 A 介紹觀念轉變的背景；段落 B 提出手語獨立發展的證據；段落 D 討論這個案例的研究意義。技巧：段落配對題找具體案例時，先鎖定題幹關鍵詞（a school for deaf children、single generation），再確認該段落是否完整描述此案例。",
+    "vocab": [
+      {
+        "w": "establish",
+        "zh": "設立",
+        "pos": "v."
+      },
+      {
+        "w": "shared system",
+        "zh": "共享系統",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0161",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. People often report unusually vivid, detailed memories of where they were and what they were doing when they learned of a dramatic public event, a phenomenon termed flashbulb memory. Delacroix and colleagues tested the accuracy of such memories by surveying 300 participants within 24 hours of a major unexpected news event, then surveying the same participants again after one year and after three years, asking them to recall the same details each time.\n\nB. Confidence in the accuracy of these memories remained remarkably high across all three surveys, with over 90 percent of participants rating their three-year recollection as highly accurate. However, when compared against each participant's original account recorded within 24 hours, the three-year recollections had changed substantially: on average, participants had altered or invented details for around 40 percent of the specific facts they were asked to recall, often without any awareness that their account had shifted at all.\n\nC. Delacroix notes that the errors were not random; participants tended to revise their memories in ways that made the story more coherent or more consistent with how they later came to feel about the event, effectively smoothing over inconsistencies rather than simply forgetting details outright. This suggests that flashbulb memories are reconstructed each time they are recalled, incorporating later information and emotional interpretation, rather than functioning like an unedited recording preserved unchanged from the moment of the original event.\n\nD. The gap between high confidence and low accuracy has practical implications beyond psychology, Delacroix argues, particularly for legal contexts in which eyewitness testimony about dramatic or traumatic events is treated as especially credible precisely because witnesses recall it vividly and report high confidence. Her research suggests that vividness and confidence are poor guides to accuracy, even for memories that feel unusually clear and immediate.",
+    "group_id": "NIR-G33",
+    "stem": "According to Delacroix's study, on average, for what proportion of specific facts had participants altered or invented details by the three-year survey?",
+    "options": [
+      "Around 90 percent",
+      "No details had changed at all",
+      "Around 40 percent",
+      "Around 24 percent"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 B 寫 participants had altered or invented details for around 40 percent of the specific facts，對應選項 C，故選 C。A「90 percent」是參與者「自認回憶準確」的比例，容易與實際改變的比例混淆；D「24 percent」其實是研究方法中「24小時內」的數字片段；B 文章明確指出確實有相當比例的細節改變。技巧：這篇文章刻意對比「自信程度（90%）」與「實際準確度（40%改變）」兩個數字，作答時要分清楚問的是哪一個。",
+    "vocab": [
+      {
+        "w": "flashbulb memory",
+        "zh": "閃光燈記憶",
+        "pos": "n."
+      },
+      {
+        "w": "recollection",
+        "zh": "回憶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0162",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. People often report unusually vivid, detailed memories of where they were and what they were doing when they learned of a dramatic public event, a phenomenon termed flashbulb memory. Delacroix and colleagues tested the accuracy of such memories by surveying 300 participants within 24 hours of a major unexpected news event, then surveying the same participants again after one year and after three years, asking them to recall the same details each time.\n\nB. Confidence in the accuracy of these memories remained remarkably high across all three surveys, with over 90 percent of participants rating their three-year recollection as highly accurate. However, when compared against each participant's original account recorded within 24 hours, the three-year recollections had changed substantially: on average, participants had altered or invented details for around 40 percent of the specific facts they were asked to recall, often without any awareness that their account had shifted at all.\n\nC. Delacroix notes that the errors were not random; participants tended to revise their memories in ways that made the story more coherent or more consistent with how they later came to feel about the event, effectively smoothing over inconsistencies rather than simply forgetting details outright. This suggests that flashbulb memories are reconstructed each time they are recalled, incorporating later information and emotional interpretation, rather than functioning like an unedited recording preserved unchanged from the moment of the original event.\n\nD. The gap between high confidence and low accuracy has practical implications beyond psychology, Delacroix argues, particularly for legal contexts in which eyewitness testimony about dramatic or traumatic events is treated as especially credible precisely because witnesses recall it vividly and report high confidence. Her research suggests that vividness and confidence are poor guides to accuracy, even for memories that feel unusually clear and immediate.",
+    "group_id": "NIR-G33",
+    "stem": "What can be inferred about the nature of the errors found in participants' three-year recollections?",
+    "options": [
+      "The errors only affected participants who rated their memories as inaccurate.",
+      "Participants were fully aware their memories had changed and reported this openly.",
+      "The errors tended to make the story more coherent rather than being random omissions.",
+      "The errors were entirely random and showed no consistent pattern at all."
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 明確寫 the errors were not random; participants tended to revise their memories in ways that made the story more coherent，對應選項 C，故選 C。A 段落 B 顯示高達九成以上參與者自認準確，錯誤並非只發生在自認不準確的人身上；B 段落 B 明確說 often without any awareness，代表大多數人並未察覺記憶已改變；D 與「並非隨機」直接矛盾。技巧：推論題常考「錯誤是否有規律」，原文用 not random 加上具體描述規律（更連貫、更符合後來的情緒）即是答案來源。",
+    "vocab": [
+      {
+        "w": "coherent",
+        "zh": "連貫的",
+        "pos": "adj."
+      },
+      {
+        "w": "reconstruct",
+        "zh": "重建",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0163",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. People often report unusually vivid, detailed memories of where they were and what they were doing when they learned of a dramatic public event, a phenomenon termed flashbulb memory. Delacroix and colleagues tested the accuracy of such memories by surveying 300 participants within 24 hours of a major unexpected news event, then surveying the same participants again after one year and after three years, asking them to recall the same details each time.\n\nB. Confidence in the accuracy of these memories remained remarkably high across all three surveys, with over 90 percent of participants rating their three-year recollection as highly accurate. However, when compared against each participant's original account recorded within 24 hours, the three-year recollections had changed substantially: on average, participants had altered or invented details for around 40 percent of the specific facts they were asked to recall, often without any awareness that their account had shifted at all.\n\nC. Delacroix notes that the errors were not random; participants tended to revise their memories in ways that made the story more coherent or more consistent with how they later came to feel about the event, effectively smoothing over inconsistencies rather than simply forgetting details outright. This suggests that flashbulb memories are reconstructed each time they are recalled, incorporating later information and emotional interpretation, rather than functioning like an unedited recording preserved unchanged from the moment of the original event.\n\nD. The gap between high confidence and low accuracy has practical implications beyond psychology, Delacroix argues, particularly for legal contexts in which eyewitness testimony about dramatic or traumatic events is treated as especially credible precisely because witnesses recall it vividly and report high confidence. Her research suggests that vividness and confidence are poor guides to accuracy, even for memories that feel unusually clear and immediate.",
+    "group_id": "NIR-G33",
+    "stem": "In paragraph C, the phrase 'smoothing over' is closest in meaning to which of the following?",
+    "options": [
+      "completely erasing a memory from long-term storage",
+      "making inconsistencies far more obvious and dramatic",
+      "making inconsistencies seem less noticeable or resolved",
+      "recording an event with perfect, unedited accuracy"
+    ],
+    "answer": 2,
+    "explain_zh": "smoothing over 指「將不一致之處掩飾、修飾得看起來順暢」，段落 C 說參與者 smoothing over inconsistencies rather than simply forgetting details，也就是把矛盾之處修飾得比較連貫，對應選項 C，故選 C。B「使不一致之處更明顯、更戲劇化」與「掩飾使其不明顯」意思相反；A、D 都偏離了原文語意，原文明確說「並非單純遺忘」也「並非未經修改的紀錄」。技巧：smooth over 是常見片語動詞，字面「撫平」引申為「使問題或矛盾看起來不明顯」。",
+    "vocab": [
+      {
+        "w": "smooth over",
+        "zh": "掩飾；使…看起來順暢",
+        "pos": "phr. v."
+      },
+      {
+        "w": "inconsistency",
+        "zh": "矛盾；不一致",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0164",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. People often report unusually vivid, detailed memories of where they were and what they were doing when they learned of a dramatic public event, a phenomenon termed flashbulb memory. Delacroix and colleagues tested the accuracy of such memories by surveying 300 participants within 24 hours of a major unexpected news event, then surveying the same participants again after one year and after three years, asking them to recall the same details each time.\n\nB. Confidence in the accuracy of these memories remained remarkably high across all three surveys, with over 90 percent of participants rating their three-year recollection as highly accurate. However, when compared against each participant's original account recorded within 24 hours, the three-year recollections had changed substantially: on average, participants had altered or invented details for around 40 percent of the specific facts they were asked to recall, often without any awareness that their account had shifted at all.\n\nC. Delacroix notes that the errors were not random; participants tended to revise their memories in ways that made the story more coherent or more consistent with how they later came to feel about the event, effectively smoothing over inconsistencies rather than simply forgetting details outright. This suggests that flashbulb memories are reconstructed each time they are recalled, incorporating later information and emotional interpretation, rather than functioning like an unedited recording preserved unchanged from the moment of the original event.\n\nD. The gap between high confidence and low accuracy has practical implications beyond psychology, Delacroix argues, particularly for legal contexts in which eyewitness testimony about dramatic or traumatic events is treated as especially credible precisely because witnesses recall it vividly and report high confidence. Her research suggests that vividness and confidence are poor guides to accuracy, even for memories that feel unusually clear and immediate.",
+    "group_id": "NIR-G33",
+    "stem": "Which paragraph discusses the practical implications of this research for legal eyewitness testimony?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 討論 particularly for legal contexts in which eyewitness testimony about dramatic or traumatic events is treated as especially credible，正是討論此研究對法律情境的實際意涵，答案是 Paragraph D。段落 A 介紹研究設計；段落 B 呈現信心與準確度的數據落差；段落 C 分析錯誤的性質。技巧：段落配對題找「實際應用、意涵」類內容時，留意 practical implications、particularly for 這類提示語。",
+    "vocab": [
+      {
+        "w": "eyewitness testimony",
+        "zh": "目擊者證詞",
+        "pos": "n."
+      },
+      {
+        "w": "credible",
+        "zh": "可信的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0165",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. People often report unusually vivid, detailed memories of where they were and what they were doing when they learned of a dramatic public event, a phenomenon termed flashbulb memory. Delacroix and colleagues tested the accuracy of such memories by surveying 300 participants within 24 hours of a major unexpected news event, then surveying the same participants again after one year and after three years, asking them to recall the same details each time.\n\nB. Confidence in the accuracy of these memories remained remarkably high across all three surveys, with over 90 percent of participants rating their three-year recollection as highly accurate. However, when compared against each participant's original account recorded within 24 hours, the three-year recollections had changed substantially: on average, participants had altered or invented details for around 40 percent of the specific facts they were asked to recall, often without any awareness that their account had shifted at all.\n\nC. Delacroix notes that the errors were not random; participants tended to revise their memories in ways that made the story more coherent or more consistent with how they later came to feel about the event, effectively smoothing over inconsistencies rather than simply forgetting details outright. This suggests that flashbulb memories are reconstructed each time they are recalled, incorporating later information and emotional interpretation, rather than functioning like an unedited recording preserved unchanged from the moment of the original event.\n\nD. The gap between high confidence and low accuracy has practical implications beyond psychology, Delacroix argues, particularly for legal contexts in which eyewitness testimony about dramatic or traumatic events is treated as especially credible precisely because witnesses recall it vividly and report high confidence. Her research suggests that vividness and confidence are poor guides to accuracy, even for memories that feel unusually clear and immediate.",
+    "group_id": "NIR-G33",
+    "stem": "What is Delacroix's overall conclusion about the relationship between vividness, confidence, and memory accuracy?",
+    "options": [
+      "Vividness and confidence are always reliable indicators of an accurate memory",
+      "Only memories with low confidence ratings are ever inaccurate",
+      "Accuracy of memory has been shown to be completely unrelated to legal testimony",
+      "Vividness and confidence are poor guides to accuracy, even for memories that feel unusually clear"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 明確寫 vividness and confidence are poor guides to accuracy, even for memories that feel unusually clear and immediate，對應選項 D，故選 D。A 與此結論直接矛盾；B 段落 B 顯示高信心（90%以上）卻仍有約 40% 細節改變，並非只有低信心的記憶才不準確；C 段落 D 特別討論這對法律證詞的意涵，並非無關。技巧：作者觀點題的核心結論常出現在文章最後一段，留意 poor guides to、even for 這類強調反差的用語。",
+    "vocab": [
+      {
+        "w": "vividness",
+        "zh": "鮮明程度",
+        "pos": "n."
+      },
+      {
+        "w": "guide",
+        "zh": "指標；依據",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0166",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Chronic exposure to traffic noise has been linked in numerous studies to elevated risk of cardiovascular disease, but establishing a clear threshold below which risk does not increase has proved difficult. Yilmaz and colleagues followed 42,000 residents across several major cities for over a decade, combining detailed noise-mapping data for each residence with hospital records of cardiovascular diagnoses.\n\nB. The study found that risk of cardiovascular disease began rising measurably above an average night-time noise level of around 45 decibels, roughly comparable to a quiet conversation, with each additional 10 decibels associated with an approximately 8 percent increase in risk after adjusting for factors such as age, smoking, and income. Below this threshold, no statistically reliable association with noise level was detected in Yilmaz's data.\n\nC. Yilmaz proposes that disrupted sleep is the most likely mechanism linking noise to cardiovascular risk, since noise above this threshold was also associated with measurably shorter and more fragmented sleep, and chronic sleep disruption is independently linked to cardiovascular strain through effects on blood pressure and stress hormones. However, she acknowledges that residents living in noisier areas often also face other disadvantages, such as poorer air quality, that her statistical adjustments may not have fully accounted for.\n\nD. Yilmaz's findings have informed proposed revisions to night-time noise guidelines in several cities, though she cautions that a single universal threshold may not suit every context, since individual sensitivity to noise varies considerably and some of that variation appears to be as important to cardiovascular outcomes as the average noise level itself. She recommends that policy set a general guideline while allowing for locally adjusted targets where detailed noise-mapping data are available.",
+    "group_id": "NIR-G34",
+    "stem": "What does Yilmaz's study establish about traffic noise and cardiovascular risk?",
+    "options": [
+      "Risk rises measurably above a specific night-time noise threshold, likely partly through disrupted sleep",
+      "Air quality alone explains the entire link between noise and cardiovascular disease",
+      "Traffic noise has been proven to have no relationship with cardiovascular disease",
+      "Cardiovascular risk rises at exactly the same rate regardless of noise level"
+    ],
+    "answer": 0,
+    "explain_zh": "全文說明噪音超過約45分貝門檻後心血管疾病風險上升，且可能透過睡眠中斷這個機制產生影響，對應選項 A，故選 A。B 段落 C 只說空氣品質「可能未被完全納入調整」，並非唯一解釋；C 段落 B 明確說每增加10分貝風險上升約8%，且低於門檻時沒有偵測到關聯，並非「已證明沒有關係」；D 段落 B 明確說每增加10分貝風險上升約8%，並非「同樣速率」的籠統說法。技巧：主旨題要精準對應文章給出的「門檻」與「可能機制」兩個核心元素。",
+    "vocab": [
+      {
+        "w": "cardiovascular",
+        "zh": "心血管的",
+        "pos": "adj."
+      },
+      {
+        "w": "threshold",
+        "zh": "門檻",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0167",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Chronic exposure to traffic noise has been linked in numerous studies to elevated risk of cardiovascular disease, but establishing a clear threshold below which risk does not increase has proved difficult. Yilmaz and colleagues followed 42,000 residents across several major cities for over a decade, combining detailed noise-mapping data for each residence with hospital records of cardiovascular diagnoses.\n\nB. The study found that risk of cardiovascular disease began rising measurably above an average night-time noise level of around 45 decibels, roughly comparable to a quiet conversation, with each additional 10 decibels associated with an approximately 8 percent increase in risk after adjusting for factors such as age, smoking, and income. Below this threshold, no statistically reliable association with noise level was detected in Yilmaz's data.\n\nC. Yilmaz proposes that disrupted sleep is the most likely mechanism linking noise to cardiovascular risk, since noise above this threshold was also associated with measurably shorter and more fragmented sleep, and chronic sleep disruption is independently linked to cardiovascular strain through effects on blood pressure and stress hormones. However, she acknowledges that residents living in noisier areas often also face other disadvantages, such as poorer air quality, that her statistical adjustments may not have fully accounted for.\n\nD. Yilmaz's findings have informed proposed revisions to night-time noise guidelines in several cities, though she cautions that a single universal threshold may not suit every context, since individual sensitivity to noise varies considerably and some of that variation appears to be as important to cardiovascular outcomes as the average noise level itself. She recommends that policy set a general guideline while allowing for locally adjusted targets where detailed noise-mapping data are available.",
+    "group_id": "NIR-G34",
+    "stem": "According to the passage, each additional 10 decibels above the threshold was associated with approximately what increase in cardiovascular risk?",
+    "options": [
+      "An approximately 8 percent increase",
+      "The passage does not report a specific increase",
+      "An approximately 45 percent increase",
+      "An approximately 42 percent increase"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 B 寫 each additional 10 decibels associated with an approximately 8 percent increase in risk，選 A。45 percent 其實是段落 B 提到的「門檻分貝數（45分貝）」，容易與百分比混淆；42 percent 是研究樣本人數（42,000人）的數字片段；文章確實有給出明確的風險增加比例。技巧：文章中同時出現「分貝數」「樣本數」「風險百分比」等多種數字時，務必對應清楚每個數字代表的意義。",
+    "vocab": [
+      {
+        "w": "decibel",
+        "zh": "分貝",
+        "pos": "n."
+      },
+      {
+        "w": "fragmented",
+        "zh": "片段化的；零碎的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0168",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Chronic exposure to traffic noise has been linked in numerous studies to elevated risk of cardiovascular disease, but establishing a clear threshold below which risk does not increase has proved difficult. Yilmaz and colleagues followed 42,000 residents across several major cities for over a decade, combining detailed noise-mapping data for each residence with hospital records of cardiovascular diagnoses.\n\nB. The study found that risk of cardiovascular disease began rising measurably above an average night-time noise level of around 45 decibels, roughly comparable to a quiet conversation, with each additional 10 decibels associated with an approximately 8 percent increase in risk after adjusting for factors such as age, smoking, and income. Below this threshold, no statistically reliable association with noise level was detected in Yilmaz's data.\n\nC. Yilmaz proposes that disrupted sleep is the most likely mechanism linking noise to cardiovascular risk, since noise above this threshold was also associated with measurably shorter and more fragmented sleep, and chronic sleep disruption is independently linked to cardiovascular strain through effects on blood pressure and stress hormones. However, she acknowledges that residents living in noisier areas often also face other disadvantages, such as poorer air quality, that her statistical adjustments may not have fully accounted for.\n\nD. Yilmaz's findings have informed proposed revisions to night-time noise guidelines in several cities, though she cautions that a single universal threshold may not suit every context, since individual sensitivity to noise varies considerably and some of that variation appears to be as important to cardiovascular outcomes as the average noise level itself. She recommends that policy set a general guideline while allowing for locally adjusted targets where detailed noise-mapping data are available.",
+    "group_id": "NIR-G34",
+    "stem": "In paragraph D, the word 'universal' is closest in meaning to which of the following?",
+    "options": [
+      "applying only to a single specific city",
+      "impossible to measure with current technology",
+      "recently invented and not yet tested",
+      "applying equally to every case or context"
+    ],
+    "answer": 3,
+    "explain_zh": "universal 指「普遍適用的、放諸四海皆準的」，段落 D 說 a single universal threshold may not suit every context，也就是「一體適用的單一門檻」未必適合所有情境，對應選項 D，故選 D。A、B、C 都偏離了「普遍適用」這個核心意思。技巧：universal 常與 threshold、standard、rule 等字搭配，表示「不分情境、一律適用」的規則或標準。",
+    "vocab": [
+      {
+        "w": "universal",
+        "zh": "普遍適用的",
+        "pos": "adj."
+      },
+      {
+        "w": "sensitivity",
+        "zh": "敏感度",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0169",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Chronic exposure to traffic noise has been linked in numerous studies to elevated risk of cardiovascular disease, but establishing a clear threshold below which risk does not increase has proved difficult. Yilmaz and colleagues followed 42,000 residents across several major cities for over a decade, combining detailed noise-mapping data for each residence with hospital records of cardiovascular diagnoses.\n\nB. The study found that risk of cardiovascular disease began rising measurably above an average night-time noise level of around 45 decibels, roughly comparable to a quiet conversation, with each additional 10 decibels associated with an approximately 8 percent increase in risk after adjusting for factors such as age, smoking, and income. Below this threshold, no statistically reliable association with noise level was detected in Yilmaz's data.\n\nC. Yilmaz proposes that disrupted sleep is the most likely mechanism linking noise to cardiovascular risk, since noise above this threshold was also associated with measurably shorter and more fragmented sleep, and chronic sleep disruption is independently linked to cardiovascular strain through effects on blood pressure and stress hormones. However, she acknowledges that residents living in noisier areas often also face other disadvantages, such as poorer air quality, that her statistical adjustments may not have fully accounted for.\n\nD. Yilmaz's findings have informed proposed revisions to night-time noise guidelines in several cities, though she cautions that a single universal threshold may not suit every context, since individual sensitivity to noise varies considerably and some of that variation appears to be as important to cardiovascular outcomes as the average noise level itself. She recommends that policy set a general guideline while allowing for locally adjusted targets where detailed noise-mapping data are available.",
+    "group_id": "NIR-G34",
+    "stem": "Statement: Yilmaz's data detected a statistically reliable increase in cardiovascular risk even below the 45-decibel threshold.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 B 明確寫 Below this threshold, no statistically reliable association with noise level was detected in Yilmaz's data，直接反駁題幹「門檻以下也偵測到統計上可靠的風險增加」的說法，選 False。技巧：題幹的 even below the threshold...reliable increase 與原文的 below this threshold, no statistically reliable association 恰好相反，是清楚的 False 判斷依據。",
+    "vocab": [
+      {
+        "w": "statistically",
+        "zh": "統計上地",
+        "pos": "adv."
+      },
+      {
+        "w": "association",
+        "zh": "關聯",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0170",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Chronic exposure to traffic noise has been linked in numerous studies to elevated risk of cardiovascular disease, but establishing a clear threshold below which risk does not increase has proved difficult. Yilmaz and colleagues followed 42,000 residents across several major cities for over a decade, combining detailed noise-mapping data for each residence with hospital records of cardiovascular diagnoses.\n\nB. The study found that risk of cardiovascular disease began rising measurably above an average night-time noise level of around 45 decibels, roughly comparable to a quiet conversation, with each additional 10 decibels associated with an approximately 8 percent increase in risk after adjusting for factors such as age, smoking, and income. Below this threshold, no statistically reliable association with noise level was detected in Yilmaz's data.\n\nC. Yilmaz proposes that disrupted sleep is the most likely mechanism linking noise to cardiovascular risk, since noise above this threshold was also associated with measurably shorter and more fragmented sleep, and chronic sleep disruption is independently linked to cardiovascular strain through effects on blood pressure and stress hormones. However, she acknowledges that residents living in noisier areas often also face other disadvantages, such as poorer air quality, that her statistical adjustments may not have fully accounted for.\n\nD. Yilmaz's findings have informed proposed revisions to night-time noise guidelines in several cities, though she cautions that a single universal threshold may not suit every context, since individual sensitivity to noise varies considerably and some of that variation appears to be as important to cardiovascular outcomes as the average noise level itself. She recommends that policy set a general guideline while allowing for locally adjusted targets where detailed noise-mapping data are available.",
+    "group_id": "NIR-G34",
+    "stem": "Which paragraph proposes disrupted sleep as the likely mechanism linking noise to cardiovascular risk?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 開頭寫 Yilmaz proposes that disrupted sleep is the most likely mechanism linking noise to cardiovascular risk，答案是 Paragraph C。段落 A 介紹研究設計；段落 B 呈現門檻與風險增加的數據；段落 D 討論政策意涵與建議。技巧：段落配對題找「機制解釋」類內容時，留意 proposes that、mechanism 這類提示詞。",
+    "vocab": [
+      {
+        "w": "mechanism",
+        "zh": "機制",
+        "pos": "n."
+      },
+      {
+        "w": "strain",
+        "zh": "負荷；壓力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0171",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. One of the most frequently cited examples of biomimicry in engineering is the redesign of a high-speed train's nose section based on the shape of a kingfisher's beak, intended to reduce the loud pressure wave produced when the original blunt-nosed train design exited tunnels at speed. Hartley, an engineer who has studied the case's history, argues that the popular version of this story simplifies a more gradual and iterative design process.\n\nB. According to Hartley's account, engineers had already been testing several elongated nose shapes to address the tunnel pressure wave problem before the kingfisher connection was proposed; the bird's beak shape offered a useful reference point and a compelling public narrative, but was not, in Hartley's reading of internal design documents, the sole or even primary source of the eventual shape, which was refined through extensive wind-tunnel testing and iterative computer modelling.\n\nC. This matters, Hartley suggests, because biomimicry is often presented in popular accounts as though engineers directly copy a natural structure and immediately obtain a solution, when in practice a natural form more often serves as inspiration or a starting hypothesis that must still be tested, modified, and optimised using conventional engineering methods before it functions well in a very different physical context, such as a train travelling through a tunnel rather than a bird diving into water.\n\nD. Hartley does not dismiss the value of biomimicry as a design strategy; nature has, after all, been solving structural and aerodynamic problems through evolutionary trial and error for a very long time, and looking to natural forms can generate genuinely useful starting points that engineers might not otherwise have considered. Her concern is narrower: that overstating the directness of the connection between a natural structure and an engineered solution can obscure the substantial engineering work that such solutions actually require.",
+    "group_id": "NIR-G35",
+    "stem": "What point does Hartley make about the kingfisher-inspired train nose design story?",
+    "options": [
+      "The popular story oversimplifies a more gradual design process that still required extensive conventional engineering work",
+      "Biomimicry as a design strategy should be abandoned entirely by engineers",
+      "The train's nose shape was copied directly and required no further testing at all",
+      "The kingfisher connection played absolutely no role whatsoever in the train's design"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 A、B、C 說明翠鳥喙形只是眾多設計參考之一，最終形狀仍經過大量風洞測試與電腦模擬才完成，段落 D 也澄清她並非否定仿生學價值，對應選項 A，故選 A。B 段落 D 明確說「不否定仿生學作為設計策略的價值」；C 與段落 C 描述「仍須測試、修改、優化」矛盾；D 與段落 B「翠鳥的關聯提供了有用的參考點」矛盾，並非毫無作用。技巧：主旨題遇到「澄清流行說法的簡化之處」類文章，答案要精準對應「過程被簡化」這個核心論點，不能誇大成完全否定。",
+    "vocab": [
+      {
+        "w": "biomimicry",
+        "zh": "仿生學",
+        "pos": "n."
+      },
+      {
+        "w": "iterative",
+        "zh": "反覆進行的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0172",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. One of the most frequently cited examples of biomimicry in engineering is the redesign of a high-speed train's nose section based on the shape of a kingfisher's beak, intended to reduce the loud pressure wave produced when the original blunt-nosed train design exited tunnels at speed. Hartley, an engineer who has studied the case's history, argues that the popular version of this story simplifies a more gradual and iterative design process.\n\nB. According to Hartley's account, engineers had already been testing several elongated nose shapes to address the tunnel pressure wave problem before the kingfisher connection was proposed; the bird's beak shape offered a useful reference point and a compelling public narrative, but was not, in Hartley's reading of internal design documents, the sole or even primary source of the eventual shape, which was refined through extensive wind-tunnel testing and iterative computer modelling.\n\nC. This matters, Hartley suggests, because biomimicry is often presented in popular accounts as though engineers directly copy a natural structure and immediately obtain a solution, when in practice a natural form more often serves as inspiration or a starting hypothesis that must still be tested, modified, and optimised using conventional engineering methods before it functions well in a very different physical context, such as a train travelling through a tunnel rather than a bird diving into water.\n\nD. Hartley does not dismiss the value of biomimicry as a design strategy; nature has, after all, been solving structural and aerodynamic problems through evolutionary trial and error for a very long time, and looking to natural forms can generate genuinely useful starting points that engineers might not otherwise have considered. Her concern is narrower: that overstating the directness of the connection between a natural structure and an engineered solution can obscure the substantial engineering work that such solutions actually require.",
+    "group_id": "NIR-G35",
+    "stem": "According to Hartley's account, what had engineers already been testing before the kingfisher connection was proposed?",
+    "options": [
+      "A completely different problem unrelated to train design",
+      "A shape based on a different bird species entirely",
+      "Several elongated nose shapes to address the tunnel pressure wave problem",
+      "A finalised design that required no further modification"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 B 寫 engineers had already been testing several elongated nose shapes to address the tunnel pressure wave problem before the kingfisher connection was proposed，對應選項 C，故選 C。A、B、D 都與原文描述的具體內容不符，原文明確指出工程師在翠鳥連結提出之前，已在測試多種延長形狀的鼻錐設計。技巧：細節題若題幹問「在某事之前發生了什麼」，要特別留意原文的時間順序用語（already...before）。",
+    "vocab": [
+      {
+        "w": "elongated",
+        "zh": "拉長的",
+        "pos": "adj."
+      },
+      {
+        "w": "pressure wave",
+        "zh": "壓力波",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0173",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. One of the most frequently cited examples of biomimicry in engineering is the redesign of a high-speed train's nose section based on the shape of a kingfisher's beak, intended to reduce the loud pressure wave produced when the original blunt-nosed train design exited tunnels at speed. Hartley, an engineer who has studied the case's history, argues that the popular version of this story simplifies a more gradual and iterative design process.\n\nB. According to Hartley's account, engineers had already been testing several elongated nose shapes to address the tunnel pressure wave problem before the kingfisher connection was proposed; the bird's beak shape offered a useful reference point and a compelling public narrative, but was not, in Hartley's reading of internal design documents, the sole or even primary source of the eventual shape, which was refined through extensive wind-tunnel testing and iterative computer modelling.\n\nC. This matters, Hartley suggests, because biomimicry is often presented in popular accounts as though engineers directly copy a natural structure and immediately obtain a solution, when in practice a natural form more often serves as inspiration or a starting hypothesis that must still be tested, modified, and optimised using conventional engineering methods before it functions well in a very different physical context, such as a train travelling through a tunnel rather than a bird diving into water.\n\nD. Hartley does not dismiss the value of biomimicry as a design strategy; nature has, after all, been solving structural and aerodynamic problems through evolutionary trial and error for a very long time, and looking to natural forms can generate genuinely useful starting points that engineers might not otherwise have considered. Her concern is narrower: that overstating the directness of the connection between a natural structure and an engineered solution can obscure the substantial engineering work that such solutions actually require.",
+    "group_id": "NIR-G35",
+    "stem": "In paragraph C, the word 'obscure' is closest in meaning to which of the following?",
+    "options": [
+      "publicly celebrate an achievement",
+      "make something harder to see or understand clearly",
+      "make something extremely easy to understand",
+      "financially fund a research project"
+    ],
+    "answer": 1,
+    "explain_zh": "obscure 作動詞指「使模糊、掩蓋」，段落 D 說過度誇大自然結構與工程解方之間的直接關聯 can obscure the substantial engineering work，也就是會掩蓋掉背後大量的工程努力，對應選項 B，故選 B。C「使某件事變得極容易理解」與「使模糊」意思相反；A、D 都偏離了原文語意。技巧：obscure 作動詞時常與 understanding、fact、work 等字搭配，表示「使某個事實或努力變得不明顯、被忽略」。",
+    "vocab": [
+      {
+        "w": "obscure",
+        "zh": "使模糊；掩蓋",
+        "pos": "v."
+      },
+      {
+        "w": "optimise",
+        "zh": "優化",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0174",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. One of the most frequently cited examples of biomimicry in engineering is the redesign of a high-speed train's nose section based on the shape of a kingfisher's beak, intended to reduce the loud pressure wave produced when the original blunt-nosed train design exited tunnels at speed. Hartley, an engineer who has studied the case's history, argues that the popular version of this story simplifies a more gradual and iterative design process.\n\nB. According to Hartley's account, engineers had already been testing several elongated nose shapes to address the tunnel pressure wave problem before the kingfisher connection was proposed; the bird's beak shape offered a useful reference point and a compelling public narrative, but was not, in Hartley's reading of internal design documents, the sole or even primary source of the eventual shape, which was refined through extensive wind-tunnel testing and iterative computer modelling.\n\nC. This matters, Hartley suggests, because biomimicry is often presented in popular accounts as though engineers directly copy a natural structure and immediately obtain a solution, when in practice a natural form more often serves as inspiration or a starting hypothesis that must still be tested, modified, and optimised using conventional engineering methods before it functions well in a very different physical context, such as a train travelling through a tunnel rather than a bird diving into water.\n\nD. Hartley does not dismiss the value of biomimicry as a design strategy; nature has, after all, been solving structural and aerodynamic problems through evolutionary trial and error for a very long time, and looking to natural forms can generate genuinely useful starting points that engineers might not otherwise have considered. Her concern is narrower: that overstating the directness of the connection between a natural structure and an engineered solution can obscure the substantial engineering work that such solutions actually require.",
+    "group_id": "NIR-G35",
+    "stem": "Statement: Hartley believes biomimicry has no genuine value as a design strategy for engineers.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 D 明確寫 Hartley does not dismiss the value of biomimicry as a design strategy，直接反駁題幹「認為仿生學毫無真正價值」的說法，選 False。技巧：題幹的 no genuine value 與原文的 does not dismiss the value 意思相反，是清楚的 False 判斷依據，切勿因為她「澄清簡化說法」就誤以為她全盤否定仿生學。",
+    "vocab": [
+      {
+        "w": "dismiss",
+        "zh": "摒棄",
+        "pos": "v."
+      },
+      {
+        "w": "aerodynamic",
+        "zh": "空氣動力學的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0175",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. One of the most frequently cited examples of biomimicry in engineering is the redesign of a high-speed train's nose section based on the shape of a kingfisher's beak, intended to reduce the loud pressure wave produced when the original blunt-nosed train design exited tunnels at speed. Hartley, an engineer who has studied the case's history, argues that the popular version of this story simplifies a more gradual and iterative design process.\n\nB. According to Hartley's account, engineers had already been testing several elongated nose shapes to address the tunnel pressure wave problem before the kingfisher connection was proposed; the bird's beak shape offered a useful reference point and a compelling public narrative, but was not, in Hartley's reading of internal design documents, the sole or even primary source of the eventual shape, which was refined through extensive wind-tunnel testing and iterative computer modelling.\n\nC. This matters, Hartley suggests, because biomimicry is often presented in popular accounts as though engineers directly copy a natural structure and immediately obtain a solution, when in practice a natural form more often serves as inspiration or a starting hypothesis that must still be tested, modified, and optimised using conventional engineering methods before it functions well in a very different physical context, such as a train travelling through a tunnel rather than a bird diving into water.\n\nD. Hartley does not dismiss the value of biomimicry as a design strategy; nature has, after all, been solving structural and aerodynamic problems through evolutionary trial and error for a very long time, and looking to natural forms can generate genuinely useful starting points that engineers might not otherwise have considered. Her concern is narrower: that overstating the directness of the connection between a natural structure and an engineered solution can obscure the substantial engineering work that such solutions actually require.",
+    "group_id": "NIR-G35",
+    "stem": "Which paragraph explains why the oversimplified biomimicry narrative matters in Hartley's view?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 開頭寫 This matters, Hartley suggests, because biomimicry is often presented in popular accounts as though engineers directly copy a natural structure and immediately obtain a solution，正是解釋這個簡化說法為何重要，答案是 Paragraph C。段落 A 介紹背景故事；段落 B 描述實際設計過程；段落 D 說明 Hartley 對仿生學整體價值的看法。技巧：段落配對題找「為什麼這件事重要」類內容時，留意 this matters、because 這類提示語。",
+    "vocab": [
+      {
+        "w": "narrative",
+        "zh": "敘事；說法",
+        "pos": "n."
+      },
+      {
+        "w": "hypothesis",
+        "zh": "假說",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0176",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Popular accounts often trace the global spread of tea drinking along the overland Silk Road, connecting China to Central Asia and eventually Europe, but Nguyen and colleagues argue that maritime trade routes deserve far more credit than they typically receive. Their analysis of customs records, ship manifests, and port archives from the sixteenth to eighteenth centuries indicates that the overwhelming majority of tea reaching Europe during this period travelled by sea rather than overland.\n\nB. Nguyen's team found that by the early eighteenth century, tea carried by European trading companies via maritime routes from southern Chinese ports accounted for over 90 percent of tea entering European markets, with overland caravan routes supplying a comparatively small remainder, largely destined for Russia and other inland markets rather than western Europe. This challenges a popular narrative that treats the Silk Road as the primary channel through which tea became a global commodity.\n\nC. Nguyen suggests the Silk Road's prominence in popular tea history may owe more to its prior association with other goods, particularly silk itself, and to its evocative name, than to its actual role in the tea trade specifically. Overland routes had indeed carried tea northward into Central Asia and Russia for centuries before large-scale maritime trade developed, so the association is not baseless, but Nguyen argues its role in tea's specifically European popularity has been considerably overstated relative to maritime trade.\n\nD. None of this diminishes the cultural significance of overland tea trade within Asia itself, where it remained economically and culturally important throughout this period and beyond. Nguyen's narrower point is that when European tea-drinking culture specifically is the subject, a maritime-centred account fits the surviving trade records considerably better than the Silk-Road-centred account that remains more common in popular histories.",
+    "group_id": "NIR-G36",
+    "stem": "By the early eighteenth century, roughly what proportion of tea entering European markets travelled by maritime routes, according to Nguyen's research?",
+    "options": [
+      "Around 50 percent",
+      "Under 10 percent",
+      "The passage does not give a proportion",
+      "Over 90 percent"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 B 寫 tea carried...via maritime routes...accounted for over 90 percent of tea entering European markets，對應選項 D，故選 D。A「Around 50 percent」低估了原文比例；B「Under 10 percent」其實是內陸商隊路線供應的「較小剩餘部分」的比例，方向與題幹問的海運比例相反；C 文章確實有給出明確比例。技巧：文章對比兩種路線的比例時（海運 90% vs 陸運剩餘），要看清楚題幹問的是哪一種路線。",
+    "vocab": [
+      {
+        "w": "manifest",
+        "zh": "（船運）貨物清單",
+        "pos": "n."
+      },
+      {
+        "w": "caravan",
+        "zh": "商隊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0177",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. Popular accounts often trace the global spread of tea drinking along the overland Silk Road, connecting China to Central Asia and eventually Europe, but Nguyen and colleagues argue that maritime trade routes deserve far more credit than they typically receive. Their analysis of customs records, ship manifests, and port archives from the sixteenth to eighteenth centuries indicates that the overwhelming majority of tea reaching Europe during this period travelled by sea rather than overland.\n\nB. Nguyen's team found that by the early eighteenth century, tea carried by European trading companies via maritime routes from southern Chinese ports accounted for over 90 percent of tea entering European markets, with overland caravan routes supplying a comparatively small remainder, largely destined for Russia and other inland markets rather than western Europe. This challenges a popular narrative that treats the Silk Road as the primary channel through which tea became a global commodity.\n\nC. Nguyen suggests the Silk Road's prominence in popular tea history may owe more to its prior association with other goods, particularly silk itself, and to its evocative name, than to its actual role in the tea trade specifically. Overland routes had indeed carried tea northward into Central Asia and Russia for centuries before large-scale maritime trade developed, so the association is not baseless, but Nguyen argues its role in tea's specifically European popularity has been considerably overstated relative to maritime trade.\n\nD. None of this diminishes the cultural significance of overland tea trade within Asia itself, where it remained economically and culturally important throughout this period and beyond. Nguyen's narrower point is that when European tea-drinking culture specifically is the subject, a maritime-centred account fits the surviving trade records considerably better than the Silk-Road-centred account that remains more common in popular histories.",
+    "group_id": "NIR-G36",
+    "stem": "What can be inferred about why the Silk Road remains prominent in popular tea history despite the trade records Nguyen cites?",
+    "options": [
+      "Its prior association with other goods, such as silk, and its evocative name may have shaped the popular narrative more than actual tea-trade data.",
+      "The Silk Road actually carried more tea to Europe than maritime routes throughout this entire period.",
+      "No overland tea trade to Central Asia or Russia ever took place.",
+      "Nguyen has found no explanation at all for the Silk Road's popular prominence."
+    ],
+    "answer": 0,
+    "explain_zh": "段落 C 提出解釋：the Silk Road's prominence...may owe more to its prior association with other goods, particularly silk itself, and to its evocative name, than to its actual role in the tea trade specifically，選 A。B 與段落 B 的數據（海運佔90%以上）矛盾；C 段落 C 明確說「陸運確實數世紀以來將茶葉運往中亞與俄羅斯」，並非完全沒有；D 原文明確提出了解釋。技巧：推論題常考「一個流行說法為何持續存在，即使證據指向相反方向」，答案通常來自原文明確提出的替代解釋。",
+    "vocab": [
+      {
+        "w": "evocative",
+        "zh": "引人聯想的",
+        "pos": "adj."
+      },
+      {
+        "w": "prominence",
+        "zh": "顯著；重要性",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0178",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Popular accounts often trace the global spread of tea drinking along the overland Silk Road, connecting China to Central Asia and eventually Europe, but Nguyen and colleagues argue that maritime trade routes deserve far more credit than they typically receive. Their analysis of customs records, ship manifests, and port archives from the sixteenth to eighteenth centuries indicates that the overwhelming majority of tea reaching Europe during this period travelled by sea rather than overland.\n\nB. Nguyen's team found that by the early eighteenth century, tea carried by European trading companies via maritime routes from southern Chinese ports accounted for over 90 percent of tea entering European markets, with overland caravan routes supplying a comparatively small remainder, largely destined for Russia and other inland markets rather than western Europe. This challenges a popular narrative that treats the Silk Road as the primary channel through which tea became a global commodity.\n\nC. Nguyen suggests the Silk Road's prominence in popular tea history may owe more to its prior association with other goods, particularly silk itself, and to its evocative name, than to its actual role in the tea trade specifically. Overland routes had indeed carried tea northward into Central Asia and Russia for centuries before large-scale maritime trade developed, so the association is not baseless, but Nguyen argues its role in tea's specifically European popularity has been considerably overstated relative to maritime trade.\n\nD. None of this diminishes the cultural significance of overland tea trade within Asia itself, where it remained economically and culturally important throughout this period and beyond. Nguyen's narrower point is that when European tea-drinking culture specifically is the subject, a maritime-centred account fits the surviving trade records considerably better than the Silk-Road-centred account that remains more common in popular histories.",
+    "group_id": "NIR-G36",
+    "stem": "In paragraph C, the word 'baseless' is closest in meaning to which of the following?",
+    "options": [
+      "financially costly to maintain",
+      "extremely well supported by strong evidence",
+      "without any factual foundation or support",
+      "widely accepted by every historian"
+    ],
+    "answer": 2,
+    "explain_zh": "baseless 由 base（基礎）加上否定字尾 -less 組成，指「沒有根據的」，段落 C 說絲路與茶葉貿易的關聯 is not baseless，也就是「並非完全沒有根據」，因為陸運確實運送過茶葉，對應選項 C，故選 C。B「有強力證據充分支持」與「沒有根據」意思相反；A、D 都偏離了原文語意。技巧：字尾 -less 通常表示「缺乏、沒有」，如 baseless、meaningless、harmless，可歸類記憶。",
+    "vocab": [
+      {
+        "w": "baseless",
+        "zh": "沒有根據的",
+        "pos": "adj."
+      },
+      {
+        "w": "overstate",
+        "zh": "誇大陳述",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0179",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. Popular accounts often trace the global spread of tea drinking along the overland Silk Road, connecting China to Central Asia and eventually Europe, but Nguyen and colleagues argue that maritime trade routes deserve far more credit than they typically receive. Their analysis of customs records, ship manifests, and port archives from the sixteenth to eighteenth centuries indicates that the overwhelming majority of tea reaching Europe during this period travelled by sea rather than overland.\n\nB. Nguyen's team found that by the early eighteenth century, tea carried by European trading companies via maritime routes from southern Chinese ports accounted for over 90 percent of tea entering European markets, with overland caravan routes supplying a comparatively small remainder, largely destined for Russia and other inland markets rather than western Europe. This challenges a popular narrative that treats the Silk Road as the primary channel through which tea became a global commodity.\n\nC. Nguyen suggests the Silk Road's prominence in popular tea history may owe more to its prior association with other goods, particularly silk itself, and to its evocative name, than to its actual role in the tea trade specifically. Overland routes had indeed carried tea northward into Central Asia and Russia for centuries before large-scale maritime trade developed, so the association is not baseless, but Nguyen argues its role in tea's specifically European popularity has been considerably overstated relative to maritime trade.\n\nD. None of this diminishes the cultural significance of overland tea trade within Asia itself, where it remained economically and culturally important throughout this period and beyond. Nguyen's narrower point is that when European tea-drinking culture specifically is the subject, a maritime-centred account fits the surviving trade records considerably better than the Silk-Road-centred account that remains more common in popular histories.",
+    "group_id": "NIR-G36",
+    "stem": "Which paragraph clarifies that overland tea trade remained culturally significant within Asia itself?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 寫 None of this diminishes the cultural significance of overland tea trade within Asia itself, where it remained economically and culturally important throughout this period and beyond，正是澄清陸運貿易在亞洲內部仍具重要性的段落，答案是 Paragraph D。段落 A 介紹研究方法與初步發現；段落 B 呈現海運佔比的數據；段落 C 解釋絲路形象的由來。技巧：段落配對題找「澄清、補充說明」類內容時，留意 None of this diminishes 這類轉折語。",
+    "vocab": [
+      {
+        "w": "diminish",
+        "zh": "減損",
+        "pos": "v."
+      },
+      {
+        "w": "commodity",
+        "zh": "商品",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0180",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Popular accounts often trace the global spread of tea drinking along the overland Silk Road, connecting China to Central Asia and eventually Europe, but Nguyen and colleagues argue that maritime trade routes deserve far more credit than they typically receive. Their analysis of customs records, ship manifests, and port archives from the sixteenth to eighteenth centuries indicates that the overwhelming majority of tea reaching Europe during this period travelled by sea rather than overland.\n\nB. Nguyen's team found that by the early eighteenth century, tea carried by European trading companies via maritime routes from southern Chinese ports accounted for over 90 percent of tea entering European markets, with overland caravan routes supplying a comparatively small remainder, largely destined for Russia and other inland markets rather than western Europe. This challenges a popular narrative that treats the Silk Road as the primary channel through which tea became a global commodity.\n\nC. Nguyen suggests the Silk Road's prominence in popular tea history may owe more to its prior association with other goods, particularly silk itself, and to its evocative name, than to its actual role in the tea trade specifically. Overland routes had indeed carried tea northward into Central Asia and Russia for centuries before large-scale maritime trade developed, so the association is not baseless, but Nguyen argues its role in tea's specifically European popularity has been considerably overstated relative to maritime trade.\n\nD. None of this diminishes the cultural significance of overland tea trade within Asia itself, where it remained economically and culturally important throughout this period and beyond. Nguyen's narrower point is that when European tea-drinking culture specifically is the subject, a maritime-centred account fits the surviving trade records considerably better than the Silk-Road-centred account that remains more common in popular histories.",
+    "group_id": "NIR-G36",
+    "stem": "How does the writer characterise Nguyen's overall argument about tea's spread to Europe?",
+    "options": [
+      "As a narrower correction: maritime routes better explain European tea culture specifically, without denying overland trade's importance within Asia",
+      "As an argument that has been fully rejected by trade-record evidence",
+      "As a wholesale rejection of the Silk Road's significance in all historical contexts",
+      "As a claim that overland trade to Europe never existed in any form"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 明確寫 Nguyen's narrower point is that when European tea-drinking culture specifically is the subject, a maritime-centred account fits the surviving trade records considerably better，選 A。B、C 都過度誇大 Nguyen 的論點範圍，與段落 D「不否定陸運在亞洲內部的重要性」矛盾；D 與整篇文章引用大量貿易紀錄支持 Nguyen 論點矛盾。技巧：作者觀點題常見正解是「修正特定範圍內的說法，而非全盤否定」，留意 narrower point、specifically 這類限定語。",
+    "vocab": [
+      {
+        "w": "wholesale",
+        "zh": "全面的",
+        "pos": "adj."
+      },
+      {
+        "w": "maritime",
+        "zh": "海事的；海運的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0181",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. The Great Green Wall initiative, launched to plant a belt of trees and vegetation across the Sahel region south of the Sahara, aimed to halt the southward spread of desert-like conditions by stabilising soil and restoring vegetation cover. Diallo and colleagues assessed progress across the initiative's first two decades by comparing satellite vegetation data from project sites against nearby unrestored land.\n\nB. Diallo's assessment found highly uneven results: some sites, particularly those where local communities were closely involved in selecting species and maintaining planted areas, showed vegetation cover increases of over 50 percent compared with unrestored land nearby. Other sites showed little improvement or, in a minority of cases, net loss of the vegetation that had initially been planted, often where trees were planted without sufficient attention to local rainfall patterns or soil conditions.\n\nC. Diallo argues that the pattern points to a specific lesson rather than a general verdict on the initiative's value: large-scale tree-planting campaigns succeed reliably only when paired with ongoing local management and species selection suited to local conditions, rather than functioning as a one-time planting exercise that requires no further intervention. Sites treated as one-off plantings, without provision for maintenance or community involvement, accounted for a disproportionate share of the failures in Diallo's data.\n\nD. Diallo cautions against two opposite conclusions: declaring the initiative an unqualified success based only on its best-performing sites, and dismissing it as a failure based on its weakest ones. She recommends redirecting future funding toward the community-management model that produced the strongest results, rather than continuing to fund large-scale planting without matching investment in the maintenance capacity that her data suggests is decisive.",
+    "group_id": "NIR-G37",
+    "stem": "What overall lesson does Diallo draw from her assessment of the Great Green Wall initiative?",
+    "options": [
+      "The initiative has completely failed to increase vegetation cover anywhere",
+      "The initiative has been an unqualified success at every single site studied",
+      "Tree planting is unnecessary for combating desertification in the Sahel",
+      "Success depends heavily on ongoing local management and species selection, not just planting trees"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 C 明確指出 large-scale tree-planting campaigns succeed reliably only when paired with ongoing local management and species selection suited to local conditions，對應選項 D，故選 D。A 與段落 B 描述部分地點「植被覆蓋增加超過50%」矛盾，並非完全沒有效果；B 與段落 B 描述部分地點「幾乎沒有改善甚至淨損失」矛盾，並非每個地點都成功；C 與整篇文章討論如何讓種樹計畫成功的內容矛盾。技巧：主旨題遇到「結果不一致，關鍵在於某個中介因素」的文章，答案要精準點出那個決定成敗的因素（此處是後續管理與物種選擇）。",
+    "vocab": [
+      {
+        "w": "desertification",
+        "zh": "沙漠化",
+        "pos": "n."
+      },
+      {
+        "w": "stabilise",
+        "zh": "使穩定",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0182",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. The Great Green Wall initiative, launched to plant a belt of trees and vegetation across the Sahel region south of the Sahara, aimed to halt the southward spread of desert-like conditions by stabilising soil and restoring vegetation cover. Diallo and colleagues assessed progress across the initiative's first two decades by comparing satellite vegetation data from project sites against nearby unrestored land.\n\nB. Diallo's assessment found highly uneven results: some sites, particularly those where local communities were closely involved in selecting species and maintaining planted areas, showed vegetation cover increases of over 50 percent compared with unrestored land nearby. Other sites showed little improvement or, in a minority of cases, net loss of the vegetation that had initially been planted, often where trees were planted without sufficient attention to local rainfall patterns or soil conditions.\n\nC. Diallo argues that the pattern points to a specific lesson rather than a general verdict on the initiative's value: large-scale tree-planting campaigns succeed reliably only when paired with ongoing local management and species selection suited to local conditions, rather than functioning as a one-time planting exercise that requires no further intervention. Sites treated as one-off plantings, without provision for maintenance or community involvement, accounted for a disproportionate share of the failures in Diallo's data.\n\nD. Diallo cautions against two opposite conclusions: declaring the initiative an unqualified success based only on its best-performing sites, and dismissing it as a failure based on its weakest ones. She recommends redirecting future funding toward the community-management model that produced the strongest results, rather than continuing to fund large-scale planting without matching investment in the maintenance capacity that her data suggests is decisive.",
+    "group_id": "NIR-G37",
+    "stem": "What can be inferred about sites that showed little improvement or a net loss of planted vegetation?",
+    "options": [
+      "They were exclusively located in areas with no rainfall at all.",
+      "They disproportionately lacked ongoing maintenance or attention to local rainfall and soil conditions.",
+      "They were the only sites included in Diallo's assessment.",
+      "They received far more funding than the sites that succeeded."
+    ],
+    "answer": 1,
+    "explain_zh": "段落 B、C 說明表現不佳的地點「往往在種植時未充分考量當地降雨模式或土壤條件」，且「未提供維護或社區參與的一次性種植地點，占失敗案例中不成比例的高比例」，對應選項 B，故選 B。A、C、D 原文都沒有支持這些說法，且段落 A 明確說評估涵蓋了計畫地點與鄰近未復原土地的比較，不只是失敗案例。技巧：推論題常考「表現不佳的共同特徵」，答案通常對應原文描述失敗案例的具體原因子句。",
+    "vocab": [
+      {
+        "w": "disproportionate",
+        "zh": "不成比例的",
+        "pos": "adj."
+      },
+      {
+        "w": "intervention",
+        "zh": "介入；干預",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0183",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. The Great Green Wall initiative, launched to plant a belt of trees and vegetation across the Sahel region south of the Sahara, aimed to halt the southward spread of desert-like conditions by stabilising soil and restoring vegetation cover. Diallo and colleagues assessed progress across the initiative's first two decades by comparing satellite vegetation data from project sites against nearby unrestored land.\n\nB. Diallo's assessment found highly uneven results: some sites, particularly those where local communities were closely involved in selecting species and maintaining planted areas, showed vegetation cover increases of over 50 percent compared with unrestored land nearby. Other sites showed little improvement or, in a minority of cases, net loss of the vegetation that had initially been planted, often where trees were planted without sufficient attention to local rainfall patterns or soil conditions.\n\nC. Diallo argues that the pattern points to a specific lesson rather than a general verdict on the initiative's value: large-scale tree-planting campaigns succeed reliably only when paired with ongoing local management and species selection suited to local conditions, rather than functioning as a one-time planting exercise that requires no further intervention. Sites treated as one-off plantings, without provision for maintenance or community involvement, accounted for a disproportionate share of the failures in Diallo's data.\n\nD. Diallo cautions against two opposite conclusions: declaring the initiative an unqualified success based only on its best-performing sites, and dismissing it as a failure based on its weakest ones. She recommends redirecting future funding toward the community-management model that produced the strongest results, rather than continuing to fund large-scale planting without matching investment in the maintenance capacity that her data suggests is decisive.",
+    "group_id": "NIR-G37",
+    "stem": "In paragraph D, the phrase 'unqualified success' is closest in meaning to which of the following?",
+    "options": [
+      "a success that has not yet been officially confirmed",
+      "a success with no reservations or limitations at all",
+      "a success achieved only by highly trained specialists",
+      "a partial success limited to a few specific locations"
+    ],
+    "answer": 1,
+    "explain_zh": "unqualified 在此指「無條件的、毫無保留的」，段落 D 說 Diallo 提醒不要僅憑表現最好的地點就宣稱這是 an unqualified success，也就是「毫無保留的完全成功」，對應選項 B，故選 B。A、C、D 都偏離了「毫無保留」這個核心意思，D 反而比較接近段落 B 描述的實際情況（部分地點才成功），但與 unqualified 的字面意思不符。技巧：unqualified 在此並非「不合格的」，而是「不加限制的、絕對的」，常與 success、support、approval 等正面詞搭配，要依語境判斷。",
+    "vocab": [
+      {
+        "w": "unqualified",
+        "zh": "無條件的；絕對的",
+        "pos": "adj."
+      },
+      {
+        "w": "verdict",
+        "zh": "判斷；結論",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0184",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. The Great Green Wall initiative, launched to plant a belt of trees and vegetation across the Sahel region south of the Sahara, aimed to halt the southward spread of desert-like conditions by stabilising soil and restoring vegetation cover. Diallo and colleagues assessed progress across the initiative's first two decades by comparing satellite vegetation data from project sites against nearby unrestored land.\n\nB. Diallo's assessment found highly uneven results: some sites, particularly those where local communities were closely involved in selecting species and maintaining planted areas, showed vegetation cover increases of over 50 percent compared with unrestored land nearby. Other sites showed little improvement or, in a minority of cases, net loss of the vegetation that had initially been planted, often where trees were planted without sufficient attention to local rainfall patterns or soil conditions.\n\nC. Diallo argues that the pattern points to a specific lesson rather than a general verdict on the initiative's value: large-scale tree-planting campaigns succeed reliably only when paired with ongoing local management and species selection suited to local conditions, rather than functioning as a one-time planting exercise that requires no further intervention. Sites treated as one-off plantings, without provision for maintenance or community involvement, accounted for a disproportionate share of the failures in Diallo's data.\n\nD. Diallo cautions against two opposite conclusions: declaring the initiative an unqualified success based only on its best-performing sites, and dismissing it as a failure based on its weakest ones. She recommends redirecting future funding toward the community-management model that produced the strongest results, rather than continuing to fund large-scale planting without matching investment in the maintenance capacity that her data suggests is decisive.",
+    "group_id": "NIR-G37",
+    "stem": "Which paragraph cautions against drawing an overly positive or overly negative conclusion from the initiative's results?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 D 開頭寫 Diallo cautions against two opposite conclusions: declaring the initiative an unqualified success...and dismissing it as a failure，正是提醒不要走向兩個極端結論，答案是 Paragraph D。段落 A 介紹評估方法；段落 B 呈現不同地點的數據結果；段落 C 分析成敗的關鍵因素。技巧：段落配對題找「提醒避免極端結論」類內容時，留意 cautions against、two opposite conclusions 這類提示語。",
+    "vocab": [
+      {
+        "w": "caution against",
+        "zh": "提醒不要…",
+        "pos": "phr."
+      },
+      {
+        "w": "decisive",
+        "zh": "具決定性的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0185",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. The Great Green Wall initiative, launched to plant a belt of trees and vegetation across the Sahel region south of the Sahara, aimed to halt the southward spread of desert-like conditions by stabilising soil and restoring vegetation cover. Diallo and colleagues assessed progress across the initiative's first two decades by comparing satellite vegetation data from project sites against nearby unrestored land.\n\nB. Diallo's assessment found highly uneven results: some sites, particularly those where local communities were closely involved in selecting species and maintaining planted areas, showed vegetation cover increases of over 50 percent compared with unrestored land nearby. Other sites showed little improvement or, in a minority of cases, net loss of the vegetation that had initially been planted, often where trees were planted without sufficient attention to local rainfall patterns or soil conditions.\n\nC. Diallo argues that the pattern points to a specific lesson rather than a general verdict on the initiative's value: large-scale tree-planting campaigns succeed reliably only when paired with ongoing local management and species selection suited to local conditions, rather than functioning as a one-time planting exercise that requires no further intervention. Sites treated as one-off plantings, without provision for maintenance or community involvement, accounted for a disproportionate share of the failures in Diallo's data.\n\nD. Diallo cautions against two opposite conclusions: declaring the initiative an unqualified success based only on its best-performing sites, and dismissing it as a failure based on its weakest ones. She recommends redirecting future funding toward the community-management model that produced the strongest results, rather than continuing to fund large-scale planting without matching investment in the maintenance capacity that her data suggests is decisive.",
+    "group_id": "NIR-G37",
+    "stem": "What does Diallo recommend for the future funding of the Great Green Wall initiative?",
+    "options": [
+      "Redirecting funding toward the community-management model that produced the strongest results",
+      "Funding only the sites that have already failed, to study them further",
+      "Ending all funding for the initiative immediately and permanently",
+      "Continuing to fund large-scale planting exactly as before, without any changes"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 明確寫 She recommends redirecting future funding toward the community-management model that produced the strongest results, rather than continuing to fund large-scale planting without matching investment in...maintenance capacity，對應選項 A，故選 A。B 原文沒有建議只資助失敗的地點以進一步研究；C 過度極端，原文沒有建議終止所有資金；D 與建議方向相反，原文並非主張維持現狀不變。技巧：建議類題目答案常出現在文章結尾，留意 recommends that、rather than continuing 這類明確表達具體做法的句型。",
+    "vocab": [
+      {
+        "w": "redirect",
+        "zh": "重新導向",
+        "pos": "v."
+      },
+      {
+        "w": "maintenance",
+        "zh": "維護",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0186",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. Language-learning apps that award points, badges, and streaks for daily practice have become enormously popular, and their designers often claim these game-like features improve learning outcomes by increasing motivation. Haugen and colleagues compared vocabulary retention among 500 learners randomly assigned to a version of the same app with gamified features enabled or disabled, tracking both short-term engagement and vocabulary retention after six months.\n\nB. Learners using the gamified version practised more consistently in the first eight weeks, logging on average 35 percent more practice sessions than the non-gamified group. However, this advantage narrowed considerably over time, and by six months, the difference in total accumulated practice time between the two groups was no longer statistically significant, since many gamified-group users reduced their engagement sharply once they had accumulated a long streak and, in some cases, stopped altogether after eventually missing a day and losing it.\n\nC. Haugen's team also examined what learners were optimising for. Interviews with a subsample suggested that some gamified-app users had shifted their attention toward maintaining streaks and earning points as goals in themselves, sometimes completing exercises quickly without much reflection in order to preserve a streak, a pattern Haugen terms goal displacement, in which a proxy measure of learning becomes the actual target of effort rather than learning itself.\n\nD. Haugen does not conclude that gamification is ineffective, noting that it clearly boosted early engagement and that some learners reported the features made practice more enjoyable overall. Her recommendation is that app designers pair gamified elements with periodic, low-stakes assessments of actual retention, so that streaks and points remain loosely tied to genuine learning progress rather than becoming disconnected proxy goals pursued for their own sake.",
+    "group_id": "NIR-G38",
+    "stem": "What does Haugen's research reveal about gamified features in language-learning apps?",
+    "options": [
+      "They always improve long-term vocabulary retention compared with non-gamified versions",
+      "They have no effect on learner engagement at any point in the six-month study",
+      "They were found to be equally effective for every single learner in the study",
+      "They boost early engagement but can lead some learners to optimise for game elements rather than actual learning"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 B 顯示遊戲化功能提升前期練習頻率，但六個月後差異不再顯著，段落 C 指出部分使用者出現「目標錯置」現象，對應選項 D，故選 D。A 與段落 C 描述部分使用者出現目標錯置矛盾，效果並非對每個人都一樣；B 與段落 B 顯示前八週有明顯差異矛盾；C 與段落 B 明確說六個月後「差異不再具統計顯著性」矛盾。技巧：主旨題遇到「短期效果 vs 長期效果不同」的研究，答案要同時反映這兩個層面。",
+    "vocab": [
+      {
+        "w": "retention",
+        "zh": "（學習）保留；記憶留存",
+        "pos": "n."
+      },
+      {
+        "w": "streak",
+        "zh": "連續紀錄",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0187",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. Language-learning apps that award points, badges, and streaks for daily practice have become enormously popular, and their designers often claim these game-like features improve learning outcomes by increasing motivation. Haugen and colleagues compared vocabulary retention among 500 learners randomly assigned to a version of the same app with gamified features enabled or disabled, tracking both short-term engagement and vocabulary retention after six months.\n\nB. Learners using the gamified version practised more consistently in the first eight weeks, logging on average 35 percent more practice sessions than the non-gamified group. However, this advantage narrowed considerably over time, and by six months, the difference in total accumulated practice time between the two groups was no longer statistically significant, since many gamified-group users reduced their engagement sharply once they had accumulated a long streak and, in some cases, stopped altogether after eventually missing a day and losing it.\n\nC. Haugen's team also examined what learners were optimising for. Interviews with a subsample suggested that some gamified-app users had shifted their attention toward maintaining streaks and earning points as goals in themselves, sometimes completing exercises quickly without much reflection in order to preserve a streak, a pattern Haugen terms goal displacement, in which a proxy measure of learning becomes the actual target of effort rather than learning itself.\n\nD. Haugen does not conclude that gamification is ineffective, noting that it clearly boosted early engagement and that some learners reported the features made practice more enjoyable overall. Her recommendation is that app designers pair gamified elements with periodic, low-stakes assessments of actual retention, so that streaks and points remain loosely tied to genuine learning progress rather than becoming disconnected proxy goals pursued for their own sake.",
+    "group_id": "NIR-G38",
+    "stem": "In the first eight weeks, learners using the gamified version logged on average how much more practice than the non-gamified group?",
+    "options": [
+      "8 percent more practice sessions",
+      "500 percent more practice sessions",
+      "The passage does not report a figure",
+      "35 percent more practice sessions"
+    ],
+    "answer": 3,
+    "explain_zh": "段落 B 寫 logging on average 35 percent more practice sessions than the non-gamified group，對應選項 D，故選 D。A「8 percent」容易與「前八週（eight weeks）」的數字混淆；B「500 percent」其實是研究招募的學習者人數（500人）的數字片段；C 文章確實有給出明確的百分比。技巧：文章中同時出現「週數」「人數」「百分比」等多種數字時，務必看清楚每個數字對應的意義。",
+    "vocab": [
+      {
+        "w": "gamified",
+        "zh": "遊戲化的",
+        "pos": "adj."
+      },
+      {
+        "w": "engagement",
+        "zh": "參與度",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0188",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. Language-learning apps that award points, badges, and streaks for daily practice have become enormously popular, and their designers often claim these game-like features improve learning outcomes by increasing motivation. Haugen and colleagues compared vocabulary retention among 500 learners randomly assigned to a version of the same app with gamified features enabled or disabled, tracking both short-term engagement and vocabulary retention after six months.\n\nB. Learners using the gamified version practised more consistently in the first eight weeks, logging on average 35 percent more practice sessions than the non-gamified group. However, this advantage narrowed considerably over time, and by six months, the difference in total accumulated practice time between the two groups was no longer statistically significant, since many gamified-group users reduced their engagement sharply once they had accumulated a long streak and, in some cases, stopped altogether after eventually missing a day and losing it.\n\nC. Haugen's team also examined what learners were optimising for. Interviews with a subsample suggested that some gamified-app users had shifted their attention toward maintaining streaks and earning points as goals in themselves, sometimes completing exercises quickly without much reflection in order to preserve a streak, a pattern Haugen terms goal displacement, in which a proxy measure of learning becomes the actual target of effort rather than learning itself.\n\nD. Haugen does not conclude that gamification is ineffective, noting that it clearly boosted early engagement and that some learners reported the features made practice more enjoyable overall. Her recommendation is that app designers pair gamified elements with periodic, low-stakes assessments of actual retention, so that streaks and points remain loosely tied to genuine learning progress rather than becoming disconnected proxy goals pursued for their own sake.",
+    "group_id": "NIR-G38",
+    "stem": "In paragraph C, the term 'goal displacement' refers to which of the following?",
+    "options": [
+      "a learner completely forgetting the original purpose of using the app",
+      "an app malfunction that displaces or deletes a user's saved progress",
+      "a proxy measure of progress becoming the actual target of effort, replacing the original goal",
+      "a marketing strategy used to attract new users to an app"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 明確定義 goal displacement：a proxy measure of learning becomes the actual target of effort rather than learning itself，也就是「代理指標（如連續天數、積分）取代了原本的學習目標」，對應選項 C，故選 C。A、B、D 都是憑字面猜測的錯誤解讀，原文已經給出清楚的定義句。技巧：碰到文章明確定義的專有名詞（如 goal displacement），直接找定義句即可作答，不需要額外推論。",
+    "vocab": [
+      {
+        "w": "proxy",
+        "zh": "代理；替代指標",
+        "pos": "n."
+      },
+      {
+        "w": "optimise for",
+        "zh": "以…為優化目標",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0189",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. Language-learning apps that award points, badges, and streaks for daily practice have become enormously popular, and their designers often claim these game-like features improve learning outcomes by increasing motivation. Haugen and colleagues compared vocabulary retention among 500 learners randomly assigned to a version of the same app with gamified features enabled or disabled, tracking both short-term engagement and vocabulary retention after six months.\n\nB. Learners using the gamified version practised more consistently in the first eight weeks, logging on average 35 percent more practice sessions than the non-gamified group. However, this advantage narrowed considerably over time, and by six months, the difference in total accumulated practice time between the two groups was no longer statistically significant, since many gamified-group users reduced their engagement sharply once they had accumulated a long streak and, in some cases, stopped altogether after eventually missing a day and losing it.\n\nC. Haugen's team also examined what learners were optimising for. Interviews with a subsample suggested that some gamified-app users had shifted their attention toward maintaining streaks and earning points as goals in themselves, sometimes completing exercises quickly without much reflection in order to preserve a streak, a pattern Haugen terms goal displacement, in which a proxy measure of learning becomes the actual target of effort rather than learning itself.\n\nD. Haugen does not conclude that gamification is ineffective, noting that it clearly boosted early engagement and that some learners reported the features made practice more enjoyable overall. Her recommendation is that app designers pair gamified elements with periodic, low-stakes assessments of actual retention, so that streaks and points remain loosely tied to genuine learning progress rather than becoming disconnected proxy goals pursued for their own sake.",
+    "group_id": "NIR-G38",
+    "stem": "Statement: Haugen concludes that gamification is entirely ineffective and should be removed from language-learning apps.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 D 明確寫 Haugen does not conclude that gamification is ineffective，直接反駁題幹「認為遊戲化完全無效，應該移除」的說法，選 False。技巧：題幹的 entirely ineffective and should be removed 與原文的 does not conclude that gamification is ineffective 意思相反，是清楚的 False 判斷依據。",
+    "vocab": [
+      {
+        "w": "ineffective",
+        "zh": "無效的",
+        "pos": "adj."
+      },
+      {
+        "w": "low-stakes",
+        "zh": "低風險的；不影響重大結果的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0190",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. Language-learning apps that award points, badges, and streaks for daily practice have become enormously popular, and their designers often claim these game-like features improve learning outcomes by increasing motivation. Haugen and colleagues compared vocabulary retention among 500 learners randomly assigned to a version of the same app with gamified features enabled or disabled, tracking both short-term engagement and vocabulary retention after six months.\n\nB. Learners using the gamified version practised more consistently in the first eight weeks, logging on average 35 percent more practice sessions than the non-gamified group. However, this advantage narrowed considerably over time, and by six months, the difference in total accumulated practice time between the two groups was no longer statistically significant, since many gamified-group users reduced their engagement sharply once they had accumulated a long streak and, in some cases, stopped altogether after eventually missing a day and losing it.\n\nC. Haugen's team also examined what learners were optimising for. Interviews with a subsample suggested that some gamified-app users had shifted their attention toward maintaining streaks and earning points as goals in themselves, sometimes completing exercises quickly without much reflection in order to preserve a streak, a pattern Haugen terms goal displacement, in which a proxy measure of learning becomes the actual target of effort rather than learning itself.\n\nD. Haugen does not conclude that gamification is ineffective, noting that it clearly boosted early engagement and that some learners reported the features made practice more enjoyable overall. Her recommendation is that app designers pair gamified elements with periodic, low-stakes assessments of actual retention, so that streaks and points remain loosely tied to genuine learning progress rather than becoming disconnected proxy goals pursued for their own sake.",
+    "group_id": "NIR-G38",
+    "stem": "What is Haugen's recommendation for app designers, according to the passage?",
+    "options": [
+      "Pair gamified elements with periodic, low-stakes assessments of actual retention",
+      "Increase the difficulty of maintaining a streak to make it more meaningful",
+      "Remove all gamified elements from language-learning apps immediately",
+      "Focus exclusively on points and badges rather than measuring retention at all"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 明確寫 Her recommendation is that app designers pair gamified elements with periodic, low-stakes assessments of actual retention, so that streaks and points remain loosely tied to genuine learning progress，對應選項 A，故選 A。C 與段落 D 承認遊戲化「確實提升了早期參與度」矛盾，並非建議移除；B、D 原文都沒有提出這樣的建議。技巧：建議類題目答案常出現在文章結尾，留意 Her recommendation is that 這類明確引導建議內容的句型。",
+    "vocab": [
+      {
+        "w": "periodic",
+        "zh": "週期性的",
+        "pos": "adj."
+      },
+      {
+        "w": "loosely tied to",
+        "zh": "與…鬆散連結",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0191",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A. When a new pedestrian footbridge opened over a major river in the early 2000s, it began to sway noticeably from side to side within hours of opening to large crowds, forcing its closure for modification shortly afterward. Bianchi, an engineer who has studied the incident, explains that the bridge had been thoroughly tested against expected loads from wind and traffic, but not against a phenomenon that only became fully apparent once thousands of pedestrians crossed it simultaneously.\n\nB. The mechanism, now well documented, works as follows: any bridge sways slightly under the natural, uneven forces produced by a crowd walking across it. If that sway becomes noticeable, pedestrians unconsciously adjust their footsteps to keep balance, and this adjustment, made by many people at once, tends to synchronise with the bridge's own sideways motion, reinforcing rather than dampening it. Bianchi notes that this feedback loop, called synchronous lateral excitation, requires no unusual design flaw, only a bridge light and flexible enough for pedestrian-induced sway to become perceptible in the first place.\n\nC. Before this incident, bridge design codes accounted for vertical loads and for lateral forces from wind, but lacked established methods for testing or predicting horizontal, crowd-induced sway of this kind at the design stage, since the phenomenon required a large, densely packed, synchronised crowd to become significant, a loading condition earlier codes had not specifically modelled. Bianchi argues that the incident was less a failure of the engineers involved than a genuine gap in the collective engineering knowledge available at the time.\n\nD. Following the incident, engineers fitted the bridge with dampers, mechanical devices that absorb sideways motion, which successfully eliminated the problematic sway, and revised design codes now require bridges of similar type to be tested against this specific loading condition. Bianchi considers the episode a clear example of how engineering standards evolve: not always through anticipating every possible failure in advance, but sometimes through learning systematically from a specific, well-documented incident.",
+    "group_id": "NIR-G39",
+    "stem": "What is Bianchi's overall explanation for why the footbridge began to sway when large crowds crossed it?",
+    "options": [
+      "The bridge had a serious structural design flaw that engineers had completely overlooked through negligence",
+      "The bridge's dampers malfunctioned immediately after opening, causing uncontrolled swaying",
+      "Pedestrians unconsciously synchronised their footsteps with the bridge's sway, reinforcing a motion existing design codes had not anticipated",
+      "Wind forces alone were sufficient to cause the swaying, unrelated to the crowd of pedestrians"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 B、C 說明行人無意識地跟隨橋樑搖晃調整步伐，形成加強搖晃的回饋迴路，而這種「人群同步側向激振」現象當時尚未被既有規範納入考量，對應選項 C，故選 C。A 與段落 C「與其說是工程師的失誤，不如說是當時工程知識確實存在的缺口」矛盾；B 段落 D 說明減震器是「事後加裝」的解決方案，並非一開始就故障；D 段落 A 明確說橋樑已針對風力與交通載重充分測試，問題出在人群同步搖晃，而非風力。技巧：主旨題遇到「解釋一個意外現象成因」的文章，答案要精準對應原文給出的機制說明，不要誤讀成工程師的疏失。",
+    "vocab": [
+      {
+        "w": "synchronise",
+        "zh": "同步",
+        "pos": "v."
+      },
+      {
+        "w": "dampen",
+        "zh": "抑制；減弱",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0192",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. When a new pedestrian footbridge opened over a major river in the early 2000s, it began to sway noticeably from side to side within hours of opening to large crowds, forcing its closure for modification shortly afterward. Bianchi, an engineer who has studied the incident, explains that the bridge had been thoroughly tested against expected loads from wind and traffic, but not against a phenomenon that only became fully apparent once thousands of pedestrians crossed it simultaneously.\n\nB. The mechanism, now well documented, works as follows: any bridge sways slightly under the natural, uneven forces produced by a crowd walking across it. If that sway becomes noticeable, pedestrians unconsciously adjust their footsteps to keep balance, and this adjustment, made by many people at once, tends to synchronise with the bridge's own sideways motion, reinforcing rather than dampening it. Bianchi notes that this feedback loop, called synchronous lateral excitation, requires no unusual design flaw, only a bridge light and flexible enough for pedestrian-induced sway to become perceptible in the first place.\n\nC. Before this incident, bridge design codes accounted for vertical loads and for lateral forces from wind, but lacked established methods for testing or predicting horizontal, crowd-induced sway of this kind at the design stage, since the phenomenon required a large, densely packed, synchronised crowd to become significant, a loading condition earlier codes had not specifically modelled. Bianchi argues that the incident was less a failure of the engineers involved than a genuine gap in the collective engineering knowledge available at the time.\n\nD. Following the incident, engineers fitted the bridge with dampers, mechanical devices that absorb sideways motion, which successfully eliminated the problematic sway, and revised design codes now require bridges of similar type to be tested against this specific loading condition. Bianchi considers the episode a clear example of how engineering standards evolve: not always through anticipating every possible failure in advance, but sometimes through learning systematically from a specific, well-documented incident.",
+    "group_id": "NIR-G39",
+    "stem": "According to the passage, what did engineers fit to the bridge after the incident to eliminate the problematic sway?",
+    "options": [
+      "Dampers, mechanical devices that absorb sideways motion",
+      "Warning signs limiting the number of pedestrians allowed to cross",
+      "Additional traffic lanes for pedestrians",
+      "A completely new bridge built from scratch"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 明確寫 engineers fitted the bridge with dampers, mechanical devices that absorb sideways motion, which successfully eliminated the problematic sway，選 A。B、C、D 都是原文未提及的解決方式，文章只提到裝設減震器這項具體措施。技巧：細節題若題幹問「採取了什麼具體措施」，通常可以直接在原文找到描述解決方案的句子，逐字比對即可。",
+    "vocab": [
+      {
+        "w": "damper",
+        "zh": "減震器",
+        "pos": "n."
+      },
+      {
+        "w": "perceptible",
+        "zh": "可察覺的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0193",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. When a new pedestrian footbridge opened over a major river in the early 2000s, it began to sway noticeably from side to side within hours of opening to large crowds, forcing its closure for modification shortly afterward. Bianchi, an engineer who has studied the incident, explains that the bridge had been thoroughly tested against expected loads from wind and traffic, but not against a phenomenon that only became fully apparent once thousands of pedestrians crossed it simultaneously.\n\nB. The mechanism, now well documented, works as follows: any bridge sways slightly under the natural, uneven forces produced by a crowd walking across it. If that sway becomes noticeable, pedestrians unconsciously adjust their footsteps to keep balance, and this adjustment, made by many people at once, tends to synchronise with the bridge's own sideways motion, reinforcing rather than dampening it. Bianchi notes that this feedback loop, called synchronous lateral excitation, requires no unusual design flaw, only a bridge light and flexible enough for pedestrian-induced sway to become perceptible in the first place.\n\nC. Before this incident, bridge design codes accounted for vertical loads and for lateral forces from wind, but lacked established methods for testing or predicting horizontal, crowd-induced sway of this kind at the design stage, since the phenomenon required a large, densely packed, synchronised crowd to become significant, a loading condition earlier codes had not specifically modelled. Bianchi argues that the incident was less a failure of the engineers involved than a genuine gap in the collective engineering knowledge available at the time.\n\nD. Following the incident, engineers fitted the bridge with dampers, mechanical devices that absorb sideways motion, which successfully eliminated the problematic sway, and revised design codes now require bridges of similar type to be tested against this specific loading condition. Bianchi considers the episode a clear example of how engineering standards evolve: not always through anticipating every possible failure in advance, but sometimes through learning systematically from a specific, well-documented incident.",
+    "group_id": "NIR-G39",
+    "stem": "What can be inferred about why earlier bridge design codes had not accounted for crowd-induced lateral sway?",
+    "options": [
+      "Earlier codes deliberately ignored all forms of lateral force, including wind.",
+      "The phenomenon required a large, densely packed, synchronised crowd to become significant, a condition earlier codes had not specifically modelled.",
+      "No bridge had ever swayed under any circumstances before this incident.",
+      "The engineers who wrote earlier codes lacked any formal engineering training."
+    ],
+    "answer": 1,
+    "explain_zh": "段落 C 明確寫 the phenomenon required a large, densely packed, synchronised crowd to become significant, a loading condition earlier codes had not specifically modelled，對應選項 B，故選 B。A 與段落 C「規範確實有納入風力等側向力」矛盾；C、D 原文都沒有提及，且與段落 A 描述橋樑經過充分測試矛盾。技巧：推論題常考「某個規範為何存在缺口」，答案通常對應原文描述該現象「特殊觸發條件」的句子。",
+    "vocab": [
+      {
+        "w": "densely packed",
+        "zh": "密集聚集的",
+        "pos": "phr."
+      },
+      {
+        "w": "loading condition",
+        "zh": "載重條件",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0194",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:true-false-notgiven",
+    "tag_zh": "是非未提及",
+    "passage": "A. When a new pedestrian footbridge opened over a major river in the early 2000s, it began to sway noticeably from side to side within hours of opening to large crowds, forcing its closure for modification shortly afterward. Bianchi, an engineer who has studied the incident, explains that the bridge had been thoroughly tested against expected loads from wind and traffic, but not against a phenomenon that only became fully apparent once thousands of pedestrians crossed it simultaneously.\n\nB. The mechanism, now well documented, works as follows: any bridge sways slightly under the natural, uneven forces produced by a crowd walking across it. If that sway becomes noticeable, pedestrians unconsciously adjust their footsteps to keep balance, and this adjustment, made by many people at once, tends to synchronise with the bridge's own sideways motion, reinforcing rather than dampening it. Bianchi notes that this feedback loop, called synchronous lateral excitation, requires no unusual design flaw, only a bridge light and flexible enough for pedestrian-induced sway to become perceptible in the first place.\n\nC. Before this incident, bridge design codes accounted for vertical loads and for lateral forces from wind, but lacked established methods for testing or predicting horizontal, crowd-induced sway of this kind at the design stage, since the phenomenon required a large, densely packed, synchronised crowd to become significant, a loading condition earlier codes had not specifically modelled. Bianchi argues that the incident was less a failure of the engineers involved than a genuine gap in the collective engineering knowledge available at the time.\n\nD. Following the incident, engineers fitted the bridge with dampers, mechanical devices that absorb sideways motion, which successfully eliminated the problematic sway, and revised design codes now require bridges of similar type to be tested against this specific loading condition. Bianchi considers the episode a clear example of how engineering standards evolve: not always through anticipating every possible failure in advance, but sometimes through learning systematically from a specific, well-documented incident.",
+    "group_id": "NIR-G39",
+    "stem": "Statement: Bianchi considers the swaying incident to have been primarily caused by negligence on the part of the individual engineers who designed the bridge.",
+    "options": [
+      "True（文章支持）",
+      "False（文章反駁）",
+      "Not Given（文章沒提到）",
+      "文章自相矛盾"
+    ],
+    "answer": 1,
+    "explain_zh": "答案是 False。段落 C 明確寫 Bianchi argues that the incident was less a failure of the engineers involved than a genuine gap in the collective engineering knowledge available at the time，直接反駁題幹「主要歸咎於個別工程師的疏忽」的說法，選 False。技巧：題幹的 primarily caused by negligence 與原文的 less a failure of the engineers...than a genuine gap in...knowledge 意思相反，是清楚的 False 判斷依據。",
+    "vocab": [
+      {
+        "w": "negligence",
+        "zh": "疏忽",
+        "pos": "n."
+      },
+      {
+        "w": "collective",
+        "zh": "集體的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0195",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. When a new pedestrian footbridge opened over a major river in the early 2000s, it began to sway noticeably from side to side within hours of opening to large crowds, forcing its closure for modification shortly afterward. Bianchi, an engineer who has studied the incident, explains that the bridge had been thoroughly tested against expected loads from wind and traffic, but not against a phenomenon that only became fully apparent once thousands of pedestrians crossed it simultaneously.\n\nB. The mechanism, now well documented, works as follows: any bridge sways slightly under the natural, uneven forces produced by a crowd walking across it. If that sway becomes noticeable, pedestrians unconsciously adjust their footsteps to keep balance, and this adjustment, made by many people at once, tends to synchronise with the bridge's own sideways motion, reinforcing rather than dampening it. Bianchi notes that this feedback loop, called synchronous lateral excitation, requires no unusual design flaw, only a bridge light and flexible enough for pedestrian-induced sway to become perceptible in the first place.\n\nC. Before this incident, bridge design codes accounted for vertical loads and for lateral forces from wind, but lacked established methods for testing or predicting horizontal, crowd-induced sway of this kind at the design stage, since the phenomenon required a large, densely packed, synchronised crowd to become significant, a loading condition earlier codes had not specifically modelled. Bianchi argues that the incident was less a failure of the engineers involved than a genuine gap in the collective engineering knowledge available at the time.\n\nD. Following the incident, engineers fitted the bridge with dampers, mechanical devices that absorb sideways motion, which successfully eliminated the problematic sway, and revised design codes now require bridges of similar type to be tested against this specific loading condition. Bianchi considers the episode a clear example of how engineering standards evolve: not always through anticipating every possible failure in advance, but sometimes through learning systematically from a specific, well-documented incident.",
+    "group_id": "NIR-G39",
+    "stem": "Which paragraph explains the feedback loop by which pedestrians' footsteps reinforce a bridge's sideways sway?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 1,
+    "explain_zh": "段落 B 描述 pedestrians unconsciously adjust their footsteps to keep balance, and this adjustment...tends to synchronise with the bridge's own sideways motion, reinforcing rather than dampening it，正是解釋回饋迴路機制的段落，答案是 Paragraph B。段落 A 介紹意外事件背景；段落 C 說明當時規範的知識缺口；段落 D 討論事後的解決方案與規範修訂。技巧：找「機制、回饋迴路說明」類段落，留意 mechanism、works as follows、reinforcing 這類提示詞。",
+    "vocab": [
+      {
+        "w": "feedback loop",
+        "zh": "回饋迴路",
+        "pos": "n."
+      },
+      {
+        "w": "lateral",
+        "zh": "側向的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0196",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節查找",
+    "passage": "A. The community of bacteria and other microorganisms living in the human gut, collectively known as the gut microbiome, has been linked in numerous studies to body weight, leading some researchers to suggest that differences in microbiome composition might partly explain why some people gain weight more easily than others. Mensah and colleagues examined this claim using a large dataset combining microbiome sequencing with detailed dietary and weight records from over 5,000 participants.\n\nB. Mensah's analysis confirmed that certain microbiome features were statistically associated with body weight, but the strength of this association was modest: microbiome composition explained only around 5 percent of the variation in body weight across participants, compared with roughly 25 percent explained by dietary patterns and physical activity levels combined. This contrasts with some earlier, smaller studies that had reported considerably stronger associations, which Mensah's team suspects may partly reflect those studies' smaller sample sizes and less rigorous control of confounding factors such as diet.\n\nC. Mensah cautions against interpreting even this modest association as evidence that microbiome composition causes weight differences, since diet strongly influences microbiome composition itself, meaning that some of the observed association could run in the opposite direction, with dietary habits shaping the microbiome rather than the microbiome shaping weight outcomes, or with both being influenced by some third factor not measured in the study.\n\nD. Despite these limitations, Mensah does not dismiss the microbiome's relevance entirely, noting that certain specific bacterial species have shown more consistent, if still modest, associations with metabolic markers across multiple independent studies, suggesting a real if limited role deserving further research. Her broader concern is that popular reporting of microbiome research has sometimes presented it as a primary explanation for weight differences, a framing her data does not support.",
+    "group_id": "NIR-G40",
+    "stem": "According to Mensah's analysis, roughly what percentage of variation in body weight was explained by microbiome composition?",
+    "options": [
+      "Around 50 percent",
+      "Around 5 percent",
+      "Around 25 percent",
+      "The passage does not give a percentage"
+    ],
+    "answer": 1,
+    "explain_zh": "段落 B 寫 microbiome composition explained only around 5 percent of the variation in body weight，對應選項 B，故選 B。C「25 percent」是飲食與身體活動量合併解釋的比例，容易與微生物群相混淆；A「50 percent」是憑印象猜測的誘答；D 文章確實有給出明確的比例。技巧：文章對比兩種因素的解釋力時（微生物群5% vs 飲食與活動25%），一定要看清楚題幹問的是哪一個因素。",
+    "vocab": [
+      {
+        "w": "microbiome",
+        "zh": "微生物群系",
+        "pos": "n."
+      },
+      {
+        "w": "variation",
+        "zh": "變異",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0197",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論判斷",
+    "passage": "A. The community of bacteria and other microorganisms living in the human gut, collectively known as the gut microbiome, has been linked in numerous studies to body weight, leading some researchers to suggest that differences in microbiome composition might partly explain why some people gain weight more easily than others. Mensah and colleagues examined this claim using a large dataset combining microbiome sequencing with detailed dietary and weight records from over 5,000 participants.\n\nB. Mensah's analysis confirmed that certain microbiome features were statistically associated with body weight, but the strength of this association was modest: microbiome composition explained only around 5 percent of the variation in body weight across participants, compared with roughly 25 percent explained by dietary patterns and physical activity levels combined. This contrasts with some earlier, smaller studies that had reported considerably stronger associations, which Mensah's team suspects may partly reflect those studies' smaller sample sizes and less rigorous control of confounding factors such as diet.\n\nC. Mensah cautions against interpreting even this modest association as evidence that microbiome composition causes weight differences, since diet strongly influences microbiome composition itself, meaning that some of the observed association could run in the opposite direction, with dietary habits shaping the microbiome rather than the microbiome shaping weight outcomes, or with both being influenced by some third factor not measured in the study.\n\nD. Despite these limitations, Mensah does not dismiss the microbiome's relevance entirely, noting that certain specific bacterial species have shown more consistent, if still modest, associations with metabolic markers across multiple independent studies, suggesting a real if limited role deserving further research. Her broader concern is that popular reporting of microbiome research has sometimes presented it as a primary explanation for weight differences, a framing her data does not support.",
+    "group_id": "NIR-G40",
+    "stem": "What can be inferred about why earlier, smaller studies reported stronger associations between microbiome composition and body weight?",
+    "options": [
+      "Mensah's own study has been proven to contain significant measurement errors.",
+      "Smaller sample sizes and less rigorous control of confounding factors such as diet may partly explain the stronger reported associations.",
+      "Earlier studies deliberately fabricated their results to attract funding.",
+      "Those studies used a completely different, more accurate method of measuring the microbiome."
+    ],
+    "answer": 1,
+    "explain_zh": "段落 B 提出解釋：Mensah's team suspects may partly reflect those studies' smaller sample sizes and less rigorous control of confounding factors such as diet，對應選項 B，故選 B。A、C、D 原文都沒有支持這些說法，屬於過度推論或無中生有。技巧：推論題常考「為什麼較早、較小型的研究結果與後續大型研究不同」，答案通常對應原文明確提出的方法論解釋（樣本數、控制變因的嚴謹度）。",
+    "vocab": [
+      {
+        "w": "confounding factor",
+        "zh": "混淆變因",
+        "pos": "n."
+      },
+      {
+        "w": "rigorous",
+        "zh": "嚴謹的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0198",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "語境詞義",
+    "passage": "A. The community of bacteria and other microorganisms living in the human gut, collectively known as the gut microbiome, has been linked in numerous studies to body weight, leading some researchers to suggest that differences in microbiome composition might partly explain why some people gain weight more easily than others. Mensah and colleagues examined this claim using a large dataset combining microbiome sequencing with detailed dietary and weight records from over 5,000 participants.\n\nB. Mensah's analysis confirmed that certain microbiome features were statistically associated with body weight, but the strength of this association was modest: microbiome composition explained only around 5 percent of the variation in body weight across participants, compared with roughly 25 percent explained by dietary patterns and physical activity levels combined. This contrasts with some earlier, smaller studies that had reported considerably stronger associations, which Mensah's team suspects may partly reflect those studies' smaller sample sizes and less rigorous control of confounding factors such as diet.\n\nC. Mensah cautions against interpreting even this modest association as evidence that microbiome composition causes weight differences, since diet strongly influences microbiome composition itself, meaning that some of the observed association could run in the opposite direction, with dietary habits shaping the microbiome rather than the microbiome shaping weight outcomes, or with both being influenced by some third factor not measured in the study.\n\nD. Despite these limitations, Mensah does not dismiss the microbiome's relevance entirely, noting that certain specific bacterial species have shown more consistent, if still modest, associations with metabolic markers across multiple independent studies, suggesting a real if limited role deserving further research. Her broader concern is that popular reporting of microbiome research has sometimes presented it as a primary explanation for weight differences, a framing her data does not support.",
+    "group_id": "NIR-G40",
+    "stem": "In paragraph D, the word 'framing' is closest in meaning to which of the following?",
+    "options": [
+      "the particular way an issue is presented or described",
+      "the exact statistical method used to analyse data",
+      "the physical structure used to display a photograph",
+      "the financial budget allocated to a research project"
+    ],
+    "answer": 0,
+    "explain_zh": "framing 指「陳述、呈現的方式」，段落 D 說流行媒體報導有時把微生物群 presented...as a primary explanation for weight differences, a framing her data does not support，也就是這種「呈現方式」，最接近 A。B、C、D 都偏離了「呈現方式、敘事角度」這個核心意思。技巧：framing 在描述議題或研究時，常指「用什麼角度或方式來說明一件事」，與 presentation、narrative 意思相近。",
+    "vocab": [
+      {
+        "w": "framing",
+        "zh": "呈現方式；框架",
+        "pos": "n."
+      },
+      {
+        "w": "metabolic marker",
+        "zh": "代謝指標",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0199",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:matching-information",
+    "tag_zh": "段落定位",
+    "passage": "A. The community of bacteria and other microorganisms living in the human gut, collectively known as the gut microbiome, has been linked in numerous studies to body weight, leading some researchers to suggest that differences in microbiome composition might partly explain why some people gain weight more easily than others. Mensah and colleagues examined this claim using a large dataset combining microbiome sequencing with detailed dietary and weight records from over 5,000 participants.\n\nB. Mensah's analysis confirmed that certain microbiome features were statistically associated with body weight, but the strength of this association was modest: microbiome composition explained only around 5 percent of the variation in body weight across participants, compared with roughly 25 percent explained by dietary patterns and physical activity levels combined. This contrasts with some earlier, smaller studies that had reported considerably stronger associations, which Mensah's team suspects may partly reflect those studies' smaller sample sizes and less rigorous control of confounding factors such as diet.\n\nC. Mensah cautions against interpreting even this modest association as evidence that microbiome composition causes weight differences, since diet strongly influences microbiome composition itself, meaning that some of the observed association could run in the opposite direction, with dietary habits shaping the microbiome rather than the microbiome shaping weight outcomes, or with both being influenced by some third factor not measured in the study.\n\nD. Despite these limitations, Mensah does not dismiss the microbiome's relevance entirely, noting that certain specific bacterial species have shown more consistent, if still modest, associations with metabolic markers across multiple independent studies, suggesting a real if limited role deserving further research. Her broader concern is that popular reporting of microbiome research has sometimes presented it as a primary explanation for weight differences, a framing her data does not support.",
+    "group_id": "NIR-G40",
+    "stem": "Which paragraph raises the possibility that diet shapes the microbiome rather than the microbiome shaping weight?",
+    "options": [
+      "Paragraph A",
+      "Paragraph B",
+      "Paragraph C",
+      "Paragraph D"
+    ],
+    "answer": 2,
+    "explain_zh": "段落 C 提到 some of the observed association could run in the opposite direction, with dietary habits shaping the microbiome rather than the microbiome shaping weight outcomes，正是提出這個反向因果可能性的段落，答案是 Paragraph C。段落 A 介紹研究背景；段落 B 呈現統計關聯的數據；段落 D 討論微生物群研究的實際意義與媒體報導的問題。技巧：段落配對題找「反向因果關係」類內容時，留意 the opposite direction、rather than 這類提示語。",
+    "vocab": [
+      {
+        "w": "causation",
+        "zh": "因果關係",
+        "pos": "n."
+      },
+      {
+        "w": "shape",
+        "zh": "塑造；影響",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIR-0200",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:writer-view",
+    "tag_zh": "作者觀點",
+    "passage": "A. The community of bacteria and other microorganisms living in the human gut, collectively known as the gut microbiome, has been linked in numerous studies to body weight, leading some researchers to suggest that differences in microbiome composition might partly explain why some people gain weight more easily than others. Mensah and colleagues examined this claim using a large dataset combining microbiome sequencing with detailed dietary and weight records from over 5,000 participants.\n\nB. Mensah's analysis confirmed that certain microbiome features were statistically associated with body weight, but the strength of this association was modest: microbiome composition explained only around 5 percent of the variation in body weight across participants, compared with roughly 25 percent explained by dietary patterns and physical activity levels combined. This contrasts with some earlier, smaller studies that had reported considerably stronger associations, which Mensah's team suspects may partly reflect those studies' smaller sample sizes and less rigorous control of confounding factors such as diet.\n\nC. Mensah cautions against interpreting even this modest association as evidence that microbiome composition causes weight differences, since diet strongly influences microbiome composition itself, meaning that some of the observed association could run in the opposite direction, with dietary habits shaping the microbiome rather than the microbiome shaping weight outcomes, or with both being influenced by some third factor not measured in the study.\n\nD. Despite these limitations, Mensah does not dismiss the microbiome's relevance entirely, noting that certain specific bacterial species have shown more consistent, if still modest, associations with metabolic markers across multiple independent studies, suggesting a real if limited role deserving further research. Her broader concern is that popular reporting of microbiome research has sometimes presented it as a primary explanation for weight differences, a framing her data does not support.",
+    "group_id": "NIR-G40",
+    "stem": "What is Mensah's broader concern regarding popular reporting of microbiome research?",
+    "options": [
+      "It has sometimes presented the microbiome as a primary explanation for weight differences, a framing her data does not support",
+      "It has accurately reflected the modest, limited associations found in her data",
+      "It has completely ignored the microbiome's role in human health altogether",
+      "It has focused too heavily on diet and physical activity rather than the microbiome"
+    ],
+    "answer": 0,
+    "explain_zh": "段落 D 明確寫 Her broader concern is that popular reporting of microbiome research has sometimes presented it as a primary explanation for weight differences, a framing her data does not support，對應選項 A，故選 A。B 與這種「呈現方式不被她的數據支持」矛盾，並非準確反映了她研究中溫和、有限的關聯；C 與媒體「把微生物群呈現為主要解釋」矛盾，並非完全忽略微生物群的角色；D 原文沒有提到媒體報導過度聚焦飲食與活動量。技巧：作者觀點題常見的「疑慮」類答案，通常出現在文章最後一段，留意 her broader concern is that 這類明確引導的句型。",
+    "vocab": [
+      {
+        "w": "primary explanation",
+        "zh": "主要解釋",
+        "pos": "n."
+      },
+      {
+        "w": "modest",
+        "zh": "溫和的；不算大的",
+        "pos": "adj."
+      }
+    ]
+  }
+]

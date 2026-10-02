@@ -1,0 +1,1284 @@
+[
+ {
+  "id": "PX-GSAT103-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:daily-life",
+  "tag_zh": "生活動作",
+  "stem": "Lost and scared, the little dog ____ along the streets, looking for its master.",
+  "options": [
+   "dismissed",
+   "glided",
+   "wandered",
+   "marched"
+  ],
+  "answer": 2,
+  "explain_zh": "迷路害怕的小狗到處遊蕩找主人，語意上最貼切的是 wandered（遊蕩、徘徊）。dismissed 是解散、開除；glided 是滑行；marched 是齊步走，皆與「迷路徘徊」的情境不符。可記 wander around 表示漫無目的地走動。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "wander",
+    "zh": "遊蕩、徘徊",
+    "pos": "v."
+   },
+   {
+    "w": "scared",
+    "zh": "害怕的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:daily-life",
+  "tag_zh": "生活描述",
+  "stem": "On a sunny afternoon last month, we all took off our shoes and walked on the grass with ____ feet.",
+  "options": [
+   "bare",
+   "raw",
+   "tough",
+   "slippery"
+  ],
+  "answer": 0,
+  "explain_zh": "脫鞋踩在草地上是赤腳，故選 bare（赤裸的）。raw 用於形容生食或未加工的東西；tough 指強韌、艱難；slippery 指濕滑，皆不能形容「沒穿鞋的腳」。bare feet／barefoot 是固定用法，要記起來。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "bare",
+    "zh": "赤裸的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "社會議題",
+  "stem": "It is both legally and ____ wrong to spread rumors about other people on the Internet.",
+  "options": [
+   "morally",
+   "physically",
+   "literarily",
+   "commercially"
+  ],
+  "answer": 0,
+  "explain_zh": "與 legally（法律上）對應、用來判斷散布謠言對錯的是道德層面，故選 morally（道德上）。physically 指身體上、literarily 指文學上、commercially 指商業上，皆與是非對錯的判斷無關。legally and morally wrong 是常見的對句用法。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "morally",
+    "zh": "道德上",
+    "pos": "adv."
+   },
+   {
+    "w": "rumor",
+    "zh": "謠言",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "健康運動",
+  "stem": "These warm-up exercises are designed to help people ____ their muscles and prevent injuries.",
+  "options": [
+   "produce",
+   "connect",
+   "broaden",
+   "loosen"
+  ],
+  "answer": 3,
+  "explain_zh": "暖身操的目的是讓肌肉「放鬆」並預防受傷，故選 loosen。produce（產生）、connect（連接）、broaden（拓寬）皆無法與 muscles 搭配出「放鬆肌肉」的意思。loosen up 也常用來表示暖身放鬆。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "loosen",
+    "zh": "放鬆、鬆開",
+    "pos": "v."
+   },
+   {
+    "w": "muscle",
+    "zh": "肌肉",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:family",
+  "tag_zh": "家庭關係",
+  "stem": "Mei-ling has a very close relationship with her parents. She always ____ them before she makes important decisions.",
+  "options": [
+   "impresses",
+   "advises",
+   "consults",
+   "motivates"
+  ],
+  "answer": 2,
+  "explain_zh": "做重大決定前向父母「請教」意見，故選 consults（諮詢）。impress 是使人印象深刻；advise 是給建議，主詞受詞方向相反；motivate 是激勵，皆不合句意。consult somebody about something 是常見搭配。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "consult",
+    "zh": "請教、諮詢",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "商業消費",
+  "stem": "The restaurant has a ____ charge of NT$250 per person. So the four of us need to pay at least NT$1,000 to eat there.",
+  "options": [
+   "definite",
+   "minimum",
+   "flexible",
+   "numerous"
+  ],
+  "answer": 1,
+  "explain_zh": "餐廳每人最低消費額 NT$250，四人至少要付千元，故選 minimum（最低的）。definite 是確定的、flexible 是有彈性的、numerous 是眾多的，都不符合「至少」的語意。minimum charge 為固定搭配。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "minimum",
+    "zh": "最低的、最小的",
+    "pos": "adj."
+   },
+   {
+    "w": "charge",
+    "zh": "收費",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "商業展覽",
+  "stem": "At the Book Fair, exhibitors from 21 countries will ____ textbooks, novels, and comic books.",
+  "options": [
+   "predict",
+   "require",
+   "display",
+   "target"
+  ],
+  "answer": 2,
+  "explain_zh": "書展攤商是把書「展示」出來給大眾看，故選 display。predict 是預測、require 是要求、target 是鎖定目標，皆不合此情境。display 也常見於 on display（展示中）的用法。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "display",
+    "zh": "展示、陳列",
+    "pos": "v."
+   },
+   {
+    "w": "exhibitor",
+    "zh": "參展者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "身體動作",
+  "stem": "Before John got on the stage to give the speech, he took a deep ____ to calm himself down.",
+  "options": [
+   "order",
+   "rest",
+   "effort",
+   "breath"
+  ],
+  "answer": 3,
+  "explain_zh": "上台演講前深呼吸讓自己冷靜，take a deep breath 是固定片語，故選 breath（呼吸）。order、rest、effort 都無法與 deep 搭配出「深呼吸」的意思。記住 take a deep breath 這個常用片語。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "breath",
+    "zh": "呼吸",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:education",
+  "tag_zh": "教育",
+  "stem": "Most young people in Taiwan are not satisfied with a high school ____ and continue to pursue further education in college.",
+  "options": [
+   "maturity",
+   "diploma",
+   "foundation",
+   "guarantee"
+  ],
+  "answer": 1,
+  "explain_zh": "不滿足於高中「畢業證書」而想繼續升學，故選 diploma。maturity 是成熟度、foundation 是基礎、guarantee 是保證，皆與「學歷證書」無關。high school diploma 是常見用法。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "diploma",
+    "zh": "畢業證書、文憑",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:environment",
+  "tag_zh": "環保回收",
+  "stem": "Residents are told not to dump all household waste ____ into the trash can; reusable materials should first be sorted out and recycled.",
+  "options": [
+   "shortly",
+   "straight",
+   "forward",
+   "namely"
+  ],
+  "answer": 1,
+  "explain_zh": "沒有分類就直接把垃圾丟進垃圾桶，dump straight into 表示「直接丟入」，故選 straight。shortly 是不久、forward 是向前、namely 是也就是說，皆不合句意。straight into 常表示「直接進入」。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "straight",
+    "zh": "直接地",
+    "pos": "adv."
+   },
+   {
+    "w": "dump",
+    "zh": "傾倒、丟棄",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "身體動作",
+  "stem": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his ____ and fell to the ground.",
+  "options": [
+   "volume",
+   "weight",
+   "balance",
+   "direction"
+  ],
+  "answer": 2,
+  "explain_zh": "站在梯子上時「失去平衡」而摔落，lose one's balance 是固定用法，故選 balance。volume 是音量或體積、weight 是重量、direction 是方向，皆無法與 lose 搭配出此意思。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "balance",
+    "zh": "平衡",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:education",
+  "tag_zh": "教育政策",
+  "stem": "If student enrollment continues to drop, some programs at the university may be ____ to reduce the operation costs.",
+  "options": [
+   "relieved",
+   "eliminated",
+   "projected",
+   "accounted"
+  ],
+  "answer": 1,
+  "explain_zh": "招生人數下滑，為了降低營運成本，有些課程可能會被「取消」，故選 eliminated。relieve 是減輕、project 是預計、account 是說明，皆不符合「裁撤課程」的語意。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "eliminate",
+    "zh": "取消、消除",
+    "pos": "v."
+   },
+   {
+    "w": "enrollment",
+    "zh": "註冊人數、入學人數",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "社會文化",
+  "stem": "People in that remote village feed themselves by hunting and engaging in ____ forms of agriculture. No modern agricultural methods are used.",
+  "options": [
+   "universal",
+   "splendid",
+   "primitive",
+   "courteous"
+  ],
+  "answer": 2,
+  "explain_zh": "與後句「沒有使用現代農法」呼應的是「原始的」農業型態，故選 primitive。universal 是普遍的、splendid 是燦爛的、courteous 是有禮貌的，皆與此語境不符。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "primitive",
+    "zh": "原始的",
+    "pos": "adj."
+   },
+   {
+    "w": "agriculture",
+    "zh": "農業",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:safety",
+  "tag_zh": "安全警示",
+  "stem": "The government issued a travel ____ for Taiwanese in response to the outbreak of civil war in Syria.",
+  "options": [
+   "alert",
+   "monument",
+   "exit",
+   "circulation"
+  ],
+  "answer": 0,
+  "explain_zh": "政府因應戰亂發布旅遊「警示」，travel alert 是固定搭配，故選 alert。monument 是紀念碑、exit 是出口、circulation 是流通，皆與「警示、示警」無關。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "alert",
+    "zh": "警示、警報",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:animals",
+  "tag_zh": "動物照護",
+  "stem": "The baby panda Yuan Zai at the Taipei Zoo was separated from her mother because of a minor injury that occurred during her birth. She was ____ by zookeepers for a while.",
+  "options": [
+   "departed",
+   "jailed",
+   "tended",
+   "captured"
+  ],
+  "answer": 2,
+  "explain_zh": "幼貓熊因受傷而由保育員「照料」一段時間，故選 tended（照顧）。departed 是離開、jailed 是監禁、captured 是捕捉，皆不符合保育員對幼獸的正面照顧行為。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "tend",
+    "zh": "照顧、照料",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "分詞構句選詞",
+  "passage": "Aesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.” (16), the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.”\n(17) this, Aesop answered, “I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.”\nA few hours later, (18) traveler came down the road. He too stopped and asked Aesop the same question. (19), Aesop made the same request. But frowning, the man answered, “I'm from Argos and there the people are unfriendly, (20), and vicious. They're thieves and murderers, all of them.” “Well, I'm afraid you'll find the people of Athens much the same,” replied Aesop.",
+  "group_id": "PX-GSAT103-G01",
+  "stem": "(16) 應填入：____, the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.”",
+  "options": [
+   "Amazing",
+   "Smiling",
+   "Deciding",
+   "Praying"
+  ],
+  "answer": 1,
+  "explain_zh": "旅人正面描述家鄉人很友善時，應是面帶微笑地回答，故選 Smiling（現在分詞當狀語，修飾主要子句的動作）。Amazing（令人驚訝的）、Deciding（決定）、Praying（祈禱）皆不符合此刻的正面情緒動作。分詞構句要注意主詞一致與語意合理。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "smile",
+    "zh": "微笑",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定介系詞片語",
+  "passage": "Aesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.” (16), the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.”\n(17) this, Aesop answered, “I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.”\nA few hours later, (18) traveler came down the road. He too stopped and asked Aesop the same question. (19), Aesop made the same request. But frowning, the man answered, “I'm from Argos and there the people are unfriendly, (20), and vicious. They're thieves and murderers, all of them.” “Well, I'm afraid you'll find the people of Athens much the same,” replied Aesop.",
+  "group_id": "PX-GSAT103-G01",
+  "stem": "(17) 應填入：____ this, Aesop answered, “I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.”",
+  "options": [
+   "At",
+   "By",
+   "For",
+   "Into"
+  ],
+  "answer": 0,
+  "explain_zh": "at this 是固定用法，表示「聽到這話、聞言」，故選 At。By this、For this、Into this 都沒有這樣的慣用意義。這種「介系詞+this」表達對前面話語的即時反應，是英文常見句型。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "at this",
+    "zh": "聽到這話、聞言",
+    "pos": "phrase"
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "冠詞與代名詞",
+  "passage": "Aesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.” (16), the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.”\n(17) this, Aesop answered, “I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.”\nA few hours later, (18) traveler came down the road. He too stopped and asked Aesop the same question. (19), Aesop made the same request. But frowning, the man answered, “I'm from Argos and there the people are unfriendly, (20), and vicious. They're thieves and murderers, all of them.” “Well, I'm afraid you'll find the people of Athens much the same,” replied Aesop.",
+  "group_id": "PX-GSAT103-G01",
+  "stem": "(18) 應填入：A few hours later, ____ traveler came down the road.",
+  "options": [
+   "a",
+   "the",
+   "other",
+   "another"
+  ],
+  "answer": 3,
+  "explain_zh": "第二位「另一位」旅人單數出現在路上，故選 another（另一個，單數可數）。a 會與前文語感重複；other 需接複數名詞；the 表示雙方已知的特定對象，皆不合此處語意。another + 單數名詞是常考文法點。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "another",
+    "zh": "另一個",
+    "pos": "adj./pron."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "副詞連接",
+  "passage": "Aesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.” (16), the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.”\n(17) this, Aesop answered, “I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.”\nA few hours later, (18) traveler came down the road. He too stopped and asked Aesop the same question. (19), Aesop made the same request. But frowning, the man answered, “I'm from Argos and there the people are unfriendly, (20), and vicious. They're thieves and murderers, all of them.” “Well, I'm afraid you'll find the people of Athens much the same,” replied Aesop.",
+  "group_id": "PX-GSAT103-G01",
+  "stem": "(19) 應填入：____, Aesop made the same request.",
+  "options": [
+   "Again",
+   "Indeed",
+   "Together",
+   "Moreover"
+  ],
+  "answer": 0,
+  "explain_zh": "伊索「再次」對第二位旅人提出同樣的要求，故選 Again（再次）。Indeed 是的確、Together 是一起、Moreover 是此外，皆無法承接「重複發生同樣的事」這個語意。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "again",
+    "zh": "再次",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Aesop, the Greek writer of fables, was sitting by the roadside one day when a traveler asked him what sort of people lived in Athens. Aesop replied, “Tell me where you come from and what sort of people live there, and I'll tell you what sort of people you'll find in Athens.” (16), the man answered, “I come from Argos, and there the people are all friendly, generous, and warm-hearted. I love them.”\n(17) this, Aesop answered, “I'm happy to tell you, my dear friend, that you'll find the people of Athens much the same.”\nA few hours later, (18) traveler came down the road. He too stopped and asked Aesop the same question. (19), Aesop made the same request. But frowning, the man answered, “I'm from Argos and there the people are unfriendly, (20), and vicious. They're thieves and murderers, all of them.” “Well, I'm afraid you'll find the people of Athens much the same,” replied Aesop.",
+  "group_id": "PX-GSAT103-G01",
+  "stem": "(20) 應填入：I'm from Argos and there the people are unfriendly, ____, and vicious.",
+  "options": [
+   "brave",
+   "lonely",
+   "mean",
+   "skinny"
+  ],
+  "answer": 2,
+  "explain_zh": "與 unfriendly、vicious 並列的負面特質是「刻薄」，故選 mean（小氣、刻薄的）。brave 是勇敢的、lonely 是孤獨的、skinny 是瘦的，都不是同類的負面性格用詞，語意不合。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "mean",
+    "zh": "刻薄的、小氣的",
+    "pos": "adj."
+   },
+   {
+    "w": "vicious",
+    "zh": "邪惡的、兇狠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-021",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Every year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's (21) of the millennia-old glaciers. However, this tourist attraction will soon (22). According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are (23) to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. (24) the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, (25) threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.",
+  "group_id": "PX-GSAT103-G02",
+  "stem": "(21) 應填入：They are attracted by the American writer's ____ of the millennia-old glaciers.",
+  "options": [
+   "situations",
+   "descriptions",
+   "translations",
+   "calculations"
+  ],
+  "answer": 1,
+  "explain_zh": "遊客是受到海明威文字「描寫」冰河景色所吸引而前來朝聖，故選 descriptions（描述）。situations 是情況、translations 是翻譯、calculations 是計算，皆與「文學描寫吸引讀者」的語境不符。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "description",
+    "zh": "描述、描寫",
+    "pos": "n."
+   },
+   {
+    "w": "glacier",
+    "zh": "冰河",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-022",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Every year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's (21) of the millennia-old glaciers. However, this tourist attraction will soon (22). According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are (23) to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. (24) the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, (25) threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.",
+  "group_id": "PX-GSAT103-G02",
+  "stem": "(22) 應填入：However, this tourist attraction will soon ____.",
+  "options": [
+   "operate",
+   "expand",
+   "recover",
+   "vanish"
+  ],
+  "answer": 3,
+  "explain_zh": "冰河正在融化，這個觀光景點即將「消失」，故選 vanish。operate 是運作、expand 是擴張、recover 是恢復，這些字都與冰河消融導致景點消失的語意相反或不合。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "vanish",
+    "zh": "消失",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-023",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定搭配 be likely to",
+  "passage": "Every year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's (21) of the millennia-old glaciers. However, this tourist attraction will soon (22). According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are (23) to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. (24) the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, (25) threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.",
+  "group_id": "PX-GSAT103-G02",
+  "stem": "(23) 應填入：Mount Kilimanjaro's snows and glaciers are melting and are ____ to disappear by 2020.",
+  "options": [
+   "capable",
+   "ready",
+   "likely",
+   "horrible"
+  ],
+  "answer": 2,
+  "explain_zh": "be likely to V 表示「很可能會」，是固定句型，故選 likely。capable 需搭配 of 使用；ready 是準備好；horrible 是可怕的，這些字都無法直接接 to V 表達「可能性」。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "likely",
+    "zh": "可能的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-024",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "介系詞連接",
+  "passage": "Every year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's (21) of the millennia-old glaciers. However, this tourist attraction will soon (22). According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are (23) to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. (24) the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, (25) threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.",
+  "group_id": "PX-GSAT103-G02",
+  "stem": "(24) 應填入：____ the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below.",
+  "options": [
+   "Among",
+   "Besides",
+   "Inside",
+   "Without"
+  ],
+  "answer": 3,
+  "explain_zh": "「沒有」山頂積雪的話，就不會有足夠的水氣滋養山下的動植物，故選 Without。Among（在…之中）、Besides（此外）、Inside（在…裡面）皆無法表達這種「假設缺少某條件」的語意。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "without",
+    "zh": "沒有",
+    "pos": "prep."
+   },
+   {
+    "w": "moisture",
+    "zh": "濕氣、水氣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-025",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "邏輯連接詞",
+  "passage": "Every year tens of thousands of tourists visit Mount Kilimanjaro, the highest mountain in Tanzania, Africa, to witness the scenes depicted in Earnest Hemingway's The Snows of Kilimanjaro. They are attracted by the American writer's (21) of the millennia-old glaciers. However, this tourist attraction will soon (22). According to the Climate Change Group, formed by environmentalists worldwide to document the effects of global warming, Mount Kilimanjaro's snows and glaciers are melting and are (23) to disappear by 2020. Not only will the summit lose its tourist attraction, but the disappearance of the snows will also cause major damage to the ecosystem on the dry African plains at its base. (24) the snow covering the peak, there will not be enough moisture and water to nourish the plants and animals below. Rising temperatures, an effect of global warming, (25) threaten the ecosystem of this mountain area. The loss of snows on the 5,892m peak, which have been there for about 11,700 years, could have disastrous effects on Tanzania.",
+  "group_id": "PX-GSAT103-G02",
+  "stem": "(25) 應填入：Rising temperatures, an effect of global warming, ____ threaten the ecosystem of this mountain area.",
+  "options": [
+   "thus",
+   "just",
+   "instead",
+   "otherwise"
+  ],
+  "answer": 0,
+  "explain_zh": "氣溫上升是全球暖化造成的結果，「因此」威脅了此山區的生態，故選 thus（因此）。just 是只是、instead 是反而、otherwise 是否則，這些字都無法表達「前後因果承接」的邏輯關係。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "thus",
+    "zh": "因此",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-026",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "動詞搭配",
+  "passage": "Most human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they (26) all the important factors involved before they make their decisions? The answer is: not very thoroughly, (27) they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can (28) all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. (29), it is not unusual for them to come up with a decision before they have the time to do so. And (30) an opinion is formed, most of their thinking then is simply trying to find support for it.",
+  "group_id": "PX-GSAT103-G03",
+  "stem": "(26) 應填入：How thoroughly have they ____ all the important factors involved before they make their decisions?",
+  "options": [
+   "conveyed",
+   "examined",
+   "solved",
+   "implied"
+  ],
+  "answer": 1,
+  "explain_zh": "在做決定之前，人們需要「仔細檢視」所有重要因素，故選 examined。convey 是傳達、solve 是解決、imply 是暗示，這些動詞都無法與 factors（因素）搭配表達「審視、檢討」的意思。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "examine",
+    "zh": "檢視、檢查",
+    "pos": "v."
+   },
+   {
+    "w": "factor",
+    "zh": "因素",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-027",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "對等連接詞",
+  "passage": "Most human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they (26) all the important factors involved before they make their decisions? The answer is: not very thoroughly, (27) they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can (28) all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. (29), it is not unusual for them to come up with a decision before they have the time to do so. And (30) an opinion is formed, most of their thinking then is simply trying to find support for it.",
+  "group_id": "PX-GSAT103-G03",
+  "stem": "(27) 應填入：The answer is: not very thoroughly, ____ they are executives, specialized experts, or ordinary people in the street.",
+  "options": [
+   "whoever",
+   "because",
+   "whether",
+   "rather"
+  ],
+  "answer": 2,
+  "explain_zh": "whether A or B 表示「不論是A或是B」，是固定對等連接詞句型，故選 whether。whoever（無論是誰）、because（因為）、rather（相當地）皆無法對應後面的 or 結構，文法不合。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "whether",
+    "zh": "是否、不論",
+    "pos": "conj."
+   },
+   {
+    "w": "executive",
+    "zh": "主管、執行者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-028",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "片語動詞",
+  "passage": "Most human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they (26) all the important factors involved before they make their decisions? The answer is: not very thoroughly, (27) they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can (28) all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. (29), it is not unusual for them to come up with a decision before they have the time to do so. And (30) an opinion is formed, most of their thinking then is simply trying to find support for it.",
+  "group_id": "PX-GSAT103-G03",
+  "stem": "(28) 應填入：Very few people... can ____ all the possibilities or outcomes of a policy or a course of action within just a short period of time.",
+  "options": [
+   "set out",
+   "turn out",
+   "put into practice",
+   "take into account"
+  ],
+  "answer": 3,
+  "explain_zh": "take into account 是固定片語，表示「將…納入考量」，符合「考慮所有可能結果」的語意，故選此片語。set out 是出發、turn out 是結果是、put into practice 是付諸實行，皆不符合此處語意。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "take into account",
+    "zh": "將…納入考量",
+    "pos": "phrase"
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-029",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "轉折連接詞",
+  "passage": "Most human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they (26) all the important factors involved before they make their decisions? The answer is: not very thoroughly, (27) they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can (28) all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. (29), it is not unusual for them to come up with a decision before they have the time to do so. And (30) an opinion is formed, most of their thinking then is simply trying to find support for it.",
+  "group_id": "PX-GSAT103-G03",
+  "stem": "(29) 應填入：____, it is not unusual for them to come up with a decision before they have the time to do so.",
+  "options": [
+   "However",
+   "Furthermore",
+   "Conditionally",
+   "Similarly"
+  ],
+  "answer": 0,
+  "explain_zh": "前句說決策果斷的人會盡力事先考慮周全，這句話用「然而」轉折，指出他們仍常常來不及想清楚就下決定，故選 However。Furthermore（此外）、Conditionally（有條件地）、Similarly（同樣地）皆不合這個轉折語氣。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "however",
+    "zh": "然而",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-030",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "時間連接詞",
+  "passage": "Most human beings actually decide before they think. When people encounter a complex issue and form an opinion, how thoroughly have they (26) all the important factors involved before they make their decisions? The answer is: not very thoroughly, (27) they are executives, specialized experts, or ordinary people in the street. Very few people, no matter how intelligent or experienced, can (28) all the possibilities or outcomes of a policy or a course of action within just a short period of time. Those who take pride in being decisive often try their best to consider all the factors beforehand. (29), it is not unusual for them to come up with a decision before they have the time to do so. And (30) an opinion is formed, most of their thinking then is simply trying to find support for it.",
+  "group_id": "PX-GSAT103-G03",
+  "stem": "(30) 應填入：And ____ an opinion is formed, most of their thinking then is simply trying to find support for it.",
+  "options": [
+   "though",
+   "unless",
+   "once",
+   "even"
+  ],
+  "answer": 2,
+  "explain_zh": "once + S + V 表示「一旦…」，指出意見一旦形成後，人們大多只想找證據支持它，故選 once。though（雖然）、unless（除非）、even（甚至）皆不符合這種「一旦發生就…」的時間因果關係。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "once",
+    "zh": "一旦",
+    "pos": "conj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-041",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "American writer Toni Morrison was born in 1931 in Ohio. She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose. Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.\nAfter graduating from college, Morrison started to work as a teacher and got married in 1958. Several years later, her marriage began to fail. For a temporary escape, she joined a small writers' group, in which each member was required to bring a story or poem for discussion. She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes. The story was well received by the group, but then she put it away, thinking she was done with it.\nIn 1964, Morrison got divorced and devoted herself to writing. One day, she dusted off the story she had written for the writers' group and decided to make it into a novel. She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own. The Bluest Eye was eventually published in 1970. From 1970 to 1992, Morrison published five more novels.\nIn her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory. In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture. The novels and other works won her several prizes. In 1993, Morrison received the Nobel Prize in Literature. She is the eighth woman and the first African American woman to win the honor.",
+  "group_id": "PX-GSAT103-G04",
+  "stem": "What is the passage mainly about?",
+  "options": [
+   "The life of black people in the U.S.",
+   "The life of an African American writer.",
+   "The history of African American culture.",
+   "The history of the Nobel Prize in Literature."
+  ],
+  "answer": 1,
+  "explain_zh": "全文以時間順序介紹美國作家 Toni Morrison 從童年、寫作契機到獲得諾貝爾獎的生平，主軸是她個人的創作歷程，故選 B。選項 A、C 範圍過大，泛指整個黑人族群或文化史；D 只提到她得獎這件事，並非全文重點。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "prose",
+    "zh": "散文、文筆",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-042",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "American writer Toni Morrison was born in 1931 in Ohio. She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose. Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.\nAfter graduating from college, Morrison started to work as a teacher and got married in 1958. Several years later, her marriage began to fail. For a temporary escape, she joined a small writers' group, in which each member was required to bring a story or poem for discussion. She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes. The story was well received by the group, but then she put it away, thinking she was done with it.\nIn 1964, Morrison got divorced and devoted herself to writing. One day, she dusted off the story she had written for the writers' group and decided to make it into a novel. She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own. The Bluest Eye was eventually published in 1970. From 1970 to 1992, Morrison published five more novels.\nIn her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory. In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture. The novels and other works won her several prizes. In 1993, Morrison received the Nobel Prize in Literature. She is the eighth woman and the first African American woman to win the honor.",
+  "group_id": "PX-GSAT103-G04",
+  "stem": "Why did Morrison join the writers' group?",
+  "options": [
+   "She wanted to publish The Bluest Eye.",
+   "She wanted to fight racial discrimination.",
+   "She wanted to be a professional writer.",
+   "She wanted to get away from her unhappy marriage."
+  ],
+  "answer": 3,
+  "explain_zh": "文中明說「for a temporary escape, she joined a small writers' group」，指出她是為了暫時逃離失敗的婚姻才加入寫作小組，故選 D。選項 A、B、C 都是後來才發生或文中未提及的原因，時序不符。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "escape",
+    "zh": "逃離、逃避",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-043",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "American writer Toni Morrison was born in 1931 in Ohio. She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose. Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.\nAfter graduating from college, Morrison started to work as a teacher and got married in 1958. Several years later, her marriage began to fail. For a temporary escape, she joined a small writers' group, in which each member was required to bring a story or poem for discussion. She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes. The story was well received by the group, but then she put it away, thinking she was done with it.\nIn 1964, Morrison got divorced and devoted herself to writing. One day, she dusted off the story she had written for the writers' group and decided to make it into a novel. She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own. The Bluest Eye was eventually published in 1970. From 1970 to 1992, Morrison published five more novels.\nIn her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory. In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture. The novels and other works won her several prizes. In 1993, Morrison received the Nobel Prize in Literature. She is the eighth woman and the first African American woman to win the honor.",
+  "group_id": "PX-GSAT103-G04",
+  "stem": "According to the passage, what is one of the themes in Morrison's works?",
+  "options": [
+   "A search for African American values.",
+   "Divorced black women in American society.",
+   "Songs and stories of African Americans in Ohio.",
+   "History of African Americans from the 1970s through the 1990s."
+  ],
+  "answer": 0,
+  "explain_zh": "文中舉例 Song of Solomon 描述一位非裔美籍男子「尋找自身文化認同」的故事，對應選項 A。選項 B、C、D 都不是文中實際提到的作品主題，屬於過度延伸。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "identity",
+    "zh": "認同、身分",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-044",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "American writer Toni Morrison was born in 1931 in Ohio. She was raised in an African American family filled with songs and stories of Southern myths, which later shaped her prose. Her happy family life led to her excellent performance in school, despite the atmosphere of racial discrimination in the society.\nAfter graduating from college, Morrison started to work as a teacher and got married in 1958. Several years later, her marriage began to fail. For a temporary escape, she joined a small writers' group, in which each member was required to bring a story or poem for discussion. She wrote a story based on the life of a girl she knew in childhood who had prayed to God for blue eyes. The story was well received by the group, but then she put it away, thinking she was done with it.\nIn 1964, Morrison got divorced and devoted herself to writing. One day, she dusted off the story she had written for the writers' group and decided to make it into a novel. She drew on her memories from childhood and expanded upon them using her imagination so that the characters developed a life of their own. The Bluest Eye was eventually published in 1970. From 1970 to 1992, Morrison published five more novels.\nIn her novels, Morrison brings in different elements of the African American past, their struggles, problems and cultural memory. In Song of Solomon, for example, Morrison tells the story of an African American man and his search for identity in his culture. The novels and other works won her several prizes. In 1993, Morrison received the Nobel Prize in Literature. She is the eighth woman and the first African American woman to win the honor.",
+  "group_id": "PX-GSAT103-G04",
+  "stem": "Which of the following statements is true about Toni Morrison?",
+  "options": [
+   "She has been writing a lot since her adolescent years.",
+   "She suffered from severe racial discrimination in her family.",
+   "What she wrote in her novels are true stories of African Americans.",
+   "No African American woman ever received a Nobel Prize in Literature before her."
+  ],
+  "answer": 3,
+  "explain_zh": "文末明白指出她是首位獲得諾貝爾文學獎的非裔美籍女性，故選 D。選項 A 與她青少年時期的寫作經歷不符；B 誇大了她在家庭中受到的歧視；C 把小說內容當成真實故事，皆與原文不符。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "honor",
+    "zh": "榮譽",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-045",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Below is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.\nInterviewer: You're the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent. And you're a bioethicist and one of the architects of Obamacare. Isn't writing a book about how great your family is a bit odd?\nZeke: I don't write a book about how great my family is. There are lots of idiocies and foolishness—a lot to make fun of in the book. I wrote Brothers Emanuel because I had begun jotting stories for my kids. And then we began getting a lot of questions: What did Mom put in the cereal? Three successful brothers, all different areas.\nI: To what do you attribute the Emanuel brothers' success?\nZ: I would put success in quotes. We strive. First, I think we got this striving from our mother to make the world a better place. A second important thing is you never rest on the last victory. There's always more to do. And maybe the third important thing is my father's admonition that offense is the best defense. We don't give up.\nI: Do you still not have a TV?\nZ: I don't own a TV. I don't own a car. I don't Facebook. I don't tweet.\nI: But you have four cell phones.\nZ: I'm down to two, thankfully.\nI: Your brothers are a national source of fascination. Where do you think they'll be in five years?\nZ: Ari will be a superagent running the same company. Rahm would still be mayor of Chicago. I will probably continue to be my academic self. The one thing I can guarantee is none of us will have taken a cruise, none of us will be sitting on a beach with a pina colada.",
+  "group_id": "PX-GSAT103-G05",
+  "stem": "What does Zeke Emanuel have in mind when saying “What did Mom put in the cereal?”",
+  "options": [
+   "The secret to bringing up successful kids.",
+   "The recipe for a breakfast food.",
+   "The difference among the brothers.",
+   "The questions from his kids."
+  ],
+  "answer": 0,
+  "explain_zh": "這句話其實是在調侃「媽媽到底用了什麼秘方，教出三個各領域都成功的兒子」，暗指教養方式的秘訣，故選 A。B、C、D 都只從字面解讀，忽略了這句話真正想表達的弦外之音。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "attribute",
+    "zh": "歸因於",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-046",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Below is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.\nInterviewer: You're the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent. And you're a bioethicist and one of the architects of Obamacare. Isn't writing a book about how great your family is a bit odd?\nZeke: I don't write a book about how great my family is. There are lots of idiocies and foolishness—a lot to make fun of in the book. I wrote Brothers Emanuel because I had begun jotting stories for my kids. And then we began getting a lot of questions: What did Mom put in the cereal? Three successful brothers, all different areas.\nI: To what do you attribute the Emanuel brothers' success?\nZ: I would put success in quotes. We strive. First, I think we got this striving from our mother to make the world a better place. A second important thing is you never rest on the last victory. There's always more to do. And maybe the third important thing is my father's admonition that offense is the best defense. We don't give up.\nI: Do you still not have a TV?\nZ: I don't own a TV. I don't own a car. I don't Facebook. I don't tweet.\nI: But you have four cell phones.\nZ: I'm down to two, thankfully.\nI: Your brothers are a national source of fascination. Where do you think they'll be in five years?\nZ: Ari will be a superagent running the same company. Rahm would still be mayor of Chicago. I will probably continue to be my academic self. The one thing I can guarantee is none of us will have taken a cruise, none of us will be sitting on a beach with a pina colada.",
+  "group_id": "PX-GSAT103-G05",
+  "stem": "What does Zeke Emanuel think of the modern conveniences mentioned in the interview?",
+  "options": [
+   "Better late than never.",
+   "Practice makes perfect.",
+   "One can live without many of them.",
+   "They are great inventions."
+  ],
+  "answer": 2,
+  "explain_zh": "他自稱不看電視、不開車、不用臉書，手機也只剩兩支，顯示這些現代便利品「沒有也能過生活」，故選 C。選項 A、B、D 都與他實際展現出的態度不符。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "conveniences",
+    "zh": "便利設施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-047",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Below is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.\nInterviewer: You're the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent. And you're a bioethicist and one of the architects of Obamacare. Isn't writing a book about how great your family is a bit odd?\nZeke: I don't write a book about how great my family is. There are lots of idiocies and foolishness—a lot to make fun of in the book. I wrote Brothers Emanuel because I had begun jotting stories for my kids. And then we began getting a lot of questions: What did Mom put in the cereal? Three successful brothers, all different areas.\nI: To what do you attribute the Emanuel brothers' success?\nZ: I would put success in quotes. We strive. First, I think we got this striving from our mother to make the world a better place. A second important thing is you never rest on the last victory. There's always more to do. And maybe the third important thing is my father's admonition that offense is the best defense. We don't give up.\nI: Do you still not have a TV?\nZ: I don't own a TV. I don't own a car. I don't Facebook. I don't tweet.\nI: But you have four cell phones.\nZ: I'm down to two, thankfully.\nI: Your brothers are a national source of fascination. Where do you think they'll be in five years?\nZ: Ari will be a superagent running the same company. Rahm would still be mayor of Chicago. I will probably continue to be my academic self. The one thing I can guarantee is none of us will have taken a cruise, none of us will be sitting on a beach with a pina colada.",
+  "group_id": "PX-GSAT103-G05",
+  "stem": "According to Zeke Emanuel, which of the following is a reason for the brothers' success?",
+  "options": [
+   "They defend themselves by attacking others.",
+   "They learn a lot from great people's quotes.",
+   "They are committed to glorifying their parents.",
+   "They keep moving forward even after a big success."
+  ],
+  "answer": 3,
+  "explain_zh": "他說「you never rest on the last victory. There's always more to do」，意思是不能因為上一次的成功就鬆懈，要持續前進，故選 D。選項 A 語意錯誤（攻擊而非防禦）；B、C 文中並未提及。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "rest on",
+    "zh": "依賴、滿足於",
+    "pos": "phrase"
+   },
+   {
+    "w": "victory",
+    "zh": "勝利",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-048",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Below is an excerpt from an interview with Zeke Emanuel, a health-policy expert, on his famous brothers.\nInterviewer: You're the older brother of Rahm, the mayor of Chicago, and Ari, an extremely successful talent agent. And you're a bioethicist and one of the architects of Obamacare. Isn't writing a book about how great your family is a bit odd?\nZeke: I don't write a book about how great my family is. There are lots of idiocies and foolishness—a lot to make fun of in the book. I wrote Brothers Emanuel because I had begun jotting stories for my kids. And then we began getting a lot of questions: What did Mom put in the cereal? Three successful brothers, all different areas.\nI: To what do you attribute the Emanuel brothers' success?\nZ: I would put success in quotes. We strive. First, I think we got this striving from our mother to make the world a better place. A second important thing is you never rest on the last victory. There's always more to do. And maybe the third important thing is my father's admonition that offense is the best defense. We don't give up.\nI: Do you still not have a TV?\nZ: I don't own a TV. I don't own a car. I don't Facebook. I don't tweet.\nI: But you have four cell phones.\nZ: I'm down to two, thankfully.\nI: Your brothers are a national source of fascination. Where do you think they'll be in five years?\nZ: Ari will be a superagent running the same company. Rahm would still be mayor of Chicago. I will probably continue to be my academic self. The one thing I can guarantee is none of us will have taken a cruise, none of us will be sitting on a beach with a pina colada.",
+  "group_id": "PX-GSAT103-G05",
+  "stem": "Which of the following best summarizes Zeke Emanuel's response to the last question?",
+  "options": [
+   "The brothers look forward to a family trip on a cruise.",
+   "Nothing much will change in the near future for them.",
+   "Higher positions and more power will be their goals.",
+   "None of the brothers will go to the beach."
+  ],
+  "answer": 1,
+  "explain_zh": "他預測五年後三兄弟大致仍在原本的崗位上（經紀人、市長、學者），暗示變化不大，故選 B。選項 A、D 與他說「沒人會去度假曬太陽」的語氣相反；C 文中未提及升官掌權的企圖。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "guarantee",
+    "zh": "保證",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-049",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜字",
+  "passage": "MOOC, a massive open online course, aims at providing large-scale interactive participation and open access via the web. In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.\nMOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up. This new breed of online classes is shaking up the higher education world in many ways. Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically. Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world. Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they're free. This is certainly good news for cash-strapped students.\nThere is a lot of excitement and fear surrounding MOOCs. While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind. Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students. After all, a brain is not a computer. We are not blank hard drives waiting to be filled with data. People learn from people they love and remember the things that arouse emotion. Some critics worry that online students will miss out on the social aspects of college.",
+  "group_id": "PX-GSAT103-G06",
+  "stem": "What does the word “cash-strapped” in the second paragraph mean?",
+  "options": [
+   "Making a lot of money.",
+   "Being short of money.",
+   "Being careful with money.",
+   "Spending little money."
+  ],
+  "answer": 1,
+  "explain_zh": "MOOC 課程免費對「手頭拮据」的學生來說是好消息，cash-strapped 意指缺錢，故選 B。A 意思相反；C、D 的語意都與「缺錢」無關。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "cash-strapped",
+    "zh": "手頭拮据的、缺錢的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-050",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解（反向題）",
+  "passage": "MOOC, a massive open online course, aims at providing large-scale interactive participation and open access via the web. In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.\nMOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up. This new breed of online classes is shaking up the higher education world in many ways. Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically. Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world. Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they're free. This is certainly good news for cash-strapped students.\nThere is a lot of excitement and fear surrounding MOOCs. While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind. Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students. After all, a brain is not a computer. We are not blank hard drives waiting to be filled with data. People learn from people they love and remember the things that arouse emotion. Some critics worry that online students will miss out on the social aspects of college.",
+  "group_id": "PX-GSAT103-G06",
+  "stem": "Which of the following is NOT one of the features of MOOCs?",
+  "options": [
+   "It is free to take the courses.",
+   "Many courses are offered by famous universities.",
+   "Most courses address artificial intelligence.",
+   "Many students can take the course at the same time."
+  ],
+  "answer": 2,
+  "explain_zh": "文中只提到 2011 年史丹佛教授開設的人工智慧課程是首例爆紅案例，並沒有說「大多數課程都以人工智慧為主題」，故 C 不是文中所述的特點，為答案。A、B、D 皆為文中明確提到的 MOOC 特色。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "prestigious",
+    "zh": "有名望的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-051",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "段落主旨",
+  "passage": "MOOC, a massive open online course, aims at providing large-scale interactive participation and open access via the web. In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.\nMOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up. This new breed of online classes is shaking up the higher education world in many ways. Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically. Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world. Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they're free. This is certainly good news for cash-strapped students.\nThere is a lot of excitement and fear surrounding MOOCs. While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind. Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students. After all, a brain is not a computer. We are not blank hard drives waiting to be filled with data. People learn from people they love and remember the things that arouse emotion. Some critics worry that online students will miss out on the social aspects of college.",
+  "group_id": "PX-GSAT103-G06",
+  "stem": "What is the second paragraph mainly about?",
+  "options": [
+   "The impact of MOOCs.",
+   "The goal of MOOCs.",
+   "The size of MOOC classes.",
+   "The cost of MOOC courses."
+  ],
+  "answer": 0,
+  "explain_zh": "第二段主要談 MOOC 帶來大學數量可能減少、教育型態受到衝擊等影響，故選 A。B、C、D 都不是該段落討論的重點。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "impact",
+    "zh": "衝擊、影響",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-052",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "MOOC, a massive open online course, aims at providing large-scale interactive participation and open access via the web. In addition to traditional course materials such as videos, readings, and problem sets, MOOCs provide interactive user forums that help build a community for the students, professors, and teaching assistants.\nMOOCs first made waves in the fall of 2011, when Professor Sebastian Thrun from Stanford University opened his graduate-level artificial intelligence course up to any student anywhere, and 160,000 students in more than 190 countries signed up. This new breed of online classes is shaking up the higher education world in many ways. Since the courses can be taken by hundreds of thousands of students at the same time, the number of universities might decrease dramatically. Professor Thrun has even envisioned a future in which there will only need to be 10 universities in the world. Perhaps the most striking thing about MOOCs, many of which are being taught by professors at prestigious universities, is that they're free. This is certainly good news for cash-strapped students.\nThere is a lot of excitement and fear surrounding MOOCs. While some say free online courses are a great way to increase the enrollment of minority students, others have said they will leave many students behind. Some critics have said that MOOCs promote an unrealistic one-size-fits-all model of higher education and that there is no replacement for true dialogues between professors and their students. After all, a brain is not a computer. We are not blank hard drives waiting to be filled with data. People learn from people they love and remember the things that arouse emotion. Some critics worry that online students will miss out on the social aspects of college.",
+  "group_id": "PX-GSAT103-G06",
+  "stem": "Which of the following is a problem of MOOCs mentioned in the passage?",
+  "options": [
+   "The disappearance of traditional course materials.",
+   "The limited number of courses offered around the world.",
+   "The overreliance on professors from prestigious universities.",
+   "The lack of social interaction among students and professors."
+  ],
+  "answer": 3,
+  "explain_zh": "文末提到有評論者擔心線上學生會「錯失大學生活中的社交層面」，故選 D。選項 A、B、C 皆非文中提出的具體問題。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "lack",
+    "zh": "缺乏",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-053",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Today the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.\nMore and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes. Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls. It is predicted that driverless cars will be ready for sale within five years. If and when cars go completely driverless, the benefits will be enormous. Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers. If this works, huge numbers of elderly and disabled people can regain their personal mobility. The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator. People who commute by car will gain hours each day to work, rest, or read a newspaper.",
+  "group_id": "PX-GSAT103-G07",
+  "stem": "Which of the following statements is true about V2V?",
+  "options": [
+   "V2V communication has been very well developed.",
+   "Through V2V, drivers can chat with each other on the road.",
+   "V2V is designed to decrease crashes by keeping safe distances.",
+   "Through V2V, a car can warn cyclists nearby of its approach."
+  ],
+  "answer": 2,
+  "explain_zh": "文中說明 V2V 是利用無線訊號讓車輛互相知道彼此的位置、速度與方向，藉此保持安全距離、降低事故，故選 C。選項 A、B、D 都與原文描述不符或未提及。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "distance",
+    "zh": "距離",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-054",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜字",
+  "passage": "Today the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.\nMore and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes. Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls. It is predicted that driverless cars will be ready for sale within five years. If and when cars go completely driverless, the benefits will be enormous. Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers. If this works, huge numbers of elderly and disabled people can regain their personal mobility. The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator. People who commute by car will gain hours each day to work, rest, or read a newspaper.",
+  "group_id": "PX-GSAT103-G07",
+  "stem": "What does “infrastructure” in Vehicle-to-Infrastructure refer to?",
+  "options": [
+   "Traffic facilities and information systems.",
+   "The basic structure of roads and bridges.",
+   "Knowledge and regulations about safe driving.",
+   "The traffic department of the government."
+  ],
+  "answer": 0,
+  "explain_zh": "V2I 讓車輛能與路標、號誌及交通管理系統溝通，可見 infrastructure 在此指的是「交通設施與資訊系統」，故選 A。B、C、D 皆偏離了 V2I 技術實際涉及的內容。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "infrastructure",
+    "zh": "基礎設施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-055",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解（反向題）",
+  "passage": "Today the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.\nMore and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes. Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls. It is predicted that driverless cars will be ready for sale within five years. If and when cars go completely driverless, the benefits will be enormous. Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers. If this works, huge numbers of elderly and disabled people can regain their personal mobility. The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator. People who commute by car will gain hours each day to work, rest, or read a newspaper.",
+  "group_id": "PX-GSAT103-G07",
+  "stem": "Which of the following is NOT a potential benefit of driverless cars?",
+  "options": [
+   "The elderly will become more mobile.",
+   "“Drivers” can sleep in cars all the way to work.",
+   "People can race cars to their heart's content.",
+   "A blind man can get into a car and travel safely."
+  ],
+  "answer": 2,
+  "explain_zh": "文中舉的好處包括讓行動不便者恢復移動力、年輕人省下高額保費、通勤者能利用交通時間工作或休息，並沒有提到「可以盡情飆車」，故 C 不是文中所述的潛在好處，為答案。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "mobility",
+    "zh": "移動能力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT103-056",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "Today the car seems to make periodic leaps in progress. A variety of driver assistance technologies are appearing on new cars. A developing technology called Vehicle-to-Vehicle communication, or V2V, is being tested by automotive manufacturers as a way to help reduce the number of accidents. V2V works by using wireless signals to send information back and forth between cars about their location, speed and direction, so that they keep safe distances from each other. Another new technology being tested is Vehicle-to-Infrastructure communication, or V2I. V2I would allow vehicles to communicate with road signs or traffic signals and provide information to the vehicle about safety issues. V2I could also request traffic information from a traffic management system and access the best possible routes. Both V2V and V2I have the potential to reduce around 80 percent of vehicle crashes on the road.\nMore and more new cars can reverse-park, read traffic signs, maintain a safe distance in steady traffic and brake automatically to avoid crashes. Moreover, a number of firms are creating cars that drive themselves to a chosen destination without a human at the controls. It is predicted that driverless cars will be ready for sale within five years. If and when cars go completely driverless, the benefits will be enormous. Google, which already uses prototypes of such cars to ferry its staff along Californian freeways, once put a blind man in a prototype and filmed him being driven off to buy takeaway hamburgers. If this works, huge numbers of elderly and disabled people can regain their personal mobility. The young will not have to pay crippling motor insurance, because their reckless hands and feet will no longer touch the wheel or the accelerator. People who commute by car will gain hours each day to work, rest, or read a newspaper.",
+  "group_id": "PX-GSAT103-G07",
+  "stem": "What can be inferred from the passage?",
+  "options": [
+   "Cars will refuse to start if the driver is drunk.",
+   "The future may be a vehicle-accident-free era.",
+   "Everyone, including children, can afford a car.",
+   "The production of driverless cars is still far away."
+  ],
+  "answer": 1,
+  "explain_zh": "文中提到 V2V 與 V2I 有潛力減少約八成的車輛事故，可以合理推論未來車禍將大幅減少，故選 B。選項 A、C、D 都過於武斷或文中未曾提及。",
+  "source": "103學測",
+  "vocab": [
+   {
+    "w": "crash",
+    "zh": "車禍、撞擊",
+    "pos": "n."
+   }
+  ]
+ }
+]

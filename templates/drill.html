@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% set req='drill' %}
+{% block body %}
+<h1>{% if tag %}專練：{{ tag_zh }}{% else %}刷題{% endif %}</h1>
+<p class="sub">{% if tag %}這一輪只出「{{ tag_zh }}」的題目，練到熟為止。
+<a href="/drill">← 回到綜合刷題</a>{% else %}系統會自動多出你錯過的標籤、以及今天該複習的題目。
+鍵盤 1~4 選答案、Enter 下一題。{% endif %}</p>
+<div class="card">
+  <div class="row" style="margin-bottom:6px">
+    <span class="muted">練哪一項：</span>
+    <a class="btn sm {{ 'ghost' if skill }}" href="/drill?n={{ n }}">綜合</a>
+    {% for k,v in skills.items() %}
+    <a class="btn sm {{ '' if skill==k else 'ghost' }}" href="/drill?skill={{ k }}&n={{ n }}">{{ v }}</a>
+    {% endfor %}
+    <span class="spacer"></span>
+    <span class="muted">題數：</span>
+    <a class="btn sm ghost" href="/drill?skill={{ skill }}&n=10">10</a>
+    <a class="btn sm ghost" href="/drill?skill={{ skill }}&n=20">20</a>
+    <a class="btn sm ghost" href="/drill?skill={{ skill }}&n=30">30</a>
+  </div>
+</div>
+<div class="card" id="q"></div>
+<script src="/static/quiz.js"></script>
+<script>Quiz({mount:'q',url:'/api/items?n={{ n }}&skill={{ skill }}&tag={{ tag }}',mode:'drill'});</script>
+{% endblock %}

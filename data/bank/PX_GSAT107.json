@@ -1,0 +1,1444 @@
+[
+ {
+  "id": "PX-GSAT107-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:nature",
+  "tag_zh": "農產食物",
+  "stem": "Mangoes are a ____ fruit here in Taiwan; most of them reach their peak of sweetness in July.",
+  "options": [
+   "mature",
+   "usual",
+   "seasonal",
+   "particular"
+  ],
+  "answer": 2,
+  "explain_zh": "台灣的芒果在七月達到最甜的高峰期，顯示芒果是「當季」水果，故選 seasonal。mature（成熟的）、usual（平常的）、particular（特定的）皆無法表達「隨季節而有盛產期」的語意。seasonal fruit 是描述時令蔬果的常見用語。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "seasonal",
+    "zh": "當季的",
+    "pos": "adj."
+   },
+   {
+    "w": "peak",
+    "zh": "高峰、頂點",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:education",
+  "tag_zh": "課業要求",
+  "stem": "Writing term papers and giving oral reports are typical course ____ for college students.",
+  "options": [
+   "requirements",
+   "techniques",
+   "situations",
+   "principles"
+  ],
+  "answer": 0,
+  "explain_zh": "寫期末報告、做口頭報告是大學課程中典型的「要求」項目，course requirements 是固定搭配，故選 requirements。techniques（技巧）、situations（情況）、principles（原則）皆無法與 course 搭配出「課程要求」的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "requirement",
+    "zh": "要求",
+    "pos": "n."
+   },
+   {
+    "w": "oral",
+    "zh": "口頭的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:daily-life",
+  "tag_zh": "人生目標",
+  "stem": "If we work hard to ____ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+  "options": [
+   "distribute",
+   "fulfill",
+   "convince",
+   "monitor"
+  ],
+  "answer": 1,
+  "explain_zh": "年輕時努力「實現」夢想，年老後就不會有錯過什麼的遺憾，故選 fulfill。distribute（分配）、convince（說服）、monitor（監控）皆無法與 dreams 搭配出「實現夢想」的語意。fulfill one's dream 是常見的固定搭配。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "fulfill",
+    "zh": "實現",
+    "pos": "v."
+   },
+   {
+    "w": "miss out on",
+    "zh": "錯過",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "人際誠信",
+  "stem": "Few people will trust you if you continue making ____ promises and never make efforts to keep them.",
+  "options": [
+   "chilly",
+   "liberal",
+   "hollow",
+   "definite"
+  ],
+  "answer": 2,
+  "explain_zh": "不斷許下卻從不努力兌現的承諾是「空洞的」，hollow promises 是固定搭配，故選 hollow。chilly（寒冷的）、liberal（開放的、自由派的）、definite（明確的，語意上與「空洞」相反）皆不符合語境。hollow 常用來形容缺乏誠意或內容空泛的事物。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "hollow",
+    "zh": "空洞的",
+    "pos": "adj."
+   },
+   {
+    "w": "promise",
+    "zh": "承諾",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "運動傷害",
+  "stem": "Becky ____ her ankle while she was playing tennis last week. Now it still hurts badly.",
+  "options": [
+   "slipped",
+   "dumped",
+   "twisted",
+   "recovered"
+  ],
+  "answer": 2,
+  "explain_zh": "貝琪上週打網球時「扭傷」腳踝，至今仍然很痛，故選 twisted。slipped（滑倒）、dumped（傾倒、拋棄）、recovered（康復，與後句「仍然很痛」矛盾）皆不符合語境。twist one's ankle 是描述運動傷害的常見固定搭配。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "twist",
+    "zh": "扭傷",
+    "pos": "v."
+   },
+   {
+    "w": "ankle",
+    "zh": "腳踝",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "兩性議題",
+  "stem": "Research shows that men and women usually think differently. For example, they have quite different ____ about what marriage means in their life.",
+  "options": [
+   "decisions",
+   "beliefs",
+   "styles",
+   "degrees"
+  ],
+  "answer": 1,
+  "explain_zh": "研究顯示男女思考方式不同，對婚姻的意義也有不同的「看法」，故選 beliefs。decisions（決定）、styles（風格）、degrees（程度）皆無法表達「對某事的觀念、信念」。beliefs about 是常見的固定搭配。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "belief",
+    "zh": "看法、信念",
+    "pos": "n."
+   },
+   {
+    "w": "marriage",
+    "zh": "婚姻",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "職場管理",
+  "stem": "The new manager is very ____. For instance, the employees are given much shorter deadlines for the same tasks than before.",
+  "options": [
+   "persuasive",
+   "tolerable",
+   "suspicious",
+   "demanding"
+  ],
+  "answer": 3,
+  "explain_zh": "新經理讓員工在同樣任務上有更短的期限，顯示他對員工「要求嚴格」，故選 demanding。persuasive（有說服力的）、tolerable（可忍受的）、suspicious（多疑的）皆無法形容「要求高」的管理風格。demanding 常用來形容標準嚴苛的上司或工作。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "demanding",
+    "zh": "要求嚴格的",
+    "pos": "adj."
+   },
+   {
+    "w": "deadline",
+    "zh": "截止期限",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:emotion",
+  "tag_zh": "情緒反應",
+  "stem": "While the couple were looking ____ for their missing children, the kids were actually having fun in the woods nearby.",
+  "options": [
+   "anxiously",
+   "precisely",
+   "evidently",
+   "distinctly"
+  ],
+  "answer": 0,
+  "explain_zh": "夫妻「焦急地」尋找失蹤的孩子，其實孩子正在附近樹林裡玩得開心，故選 anxiously。precisely（精確地）、evidently（顯然地）、distinctly（清楚地）皆無法表達「焦慮擔心」的心情。look anxiously for 常用來描述心急如焚地尋找。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "anxiously",
+    "zh": "焦急地",
+    "pos": "adv."
+   },
+   {
+    "w": "missing",
+    "zh": "失蹤的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:daily-life",
+  "tag_zh": "公眾活動",
+  "stem": "After delivering a very powerful speech, the award winner was ____ by a group of fans asking for her signature.",
+  "options": [
+   "deposited",
+   "reserved",
+   "vanished",
+   "surrounded"
+  ],
+  "answer": 3,
+  "explain_zh": "得獎者發表精彩演說後，被一群想要簽名的粉絲「包圍」，故選 surrounded。deposited（存放）、reserved（保留）、vanished（消失，且不及物動詞不能用被動）皆不符合語境。be surrounded by 常用來描述被人群圍繞的情景。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "surround",
+    "zh": "包圍",
+    "pos": "v."
+   },
+   {
+    "w": "signature",
+    "zh": "簽名",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "求職面試",
+  "stem": "The interviewees were trying very hard to ____ the interviewers that they were very capable and should be given the job.",
+  "options": [
+   "credit",
+   "impress",
+   "relieve",
+   "acquire"
+  ],
+  "answer": 1,
+  "explain_zh": "應徵者努力想讓面試官對自己「留下好印象」，證明自己有能力勝任，故選 impress。credit（歸功於）、relieve（減輕）、acquire（獲得）皆無法與 the interviewers 搭配出「留下印象」的語意。impress sb 是求職情境中常見的動詞。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "impress",
+    "zh": "使留下印象",
+    "pos": "v."
+   },
+   {
+    "w": "capable",
+    "zh": "有能力的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:nature",
+  "tag_zh": "自然景象",
+  "stem": "After the first snow of the year, the entire grassland disappeared under a ____ of snow.",
+  "options": [
+   "flake",
+   "blossom",
+   "blanket",
+   "flash"
+  ],
+  "answer": 2,
+  "explain_zh": "初雪過後，整片草原被「一層」雪覆蓋消失不見，a blanket of snow 是固定搭配，表示如毯子般覆蓋的積雪，故選 blanket。flake（雪花，單指一片）、blossom（花朵）、flash（閃光）皆無法與 of snow 搭配出此固定用法。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "blanket",
+    "zh": "一層、毯子",
+    "pos": "n."
+   },
+   {
+    "w": "grassland",
+    "zh": "草原",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:education",
+  "tag_zh": "書籍閱讀",
+  "stem": "Peter likes books with wide ____, which provide him with enough space to write notes.",
+  "options": [
+   "angles",
+   "margins",
+   "exceptions",
+   "limitations"
+  ],
+  "answer": 1,
+  "explain_zh": "彼得喜歡「留白邊」寬的書，這樣才有足夠空間寫筆記，故選 margins。angles（角度）、exceptions（例外）、limitations（限制）皆無法形容書頁上的空白邊緣。margin 專指頁面邊緣的空白處，是常考的閱讀相關字彙。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "margin",
+    "zh": "（書頁的）留白邊",
+    "pos": "n."
+   },
+   {
+    "w": "provide",
+    "zh": "提供",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:education",
+  "tag_zh": "校規獎懲",
+  "stem": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a ____.",
+  "options": [
+   "hardship",
+   "comment",
+   "bargain",
+   "penalty"
+  ],
+  "answer": 3,
+  "explain_zh": "學期初老師就告知遲交作業會被扣分作為一種「處罰」，故選 penalty。hardship（艱辛）、comment（評論）、bargain（交易）皆無法形容「違規後的懲處」。penalty 常用於描述規則之下的處罰措施。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "penalty",
+    "zh": "處罰",
+    "pos": "n."
+   },
+   {
+    "w": "assignment",
+    "zh": "作業",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "醫學研究",
+  "stem": "Various studies have been ____ in this hospital to explore the link between a high-fat diet and cancer.",
+  "options": [
+   "conducted",
+   "confirmed",
+   "implied",
+   "improved"
+  ],
+  "answer": 0,
+  "explain_zh": "這間醫院「進行」多項研究以探討高脂飲食與癌症的關聯，conduct a study 是固定搭配，故選 conducted。confirmed（證實）、implied（暗示）、improved（改善）皆無法與 studies 搭配出「進行研究」的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "conduct",
+    "zh": "進行",
+    "pos": "v."
+   },
+   {
+    "w": "link",
+    "zh": "關聯",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:nature",
+  "tag_zh": "災害新聞",
+  "stem": "Intense, fast-moving fires raged across much of California last week. The ____ firestorm has claimed the lives of thirty people.",
+  "options": [
+   "efficient",
+   "reliable",
+   "massive",
+   "adequate"
+  ],
+  "answer": 2,
+  "explain_zh": "加州野火迅速蔓延，奪走三十條人命的是規模「巨大的」火災風暴，故選 massive。efficient（有效率的）、reliable（可靠的）、adequate（足夠的）皆無法形容火災的規模程度。massive 常用於形容災害或事件的嚴重規模。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "massive",
+    "zh": "巨大的",
+    "pos": "adj."
+   },
+   {
+    "w": "firestorm",
+    "zh": "火災風暴",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "比較句型",
+  "passage": "It has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is (16) a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged.\nIt is believed that taking breaks from a problem can help (17) a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to (18) all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, (19) it can subconsciously puzzle over subtle meanings and connections.\nAnother way to increase creativity is to take risks. This is because many breakthroughs come up when people venture (20) their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+  "group_id": "PX-GSAT107-G01",
+  "stem": "(16) 應填入：Creativity is ____ a sign of rare genius than a natural human potential.",
+  "options": [
+   "more",
+   "less",
+   "better",
+   "worse"
+  ],
+  "answer": 1,
+  "explain_zh": "此句為「less A than B」句型，表示「與其說是A，不如說是B」，說明創意較不是稀有天才的特質，反而更接近人人皆具備的潛能，故選 less。more、better、worse 皆無法與 than 搭配出此固定比較句型的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "genius",
+    "zh": "天才",
+    "pos": "n."
+   },
+   {
+    "w": "potential",
+    "zh": "潛能",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "It has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is (16) a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged.\nIt is believed that taking breaks from a problem can help (17) a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to (18) all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, (19) it can subconsciously puzzle over subtle meanings and connections.\nAnother way to increase creativity is to take risks. This is because many breakthroughs come up when people venture (20) their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+  "group_id": "PX-GSAT107-G01",
+  "stem": "(17) 應填入：Taking breaks from a problem can help ____ a moment of insight or stimulate new ideas.",
+  "options": [
+   "spark",
+   "carve",
+   "drill",
+   "grind"
+  ],
+  "answer": 0,
+  "explain_zh": "暫時放下問題休息一下，有助於「激發」頓悟的瞬間或刺激新點子，故選 spark。carve（雕刻）、drill（鑽孔、反覆練習）、grind（磨碎）皆無法與 a moment of insight 搭配出「激發靈感」的語意。spark 常用於描述引發想法或行動的開端。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "spark",
+    "zh": "激發",
+    "pos": "v."
+   },
+   {
+    "w": "insight",
+    "zh": "洞察、頓悟",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "片語動詞",
+  "passage": "It has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is (16) a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged.\nIt is believed that taking breaks from a problem can help (17) a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to (18) all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, (19) it can subconsciously puzzle over subtle meanings and connections.\nAnother way to increase creativity is to take risks. This is because many breakthroughs come up when people venture (20) their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+  "group_id": "PX-GSAT107-G01",
+  "stem": "(18) 應填入：Companies encourage their employees to ____ all sorts of relaxing activities.",
+  "options": [
+   "refer to",
+   "answer for",
+   "take part in",
+   "put up with"
+  ],
+  "answer": 2,
+  "explain_zh": "3M、Google 等成功企業鼓勵員工「參與」各種放鬆活動，例如打彈珠台或在園區閒晃，故選 take part in。refer to（提及）、answer for（負責）、put up with（忍受）皆無法與 relaxing activities 搭配出「參與活動」的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "take part in",
+    "zh": "參與",
+    "pos": "phr."
+   },
+   {
+    "w": "unconventional",
+    "zh": "非傳統的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "關係副詞",
+  "passage": "It has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is (16) a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged.\nIt is believed that taking breaks from a problem can help (17) a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to (18) all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, (19) it can subconsciously puzzle over subtle meanings and connections.\nAnother way to increase creativity is to take risks. This is because many breakthroughs come up when people venture (20) their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+  "group_id": "PX-GSAT107-G01",
+  "stem": "(19) 應填入：During such breaks, the mind turns inward, ____ it can subconsciously puzzle over subtle meanings and connections.",
+  "options": [
+   "if",
+   "but",
+   "where",
+   "which"
+  ],
+  "answer": 2,
+  "explain_zh": "休息時心思轉向內在，「在那樣的狀態下」大腦能潛意識思索細微的意義與關聯，where 在此作關係副詞承接前述的心境狀態，故選 where。if（如果）、but（但是）、which（用於修飾名詞而非狀態）皆無法承接此語意脈絡。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "subconsciously",
+    "zh": "潛意識地",
+    "pos": "adv."
+   },
+   {
+    "w": "puzzle over",
+    "zh": "思索",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "介系詞",
+  "passage": "It has long been assumed that creativity is some unusual trait enjoyed by the few. However, according to a wide array of scientific and sociological research, creativity is (16) a sign of rare genius than a natural human potential. Thus, it can be nurtured and encouraged.\nIt is believed that taking breaks from a problem can help (17) a moment of insight or stimulate new ideas. Unconventional solutions can also be explored. That is why some of the most successful companies in the world, such as 3M and Google, encourage their employees to (18) all sorts of relaxing activities, such as playing pinball and wandering about the campus. During such breaks, the mind turns inward, (19) it can subconsciously puzzle over subtle meanings and connections.\nAnother way to increase creativity is to take risks. This is because many breakthroughs come up when people venture (20) their usual routines or areas of expertise. This can be done by, for example, learning new skills or traveling to new countries.",
+  "group_id": "PX-GSAT107-G01",
+  "stem": "(20) 應填入：Many breakthroughs come up when people venture ____ their usual routines or areas of expertise.",
+  "options": [
+   "into",
+   "without",
+   "under",
+   "beyond"
+  ],
+  "answer": 3,
+  "explain_zh": "許多突破常出現在人們冒險「超越」日常慣例或專業領域之外時，venture beyond 表示冒險跨出既有範圍，故選 beyond。into（進入）、without（沒有）、under（在……之下）皆無法與 usual routines 搭配出「超越、跳脫」的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "venture",
+    "zh": "冒險嘗試",
+    "pos": "v."
+   },
+   {
+    "w": "breakthrough",
+    "zh": "突破",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-021",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "讓步連接詞",
+  "passage": "Hair usually gets greasy when it has not been washed because it soaks up oil—hence the need for shampoo! (21) this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.\nMatter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable (22): human hair, of which there is an unlimited supply. Since its founding in 1998, Matter of Trust has collected donations of human hair and animal fur to (23) the thousands of oil spills that happen each year. The hair and fur are made into mats and brooms and sent to (24) waters to absorb the oil.\nAcross the United States each day, 300,000 pounds of hair and fur are cut. Matter of Trust is helping organize the collection of this (25) hair and fur through thousands of salons, pet groomers, and ranchers. Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur.",
+  "group_id": "PX-GSAT107-G02",
+  "stem": "(21) 應填入：____ this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.",
+  "options": [
+   "For",
+   "While",
+   "In case",
+   "As long as"
+  ],
+  "answer": 1,
+  "explain_zh": "頭髮吸油的特性雖對個人衛生未必理想，「但」對環境卻有幫助，While 在此表達前後對比的讓步關係，故選 While。For（因為）、In case（以防萬一）、As long as（只要）皆無法表達此種轉折對比的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "hygiene",
+    "zh": "衛生",
+    "pos": "n."
+   },
+   {
+    "w": "absorb",
+    "zh": "吸收",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-022",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Hair usually gets greasy when it has not been washed because it soaks up oil—hence the need for shampoo! (21) this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.\nMatter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable (22): human hair, of which there is an unlimited supply. Since its founding in 1998, Matter of Trust has collected donations of human hair and animal fur to (23) the thousands of oil spills that happen each year. The hair and fur are made into mats and brooms and sent to (24) waters to absorb the oil.\nAcross the United States each day, 300,000 pounds of hair and fur are cut. Matter of Trust is helping organize the collection of this (25) hair and fur through thousands of salons, pet groomers, and ranchers. Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur.",
+  "group_id": "PX-GSAT107-G02",
+  "stem": "(22) 應填入：Matter of Trust has an innovative solution using the ultimate renewable ____: human hair.",
+  "options": [
+   "equipment",
+   "ingredient",
+   "product",
+   "resource"
+  ],
+  "answer": 3,
+  "explain_zh": "人類頭髮數量無窮無盡，是終極的可再生「資源」，故選 resource。equipment（設備）、ingredient（成分，通常指食物或化學組成）、product（產品）皆無法準確表達「天然資源」的概念。renewable resource 是常見的環保用語。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "resource",
+    "zh": "資源",
+    "pos": "n."
+   },
+   {
+    "w": "renewable",
+    "zh": "可再生的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-023",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "片語動詞",
+  "passage": "Hair usually gets greasy when it has not been washed because it soaks up oil—hence the need for shampoo! (21) this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.\nMatter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable (22): human hair, of which there is an unlimited supply. Since its founding in 1998, Matter of Trust has collected donations of human hair and animal fur to (23) the thousands of oil spills that happen each year. The hair and fur are made into mats and brooms and sent to (24) waters to absorb the oil.\nAcross the United States each day, 300,000 pounds of hair and fur are cut. Matter of Trust is helping organize the collection of this (25) hair and fur through thousands of salons, pet groomers, and ranchers. Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur.",
+  "group_id": "PX-GSAT107-G02",
+  "stem": "(23) 應填入：Matter of Trust has collected donations of human hair and animal fur to ____ the thousands of oil spills that happen each year.",
+  "options": [
+   "get away with",
+   "clean up after",
+   "run out of",
+   "look down upon"
+  ],
+  "answer": 1,
+  "explain_zh": "Matter of Trust 收集毛髮和獸毛，是為了「清理」每年發生的數千起漏油事件，clean up after 表示收拾善後，故選 clean up after。get away with（逃避懲罰）、run out of（用完）、look down upon（輕視）皆不符合此語境。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "clean up after",
+    "zh": "清理善後",
+    "pos": "phr."
+   },
+   {
+    "w": "oil spill",
+    "zh": "漏油事件",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-024",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "分詞當形容詞",
+  "passage": "Hair usually gets greasy when it has not been washed because it soaks up oil—hence the need for shampoo! (21) this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.\nMatter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable (22): human hair, of which there is an unlimited supply. Since its founding in 1998, Matter of Trust has collected donations of human hair and animal fur to (23) the thousands of oil spills that happen each year. The hair and fur are made into mats and brooms and sent to (24) waters to absorb the oil.\nAcross the United States each day, 300,000 pounds of hair and fur are cut. Matter of Trust is helping organize the collection of this (25) hair and fur through thousands of salons, pet groomers, and ranchers. Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur.",
+  "group_id": "PX-GSAT107-G02",
+  "stem": "(24) 應填入：The hair and fur are made into mats and brooms and sent to ____ waters to absorb the oil.",
+  "options": [
+   "pollute",
+   "polluting",
+   "polluted",
+   "pollution"
+  ],
+  "answer": 2,
+  "explain_zh": "毛髮製成的墊子被送往「受污染的」水域吸油，此處用過去分詞 polluted 當形容詞修飾 waters，表示「被污染的」，故選 polluted。pollute（原形動詞）、polluting（現在分詞，表主動污染）、pollution（名詞）皆不符合文法位置，需要形容詞修飾名詞。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "polluted",
+    "zh": "受污染的",
+    "pos": "adj."
+   },
+   {
+    "w": "absorb",
+    "zh": "吸收",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-025",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Hair usually gets greasy when it has not been washed because it soaks up oil—hence the need for shampoo! (21) this oil-absorbing feature might not always be so great for our hygiene, it can be great for the environment.\nMatter of Trust, a nonprofit organization, has an innovative solution for removing the large-scale oil spill in the Gulf of Mexico in 2010, using the ultimate renewable (22): human hair, of which there is an unlimited supply. Since its founding in 1998, Matter of Trust has collected donations of human hair and animal fur to (23) the thousands of oil spills that happen each year. The hair and fur are made into mats and brooms and sent to (24) waters to absorb the oil.\nAcross the United States each day, 300,000 pounds of hair and fur are cut. Matter of Trust is helping organize the collection of this (25) hair and fur through thousands of salons, pet groomers, and ranchers. Individuals can also speak to local hair stylists and pet groomers about sending in leftover hair and fur.",
+  "group_id": "PX-GSAT107-G02",
+  "stem": "(25) 應填入：Matter of Trust is helping organize the collection of this ____ hair and fur through salons and pet groomers.",
+  "options": [
+   "unneeded",
+   "overthrown",
+   "excluded",
+   "disconnected"
+  ],
+  "answer": 0,
+  "explain_zh": "美髮沙龍與寵物美容院剪下的頭髮和獸毛是「不需要的」廢棄物，正好可以回收再利用，故選 unneeded。overthrown（被推翻的）、excluded（被排除的）、disconnected（被切斷連結的）皆無法形容「多餘廢棄」的頭髮。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "unneeded",
+    "zh": "不需要的",
+    "pos": "adj."
+   },
+   {
+    "w": "donation",
+    "zh": "捐贈",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-026",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "疑問詞子句",
+  "passage": "You must have had this kind of experience: While in the middle of a normal dream, you suddenly realize that you are dreaming. This kind of dream is called a “lucid dream.” The term “lucid” means clear; lucid dreamers know that they are dreaming and (26) they are dreaming of. It is different from daydreaming. When a person is having a lucid dream, the person's body is (27); when a person daydreams, his/her body is awake. Thus, daydreams are really just waking thoughts. In lucid dreams, however, we are completely immersed in the dream world.\nYet, lucid dreaming is (28) just having a clear dream. It is your chance to play around with the extraordinary abilities buried in unused parts of your brain. (29), it is a way for you to put the deepest areas of your brain to good use while you're sleeping. You can be an everyday Jane Doe or John Smith while awake but a superhero while sleeping, (30) who you are in real life. All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+  "group_id": "PX-GSAT107-G03",
+  "stem": "(26) 應填入：Lucid dreamers know that they are dreaming and ____ they are dreaming of.",
+  "options": [
+   "what",
+   "why",
+   "when",
+   "which"
+  ],
+  "answer": 0,
+  "explain_zh": "清明夢者不僅知道自己在做夢，還知道自己「夢到什麼」，know what they are dreaming of 為固定用法，故選 what。why（為什麼）、when（何時）、which（哪一個）皆無法準確表達「夢的內容是什麼」的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "lucid dream",
+    "zh": "清明夢",
+    "pos": "n."
+   },
+   {
+    "w": "term",
+    "zh": "術語",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-027",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "You must have had this kind of experience: While in the middle of a normal dream, you suddenly realize that you are dreaming. This kind of dream is called a “lucid dream.” The term “lucid” means clear; lucid dreamers know that they are dreaming and (26) they are dreaming of. It is different from daydreaming. When a person is having a lucid dream, the person's body is (27); when a person daydreams, his/her body is awake. Thus, daydreams are really just waking thoughts. In lucid dreams, however, we are completely immersed in the dream world.\nYet, lucid dreaming is (28) just having a clear dream. It is your chance to play around with the extraordinary abilities buried in unused parts of your brain. (29), it is a way for you to put the deepest areas of your brain to good use while you're sleeping. You can be an everyday Jane Doe or John Smith while awake but a superhero while sleeping, (30) who you are in real life. All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+  "group_id": "PX-GSAT107-G03",
+  "stem": "(27) 應填入：When a person is having a lucid dream, the person's body is ____.",
+  "options": [
+   "apart",
+   "absent",
+   "alone",
+   "asleep"
+  ],
+  "answer": 3,
+  "explain_zh": "做清明夢時，身體其實仍處於「熟睡」狀態，與白日夢時身體清醒形成對比，故選 asleep。apart（分開的）、absent（缺席的）、alone（獨自的）皆無法形容身體的睡眠狀態。asleep 常用於描述入睡的狀態。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "asleep",
+    "zh": "睡著的",
+    "pos": "adj."
+   },
+   {
+    "w": "daydream",
+    "zh": "做白日夢",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-028",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定片語",
+  "passage": "You must have had this kind of experience: While in the middle of a normal dream, you suddenly realize that you are dreaming. This kind of dream is called a “lucid dream.” The term “lucid” means clear; lucid dreamers know that they are dreaming and (26) they are dreaming of. It is different from daydreaming. When a person is having a lucid dream, the person's body is (27); when a person daydreams, his/her body is awake. Thus, daydreams are really just waking thoughts. In lucid dreams, however, we are completely immersed in the dream world.\nYet, lucid dreaming is (28) just having a clear dream. It is your chance to play around with the extraordinary abilities buried in unused parts of your brain. (29), it is a way for you to put the deepest areas of your brain to good use while you're sleeping. You can be an everyday Jane Doe or John Smith while awake but a superhero while sleeping, (30) who you are in real life. All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+  "group_id": "PX-GSAT107-G03",
+  "stem": "(28) 應填入：Yet, lucid dreaming is ____ just having a clear dream.",
+  "options": [
+   "related to",
+   "aside from",
+   "more than",
+   "nothing but"
+  ],
+  "answer": 2,
+  "explain_zh": "清明夢「不只是」單純做一個清晰的夢而已，還蘊藏更多可能性，more than 表示「不僅僅是」，故選 more than。related to（與……有關）、aside from（除了）、nothing but（僅僅是，與句意相反）皆不符合此處強調「超越表面」的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "more than",
+    "zh": "不只是",
+    "pos": "phr."
+   },
+   {
+    "w": "extraordinary",
+    "zh": "非凡的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-029",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "承接語",
+  "passage": "You must have had this kind of experience: While in the middle of a normal dream, you suddenly realize that you are dreaming. This kind of dream is called a “lucid dream.” The term “lucid” means clear; lucid dreamers know that they are dreaming and (26) they are dreaming of. It is different from daydreaming. When a person is having a lucid dream, the person's body is (27); when a person daydreams, his/her body is awake. Thus, daydreams are really just waking thoughts. In lucid dreams, however, we are completely immersed in the dream world.\nYet, lucid dreaming is (28) just having a clear dream. It is your chance to play around with the extraordinary abilities buried in unused parts of your brain. (29), it is a way for you to put the deepest areas of your brain to good use while you're sleeping. You can be an everyday Jane Doe or John Smith while awake but a superhero while sleeping, (30) who you are in real life. All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+  "group_id": "PX-GSAT107-G03",
+  "stem": "(29) 應填入：____, it is a way for you to put the deepest areas of your brain to good use while you're sleeping.",
+  "options": [
+   "In other words",
+   "By no means",
+   "At any cost",
+   "On the contrary"
+  ],
+  "answer": 0,
+  "explain_zh": "前句說清明夢能運用大腦未開發的能力，後句進一步「換句話說」，指出這是善用深層腦力的方式，故選 In other words。By no means（絕不）、At any cost（不惜代價）、On the contrary（相反地）皆無法承接此種同義轉述的語意關係。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "in other words",
+    "zh": "換句話說",
+    "pos": "phr."
+   },
+   {
+    "w": "put to good use",
+    "zh": "善加利用",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-030",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "固定片語",
+  "passage": "You must have had this kind of experience: While in the middle of a normal dream, you suddenly realize that you are dreaming. This kind of dream is called a “lucid dream.” The term “lucid” means clear; lucid dreamers know that they are dreaming and (26) they are dreaming of. It is different from daydreaming. When a person is having a lucid dream, the person's body is (27); when a person daydreams, his/her body is awake. Thus, daydreams are really just waking thoughts. In lucid dreams, however, we are completely immersed in the dream world.\nYet, lucid dreaming is (28) just having a clear dream. It is your chance to play around with the extraordinary abilities buried in unused parts of your brain. (29), it is a way for you to put the deepest areas of your brain to good use while you're sleeping. You can be an everyday Jane Doe or John Smith while awake but a superhero while sleeping, (30) who you are in real life. All the obstacles of reality can be set aside and you are able to accomplish tasks that you could never manage in waking reality.",
+  "group_id": "PX-GSAT107-G03",
+  "stem": "(30) 應填入：You can be an everyday Jane Doe or John Smith while awake but a superhero while sleeping, ____ who you are in real life.",
+  "options": [
+   "such as",
+   "regardless of",
+   "with respect to",
+   "on behalf of"
+  ],
+  "answer": 1,
+  "explain_zh": "清醒時你可能只是平凡人，但入睡後「不論」現實中你是誰，都能化身超級英雄，regardless of 表示「不管、不論」，故選 regardless of。such as（例如）、with respect to（關於）、on behalf of（代表）皆無法表達此種「不受限制」的語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "regardless of",
+    "zh": "不論",
+    "pos": "phr."
+   },
+   {
+    "w": "obstacle",
+    "zh": "阻礙",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-041",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "For more than two hundred years, the White House has stood as a symbol of the United States Presidency, the U.S. government, and the American people. In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.” As preparations began, a competition was held to find a builder of the “President's House.” Nine proposals were submitted, and the Irish-born architect James Hoban won the gold medal for his practical and handsome design. Construction began when the first cornerstone was laid in October of 1792. Although President Washington oversaw the construction of the house, he never lived in it. It was not until 1800, when the White House was nearly completed, that its first residents, President John Adams and his wife Abigail, moved in.\nAmerican presidents can express their individual style in how they decorate the house and in how they receive the public. Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home. President Jefferson also opened the house for public tours, and it has remained open, except during wartime, ever since. In addition, Jefferson welcomed visitors to annual receptions on New Year's Day and on the Fourth of July. Abraham Lincoln did the same, but then the inaugural crowds became far too large for the White House to accommodate comfortably, and this also created a security issue. It was not until Grover Cleveland's first presidency that some effective crowd control measures were implemented to address the problem caused by this practice.\nAt various times in history, the White House has been known as the “President's Palace,” the “President's House,” and the “Executive Mansion.” President Theodore Roosevelt officially gave the White House its current name in 1901.",
+  "group_id": "PX-GSAT107-G04",
+  "stem": "What is this passage mainly about?",
+  "options": [
+   "The design of the White House.",
+   "The location of the White House.",
+   "The importance of the White House.",
+   "The history of the White House."
+  ],
+  "answer": 3,
+  "explain_zh": "全文依時間順序介紹白宮從興建、遷入、開放參觀到正式命名的歷史發展，故選 D。選項 A、B 只涵蓋設計或地點等局部細節，C 泛指象徵意義，範圍過於籠統，皆非通篇主旨。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "symbol",
+    "zh": "象徵",
+    "pos": "n."
+   },
+   {
+    "w": "construction",
+    "zh": "建造",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-042",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指涉判斷",
+  "passage": "For more than two hundred years, the White House has stood as a symbol of the United States Presidency, the U.S. government, and the American people. In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.” As preparations began, a competition was held to find a builder of the “President's House.” Nine proposals were submitted, and the Irish-born architect James Hoban won the gold medal for his practical and handsome design. Construction began when the first cornerstone was laid in October of 1792. Although President Washington oversaw the construction of the house, he never lived in it. It was not until 1800, when the White House was nearly completed, that its first residents, President John Adams and his wife Abigail, moved in.\nAmerican presidents can express their individual style in how they decorate the house and in how they receive the public. Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home. President Jefferson also opened the house for public tours, and it has remained open, except during wartime, ever since. In addition, Jefferson welcomed visitors to annual receptions on New Year's Day and on the Fourth of July. Abraham Lincoln did the same, but then the inaugural crowds became far too large for the White House to accommodate comfortably, and this also created a security issue. It was not until Grover Cleveland's first presidency that some effective crowd control measures were implemented to address the problem caused by this practice.\nAt various times in history, the White House has been known as the “President's Palace,” the “President's House,” and the “Executive Mansion.” President Theodore Roosevelt officially gave the White House its current name in 1901.",
+  "group_id": "PX-GSAT107-G04",
+  "stem": "What does “this practice” refer to in the second paragraph?",
+  "options": [
+   "Holding an inaugural open house.",
+   "Accommodating the crowds comfortably.",
+   "Decorating the White House.",
+   "Joining in the swearing-in ceremony."
+  ],
+  "answer": 0,
+  "explain_zh": "this practice 承接前文「總統就職後開放官邸供民眾參觀」的做法，導致後來人潮過多造成安全問題，故選 A。選項 B、C、D 皆非前句描述的「做法」本身，而是其結果或其他細節。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "practice",
+    "zh": "做法、慣例",
+    "pos": "n."
+   },
+   {
+    "w": "inaugural",
+    "zh": "就職的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-043",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "For more than two hundred years, the White House has stood as a symbol of the United States Presidency, the U.S. government, and the American people. In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.” As preparations began, a competition was held to find a builder of the “President's House.” Nine proposals were submitted, and the Irish-born architect James Hoban won the gold medal for his practical and handsome design. Construction began when the first cornerstone was laid in October of 1792. Although President Washington oversaw the construction of the house, he never lived in it. It was not until 1800, when the White House was nearly completed, that its first residents, President John Adams and his wife Abigail, moved in.\nAmerican presidents can express their individual style in how they decorate the house and in how they receive the public. Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home. President Jefferson also opened the house for public tours, and it has remained open, except during wartime, ever since. In addition, Jefferson welcomed visitors to annual receptions on New Year's Day and on the Fourth of July. Abraham Lincoln did the same, but then the inaugural crowds became far too large for the White House to accommodate comfortably, and this also created a security issue. It was not until Grover Cleveland's first presidency that some effective crowd control measures were implemented to address the problem caused by this practice.\nAt various times in history, the White House has been known as the “President's Palace,” the “President's House,” and the “Executive Mansion.” President Theodore Roosevelt officially gave the White House its current name in 1901.",
+  "group_id": "PX-GSAT107-G04",
+  "stem": "Who initiated the construction of the White House?",
+  "options": [
+   "John Adams.",
+   "James Hoban.",
+   "George Washington.",
+   "Thomas Jefferson."
+  ],
+  "answer": 2,
+  "explain_zh": "喬治華盛頓總統宣布建都地點並主導白宮興建的前置作業，是發起興建的關鍵人物，故選 C。James Hoban 只是獲選的建築設計師、Adams 是首位入住者、Jefferson 則是開放參觀的推手，皆非發起興建者。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "initiate",
+    "zh": "發起",
+    "pos": "v."
+   },
+   {
+    "w": "oversee",
+    "zh": "監督",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-044",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解（反向題）",
+  "passage": "For more than two hundred years, the White House has stood as a symbol of the United States Presidency, the U.S. government, and the American people. In 1790, President George Washington declared that the federal government would reside in a district “not exceeding ten miles square … on the river Potomac.” As preparations began, a competition was held to find a builder of the “President's House.” Nine proposals were submitted, and the Irish-born architect James Hoban won the gold medal for his practical and handsome design. Construction began when the first cornerstone was laid in October of 1792. Although President Washington oversaw the construction of the house, he never lived in it. It was not until 1800, when the White House was nearly completed, that its first residents, President John Adams and his wife Abigail, moved in.\nAmerican presidents can express their individual style in how they decorate the house and in how they receive the public. Thomas Jefferson held the first inaugural open house in 1805; many of those who attended the swearing-in ceremony at the U.S. Capitol simply followed him home. President Jefferson also opened the house for public tours, and it has remained open, except during wartime, ever since. In addition, Jefferson welcomed visitors to annual receptions on New Year's Day and on the Fourth of July. Abraham Lincoln did the same, but then the inaugural crowds became far too large for the White House to accommodate comfortably, and this also created a security issue. It was not until Grover Cleveland's first presidency that some effective crowd control measures were implemented to address the problem caused by this practice.\nAt various times in history, the White House has been known as the “President's Palace,” the “President's House,” and the “Executive Mansion.” President Theodore Roosevelt officially gave the White House its current name in 1901.",
+  "group_id": "PX-GSAT107-G04",
+  "stem": "According to the passage, which of the following is NOT true about the White House?",
+  "options": [
+   "The White House has had several names.",
+   "The designer of the White House was an American president.",
+   "People were not allowed to visit the White House during wartime.",
+   "The White House is located in a district not larger than ten miles square."
+  ],
+  "answer": 1,
+  "explain_zh": "白宮的設計者是愛爾蘭裔建築師 James Hoban，並非美國總統，選項 B 的敘述錯誤，故為答案。選項 A（曾有多個名稱）、C（戰時不開放參觀）、D（特區面積不超過十平方英里）皆與原文相符，非本題答案。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "designer",
+    "zh": "設計者",
+    "pos": "n."
+   },
+   {
+    "w": "district",
+    "zh": "特區",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-045",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "West Nile is a tropical disease that begins in birds, which pass it on to mosquitoes that then go on to infect human beings with a bite. Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite. About 1 in 5 persons suffers fever, headaches, and body aches, usually lasting a week or so. A far less lucky 1 in 150 experiences high fever, tremors, paralysis, and coma. Some—especially the elderly and those with weak immune systems—die.\nThat is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary. The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200. The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.\nWhy was the summer of 2012 so hospitable to the West Nile virus and the mosquitoes that carry it? Blame the weather. An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle. The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.\nThe severity of tropical diseases is also a matter of whether governments are capable—and willing—to defend their populations against infections. Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease. Tropical infections are thus as much related to government inaction as they are to climate.",
+  "group_id": "PX-GSAT107-G05",
+  "stem": "What is this passage mainly about?",
+  "options": [
+   "West Nile and methods to fight it.",
+   "West Nile and governmental efficiency.",
+   "West Nile and the conditions its virus thrives in.",
+   "West Nile and its relation to tropical diseases."
+  ],
+  "answer": 2,
+  "explain_zh": "全文說明氣候（暖冬、酷夏）與經濟因素（廢棄泳池成孳生地）如何共同助長 2012 年西尼羅病毒疫情，主軸是病毒「滋生的環境條件」，故選 C。選項 A、B、D 都只涵蓋部分內容，並非全文核心。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "thrive",
+    "zh": "滋長、興盛",
+    "pos": "v."
+   },
+   {
+    "w": "outbreak",
+    "zh": "爆發",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-046",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "West Nile is a tropical disease that begins in birds, which pass it on to mosquitoes that then go on to infect human beings with a bite. Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite. About 1 in 5 persons suffers fever, headaches, and body aches, usually lasting a week or so. A far less lucky 1 in 150 experiences high fever, tremors, paralysis, and coma. Some—especially the elderly and those with weak immune systems—die.\nThat is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary. The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200. The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.\nWhy was the summer of 2012 so hospitable to the West Nile virus and the mosquitoes that carry it? Blame the weather. An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle. The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.\nThe severity of tropical diseases is also a matter of whether governments are capable—and willing—to defend their populations against infections. Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease. Tropical infections are thus as much related to government inaction as they are to climate.",
+  "group_id": "PX-GSAT107-G05",
+  "stem": "Which of the following statements is true about West Nile?",
+  "options": [
+   "Its symptoms usually appear within two weeks.",
+   "It is spread through air and water in tropical areas.",
+   "Over 20% of people who contract it will suffer severe symptoms.",
+   "It comes from direct human contact with birds infected with the virus."
+  ],
+  "answer": 0,
+  "explain_zh": "文中提到症狀通常在「叮咬後3到14天內」出現，即兩週以內，故選 A。選項 B 誤把傳播途徑說成空氣和水、C 誇大重症比例（實際是1/150）、D 誤把傳染途徑說成人與鳥直接接觸，皆與原文不符。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "contract",
+    "zh": "感染（疾病）",
+    "pos": "v."
+   },
+   {
+    "w": "symptom",
+    "zh": "症狀",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-047",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "West Nile is a tropical disease that begins in birds, which pass it on to mosquitoes that then go on to infect human beings with a bite. Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite. About 1 in 5 persons suffers fever, headaches, and body aches, usually lasting a week or so. A far less lucky 1 in 150 experiences high fever, tremors, paralysis, and coma. Some—especially the elderly and those with weak immune systems—die.\nThat is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary. The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200. The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.\nWhy was the summer of 2012 so hospitable to the West Nile virus and the mosquitoes that carry it? Blame the weather. An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle. The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.\nThe severity of tropical diseases is also a matter of whether governments are capable—and willing—to defend their populations against infections. Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease. Tropical infections are thus as much related to government inaction as they are to climate.",
+  "group_id": "PX-GSAT107-G05",
+  "stem": "What did Dallas County do to fight off West Nile?",
+  "options": [
+   "They sprayed pesticide from the air.",
+   "They asked citizens to stay away from dead birds.",
+   "They encouraged citizens to get vaccinations.",
+   "They drained the swimming pools in the county."
+  ],
+  "answer": 0,
+  "explain_zh": "達拉斯郡宣布進入緊急狀態，並「從空中噴灑殺蟲劑」滅蚊，故選 A。選項 B、C、D 文章中皆未提及，屬於無中生有的陷阱選項，須留意原文明確提到的具體防疫作為。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "pesticide",
+    "zh": "殺蟲劑",
+    "pos": "n."
+   },
+   {
+    "w": "aerial",
+    "zh": "空中的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-048",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "West Nile is a tropical disease that begins in birds, which pass it on to mosquitoes that then go on to infect human beings with a bite. Most people who contract West Nile do not experience any symptoms at all, but, if they do, symptoms typically develop between 3 to 14 days after a mosquito bite. About 1 in 5 persons suffers fever, headaches, and body aches, usually lasting a week or so. A far less lucky 1 in 150 experiences high fever, tremors, paralysis, and coma. Some—especially the elderly and those with weak immune systems—die.\nThat is what made the major outbreaks of West Nile in the U.S. in the summer of 2012 so scary. The situation was particularly bad in Dallas, Texas, where the West Nile virus killed 10 people and sickened more than 200. The city declared a state of emergency and began aerial spraying of a pesticide to kill the mosquitoes, even though residents argued that the pesticide could be more dangerous than the disease.\nWhy was the summer of 2012 so hospitable to the West Nile virus and the mosquitoes that carry it? Blame the weather. An extremely mild winter allowed more mosquitoes than usual to survive, while the unusually high temperatures in that scorching summer further increased their number by speeding up their life cycle. The economic crisis may have also played a role: Homeowners who were not able to pay their bank loans were forced to abandon their properties, sometimes leaving behind swimming pools that made excellent mosquito breeding grounds.\nThe severity of tropical diseases is also a matter of whether governments are capable—and willing—to defend their populations against infections. Dallas County was not doing some of the key things to slow the spread of West Nile, such as testing dead birds and setting mosquito traps to test for the presence of the disease. Tropical infections are thus as much related to government inaction as they are to climate.",
+  "group_id": "PX-GSAT107-G05",
+  "stem": "Which of the following is a reason why Dallas was hit most seriously in the U.S. in 2012?",
+  "options": [
+   "The increasing population in Texas raised the risk of contracting the disease.",
+   "The government did not issue a warning about the disease in time.",
+   "The residents worried about the county's decision and action.",
+   "The weather of the previous winter was not as cold as usual."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到前一年冬天「異常溫和」，讓比平常更多的蚊子存活下來，是疫情嚴重的原因之一，故選 D。選項 A、B、C 皆非文章提及的具體原因，屬於無中生有或過度推論。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "mild",
+    "zh": "溫和的",
+    "pos": "adj."
+   },
+   {
+    "w": "scorching",
+    "zh": "酷熱的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-049",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜字",
+  "passage": "Most parts of Taiwan have access to sufficient supplies of fresh water for drinking. But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources. As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical. Some may ask, “Since the ocean covers more than 70 percent of the Earth, why not just get drinking water from the ocean?”\nTo turn seawater into fresh water, we need to remove the salt in seawater, that is, to desalinate seawater. The problem is that the desalination of water requires a lot of energy. Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break. The energy and technology to desalinate water are both expensive, and this means that desalinating water can be costly.\nThere are environmental costs of desalination as well. Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain. Also, there is the problem of what to do with the separated salt, which is left over as a very concentrated brine. Pumping this super-salty water back into the ocean can harm local aquatic life. Reducing these impacts is possible, but it adds to the costs.\nDespite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources. At present, desalinating seawater is the only viable way to provide water to growing populations in rural areas of the Middle East and North Africa. Therefore, the race is on to find a cheaper, cleaner, and more energy-efficient way of desalinating seawater, and promising new findings are being reported.",
+  "group_id": "PX-GSAT107-G06",
+  "stem": "Which of the following is closest in meaning to “arid” in the first paragraph?",
+  "options": [
+   "Occupied.",
+   "Isolated.",
+   "Dry.",
+   "Remote."
+  ],
+  "answer": 2,
+  "explain_zh": "arid regions 指缺乏淡水資源、氣候「乾燥」的地區，如沙烏地阿拉伯，故選 Dry。Occupied（被占據的）、Isolated（孤立的）、Remote（偏遠的）皆非 arid 在此處的正確字義，需依上下文「淡水供應不足」推敲語意。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "arid",
+    "zh": "乾燥的",
+    "pos": "adj."
+   },
+   {
+    "w": "sufficient",
+    "zh": "足夠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-050",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "段落主旨",
+  "passage": "Most parts of Taiwan have access to sufficient supplies of fresh water for drinking. But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources. As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical. Some may ask, “Since the ocean covers more than 70 percent of the Earth, why not just get drinking water from the ocean?”\nTo turn seawater into fresh water, we need to remove the salt in seawater, that is, to desalinate seawater. The problem is that the desalination of water requires a lot of energy. Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break. The energy and technology to desalinate water are both expensive, and this means that desalinating water can be costly.\nThere are environmental costs of desalination as well. Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain. Also, there is the problem of what to do with the separated salt, which is left over as a very concentrated brine. Pumping this super-salty water back into the ocean can harm local aquatic life. Reducing these impacts is possible, but it adds to the costs.\nDespite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources. At present, desalinating seawater is the only viable way to provide water to growing populations in rural areas of the Middle East and North Africa. Therefore, the race is on to find a cheaper, cleaner, and more energy-efficient way of desalinating seawater, and promising new findings are being reported.",
+  "group_id": "PX-GSAT107-G06",
+  "stem": "What is the second paragraph mainly about?",
+  "options": [
+   "The high cost of desalinating seawater.",
+   "The major chemical characteristics of seawater.",
+   "The urgent need to turn seawater into fresh water.",
+   "The amount of energy produced in the desalination of seawater."
+  ],
+  "answer": 0,
+  "explain_zh": "第二段說明海水淡化需要大量能源與技術，導致成本高昂，主軸是「淡化海水的高成本」，故選 A。選項 B 只提到鹽的化學特性、C 是第一段主題、D 與原文「需要大量能源」的說法方向相反。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "desalination",
+    "zh": "淡化（海水）",
+    "pos": "n."
+   },
+   {
+    "w": "dissolve",
+    "zh": "溶解",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-051",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Most parts of Taiwan have access to sufficient supplies of fresh water for drinking. But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources. As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical. Some may ask, “Since the ocean covers more than 70 percent of the Earth, why not just get drinking water from the ocean?”\nTo turn seawater into fresh water, we need to remove the salt in seawater, that is, to desalinate seawater. The problem is that the desalination of water requires a lot of energy. Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break. The energy and technology to desalinate water are both expensive, and this means that desalinating water can be costly.\nThere are environmental costs of desalination as well. Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain. Also, there is the problem of what to do with the separated salt, which is left over as a very concentrated brine. Pumping this super-salty water back into the ocean can harm local aquatic life. Reducing these impacts is possible, but it adds to the costs.\nDespite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources. At present, desalinating seawater is the only viable way to provide water to growing populations in rural areas of the Middle East and North Africa. Therefore, the race is on to find a cheaper, cleaner, and more energy-efficient way of desalinating seawater, and promising new findings are being reported.",
+  "group_id": "PX-GSAT107-G06",
+  "stem": "According to the passage, which of the following statements is true?",
+  "options": [
+   "Mixing salt with water is not as easy as removing salt from seawater.",
+   "Desalinating seawater may kill some sea creatures and disturb the food chain.",
+   "Covering 70% of the Earth, the ocean has always satisfied human needs for water.",
+   "The increasing population in Saudi Arabia has resulted in shortages of fresh water."
+  ],
+  "answer": 1,
+  "explain_zh": "文中提到海水淡化廠會吸入海洋生物，殺死小魚和浮游生物，進而「打亂食物鏈」，故選 B。選項 A 陳述方向錯誤（應是分離鹽比混合鹽困難）、C 與全文主旨相反（海水無法直接滿足淡水需求）、D 文章未提及沙國人口成長的因果，皆不成立。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "disturb",
+    "zh": "打亂",
+    "pos": "v."
+   },
+   {
+    "w": "food chain",
+    "zh": "食物鏈",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-052",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:attitude",
+  "tag_zh": "作者態度",
+  "passage": "Most parts of Taiwan have access to sufficient supplies of fresh water for drinking. But fresh water can be in short supply in many arid regions of the world such as Saudi Arabia, where there are limited water resources. As the world population continues to grow, shortages of fresh water will occur more often and the need for additional water supplies will become critical. Some may ask, “Since the ocean covers more than 70 percent of the Earth, why not just get drinking water from the ocean?”\nTo turn seawater into fresh water, we need to remove the salt in seawater, that is, to desalinate seawater. The problem is that the desalination of water requires a lot of energy. Salt dissolves very easily in water, forming strong chemical bonds, and those bonds are difficult to break. The energy and technology to desalinate water are both expensive, and this means that desalinating water can be costly.\nThere are environmental costs of desalination as well. Sea life can get sucked into desalination plants, killing small ocean creatures like baby fish and plankton, upsetting the food chain. Also, there is the problem of what to do with the separated salt, which is left over as a very concentrated brine. Pumping this super-salty water back into the ocean can harm local aquatic life. Reducing these impacts is possible, but it adds to the costs.\nDespite the economic and environmental hurdles, desalination is becoming increasingly attractive as human beings are using up fresh water from other sources. At present, desalinating seawater is the only viable way to provide water to growing populations in rural areas of the Middle East and North Africa. Therefore, the race is on to find a cheaper, cleaner, and more energy-efficient way of desalinating seawater, and promising new findings are being reported.",
+  "group_id": "PX-GSAT107-G06",
+  "stem": "Which of the following best describes the author's attitude toward the future of desalination?",
+  "options": [
+   "Amazed.",
+   "Doubtful.",
+   "Conservative.",
+   "Hopeful."
+  ],
+  "answer": 3,
+  "explain_zh": "文末指出儘管淡化技術面臨經濟與環境的雙重挑戰，仍持續有「充滿希望」的新研究成果被報導，故選 D Hopeful。Amazed（驚訝的）、Doubtful（懷疑的）、Conservative（保守的）皆與文末積極正向的結語語氣不符。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "hopeful",
+    "zh": "充滿希望的",
+    "pos": "adj."
+   },
+   {
+    "w": "hurdle",
+    "zh": "障礙",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-053",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章標題",
+  "passage": "Four millennia ago, an ancient Babylonian wrote down what is possibly the first lullaby. It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences. It may have got the baby to sleep, but its message is far from comforting: If he/she does not stop crying, the demon will eat him/her. This lullaby may sound more scary than sleep-inducing, yet it is true that many lullabies—including those sung today—have dark undertones.\nResearch has shown that lullabies, when used correctly, can soothe and possibly even help to heal an infant; but it is the caretaker's voice and the rhythm and melody of the music that babies respond to, not the content of the song. Then, what is the function of the content? According to studies, some lullabies provide advice, like the Babylonian lullaby, and quite a few others offer the space to sing the unsung, say the unsayable. Lyrics to those lullabies can indeed be interpreted as a reflection of the caregiver's emotions. Researchers believe that a large part of the function of lullabies is to help a mother vocalize her worries and concerns. The mother's fear of loss especially makes sense since the infant/toddler years of life are fragile ones. Since there is a special physical bond between mother and child during this period, mothers feel they can sing to their child about their own fears and anxieties. Lullabies, therefore, serve as therapy for the mother. In addition, the songs are seemingly trying to work some magic—as if, by singing, the mother is saying, “Sadness has already touched this house; no need to come by again.”",
+  "group_id": "PX-GSAT107-G07",
+  "stem": "Which of the following titles best describes the main idea of this passage?",
+  "options": [
+   "The Origin of Lullabies",
+   "The Functions of Lullabies",
+   "Threatening Lullabies",
+   "Sleep-Inducing Lullabies"
+  ],
+  "answer": 1,
+  "explain_zh": "全文說明搖籃曲不僅能安撫嬰兒，其歌詞內容也反映照顧者的情緒，發揮多重「功能」，最適合的標題是 The Functions of Lullabies，故選 B。選項 A、C、D 都只涵蓋部分內容，無法完整概括全文主旨。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "function",
+    "zh": "功能",
+    "pos": "n."
+   },
+   {
+    "w": "lullaby",
+    "zh": "搖籃曲",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-054",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜字",
+  "passage": "Four millennia ago, an ancient Babylonian wrote down what is possibly the first lullaby. It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences. It may have got the baby to sleep, but its message is far from comforting: If he/she does not stop crying, the demon will eat him/her. This lullaby may sound more scary than sleep-inducing, yet it is true that many lullabies—including those sung today—have dark undertones.\nResearch has shown that lullabies, when used correctly, can soothe and possibly even help to heal an infant; but it is the caretaker's voice and the rhythm and melody of the music that babies respond to, not the content of the song. Then, what is the function of the content? According to studies, some lullabies provide advice, like the Babylonian lullaby, and quite a few others offer the space to sing the unsung, say the unsayable. Lyrics to those lullabies can indeed be interpreted as a reflection of the caregiver's emotions. Researchers believe that a large part of the function of lullabies is to help a mother vocalize her worries and concerns. The mother's fear of loss especially makes sense since the infant/toddler years of life are fragile ones. Since there is a special physical bond between mother and child during this period, mothers feel they can sing to their child about their own fears and anxieties. Lullabies, therefore, serve as therapy for the mother. In addition, the songs are seemingly trying to work some magic—as if, by singing, the mother is saying, “Sadness has already touched this house; no need to come by again.”",
+  "group_id": "PX-GSAT107-G07",
+  "stem": "Which of the following is closest in meaning to the word “undertones” in the first paragraph?",
+  "options": [
+   "Consequences.",
+   "Vocals.",
+   "Whispers.",
+   "Messages."
+  ],
+  "answer": 3,
+  "explain_zh": "dark undertones 指歌詞底下隱含的黑暗「訊息」或意涵，故選 Messages D。Consequences（後果）、Vocals（歌聲）、Whispers（低語）皆非 undertones 在此處表達「隱含意涵」的正確字義。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "undertone",
+    "zh": "弦外之音、隱含意涵",
+    "pos": "n."
+   },
+   {
+    "w": "comforting",
+    "zh": "令人安心的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-055",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Four millennia ago, an ancient Babylonian wrote down what is possibly the first lullaby. It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences. It may have got the baby to sleep, but its message is far from comforting: If he/she does not stop crying, the demon will eat him/her. This lullaby may sound more scary than sleep-inducing, yet it is true that many lullabies—including those sung today—have dark undertones.\nResearch has shown that lullabies, when used correctly, can soothe and possibly even help to heal an infant; but it is the caretaker's voice and the rhythm and melody of the music that babies respond to, not the content of the song. Then, what is the function of the content? According to studies, some lullabies provide advice, like the Babylonian lullaby, and quite a few others offer the space to sing the unsung, say the unsayable. Lyrics to those lullabies can indeed be interpreted as a reflection of the caregiver's emotions. Researchers believe that a large part of the function of lullabies is to help a mother vocalize her worries and concerns. The mother's fear of loss especially makes sense since the infant/toddler years of life are fragile ones. Since there is a special physical bond between mother and child during this period, mothers feel they can sing to their child about their own fears and anxieties. Lullabies, therefore, serve as therapy for the mother. In addition, the songs are seemingly trying to work some magic—as if, by singing, the mother is saying, “Sadness has already touched this house; no need to come by again.”",
+  "group_id": "PX-GSAT107-G07",
+  "stem": "What does the author use to support the idea that lullabies can have a soothing effect?",
+  "options": [
+   "Research reports.",
+   "Examples found in history.",
+   "Stories of caretakers.",
+   "The author's personal experiences."
+  ],
+  "answer": 0,
+  "explain_zh": "文中以「研究顯示」搖籃曲能安撫並可能療癒嬰兒作為論述依據，故選 A。選項 B、C、D 皆非文章用來支持此論點的證據來源，須注意題目問的是「作者引用什麼來佐證」。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "soothe",
+    "zh": "安撫",
+    "pos": "v."
+   },
+   {
+    "w": "caretaker",
+    "zh": "照顧者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT107-056",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Four millennia ago, an ancient Babylonian wrote down what is possibly the first lullaby. It is a rather threatening lullaby, in which the baby is scolded for disturbing the house god with its crying and warned of terrifying consequences. It may have got the baby to sleep, but its message is far from comforting: If he/she does not stop crying, the demon will eat him/her. This lullaby may sound more scary than sleep-inducing, yet it is true that many lullabies—including those sung today—have dark undertones.\nResearch has shown that lullabies, when used correctly, can soothe and possibly even help to heal an infant; but it is the caretaker's voice and the rhythm and melody of the music that babies respond to, not the content of the song. Then, what is the function of the content? According to studies, some lullabies provide advice, like the Babylonian lullaby, and quite a few others offer the space to sing the unsung, say the unsayable. Lyrics to those lullabies can indeed be interpreted as a reflection of the caregiver's emotions. Researchers believe that a large part of the function of lullabies is to help a mother vocalize her worries and concerns. The mother's fear of loss especially makes sense since the infant/toddler years of life are fragile ones. Since there is a special physical bond between mother and child during this period, mothers feel they can sing to their child about their own fears and anxieties. Lullabies, therefore, serve as therapy for the mother. In addition, the songs are seemingly trying to work some magic—as if, by singing, the mother is saying, “Sadness has already touched this house; no need to come by again.”",
+  "group_id": "PX-GSAT107-G07",
+  "stem": "According to this passage, which of the following statements is true?",
+  "options": [
+   "Scary lullabies better help babies fall asleep.",
+   "Mothers prefer to sing lullabies with a joyful melody.",
+   "Lullabies comfort not only the baby but also the mother.",
+   "Babies react to both the music and the lyrics of lullabies."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到搖籃曲不僅安撫寶寶，也是母親抒發自身憂慮與恐懼的一種「治療」方式，故選 C。選項 A 與文中「聲音旋律才是關鍵」相悖、B 文章未提及母親偏好歡快旋律、D 文中明說寶寶只對聲音旋律有反應而非歌詞內容。",
+  "source": "107學測",
+  "vocab": [
+   {
+    "w": "therapy",
+    "zh": "治療",
+    "pos": "n."
+   },
+   {
+    "w": "comfort",
+    "zh": "安慰",
+    "pos": "v."
+   }
+  ]
+ }
+]

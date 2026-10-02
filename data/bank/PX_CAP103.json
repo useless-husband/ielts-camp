@@ -1,0 +1,1221 @@
+[
+ {
+  "id": "PX-CAP103-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "轉折/條件連接詞",
+  "stem": "I have to catch the bus right now, ____ I'll miss my brother's birthday party.",
+  "options": [
+   "and",
+   "because",
+   "or",
+   "until"
+  ],
+  "answer": 2,
+  "explain_zh": "「現在不趕快去搭公車」和「錯過弟弟生日派對」是「否則」的因果關係，故選 or（不然、否則）。and 表並列、because 表原因、until 表直到，都無法呈現「不做A就會導致B」的警告語氣。",
+  "vocab": [
+   {
+    "w": "catch the bus",
+    "zh": "趕上公車",
+    "pos": "phr."
+   },
+   {
+    "w": "or",
+    "zh": "否則",
+    "pos": "conj."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verb",
+  "tag_zh": "動詞語意",
+  "stem": "Oliver ____ with joy when he saw his favorite band.  He kept saying loudly, \"I love you guys!\"",
+  "options": [
+   "waited",
+   "shouted",
+   "listened",
+   "agreed"
+  ],
+  "answer": 1,
+  "explain_zh": "看到最愛的樂團後，他不斷大聲喊叫「我愛你們」，可知他是開心地「大喊」，故選 shouted。waited（等待）、listened（聆聽）、agreed（同意）都無法對應「大聲喊叫」的動作。",
+  "vocab": [
+   {
+    "w": "shout",
+    "zh": "大喊",
+    "pos": "v."
+   },
+   {
+    "w": "with joy",
+    "zh": "開心地",
+    "pos": "phr."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "人格特質形容詞",
+  "stem": "Ms. Lee is a(n) ____ businesswoman.  Just now in her shop, she gave me back the wallet I left on the table last week.",
+  "options": [
+   "famous",
+   "honest",
+   "important",
+   "smart"
+  ],
+  "answer": 1,
+  "explain_zh": "把顧客遺留的錢包主動歸還，這是「誠實」的表現，故選 honest。famous（有名的）、important（重要的）、smart（聰明的）都無法對應「物歸原主」這個誠信行為。",
+  "vocab": [
+   {
+    "w": "honest",
+    "zh": "誠實的",
+    "pos": "adj."
+   },
+   {
+    "w": "businesswoman",
+    "zh": "女商人",
+    "pos": "n."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:collocation",
+  "tag_zh": "片語搭配",
+  "stem": "Lexie ____ reading maps.  Even with a map, she still cannot find her way when she is in a foreign city.",
+  "options": [
+   "is careful about",
+   "is good at",
+   "has fun",
+   "has trouble"
+  ],
+  "answer": 3,
+  "explain_zh": "即使拿著地圖也找不到路，可知她「不擅長」看地圖，故選 has trouble（doing something 表「做某事有困難」）。is good at（擅長）、has fun（樂在其中）語意相反，is careful about（小心）也不合句意。",
+  "vocab": [
+   {
+    "w": "have trouble",
+    "zh": "有困難",
+    "pos": "phr."
+   },
+   {
+    "w": "foreign",
+    "zh": "外國的",
+    "pos": "adj."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "程度形容詞",
+  "stem": "More and more cows on this farm are getting sick.  The problem is so ____ that the farm will be closed from tomorrow on.",
+  "options": [
+   "heavy",
+   "popular",
+   "serious",
+   "strong"
+  ],
+  "answer": 2,
+  "explain_zh": "越來越多牛生病，嚴重到牧場明天就要關閉，可知問題很「嚴重」，故選 serious。heavy（重的）、popular（受歡迎的）、strong（強壯的）都無法貼切形容「問題的嚴重性」。",
+  "vocab": [
+   {
+    "w": "serious",
+    "zh": "嚴重的",
+    "pos": "adj."
+   },
+   {
+    "w": "close",
+    "zh": "關閉",
+    "pos": "v."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:collocation",
+  "tag_zh": "慣用語搭配",
+  "stem": "Some songs are forgotten very quickly.  A really good song can pass the test of ____ and be remembered for many, many years.",
+  "options": [
+   "knowledge",
+   "sound",
+   "time",
+   "weather"
+  ],
+  "answer": 2,
+  "explain_zh": "好歌能被記住很多年，也就是能通過「時間」的考驗，故選 time。pass the test of time 是固定用語，表示「禁得起時間考驗」；knowledge、sound、weather 都無法與 test of 搭配出此意。",
+  "vocab": [
+   {
+    "w": "pass the test of time",
+    "zh": "禁得起時間考驗",
+    "pos": "phr."
+   },
+   {
+    "w": "remember",
+    "zh": "記得",
+    "pos": "v."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conditional",
+  "tag_zh": "if 條件句現在式代未來",
+  "stem": "I'm not sure if Kevin ____ this morning, but if he does, I'll tell him that you called.",
+  "options": [
+   "will come in",
+   "comes in",
+   "has come in",
+   "came in"
+  ],
+  "answer": 1,
+  "explain_zh": "if 引導的條件子句要用現在式代替未來式，且後句的 does 也代替前面的動詞，可知前面要用現在式，故選 comes in。will come in 是未來式、has come in 是現在完成式、came in 是過去式，都與 if 子句用現在式表未來的規則不符。",
+  "vocab": [
+   {
+    "w": "come in",
+    "zh": "進來、到來",
+    "pos": "phr.v."
+   },
+   {
+    "w": "not sure if",
+    "zh": "不確定是否",
+    "pos": "phr."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adverb",
+  "tag_zh": "比較級副詞",
+  "stem": "I think the road ends here; it won't go any ____.  Shouldn't we turn back?",
+  "options": [
+   "closer",
+   "farther",
+   "faster",
+   "longer"
+  ],
+  "answer": 1,
+  "explain_zh": "路到這裡就到盡頭了，不會再往「更遠」的地方延伸，故選 farther（更遠地）。closer（更近）、faster（更快）、longer（更久）都無法呼應「路的盡頭、不能再往前」的語境。",
+  "vocab": [
+   {
+    "w": "farther",
+    "zh": "更遠地",
+    "pos": "adv."
+   },
+   {
+    "w": "turn back",
+    "zh": "回頭",
+    "pos": "phr."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:quantifiers",
+  "tag_zh": "數量詞語意",
+  "stem": "Jogging is the only exercise I enjoy.  I find ____ other kinds of exercise boring.",
+  "options": [
+   "all",
+   "few",
+   "many",
+   "some"
+  ],
+  "answer": 0,
+  "explain_zh": "慢跑是他唯一喜歡的運動，可知「其他所有」運動他都覺得無聊，故選 all。few（很少）、many（許多，但不夠全面）、some（一些）都無法呼應「唯一喜歡的只有慢跑」這種絕對的語氣。",
+  "vocab": [
+   {
+    "w": "boring",
+    "zh": "無聊的",
+    "pos": "adj."
+   },
+   {
+    "w": "jogging",
+    "zh": "慢跑",
+    "pos": "n."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:present-simple",
+  "tag_zh": "現在簡單式表示常態",
+  "stem": "Smart Head, one of the hottest TV programs these days, ____ people free plane tickets to Hawaii if they can answer 20 questions correctly in 15 minutes.",
+  "options": [
+   "have given",
+   "gives",
+   "giving",
+   "to give"
+  ],
+  "answer": 1,
+  "explain_zh": "描述這個節目一貫的遊戲規則（常態事實），要用現在簡單式，故選 gives。have given 是現在完成式、giving、to give 都不能單獨作句子的主要動詞，皆不符合此處描述固定規則的語境。",
+  "vocab": [
+   {
+    "w": "correctly",
+    "zh": "正確地",
+    "pos": "adv."
+   },
+   {
+    "w": "free",
+    "zh": "免費的",
+    "pos": "adj."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:noun",
+  "tag_zh": "生活名詞",
+  "stem": "Helen: Can you turn off the TV?  I can't study with the ____.\nTroy: You can just go back to your room so you won't hear it.",
+  "options": [
+   "noise",
+   "heat",
+   "power",
+   "light"
+  ],
+  "answer": 0,
+  "explain_zh": "Helen 抱怨無法讀書、要 Troy 關掉電視，可知困擾她的是電視發出的「噪音」，故選 noise。heat（熱）、power（電力）、light（光線）都與「聽到聲音」無關。",
+  "vocab": [
+   {
+    "w": "noise",
+    "zh": "噪音",
+    "pos": "n."
+   },
+   {
+    "w": "turn off",
+    "zh": "關掉",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:wh-questions",
+  "tag_zh": "疑問詞語意",
+  "stem": "Carson: Bye, girls.  See you tomorrow, Phoebe.\nShirley: ____ did Carson say he would see you tomorrow?\nPhoebe: We're going out for a picnic.  Do you want to come?",
+  "options": [
+   "What",
+   "When",
+   "Where",
+   "Why"
+  ],
+  "answer": 3,
+  "explain_zh": "Shirley 聽到 Carson 說明天要見 Phoebe，語氣帶著疑惑地追問「為什麼」他會這麼說，Phoebe 才接著解釋兩人要去野餐，故選 Why。What、When、Where 都無法對應 Phoebe 接下來說明「原因」的回答。",
+  "vocab": [
+   {
+    "w": "go out for a picnic",
+    "zh": "outdoor 去野餐",
+    "pos": "phr."
+   },
+   {
+    "w": "tomorrow",
+    "zh": "明天",
+    "pos": "adv."
+   }
+  ],
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-013",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "A study says that the world has a ____ need for meat.",
+  "options": [
+   "falling",
+   "special",
+   "growing",
+   "common"
+  ],
+  "answer": 2,
+  "explain_zh": "後文列出肉類消費量從1960年的6千4百萬公噸暴增到2007年的2億6千8百萬公噸，可知全球對肉的需求正在「成長」，故選 growing。falling（下滑的）語意相反，special（特別的）、common（常見的）都無法呼應數據明顯上升的走勢。",
+  "vocab": [
+   {
+    "w": "growing",
+    "zh": "日益增長的",
+    "pos": "adj."
+   },
+   {
+    "w": "tonne",
+    "zh": "公噸",
+    "pos": "n."
+   }
+  ],
+  "passage": "Do you eat meat?  Well, if you do, then you might find our next news interesting.  A study says that the world has a ____ need for meat.  In 1960, the world ate 64 million tonnes of meat, about 21 kg for each person.  In 2007, the number rose to 268 million tonnes, about 40 kg for each person.  At the same time, ____.  In the 1960s, beef was high on the menu.  Of the meat that was eaten, 40% was beef.  In 2007, pork became the star.  Poultry also became popular, going up from 12% to 32%, thanks to people's worries about their health these years.  And ____?  You're guessing the U.S.A., right?  The answer is Luxembourg!  In 2007, each Luxembourger ate about 137 kg of meat!  Second to Luxembourgers are Americans.  In 2007, each American ate about 126 kg!  Now, enough with the numbers.  I'm playing you a song called Currywurst.  The singer sings about his love for the meat dish of the same name.  Enjoy!",
+  "group_id": "PX-CAP103-G01",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-014",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "At the same time, ____.  In the 1960s, beef was high on the menu.  Of the meat that was eaten, 40% was beef.  In 2007, pork became the star.",
+  "options": [
+   "we have changed our way of cooking meat",
+   "new kinds of meat have come on the market",
+   "there have been changes in the list of favorite meats",
+   "doctors have been worried that we eat too much meat"
+  ],
+  "answer": 2,
+  "explain_zh": "後文比較1960年代最受歡迎的是牛肉、2007年換豬肉當紅、禽肉也大幅成長，說明的正是「最受歡迎的肉類排行有了變化」，故選 C。文章沒有提到烹調方式改變（A）、新肉類問世（B）或醫生擔心吃太多肉（D）。",
+  "vocab": [
+   {
+    "w": "favorite",
+    "zh": "最喜愛的",
+    "pos": "adj."
+   },
+   {
+    "w": "beef",
+    "zh": "牛肉",
+    "pos": "n."
+   }
+  ],
+  "passage": "Do you eat meat?  Well, if you do, then you might find our next news interesting.  A study says that the world has a ____ need for meat.  In 1960, the world ate 64 million tonnes of meat, about 21 kg for each person.  In 2007, the number rose to 268 million tonnes, about 40 kg for each person.  At the same time, ____.  In the 1960s, beef was high on the menu.  Of the meat that was eaten, 40% was beef.  In 2007, pork became the star.  Poultry also became popular, going up from 12% to 32%, thanks to people's worries about their health these years.  And ____?  You're guessing the U.S.A., right?  The answer is Luxembourg!  In 2007, each Luxembourger ate about 137 kg of meat!  Second to Luxembourgers are Americans.  In 2007, each American ate about 126 kg!  Now, enough with the numbers.  I'm playing you a song called Currywurst.  The singer sings about his love for the meat dish of the same name.  Enjoy!",
+  "group_id": "PX-CAP103-G01",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-015",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "And ____?  You're guessing the U.S.A., right?  The answer is Luxembourg!  In 2007, each Luxembourger ate about 137 kg of meat!",
+  "options": [
+   "where does the world's best meat come from",
+   "which country is the world's biggest meat maker",
+   "where can you eat the world's most delicious meat",
+   "which country uses up the most meat for each person"
+  ],
+  "answer": 3,
+  "explain_zh": "後文公布答案是盧森堡，因為每位盧森堡人平均吃下137公斤的肉，遠超猜測中的美國，可知問題是在問「哪個國家平均每人吃最多肉」，故選 D。其餘選項都與「人均肉類消耗量」的統計主題無關。",
+  "vocab": [
+   {
+    "w": "per person",
+    "zh": "每人",
+    "pos": "phr."
+   },
+   {
+    "w": "guess",
+    "zh": "猜測",
+    "pos": "v."
+   }
+  ],
+  "passage": "Do you eat meat?  Well, if you do, then you might find our next news interesting.  A study says that the world has a ____ need for meat.  In 1960, the world ate 64 million tonnes of meat, about 21 kg for each person.  In 2007, the number rose to 268 million tonnes, about 40 kg for each person.  At the same time, ____.  In the 1960s, beef was high on the menu.  Of the meat that was eaten, 40% was beef.  In 2007, pork became the star.  Poultry also became popular, going up from 12% to 32%, thanks to people's worries about their health these years.  And ____?  You're guessing the U.S.A., right?  The answer is Luxembourg!  In 2007, each Luxembourger ate about 137 kg of meat!  Second to Luxembourgers are Americans.  In 2007, each American ate about 126 kg!  Now, enough with the numbers.  I'm playing you a song called Currywurst.  The singer sings about his love for the meat dish of the same name.  Enjoy!",
+  "group_id": "PX-CAP103-G01",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-016",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "書信主旨理解",
+  "stem": "Why did Angelica invite her friends?",
+  "options": [
+   "To see her new home.",
+   "To visit the chicken farm.",
+   "To take a train trip.",
+   "To have a picnic."
+  ],
+  "answer": 0,
+  "explain_zh": "信件開頭說明她們一家搬進鄉間新家一個月了，孩子們正計畫在新家辦派對邀請大家來玩，可知邀請朋友的目的是「來看新家」，故選 A。信中提到雞舍、火車只是指路用的地標，並非邀約的理由（B、C），信中也沒提到要野餐（D）。",
+  "vocab": [
+   {
+    "w": "move into",
+    "zh": "搬進",
+    "pos": "phr."
+   },
+   {
+    "w": "country house",
+    "zh": "鄉間住宅",
+    "pos": "n."
+   }
+  ],
+  "passage": "My dear friends,\nMy family and I moved into our country house one month ago.  The kids are planning to give a party at our new house.  I hope all of you can come.  The party will begin at 11:00 a.m. on Saturday.  There will be lots of food and drinks.\nTogether with this letter is a map to our house.  After you get off the train, take the road in front of the station.  Follow it and you'll see a chicken farm.  Don't make any turns.  Keep going and you'll see a bridge.  Cross the bridge and there will be a big tree on your left.  Walk past the tree, take the first right turn, and then walk for five more minutes.  You'll see several houses.  My house is at the end of the road, next to the river.\nAngelica",
+  "group_id": "PX-CAP103-G02",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-017",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail-negative",
+  "tag_zh": "細節理解(反向)",
+  "stem": "Which is NOT said about the book in the reading?",
+  "options": [
+   "It tells a true story.",
+   "It is cheaper now.",
+   "A reader thinks it is easy to understand.",
+   "A reader thinks its second part is boring."
+  ],
+  "answer": 0,
+  "explain_zh": "廣告與讀者留言中完全沒有提到這本書改編自真人真事，只有提到現在特價（B，$450降到$199）、語言簡單清楚容易懂（C，Vivian Lu的留言）、第二部分讓人覺得無聊（D，Rod Green的留言），故選 A。",
+  "vocab": [
+   {
+    "w": "true story",
+    "zh": "真實故事",
+    "pos": "phr."
+   },
+   {
+    "w": "boring",
+    "zh": "無聊的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "The Way Out by Ming-da Wang.  $450 -> $199  Buy it now!  http://www.mingdawangbooks.net/thewayout/\nWords from readers\nI couldn't put the book down after I read some pages at my friend's home.  I borrowed it and read it over that night.  I think it can help someone who is afraid to face family problems. — Sam Lee\nThe book saved my life.  It opened a door that led me into a world of true love.  I was able to look at the world around me with fresh new eyes. — Candy Vigor\nThe first part of the book really touched my heart and made me want to read on.  However, I was getting bored when I came to the second part.  In fact, I didn't finish the book. — Rod Green\nThe book helped me forget about my worries.  I laughed and cried with those people in the book.  With its simple and clear language, people of all ages can enjoy it. — Vivian Lu",
+  "group_id": "PX-CAP103-G03",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-018",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "讀者心得推論",
+  "stem": "What can readers most likely learn from the book?",
+  "options": [
+   "A new way of seeing the world.",
+   "How to be a comic writer.",
+   "A smart way to face work problems.",
+   "How to buy a book on the Internet."
+  ],
+  "answer": 0,
+  "explain_zh": "Candy Vigor 的留言說這本書為她打開了一扇門，帶她走進真愛的世界，讓她能用「嶄新的眼光看待周遭世界」，故選 A。留言中沒有提到寫作技巧（B）、職場問題（C，是家庭問題）或網路購書方法（D）。",
+  "vocab": [
+   {
+    "w": "fresh eyes",
+    "zh": "嶄新的眼光",
+    "pos": "phr."
+   },
+   {
+    "w": "likely",
+    "zh": "可能",
+    "pos": "adv."
+   }
+  ],
+  "passage": "The Way Out by Ming-da Wang.  $450 -> $199  Buy it now!  http://www.mingdawangbooks.net/thewayout/\nWords from readers\nI couldn't put the book down after I read some pages at my friend's home.  I borrowed it and read it over that night.  I think it can help someone who is afraid to face family problems. — Sam Lee\nThe book saved my life.  It opened a door that led me into a world of true love.  I was able to look at the world around me with fresh new eyes. — Candy Vigor\nThe first part of the book really touched my heart and made me want to read on.  However, I was getting bored when I came to the second part.  In fact, I didn't finish the book. — Rod Green\nThe book helped me forget about my worries.  I laughed and cried with those people in the book.  With its simple and clear language, people of all ages can enjoy it. — Vivian Lu",
+  "group_id": "PX-CAP103-G03",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-019",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "網頁資訊理解",
+  "stem": "Who will NOT find this homepage useful?",
+  "options": [
+   "Abby, who wants to know the ticket prices.",
+   "Betty, who wants to get around in Finn City.",
+   "Cindy, who wants to share her ideas about car racing.",
+   "Debby, who wants to collect news about the car racers."
+  ],
+  "answer": 1,
+  "explain_zh": "首頁說明今年的賽事已經從去年的 Finn City 移到 Lynden City 舉辦，所以想在 Finn City 活動的 Betty 用不到這個網頁，故選 B。網頁上有 Buy Tickets Now（A適用）、Email Us（C適用）、Watch/Listen to the News（D適用），都能滿足其他三人的需求。",
+  "vocab": [
+   {
+    "w": "useful",
+    "zh": "有用的",
+    "pos": "adj."
+   },
+   {
+    "w": "homepage",
+    "zh": "首頁",
+    "pos": "n."
+   }
+  ],
+  "passage": "Read the homepage of Cheetah Car Racing 2014.\nhttp://www.cheetahcarracing2014.com\nStill can't forget those exciting moments of Cheetah Car Racing last year in Finn City?  Now it's time to get ready for this year's Cheetah Car Racing in Lynden City.  Check it out now!\nAbout Cheetah Car Racing: The History / 2014 Game Programs / 2014 Race Teams\nAbout Lynden City: The History / City Planning for Cheetah Car Racing 2014 / Where to Watch the Races / Find Nice Hotels / Eat in the City / Shop in the City\nMore: Watch the News / Listen to the News / Join Our Work Team / Buy Tickets Now / Email Us\n\nLinda is reading the page of Cheetah Car Racing 2014 below.\nhttp://www.cheetahcarracing2014.com/345986\nWe are happy to invite you during Cheetah Car Racing 2014\n- to clean the racing roads before and after each game.\n- to take care of out-of-town car racers.\n- to show people around the city.\n- to be a reporter for the games.",
+  "group_id": "PX-CAP103-G04",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-020",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "網頁連結推論",
+  "stem": "Where did Linda click on the homepage of Cheetah Car Racing 2014 to get to this page?",
+  "options": [
+   "2014 Game Programs.",
+   "City Planning for Cheetah Car Racing 2014.",
+   "Shop in the City.",
+   "Join Our Work Team."
+  ],
+  "answer": 3,
+  "explain_zh": "Linda看到的頁面在招募志工，內容包括賽道清潔、照顧外地車手、當地陪導覽、擔任賽事記者，這些都是志工工作內容，對應首頁中的「Join Our Work Team」連結，故選 D。",
+  "vocab": [
+   {
+    "w": "click",
+    "zh": "點擊",
+    "pos": "v."
+   },
+   {
+    "w": "take care of",
+    "zh": "照顧",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Read the homepage of Cheetah Car Racing 2014.\nhttp://www.cheetahcarracing2014.com\nStill can't forget those exciting moments of Cheetah Car Racing last year in Finn City?  Now it's time to get ready for this year's Cheetah Car Racing in Lynden City.  Check it out now!\nAbout Cheetah Car Racing: The History / 2014 Game Programs / 2014 Race Teams\nAbout Lynden City: The History / City Planning for Cheetah Car Racing 2014 / Where to Watch the Races / Find Nice Hotels / Eat in the City / Shop in the City\nMore: Watch the News / Listen to the News / Join Our Work Team / Buy Tickets Now / Email Us\n\nLinda is reading the page of Cheetah Car Racing 2014 below.\nhttp://www.cheetahcarracing2014.com/345986\nWe are happy to invite you during Cheetah Car Racing 2014\n- to clean the racing roads before and after each game.\n- to take care of out-of-town car racers.\n- to show people around the city.\n- to be a reporter for the games.",
+  "group_id": "PX-CAP103-G04",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-021",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "對話人物推論",
+  "stem": "What can we learn about Eddie?",
+  "options": [
+   "His friends think he is a great dancer.",
+   "He is taking baking classes with Cecilia.",
+   "His friends did not like the clothes he made.",
+   "He did not know how to say no to his friends."
+  ],
+  "answer": 2,
+  "explain_zh": "Gloria 提到自己曾「叫醒」Eddie對做衣服的夢想（意即告訴他真相），結果他大哭一場、一個月不跟她說話，可推知朋友們其實不喜歡他做的衣服，故選 C。對話沒提到他很會跳舞（A，跳舞課是Cecilia和Eddie一起上的）或他和Cecilia一起上烘焙課（B）。",
+  "vocab": [
+   {
+    "w": "wake up from a dream",
+    "zh": "從夢中喚醒",
+    "pos": "phr."
+   },
+   {
+    "w": "clothes",
+    "zh": "衣服",
+    "pos": "n."
+   }
+  ],
+  "passage": "Cecilia: Eddie's having a tasting party this Saturday.\nGloria: No!\nCecilia: And we're both invited.\nGloria: No!  I told you I'd never go to any of his tasting parties again!\nCecilia: He said he wanted to share his newest cakes with his dearest friends.\nGloria: If he sees us as his dearest friends, he should stop having tasting parties!\nCecilia: Well, looks like baking really brings joy to his life.\nGloria: But it takes joy away from mine!  Last time I was in bed for three days after his party.\nCecilia: If you hate it so much, you can just tell him.\nGloria: Why do I always have to be the bad person?  Remember when I woke him up from his dream of making clothes?  There was a lot of crying, and he wouldn't talk to me for a month.  You do it this time.\nCecilia: I can't.  How am I going to face him in our dancing classes if I tell him?\nGloria: So we still have to lie at his party again?\nCecilia: I'm afraid so.",
+  "group_id": "PX-CAP103-G05",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-022",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "對話細節",
+  "stem": "Which is true?",
+  "options": [
+   "Cecilia has not talked to Eddie for a month.",
+   "Cecilia had a good time at Eddie's last party.",
+   "Gloria shared Eddie's cakes with other friends.",
+   "Gloria does not want to go to Eddie's tasting party."
+  ],
+  "answer": 3,
+  "explain_zh": "Gloria 一開始就強烈拒絕（\"No!\"兩次），還說自己說過再也不會參加他的試吃會，可知她不想去，故選 D。一個月不說話的其實是Eddie對Gloria（A誤植對象），上次她其實因為試吃會不舒服臥床三天（B錯），文中也沒提到她把蛋糕分享給其他朋友（C）。",
+  "vocab": [
+   {
+    "w": "tasting party",
+    "zh": "試吃會",
+    "pos": "n."
+   },
+   {
+    "w": "dearest",
+    "zh": "最親愛的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Cecilia: Eddie's having a tasting party this Saturday.\nGloria: No!\nCecilia: And we're both invited.\nGloria: No!  I told you I'd never go to any of his tasting parties again!\nCecilia: He said he wanted to share his newest cakes with his dearest friends.\nGloria: If he sees us as his dearest friends, he should stop having tasting parties!\nCecilia: Well, looks like baking really brings joy to his life.\nGloria: But it takes joy away from mine!  Last time I was in bed for three days after his party.\nCecilia: If you hate it so much, you can just tell him.\nGloria: Why do I always have to be the bad person?  Remember when I woke him up from his dream of making clothes?  There was a lot of crying, and he wouldn't talk to me for a month.  You do it this time.\nCecilia: I can't.  How am I going to face him in our dancing classes if I tell him?\nGloria: So we still have to lie at his party again?\nCecilia: I'm afraid so.",
+  "group_id": "PX-CAP103-G05",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-023",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What does it mean?",
+  "options": [
+   "Tell Eddie about his baking.",
+   "Tell Eddie to stop telling lies.",
+   "Tell Eddie how to find joy in baking.",
+   "Tell Eddie to stop crying over small things."
+  ],
+  "answer": 0,
+  "explain_zh": "呼應前一句「這次換你來當壞人」，it 指的是「把試吃會蛋糕不好吃的實話告訴 Eddie」，也就是跟他說關於他烘焙成果的真話，故選 A。並非叫他別再說謊（B）、教他從烘焙中找樂趣（C）或別再為小事哭泣（D）。",
+  "vocab": [
+   {
+    "w": "bad person",
+    "zh": "扮黑臉的人",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Cecilia: Eddie's having a tasting party this Saturday.\nGloria: No!\nCecilia: And we're both invited.\nGloria: No!  I told you I'd never go to any of his tasting parties again!\nCecilia: He said he wanted to share his newest cakes with his dearest friends.\nGloria: If he sees us as his dearest friends, he should stop having tasting parties!\nCecilia: Well, looks like baking really brings joy to his life.\nGloria: But it takes joy away from mine!  Last time I was in bed for three days after his party.\nCecilia: If you hate it so much, you can just tell him.\nGloria: Why do I always have to be the bad person?  Remember when I woke him up from his dream of making clothes?  There was a lot of crying, and he wouldn't talk to me for a month.  You do it this time.\nCecilia: I can't.  How am I going to face him in our dancing classes if I tell him?\nGloria: So we still have to lie at his party again?\nCecilia: I'm afraid so.",
+  "group_id": "PX-CAP103-G05",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-024",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "職業推論",
+  "stem": "Where does Josie work?",
+  "options": [
+   "In a school.",
+   "In a hospital.",
+   "In a restaurant.",
+   "In a police station."
+  ],
+  "answer": 1,
+  "explain_zh": "日記中提到她替受傷的孩子和民眾包紮治療、幫忙處理骨折的腿，還有警察把傷患送來給她治療，可知她在「醫院」工作，故選 B。",
+  "vocab": [
+   {
+    "w": "take care of",
+    "zh": "照顧、處理（傷口）",
+    "pos": "phr."
+   },
+   {
+    "w": "badly hurt",
+    "zh": "嚴重受傷",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Below is what Josie wrote in her notebook.\nDec. 15\nA very sad day.  A school bus was hit by a truck.  Many kids were badly hurt.  A little boy lost his life.  His mom was the kids' teacher.  We couldn't bring her back, either.\nDec. 22\nLonnie said she'll wear all white to the Christmas party.  I said she's lost her mind.  We wear white all the time.  Who would still want to wear white on Christmas Eve?\nDec. 25\nPeople kept coming in and asked for our help because they got hurt.  Why do people always do stupid things on holidays?\nDec. 31\nThe police brought in a young man who broke his leg when he was trying to enter a house.  When taking care of his leg, I asked him why he wanted to enter another person's house, and he said he just wanted to borrow a pot.  But Officer Clarke said he's been borrowing many pots from strangers' houses.\nJan. 3\nI knew my lunchtime was over when Howell came to my table.  He's a nice guy.  But how many heads he's cut open is the last thing I'd want to know when I'm eating beef sandwiches.",
+  "group_id": "PX-CAP103-G06",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-025",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "人物心情推論",
+  "stem": "Which is true about Josie?",
+  "options": [
+   "She did not work on Christmas because she got hurt.",
+   "She does not like what Howell talks about at lunchtime.",
+   "She lost her little boy when the school bus was hit by a truck.",
+   "She liked Lonnie's idea about what to wear for the Christmas party."
+  ],
+  "answer": 1,
+  "explain_zh": "1月3日的日記抱怨 Howell 一到她的餐桌就代表午餐時間結束了，還提到不想在吃牛肉三明治時聽到他切開多少顆頭的話題，可知她並不喜歡 Howell 午餐時聊的內容，故選 B。她耶誕節當天其實有上班（A錯，且受傷的是別人）、失去孩子的是別的媽媽（C錯，不是Josie本人），她也覺得Lonnie穿全白很瘋狂、並不認同（D錯）。",
+  "vocab": [
+   {
+    "w": "lunchtime",
+    "zh": "午餐時間",
+    "pos": "n."
+   },
+   {
+    "w": "cut open",
+    "zh": "切開",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Below is what Josie wrote in her notebook.\nDec. 15\nA very sad day.  A school bus was hit by a truck.  Many kids were badly hurt.  A little boy lost his life.  His mom was the kids' teacher.  We couldn't bring her back, either.\nDec. 22\nLonnie said she'll wear all white to the Christmas party.  I said she's lost her mind.  We wear white all the time.  Who would still want to wear white on Christmas Eve?\nDec. 25\nPeople kept coming in and asked for our help because they got hurt.  Why do people always do stupid things on holidays?\nDec. 31\nThe police brought in a young man who broke his leg when he was trying to enter a house.  When taking care of his leg, I asked him why he wanted to enter another person's house, and he said he just wanted to borrow a pot.  But Officer Clarke said he's been borrowing many pots from strangers' houses.\nJan. 3\nI knew my lunchtime was over when Howell came to my table.  He's a nice guy.  But how many heads he's cut open is the last thing I'd want to know when I'm eating beef sandwiches.",
+  "group_id": "PX-CAP103-G06",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-026",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "細節推論",
+  "stem": "What do we know from the reading?",
+  "options": [
+   "The truck driver who hit the school bus died.",
+   "Howell loves to have beef sandwiches for lunch.",
+   "Lonnie did not want to go to the Christmas party with Josie.",
+   "Officer Clarke did not think what the young man said was true."
+  ],
+  "answer": 3,
+  "explain_zh": "警官 Clarke 指出這名男子已經從多戶陌生人家中「借」走許多鍋子，暗示他不相信年輕人「只是想借鍋子」的說法，故選 D。文中沒提到卡車司機的下場（A），吃牛肉三明治的其實是 Josie 本人、不是 Howell（B錯），也沒說 Lonnie 不想跟她去派對（C，兩人只是對穿著意見不同）。",
+  "vocab": [
+   {
+    "w": "believe",
+    "zh": "相信",
+    "pos": "v."
+   },
+   {
+    "w": "borrow",
+    "zh": "借（入）",
+    "pos": "v."
+   }
+  ],
+  "passage": "Below is what Josie wrote in her notebook.\nDec. 15\nA very sad day.  A school bus was hit by a truck.  Many kids were badly hurt.  A little boy lost his life.  His mom was the kids' teacher.  We couldn't bring her back, either.\nDec. 22\nLonnie said she'll wear all white to the Christmas party.  I said she's lost her mind.  We wear white all the time.  Who would still want to wear white on Christmas Eve?\nDec. 25\nPeople kept coming in and asked for our help because they got hurt.  Why do people always do stupid things on holidays?\nDec. 31\nThe police brought in a young man who broke his leg when he was trying to enter a house.  When taking care of his leg, I asked him why he wanted to enter another person's house, and he said he just wanted to borrow a pot.  But Officer Clarke said he's been borrowing many pots from strangers' houses.\nJan. 3\nI knew my lunchtime was over when Howell came to my table.  He's a nice guy.  But how many heads he's cut open is the last thing I'd want to know when I'm eating beef sandwiches.",
+  "group_id": "PX-CAP103-G06",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-027",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "stem": "What is this reading mostly about?",
+  "options": [
+   "Nathan Lang's love and hate for his family.",
+   "The good and bad about Nathan Lang's movies.",
+   "The rise and fall of Nathan Lang in show business.",
+   "Nathan Lang's life before and after he became an actor."
+  ],
+  "answer": 2,
+  "explain_zh": "全文從他七零年代爆紅、演出多部賣座強片，寫到八零年代星光不再、作品跌出排行榜，完整呈現他演藝生涯的「起與落」，故選 C。文章重點不是家庭情感糾葛（A）或當演員前後的生活對比（D，文中沒提及成名前的生活）。",
+  "vocab": [
+   {
+    "w": "rise and fall",
+    "zh": "興衰、起落",
+    "pos": "phr."
+   },
+   {
+    "w": "show business",
+    "zh": "演藝圈",
+    "pos": "phr."
+   }
+  ],
+  "passage": "GNB NEWS\nForever Takes a Bow\nActor Nathan Lang, 78 years old, died in his sleep last night in his house.  Nathan Lang started his acting life in the 1970s.  He was most known for playing Justin Maud in Young Hours.  The movie made the world swoon over him.  Women wanted a husband like him; men wanted a brother like him.  Forever Justin, his fans called him.  After Young Hours, Nathan Lang was seen in several big movies: Fallen, After Tonight, and Killing Jules.  The last one won him a best actor award.  In the 1980s, Nathan Lang lost his shine on the big screen.  During this time, his movies never entered the top 20 list.  Nathan Lang's last movie was Dreams.  Though the movie won him two best actor awards, it did not bring his fans back to the theater.\nThis Saturday morning, 10 o'clock at St. Peter's Church, there will be a \"movie party,\" as Lang wished.  Friends and family will get together and enjoy once again the good times he brought to the world.\n\nHere are reviews about Nathan Lang's movies.\n(A) ...nothing new in the story; Nathan Lang clearly didn't do enough homework about his part in the movie.  It was no surprise that the movie didn't make it into the top 10 list the first week it was out...\n(B) ...it became Nathan Lang's second best-selling movie and also this year's third best-selling movie in the country and may even get him another best actor award...\n(C) ...see him not as the actor Nathan Lang anymore but as the poor old man in the movie.  However, good acting does not always help with ticket sales...\n(D) ...the story is fresh and interesting, but the acting is not.  However, it has been the country's best-selling movie for the past three weeks.  Clearly Nathan Lang's fans cared less about his acting than his handsome face...",
+  "group_id": "PX-CAP103-G07",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-028",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "stem": "What does swoon over mean in the reading?",
+  "options": [
+   "Close the door on.",
+   "Go crazy about.",
+   "Share the joy with.",
+   "Try hard to deal with."
+  ],
+  "answer": 1,
+  "explain_zh": "後句描述女性想要像他一樣的丈夫、男性想要像他一樣的兄弟，粉絲更稱他「永遠的 Justin」，可知全世界都為他「瘋狂著迷」，故選 B（go crazy about，對…著迷）。",
+  "vocab": [
+   {
+    "w": "swoon over",
+    "zh": "為…瘋狂著迷",
+    "pos": "phr."
+   },
+   {
+    "w": "fan",
+    "zh": "粉絲",
+    "pos": "n."
+   }
+  ],
+  "passage": "GNB NEWS\nForever Takes a Bow\nActor Nathan Lang, 78 years old, died in his sleep last night in his house.  Nathan Lang started his acting life in the 1970s.  He was most known for playing Justin Maud in Young Hours.  The movie made the world swoon over him.  Women wanted a husband like him; men wanted a brother like him.  Forever Justin, his fans called him.  After Young Hours, Nathan Lang was seen in several big movies: Fallen, After Tonight, and Killing Jules.  The last one won him a best actor award.  In the 1980s, Nathan Lang lost his shine on the big screen.  During this time, his movies never entered the top 20 list.  Nathan Lang's last movie was Dreams.  Though the movie won him two best actor awards, it did not bring his fans back to the theater.\nThis Saturday morning, 10 o'clock at St. Peter's Church, there will be a \"movie party,\" as Lang wished.  Friends and family will get together and enjoy once again the good times he brought to the world.\n\nHere are reviews about Nathan Lang's movies.\n(A) ...nothing new in the story; Nathan Lang clearly didn't do enough homework about his part in the movie.  It was no surprise that the movie didn't make it into the top 10 list the first week it was out...\n(B) ...it became Nathan Lang's second best-selling movie and also this year's third best-selling movie in the country and may even get him another best actor award...\n(C) ...see him not as the actor Nathan Lang anymore but as the poor old man in the movie.  However, good acting does not always help with ticket sales...\n(D) ...the story is fresh and interesting, but the acting is not.  However, it has been the country's best-selling movie for the past three weeks.  Clearly Nathan Lang's fans cared less about his acting than his handsome face...",
+  "group_id": "PX-CAP103-G07",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-029",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "評論配對推論",
+  "stem": "Here are reviews about Nathan Lang's movies.  From the reading, which is most likely a review for Dreams?",
+  "options": [
+   "...nothing new in the story; Nathan Lang clearly didn't do enough homework about his part in the movie.  It was no surprise that the movie didn't make it into the top 10 list the first week it was out...",
+   "...it became Nathan Lang's second best-selling movie and also this year's third best-selling movie in the country and may even get him another best actor award...",
+   "...see him not as the actor Nathan Lang anymore but as the poor old man in the movie.  However, good acting does not always help with ticket sales...",
+   "...the story is fresh and interesting, but the acting is not.  However, it has been the country's best-selling movie for the past three weeks.  Clearly Nathan Lang's fans cared less about his acting than his handsome face...."
+  ],
+  "answer": 2,
+  "explain_zh": "文章說《Dreams》讓他拿下兩座最佳男主角獎，卻沒能把粉絲拉回電影院，對應評論C「演技精湛到讓人忘記他是Nathan Lang本人，但好演技不代表票房好」，故選 C。其餘評論分別描述票房不佳且演技差（A）、票房極佳（B）或靠外表而非演技賣座（D），都與《Dreams》「得獎卻票房不佳」的描述不符。",
+  "vocab": [
+   {
+    "w": "review",
+    "zh": "評論",
+    "pos": "n."
+   },
+   {
+    "w": "ticket sales",
+    "zh": "票房",
+    "pos": "phr."
+   }
+  ],
+  "passage": "GNB NEWS\nForever Takes a Bow\nActor Nathan Lang, 78 years old, died in his sleep last night in his house.  Nathan Lang started his acting life in the 1970s.  He was most known for playing Justin Maud in Young Hours.  The movie made the world swoon over him.  Women wanted a husband like him; men wanted a brother like him.  Forever Justin, his fans called him.  After Young Hours, Nathan Lang was seen in several big movies: Fallen, After Tonight, and Killing Jules.  The last one won him a best actor award.  In the 1980s, Nathan Lang lost his shine on the big screen.  During this time, his movies never entered the top 20 list.  Nathan Lang's last movie was Dreams.  Though the movie won him two best actor awards, it did not bring his fans back to the theater.\nThis Saturday morning, 10 o'clock at St. Peter's Church, there will be a \"movie party,\" as Lang wished.  Friends and family will get together and enjoy once again the good times he brought to the world.\n\nHere are reviews about Nathan Lang's movies.\n(A) ...nothing new in the story; Nathan Lang clearly didn't do enough homework about his part in the movie.  It was no surprise that the movie didn't make it into the top 10 list the first week it was out...\n(B) ...it became Nathan Lang's second best-selling movie and also this year's third best-selling movie in the country and may even get him another best actor award...\n(C) ...see him not as the actor Nathan Lang anymore but as the poor old man in the movie.  However, good acting does not always help with ticket sales...\n(D) ...the story is fresh and interesting, but the acting is not.  However, it has been the country's best-selling movie for the past three weeks.  Clearly Nathan Lang's fans cared less about his acting than his handsome face...",
+  "group_id": "PX-CAP103-G07",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-030",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail-negative",
+  "tag_zh": "報告細節(反向)",
+  "stem": "Which is NOT true about the report?",
+  "options": [
+   "It tells us what some cities are known for.",
+   "It tells us what some cities need to deal with.",
+   "Green space plays an important part in the report.",
+   "It is the second year that Best Living.Com did the report."
+  ],
+  "answer": 3,
+  "explain_zh": "報告中完全沒有提到這是 Best Living.Com 第幾年做這份排名，因此無法判斷是否為第二年，故選 D。報告確實介紹了各城市的特色（A）、需要改善的問題（B，如Goatville、Cowtown），也多次提到公園、花園等綠地（C）。",
+  "vocab": [
+   {
+    "w": "deal with",
+    "zh": "處理",
+    "pos": "phr."
+   },
+   {
+    "w": "ranking",
+    "zh": "排名",
+    "pos": "n."
+   }
+  ],
+  "passage": "Here is this year's report on the Top Ten Cities of Animal Island by Best Living.Com.\n1 Goosetown: Climbing up from last year's second place, Goosetown comes in first for its lovely parks, cultural centers, and comfortable living space.\n2 Tigerville: Losing its top place to Goosetown, Tigerville is still a beautiful city, and as green as ever.\n3 Duckland: The only city staying in our top three for five years, Duckland is now cleaning itself up for next year's Football World Cup.\n4 Oxtown: Not just a famous business city, Oxtown has turned itself into a garden city.\n5 Lionville: Famous for its culture and beautiful gardens, Lionville is the first city in the north to enter our top five.\n6 Sharkville: With winter sports as good as Oxtown's, this exciting city is our second best pick in the east.\n7 Foxland: This city with white beaches could rise higher in the rankings if there were fewer traffic problems.\n8 Goatville: Dropping two places, Goatville should now think more about parks than shopping centers.\n9 Turtleland: New in our top ten, this old fishing town is full of surprises.\n10 Cowtown: Dropping from number seven, Cowtown must clean up the air.",
+  "group_id": "PX-CAP103-G08",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-031",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "跨段落推論",
+  "stem": "What can we learn about the cities in the report?",
+  "options": [
+   "One city in this year's top five is in the east.",
+   "Few people come to Oxtown to do business.",
+   "No city in the north entered this year's top ten.",
+   "Goosetown is Animal Island's second biggest city."
+  ],
+  "answer": 0,
+  "explain_zh": "Sharkville 被稱為「東部第二名」，代表東部一定有一個排名更前面的城市，而 Sharkville 本身排第六，可推知那個東部最佳城市排在前五名內，故選 A。Oxtown 其實是知名商業城市（B錯），Lionville 是首個進入前五的「北部」城市，代表北部城市確實進榜（C錯），報告也未提及城市大小排名（D）。",
+  "vocab": [
+   {
+    "w": "east",
+    "zh": "東部",
+    "pos": "n."
+   },
+   {
+    "w": "top five",
+    "zh": "前五名",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Here is this year's report on the Top Ten Cities of Animal Island by Best Living.Com.\n1 Goosetown: Climbing up from last year's second place, Goosetown comes in first for its lovely parks, cultural centers, and comfortable living space.\n2 Tigerville: Losing its top place to Goosetown, Tigerville is still a beautiful city, and as green as ever.\n3 Duckland: The only city staying in our top three for five years, Duckland is now cleaning itself up for next year's Football World Cup.\n4 Oxtown: Not just a famous business city, Oxtown has turned itself into a garden city.\n5 Lionville: Famous for its culture and beautiful gardens, Lionville is the first city in the north to enter our top five.\n6 Sharkville: With winter sports as good as Oxtown's, this exciting city is our second best pick in the east.\n7 Foxland: This city with white beaches could rise higher in the rankings if there were fewer traffic problems.\n8 Goatville: Dropping two places, Goatville should now think more about parks than shopping centers.\n9 Turtleland: New in our top ten, this old fishing town is full of surprises.\n10 Cowtown: Dropping from number seven, Cowtown must clean up the air.",
+  "group_id": "PX-CAP103-G08",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-032",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "去年排名邏輯推論",
+  "stem": "Which is the most likely ranking of LAST year's top ten cities of Animal Island?",
+  "options": [
+   "Tigerville, Goosetown, Cowtown, Oxtown, Duckland, Goatville, Lionville, Sharkville, Foxland, Turtleland.",
+   "Tigerville, Goosetown, Duckland, Beartown, Lionville, Sharkville, Goatville, Cowtown, Foxland, Oxtown.",
+   "Goosetown, Tigerville, Duckland, Foxland, Beartown, Goatville, Cowtown, Lionville, Oxtown, Sharkville.",
+   "Tigerville, Goosetown, Duckland, Oxtown, Beartown, Goatville, Cowtown, Lionville, Foxland, Sharkville."
+  ],
+  "answer": 3,
+  "explain_zh": "由文中線索推算：Tigerville「把第一名輸給了Goosetown」表示去年Tigerville是第一、Goosetown第二；Duckland「連續五年蟬聯前三」表示去年也在前三（第三名）；Goatville「掉了兩名」表示去年是第六；Cowtown「從第七名掉下來」表示去年是第七；Turtleland是「首次」進榜，去年不可能在前十；Lionville是「首次」進前五，去年名次要在第五名之外。只有選項D的排列（Tigerville1、Goosetown2、Duckland3、Oxtown4、Beartown5、Goatville6、Cowtown7、Lionville8、Foxland9、Sharkville10）完全符合以上所有條件，故選 D。",
+  "vocab": [
+   {
+    "w": "drop",
+    "zh": "下降、掉落",
+    "pos": "v."
+   },
+   {
+    "w": "likely",
+    "zh": "可能的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Here is this year's report on the Top Ten Cities of Animal Island by Best Living.Com.\n1 Goosetown: Climbing up from last year's second place, Goosetown comes in first for its lovely parks, cultural centers, and comfortable living space.\n2 Tigerville: Losing its top place to Goosetown, Tigerville is still a beautiful city, and as green as ever.\n3 Duckland: The only city staying in our top three for five years, Duckland is now cleaning itself up for next year's Football World Cup.\n4 Oxtown: Not just a famous business city, Oxtown has turned itself into a garden city.\n5 Lionville: Famous for its culture and beautiful gardens, Lionville is the first city in the north to enter our top five.\n6 Sharkville: With winter sports as good as Oxtown's, this exciting city is our second best pick in the east.\n7 Foxland: This city with white beaches could rise higher in the rankings if there were fewer traffic problems.\n8 Goatville: Dropping two places, Goatville should now think more about parks than shopping centers.\n9 Turtleland: New in our top ten, this old fishing town is full of surprises.\n10 Cowtown: Dropping from number seven, Cowtown must clean up the air.",
+  "group_id": "PX-CAP103-G08",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-033",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "訪談內容推論",
+  "stem": "What do we know about the six people in the interview?",
+  "options": [
+   "They all said good things about the roof garden.",
+   "Some of them were paid to help build the roof garden.",
+   "They all talked about the roof garden before it was built.",
+   "Some of them worked on the plan to build the roof garden."
+  ],
+  "answer": 3,
+  "explain_zh": "Jasmine 和 Wilber 都提到當初開會說服鄰居、募款推動屋頂花園的過程，可知他們是參與規劃、推動這個計畫的人，故選 D。Samuel 其實抱怨蟲子和泥巴（A錯，並非人人都說好話），文中沒提到誰因此領錢（B），David、Rosie、Flora 談的都是花園「建好之後」的感受，並非建成前（C錯）。",
+  "vocab": [
+   {
+    "w": "work on a plan",
+    "zh": "參與計畫、推動計畫",
+    "pos": "phr."
+   },
+   {
+    "w": "interview",
+    "zh": "訪談",
+    "pos": "n."
+   }
+  ],
+  "passage": "Six people are being interviewed about the garden on the roof of their building.\nJasmine: I loved the idea when Wilber first told me about it.  We had lots of meetings with our neighbors, trying to make them understand why it's good to build a garden on the roof.  Now people love coming here, and it's helped many of us become friends!\nWilber: The whole thing wasn't easy at first.  But Jasmine helped a lot.  And she was really good at making people happy to give money for the roof garden.\nDavid: My kids love going up there.  They sit there watching butterflies and birds.  The roof garden brings them closer to nature.\nSamuel: You want something green?  Visit the park!  It's only one block away!  After the roof garden was built, bugs started flying into my apartment!  And the kids leave mud on the stairs when they come down from the roof!\nRosie: Our building is now cooler in the summer.  My baby sleeps well even on hot summer days!\nFlora: Guess where these tomatoes are from!  Not from the supermarket.  They're from our roof!  Isn't that wonderful?",
+  "group_id": "PX-CAP103-G09",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-034",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail-negative",
+  "tag_zh": "訪談細節(反向)",
+  "stem": "Which of the good things about the roof garden is NOT talked about in the interview?",
+  "options": [
+   "It brings people in the building closer together.",
+   "It uses the rainwater that falls on the top of the building.",
+   "It makes the building a more comfortable place during summer.",
+   "It gives people in the building a chance to grow their own food."
+  ],
+  "answer": 1,
+  "explain_zh": "訪談中完全沒有人提到屋頂花園有「收集雨水利用」的功能，故選 B。其餘三項都在訪談中被提到：拉近鄰居感情（A，Jasmine）、讓建築物夏天更涼爽（C，Rosie）、讓居民自己種菜（D，Flora種的番茄）。",
+  "vocab": [
+   {
+    "w": "rainwater",
+    "zh": "雨水",
+    "pos": "n."
+   },
+   {
+    "w": "grow food",
+    "zh": "種植食物",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Six people are being interviewed about the garden on the roof of their building.\nJasmine: I loved the idea when Wilber first told me about it.  We had lots of meetings with our neighbors, trying to make them understand why it's good to build a garden on the roof.  Now people love coming here, and it's helped many of us become friends!\nWilber: The whole thing wasn't easy at first.  But Jasmine helped a lot.  And she was really good at making people happy to give money for the roof garden.\nDavid: My kids love going up there.  They sit there watching butterflies and birds.  The roof garden brings them closer to nature.\nSamuel: You want something green?  Visit the park!  It's only one block away!  After the roof garden was built, bugs started flying into my apartment!  And the kids leave mud on the stairs when they come down from the roof!\nRosie: Our building is now cooler in the summer.  My baby sleeps well even on hot summer days!\nFlora: Guess where these tomatoes are from!  Not from the supermarket.  They're from our roof!  Isn't that wonderful?",
+  "group_id": "PX-CAP103-G09",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-035",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What does the whole thing mean in the interview?",
+  "options": [
+   "Having meetings at the roof garden.",
+   "Taking care of the roof garden every day.",
+   "Having people agree to the idea of the roof garden.",
+   "Inviting people to make more use of the roof garden."
+  ],
+  "answer": 2,
+  "explain_zh": "Wilber 接著說「一開始並不容易，但 Jasmine 幫了大忙，她很擅長讓大家願意捐錢蓋屋頂花園」，可知 the whole thing 指的是「說服大家同意並支持這個構想」的整個過程，故選 C。",
+  "vocab": [
+   {
+    "w": "agree to",
+    "zh": "同意",
+    "pos": "phr."
+   },
+   {
+    "w": "at first",
+    "zh": "起初",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Six people are being interviewed about the garden on the roof of their building.\nJasmine: I loved the idea when Wilber first told me about it.  We had lots of meetings with our neighbors, trying to make them understand why it's good to build a garden on the roof.  Now people love coming here, and it's helped many of us become friends!\nWilber: The whole thing wasn't easy at first.  But Jasmine helped a lot.  And she was really good at making people happy to give money for the roof garden.\nDavid: My kids love going up there.  They sit there watching butterflies and birds.  The roof garden brings them closer to nature.\nSamuel: You want something green?  Visit the park!  It's only one block away!  After the roof garden was built, bugs started flying into my apartment!  And the kids leave mud on the stairs when they come down from the roof!\nRosie: Our building is now cooler in the summer.  My baby sleeps well even on hot summer days!\nFlora: Guess where these tomatoes are from!  Not from the supermarket.  They're from our roof!  Isn't that wonderful?",
+  "group_id": "PX-CAP103-G09",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-036",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "現在式表常態",
+  "stem": "And I..., well, I ____ it too.",
+  "options": [
+   "hate",
+   "have hated",
+   "used to hate",
+   "would hate"
+  ],
+  "answer": 0,
+  "explain_zh": "前句說「所有朋友都討厭尖峰時間搭公車」，這裡呼應說明自己現在也「討厭」搭公車，用現在簡單式表達目前的心境，故選 hate。have hated、used to hate、would hate 的時態都與此處單純陳述現況的語氣不符。",
+  "vocab": [
+   {
+    "w": "rush hour",
+    "zh": "尖峰時間",
+    "pos": "phr."
+   },
+   {
+    "w": "hate",
+    "zh": "討厭",
+    "pos": "v."
+   }
+  ],
+  "passage": "Reader's Story\nIt's never comfortable to take a bus during rush hour on a hot summer day.  All my friends hate it.  And I..., well, I ____ it too.\nThe story happened two months ago.  I was on a bus that was packed with almost everyone in the city.  I ____ my friend Neal to see a show.  And then he called and said he couldn't come.  \"This is not what I planned for Friday!\" I thought.  The air on the bus was terrible; the man in front of me smelled like dead fish.  While I was feeling sorry for myself, a girl called my name.  I didn't recognize her at first.  Then I was surprised to find that she was Hui-ting, my old neighbor.  I ____ Hui-ting in years.  We used to play together every day when we were kids.  We were happy to see each other, so we decided to have dinner together.  And that was the start of many dinners after.\nWith Hui-ting, the bus ride ____ something I love.  The bus is still packed with people, but I enjoy the ride every day.\n(Xiang Chang, Taipei)",
+  "group_id": "PX-CAP103-G10",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-037",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "過去未來式",
+  "stem": "I ____ my friend Neal to see a show.  And then he called and said he couldn't come.",
+  "options": [
+   "used to meet",
+   "was going to meet",
+   "have met",
+   "had met"
+  ],
+  "answer": 1,
+  "explain_zh": "描述「原本打算」和 Neal 見面看表演，卻被一通電話取消，was going to 表達「過去原本計畫要做卻沒做成」的事，故選 was going to meet。used to meet 表過去的習慣、have met、had met 的時態都無法呈現「計畫落空」的語感。",
+  "vocab": [
+   {
+    "w": "be going to",
+    "zh": "原本打算",
+    "pos": "phr."
+   },
+   {
+    "w": "show",
+    "zh": "表演",
+    "pos": "n."
+   }
+  ],
+  "passage": "Reader's Story\nIt's never comfortable to take a bus during rush hour on a hot summer day.  All my friends hate it.  And I..., well, I ____ it too.\nThe story happened two months ago.  I was on a bus that was packed with almost everyone in the city.  I ____ my friend Neal to see a show.  And then he called and said he couldn't come.  \"This is not what I planned for Friday!\" I thought.  The air on the bus was terrible; the man in front of me smelled like dead fish.  While I was feeling sorry for myself, a girl called my name.  I didn't recognize her at first.  Then I was surprised to find that she was Hui-ting, my old neighbor.  I ____ Hui-ting in years.  We used to play together every day when we were kids.  We were happy to see each other, so we decided to have dinner together.  And that was the start of many dinners after.\nWith Hui-ting, the bus ride ____ something I love.  The bus is still packed with people, but I enjoy the ride every day.\n(Xiang Chang, Taipei)",
+  "group_id": "PX-CAP103-G10",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-038",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "過去完成式",
+  "stem": "Then I was surprised to find that she was Hui-ting, my old neighbor.  I ____ Hui-ting in years.",
+  "options": [
+   "won't see",
+   "wouldn't see",
+   "haven't seen",
+   "hadn't seen"
+  ],
+  "answer": 3,
+  "explain_zh": "「認出她是多年沒見的老鄰居」這件事發生在過去（公車上那次相遇），而「已經好幾年沒見到她」是比那更早、持續到那個過去時間點的狀態，要用過去完成式，故選 hadn't seen。won't see、wouldn't see 語意不合，haven't seen 是現在完成式，時態基準點錯誤。",
+  "vocab": [
+   {
+    "w": "recognize",
+    "zh": "認出",
+    "pos": "v."
+   },
+   {
+    "w": "neighbor",
+    "zh": "鄰居",
+    "pos": "n."
+   }
+  ],
+  "passage": "Reader's Story\nIt's never comfortable to take a bus during rush hour on a hot summer day.  All my friends hate it.  And I..., well, I ____ it too.\nThe story happened two months ago.  I was on a bus that was packed with almost everyone in the city.  I ____ my friend Neal to see a show.  And then he called and said he couldn't come.  \"This is not what I planned for Friday!\" I thought.  The air on the bus was terrible; the man in front of me smelled like dead fish.  While I was feeling sorry for myself, a girl called my name.  I didn't recognize her at first.  Then I was surprised to find that she was Hui-ting, my old neighbor.  I ____ Hui-ting in years.  We used to play together every day when we were kids.  We were happy to see each other, so we decided to have dinner together.  And that was the start of many dinners after.\nWith Hui-ting, the bus ride ____ something I love.  The bus is still packed with people, but I enjoy the ride every day.\n(Xiang Chang, Taipei)",
+  "group_id": "PX-CAP103-G10",
+  "source": "103會考"
+ },
+ {
+  "id": "PX-CAP103-039",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "現在完成式",
+  "stem": "With Hui-ting, the bus ride ____ something I love.  The bus is still packed with people, but I enjoy the ride every day.",
+  "options": [
+   "has become",
+   "had become",
+   "will become",
+   "would become"
+  ],
+  "answer": 0,
+  "explain_zh": "後句說「現在每天都很享受搭車」，可知從重逢Hui-ting那次之後到現在，搭公車「已經變成」他喜歡的事，用現在完成式表達從過去持續影響到現在的改變，故選 has become。had become 是過去完成式、will become、would become 都是未來或假設語氣，皆與「直到現在依然如此」的語境不符。",
+  "vocab": [
+   {
+    "w": "become",
+    "zh": "變成",
+    "pos": "v."
+   },
+   {
+    "w": "pack",
+    "zh": "擠滿",
+    "pos": "v."
+   }
+  ],
+  "passage": "Reader's Story\nIt's never comfortable to take a bus during rush hour on a hot summer day.  All my friends hate it.  And I..., well, I ____ it too.\nThe story happened two months ago.  I was on a bus that was packed with almost everyone in the city.  I ____ my friend Neal to see a show.  And then he called and said he couldn't come.  \"This is not what I planned for Friday!\" I thought.  The air on the bus was terrible; the man in front of me smelled like dead fish.  While I was feeling sorry for myself, a girl called my name.  I didn't recognize her at first.  Then I was surprised to find that she was Hui-ting, my old neighbor.  I ____ Hui-ting in years.  We used to play together every day when we were kids.  We were happy to see each other, so we decided to have dinner together.  And that was the start of many dinners after.\nWith Hui-ting, the bus ride ____ something I love.  The bus is still packed with people, but I enjoy the ride every day.\n(Xiang Chang, Taipei)",
+  "group_id": "PX-CAP103-G10",
+  "source": "103會考"
+ }
+]

@@ -1,0 +1,1197 @@
+[
+ {
+  "id": "PX-CAP107-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:noun",
+  "tag_zh": "天氣名詞",
+  "stem": "The ____ is so strong today that my hair keeps blowing in the air.",
+  "options": [
+   "rain",
+   "snow",
+   "sun",
+   "wind"
+  ],
+  "answer": 3,
+  "explain_zh": "頭髮一直被吹得亂飄，可知今天「風」很大，故選 wind。rain（雨）、snow（雪）、sun（太陽）都不會讓頭髮飄動，只有風才會有這種效果。",
+  "vocab": [
+   {
+    "w": "wind",
+    "zh": "風",
+    "pos": "n."
+   },
+   {
+    "w": "blow",
+    "zh": "吹",
+    "pos": "v."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "stem": "When the baby cried, Mr. Wu ____ in the kitchen and did not hear it.",
+  "options": [
+   "cooked",
+   "was cooking",
+   "has cooked",
+   "is going to cook"
+  ],
+  "answer": 1,
+  "explain_zh": "寶寶哭的時候（過去某時間點），吳先生正在廚房做某件事而沒聽到，用過去進行式表達「過去某時正在做的動作」，故選 was cooking。cooked、has cooked、is going to cook 的時態都無法對應「當下正在做」的情境。",
+  "vocab": [
+   {
+    "w": "cook",
+    "zh": "烹煮",
+    "pos": "v."
+   },
+   {
+    "w": "hear",
+    "zh": "聽到",
+    "pos": "v."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:simple-past",
+  "tag_zh": "過去式表原因",
+  "stem": "I don't have any money with me because I ____ my wallet this morning.",
+  "options": [
+   "had lost",
+   "would lose",
+   "lost",
+   "was losing"
+  ],
+  "answer": 2,
+  "explain_zh": "今天早上「弄丟」了錢包，是單一的過去動作，用簡單過去式最自然，故選 lost。had lost 是過去完成式，暗示比某更早的過去發生；would lose、was losing 時態語意都不合。",
+  "vocab": [
+   {
+    "w": "lose",
+    "zh": "遺失",
+    "pos": "v."
+   },
+   {
+    "w": "wallet",
+    "zh": "錢包",
+    "pos": "n."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "形容詞語意",
+  "stem": "You need not only good luck but also hard work to become a ____ baseball player.",
+  "options": [
+   "young",
+   "successful",
+   "happy",
+   "friendly"
+  ],
+  "answer": 1,
+  "explain_zh": "句意說要成為棒球選手不只需要運氣還要努力，也就是要成為「成功的」選手，故選 successful。young（年輕的）、happy（快樂的）、friendly（友善的）都與「運氣加努力」所換來的結果無關。",
+  "vocab": [
+   {
+    "w": "successful",
+    "zh": "成功的",
+    "pos": "adj."
+   },
+   {
+    "w": "not only...but also",
+    "zh": "不只…而且",
+    "pos": "phr."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:noun",
+  "tag_zh": "人物關係名詞",
+  "stem": "The woman who lives next door to Ken is a ____ to him.  They have never met and he doesn't even know her name.",
+  "options": [
+   "daughter",
+   "friend",
+   "stranger",
+   "teacher"
+  ],
+  "answer": 2,
+  "explain_zh": "後句說他們從未見過面、連對方名字都不知道，可知這位鄰居對 Ken 來說是「陌生人」，故選 stranger。daughter、friend、teacher 都與「從未謀面」的描述矛盾。",
+  "vocab": [
+   {
+    "w": "stranger",
+    "zh": "陌生人",
+    "pos": "n."
+   },
+   {
+    "w": "next door",
+    "zh": "隔壁",
+    "pos": "phr."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "形容詞語意",
+  "stem": "With the new bus line, it is much more ____ for Fanny to go to school.  It saves her a lot of time now.",
+  "options": [
+   "useful",
+   "possible",
+   "interesting",
+   "convenient"
+  ],
+  "answer": 3,
+  "explain_zh": "新公車路線讓 Fanny 省下很多時間，代表通學變得更「方便」，故選 convenient。useful（有用的）、possible（可能的）、interesting（有趣的）都無法貼切表達「省時省力」的語意。",
+  "vocab": [
+   {
+    "w": "convenient",
+    "zh": "方便的",
+    "pos": "adj."
+   },
+   {
+    "w": "save time",
+    "zh": "省時",
+    "pos": "phr."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:future-tense",
+  "tag_zh": "未來式簡答",
+  "stem": "Dad: Have you brushed your teeth yet?\nAnn: No, but I ____ before I go to bed.",
+  "options": [
+   "haven't",
+   "have",
+   "won't",
+   "will"
+  ],
+  "answer": 3,
+  "explain_zh": "爸爸問「你刷牙了嗎」，Ann 回答「還沒，但睡前會刷」，描述未來會做的事要用未來式，故選 will。haven't、have 是現在完成式的否定/肯定回答，won't 表示「不會」語意相反，都不符合「等一下會刷」的意思。",
+  "vocab": [
+   {
+    "w": "brush teeth",
+    "zh": "刷牙",
+    "pos": "phr."
+   },
+   {
+    "w": "before",
+    "zh": "在…之前",
+    "pos": "conj."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:wh-words",
+  "tag_zh": "疑問詞子句",
+  "stem": "Alice: Do you know ____ Grandma is going to visit us?  Willy: It's next week.  She told me on the phone.  And we'll take her to the national park.",
+  "options": [
+   "where",
+   "when",
+   "whether",
+   "why"
+  ],
+  "answer": 1,
+  "explain_zh": "Willy 回答 It's next week（下週），可知 Alice 問的是奶奶「什麼時候」要來，故選 when。where 問地點、whether 問是否、why 問原因，都與回答「next week」對不上。",
+  "vocab": [
+   {
+    "w": "visit",
+    "zh": "拜訪",
+    "pos": "v."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive",
+  "tag_zh": "不定詞表目的/結果",
+  "stem": "It took the police lots of time ____ who entered Liu's house and killed her one year ago.",
+  "options": [
+   "and found out",
+   "find out",
+   "finding out",
+   "to find out"
+  ],
+  "answer": 3,
+  "explain_zh": "It takes/took + 時間 + to V 是固定句型，表示「花了…時間去做某事」，故選 to find out。and found out 文法不合、find out 缺少 to、finding out 也不符合此句型，皆不能接在 It took the police lots of time 後面。",
+  "vocab": [
+   {
+    "w": "find out",
+    "zh": "查明",
+    "pos": "phr.v."
+   },
+   {
+    "w": "enter",
+    "zh": "進入",
+    "pos": "v."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-voice",
+  "tag_zh": "被動語態",
+  "stem": "Many famous people visit this restaurant.  Popular singers like A-mei and Jay Chou ____ here with their friends.",
+  "options": [
+   "to be often seen",
+   "often seen",
+   "are often seen",
+   "and are often seen"
+  ],
+  "answer": 2,
+  "explain_zh": "singers 是主詞，後面要接完整的被動語態動詞（現在簡單式被動），故選 are often seen（常常被看見）。to be often seen 缺主要動詞、often seen 少了 be 動詞、and are often seen 多了不必要的連接詞 and，句構都不完整。",
+  "vocab": [
+   {
+    "w": "be seen",
+    "zh": "被看見",
+    "pos": "phr."
+   },
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "pos": "adj."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:noun",
+  "tag_zh": "名詞語意",
+  "stem": "The factory has been throwing trash into the river for years.  Now ____ must be taken to stop this.",
+  "options": [
+   "action",
+   "chances",
+   "exercise",
+   "notes"
+  ],
+  "answer": 0,
+  "explain_zh": "工廠長年排放廢水到河裡，後句說「必須採取…」來阻止，可知要採取「行動」，故選 action。take action 是固定搭配，表示「採取行動」；chances（機會）、exercise（運動）、notes（筆記）都無法與「阻止汙染」搭配。",
+  "vocab": [
+   {
+    "w": "take action",
+    "zh": "採取行動",
+    "pos": "phr."
+   },
+   {
+    "w": "trash",
+    "zh": "垃圾",
+    "pos": "n."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verb",
+  "tag_zh": "動詞語意",
+  "stem": "The beach party tonight ____ the end of our summer vacation.  Tomorrow we are all going back home and getting ready for school.",
+  "options": [
+   "changes",
+   "marks",
+   "passes",
+   "saves"
+  ],
+  "answer": 1,
+  "explain_zh": "今晚的沙灘派對「標誌著」暑假的結束，明天大家就要回家準備開學，故選 marks（象徵、標誌著）。changes（改變）、passes（經過）、saves（節省）都無法表達「這件事代表某個階段的結束」。",
+  "vocab": [
+   {
+    "w": "mark",
+    "zh": "象徵、標誌",
+    "pos": "v."
+   },
+   {
+    "w": "vacation",
+    "zh": "假期",
+    "pos": "n."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "phrase",
+  "tag": "phrase:idiom",
+  "tag_zh": "慣用語意",
+  "stem": "Anyone who reads Loren's business plan will quickly see some serious problems in it, or ____ feel something is not right.",
+  "options": [
+   "at least",
+   "even",
+   "in fact",
+   "still"
+  ],
+  "answer": 0,
+  "explain_zh": "句意是「看了計畫書的人，都會發現嚴重的問題，『至少』會覺得哪裡怪怪的」，即使程度較輕也會有感覺，故選 at least（至少）。even（甚至）、in fact（事實上）、still（仍然）語意上都不如 at least 貼切表達「退一步說」的語氣。",
+  "vocab": [
+   {
+    "w": "at least",
+    "zh": "至少",
+    "pos": "phr."
+   },
+   {
+    "w": "business plan",
+    "zh": "營運計畫",
+    "pos": "n."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞語意",
+  "stem": "I've wanted to read The Diary of a Young Girl for months, ____ today I finally borrowed the book from the library.",
+  "options": [
+   "and",
+   "since",
+   "so",
+   "until"
+  ],
+  "answer": 0,
+  "explain_zh": "根據官方答案，本題正解是 and：句子描述「想讀這本書好幾個月了，『而』今天終於從圖書館借到了」，and 單純連接兩個先後發生的事件，語意通順。since（自從）、until（直到）在文法上都無法直接這樣連接兩個完整子句，so 雖然語感上也說得通，但官方公布的答案是 and。（此題經與 107 年會考官方答案卡核對後更正）",
+  "vocab": [
+   {
+    "w": "borrow",
+    "zh": "借（入）",
+    "pos": "v."
+   },
+   {
+    "w": "finally",
+    "zh": "終於",
+    "pos": "adv."
+   }
+  ],
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-015",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "He stopped to look around, but didn't see anything ____.",
+  "options": [
+   "like a snake",
+   "that could move",
+   "except a little snake",
+   "that could make noise"
+  ],
+  "answer": 2,
+  "explain_zh": "Robert 聽到有人叫他的名字，回頭卻什麼都沒看到，只瞥見一條會動的東西一閃而過，故選 except a little snake（除了一條小蛇之外）。這個安排也呼應後文他發現剛剛看到的正是一條蛇。",
+  "vocab": [
+   {
+    "w": "except",
+    "zh": "除了…之外",
+    "pos": "prep."
+   },
+   {
+    "w": "notice",
+    "zh": "注意到",
+    "pos": "v."
+   }
+  ],
+  "passage": "Robert likes to take a walk in the park after work.  One day when he was walking in the park, he heard a woman calling his name.  He stopped to look around, but didn't see anything __16__.  Shortly after Robert saw it, it was gone.\nThough Robert felt a little strange, he did not think about it too much and sat down for a rest on a bench in the park.  Then he noticed the snake he had just seen __17__.  Robert was too afraid to move away from the bench.  Right at this moment, a woman behind him shouted, \"Come here, Robert.  You can't stay on the bench like that.  __18__.\"\nIn surprise, Robert turned around and said to the woman, \"Excuse me, but that's not a very nice thing to say, and in fact some people say I'm handsome.\"\n\"I'm not talking to you,\" said the woman.  \"I'm telling Robert, my pet snake, to get down from the bench, not you.\"",
+  "group_id": "PX-CAP107-G01",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "Then he noticed the snake he had just seen ____.",
+  "options": [
+   "climbing up the bench",
+   "running after a woman",
+   "stopping beside his feet",
+   "falling down from a tree"
+  ],
+  "answer": 0,
+  "explain_zh": "根據官方答案，正解是 climbing up the bench：Robert 剛剛才瞥見一條蛇，此時發現牠正「爬上長椅」，也就是爬到他坐的地方，這正好解釋了他為什麼嚇得不敢移動。其餘選項（追著女子跑、停在腳邊、從樹上掉下來）都無法像「蛇正爬上椅子」那樣直接合理化他「太害怕不敢離開長椅」的反應。（此題經與 107 年會考官方答案卡核對後更正）",
+  "vocab": [
+   {
+    "w": "climb up",
+    "zh": "爬上",
+    "pos": "phr.v."
+   },
+   {
+    "w": "bench",
+    "zh": "長椅",
+    "pos": "n."
+   }
+  ],
+  "passage": "Robert likes to take a walk in the park after work.  One day when he was walking in the park, he heard a woman calling his name.  He stopped to look around, but didn't see anything __16__.  Shortly after Robert saw it, it was gone.\nThough Robert felt a little strange, he did not think about it too much and sat down for a rest on a bench in the park.  Then he noticed the snake he had just seen __17__.  Robert was too afraid to move away from the bench.  Right at this moment, a woman behind him shouted, \"Come here, Robert.  You can't stay on the bench like that.  __18__.\"\nIn surprise, Robert turned around and said to the woman, \"Excuse me, but that's not a very nice thing to say, and in fact some people say I'm handsome.\"\n\"I'm not talking to you,\" said the woman.  \"I'm telling Robert, my pet snake, to get down from the bench, not you.\"",
+  "group_id": "PX-CAP107-G01",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "\"Come here, Robert.  You can't stay on the bench like that.  ____.\"",
+  "options": [
+   "The bench is broken",
+   "The seat has been taken",
+   "People will be scared by you",
+   "The paint of the bench is still wet"
+  ],
+  "answer": 2,
+  "explain_zh": "女子接著喊「你不能繼續坐在椅子上」，最合理的後續理由是「你會嚇到大家」，故選 People will be scared by you，呼應故事結尾才揭曉她其實是在叫她的寵物蛇 Robert，而非在跟男主角說話。",
+  "vocab": [
+   {
+    "w": "scared",
+    "zh": "害怕的",
+    "pos": "adj."
+   },
+   {
+    "w": "stay",
+    "zh": "停留",
+    "pos": "v."
+   }
+  ],
+  "passage": "Robert likes to take a walk in the park after work.  One day when he was walking in the park, he heard a woman calling his name.  He stopped to look around, but didn't see anything __16__.  Shortly after Robert saw it, it was gone.\nThough Robert felt a little strange, he did not think about it too much and sat down for a rest on a bench in the park.  Then he noticed the snake he had just seen __17__.  Robert was too afraid to move away from the bench.  Right at this moment, a woman behind him shouted, \"Come here, Robert.  You can't stay on the bench like that.  __18__.\"\nIn surprise, Robert turned around and said to the woman, \"Excuse me, but that's not a very nice thing to say, and in fact some people say I'm handsome.\"\n\"I'm not talking to you,\" said the woman.  \"I'm telling Robert, my pet snake, to get down from the bench, not you.\"",
+  "group_id": "PX-CAP107-G01",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "Over the past 20 years, this city has used smart ways ____.",
+  "options": [
+   "to make traffic lighter",
+   "to invite people to visit",
+   "to make itself a famous city",
+   "to build more parking spaces"
+  ],
+  "answer": 0,
+  "explain_zh": "後文舉例蘇黎世用「車位總數不變」的方式讓人覺得停車更難，藉此讓大家減少開車，這是為了「讓交通變得更輕鬆（車潮減少）」，故選 to make traffic lighter。其餘選項都與市府刻意讓開車變麻煩的用意相反。",
+  "vocab": [
+   {
+    "w": "parking space",
+    "zh": "停車位",
+    "pos": "n."
+   },
+   {
+    "w": "traffic",
+    "zh": "交通、車流",
+    "pos": "n."
+   }
+  ],
+  "passage": "If you cannot live without your car, Zurich might be the last city you would like to visit.  In Zurich, people are welcome, but cars are not!  Over the past 20 years, this city has used smart ways __19__.  One is to keep the same total number of parking spaces.  For example, if 50 new parking spaces are built in one part of the city, then 50 old spaces in other parts are taken away for other uses.  So the total number does not change.  Some are unhappy that there are never enough spaces.  That is just what the city has in mind: If people find parking more difficult, they will drive less.\n__20__, the total number of cars in the city is counted.  Over 3,500 little computers are put under Zurich roads to check the number of cars that enter the city.  If the number is higher than the city can deal with, the traffic lights on the roads that enter the city will be kept red.  So drivers who are traveling into Zurich have to stop and wait until there are fewer cars in the city.  Now, you may wonder __21__.  The answer is simple: The city wants to make more space for its people.",
+  "group_id": "PX-CAP107-G02",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-019",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:transition-word",
+  "tag_zh": "轉折/銜接語",
+  "stem": "____, the total number of cars in the city is counted.",
+  "options": [
+   "This way",
+   "However",
+   "For example",
+   "Also"
+  ],
+  "answer": 3,
+  "explain_zh": "後句描述路面下埋設 3,500 個小電腦，這是用來「統計」進城車輛數的另一項做法，與前段的停車位策略並列補充，故選 Also（此外）。This way、However、For example 語意上都不符合「再舉一項新做法」的銜接關係。",
+  "vocab": [
+   {
+    "w": "also",
+    "zh": "此外、也",
+    "pos": "adv."
+   },
+   {
+    "w": "count",
+    "zh": "計算",
+    "pos": "v."
+   }
+  ],
+  "passage": "If you cannot live without your car, Zurich might be the last city you would like to visit.  In Zurich, people are welcome, but cars are not!  Over the past 20 years, this city has used smart ways __19__.  One is to keep the same total number of parking spaces.  For example, if 50 new parking spaces are built in one part of the city, then 50 old spaces in other parts are taken away for other uses.  So the total number does not change.  Some are unhappy that there are never enough spaces.  That is just what the city has in mind: If people find parking more difficult, they will drive less.\n__20__, the total number of cars in the city is counted.  Over 3,500 little computers are put under Zurich roads to check the number of cars that enter the city.  If the number is higher than the city can deal with, the traffic lights on the roads that enter the city will be kept red.  So drivers who are traveling into Zurich have to stop and wait until there are fewer cars in the city.  Now, you may wonder __21__.  The answer is simple: The city wants to make more space for its people.",
+  "group_id": "PX-CAP107-G02",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-020",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "Now, you may wonder ____.  The answer is simple: The city wants to make more space for its people.",
+  "options": [
+   "why Zurich is doing this",
+   "what all this has cost Zurich",
+   "if Zurich should try other ways",
+   "if Zurich can deal with angry drivers"
+  ],
+  "answer": 0,
+  "explain_zh": "後句直接給出答案「這麼做是為了讓市民有更多空間」，可知前面問的是「蘇黎世為什麼要這樣做」，故選 why Zurich is doing this。其餘選項問的是花費、該不該用其他方法、能否應付怒氣中的駕駛，都與後面給的答案對不上。",
+  "vocab": [
+   {
+    "w": "wonder",
+    "zh": "想知道",
+    "pos": "v."
+   }
+  ],
+  "passage": "If you cannot live without your car, Zurich might be the last city you would like to visit.  In Zurich, people are welcome, but cars are not!  Over the past 20 years, this city has used smart ways __19__.  One is to keep the same total number of parking spaces.  For example, if 50 new parking spaces are built in one part of the city, then 50 old spaces in other parts are taken away for other uses.  So the total number does not change.  Some are unhappy that there are never enough spaces.  That is just what the city has in mind: If people find parking more difficult, they will drive less.\n__20__, the total number of cars in the city is counted.  Over 3,500 little computers are put under Zurich roads to check the number of cars that enter the city.  If the number is higher than the city can deal with, the traffic lights on the roads that enter the city will be kept red.  So drivers who are traveling into Zurich have to stop and wait until there are fewer cars in the city.  Now, you may wonder __21__.  The answer is simple: The city wants to make more space for its people.",
+  "group_id": "PX-CAP107-G02",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-021",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "stem": "What is the reading mostly about?",
+  "options": [
+   "Where to find a nice holiday apartment.",
+   "How to choose a nice holiday apartment.",
+   "Why one should choose a holiday apartment.",
+   "How one can change their house into a holiday apartment."
+  ],
+  "answer": 2,
+  "explain_zh": "文章一開始先描述旅館太貴、青年旅館又要和陌生人同房的困擾，再介紹「假期公寓」這個新選擇，全文重點在說明選擇假期公寓的理由，故選 C。文章沒有告訴讀者去哪裡找（A）或如何挑選（B）合適的公寓。",
+  "vocab": [
+   {
+    "w": "holiday apartment",
+    "zh": "假期公寓",
+    "pos": "n."
+   },
+   {
+    "w": "hostel",
+    "zh": "青年旅館",
+    "pos": "n."
+   }
+  ],
+  "passage": "What kind of place do you usually choose to stay for the night during a trip?  Expensive hotels that may make you feel like you don't get what you pay for?  Or cheap hostels that put you and five other strangers in the same bedroom?  If both choices sound terrible to you, here's something new: holiday apartments.\nIn a holiday apartment, you have more space than what a hotel room can give you.  Everything in the apartment is at your disposal.  The living room, the kitchen, the study, and, of course, the bedrooms are all for your own use.  Some apartments even have a lovely garden or a game room.  You'll feel at home in the holiday apartment.  The best thing is, a holiday apartment is not expensive.  The price for a holiday apartment is for two people, and the apartment is often cheaper than a hotel room for two.  You only need to pay a little more for a third or fourth person.  If you travel with friends or your family, a holiday apartment will be your best choice!\nEdward's Travel Tips",
+  "group_id": "PX-CAP107-G03",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-022",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論適用對象",
+  "stem": "From the reading, what can we learn about holiday apartments?",
+  "options": [
+   "They are good for people who like to take one-day trips.",
+   "They are good for people who travel in a group of three or more.",
+   "They are good for people who want to make new friends when traveling.",
+   "They are good for people who like to spend their holidays in the country."
+  ],
+  "answer": 1,
+  "explain_zh": "文末說明公寓的價格是以兩人計算，第三、第四人只需加一點費用，很適合親友多人同行分攤費用，故選 B。文章重點是多人共住省錢，並非為了單日遊（A）、交朋友（C）或鄉間度假（D）而設計。",
+  "vocab": [
+   {
+    "w": "apartment",
+    "zh": "公寓",
+    "pos": "n."
+   },
+   {
+    "w": "a group of",
+    "zh": "一群…",
+    "pos": "phr."
+   }
+  ],
+  "passage": "What kind of place do you usually choose to stay for the night during a trip?  Expensive hotels that may make you feel like you don't get what you pay for?  Or cheap hostels that put you and five other strangers in the same bedroom?  If both choices sound terrible to you, here's something new: holiday apartments.\nIn a holiday apartment, you have more space than what a hotel room can give you.  Everything in the apartment is at your disposal.  The living room, the kitchen, the study, and, of course, the bedrooms are all for your own use.  Some apartments even have a lovely garden or a game room.  You'll feel at home in the holiday apartment.  The best thing is, a holiday apartment is not expensive.  The price for a holiday apartment is for two people, and the apartment is often cheaper than a hotel room for two.  You only need to pay a little more for a third or fourth person.  If you travel with friends or your family, a holiday apartment will be your best choice!\nEdward's Travel Tips",
+  "group_id": "PX-CAP107-G03",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-023",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "stem": "What does it mean to say that something is at your disposal?",
+  "options": [
+   "You are free to use it.",
+   "You can find it everywhere.",
+   "You know everything about it.",
+   "You can buy it at a lower price."
+  ],
+  "answer": 0,
+  "explain_zh": "at your disposal 用來形容公寓裡的客廳、廚房、書房都「任你自由使用」，故選 A（你可以自由使用它）。文中沒有暗示到處都找得到（B）、你對它瞭若指掌（C）或可以用更便宜的價錢買到（D）。",
+  "vocab": [
+   {
+    "w": "at one's disposal",
+    "zh": "供某人自由使用",
+    "pos": "phr."
+   }
+  ],
+  "passage": "What kind of place do you usually choose to stay for the night during a trip?  Expensive hotels that may make you feel like you don't get what you pay for?  Or cheap hostels that put you and five other strangers in the same bedroom?  If both choices sound terrible to you, here's something new: holiday apartments.\nIn a holiday apartment, you have more space than what a hotel room can give you.  Everything in the apartment is at your disposal.  The living room, the kitchen, the study, and, of course, the bedrooms are all for your own use.  Some apartments even have a lovely garden or a game room.  You'll feel at home in the holiday apartment.  The best thing is, a holiday apartment is not expensive.  The price for a holiday apartment is for two people, and the apartment is often cheaper than a hotel room for two.  You only need to pay a little more for a third or fourth person.  If you travel with friends or your family, a holiday apartment will be your best choice!\nEdward's Travel Tips",
+  "group_id": "PX-CAP107-G03",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-024",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "流程主旨",
+  "stem": "What is the quick lesson of SHARP WEAR about?",
+  "options": [
+   "How to get to one of SHARP WEAR 's stores.",
+   "How to send back a T-shirt to SHARP WEAR .",
+   "How to shop for a T-shirt from SHARP WEAR .",
+   "How to take care of a T-shirt from SHARP WEAR ."
+  ],
+  "answer": 2,
+  "explain_zh": "文章列出選 T 恤款式、顏色、圖案、口袋、尺寸、數量到付款的完整流程，就是在教第一次來的顧客「如何選購一件 T 恤」，故選 C。內容沒有介紹如何到店裡（A）、退貨流程（B）或保養方式（D）。",
+  "vocab": [
+   {
+    "w": "quick lesson",
+    "zh": "簡易教學",
+    "pos": "phr."
+   },
+   {
+    "w": "pocket",
+    "zh": "口袋",
+    "pos": "n."
+   }
+  ],
+  "passage": "SHARP WEAR: A T-shirt like no other!  First time here?  Don't worry!  Here is our quick lesson for you!\n1. What kind of T-shirt do you like? (4 kinds of T-shirts to choose from!)\n2. What color for the T-shirt? (We have as many as 16 colors!)\n3. Want a picture on your T-shirt?  No, thank you. / Oh yes! (Now choose from one of our 72 pictures or send us your own!)\n4. Pocket?  No pocket? / Of course!  What kind of pocket then? (We've got 4 shapes for you!)\n5. How about a different color for the pocket?  No, thank you. / Same color as the T-shirt. / Why not? (Choose from the 16 colors AGAIN!) / I don't need one.\n6. Your size? (7 sizes for you!)\n7. How many T-shirts do you want?\n8. Finally, you can pay!",
+  "group_id": "PX-CAP107-G04",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-025",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "流程細節",
+  "stem": "What can we learn about SHARP WEAR ?",
+  "options": [
+   "You have to order at least four T-shirts each time.",
+   "You can choose from sixteen colors for both the T-shirt and the pocket.",
+   "Some of the T-shirts have pictures on both the front side and the back side.",
+   "T-shirts in the wrong sizes cannot be sent back if they have pictures or pockets on them."
+  ],
+  "answer": 1,
+  "explain_zh": "文中 T 恤顏色和口袋顏色都各有 16 種可選（第2、5項都寫 16 colors），故選 B。並沒有規定至少要訂四件（A），圖案選項也只提到「前面選一張圖案」並未說前後都能印圖（C），退貨規則段落文中並未提及（D）。",
+  "vocab": [
+   {
+    "w": "choose from",
+    "zh": "從…中挑選",
+    "pos": "phr."
+   },
+   {
+    "w": "shape",
+    "zh": "形狀",
+    "pos": "n."
+   }
+  ],
+  "passage": "SHARP WEAR: A T-shirt like no other!  First time here?  Don't worry!  Here is our quick lesson for you!\n1. What kind of T-shirt do you like? (4 kinds of T-shirts to choose from!)\n2. What color for the T-shirt? (We have as many as 16 colors!)\n3. Want a picture on your T-shirt?  No, thank you. / Oh yes! (Now choose from one of our 72 pictures or send us your own!)\n4. Pocket?  No pocket? / Of course!  What kind of pocket then? (We've got 4 shapes for you!)\n5. How about a different color for the pocket?  No, thank you. / Same color as the T-shirt. / Why not? (Choose from the 16 colors AGAIN!) / I don't need one.\n6. Your size? (7 sizes for you!)\n7. How many T-shirts do you want?\n8. Finally, you can pay!",
+  "group_id": "PX-CAP107-G04",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-026",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "詩句季節線索",
+  "stem": "Which season is this poem about?",
+  "options": [
+   "Spring.",
+   "Summer.",
+   "Autumn.",
+   "Winter."
+  ],
+  "answer": 0,
+  "explain_zh": "詩中明確寫出 Winter is gone; spring has come（冬天已過，春天到來），主題季節顯而易見，故選 A（春天）。詩裡沒有提到夏天的炎熱高峰、秋天落葉或冬天的雪景。",
+  "vocab": [
+   {
+    "w": "spring",
+    "zh": "春天",
+    "pos": "n."
+   },
+   {
+    "w": "gone",
+    "zh": "已過去的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "The sky is turning bright and clear.\nThe earth is wearing red and green.\nWinter is gone; spring has come.\nThe air smells fresh and sweet.\nThe summer heat is not yet here;\nA little fox comes out to play.\nA bird is busy in a tree\nWaking a daisy from her sleep.\nLittle daisy, little daisy,\nPeople call the flower the \"day's eye.\"\nWhen she opens her eye,\nThe springtime brings us cheer.",
+  "group_id": "PX-CAP107-G05",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-027",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "stem": "What is a daisy?",
+  "options": [
+   "A body part.",
+   "A kind of bird.",
+   "A kind of flower.",
+   "A kind of smell."
+  ],
+  "answer": 2,
+  "explain_zh": "詩中說 daisy 被鳥兒從睡夢中喚醒、後來睜開眼，還提到人們稱這種花為「day's eye」，可知 daisy 是一種花，故選 C。它不是身體部位（A）、鳥類（B）或氣味（D）。",
+  "vocab": [
+   {
+    "w": "daisy",
+    "zh": "雛菊",
+    "pos": "n."
+   },
+   {
+    "w": "flower",
+    "zh": "花",
+    "pos": "n."
+   }
+  ],
+  "passage": "The sky is turning bright and clear.\nThe earth is wearing red and green.\nWinter is gone; spring has come.\nThe air smells fresh and sweet.\nThe summer heat is not yet here;\nA little fox comes out to play.\nA bird is busy in a tree\nWaking a daisy from her sleep.\nLittle daisy, little daisy,\nPeople call the flower the \"day's eye.\"\nWhen she opens her eye,\nThe springtime brings us cheer.",
+  "group_id": "PX-CAP107-G05",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-028",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "文章細節",
+  "stem": "What does the reading say about shaking?",
+  "options": [
+   "Different animals' shaking begins with different body parts.",
+   "Shaking is a way that animals use to make other animals scared.",
+   "Animals that are not kept as pets do the shaking better than those that are.",
+   "Shaking themselves dry may help animals run faster in dangerous moments."
+  ],
+  "answer": 3,
+  "explain_zh": "文末指出動物身體濕透會變重、跑起來更費力，而甩乾身體能幫助牠們在危險時刻跑得更快，故選 D。文章沒有比較有寵物和沒被當寵物飼養的動物誰甩得比較好（C），也沒有說甩動是為了嚇跑其他動物（B）。",
+  "vocab": [
+   {
+    "w": "shake",
+    "zh": "甩動",
+    "pos": "v."
+   },
+   {
+    "w": "dry",
+    "zh": "乾的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "When we get wet, we need a towel to get ourselves dry.  When a dog gets wet, all it needs is to shake its body.  A study in 2010 showed that a wet dog can throw off half the water on its body by shaking for less than a second.  In fact, this common act of dogs works better than a washing machine.  The study found that animal shaking begins with the head and ends with the tail.  During a shake, the animal's head, body and skin all move.  Smaller animals must shake faster than bigger animals to get water off.  For example, in one second, a rat can shake 18 times, a dog 6 times, and a bear 4 times.  Bigger animals can get their bodies dry with fewer shakes.\nFor animals, shaking is not just about getting themselves dry.  It is also about saving their lives.  Being wet makes animals heavier, and that makes it harder to run.  In the animal world, how fast an animal can run often decides whether it will live or not.  Maybe that's why the \"wet-dog shake\" has become a common habit of many animals.",
+  "group_id": "PX-CAP107-G06",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-029",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "文章推論",
+  "stem": "What can we learn from the reading?",
+  "options": [
+   "The animal's tail can help it run more quickly and easily.",
+   "Some animals shake more than they need to get water off.",
+   "The idea of washing machines came from the shaking of dogs.",
+   "Larger animals get themselves drier at each shake than smaller animals."
+  ],
+  "answer": 3,
+  "explain_zh": "文中舉例老鼠一秒甩 18 次、狗甩 6 次、熊只甩 4 次，體型越大甩的次數越少卻能甩得一樣乾，代表「體型較大的動物每甩一次能去掉更多水分」，故選 D。文章重點是甩動次數與體型的關係，並非尾巴能加快奔跑速度（A）。",
+  "vocab": [
+   {
+    "w": "fewer",
+    "zh": "較少的",
+    "pos": "adj."
+   },
+   {
+    "w": "get dry",
+    "zh": "變乾",
+    "pos": "phr."
+   }
+  ],
+  "passage": "When we get wet, we need a towel to get ourselves dry.  When a dog gets wet, all it needs is to shake its body.  A study in 2010 showed that a wet dog can throw off half the water on its body by shaking for less than a second.  In fact, this common act of dogs works better than a washing machine.  The study found that animal shaking begins with the head and ends with the tail.  During a shake, the animal's head, body and skin all move.  Smaller animals must shake faster than bigger animals to get water off.  For example, in one second, a rat can shake 18 times, a dog 6 times, and a bear 4 times.  Bigger animals can get their bodies dry with fewer shakes.\nFor animals, shaking is not just about getting themselves dry.  It is also about saving their lives.  Being wet makes animals heavier, and that makes it harder to run.  In the animal world, how fast an animal can run often decides whether it will live or not.  Maybe that's why the \"wet-dog shake\" has become a common habit of many animals.",
+  "group_id": "PX-CAP107-G06",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-030",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What does things like that mean?",
+  "options": [
+   "Problems about the free coffee plan.",
+   "Trouble for people who go to Flora Café.",
+   "Ways to make the free coffee plan successful.",
+   "Good things free coffee will bring to Flora Café."
+  ],
+  "answer": 0,
+  "explain_zh": "Eric 接連提出「店家真的會照做嗎」「怎麼知道該給誰」「窮人會不會因為面子問題不敢要」等疑慮，這些都是免費咖啡計畫可能遇到的「問題」，故選 A。並非在講計畫成功的方法（C）或會帶來的好處（D）。",
+  "vocab": [
+   {
+    "w": "worry about",
+    "zh": "擔心",
+    "pos": "phr."
+   },
+   {
+    "w": "honest",
+    "zh": "誠實的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Josh: Do you know about \"pay it forward coffee\" at Flora Café?\nEric: You mean you pay for a cup of coffee for someone poor to have it later?\nJosh: Yeah.  A cup of coffee is not much, but on cold winter days like today, it might warm them up a little.  And maybe their hearts too.\nEric: But will Flora Café really give this cup of coffee to someone later?\nJosh: Come on.  I've known the shopkeeper well.  He's an honest man.  He's got a blackboard in the shop that says how many cups are paid for and how many have been given out.\nEric: But how will they know who to give?  Anyone can ask for it, even if they're not poor.\nJosh: True, but then I guess they'll just have to believe in people.\nEric: Perhaps.  But will poor people go and ask for a free coffee?  Won't they worry about losing face?\nJosh: Why do you always say things like that?\nEric: Well, it may happen.\nJosh: Yeah, I know, but I still think it's a good thing to do, and it gets people to care about others.",
+  "group_id": "PX-CAP107-G07",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-031",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "對話推論",
+  "stem": "What can we learn about Josh and Eric?",
+  "options": [
+   "Josh was not able to change Eric's mind about free coffee.",
+   "Eric has more hope for the free coffee plan than Josh does.",
+   "They found a way to make people feel OK to take free coffee.",
+   "They do not know whether Flora Café will do business honestly."
+  ],
+  "answer": 0,
+  "explain_zh": "Josh 對 Eric 一再提出的疑慮感到不耐煩，質問「你為什麼總是說這種話」，但最後仍堅持這是件好事，可知他沒能說服 Eric 改變想法，故選 A。文中沒有顯示 Eric 對計畫比 Josh 更有信心（B）。",
+  "vocab": [
+   {
+    "w": "change one's mind",
+    "zh": "改變心意",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Josh: Do you know about \"pay it forward coffee\" at Flora Café?\nEric: You mean you pay for a cup of coffee for someone poor to have it later?\nJosh: Yeah.  A cup of coffee is not much, but on cold winter days like today, it might warm them up a little.  And maybe their hearts too.\nEric: But will Flora Café really give this cup of coffee to someone later?\nJosh: Come on.  I've known the shopkeeper well.  He's an honest man.  He's got a blackboard in the shop that says how many cups are paid for and how many have been given out.\nEric: But how will they know who to give?  Anyone can ask for it, even if they're not poor.\nJosh: True, but then I guess they'll just have to believe in people.\nEric: Perhaps.  But will poor people go and ask for a free coffee?  Won't they worry about losing face?\nJosh: Why do you always say things like that?\nEric: Well, it may happen.\nJosh: Yeah, I know, but I still think it's a good thing to do, and it gets people to care about others.",
+  "group_id": "PX-CAP107-G07",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-032",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "對話細節",
+  "stem": "What do we know about Flora Café from the dialogue?",
+  "options": [
+   "It has a way to know who really is poor.",
+   "Free coffee has brought it more business.",
+   "People pay less for free coffee than other coffee.",
+   "Its blackboard shows if there are free coffees to be taken."
+  ],
+  "answer": 3,
+  "explain_zh": "Josh 提到店裡有一塊黑板，寫著已付了幾杯、已經送出幾杯咖啡，故選 D。文中沒說咖啡因此讓生意變好（B）或免費咖啡比一般咖啡便宜（C，重點是「免費」不是「較便宜」），店家也沒有辦法真的確認誰是真正的窮人（A）。",
+  "vocab": [
+   {
+    "w": "blackboard",
+    "zh": "黑板",
+    "pos": "n."
+   },
+   {
+    "w": "give out",
+    "zh": "發放",
+    "pos": "phr.v."
+   }
+  ],
+  "passage": "Josh: Do you know about \"pay it forward coffee\" at Flora Café?\nEric: You mean you pay for a cup of coffee for someone poor to have it later?\nJosh: Yeah.  A cup of coffee is not much, but on cold winter days like today, it might warm them up a little.  And maybe their hearts too.\nEric: But will Flora Café really give this cup of coffee to someone later?\nJosh: Come on.  I've known the shopkeeper well.  He's an honest man.  He's got a blackboard in the shop that says how many cups are paid for and how many have been given out.\nEric: But how will they know who to give?  Anyone can ask for it, even if they're not poor.\nJosh: True, but then I guess they'll just have to believe in people.\nEric: Perhaps.  But will poor people go and ask for a free coffee?  Won't they worry about losing face?\nJosh: Why do you always say things like that?\nEric: Well, it may happen.\nJosh: Yeah, I know, but I still think it's a good thing to do, and it gets people to care about others.",
+  "group_id": "PX-CAP107-G07",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-033",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:text-structure",
+  "tag_zh": "文章結構順序",
+  "stem": "Below are the writer's points in the reading: a. Whether we should stop tribespeople whaling  b. The problem of whaling  c. Whaling as a way of life.  In what order does the writer talk about his points?",
+  "options": [
+   "a, c, b.",
+   "b, c, a.",
+   "c, a, b.",
+   "d, b, a."
+  ],
+  "answer": 1,
+  "explain_zh": "文章先談論鯨魚數量下降、大家認為該全面禁止獵鯨的「問題」（b），接著說明獵鯨其實長久以來是部落族人的「生活方式」（c），最後才提出族人獵鯨佔比極低、不該被一併禁止的論點（a），故選 b, c, a。",
+  "vocab": [
+   {
+    "w": "whaling",
+    "zh": "獵鯨",
+    "pos": "n."
+   },
+   {
+    "w": "tribespeople",
+    "zh": "部落族人",
+    "pos": "n."
+   }
+  ],
+  "passage": "Over the years, the number of whales has dropped sharply.  From 1946 to 1986, about 340,000 whales were killed.  People worry that children in the future can only see whales in pictures.  They believe all kinds of whaling (whale hunting) should be stopped before it's too late.\nSome people are trying to stop whaling all over the world.  But they fail to notice one fact: Whaling was going on for a long time before the number of whales went down and became a problem.\nWhaling started as early as 1,500 years ago.  This was how tribespeople fed their families.  They hunted whales for meat because almost nothing could grow on their land.  They also made whale fat into oil and used it to make candles or oil lamps.  Over the years, whaling became their way of living, and even part of who they are.\nTribe whaling is not the thing we should worry about.  Of all the whales that were killed over the past forty years, only 10% were hunted by tribespeople.  The other 90% died at the hands of the money-making whaling business.  When we try to stop all kinds of whaling, we should think what we are asking tribespeople to give up and whether this is the best answer to the problem of whaling.",
+  "group_id": "PX-CAP107-G08",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-034",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "作者立場推論",
+  "stem": "Which idea may the writer agree with?",
+  "options": [
+   "We should stop all kinds of whale hunting.",
+   "We should not worry about the number of whales.",
+   "Tribespeople's way of living is as important as animal lives.",
+   "Working with the whaling business can make tribespeople's lives better."
+  ],
+  "answer": 2,
+  "explain_zh": "作者強調應該把部落族人賴以維生的獵鯨文化與商業濫捕分開看待，暗示「族人的生活方式和鯨魚的生命一樣值得重視」，故選 C。作者並不主張全面禁止獵鯨（A），也認同鯨魚數量下降確實是問題（B錯）。",
+  "vocab": [
+   {
+    "w": "agree with",
+    "zh": "同意",
+    "pos": "phr."
+   },
+   {
+    "w": "way of living",
+    "zh": "生活方式",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Over the years, the number of whales has dropped sharply.  From 1946 to 1986, about 340,000 whales were killed.  People worry that children in the future can only see whales in pictures.  They believe all kinds of whaling (whale hunting) should be stopped before it's too late.\nSome people are trying to stop whaling all over the world.  But they fail to notice one fact: Whaling was going on for a long time before the number of whales went down and became a problem.\nWhaling started as early as 1,500 years ago.  This was how tribespeople fed their families.  They hunted whales for meat because almost nothing could grow on their land.  They also made whale fat into oil and used it to make candles or oil lamps.  Over the years, whaling became their way of living, and even part of who they are.\nTribe whaling is not the thing we should worry about.  Of all the whales that were killed over the past forty years, only 10% were hunted by tribespeople.  The other 90% died at the hands of the money-making whaling business.  When we try to stop all kinds of whaling, we should think what we are asking tribespeople to give up and whether this is the best answer to the problem of whaling.",
+  "group_id": "PX-CAP107-G08",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-035",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "文章細節",
+  "stem": "What can we learn about whaling from the reading?",
+  "options": [
+   "Tribespeople believe whales bring good luck.",
+   "Tribespeople become rich by selling whale oil.",
+   "Whaling was not a problem until 1,500 years ago.",
+   "Whaling helped tribespeople's lives in different ways."
+  ],
+  "answer": 3,
+  "explain_zh": "文章提到族人靠鯨魚獲取肉類食物，也把鯨脂做成蠟燭、油燈使用，可知獵鯨在不同方面幫助了他們的生活，故選 D。文中沒有提到鯨魚象徵好運（A）或族人靠賣鯨油致富（B），問題其實是近幾十年才嚴重（C錯）。",
+  "vocab": [
+   {
+    "w": "whale fat",
+    "zh": "鯨脂",
+    "pos": "n."
+   },
+   {
+    "w": "way of living",
+    "zh": "生活方式",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Over the years, the number of whales has dropped sharply.  From 1946 to 1986, about 340,000 whales were killed.  People worry that children in the future can only see whales in pictures.  They believe all kinds of whaling (whale hunting) should be stopped before it's too late.\nSome people are trying to stop whaling all over the world.  But they fail to notice one fact: Whaling was going on for a long time before the number of whales went down and became a problem.\nWhaling started as early as 1,500 years ago.  This was how tribespeople fed their families.  They hunted whales for meat because almost nothing could grow on their land.  They also made whale fat into oil and used it to make candles or oil lamps.  Over the years, whaling became their way of living, and even part of who they are.\nTribe whaling is not the thing we should worry about.  Of all the whales that were killed over the past forty years, only 10% were hunted by tribespeople.  The other 90% died at the hands of the money-making whaling business.  When we try to stop all kinds of whaling, we should think what we are asking tribespeople to give up and whether this is the best answer to the problem of whaling.",
+  "group_id": "PX-CAP107-G08",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-036",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "新聞重點推論",
+  "stem": "From the news story, which fact is seen as a new turn?",
+  "options": [
+   "Carolyn Cole is a first-time writer.",
+   "Carolyn Cole won the Inscriber Prize.",
+   "Carolyn Cole is not the winner's real name.",
+   "Carolyn Cole did not appear for the Inscriber Prize."
+  ],
+  "answer": 2,
+  "explain_zh": "報導說這已經是文學獎第二次出現「第一次」的紀錄，而這次的新轉折是發現得主 Carolyn Cole 其實不是真名，真實身分另有其人，故選 C。文章沒說 Cole 是第一次寫作（A，其實是化名）或她真的獲獎（B、D 都只是舊消息）。",
+  "vocab": [
+   {
+    "w": "new turn",
+    "zh": "新的轉折",
+    "pos": "phr."
+   },
+   {
+    "w": "real name",
+    "zh": "真名",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Ryan Kim 7/15/2013.  Guesses about Carolyn Cole have been flying around since last week, and now things have taken a new turn.\nLast week Carolyn Cole won the Inscriber Prize, the country's biggest book prize, with her book Paper Soldier.  Cole herself did not show up for the prize.  It was not only the first time in history that a first-time writer won the prize, but also the first time that the winner did not appear.\nNow here comes another \"first time\" for the Inscriber: Cole is not real.  \"She\" is in fact Thomas Goode.  Goode is known for his picture books.  His best-known book, Blue Moon, won him two national book prizes and sold over one million copies.\nGoode had tried to write \"serious\" books before.  His first try was Parent, which came out in 2006.  Sadly, Goode's big name did not help, and there was little interest in Parent.  Goode's friend told NBN that he wanted to write a book under a different name.  Goode thought that people might treat his book seriously if they did not know it was from a picture book writer.\nFor the moment, there has been no word from Goode yet.",
+  "group_id": "PX-CAP107-G09",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-037",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "新聞內容推論",
+  "stem": "Which is most likely true about the Inscriber Prize?",
+  "options": [
+   "It was started by NBN News.",
+   "It is a new prize for picture books.",
+   "It is a prize only for first-time writers.",
+   "It is treated seriously by writers in the country."
+  ],
+  "answer": 3,
+  "explain_zh": "文章提到這是該國「最大的文學獎」，得獎者身分成謎也引發熱烈揣測與報導，可推知這個獎在國內備受作家們重視，故選 D。文中沒有說它是 NBN 新聞創辦的獎項（A）或是繪本專屬獎項（B），也並非只頒給新人（C，Goode 早已成名）。",
+  "vocab": [
+   {
+    "w": "treat seriously",
+    "zh": "認真看待",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Ryan Kim 7/15/2013.  Guesses about Carolyn Cole have been flying around since last week, and now things have taken a new turn.\nLast week Carolyn Cole won the Inscriber Prize, the country's biggest book prize, with her book Paper Soldier.  Cole herself did not show up for the prize.  It was not only the first time in history that a first-time writer won the prize, but also the first time that the winner did not appear.\nNow here comes another \"first time\" for the Inscriber: Cole is not real.  \"She\" is in fact Thomas Goode.  Goode is known for his picture books.  His best-known book, Blue Moon, won him two national book prizes and sold over one million copies.\nGoode had tried to write \"serious\" books before.  His first try was Parent, which came out in 2006.  Sadly, Goode's big name did not help, and there was little interest in Parent.  Goode's friend told NBN that he wanted to write a book under a different name.  Goode thought that people might treat his book seriously if they did not know it was from a picture book writer.\nFor the moment, there has been no word from Goode yet.",
+  "group_id": "PX-CAP107-G09",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-038",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "人物背景細節",
+  "stem": "What can we learn about Thomas Goode?",
+  "options": [
+   "He has won the Inscriber Prize twice.",
+   "He told NBN that Paper Soldier was his work.",
+   "He wants to be more than just a picture book writer.",
+   "His life as a picture book writer has not been successful."
+  ],
+  "answer": 2,
+  "explain_zh": "文中提到 Goode 早期就曾嘗試寫「嚴肅」的作品，這次又用化名投稿得獎，顯示他不甘心只被視為繪本作家，渴望被認真看待、寫出更多元的作品，故選 C。他並未兩度得獎（A），也不是他親口向 NBN 承認（是朋友告知，B錯）。",
+  "vocab": [
+   {
+    "w": "more than",
+    "zh": "不僅僅是",
+    "pos": "phr."
+   },
+   {
+    "w": "picture book",
+    "zh": "繪本",
+    "pos": "n."
+   }
+  ],
+  "passage": "Ryan Kim 7/15/2013.  Guesses about Carolyn Cole have been flying around since last week, and now things have taken a new turn.\nLast week Carolyn Cole won the Inscriber Prize, the country's biggest book prize, with her book Paper Soldier.  Cole herself did not show up for the prize.  It was not only the first time in history that a first-time writer won the prize, but also the first time that the winner did not appear.\nNow here comes another \"first time\" for the Inscriber: Cole is not real.  \"She\" is in fact Thomas Goode.  Goode is known for his picture books.  His best-known book, Blue Moon, won him two national book prizes and sold over one million copies.\nGoode had tried to write \"serious\" books before.  His first try was Parent, which came out in 2006.  Sadly, Goode's big name did not help, and there was little interest in Parent.  Goode's friend told NBN that he wanted to write a book under a different name.  Goode thought that people might treat his book seriously if they did not know it was from a picture book writer.\nFor the moment, there has been no word from Goode yet.",
+  "group_id": "PX-CAP107-G09",
+  "source": "107會考"
+ },
+ {
+  "id": "PX-CAP107-039",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "書籍銷售細節",
+  "stem": "What do we know about Thomas Goode's books?",
+  "options": [
+   "The sales of Parent were bad.",
+   "Paper Soldier is his best-selling book.",
+   "His first picture book came out in 2006.",
+   "Blue Moon was written under a different name."
+  ],
+  "answer": 0,
+  "explain_zh": "文中提到 Goode 的第一次嘗試 Parent（2006年出版）乏人問津，銷售不佳，故選 A。Paper Soldier 是這次得獎的化名作品、不是暢銷紀錄的比較對象（B），他第一本繪本出版年份文中未提（C），Blue Moon 是以本名出版的作品，非化名之作（D）。",
+  "vocab": [
+   {
+    "w": "sales",
+    "zh": "銷售量",
+    "pos": "n."
+   },
+   {
+    "w": "come out",
+    "zh": "（書）出版",
+    "pos": "phr.v."
+   }
+  ],
+  "passage": "Ryan Kim 7/15/2013.  Guesses about Carolyn Cole have been flying around since last week, and now things have taken a new turn.\nLast week Carolyn Cole won the Inscriber Prize, the country's biggest book prize, with her book Paper Soldier.  Cole herself did not show up for the prize.  It was not only the first time in history that a first-time writer won the prize, but also the first time that the winner did not appear.\nNow here comes another \"first time\" for the Inscriber: Cole is not real.  \"She\" is in fact Thomas Goode.  Goode is known for his picture books.  His best-known book, Blue Moon, won him two national book prizes and sold over one million copies.\nGoode had tried to write \"serious\" books before.  His first try was Parent, which came out in 2006.  Sadly, Goode's big name did not help, and there was little interest in Parent.  Goode's friend told NBN that he wanted to write a book under a different name.  Goode thought that people might treat his book seriously if they did not know it was from a picture book writer.\nFor the moment, there has been no word from Goode yet.",
+  "group_id": "PX-CAP107-G09",
+  "source": "107會考"
+ }
+]

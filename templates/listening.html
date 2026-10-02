@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% set req='listening' %}
+{% block body %}
+<h1>聽力</h1>
+<p class="sub">用 Mac 內建英式發音唸出來，完全離線。建議先聽兩遍再作答，作答完再看逐字稿。</p>
+<div class="card" id="au"></div>
+<div class="card" id="q"></div>
+<script src="/static/quiz.js"></script>
+<script>
+let script='';
+Quiz({mount:'q',url:'/api/listening',mode:'listening',onload:d=>{
+  script=d.script;
+  document.getElementById('au').innerHTML =
+    '<div class="row"><span class="tag">'+d.level_zh+'</span>'+
+    '<span class="muted">語速</span>'+
+    '<select id="rate" style="width:auto" onchange="setRate()">'+
+    '<option value="130">慢</option><option value="160" selected>正常</option>'+
+    '<option value="185">快（接近考試）</option></select>'+
+    '<span class="spacer"></span>'+
+    '<button class="btn sm ghost" onclick="location.reload()">換一段</button></div>'+
+    '<audio id="ad" controls src="'+d.audio+'"></audio>'+
+    '<button class="btn sm ghost" onclick="showScript()">作答完再看逐字稿</button>'+
+    '<div id="sc" class="hide"></div>';
+  window._src=d.audio;
+}});
+function setRate(){const a=document.getElementById('ad');
+  a.src=window._src+'?rate='+document.getElementById('rate').value;a.play();}
+function showScript(){const e=document.getElementById('sc');
+  e.className='passage';e.style.marginTop='12px';
+  e.textContent=script;}
+</script>
+{% endblock %}

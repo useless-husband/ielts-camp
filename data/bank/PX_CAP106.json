@@ -1,0 +1,1150 @@
+[
+ {
+  "id": "PX-CAP106-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "轉折連接詞",
+  "stem": "My sister wants to buy a car ____ she doesn't have enough money.",
+  "options": [
+   "because",
+   "but",
+   "if",
+   "or"
+  ],
+  "answer": 1,
+  "explain_zh": "姐姐想買車，卻沒有足夠的錢，前後語意明顯相反、轉折，所以要用 but 連接。because 表原因、if 表條件、or 表選擇，都無法呈現「想要卻做不到」的對比語氣。看到句意「一好一壞」對比時，直覺選 but。",
+  "vocab": [
+   {
+    "w": "enough",
+    "zh": "足夠的",
+    "pos": "adj."
+   },
+   {
+    "w": "but",
+    "zh": "但是",
+    "pos": "conj."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verb",
+  "tag_zh": "動詞語意",
+  "stem": "Jim always forgets my birthday.  He has asked me many times and still can't ____ it.",
+  "options": [
+   "answer",
+   "celebrate",
+   "remember",
+   "understand"
+  ],
+  "answer": 2,
+  "explain_zh": "前句說 Jim 老是忘記我的生日，還問了很多次，後面順著語意應該是「還是記不住」，故選 remember。answer（回答）、celebrate（慶祝）、understand（理解）都無法接在 can't 後面表達「記不住」這個動作。can't remember 是常見的否定搭配。",
+  "vocab": [
+   {
+    "w": "remember",
+    "zh": "記得",
+    "pos": "v."
+   },
+   {
+    "w": "forget",
+    "zh": "忘記",
+    "pos": "v."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verb",
+  "tag_zh": "動詞語意（被動）",
+  "stem": "The little girl was ____ by a truck on her way home and was badly hurt.",
+  "options": [
+   "hit",
+   "led",
+   "lost",
+   "paid"
+  ],
+  "answer": 0,
+  "explain_zh": "小女孩被卡車「撞到」才會受重傷，被動語態 was hit by 最符合語意，故選 hit。led（帶領）、lost（遺失）、paid（付款）接在 by a truck 後面都不合邏輯，也無法造成 badly hurt 的結果。be hit by 表「被…撞上」是固定用法。",
+  "vocab": [
+   {
+    "w": "hit",
+    "zh": "撞、打",
+    "pos": "v."
+   },
+   {
+    "w": "badly hurt",
+    "zh": "嚴重受傷",
+    "pos": "phr."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:present-continuous",
+  "tag_zh": "現在進行式表未來/當下",
+  "stem": "Excuse me.  I really need to go now.  My kids ____ for me at school.",
+  "options": [
+   "are waiting",
+   "were waiting",
+   "wait",
+   "waited"
+  ],
+  "answer": 0,
+  "explain_zh": "說話當下孩子正在學校等待，強調「此刻正在發生」的動作要用現在進行式，故選 are waiting。were waiting 是過去式、wait 是現在簡單式、waited 是過去式，都不符合「現在正在等」的情境。記得 now／right now 的情境常搭配現在進行式。",
+  "vocab": [
+   {
+    "w": "wait for",
+    "zh": "等待",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verb",
+  "tag_zh": "動詞語意",
+  "stem": "Amy's father is very sick.  The doctors can do nothing for him, so Amy went to the temple to ____ for him.",
+  "options": [
+   "care",
+   "count",
+   "look",
+   "pray"
+  ],
+  "answer": 3,
+  "explain_zh": "醫生已經無能為力，Amy 只能到廟裡「祈禱」，故選 pray。care（照顧）、count（數）、look（看）都無法接 for 表達祈求的意思，語意也不通。pray for someone 是常見的固定搭配，表示為某人祈禱。",
+  "vocab": [
+   {
+    "w": "pray",
+    "zh": "祈禱",
+    "pos": "v."
+   },
+   {
+    "w": "temple",
+    "zh": "廟",
+    "pos": "n."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:noun",
+  "tag_zh": "制服相關名詞",
+  "stem": "I'm glad that my school has students wear ____.  I don't have to worry about what clothes to wear to school.",
+  "options": [
+   "belts",
+   "caps",
+   "gloves",
+   "uniforms"
+  ],
+  "answer": 3,
+  "explain_zh": "後句說不用煩惱要穿什麼衣服上學，代表學校規定學生穿「制服」，故選 uniforms。belts（皮帶）、caps（帽子）、gloves（手套）都只是配件，不能解決「不知道穿什麼」的困擾。have students wear uniforms 是常見校規描述。",
+  "vocab": [
+   {
+    "w": "uniform",
+    "zh": "制服",
+    "pos": "n."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:wh-words",
+  "tag_zh": "疑問詞語意",
+  "stem": "We are surprised that Sally and Ray decided to get married.  No one knows ____.  They often fight with each other and are unhappy together.",
+  "options": [
+   "why",
+   "where",
+   "when",
+   "how"
+  ],
+  "answer": 0,
+  "explain_zh": "大家都對 Sally 和 Ray 決定結婚感到驚訝，後句又說他們常吵架、不快樂，可知沒人知道他們「為什麼」要結婚，故選 why。where、when、how 都無法對應「原因不明」的語意。no one knows why 是常見的疑問子句用法。",
+  "vocab": [
+   {
+    "w": "get married",
+    "zh": "結婚",
+    "pos": "phr."
+   },
+   {
+    "w": "fight",
+    "zh": "吵架",
+    "pos": "v."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:pronouns",
+  "tag_zh": "代名詞指代複數",
+  "stem": "I don't think Katie will read any one of the books you've picked out for her: ____ look(s) very boring.",
+  "options": [
+   "it",
+   "one",
+   "some",
+   "they"
+  ],
+  "answer": 3,
+  "explain_zh": "any one of the books 是指「這些書中的任何一本」，代名詞要指回全部的 books（複數），故用 they，並搭配原形動詞 look，故選 they。it、one 都是單數代名詞，some 則暗示只指部分的書，三者語意或文法都不合。",
+  "vocab": [
+   {
+    "w": "pick out",
+    "zh": "挑選",
+    "pos": "phr.v."
+   },
+   {
+    "w": "boring",
+    "zh": "無聊的",
+    "pos": "adj."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:there-be",
+  "tag_zh": "there be 句型主詞一致",
+  "stem": "Jenny's bag is very heavy because ____ filled with toy cars.",
+  "options": [
+   "it is",
+   "they are",
+   "there is",
+   "there are"
+  ],
+  "answer": 0,
+  "explain_zh": "根據官方答案，本題正解其實是 it is：句子前面已提到 Jenny's bag，後面用 it 回指這個包包，說明「它裡面裝滿了玩具車」，語意通順也符合文法。there is 後面沒有名詞可以承接 filled with toy cars，句子不完整；they are、there are 則是複數用法，也與句意不符。（此題經與 106 年會考官方答案卡核對後更正）",
+  "vocab": [
+   {
+    "w": "be filled with",
+    "zh": "裝滿了…",
+    "pos": "phr."
+   },
+   {
+    "w": "heavy",
+    "zh": "重的",
+    "pos": "adj."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:imperative",
+  "tag_zh": "祈使句",
+  "stem": "____ a map with you when you go to a place for the first time.",
+  "options": [
+   "Have taken",
+   "Take",
+   "Taking",
+   "To take"
+  ],
+  "answer": 1,
+  "explain_zh": "句首直接給建議、命令，用原形動詞開頭的祈使句，故選 Take。Have taken 是完成式不能單獨當祈使句、Taking 是動名詞、To take 是不定詞，都不能直接放在句首當作命令句的主要動詞。",
+  "vocab": [
+   {
+    "w": "take",
+    "zh": "帶、拿",
+    "pos": "v."
+   },
+   {
+    "w": "for the first time",
+    "zh": "第一次",
+    "pos": "phr."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:present-perfect",
+  "tag_zh": "現在完成式",
+  "stem": "The weather ____ rainy and cloudy in the last few days.  I hope the sun will come out soon.",
+  "options": [
+   "has been",
+   "had been",
+   "will be",
+   "would be"
+  ],
+  "answer": 0,
+  "explain_zh": "in the last few days 表示「從過去持續到現在」的一段時間，要用現在完成式，故選 has been。had been 是過去完成式、will be、would be 都是未來或假設語氣，皆與「這幾天持續下雨」的語境不符。",
+  "vocab": [
+   {
+    "w": "rainy",
+    "zh": "多雨的",
+    "pos": "adj."
+   },
+   {
+    "w": "cloudy",
+    "zh": "多雲的",
+    "pos": "adj."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "主詞子句動詞一致",
+  "stem": "All the excuses Nick made ____ a lot about how much he hates to do the job.",
+  "options": [
+   "say",
+   "saying",
+   "which say",
+   "to say"
+  ],
+  "answer": 0,
+  "explain_zh": "本句主詞是 All the excuses（複數），excuses 後面需要一個能當述語動詞的字，故選原形動詞 say，構成 excuses...say a lot about（藉口說明了很多）。saying、to say 都不是可獨立作述語的動詞形式，which say 則多了不必要的關係代名詞導致句構錯誤。",
+  "vocab": [
+   {
+    "w": "excuse",
+    "zh": "藉口",
+    "pos": "n."
+   },
+   {
+    "w": "say a lot about",
+    "zh": "充分顯示、說明了…",
+    "pos": "phr."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adverb",
+  "tag_zh": "副詞語意",
+  "stem": "Sabine walks so ____ in the apartment that sometimes you don't even know she's just passed by.  You wonder if her feet ever touch the floor.",
+  "options": [
+   "freely",
+   "lightly",
+   "shyly",
+   "slowly"
+  ],
+  "answer": 1,
+  "explain_zh": "後句描述她走路幾乎沒人發現，彷彿腳沒有碰到地板，表示走路「輕輕地」，故選 lightly。freely（自由地）、shyly（害羞地）、slowly（慢慢地）都無法呼應「悄然無聲、幾乎感覺不到」的畫面。walk lightly 是常見搭配。",
+  "vocab": [
+   {
+    "w": "lightly",
+    "zh": "輕輕地",
+    "pos": "adv."
+   },
+   {
+    "w": "pass by",
+    "zh": "經過",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "形容詞語意",
+  "stem": "In the past, people thought it was a ____ idea to send e-mails and read news online, but now it is part of our everyday life.",
+  "options": [
+   "simple",
+   "popular",
+   "good",
+   "fresh"
+  ],
+  "answer": 3,
+  "explain_zh": "過去的人認為寄電子郵件、上網看新聞是「新奇、少見」的事，現在卻已是日常生活的一部分，故選 fresh（新奇的）。simple、good、popular 都無法對應「過去覺得新奇、現在已普及」的對比語意。",
+  "vocab": [
+   {
+    "w": "fresh",
+    "zh": "新奇的",
+    "pos": "adj."
+   },
+   {
+    "w": "part of",
+    "zh": "…的一部分",
+    "pos": "phr."
+   }
+  ],
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-015",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "公告主旨",
+  "stem": "What is the book festival for?",
+  "options": [
+   "Selling second-hand books.",
+   "Telling people how to choose books.",
+   "Inviting people to change books with each other.",
+   "Knowing what kinds of books are the most popular."
+  ],
+  "answer": 2,
+  "explain_zh": "公告開頭就說「帶一本書來，換另一本書回家」，主旨是邀請大家互相交換書籍，故選 C。它不是在賣書（A），也不是教怎麼挑書（B），公告裡也沒有統計哪類書最受歡迎（D）。答案就在公告第一段。",
+  "vocab": [
+   {
+    "w": "festival",
+    "zh": "活動、慶典",
+    "pos": "n."
+   },
+   {
+    "w": "for free",
+    "zh": "免費地",
+    "pos": "phr."
+   }
+  ],
+  "passage": "The book festival is coming!  Do you have some books you don't want?  Your old love may be someone's new favorite.\nBring one book to the Town Library & get another one home for free!\nWhen & How:\nMarch 2 - March 14   Bring one book for one book festival card.\nMarch 16 - March 31  Bring one card for one book you like to read.\nWhat books: All kinds of books EXCEPT school books, comic books, and dictionaries.\nNotice: Your book must be in good shape, without any page missing.  Your book must be clean, and nothing is written on it.\nWant to know more?  Please call 1234-5678.  (We are closed on Mondays.)  -Town Library-\nCalendar for March: March 1 is a Monday.  Days of the week repeat Sun-Sat every 7 days (March 7=Sun, 8=Mon...13=Sat; 14=Sun...20=Sat; 21=Sun,22=Mon,23=Tue,...27=Sat; 28=Sun,29=Mon,30=Tue,31=Wed).",
+  "group_id": "PX-CAP106-G01",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論細節",
+  "stem": "Sonja is busy packing some books for the book festival.  Which is most likely one of them?",
+  "options": [
+   "An old dictionary of medicine.",
+   "A book of short stories in English.",
+   "A picture book with her own notes.",
+   "A workbook she used in her math class."
+  ],
+  "answer": 1,
+  "explain_zh": "公告規定不能帶學校用書、漫畫和字典，所以 Sonja 可能帶去交換的書必須排除這三類，四個選項中只有「一本英文短篇故事書」符合規定，故選 B。字典（A）、練習本（D）都被明文禁止，有塗寫筆記的圖畫書（C）也違反「不得有塗寫」的規定。",
+  "vocab": [
+   {
+    "w": "pack",
+    "zh": "打包",
+    "pos": "v."
+   },
+   {
+    "w": "short story",
+    "zh": "短篇故事",
+    "pos": "n."
+   }
+  ],
+  "passage": "The book festival is coming!  Do you have some books you don't want?  Your old love may be someone's new favorite.\nBring one book to the Town Library & get another one home for free!\nWhen & How:\nMarch 2 - March 14   Bring one book for one book festival card.\nMarch 16 - March 31  Bring one card for one book you like to read.\nWhat books: All kinds of books EXCEPT school books, comic books, and dictionaries.\nNotice: Your book must be in good shape, without any page missing.  Your book must be clean, and nothing is written on it.\nWant to know more?  Please call 1234-5678.  (We are closed on Mondays.)  -Town Library-\nCalendar for March: March 1 is a Monday.  Days of the week repeat Sun-Sat every 7 days (March 7=Sun, 8=Mon...13=Sat; 14=Sun...20=Sat; 21=Sun,22=Mon,23=Tue,...27=Sat; 28=Sun,29=Mon,30=Tue,31=Wed).",
+  "group_id": "PX-CAP106-G01",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:calendar",
+  "tag_zh": "月曆日期判斷",
+  "stem": "Look at the calendar.  If Sean has a book festival card, when can he use it?",
+  "options": [
+   "March 3.",
+   "March 14.",
+   "March 23.",
+   "March 29."
+  ],
+  "answer": 2,
+  "explain_zh": "活動分兩階段：3/2–3/14 拿書換卡、3/16–3/31 才能拿卡換書，且圖書館週一公休。對照月曆，3/23（週二）落在換書階段又不是週一，故選 C。3/3、3/14 都還在換卡階段，3/29 則是週一休館。",
+  "vocab": [
+   {
+    "w": "calendar",
+    "zh": "月曆",
+    "pos": "n."
+   },
+   {
+    "w": "closed",
+    "zh": "公休的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "The book festival is coming!  Do you have some books you don't want?  Your old love may be someone's new favorite.\nBring one book to the Town Library & get another one home for free!\nWhen & How:\nMarch 2 - March 14   Bring one book for one book festival card.\nMarch 16 - March 31  Bring one card for one book you like to read.\nWhat books: All kinds of books EXCEPT school books, comic books, and dictionaries.\nNotice: Your book must be in good shape, without any page missing.  Your book must be clean, and nothing is written on it.\nWant to know more?  Please call 1234-5678.  (We are closed on Mondays.)  -Town Library-\nCalendar for March: March 1 is a Monday.  Days of the week repeat Sun-Sat every 7 days (March 7=Sun, 8=Mon...13=Sat; 14=Sun...20=Sat; 21=Sun,22=Mon,23=Tue,...27=Sat; 28=Sun,29=Mon,30=Tue,31=Wed).",
+  "group_id": "PX-CAP106-G01",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "故事情節理解",
+  "stem": "What happened in the story?",
+  "options": [
+   "A killer was caught by the police.",
+   "The writer's family invited a stranger to dinner.",
+   "The writer's brother ran to their parents for help.",
+   "A man ran away after he heard the writer's mother's voice."
+  ],
+  "answer": 3,
+  "explain_zh": "故事描述一名邋遢男子向作者要水，包包掉出繩子、刀子等物，作者一度以為他是通緝犯，最後媽媽大喊一聲，男子就慌張跑走，故選 D。文中並未提到警察逮人（A）或邀請男子吃晚餐（B），作者弟弟也沒有跑去找爸媽求救（C）。",
+  "vocab": [
+   {
+    "w": "appear",
+    "zh": "出現",
+    "pos": "v."
+   },
+   {
+    "w": "hurry off",
+    "zh": "匆忙離開",
+    "pos": "phr.v."
+   }
+  ],
+  "passage": "I had a horrendous experience last Saturday.\nThat day, my family went camping near a big lake.  While my parents were preparing dinner, my brother and I were playing by the lake.  A dirty man appeared from somewhere, and his face was half covered by his hair.  He walked to us and asked for some water.\nWhen I gave him water, the bag he carried dropped, and things inside fell out on the grass.  I saw a rope, a knife, and a baseball bat.  The strangest thing was that there were also a woman's shoe and a ring, and I'm sure they were not his.  The man quickly put all his things back in the bag and looked at us angrily.  At that moment, the picture of a man the police was looking for came to my mind.  He was the crazy killer!  I was so afraid that I could not move at all.\nLuckily, before he could get any closer, my mom shouted from far away, and the man hurried off into the dark.",
+  "group_id": "PX-CAP106-G02",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-019",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節推論",
+  "stem": "What can we learn about the writer and the man with a bag?",
+  "options": [
+   "The man attacked the writer.",
+   "The writer followed the man into the dark.",
+   "The writer did not find out who the man was in the end.",
+   "The man did not want the writer to see things in his bag."
+  ],
+  "answer": 3,
+  "explain_zh": "男子被要求水後，包包意外掉出繩子、刀子等物，他一發現東西掉出來，立刻把東西全部收回包包裡、還生氣地瞪著作者兄妹，顯示他不希望別人看到包包裡的東西，故選 D。文章最後也沒有交代他的真實身分，但「不想讓人看到包包內容物」這個反應是文中明確寫出的細節，比「始終不知道他是誰」更直接對應題目問的『我們可以知道什麼』。",
+  "vocab": [
+   {
+    "w": "put back",
+    "zh": "放回去",
+    "pos": "phr.v."
+   },
+   {
+    "w": "angrily",
+    "zh": "生氣地",
+    "pos": "adv."
+   }
+  ],
+  "passage": "I had a horrendous experience last Saturday.\nThat day, my family went camping near a big lake.  While my parents were preparing dinner, my brother and I were playing by the lake.  A dirty man appeared from somewhere, and his face was half covered by his hair.  He walked to us and asked for some water.\nWhen I gave him water, the bag he carried dropped, and things inside fell out on the grass.  I saw a rope, a knife, and a baseball bat.  The strangest thing was that there were also a woman's shoe and a ring, and I'm sure they were not his.  The man quickly put all his things back in the bag and looked at us angrily.  At that moment, the picture of a man the police was looking for came to my mind.  He was the crazy killer!  I was so afraid that I could not move at all.\nLuckily, before he could get any closer, my mom shouted from far away, and the man hurried off into the dark.",
+  "group_id": "PX-CAP106-G02",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-020",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "stem": "How do people feel when they experience something horrendous?",
+  "options": [
+   "Angry.",
+   "Sad.",
+   "Scared.",
+   "Tired."
+  ],
+  "answer": 2,
+  "explain_zh": "文章標題就是「horrendous experience」（可怕的經歷），內容描述遇到可疑男子的驚險過程，這種經歷帶來的情緒最貼切的是「害怕」，故選 C。angry、sad、tired 都不是遇到可怕經歷時最直接的反應。",
+  "vocab": [
+   {
+    "w": "scared",
+    "zh": "害怕的",
+    "pos": "adj."
+   },
+   {
+    "w": "horrendous",
+    "zh": "可怕的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "I had a horrendous experience last Saturday.\nThat day, my family went camping near a big lake.  While my parents were preparing dinner, my brother and I were playing by the lake.  A dirty man appeared from somewhere, and his face was half covered by his hair.  He walked to us and asked for some water.\nWhen I gave him water, the bag he carried dropped, and things inside fell out on the grass.  I saw a rope, a knife, and a baseball bat.  The strangest thing was that there were also a woman's shoe and a ring, and I'm sure they were not his.  The man quickly put all his things back in the bag and looked at us angrily.  At that moment, the picture of a man the police was looking for came to my mind.  He was the crazy killer!  I was so afraid that I could not move at all.\nLuckily, before he could get any closer, my mom shouted from far away, and the man hurried off into the dark.",
+  "group_id": "PX-CAP106-G02",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-021",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "stem": "What does the catch mean in the dialogue?",
+  "options": [
+   "A plan that starts well but ends badly.",
+   "A fact that everyone knows but never talks about.",
+   "A problem that is hidden behind something good.",
+   "An action that is right in one way but wrong in another."
+  ],
+  "answer": 2,
+  "explain_zh": "Ruth 先給了兩張難得的球賽票和訂位，Nate 察覺這不像她的作風，便問「有什麼玄機」，之後才知道 Ruth 其實是想拜託他照顧狗。可知 the catch 是指「好事背後藏著的問題」，故選 C。並不是計畫先好後壞（A）或大家都知道卻不說的事（B）。",
+  "vocab": [
+   {
+    "w": "catch",
+    "zh": "（好事背後的）隱藏問題",
+    "pos": "n."
+   },
+   {
+    "w": "sold out",
+    "zh": "售完",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Ruth: I've got two tickets for a football game.  The Lions vs. the Sharks, front-row seats, next Saturday.  Interested?  You can take Jessica to the game.\nNate: How did you get the tickets?!  They were all sold out months ago!\nRuth: And a table for two at Leeds.\nNate: Leeds?!  But I called them yesterday and they said they were all booked for the year!\nRuth: Now it's yours.  You and Jessica can have a lovely dinner there after the game.\nNate: Wait a second.  This is just not like you.  What's the catch?\nRuth: Well, you know this Friday I'm leaving for my vacation in London, and....\nNate: And what?\nRuth: And I was thinking if Charlie could stay with you next week.\nNate: The whole week?!\nRuth: Please!  I can't just leave him in my apartment.\nNate: You know I hate that stupid dog!  And he hates me too.\nRuth: Please!  You're my last hope.\nNate: I need to think about it.\nRuth: OK, but not too long.",
+  "group_id": "PX-CAP106-G03",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-022",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What does it mean in the dialogue?",
+  "options": [
+   "Taking care of Charlie.",
+   "Having dinner with Jessica.",
+   "Going to the football game.",
+   "Going to London for vacation."
+  ],
+  "answer": 0,
+  "explain_zh": "對話最後 Ruth 提到要去倫敦度假，希望 Nate 能幫忙照顧她的狗 Charlie 一整週，故 it 指的正是「照顧 Charlie」這件事，故選 A。對話中並沒有提到請客吃飯或去球場的「it」用法。",
+  "vocab": [
+   {
+    "w": "take care of",
+    "zh": "照顧",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Ruth: I've got two tickets for a football game.  The Lions vs. the Sharks, front-row seats, next Saturday.  Interested?  You can take Jessica to the game.\nNate: How did you get the tickets?!  They were all sold out months ago!\nRuth: And a table for two at Leeds.\nNate: Leeds?!  But I called them yesterday and they said they were all booked for the year!\nRuth: Now it's yours.  You and Jessica can have a lovely dinner there after the game.\nNate: Wait a second.  This is just not like you.  What's the catch?\nRuth: Well, you know this Friday I'm leaving for my vacation in London, and....\nNate: And what?\nRuth: And I was thinking if Charlie could stay with you next week.\nNate: The whole week?!\nRuth: Please!  I can't just leave him in my apartment.\nNate: You know I hate that stupid dog!  And he hates me too.\nRuth: Please!  You're my last hope.\nNate: I need to think about it.\nRuth: OK, but not too long.",
+  "group_id": "PX-CAP106-G03",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-023",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "對話細節",
+  "stem": "What do we know from the dialogue?",
+  "options": [
+   "Ruth will go to London next Saturday.",
+   "Ruth had trouble booking a hotel room in London.",
+   "Nate is the first person that Ruth thought of for help.",
+   "Nate is surprised that Ruth was able to book a table at Leeds."
+  ],
+  "answer": 3,
+  "explain_zh": "Nate 一聽到 Ruth 訂到 Leeds 餐廳的位子就非常驚訝，還說自己昨天才打電話被告知已經訂滿一整年，可知他沒想到 Ruth 真的訂得到，故選 D。文中沒有說 Ruth 本人週六要去倫敦（A票是要給Nate和Jessica的），也沒提到訂旅館的困難（B），Nate 也不是 Ruth 第一個想到的人選（C，Ruth 話中並無此暗示）。",
+  "vocab": [
+   {
+    "w": "book",
+    "zh": "預訂",
+    "pos": "v."
+   },
+   {
+    "w": "surprised",
+    "zh": "驚訝的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Ruth: I've got two tickets for a football game.  The Lions vs. the Sharks, front-row seats, next Saturday.  Interested?  You can take Jessica to the game.\nNate: How did you get the tickets?!  They were all sold out months ago!\nRuth: And a table for two at Leeds.\nNate: Leeds?!  But I called them yesterday and they said they were all booked for the year!\nRuth: Now it's yours.  You and Jessica can have a lovely dinner there after the game.\nNate: Wait a second.  This is just not like you.  What's the catch?\nRuth: Well, you know this Friday I'm leaving for my vacation in London, and....\nNate: And what?\nRuth: And I was thinking if Charlie could stay with you next week.\nNate: The whole week?!\nRuth: Please!  I can't just leave him in my apartment.\nNate: You know I hate that stupid dog!  And he hates me too.\nRuth: Please!  You're my last hope.\nNate: I need to think about it.\nRuth: OK, but not too long.",
+  "group_id": "PX-CAP106-G03",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-024",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "stem": "What is this reading for?",
+  "options": [
+   "Telling people rules about hospital visits.",
+   "Getting people to stand up and speak for doctors.",
+   "Telling people how to find a good doctor for themselves.",
+   "Getting doctors to share their experiences in saving lives."
+  ],
+  "answer": 1,
+  "explain_zh": "文章列出醫生超時工作的驚人數據，最後呼籲大家週日一起上街，為醫生發聲、爭取權益，可知這篇文章的目的是號召大眾支持醫生，故選 B。文章重點不是教人如何看病（C）或訂定看診規則（A），也沒有請醫生分享救人經驗（D）。",
+  "vocab": [
+   {
+    "w": "stand up for",
+    "zh": "挺身支持",
+    "pos": "phr."
+   },
+   {
+    "w": "report",
+    "zh": "報告、報導",
+    "pos": "n."
+   }
+  ],
+  "passage": "When you need to see a doctor, surely you will want to see a good one.  But there is one important thing you may never have thought about: Has your doctor rested enough?\nDoctors in our country often have to work 34 hours or longer without sleep.  Most of them work 104 hours a week, and some even 150.  (There are only 168 hours a week!)  One report said that a doctor who works such long hours cannot think more clearly than a drunk driver.  Another found that doctors who sleep 5.8 fewer hours than the week before might make 22% more serious mistakes.  Surely no one wants to get in a car that is driven by a drunk driver.  So, how safe would you feel when you are under the care of a tired doctor?\nSadly this problem has been around for a long time.  There are no laws about it yet and hospital bosses don't look like they care either.  And that is why we doctors are asking you to join us on the street this Sunday.  Fight together with us on the street so we can fight better for your life in the hospital.\nTime: 1 p.m. May 2nd    Place: City Hospital Square",
+  "group_id": "PX-CAP106-G04",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-025",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "stem": "What does this problem mean in the reading?",
+  "options": [
+   "Doctors' long working hours.",
+   "Doctors' problems with nurses.",
+   "Doctors do not see enough people a day.",
+   "Doctors are not paid enough for their work."
+  ],
+  "answer": 0,
+  "explain_zh": "this problem 承接前一段描述的內容，也就是醫生一週工作動輒超過 100 小時、睡眠嚴重不足的狀況，故選 A（醫生工時過長）。文章沒有提到醫生與護理師的問題（B）、看診人數不足（C）或薪水太低（D）。",
+  "vocab": [
+   {
+    "w": "working hours",
+    "zh": "工作時數",
+    "pos": "n."
+   },
+   {
+    "w": "tired",
+    "zh": "疲累的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "When you need to see a doctor, surely you will want to see a good one.  But there is one important thing you may never have thought about: Has your doctor rested enough?\nDoctors in our country often have to work 34 hours or longer without sleep.  Most of them work 104 hours a week, and some even 150.  (There are only 168 hours a week!)  One report said that a doctor who works such long hours cannot think more clearly than a drunk driver.  Another found that doctors who sleep 5.8 fewer hours than the week before might make 22% more serious mistakes.  Surely no one wants to get in a car that is driven by a drunk driver.  So, how safe would you feel when you are under the care of a tired doctor?\nSadly this problem has been around for a long time.  There are no laws about it yet and hospital bosses don't look like they care either.  And that is why we doctors are asking you to join us on the street this Sunday.  Fight together with us on the street so we can fight better for your life in the hospital.\nTime: 1 p.m. May 2nd    Place: City Hospital Square",
+  "group_id": "PX-CAP106-G04",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-026",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "stem": "What does Wonky Markt care about?",
+  "options": [
+   "Supermarkets often sell \"seconds\" at a lower price.",
+   "Farmers don't know how to grow fewer \"seconds.\"",
+   "\"Seconds\" are thrown away because of how they look.",
+   "People don't know much about picking fresh \"seconds.\""
+  ],
+  "answer": 2,
+  "explain_zh": "文章說明外觀奇特的農產品「seconds」常因賣相不好被丟棄，Wonky Markt 就是想解決這個「因為長得不好看就被浪費」的問題，故選 C。文章並非在說超市已經有折扣（A）、農夫不會種植（B），或消費者不懂挑選新鮮蔬果（D）。",
+  "vocab": [
+   {
+    "w": "throw away",
+    "zh": "丟棄",
+    "pos": "phr.v."
+   },
+   {
+    "w": "look",
+    "zh": "外觀",
+    "pos": "n."
+   }
+  ],
+  "passage": "Have you ever seen a pumpkin that looks like a nose or an apple that looks like a funny face?  They may not look great, but they taste just as good as the pretty ones.  These strange-looking fruit and vegetables are called \"seconds.\"  About 20-40% of what farmers grow is not so beautiful.  Sadly, these \"seconds\" seldom arrive at your table, but often go straight into the trash can.  Why?  It's because supermarkets don't want to buy them from farmers—they believe their shoppers only love beautiful things.  Because of these \"seconds,\" some farmers lose a lot of money.\nWonky Markt wishes to change this.  We're helping sell these \"seconds.\"  Farmers can save them from the trash can, and you can get them at a lower price.\nSend us photos of your delicious dishes that are made with our \"seconds\" to oneandonly@wonkymarkt.com, and you may win our cookbook.\n1.  NT$250 a box.\n2.  You can choose as many as six kinds of fruit and vegetables a box.\n3.  Service charge: NT$50 a box.\n4.  No service charge if order is over NT$1,000.",
+  "group_id": "PX-CAP106-G05",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-027",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "價格規則細節",
+  "stem": "What do we know about buying the \"seconds\" from Wonky Markt?",
+  "options": [
+   "You can save 20-40% if you shop for a second time.",
+   "If you buy three boxes, you will need to pay NT$900.",
+   "You can choose not only their size but also their shape.",
+   "To win the cookbook, you need to buy at least six boxes."
+  ],
+  "answer": 1,
+  "explain_zh": "根據規則，一箱 NT$250、服務費 NT$50，三箱在未達 NT$1,000（免服務費門檻）前，每箱都要加收服務費，共 3×(250+50)=900 元，故選 B。文章沒提到「第二次購買打折」（A），每箱只能挑最多六種蔬果、非「任選形狀」（C），得到食譜的方式是寄照片而非買六箱（D）。",
+  "vocab": [
+   {
+    "w": "service charge",
+    "zh": "服務費",
+    "pos": "n."
+   },
+   {
+    "w": "a box",
+    "zh": "一箱",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Have you ever seen a pumpkin that looks like a nose or an apple that looks like a funny face?  They may not look great, but they taste just as good as the pretty ones.  These strange-looking fruit and vegetables are called \"seconds.\"  About 20-40% of what farmers grow is not so beautiful.  Sadly, these \"seconds\" seldom arrive at your table, but often go straight into the trash can.  Why?  It's because supermarkets don't want to buy them from farmers—they believe their shoppers only love beautiful things.  Because of these \"seconds,\" some farmers lose a lot of money.\nWonky Markt wishes to change this.  We're helping sell these \"seconds.\"  Farmers can save them from the trash can, and you can get them at a lower price.\nSend us photos of your delicious dishes that are made with our \"seconds\" to oneandonly@wonkymarkt.com, and you may win our cookbook.\n1.  NT$250 a box.\n2.  You can choose as many as six kinds of fruit and vegetables a box.\n3.  Service charge: NT$50 a box.\n4.  No service charge if order is over NT$1,000.",
+  "group_id": "PX-CAP106-G05",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-028",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "stem": "What does the report say about globalization's influence on the movie world?",
+  "options": [
+   "It has changed the way of making movies.",
+   "It has changed a country's domestic market for movies.",
+   "It has brought together movie makers from around the world.",
+   "It has helped US movies make more money abroad than in the US."
+  ],
+  "answer": 1,
+  "explain_zh": "文章重點在說明美國電影大量進駐各國市場後，導致各國本土電影在自己國內的市占率下滑，正是「改變了一國電影的國內市場」，故選 B。全球化影響的不是拍片方式（A）或讓各國導演合作（C），文中也沒提到美國電影在海外比在美國更賺錢（D）。",
+  "vocab": [
+   {
+    "w": "globalization",
+    "zh": "全球化",
+    "pos": "n."
+   },
+   {
+    "w": "domestic",
+    "zh": "國內的、本土的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Cinema Times, June 5th, 2005.  Thanks to globalization, we get to see movies from around the world.  If anyone should feel most excited about globalization, it is US movie makers.  A study in 2001 shows that, for every 100 people who go to the theater, 85 see US movies.  This may be good news for US movie makers, but not for those in other countries.\nChart 1 shows the percentages (%) of US movies in five countries in 1984 and in 2001; Chart 2 shows the percentages (%) of domestic movies in the five countries in 1984 and in 2001.  In Chart 1, we can see that US movies have been popular in foreign markets.  In Chart 2, we can see that domestic movies in the five countries are not doing well in their domestic market.  The falling market for domestic movies may be a serious problem, but there is something more important.  When people welcome US movies with open arms, they in fact also say yes to the American way of thinking.  Some people in these countries worry that what is lost may not just be their domestic market for domestic movies, but also their own way of thinking that has been passed down from parents to children.\nChart 1 (% of US movies, 1984 -> 2001): France 39->47, Italy 48->60, Spain 53->62, UK 81->74, Germany 66->77.\nChart 2 (% of domestic movies, 1984 -> 2001): France 45->42, Italy 34->19, Spain 22->18, UK 17->5, Germany 17->16.",
+  "group_id": "PX-CAP106-G06",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-029",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "文章推論",
+  "stem": "What can we learn from the report?",
+  "options": [
+   "The American way of thinking may be changed when it is brought to other countries.",
+   "More and more people are asking their country to help their domestic movie business.",
+   "US movies are popular in foreign markets because English is spoken in many countries.",
+   "The fact that US movies are popular may mean the American way of thinking is popular."
+  ],
+  "answer": 3,
+  "explain_zh": "文章最後指出，人們接受美國電影的同時，其實也在接受美國式的思考方式，也就是「美國電影受歡迎，可能代表美國式思維也跟著流行起來」，故選 D。文中沒說各國會要求政府扶植本土電影（B）或美國電影受歡迎是因為語言（C）。",
+  "vocab": [
+   {
+    "w": "way of thinking",
+    "zh": "思考方式",
+    "pos": "phr."
+   },
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Cinema Times, June 5th, 2005.  Thanks to globalization, we get to see movies from around the world.  If anyone should feel most excited about globalization, it is US movie makers.  A study in 2001 shows that, for every 100 people who go to the theater, 85 see US movies.  This may be good news for US movie makers, but not for those in other countries.\nChart 1 shows the percentages (%) of US movies in five countries in 1984 and in 2001; Chart 2 shows the percentages (%) of domestic movies in the five countries in 1984 and in 2001.  In Chart 1, we can see that US movies have been popular in foreign markets.  In Chart 2, we can see that domestic movies in the five countries are not doing well in their domestic market.  The falling market for domestic movies may be a serious problem, but there is something more important.  When people welcome US movies with open arms, they in fact also say yes to the American way of thinking.  Some people in these countries worry that what is lost may not just be their domestic market for domestic movies, but also their own way of thinking that has been passed down from parents to children.\nChart 1 (% of US movies, 1984 -> 2001): France 39->47, Italy 48->60, Spain 53->62, UK 81->74, Germany 66->77.\nChart 2 (% of domestic movies, 1984 -> 2001): France 45->42, Italy 34->19, Spain 22->18, UK 17->5, Germany 17->16.",
+  "group_id": "PX-CAP106-G06",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-030",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:chart-data",
+  "tag_zh": "雙圖表數據比對",
+  "stem": "From the charts, which is true?",
+  "options": [
+   "The percentage (%) of US movies has changed the least in Spain.",
+   "In each of the five countries, the percentage (%) of domestic movies has fallen.",
+   "Of all five countries, UK's domestic movies have the smallest drop in percentage (%).",
+   "When the percentage (%) of domestic movies drops, the percentage of US movies rises."
+  ],
+  "answer": 1,
+  "explain_zh": "對照 Chart 2 的數據，法、義、西、英、德五國從 1984 到 2001 年的本土電影市占率全部下降（45→42、34→19、22→18、17→5、17→16），故選 B。西班牙其實變化不算最小（A錯）、英國跌幅其實相對最大（C 表述相反）、圖表也沒有顯示兩者呈現簡單的此消彼長關係（D）。",
+  "vocab": [
+   {
+    "w": "chart",
+    "zh": "圖表",
+    "pos": "n."
+   },
+   {
+    "w": "percentage",
+    "zh": "百分比",
+    "pos": "n."
+   }
+  ],
+  "passage": "Cinema Times, June 5th, 2005.  Thanks to globalization, we get to see movies from around the world.  If anyone should feel most excited about globalization, it is US movie makers.  A study in 2001 shows that, for every 100 people who go to the theater, 85 see US movies.  This may be good news for US movie makers, but not for those in other countries.\nChart 1 shows the percentages (%) of US movies in five countries in 1984 and in 2001; Chart 2 shows the percentages (%) of domestic movies in the five countries in 1984 and in 2001.  In Chart 1, we can see that US movies have been popular in foreign markets.  In Chart 2, we can see that domestic movies in the five countries are not doing well in their domestic market.  The falling market for domestic movies may be a serious problem, but there is something more important.  When people welcome US movies with open arms, they in fact also say yes to the American way of thinking.  Some people in these countries worry that what is lost may not just be their domestic market for domestic movies, but also their own way of thinking that has been passed down from parents to children.\nChart 1 (% of US movies, 1984 -> 2001): France 39->47, Italy 48->60, Spain 53->62, UK 81->74, Germany 66->77.\nChart 2 (% of domestic movies, 1984 -> 2001): France 45->42, Italy 34->19, Spain 22->18, UK 17->5, Germany 17->16.",
+  "group_id": "PX-CAP106-G06",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-031",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "時態語意",
+  "stem": "He ____ a proud businessman of a successful shaved ice shop.",
+  "options": [
+   "is",
+   "has been",
+   "used to be",
+   "was going to be"
+  ],
+  "answer": 2,
+  "explain_zh": "後文描述他曾是「驕傲的刨冰店老闆」，但那已是過去、現在已改變的狀態，used to be 表示「過去曾經是（現在不是了）」最貼切，故選 used to be。is 是現在式、has been 表示持續到現在、was going to be 表未實現的打算，皆與「今非昔比」的語境不符。",
+  "vocab": [
+   {
+    "w": "used to",
+    "zh": "過去曾經（現在不再）",
+    "pos": "phr."
+   },
+   {
+    "w": "proud",
+    "zh": "驕傲的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Jerry Stevens has been unhappy these months.  He __34__ a proud businessman of a successful shaved ice shop.  His highest sales numbers were 1,899 plates a week; people called him \"Ice King.\"  But all this changed when the cookie shop across the street started selling ice cream cookies.  It took away half of his business.\nAnd __35__ when Dan, his dead sister's only son, came to work for him.  Dan was a nice young man with a simple mind, too simple, maybe.  He always let people try some shaved ice for free, but he never learned to see when \"some\" became \"too much.\"  Many people came, but few bought.  When the sales did not grow with the heat, Jerry started to worry.  He wanted to send Dan home.  But how could he?  Dan had no family except him.\nThen, one day, __36__.  And it was from across the street.  The cookie shop __37__ a clerk.  For Jerry, it was a great chance to get Dan out of his store without sending him home.  After taking the shopkeeper to several nice dinners, Jerry got Dan the job.\nNow Jerry could finally try and save his store.  And maybe Dan would help by sending him a few people who are thirsty from eating too many cookies.",
+  "group_id": "PX-CAP106-G07",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-032",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "And ____ when Dan, his dead sister's only son, came to work for him.",
+  "options": [
+   "things didn't get better",
+   "he was ready to give up",
+   "the sales of shaved ice finally started to rise",
+   "the cookie shop was not successful for long"
+  ],
+  "answer": 0,
+  "explain_zh": "後文描述 Dan 做事太天真、常常只送不賣，導致生意沒有起色，可知情況「沒有變好」，故選 things didn't get better。其餘選項（放棄經營、生意好轉、對街麵包店做不久）都與後文接下來的發展矛盾。",
+  "vocab": [
+   {
+    "w": "get better",
+    "zh": "變好",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Jerry Stevens has been unhappy these months.  He __34__ a proud businessman of a successful shaved ice shop.  His highest sales numbers were 1,899 plates a week; people called him \"Ice King.\"  But all this changed when the cookie shop across the street started selling ice cream cookies.  It took away half of his business.\nAnd __35__ when Dan, his dead sister's only son, came to work for him.  Dan was a nice young man with a simple mind, too simple, maybe.  He always let people try some shaved ice for free, but he never learned to see when \"some\" became \"too much.\"  Many people came, but few bought.  When the sales did not grow with the heat, Jerry started to worry.  He wanted to send Dan home.  But how could he?  Dan had no family except him.\nThen, one day, __36__.  And it was from across the street.  The cookie shop __37__ a clerk.  For Jerry, it was a great chance to get Dan out of his store without sending him home.  After taking the shopkeeper to several nice dinners, Jerry got Dan the job.\nNow Jerry could finally try and save his store.  And maybe Dan would help by sending him a few people who are thirsty from eating too many cookies.",
+  "group_id": "PX-CAP106-G07",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-033",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "Then, one day, ____.  And it was from across the street.  The cookie shop ____ a clerk.",
+  "options": [
+   "his only hope died",
+   "good news arrived",
+   "worse trouble came",
+   "the hard time passed"
+  ],
+  "answer": 1,
+  "explain_zh": "後文說這個消息來自對街的麵包店，且讓 Jerry 找到把 Dan 「體面地」送走的機會，可知這是「好消息」，故選 good news arrived。其餘選項（希望破滅、麻煩更大、難關已過）都與後文「機會來了」的正向發展不符。",
+  "vocab": [
+   {
+    "w": "arrive",
+    "zh": "到來",
+    "pos": "v."
+   }
+  ],
+  "passage": "Jerry Stevens has been unhappy these months.  He __34__ a proud businessman of a successful shaved ice shop.  His highest sales numbers were 1,899 plates a week; people called him \"Ice King.\"  But all this changed when the cookie shop across the street started selling ice cream cookies.  It took away half of his business.\nAnd __35__ when Dan, his dead sister's only son, came to work for him.  Dan was a nice young man with a simple mind, too simple, maybe.  He always let people try some shaved ice for free, but he never learned to see when \"some\" became \"too much.\"  Many people came, but few bought.  When the sales did not grow with the heat, Jerry started to worry.  He wanted to send Dan home.  But how could he?  Dan had no family except him.\nThen, one day, __36__.  And it was from across the street.  The cookie shop __37__ a clerk.  For Jerry, it was a great chance to get Dan out of his store without sending him home.  After taking the shopkeeper to several nice dinners, Jerry got Dan the job.\nNow Jerry could finally try and save his store.  And maybe Dan would help by sending him a few people who are thirsty from eating too many cookies.",
+  "group_id": "PX-CAP106-G07",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-034",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "時態語意",
+  "stem": "The cookie shop ____ a clerk.",
+  "options": [
+   "used to look for",
+   "has looked for",
+   "was looking for",
+   "had looked for"
+  ],
+  "answer": 2,
+  "explain_zh": "承接上題，麵包店正好缺人手，Jerry 才能藉機幫 Dan 找到新工作，故選 was looking for（正在找）。used to look for、has looked for、had looked for 在時態上都不符合「當時正好在找人」的情境。",
+  "vocab": [
+   {
+    "w": "look for",
+    "zh": "尋找",
+    "pos": "phr.v."
+   },
+   {
+    "w": "clerk",
+    "zh": "店員",
+    "pos": "n."
+   }
+  ],
+  "passage": "Jerry Stevens has been unhappy these months.  He __34__ a proud businessman of a successful shaved ice shop.  His highest sales numbers were 1,899 plates a week; people called him \"Ice King.\"  But all this changed when the cookie shop across the street started selling ice cream cookies.  It took away half of his business.\nAnd __35__ when Dan, his dead sister's only son, came to work for him.  Dan was a nice young man with a simple mind, too simple, maybe.  He always let people try some shaved ice for free, but he never learned to see when \"some\" became \"too much.\"  Many people came, but few bought.  When the sales did not grow with the heat, Jerry started to worry.  He wanted to send Dan home.  But how could he?  Dan had no family except him.\nThen, one day, __36__.  And it was from across the street.  The cookie shop __37__ a clerk.  For Jerry, it was a great chance to get Dan out of his store without sending him home.  After taking the shopkeeper to several nice dinners, Jerry got Dan the job.\nNow Jerry could finally try and save his store.  And maybe Dan would help by sending him a few people who are thirsty from eating too many cookies.",
+  "group_id": "PX-CAP106-G07",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-035",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "The first one made him a star; the second ____.",
+  "options": [
+   "hurt his health",
+   "opened his eyes",
+   "cost him his life",
+   "made his dream come true"
+  ],
+  "answer": 2,
+  "explain_zh": "第一趟南極之旅讓 Scott 成為英雄，但第二趟卻要了他的命（後文最後描述他和隊員命喪回程），故選 cost him his life。hurt his health（傷害健康）、opened his eyes（開拓眼界）、made his dream come true（美夢成真）都無法呼應故事最後的悲劇結局。",
+  "vocab": [
+   {
+    "w": "cost someone one's life",
+    "zh": "使某人喪命",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Englishman Robert Scott is known for leading two trips to Antarctica.  The first one made him a star; the second __38__.\nAfter his first successful trip, Scott decided to be the first person to stand on the South Pole.  However, __39__.  He would be in a race with Roald Amundsen, from Norway.  Both left their countries by ship in June of 1910 and arrived in Antarctica in January of 1911.\nAbout ten months later, both teams started their trips down to the South Pole.  __40__.  Amundsen's team used dogs, and Scott's team used horses.  Because horses weren't good at traveling on snow, it took Scott's team 77 days to arrive at the South Pole.  They got there on January 17, 1912, and were surprised to find that Amundsen was ahead of them.  The news hit Scott very hard, but what he didn't know was that __41__.  His team began their long trip home with broken hearts.  After days of terrible weather and little food, Scott lost his men one after another, and he himself was the last one to meet the end of his life.  No one on his team lived to go back home and tell their story.  It was only learned through Scott's diary.",
+  "group_id": "PX-CAP106-G08",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-036",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "Scott decided to be the first person to stand on the South Pole.  However, ____.",
+  "options": [
+   "he didn't want to take this trip with others",
+   "he wasn't the only one who had this dream",
+   "he wouldn't let anyone else take his prize away",
+   "he couldn't miss the chance to make his country proud"
+  ],
+  "answer": 1,
+  "explain_zh": "後文提到他將與來自挪威的 Amundsen 競賽，可知讓 Scott 意外的是「原來不只他一人懷有登上南極點的夢想」，故選 he wasn't the only one who had this dream。其餘選項都不符合「出現競爭對手」這個轉折。",
+  "vocab": [
+   {
+    "w": "race",
+    "zh": "競賽",
+    "pos": "n."
+   }
+  ],
+  "passage": "Englishman Robert Scott is known for leading two trips to Antarctica.  The first one made him a star; the second __38__.\nAfter his first successful trip, Scott decided to be the first person to stand on the South Pole.  However, __39__.  He would be in a race with Roald Amundsen, from Norway.  Both left their countries by ship in June of 1910 and arrived in Antarctica in January of 1911.\nAbout ten months later, both teams started their trips down to the South Pole.  __40__.  Amundsen's team used dogs, and Scott's team used horses.  Because horses weren't good at traveling on snow, it took Scott's team 77 days to arrive at the South Pole.  They got there on January 17, 1912, and were surprised to find that Amundsen was ahead of them.  The news hit Scott very hard, but what he didn't know was that __41__.  His team began their long trip home with broken hearts.  After days of terrible weather and little food, Scott lost his men one after another, and he himself was the last one to meet the end of his life.  No one on his team lived to go back home and tell their story.  It was only learned through Scott's diary.",
+  "group_id": "PX-CAP106-G08",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-037",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "About ten months later, both teams started their trips down to the South Pole.  ____.  Amundsen's team used dogs, and Scott's team used horses.",
+  "options": [
+   "And Scott used a popular way for his men to travel fast",
+   "But there were problems to deal with before they traveled",
+   "But Amundsen didn't know better about animals than Scott",
+   "And their ways of traveling decided which team would win"
+  ],
+  "answer": 3,
+  "explain_zh": "後文說 Amundsen 的隊伍用狗、Scott 的隊伍用馬，而馬不適合在雪地行走，最終導致 Scott 隊伍落後，可知「交通方式決定了誰會獲勝」，故選 And their ways of traveling decided which team would win，呼應後文的因果關係。",
+  "vocab": [
+   {
+    "w": "decide",
+    "zh": "決定",
+    "pos": "v."
+   }
+  ],
+  "passage": "Englishman Robert Scott is known for leading two trips to Antarctica.  The first one made him a star; the second __38__.\nAfter his first successful trip, Scott decided to be the first person to stand on the South Pole.  However, __39__.  He would be in a race with Roald Amundsen, from Norway.  Both left their countries by ship in June of 1910 and arrived in Antarctica in January of 1911.\nAbout ten months later, both teams started their trips down to the South Pole.  __40__.  Amundsen's team used dogs, and Scott's team used horses.  Because horses weren't good at traveling on snow, it took Scott's team 77 days to arrive at the South Pole.  They got there on January 17, 1912, and were surprised to find that Amundsen was ahead of them.  The news hit Scott very hard, but what he didn't know was that __41__.  His team began their long trip home with broken hearts.  After days of terrible weather and little food, Scott lost his men one after another, and he himself was the last one to meet the end of his life.  No one on his team lived to go back home and tell their story.  It was only learned through Scott's diary.",
+  "group_id": "PX-CAP106-G08",
+  "source": "106會考"
+ },
+ {
+  "id": "PX-CAP106-038",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "stem": "The news hit Scott very hard, but what he didn't know was that ____.",
+  "options": [
+   "there was still hope",
+   "no one ever believed him",
+   "the worst had not come yet",
+   "Amundsen had not been honest"
+  ],
+  "answer": 2,
+  "explain_zh": "Scott 隊伍發現 Amundsen 已搶先抵達南極點，深受打擊，但他們還不知道「最壞的情況還沒發生」，故選 the worst had not come yet，呼應後文回程遭遇惡劣天氣、糧食短缺、最終全員罹難的悲劇。",
+  "vocab": [
+   {
+    "w": "worst",
+    "zh": "最壞的（bad 的最高級）",
+    "pos": "adj."
+   },
+   {
+    "w": "hit someone hard",
+    "zh": "重重打擊某人",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Englishman Robert Scott is known for leading two trips to Antarctica.  The first one made him a star; the second __38__.\nAfter his first successful trip, Scott decided to be the first person to stand on the South Pole.  However, __39__.  He would be in a race with Roald Amundsen, from Norway.  Both left their countries by ship in June of 1910 and arrived in Antarctica in January of 1911.\nAbout ten months later, both teams started their trips down to the South Pole.  __40__.  Amundsen's team used dogs, and Scott's team used horses.  Because horses weren't good at traveling on snow, it took Scott's team 77 days to arrive at the South Pole.  They got there on January 17, 1912, and were surprised to find that Amundsen was ahead of them.  The news hit Scott very hard, but what he didn't know was that __41__.  His team began their long trip home with broken hearts.  After days of terrible weather and little food, Scott lost his men one after another, and he himself was the last one to meet the end of his life.  No one on his team lived to go back home and tell their story.  It was only learned through Scott's diary.",
+  "group_id": "PX-CAP106-G08",
+  "source": "106會考"
+ }
+]

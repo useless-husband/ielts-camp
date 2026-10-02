@@ -1,0 +1,994 @@
+[
+ {
+  "id": "PX-GSAT115-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "The mayor has such a ____ schedule that it takes weeks to arrange an interview with her.",
+  "options": [
+   "hasty",
+   "tight",
+   "diligent",
+   "routine"
+  ],
+  "answer": 1,
+  "explain_zh": "市長的行程「緊湊」到需要花好幾週才能安排到一次專訪，故選 tight。hasty（倉促的）、diligent（勤奮的）、routine（例行的）皆無法形容「行程滿檔、幾乎沒有空檔」的狀態。tight schedule 是常見的固定搭配。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "tight",
+    "zh": "緊湊的",
+    "pos": "adj."
+   },
+   {
+    "w": "arrange",
+    "zh": "安排",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "Jane started as an ____ art designer, but now she has a professional studio of her own.",
+  "options": [
+   "official",
+   "instant",
+   "amateur",
+   "elementary"
+  ],
+  "answer": 2,
+  "explain_zh": "珍剛開始是「業餘」藝術設計師，如今已擁有自己的專業工作室，故選 amateur。official（官方的）、instant（立即的）、elementary（初階的）皆無法形容「非專業起步」的身分。amateur 與後文 professional 形成對比。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "amateur",
+    "zh": "業餘的",
+    "pos": "adj."
+   },
+   {
+    "w": "professional",
+    "zh": "專業的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "The teaching ____ at the famous high school soon attracted more than a dozen well-qualified applicants.",
+  "options": [
+   "career",
+   "vacancy",
+   "expectation",
+   "inspiration"
+  ],
+  "answer": 1,
+  "explain_zh": "這所知名高中的教職「職缺」很快吸引了十幾位資格優秀的應徵者，故選 vacancy。career（生涯）、expectation（期望）、inspiration（靈感）皆無法形容「有待填補的職位空缺」。teaching vacancy 是常見的固定搭配。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "vacancy",
+    "zh": "職缺",
+    "pos": "n."
+   },
+   {
+    "w": "applicant",
+    "zh": "應徵者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "Designed by a young engineer, the new product has created far more profit than ____ expected.",
+  "options": [
+   "initially",
+   "genuinely",
+   "alternatively",
+   "fundamentally"
+  ],
+  "answer": 0,
+  "explain_zh": "這款由年輕工程師設計的新產品，創造的利潤遠超過「最初」的預期，故選 initially。genuinely（真誠地）、alternatively（或者）、fundamentally（根本上）皆無法表達「起初、一開始」的時間概念。initially expected 是常見搭配。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "initially",
+    "zh": "最初",
+    "pos": "adv."
+   },
+   {
+    "w": "profit",
+    "zh": "利潤",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "It has been confirmed that a balanced ____ of fruit and vegetables is a key element to good health.",
+  "options": [
+   "dimension",
+   "integration",
+   "provision",
+   "consumption"
+  ],
+  "answer": 3,
+  "explain_zh": "已證實均衡「攝取」蔬果是維持健康的關鍵要素，故選 consumption。dimension（面向）、integration（整合）、provision（供應）皆無法與 of fruit and vegetables 搭配出「攝取」的語意。consumption 常用於描述飲食的攝取量。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "consumption",
+    "zh": "攝取、消耗",
+    "pos": "n."
+   },
+   {
+    "w": "balanced",
+    "zh": "均衡的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "As a shy boy afraid of making public appearances, Timmy ____ the thought of speaking before large audiences.",
+  "options": [
+   "dreads",
+   "stresses",
+   "wanders",
+   "escapes"
+  ],
+  "answer": 0,
+  "explain_zh": "提米是個害羞、害怕公開露面的男孩，一想到要在大批觀眾前演講就感到「畏懼」，故選 dreads。stresses（強調）、wanders（遊蕩）、escapes（逃離）皆無法表達「對某事感到恐懼」的語意。dread 常用於描述對未來事件的強烈畏懼。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "dread",
+    "zh": "畏懼",
+    "pos": "v."
+   },
+   {
+    "w": "public appearance",
+    "zh": "公開露面",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "To the newly-crowned winner of the piano competition, music is his life's ____, which he has devoted himself to whole-heartedly.",
+  "options": [
+   "resource",
+   "impact",
+   "passion",
+   "emphasis"
+  ],
+  "answer": 2,
+  "explain_zh": "對這位剛奪冠的鋼琴比賽得主而言，音樂是他全心投入的人生「熱情所在」，故選 passion。resource（資源）、impact（影響）、emphasis（強調）皆無法形容「畢生投入的熱愛」。life's passion 是常見的固定搭配。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "passion",
+    "zh": "熱情",
+    "pos": "n."
+   },
+   {
+    "w": "devote",
+    "zh": "投入、奉獻",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "The drunk driver who shouted at passers-by and ____ them with glass bottles was quickly arrested by the police.",
+  "options": [
+   "shattered",
+   "assaulted",
+   "overturned",
+   "condemned"
+  ],
+  "answer": 1,
+  "explain_zh": "這名酒駕者對著路人叫囂，並用玻璃瓶「攻擊」他們，隨後被警方逮捕，故選 assaulted。shattered（打碎，通常接物品而非人）、overturned（推翻、翻覆）、condemned（譴責）皆無法與 them with glass bottles 搭配出「攻擊他人」的語意。assault 常用於描述人身攻擊行為。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "assault",
+    "zh": "攻擊",
+    "pos": "v."
+   },
+   {
+    "w": "arrest",
+    "zh": "逮捕",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "There were so many people at the bus station that I had to ____ my way through the crowd to board the bus in time.",
+  "options": [
+   "crash",
+   "tumble",
+   "elbow",
+   "struggle"
+  ],
+  "answer": 2,
+  "explain_zh": "公車站人潮眾多，說話者必須「用手肘推擠」穿過人群才能及時上車，故選 elbow，此處作動詞用，表示用肘部擠出一條路。crash（撞擊）、tumble（跌落）、struggle（掙扎，語氣較弱且不精確）皆不如 elbow one's way 貼切。elbow one's way through 是常見的固定搭配。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "elbow",
+    "zh": "用肘擠",
+    "pos": "v."
+   },
+   {
+    "w": "crowd",
+    "zh": "人群",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:context-meaning",
+  "tag_zh": "情境字義",
+  "passage": null,
+  "group_id": null,
+  "stem": "Deadly shootings on US campuses have raised ____ concerns about how to prevent such tragic incidents from happening again.",
+  "options": [
+   "swift",
+   "brutal",
+   "harsh",
+   "grave"
+  ],
+  "answer": 3,
+  "explain_zh": "美國校園多起致命槍擊事件引發了如何防止悲劇再度發生的「嚴重」關切，故選 grave，此處作形容詞指「嚴重的」。swift（迅速的）、brutal（殘暴的，通常形容行為本身而非關切程度）、harsh（嚴苛的）皆不如 grave 貼切形容「深切、嚴重的憂慮」。grave concern 是常見的固定搭配。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "grave",
+    "zh": "嚴重的",
+    "pos": "adj."
+   },
+   {
+    "w": "tragic",
+    "zh": "悲慘的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "From the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, (11), do the same thing—only their choice of meeting place is a giant pile of poop.\nA new study indicates that rhinos have a smelly way to (12). Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important (13) about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what's going on with each other, it is (14) that they will fight.\nThe researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly (15) the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+  "group_id": "PX-GSAT115-G01",
+  "stem": "(11) 應填入：White rhinoceroses, ____, do the same thing—only their choice of meeting place is a giant pile of poop.",
+  "options": [
+   "what is more",
+   "it turns out",
+   "in other words",
+   "all in all"
+  ],
+  "answer": 1,
+  "explain_zh": "「結果」發現白犀牛也會這麼做，只是牠們選擇的聚會地點是一大堆糞便，it turns out 表示「結果證明」，故選 it turns out。what is more（此外）、in other words（換句話說）、all in all（總而言之）皆無法表達「出乎意料的結果」語氣。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "it turns out",
+    "zh": "結果是",
+    "pos": "phr."
+   },
+   {
+    "w": "rhinoceros",
+    "zh": "犀牛",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "From the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, (11), do the same thing—only their choice of meeting place is a giant pile of poop.\nA new study indicates that rhinos have a smelly way to (12). Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important (13) about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what's going on with each other, it is (14) that they will fight.\nThe researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly (15) the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+  "group_id": "PX-GSAT115-G01",
+  "stem": "(12) 應填入：A new study indicates that rhinos have a smelly way to ____.",
+  "options": [
+   "demonstrate",
+   "immigrate",
+   "communicate",
+   "manipulate"
+  ],
+  "answer": 2,
+  "explain_zh": "新研究指出犀牛有一種帶有臭味的方式來「溝通」，故選 communicate。demonstrate（展示）、immigrate（移居）、manipulate（操控）皆無法形容「透過糞便傳遞訊息」的語意。communicate 常用於描述訊息的傳遞交流。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "communicate",
+    "zh": "溝通",
+    "pos": "v."
+   },
+   {
+    "w": "smelly",
+    "zh": "有臭味的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "From the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, (11), do the same thing—only their choice of meeting place is a giant pile of poop.\nA new study indicates that rhinos have a smelly way to (12). Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important (13) about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what's going on with each other, it is (14) that they will fight.\nThe researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly (15) the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+  "group_id": "PX-GSAT115-G01",
+  "stem": "(13) 應填入：Different rhinos leave different chemicals in their poop, which provide important ____ about the age, sex, general health, and reproductive conditions of each specific rhino.",
+  "options": [
+   "doubts",
+   "icons",
+   "matches",
+   "clues"
+  ],
+  "answer": 3,
+  "explain_zh": "不同犀牛糞便中的化學成分提供了關於年齡、性別、健康與生殖狀態的重要「線索」，故選 clues。doubts（疑慮）、icons（圖示）、matches（比賽、火柴）皆無法與 about the age, sex... 搭配出「線索訊息」的語意。clue 常用於描述能幫助推斷事實的線索。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "clue",
+    "zh": "線索",
+    "pos": "n."
+   },
+   {
+    "w": "reproductive",
+    "zh": "生殖的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "From the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, (11), do the same thing—only their choice of meeting place is a giant pile of poop.\nA new study indicates that rhinos have a smelly way to (12). Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important (13) about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what's going on with each other, it is (14) that they will fight.\nThe researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly (15) the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+  "group_id": "PX-GSAT115-G01",
+  "stem": "(14) 應填入：When all members in a group know what's going on with each other, it is ____ that they will fight.",
+  "options": [
+   "hardly surprising",
+   "more acceptable",
+   "truly important",
+   "less likely"
+  ],
+  "answer": 3,
+  "explain_zh": "當群體中的成員都清楚彼此的狀況（年齡、健康、生殖狀態等），彼此之間打鬥的可能性就「比較不可能」發生，故選 less likely。hardly surprising（不令人意外）、more acceptable（更能接受）、truly important（真正重要）皆無法準確表達「降低打鬥機率」的邏輯關係。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "likely",
+    "zh": "可能的",
+    "pos": "adj."
+   },
+   {
+    "w": "harmony",
+    "zh": "和諧",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "From the campfire to the café, people have always gathered together to share the latest news. White rhinoceroses, (11), do the same thing—only their choice of meeting place is a giant pile of poop.\nA new study indicates that rhinos have a smelly way to (12). Scientists studying white rhinos in South Africa have found that these animals leave messages in their poop. In particular, they leave their poop in the same place for all the other members in the group to smell—just like humans leaving messages on social media. Furthermore, different rhinos leave different chemicals in their poop, which provide important (13) about the age, sex, general health, and reproductive conditions of each specific rhino. This is of great significance for the peace and harmony in the group. When all members in a group know what's going on with each other, it is (14) that they will fight.\nThe researchers have even made “fake poop” to see how different rhinos would react. They find that dominant males are particularly (15) the “fake poop” that carries chemicals from females ready to mate. The males sniff it for longer duration and come back to the same spot more frequently, a clear sign that they are gathering information about mating opportunities from the poop.",
+  "group_id": "PX-GSAT115-G01",
+  "stem": "(15) 應填入：Dominant males are particularly ____ the “fake poop” that carries chemicals from females ready to mate.",
+  "options": [
+   "responsive to",
+   "annoyed at",
+   "considerate of",
+   "tolerant with"
+  ],
+  "answer": 0,
+  "explain_zh": "研究顯示，優勢雄性犀牛對於帶有備孕雌性化學氣味的「假糞便」特別「有反應」，故選 responsive to。annoyed at（對……感到惱怒）、considerate of（體貼）、tolerant with（搭配用法有誤，正確應為 tolerant of）皆無法表達「對氣味產生強烈興趣反應」的語意。be responsive to 是常見的固定搭配。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "responsive to",
+    "zh": "對……有反應",
+    "pos": "phr."
+   },
+   {
+    "w": "dominant",
+    "zh": "優勢的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to (16) the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum (17), for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born.\nDim sum is more than just an example of Chinese cuisine. It is (18) an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and (19) were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as (20). Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+  "group_id": "PX-GSAT115-G02",
+  "stem": "(16) 應填入：Teahouses thus sprang up to ____ the weary travelers, offering them a cup of tea to help them regain energy.",
+  "options": [
+   "accommodate",
+   "compensate",
+   "anticipate",
+   "reinforce"
+  ],
+  "answer": 0,
+  "explain_zh": "茶館應運而生，是為了「安頓、招待」疲憊的旅人，提供一杯茶助其恢復精神，故選 accommodate。compensate（補償）、anticipate（預期）、reinforce（強化）皆無法形容「接待照顧旅客」的語意。accommodate 常用於描述提供住宿或款待。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "accommodate",
+    "zh": "招待、安頓",
+    "pos": "v."
+   },
+   {
+    "w": "weary",
+    "zh": "疲憊的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to (16) the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum (17), for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born.\nDim sum is more than just an example of Chinese cuisine. It is (18) an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and (19) were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as (20). Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+  "group_id": "PX-GSAT115-G02",
+  "stem": "(17) 應填入：The culinary art of dim sum ____, for it was considered inappropriate to pair tea with food.",
+  "options": [
+   "would hardly develop",
+   "had yet to develop",
+   "was fast developing",
+   "had almost developed"
+  ],
+  "answer": 1,
+  "explain_zh": "當時人們認為茶配食物並不恰當，因此點心這門飲食藝術「尚未發展」出來，had yet to develop 表示「還沒開始發展」，故選 had yet to develop。would hardly develop（幾乎不會發展）、was fast developing（正快速發展，與後句原因矛盾）、had almost developed（幾乎已發展完成）皆與文意不符。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "culinary art",
+    "zh": "飲食藝術",
+    "pos": "n."
+   },
+   {
+    "w": "pair",
+    "zh": "搭配",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to (16) the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum (17), for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born.\nDim sum is more than just an example of Chinese cuisine. It is (18) an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and (19) were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as (20). Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+  "group_id": "PX-GSAT115-G02",
+  "stem": "(18) 應填入：Dim sum is more than just an example of Chinese cuisine. It is ____ an enjoyable dining experience that can span hours.",
+  "options": [
+   "passed on to",
+   "brought up as",
+   "thought to have",
+   "meant to be"
+  ],
+  "answer": 3,
+  "explain_zh": "點心不僅僅是中式料理的一個例子，它「意在成為」一段可以持續數小時、令人享受的用餐體驗，故選 meant to be。passed on to（傳遞給）、brought up as（被養育成）、thought to have（被認為擁有）皆無法表達「被設計、意圖成為」的語意。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "meant to be",
+    "zh": "意在成為",
+    "pos": "phr."
+   },
+   {
+    "w": "cuisine",
+    "zh": "料理",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to (16) the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum (17), for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born.\nDim sum is more than just an example of Chinese cuisine. It is (18) an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and (19) were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as (20). Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+  "group_id": "PX-GSAT115-G02",
+  "stem": "(19) 應填入：The small portions were designed to merely “touch the heart,” as the name literally means, and ____ were first enjoyed as snacks.",
+  "options": [
+   "if so",
+   "as such",
+   "by then",
+   "in that"
+  ],
+  "answer": 1,
+  "explain_zh": "點心的小份量設計是為了「觸動人心」，正如其名稱的字面意義，「因此」點心最初是被當作零食享用的，as such 表示「因此、以此身分」，故選 as such。if so（如果是這樣）、by then（到那時）、in that（因為）皆無法準確承接前句的邏輯。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "as such",
+    "zh": "因此、以此身分",
+    "pos": "phr."
+   },
+   {
+    "w": "portion",
+    "zh": "份量",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-fit",
+  "tag_zh": "克漏字：文意選填",
+  "passage": "The history of dim sum stretches back to the early days of the Silk Road, an ancient network of trade routes connecting the East and the West. Those who traveled along the routes through China needed places to rest. Teahouses thus sprang up to (16) the weary travelers, offering them a cup of tea to help them regain energy. But the culinary art of dim sum (17), for it was considered inappropriate to pair tea with food. Centuries later, the ability of tea to aid in digestion finally became known. Teahouse owners therefore began providing bite-sized snacks as an accompaniment, and the tradition of these Cantonese delicacies was born.\nDim sum is more than just an example of Chinese cuisine. It is (18) an enjoyable dining experience that can span hours. The small portions were designed to merely “touch the heart,” as the name literally means, and (19) were first enjoyed as snacks. The small size allows the customer to order a great variety of dishes, creating a banquet of different tastes and flavors. It is customary for big groups to enjoy simple dishes together as (20). Ultimately, dim sum—the food—is only a small part of the dim sum experience.",
+  "group_id": "PX-GSAT115-G02",
+  "stem": "(20) 應填入：It is customary for big groups to enjoy simple dishes together as ____.",
+  "options": [
+   "a widely known delicacy",
+   "an intimate romantic dinner",
+   "a joyful social activity",
+   "an amazing local cuisine"
+  ],
+  "answer": 2,
+  "explain_zh": "大團體習慣一起享用簡單的點心，作為一種「歡樂的社交活動」，故選 a joyful social activity。a widely known delicacy（廣為人知的美食）、an intimate romantic dinner（浪漫晚餐）、an amazing local cuisine（在地美食）皆與段末強調「點心經驗遠不只是食物本身」的社交意涵不符。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "joyful",
+    "zh": "歡樂的",
+    "pos": "adj."
+   },
+   {
+    "w": "customary",
+    "zh": "習慣性的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-035",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In March 2022, the Endurance—the lost vessel of the famed polar explorer Ernest Shackleton—was found in Antarctica, 107 years after it sank. The news made headlines around the world, not only for the incredible achievement of the search team, but because the discovery marked the final chapter in a legendary story of extraordinary courage and perseverance.\nOn August 4, 1914, Sir Ernest Shackleton, along with a skilled crew of 27, set sail on the Endurance toward the South Pole, hoping to make the first land crossing over Antarctica. From Plymouth, UK, the team arrived in Buenos Aires, Argentina, and on November 5 reached South Georgia Island, the last settlement of civilization en route to Antarctica. There, the real challenge began. Two days after leaving South Georgia in December, the Endurance encountered floating ice, and was soon completely trapped in pack ice.\nThe worthy vessel held up for nine months, drifting down south slowly and then pushed northward by the ice. Gradually, the pressure from the ice buckled the planks. Freezing water rushed in and exacerbated the situation. On October 27, 1915, Shackleton ordered his crew to abandon the ship, pitching tents on the ice a mile and a half away. Weeks later, they watched the Endurance sink beneath the Weddell Sea.\nThe next five months, the crew camped out on the pack ice as it drifted north, surviving on penguins, seals, and seaweed. Finally, the ice broke up enough for them to escape in lifeboats. For seven days, they sailed more than a hundred miles to the uninhabited Elephant Island. But the crew couldn't survive long there. So, Shackleton made a dangerous attempt to get help: With five crew members, he sailed 800 miles over 16 days across freezing, stormy seas to South Georgia Island. Then the group hiked for 36 hours across the island to reach a whaling station.\nHelp was almost at hand, but ice and bad weather hindered their return. On August 30, 1916, Shackleton finally got back to Elephant Island with a ship big enough to rescue the rest of his men. All the members of the expedition team survived, but the Endurance remained lost under the sea until its discovery in 2022.",
+  "group_id": "PX-GSAT115-G03",
+  "stem": "What is this passage mainly about?",
+  "options": [
+   "A renowned Antarctic explorer.",
+   "The extreme weather in Antarctica.",
+   "A challenging voyage to Antarctica.",
+   "The amazing discovery of a sunken ship."
+  ],
+  "answer": 2,
+  "explain_zh": "全文以夏克頓率隊挑戰橫越南極大陸、船隻受困浮冰、最終全員生還的故事為主軸，敘述一趟「艱辛的南極航行」，故選 C。選項 A 只聚焦探險家本人、B 只提到極端氣候、D 只提到沉船被發現一事，皆非全文核心。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "voyage",
+    "zh": "航行",
+    "pos": "n."
+   },
+   {
+    "w": "perseverance",
+    "zh": "毅力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-036",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In March 2022, the Endurance—the lost vessel of the famed polar explorer Ernest Shackleton—was found in Antarctica, 107 years after it sank. The news made headlines around the world, not only for the incredible achievement of the search team, but because the discovery marked the final chapter in a legendary story of extraordinary courage and perseverance.\nOn August 4, 1914, Sir Ernest Shackleton, along with a skilled crew of 27, set sail on the Endurance toward the South Pole, hoping to make the first land crossing over Antarctica. From Plymouth, UK, the team arrived in Buenos Aires, Argentina, and on November 5 reached South Georgia Island, the last settlement of civilization en route to Antarctica. There, the real challenge began. Two days after leaving South Georgia in December, the Endurance encountered floating ice, and was soon completely trapped in pack ice.\nThe worthy vessel held up for nine months, drifting down south slowly and then pushed northward by the ice. Gradually, the pressure from the ice buckled the planks. Freezing water rushed in and exacerbated the situation. On October 27, 1915, Shackleton ordered his crew to abandon the ship, pitching tents on the ice a mile and a half away. Weeks later, they watched the Endurance sink beneath the Weddell Sea.\nThe next five months, the crew camped out on the pack ice as it drifted north, surviving on penguins, seals, and seaweed. Finally, the ice broke up enough for them to escape in lifeboats. For seven days, they sailed more than a hundred miles to the uninhabited Elephant Island. But the crew couldn't survive long there. So, Shackleton made a dangerous attempt to get help: With five crew members, he sailed 800 miles over 16 days across freezing, stormy seas to South Georgia Island. Then the group hiked for 36 hours across the island to reach a whaling station.\nHelp was almost at hand, but ice and bad weather hindered their return. On August 30, 1916, Shackleton finally got back to Elephant Island with a ship big enough to rescue the rest of his men. All the members of the expedition team survived, but the Endurance remained lost under the sea until its discovery in 2022.",
+  "group_id": "PX-GSAT115-G03",
+  "stem": "Which of the following idioms is closest in meaning to “exacerbated the situation” in the third paragraph?",
+  "options": [
+   "Broke the ice.",
+   "Cost an arm and a leg.",
+   "Missed the boat.",
+   "Added fuel to the fire."
+  ],
+  "answer": 3,
+  "explain_zh": "exacerbated the situation 指冰冷海水湧入船艙讓險境「雪上加霜」，語意最接近諺語 added fuel to the fire（火上加油），故選 D。Broke the ice（打破僵局）、Cost an arm and a leg（代價高昂）、Missed the boat（錯失良機）皆與「使情況惡化」的語意不符。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "exacerbate",
+    "zh": "使惡化",
+    "pos": "v."
+   },
+   {
+    "w": "add fuel to the fire",
+    "zh": "火上加油",
+    "pos": "idiom."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-037",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In March 2022, the Endurance—the lost vessel of the famed polar explorer Ernest Shackleton—was found in Antarctica, 107 years after it sank. The news made headlines around the world, not only for the incredible achievement of the search team, but because the discovery marked the final chapter in a legendary story of extraordinary courage and perseverance.\nOn August 4, 1914, Sir Ernest Shackleton, along with a skilled crew of 27, set sail on the Endurance toward the South Pole, hoping to make the first land crossing over Antarctica. From Plymouth, UK, the team arrived in Buenos Aires, Argentina, and on November 5 reached South Georgia Island, the last settlement of civilization en route to Antarctica. There, the real challenge began. Two days after leaving South Georgia in December, the Endurance encountered floating ice, and was soon completely trapped in pack ice.\nThe worthy vessel held up for nine months, drifting down south slowly and then pushed northward by the ice. Gradually, the pressure from the ice buckled the planks. Freezing water rushed in and exacerbated the situation. On October 27, 1915, Shackleton ordered his crew to abandon the ship, pitching tents on the ice a mile and a half away. Weeks later, they watched the Endurance sink beneath the Weddell Sea.\nThe next five months, the crew camped out on the pack ice as it drifted north, surviving on penguins, seals, and seaweed. Finally, the ice broke up enough for them to escape in lifeboats. For seven days, they sailed more than a hundred miles to the uninhabited Elephant Island. But the crew couldn't survive long there. So, Shackleton made a dangerous attempt to get help: With five crew members, he sailed 800 miles over 16 days across freezing, stormy seas to South Georgia Island. Then the group hiked for 36 hours across the island to reach a whaling station.\nHelp was almost at hand, but ice and bad weather hindered their return. On August 30, 1916, Shackleton finally got back to Elephant Island with a ship big enough to rescue the rest of his men. All the members of the expedition team survived, but the Endurance remained lost under the sea until its discovery in 2022.",
+  "group_id": "PX-GSAT115-G03",
+  "stem": "According to the passage, which of the following is true about Shackleton and his Antarctic expedition?",
+  "options": [
+   "His journey lasted more than two years.",
+   "He was the first man to cross over the Antarctic.",
+   "His team camped out on Elephant Island for five months.",
+   "He sent five crew members on a lifeboat to get help from a whaling station."
+  ],
+  "answer": 0,
+  "explain_zh": "船隊於1914年8月出發，直到1916年8月夏克頓才成功救回全體船員，全程超過兩年，故選 A。選項 B 誇大成首位橫越南極的人（他們其實未能完成橫越）、C 誤把象島紮營時間套用到浮冰紮營、D 誤把五名船員說成搭救生艇求援（實際是搭船再徒步翻山），皆與原文不符。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "expedition",
+    "zh": "探險",
+    "pos": "n."
+   },
+   {
+    "w": "crew",
+    "zh": "船員",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-039",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a captivating focal point as it winds up the building. This prominent structure actually has a long and rich heritage.\nIn the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting that they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at Trajan's Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone and marble. Around this time, spiral staircases began to find much wider use in Roman architecture and across Europe.\nThroughout the Middle Ages, winding staircases became a well-established feature of European castles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases were quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass attack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have their right hand tight against the narrowest part of the staircases, close to the central pole, and as a result were unable to use their sword effectively. The attackers' challenge was further complicated by the uneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in the castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers were much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.\nBeing associated with medieval castles and kings, spiral staircases gradually won popularity in European architecture, with new materials emerging to cope with customers' needs. In Victorian times, cast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the 20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market. Then, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases come in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of their classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public buildings nowadays.",
+  "group_id": "PX-GSAT115-G04",
+  "stem": "Which question can the passage answer?",
+  "options": [
+   "Where was the first spiral staircase constructed?",
+   "Who was the first designer of the spiral staircase?",
+   "What is the world's most famous spiral staircase?",
+   "Why is the spiral staircase popular in modern times?"
+  ],
+  "answer": 3,
+  "explain_zh": "全文從古代起源、中世紀防禦功能，到近代材質演進，最終說明旋轉樓梯至今仍受歡迎的原因，最適合回答「為何旋轉樓梯在現代仍受歡迎」，故選 D。選項 A、B 文中並未明確回答、C 文章並未指出「世界最著名」的旋轉樓梯，皆非本文能回答的問題。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "staircase",
+    "zh": "樓梯",
+    "pos": "n."
+   },
+   {
+    "w": "heritage",
+    "zh": "傳承",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-040",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a captivating focal point as it winds up the building. This prominent structure actually has a long and rich heritage.\nIn the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting that they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at Trajan's Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone and marble. Around this time, spiral staircases began to find much wider use in Roman architecture and across Europe.\nThroughout the Middle Ages, winding staircases became a well-established feature of European castles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases were quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass attack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have their right hand tight against the narrowest part of the staircases, close to the central pole, and as a result were unable to use their sword effectively. The attackers' challenge was further complicated by the uneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in the castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers were much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.\nBeing associated with medieval castles and kings, spiral staircases gradually won popularity in European architecture, with new materials emerging to cope with customers' needs. In Victorian times, cast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the 20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market. Then, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases come in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of their classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public buildings nowadays.",
+  "group_id": "PX-GSAT115-G04",
+  "stem": "What does “them” in the third paragraph refer to?",
+  "options": [
+   "Stairs.",
+   "Confines.",
+   "Attackers.",
+   "Defenders."
+  ],
+  "answer": 0,
+  "explain_zh": "them 承接前句 the stairs（樓梯），指防禦者熟悉樓梯的結構因而能快速「沿著樓梯」撤退，故選 A。選項 B、C、D 皆非此代名詞在文法與語意上正確指涉的對象。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "retreat",
+    "zh": "撤退",
+    "pos": "v."
+   },
+   {
+    "w": "swiftly",
+    "zh": "迅速地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-041",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a captivating focal point as it winds up the building. This prominent structure actually has a long and rich heritage.\nIn the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting that they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at Trajan's Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone and marble. Around this time, spiral staircases began to find much wider use in Roman architecture and across Europe.\nThroughout the Middle Ages, winding staircases became a well-established feature of European castles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases were quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass attack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have their right hand tight against the narrowest part of the staircases, close to the central pole, and as a result were unable to use their sword effectively. The attackers' challenge was further complicated by the uneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in the castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers were much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.\nBeing associated with medieval castles and kings, spiral staircases gradually won popularity in European architecture, with new materials emerging to cope with customers' needs. In Victorian times, cast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the 20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market. Then, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases come in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of their classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public buildings nowadays.",
+  "group_id": "PX-GSAT115-G04",
+  "stem": "According to the passage, which is a correct time sequence of the materials used in making spiral staircases?",
+  "options": [
+   "stone → iron → steel → glass",
+   "stone → wood → iron → steel",
+   "iron → marble → wood → glass",
+   "marble → wood → stone → concrete"
+  ],
+  "answer": 0,
+  "explain_zh": "文中依序提到石材雕刻的圖拉真柱樓梯、維多利亞時代的鑄鐵樓梯、二十世紀的鋼構樓梯，以及近代出現的玻璃材質，正確順序為 stone→iron→steel→glass，故選 A。其餘選項的材質先後順序與原文時間脈絡不符。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "material",
+    "zh": "材質",
+    "pos": "n."
+   },
+   {
+    "w": "emerge",
+    "zh": "出現",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-042",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "In many old castles in Europe, visitors often find a fantastic spiral staircase, which provides a captivating focal point as it winds up the building. This prominent structure actually has a long and rich heritage.\nIn the Old Testament, reference is made to spiral staircases in the Temple of Solomon, suggesting that they were already in use by around 1,000 BC. The oldest spiral staircase still standing today is at Trajan's Column in Rome. The staircase was built in 113 AD, with a total of 185 steps carved in stone and marble. Around this time, spiral staircases began to find much wider use in Roman architecture and across Europe.\nThroughout the Middle Ages, winding staircases became a well-established feature of European castles, mainly for their advantages in helping to defend against attackers. To begin with, these staircases were quite narrow, so attackers would have to ascend one at a time, making it impossible to launch a mass attack. Also, the stairs were designed to turn clockwise upwards. This means that ascenders would have their right hand tight against the narrowest part of the staircases, close to the central pole, and as a result were unable to use their sword effectively. The attackers' challenge was further complicated by the uneven steps of the staircase, often strategically designed by the castle owners. The defenders, living in the castles, were familiar with the stair pattern and could retreat up them very swiftly; while the attackers were much more likely to stumble and fall, particularly in the dimly lit confines of the staircase.\nBeing associated with medieval castles and kings, spiral staircases gradually won popularity in European architecture, with new materials emerging to cope with customers' needs. In Victorian times, cast iron spiral staircases were popular for public buildings and homes for the rich. In the latter half of the 20th century, steel frames became cost-effective, and thus affordable for a much wider staircase market. Then, steel spiral staircases as fire escape stairs appeared in many buildings. Today, spiral staircases come in a wide variety of materials: steel, wood, concrete, and recently even glass. The timeless appeal of their classical design makes spiral staircases a much-desired feature in luxury homes, offices, and public buildings nowadays.",
+  "group_id": "PX-GSAT115-G04",
+  "stem": "Which of the following statements can be inferred about spiral staircases in the Medieval Ages?",
+  "options": [
+   "The staircase was too narrow to allow any quick retreat.",
+   "The clockwise design favored right-handed castle defenders.",
+   "The uneven steps made it easier to ascend than descend the stairs.",
+   "The staircase was dark enough for defenders to hide from attackers."
+  ],
+  "answer": 1,
+  "explain_zh": "文中說樓梯順時針向上設計，讓上樓的攻擊者右手緊貼中央柱、難以揮劍，這正好對「慣用右手」的防禦者較為有利，故選 B。選項 A、C、D 皆與原文描述的中世紀樓梯設計原理不符。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "clockwise",
+    "zh": "順時針的",
+    "pos": "adj."
+   },
+   {
+    "w": "favor",
+    "zh": "有利於",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-043",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Have you ever wondered why north comes at the top of a map? Well, north may seem a natural choice for the top spot today, but that wasn't always the case.\nDocuments from ancient times indicate that many maps in early ages were pointing to the east, where the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though there is no physical evidence to support this, the word dakshina “south” in Indian languages also means “right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their right-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in pre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.\nIn the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps showed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south. As rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew maps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would show the followers looking up toward their holy city.\nThe preference for north arose during the European age of exploration. At the time, sailors relied on the North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when Europe's search for trading routes was at its peak, maps became Eurocentric, with north on top. The expansion of European imperialism in the following centuries further established the “north up” practice as the standard.\nToday, map orientation is taking on a new perspective. In perhaps our most common interaction with maps—the use of GPS systems on our phones and in our cars, directions have ceased to be as important. The layouts are dynamic, oriented toward our travel path.\nSo, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological advancements, it seems we've ended up right where we began in ancient times: with ourselves in the middle, and our destinations at the top.",
+  "group_id": "PX-GSAT115-G05",
+  "stem": "What is the passage mainly about?",
+  "options": [
+   "Why east is referred to as the “Orient.”",
+   "How maps differ from GPS in function.",
+   "How map orientation evolved over time.",
+   "Why maps were important during the age of exploration."
+  ],
+  "answer": 2,
+  "explain_zh": "全文依照古代以東方為上、古埃及以南方為上，到大航海時代改以北方為上，最終談到現代GPS動態導向的演變過程，主軸是「地圖方位觀念的演變」，故選 C。選項 A、B、D 皆只涵蓋部分內容，並非全文核心。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "orientation",
+    "zh": "方位、定向",
+    "pos": "n."
+   },
+   {
+    "w": "evolve",
+    "zh": "演變",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-044",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Have you ever wondered why north comes at the top of a map? Well, north may seem a natural choice for the top spot today, but that wasn't always the case.\nDocuments from ancient times indicate that many maps in early ages were pointing to the east, where the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though there is no physical evidence to support this, the word dakshina “south” in Indian languages also means “right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their right-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in pre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.\nIn the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps showed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south. As rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew maps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would show the followers looking up toward their holy city.\nThe preference for north arose during the European age of exploration. At the time, sailors relied on the North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when Europe's search for trading routes was at its peak, maps became Eurocentric, with north on top. The expansion of European imperialism in the following centuries further established the “north up” practice as the standard.\nToday, map orientation is taking on a new perspective. In perhaps our most common interaction with maps—the use of GPS systems on our phones and in our cars, directions have ceased to be as important. The layouts are dynamic, oriented toward our travel path.\nSo, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological advancements, it seems we've ended up right where we began in ancient times: with ourselves in the middle, and our destinations at the top.",
+  "group_id": "PX-GSAT115-G05",
+  "stem": "What does “this” refer to in the second paragraph?",
+  "options": [
+   "The word dakshina.",
+   "Physical evidence.",
+   "Ancient India.",
+   "East-orientation of maps."
+  ],
+  "answer": 3,
+  "explain_zh": "this 承接前句提到的現象，即古印度地圖「以東方為上」的方位習慣，用來解釋 dakshina 一詞在印度語言中同時有「南方」與「右邊」之意的原因，故選 D。選項 A、B、C 皆非 this 所指涉的核心概念。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "refer to",
+    "zh": "指涉",
+    "pos": "phr."
+   },
+   {
+    "w": "evidence",
+    "zh": "證據",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-045",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Have you ever wondered why north comes at the top of a map? Well, north may seem a natural choice for the top spot today, but that wasn't always the case.\nDocuments from ancient times indicate that many maps in early ages were pointing to the east, where the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though there is no physical evidence to support this, the word dakshina “south” in Indian languages also means “right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their right-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in pre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.\nIn the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps showed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south. As rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew maps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would show the followers looking up toward their holy city.\nThe preference for north arose during the European age of exploration. At the time, sailors relied on the North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when Europe's search for trading routes was at its peak, maps became Eurocentric, with north on top. The expansion of European imperialism in the following centuries further established the “north up” practice as the standard.\nToday, map orientation is taking on a new perspective. In perhaps our most common interaction with maps—the use of GPS systems on our phones and in our cars, directions have ceased to be as important. The layouts are dynamic, oriented toward our travel path.\nSo, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological advancements, it seems we've ended up right where we began in ancient times: with ourselves in the middle, and our destinations at the top.",
+  "group_id": "PX-GSAT115-G05",
+  "stem": "Which of the following is closest in meaning to “a blip” in the last paragraph?",
+  "options": [
+   "A temporary state.",
+   "An urgent need.",
+   "A critical decision.",
+   "An advanced system."
+  ],
+  "answer": 0,
+  "explain_zh": "a blip 字面指「短暫的訊號起伏」，引申為「暫時性的現象、過渡狀態」，文中指「以北為上」的慣例可能只是歷史上短暫的做法，故選 A。B、C、D 皆非此字在此處的正確含意。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "temporary",
+    "zh": "暫時的",
+    "pos": "adj."
+   },
+   {
+    "w": "practice",
+    "zh": "慣例",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT115-046",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "閱讀理解：細節與主旨",
+  "passage": "Have you ever wondered why north comes at the top of a map? Well, north may seem a natural choice for the top spot today, but that wasn't always the case.\nDocuments from ancient times indicate that many maps in early ages were pointing to the east, where the sun rose. In ancient India, for example, maps were most likely oriented to the east. Though there is no physical evidence to support this, the word dakshina “south” in Indian languages also means “right,” suggesting that ancient Indians were oriented toward the east, and therefore south was on their right-hand side. Ample evidences from the Old Testament also suggest that east was at the top of maps in pre-Biblical and Biblical eras, a reason why east is still referred to as the “Orient” today.\nIn the oldest surviving maps, south is at the top, and north points down. Early Egyptian maps showed south on top, most likely because the Nile, vital to Egyptian livelihood, originated in the south. As rivers were believed to flow downward, “up” was therefore south. Map makers in Arabia also drew maps with south on top since the earliest Muslims lived north of Mecca, and a south-oriented map would show the followers looking up toward their holy city.\nThe preference for north arose during the European age of exploration. At the time, sailors relied on the North Star to find their way across the Mediterranean and later the Atlantic. By the 16th century, when Europe's search for trading routes was at its peak, maps became Eurocentric, with north on top. The expansion of European imperialism in the following centuries further established the “north up” practice as the standard.\nToday, map orientation is taking on a new perspective. In perhaps our most common interaction with maps—the use of GPS systems on our phones and in our cars, directions have ceased to be as important. The layouts are dynamic, oriented toward our travel path.\nSo, perhaps the north-on-top practice is less a rule and more a blip. After centuries of technological advancements, it seems we've ended up right where we began in ancient times: with ourselves in the middle, and our destinations at the top.",
+  "group_id": "PX-GSAT115-G05",
+  "stem": "Which of the following statements is true?",
+  "options": [
+   "Sailors took the North Star as their final destination.",
+   "The GPS system has a fixed direction for orientation.",
+   "South was placed at the top of maps in the pre-Biblical era.",
+   "Old Islamic maps put south at the top for religious purposes."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到阿拉伯地圖繪製者因為最早的穆斯林居住在麥加以北，將地圖畫成「南方朝上」，讓信徒仰望聖城的方向，具有宗教意涵，故選 D。選項 A 誤把北極星說成最終目的地、B 與文中「GPS方位是動態」相反、C 誤把「東方朝上」說成南方朝上，皆與原文不符。",
+  "source": "115學測",
+  "vocab": [
+   {
+    "w": "Islamic",
+    "zh": "伊斯蘭的",
+    "pos": "adj."
+   },
+   {
+    "w": "religious",
+    "zh": "宗教的",
+    "pos": "adj."
+   }
+  ]
+ }
+]

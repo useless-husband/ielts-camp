@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% set req='marks' %}
+{% block body %}
+<h1>⭐ 標記的題目</h1>
+<p class="sub">刷題時按「☆ 標記」或鍵盤 M 就會存到這裡。共 {{ items|length }} 題。
+  中文預設藏起來，可以點單字看那個字，或按右邊按鈕全部顯示。</p>
+<div class="row" style="margin-bottom:14px">
+  <button class="btn sm ghost" id="zhall" onclick="toggleAllZh(document,this)">顯示中文</button>
+</div>
+
+{% if items %}
+<div class="card">
+  <div class="row">
+    <b>把標記的題目再練一次</b><span class="spacer"></span>
+    <button class="btn" onclick="startMarked()">開始練習</button>
+  </div>
+</div>
+<div class="card hide" id="q"></div>
+
+{% for it in items %}
+<div class="card">
+  <div class="row" style="margin-bottom:8px">
+    <span class="tag">{{ it.tag_zh }}</span>
+    <span class="tag">{{ it.skill }}</span>
+    <span class="spacer"></span>
+    <span class="muted">{{ it.marked_ts[:10] }}</span>
+    <button class="btn sm ghost" onclick="unmark('{{ it.id }}',this)">取消標記</button>
+  </div>
+  <div class="gw" id="s-{{ it.id }}"></div>
+  <div class="explain" style="margin-top:8px">
+    <b style="color:var(--ok)">正解：{{ it.options[it.answer] }}</b><br>{{ it.explain_zh }}
+  </div>
+</div>
+{% endfor %}
+{% else %}
+<p class="muted">還沒有標記任何題目。刷題時看到想之後再複習的題目，按「☆ 標記」就會出現在這裡。</p>
+{% endif %}
+
+<script src="/static/quiz.js"></script>
+<script>
+const G={{ items|map(attribute='_g')|list|tojson }};
+const IDS={{ items|map(attribute='id')|list|tojson }};
+IDS.forEach((id,i)=>{const e=document.getElementById('s-'+id);
+  if(e){e.innerHTML=glossHTML(G[i],zhOn());wireWordTap(e);}});
+document.getElementById('zhall').textContent = zhOn()?'隱藏中文':'顯示中文';
+async function unmark(id,btn){
+  await fetch('/api/mark',{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({id})});
+  btn.closest('.card').style.opacity=.35;btn.textContent='已取消';btn.disabled=true;}
+function startMarked(){const q=document.getElementById('q');q.classList.remove('hide');
+  Quiz({mount:'q',url:'/api/items?mode=marked&n=30',mode:'marked'});
+  q.scrollIntoView({behavior:'smooth'});}
+</script>
+{% endblock %}

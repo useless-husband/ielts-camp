@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% set req='wrongs' %}
+{% block body %}
+<h1>錯題本</h1>
+<p class="sub">錯過的題目會照 1、3、7、16、35 天的間隔自動排複習，答對才會往後推。
+  中文預設藏起來，可以點單字看那個字。</p>
+<div class="row" style="margin-bottom:14px">
+  <button class="btn sm ghost" id="zhall" onclick="toggleAllZh(document,this)">顯示中文</button>
+</div>
+<div class="card">
+  <div class="row">
+    <b>今天到期：{{ due }} 題</b><span class="spacer"></span>
+    <button class="btn" onclick="startRev()">開始複習</button>
+  </div>
+</div>
+<div class="card hide" id="q"></div>
+<h2>最近錯過的題目（{{ items|length }}）</h2>
+{% for it in items %}
+<div class="card">
+  <div class="row" style="margin-bottom:6px">
+    <span class="tag bad">錯 {{ it.wrong_count }} 次</span>
+    <span class="tag">{{ it.tag_zh }}</span>
+    <span class="spacer"></span><span class="muted">{{ it.ts[:10] }}</span>
+  </div>
+  <div class="gw" id="w-{{ it.id }}">{{ it.stem }}</div>
+  <div class="explain" style="margin-top:8px">
+    <b style="color:var(--ok)">正解：{{ it.options[it.answer] }}</b><br>{{ it.explain_zh }}
+  </div>
+</div>
+{% else %}
+<p class="muted">還沒有錯題，繼續加油！</p>
+{% endfor %}
+<script src="/static/quiz.js"></script>
+<script>
+const WG={{ items|map(attribute='id')|list|tojson }};
+document.getElementById('zhall').textContent = zhOn()?'隱藏中文':'顯示中文';
+(async()=>{for(const id of WG){const e=document.getElementById('w-'+id);if(!e)continue;
+  try{const r=await fetch('/api/gloss?t='+encodeURIComponent(e.textContent.trim()));
+    e.innerHTML=glossHTML(await r.json(),zhOn());wireWordTap(e);}catch(err){}}})();
+function startRev(){document.getElementById('q').classList.remove('hide');
+  Quiz({mount:'q',url:'/api/items?mode=review&n=20',mode:'review'});
+  document.getElementById('q').scrollIntoView({behavior:'smooth'});}
+</script>
+{% endblock %}

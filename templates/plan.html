@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% set req='plan' %}
+{% block body %}
+<h1>90 天課表</h1>
+<p class="sub">從 {{ p.start_date }} 開始，13 週。前面補地基、中間拉句型、後面練考試技巧。每天約 45 分鐘。</p>
+{% for w in weeks %}
+<div class="card" {% if day>=loop.first and w.days[0].day<=day<=w.days[-1].day %}style="border-color:var(--accent)"{% endif %}>
+  <div class="row">
+    <b>第 {{ w.week }} 週　{{ w.theme }}</b>
+    <span class="spacer"></span>
+    <span class="muted">{{ w.start }} ~ {{ w.end }}</span>
+  </div>
+  <p class="muted" style="margin:6px 0">文法：{{ w.grammar }}　·　字彙：{{ w.vocab }}</p>
+  <table>
+    {% for d in w.days %}
+    <tr {% if d.day==day %}style="background:#4d9fff22"{% endif %}>
+      <td style="width:70px">第 {{ d.day }} 天</td>
+      <td style="width:110px" class="muted">{{ d.date }}（{{ d.weekday }}）</td>
+      <td>{% for t in d.tasks %}<span class="tag">{{ t.title }}</span>{% endfor %}</td>
+      <td style="width:60px" class="muted">{{ d.minutes }} 分</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endfor %}
+{% endblock %}

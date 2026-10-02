@@ -1,0 +1,4192 @@
+[
+  {
+    "id": "JC1-0001",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:tense",
+    "tag_zh": "克漏字：時態",
+    "passage": "Last Friday our school (1) its yearly sports day. Everyone came to school (2) six thirty in the morning. My class joined the relay race. At first we were behind, (3) we did not give up. In the last round, Mei-ling ran very fast and helped us (4) first place. It was the most exciting day of the whole school (5).",
+    "group_id": "JC1-G01",
+    "stem": "(1) 應填入：Last Friday our school ____ its yearly sports day.",
+    "options": [
+      "held",
+      "holds",
+      "holding",
+      "hold"
+    ],
+    "answer": 0,
+    "explain_zh": "時間副詞 Last Friday 指過去，動詞要用過去式 held。holds 是現在式第三人稱、hold 是原形、holding 是現在分詞，都不能單獨當過去式的主要動詞。記住「hold a sports day 舉辦運動會」。",
+    "vocab": [
+      {
+        "w": "hold",
+        "zh": "舉辦",
+        "pos": "v."
+      },
+      {
+        "w": "relay race",
+        "zh": "大隊接力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0002",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Last Friday our school (1) its yearly sports day. Everyone came to school (2) six thirty in the morning. My class joined the relay race. At first we were behind, (3) we did not give up. In the last round, Mei-ling ran very fast and helped us (4) first place. It was the most exciting day of the whole school (5).",
+    "group_id": "JC1-G01",
+    "stem": "(2) 應填入：Everyone came to school ____ six thirty in the morning.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "to"
+    ],
+    "answer": 1,
+    "explain_zh": "明確的鐘點時間前面要用介系詞 at，例如 at six thirty。in 用於月份、年份或 in the morning；on 用於星期或日期；to 表方向，都不合適。",
+    "vocab": [
+      {
+        "w": "sports day",
+        "zh": "運動會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0003",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Last Friday our school (1) its yearly sports day. Everyone came to school (2) six thirty in the morning. My class joined the relay race. At first we were behind, (3) we did not give up. In the last round, Mei-ling ran very fast and helped us (4) first place. It was the most exciting day of the whole school (5).",
+    "group_id": "JC1-G01",
+    "stem": "(3) 應填入：At first we were behind, ____ we did not give up.",
+    "options": [
+      "so",
+      "because",
+      "but",
+      "or"
+    ],
+    "answer": 2,
+    "explain_zh": "前面說「一開始落後」，後面說「沒有放棄」，語意是轉折，要用 but。so 表結果、because 表原因、or 表選擇，都接不上這個語意。",
+    "vocab": [
+      {
+        "w": "behind",
+        "zh": "落後",
+        "pos": "adv."
+      },
+      {
+        "w": "give up",
+        "zh": "放棄",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0004",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Last Friday our school (1) its yearly sports day. Everyone came to school (2) six thirty in the morning. My class joined the relay race. At first we were behind, (3) we did not give up. In the last round, Mei-ling ran very fast and helped us (4) first place. It was the most exciting day of the whole school (5).",
+    "group_id": "JC1-G01",
+    "stem": "(4) 應填入：Mei-ling ran fast and helped us ____ first place.",
+    "options": [
+      "bring",
+      "catch",
+      "put",
+      "take"
+    ],
+    "answer": 3,
+    "explain_zh": "「拿下第一名」的固定搭配是 take first place。bring 是帶來、catch 是抓住、put 是放置，都不能和 first place 搭配。也可以背 win first place。",
+    "vocab": [
+      {
+        "w": "first place",
+        "zh": "第一名",
+        "pos": "n. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0005",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Last Friday our school (1) its yearly sports day. Everyone came to school (2) six thirty in the morning. My class joined the relay race. At first we were behind, (3) we did not give up. In the last round, Mei-ling ran very fast and helped us (4) first place. It was the most exciting day of the whole school (5).",
+    "group_id": "JC1-G01",
+    "stem": "(5) 應填入：It was the most exciting day of the whole school ____.",
+    "options": [
+      "year",
+      "minute",
+      "second",
+      "moment"
+    ],
+    "answer": 0,
+    "explain_zh": "the whole school year 是「整個學年」，才能襯托「最精彩的一天」。minute、second、moment 都是很短的時間，和 the most exciting day 對比不起來。",
+    "vocab": [
+      {
+        "w": "exciting",
+        "zh": "刺激的",
+        "pos": "adj."
+      },
+      {
+        "w": "whole",
+        "zh": "整個的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0006",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:tense",
+    "tag_zh": "克漏字：時態",
+    "passage": "Our school has more than twenty clubs. I (1) the guitar club last year because I am interested (2) music. We practice every Wednesday afternoon. Our teacher is patient and never (3) at us. Last month we gave a small concert in the hall. Many students came to (4) to us. (5) I was nervous at first, I enjoyed the show very much.",
+    "group_id": "JC1-G02",
+    "stem": "(1) 應填入：Our school has many clubs, and I ____ the guitar club last year.",
+    "options": [
+      "join",
+      "joined",
+      "joins",
+      "joining"
+    ],
+    "answer": 1,
+    "explain_zh": "last year 是過去的時間，動詞要用過去式 joined。join 是原形、joins 是現在式、joining 是現在分詞，都無法表示去年發生的動作。",
+    "vocab": [
+      {
+        "w": "club",
+        "zh": "社團",
+        "pos": "n."
+      },
+      {
+        "w": "join",
+        "zh": "加入",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0007",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Our school has more than twenty clubs. I (1) the guitar club last year because I am interested (2) music. We practice every Wednesday afternoon. Our teacher is patient and never (3) at us. Last month we gave a small concert in the hall. Many students came to (4) to us. (5) I was nervous at first, I enjoyed the show very much.",
+    "group_id": "JC1-G02",
+    "stem": "(2) 應填入：I joined the guitar club because I am interested ____ music.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "for"
+    ],
+    "answer": 2,
+    "explain_zh": "be interested in 是固定用法，表示「對……有興趣」，後面接名詞或動名詞。interested on／at／for 都不是正確搭配，背的時候直接記整組 be interested in。",
+    "vocab": [
+      {
+        "w": "interested",
+        "zh": "感興趣的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0008",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Our school has more than twenty clubs. I (1) the guitar club last year because I am interested (2) music. We practice every Wednesday afternoon. Our teacher is patient and never (3) at us. Last month we gave a small concert in the hall. Many students came to (4) to us. (5) I was nervous at first, I enjoyed the show very much.",
+    "group_id": "JC1-G02",
+    "stem": "(3) 應填入：Our teacher is patient and never ____ at us in class.",
+    "options": [
+      "talks",
+      "speaks",
+      "says",
+      "shouts"
+    ],
+    "answer": 3,
+    "explain_zh": "shout at somebody 是「對某人大吼」，和 patient（有耐心的）形成對比。talk 和 speak 後面要接 to 而不是 at，say 也不能用 say at somebody。",
+    "vocab": [
+      {
+        "w": "patient",
+        "zh": "有耐心的",
+        "pos": "adj."
+      },
+      {
+        "w": "shout",
+        "zh": "大吼",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0009",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Our school has more than twenty clubs. I (1) the guitar club last year because I am interested (2) music. We practice every Wednesday afternoon. Our teacher is patient and never (3) at us. Last month we gave a small concert in the hall. Many students came to (4) to us. (5) I was nervous at first, I enjoyed the show very much.",
+    "group_id": "JC1-G02",
+    "stem": "(4) 應填入：Many students came to the hall to ____ to our music.",
+    "options": [
+      "listen",
+      "hear",
+      "watch",
+      "look"
+    ],
+    "answer": 0,
+    "explain_zh": "listen to 表示「專心聽」，來聽音樂會用 listen to our music 最合適。hear 是「聽見」，後面不加 to；watch 和 look 都是用眼睛看，語意不對。",
+    "vocab": [
+      {
+        "w": "concert",
+        "zh": "音樂會",
+        "pos": "n."
+      },
+      {
+        "w": "listen",
+        "zh": "聆聽",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0010",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Our school has more than twenty clubs. I (1) the guitar club last year because I am interested (2) music. We practice every Wednesday afternoon. Our teacher is patient and never (3) at us. Last month we gave a small concert in the hall. Many students came to (4) to us. (5) I was nervous at first, I enjoyed the show very much.",
+    "group_id": "JC1-G02",
+    "stem": "(5) 應填入：____ I was nervous at first, I enjoyed the show very much.",
+    "options": [
+      "Because",
+      "Although",
+      "So",
+      "And"
+    ],
+    "answer": 1,
+    "explain_zh": "「一開始很緊張」和「很享受演出」是相反的情況，要用表讓步的 Although。Because 表原因、So 表結果且不能放句首接兩個子句、And 只是並列，語意都不通。",
+    "vocab": [
+      {
+        "w": "nervous",
+        "zh": "緊張的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0011",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Every Saturday night my family goes to the night market near our house. The street is always (1) of people. My favorite food is fried chicken, and my little brother always asks (2) a cup of bubble tea. Last week we (3) a new stall that sells grilled corn. The owner was friendly and gave us a small gift. We spent only three hundred dollars, (4) we ate a lot. We came home happily (5) nine o'clock.",
+    "group_id": "JC1-G03",
+    "stem": "(1) 應填入：The street in the night market is always ____ of people.",
+    "options": [
+      "many",
+      "busy",
+      "full",
+      "wide"
+    ],
+    "answer": 2,
+    "explain_zh": "be full of 是「充滿……」的固定片語，full of people 表示擠滿了人。many 是限定詞不能接 of people 當補語，busy of／wide of 都不是英文用法。",
+    "vocab": [
+      {
+        "w": "night market",
+        "zh": "夜市",
+        "pos": "n."
+      },
+      {
+        "w": "full",
+        "zh": "充滿的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0012",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Every Saturday night my family goes to the night market near our house. The street is always (1) of people. My favorite food is fried chicken, and my little brother always asks (2) a cup of bubble tea. Last week we (3) a new stall that sells grilled corn. The owner was friendly and gave us a small gift. We spent only three hundred dollars, (4) we ate a lot. We came home happily (5) nine o'clock.",
+    "group_id": "JC1-G03",
+    "stem": "(2) 應填入：My little brother always asks ____ a cup of bubble tea.",
+    "options": [
+      "to",
+      "in",
+      "with",
+      "for"
+    ],
+    "answer": 3,
+    "explain_zh": "ask for something 是「要求、討某樣東西」，弟弟吵著要珍奶要用 ask for。ask to 後面要接原形動詞，ask in／ask with 都不是正確搭配。",
+    "vocab": [
+      {
+        "w": "bubble tea",
+        "zh": "珍珠奶茶",
+        "pos": "n."
+      },
+      {
+        "w": "ask for",
+        "zh": "索取",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0013",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:tense",
+    "tag_zh": "克漏字：時態",
+    "passage": "Every Saturday night my family goes to the night market near our house. The street is always (1) of people. My favorite food is fried chicken, and my little brother always asks (2) a cup of bubble tea. Last week we (3) a new stall that sells grilled corn. The owner was friendly and gave us a small gift. We spent only three hundred dollars, (4) we ate a lot. We came home happily (5) nine o'clock.",
+    "group_id": "JC1-G03",
+    "stem": "(3) 應填入：Last week we ____ a new stall that sells grilled corn.",
+    "options": [
+      "found",
+      "find",
+      "finds",
+      "finding"
+    ],
+    "answer": 0,
+    "explain_zh": "Last week 表示過去，動詞用過去式 found。find 是原形、finds 是現在式第三人稱、finding 是現在分詞，都不能表達上週發生的事。",
+    "vocab": [
+      {
+        "w": "stall",
+        "zh": "攤位",
+        "pos": "n."
+      },
+      {
+        "w": "grilled corn",
+        "zh": "烤玉米",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0014",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Every Saturday night my family goes to the night market near our house. The street is always (1) of people. My favorite food is fried chicken, and my little brother always asks (2) a cup of bubble tea. Last week we (3) a new stall that sells grilled corn. The owner was friendly and gave us a small gift. We spent only three hundred dollars, (4) we ate a lot. We came home happily (5) nine o'clock.",
+    "group_id": "JC1-G03",
+    "stem": "(4) 應填入：We spent only three hundred dollars, ____ we ate a lot.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "if"
+    ],
+    "answer": 1,
+    "explain_zh": "「只花三百元」和「吃了很多」是意料之外的轉折，用 but 最自然。so 表結果、because 表原因、if 表條件，都無法連接這兩句的語意。",
+    "vocab": [
+      {
+        "w": "spend",
+        "zh": "花費",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0015",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Every Saturday night my family goes to the night market near our house. The street is always (1) of people. My favorite food is fried chicken, and my little brother always asks (2) a cup of bubble tea. Last week we (3) a new stall that sells grilled corn. The owner was friendly and gave us a small gift. We spent only three hundred dollars, (4) we ate a lot. We came home happily (5) nine o'clock.",
+    "group_id": "JC1-G03",
+    "stem": "(5) 應填入：We came home happily ____ nine o'clock that night.",
+    "options": [
+      "in",
+      "on",
+      "before",
+      "into"
+    ],
+    "answer": 2,
+    "explain_zh": "before nine o'clock 表示「九點以前」到家，語意完整。in 用於較長的時間範圍、on 用於日期星期、into 表示進入某空間，都不能接鐘點時間。",
+    "vocab": [
+      {
+        "w": "owner",
+        "zh": "老闆",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0016",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Last summer my family took a trip (1) Kenting. We stayed there for three days. On the first morning, we (2) swimming in the blue sea. The water was warm and clean. In the afternoon, my father rented bikes (3) all of us. We rode along the coast and took many photos. (4) we were tired, we felt very happy. I hope we can go there (5) next year.",
+    "group_id": "JC1-G04",
+    "stem": "(1) 應填入：Last summer my family took a trip ____ Kenting for three days.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "to"
+    ],
+    "answer": 3,
+    "explain_zh": "take a trip to + 地點，表示「到某地旅行」，所以要用 to。in 和 at 表示所在位置而非方向，on 用於平面或日期，都不能表示前往墾丁。",
+    "vocab": [
+      {
+        "w": "trip",
+        "zh": "旅行",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0017",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Last summer my family took a trip (1) Kenting. We stayed there for three days. On the first morning, we (2) swimming in the blue sea. The water was warm and clean. In the afternoon, my father rented bikes (3) all of us. We rode along the coast and took many photos. (4) we were tired, we felt very happy. I hope we can go there (5) next year.",
+    "group_id": "JC1-G04",
+    "stem": "(2) 應填入：On the first morning, we ____ swimming in the blue sea.",
+    "options": [
+      "went",
+      "made",
+      "did",
+      "took"
+    ],
+    "answer": 0,
+    "explain_zh": "從事戶外活動用 go + V-ing，go swimming 就是「去游泳」，過去式是 went swimming。make／do／take 都不能和 swimming 這樣搭配。",
+    "vocab": [
+      {
+        "w": "swim",
+        "zh": "游泳",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0018",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Last summer my family took a trip (1) Kenting. We stayed there for three days. On the first morning, we (2) swimming in the blue sea. The water was warm and clean. In the afternoon, my father rented bikes (3) all of us. We rode along the coast and took many photos. (4) we were tired, we felt very happy. I hope we can go there (5) next year.",
+    "group_id": "JC1-G04",
+    "stem": "(3) 應填入：In the afternoon, my father rented bikes ____ all of us.",
+    "options": [
+      "of",
+      "for",
+      "by",
+      "with"
+    ],
+    "answer": 1,
+    "explain_zh": "「為我們大家租腳踏車」是 rent something for somebody，用 for 表示對象。of 表所屬、by 表方式、with 表一起或工具，語意都不對。",
+    "vocab": [
+      {
+        "w": "rent",
+        "zh": "租",
+        "pos": "v."
+      },
+      {
+        "w": "coast",
+        "zh": "海岸",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0019",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Last summer my family took a trip (1) Kenting. We stayed there for three days. On the first morning, we (2) swimming in the blue sea. The water was warm and clean. In the afternoon, my father rented bikes (3) all of us. We rode along the coast and took many photos. (4) we were tired, we felt very happy. I hope we can go there (5) next year.",
+    "group_id": "JC1-G04",
+    "stem": "(4) 應填入：____ we were tired, we felt very happy on the trip.",
+    "options": [
+      "Because",
+      "So",
+      "Though",
+      "Unless"
+    ],
+    "answer": 2,
+    "explain_zh": "「很累」卻「很開心」是讓步關係，要用 Though。Because 會變成因為累所以開心，語意矛盾；So 不能這樣放句首；Unless 表「除非」，也不合邏輯。",
+    "vocab": [
+      {
+        "w": "tired",
+        "zh": "疲倦的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0020",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Last summer my family took a trip (1) Kenting. We stayed there for three days. On the first morning, we (2) swimming in the blue sea. The water was warm and clean. In the afternoon, my father rented bikes (3) all of us. We rode along the coast and took many photos. (4) we were tired, we felt very happy. I hope we can go there (5) next year.",
+    "group_id": "JC1-G04",
+    "stem": "(5) 應填入：I hope we can go there ____ next year with my family.",
+    "options": [
+      "ago",
+      "still",
+      "yet",
+      "again"
+    ],
+    "answer": 3,
+    "explain_zh": "去過一次還想再去，用 again（再一次）。ago 只能接在一段時間後面表示「以前」，still 是「仍然」，yet 多用於否定句和疑問句，都不合適。",
+    "vocab": [
+      {
+        "w": "again",
+        "zh": "再一次",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0021",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "I have a small dog (1) Lucky. He is three years old and very active. Every morning I (2) him for a walk in the park. He loves to run after birds. My mother (3) care of him when I am at school. Last week Lucky was sick, (4) we took him to the animal hospital. The doctor said he only ate too much. Now Lucky is (5) again, and our family feels relieved.",
+    "group_id": "JC1-G05",
+    "stem": "(1) 應填入：I have a small dog ____ Lucky, and he is very active.",
+    "options": [
+      "called",
+      "calling",
+      "calls",
+      "call"
+    ],
+    "answer": 0,
+    "explain_zh": "「一隻名叫 Lucky 的狗」要用過去分詞 called 當後位修飾，等於 which is called Lucky。calling 是主動的現在分詞，狗不是在叫別人；calls 和 call 是動詞形式，句子會變成兩個動詞。",
+    "vocab": [
+      {
+        "w": "active",
+        "zh": "活潑好動的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0022",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "I have a small dog (1) Lucky. He is three years old and very active. Every morning I (2) him for a walk in the park. He loves to run after birds. My mother (3) care of him when I am at school. Last week Lucky was sick, (4) we took him to the animal hospital. The doctor said he only ate too much. Now Lucky is (5) again, and our family feels relieved.",
+    "group_id": "JC1-G05",
+    "stem": "(2) 應填入：Every morning I ____ him for a walk in the park.",
+    "options": [
+      "bring",
+      "take",
+      "make",
+      "give"
+    ],
+    "answer": 1,
+    "explain_zh": "take somebody for a walk 是「帶某人（或寵物）去散步」的固定說法。bring 是「帶來」方向相反，make 和 give 都無法和 for a walk 搭配。",
+    "vocab": [
+      {
+        "w": "walk",
+        "zh": "散步",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0023",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "I have a small dog (1) Lucky. He is three years old and very active. Every morning I (2) him for a walk in the park. He loves to run after birds. My mother (3) care of him when I am at school. Last week Lucky was sick, (4) we took him to the animal hospital. The doctor said he only ate too much. Now Lucky is (5) again, and our family feels relieved.",
+    "group_id": "JC1-G05",
+    "stem": "(3) 應填入：My mother ____ care of my dog when I am at school.",
+    "options": [
+      "makes",
+      "gives",
+      "takes",
+      "pays"
+    ],
+    "answer": 2,
+    "explain_zh": "take care of 是「照顧」的固定片語，主詞 My mother 是第三人稱單數，所以用 takes。make care of、give care of、pay care of 都不是英文用法。",
+    "vocab": [
+      {
+        "w": "take care of",
+        "zh": "照顧",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0024",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "I have a small dog (1) Lucky. He is three years old and very active. Every morning I (2) him for a walk in the park. He loves to run after birds. My mother (3) care of him when I am at school. Last week Lucky was sick, (4) we took him to the animal hospital. The doctor said he only ate too much. Now Lucky is (5) again, and our family feels relieved.",
+    "group_id": "JC1-G05",
+    "stem": "(4) 應填入：Last week Lucky was sick, ____ we took him to hospital.",
+    "options": [
+      "but",
+      "or",
+      "though",
+      "so"
+    ],
+    "answer": 3,
+    "explain_zh": "「狗生病」是原因，「送去醫院」是結果，用 so 連接最順。but 表轉折、or 表選擇、though 表讓步，都不符合因果關係。",
+    "vocab": [
+      {
+        "w": "sick",
+        "zh": "生病的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0025",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "I have a small dog (1) Lucky. He is three years old and very active. Every morning I (2) him for a walk in the park. He loves to run after birds. My mother (3) care of him when I am at school. Last week Lucky was sick, (4) we took him to the animal hospital. The doctor said he only ate too much. Now Lucky is (5) again, and our family feels relieved.",
+    "group_id": "JC1-G05",
+    "stem": "(5) 應填入：Now Lucky is ____ again, and our family feels relieved.",
+    "options": [
+      "healthy",
+      "hungry",
+      "angry",
+      "quiet"
+    ],
+    "answer": 0,
+    "explain_zh": "前面說狗生病、看醫生，後面說家人鬆一口氣，所以是「恢復健康」healthy。hungry（餓）、angry（生氣）、quiet（安靜）都無法解釋家人為何放心。",
+    "vocab": [
+      {
+        "w": "healthy",
+        "zh": "健康的",
+        "pos": "adj."
+      },
+      {
+        "w": "relieved",
+        "zh": "鬆一口氣的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0026",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Because of the heavy rain, our school had online classes last week. I turned (1) my computer at eight in the morning. At first, I could not hear the teacher, (2) my microphone did not work. My classmate helped me (3) out the problem in five minutes. Online learning is convenient, but I still (4) studying with my friends in the classroom. I am looking forward (5) going back to school.",
+    "group_id": "JC1-G06",
+    "stem": "(1) 應填入：I turned ____ my computer at eight in the morning.",
+    "options": [
+      "off",
+      "on",
+      "in",
+      "up"
+    ],
+    "answer": 1,
+    "explain_zh": "要開始上課當然是「打開」電腦，turn on 是開機器。turn off 是關掉，和上課矛盾；turn in 是繳交、turn up 是把音量調大，語意都不對。",
+    "vocab": [
+      {
+        "w": "turn on",
+        "zh": "打開（電器）",
+        "pos": "v. phr."
+      },
+      {
+        "w": "online",
+        "zh": "線上的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0027",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Because of the heavy rain, our school had online classes last week. I turned (1) my computer at eight in the morning. At first, I could not hear the teacher, (2) my microphone did not work. My classmate helped me (3) out the problem in five minutes. Online learning is convenient, but I still (4) studying with my friends in the classroom. I am looking forward (5) going back to school.",
+    "group_id": "JC1-G06",
+    "stem": "(2) 應填入：I could not hear the teacher, ____ my microphone did not work.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "although"
+    ],
+    "answer": 2,
+    "explain_zh": "聽不到老師是結果，麥克風壞掉是原因，所以用 because 帶出原因。so 會把因果顛倒，but 是轉折，although 是讓步，都不合理。",
+    "vocab": [
+      {
+        "w": "microphone",
+        "zh": "麥克風",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0028",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Because of the heavy rain, our school had online classes last week. I turned (1) my computer at eight in the morning. At first, I could not hear the teacher, (2) my microphone did not work. My classmate helped me (3) out the problem in five minutes. Online learning is convenient, but I still (4) studying with my friends in the classroom. I am looking forward (5) going back to school.",
+    "group_id": "JC1-G06",
+    "stem": "(3) 應填入：My classmate helped me ____ out the problem in five minutes.",
+    "options": [
+      "look",
+      "take",
+      "put",
+      "find"
+    ],
+    "answer": 3,
+    "explain_zh": "find out 是「查明、找出」問題所在。look out 是「小心」，take out 是「拿出」，put out 是「撲滅」，都不能表示找出問題。",
+    "vocab": [
+      {
+        "w": "find out",
+        "zh": "查明",
+        "pos": "v. phr."
+      },
+      {
+        "w": "problem",
+        "zh": "問題",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0029",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Because of the heavy rain, our school had online classes last week. I turned (1) my computer at eight in the morning. At first, I could not hear the teacher, (2) my microphone did not work. My classmate helped me (3) out the problem in five minutes. Online learning is convenient, but I still (4) studying with my friends in the classroom. I am looking forward (5) going back to school.",
+    "group_id": "JC1-G06",
+    "stem": "(4) 應填入：Online learning is convenient, but I still ____ studying with friends.",
+    "options": [
+      "prefer",
+      "refuse",
+      "forget",
+      "stop"
+    ],
+    "answer": 0,
+    "explain_zh": "but 後面表達「還是比較喜歡」和同學一起讀書，用 prefer。refuse（拒絕）、forget（忘記）、stop（停止）都和「線上課雖然方便」的轉折語意接不上。",
+    "vocab": [
+      {
+        "w": "convenient",
+        "zh": "方便的",
+        "pos": "adj."
+      },
+      {
+        "w": "prefer",
+        "zh": "比較喜歡",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0030",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Because of the heavy rain, our school had online classes last week. I turned (1) my computer at eight in the morning. At first, I could not hear the teacher, (2) my microphone did not work. My classmate helped me (3) out the problem in five minutes. Online learning is convenient, but I still (4) studying with my friends in the classroom. I am looking forward (5) going back to school.",
+    "group_id": "JC1-G06",
+    "stem": "(5) 應填入：I am looking forward ____ going back to school next week.",
+    "options": [
+      "for",
+      "to",
+      "at",
+      "on"
+    ],
+    "answer": 1,
+    "explain_zh": "look forward to 是「期待」，這裡的 to 是介系詞，後面要接名詞或動名詞 going。for、at、on 都不能和 look forward 搭配。",
+    "vocab": [
+      {
+        "w": "look forward to",
+        "zh": "期待",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0031",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Our school fair was held last Saturday. Each class had to (1) up a stall on the playground. My class decided to sell sandwiches and lemon tea. We got up early and started working (2) six in the morning. At noon, we almost (3) out of bread because so many people came. In the end, we made two thousand dollars (4) the school library. Everyone was very tired (5) proud.",
+    "group_id": "JC1-G07",
+    "stem": "(1) 應填入：Each class had to ____ up a stall on the playground.",
+    "options": [
+      "put",
+      "make",
+      "set",
+      "take"
+    ],
+    "answer": 2,
+    "explain_zh": "set up a stall 是「架設攤位」的固定搭配。put up 多指張貼或搭建帳篷，make up 是化妝或編造，take up 是占用或開始從事，語意都不對。",
+    "vocab": [
+      {
+        "w": "set up",
+        "zh": "設置",
+        "pos": "v. phr."
+      },
+      {
+        "w": "fair",
+        "zh": "園遊會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0032",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Our school fair was held last Saturday. Each class had to (1) up a stall on the playground. My class decided to sell sandwiches and lemon tea. We got up early and started working (2) six in the morning. At noon, we almost (3) out of bread because so many people came. In the end, we made two thousand dollars (4) the school library. Everyone was very tired (5) proud.",
+    "group_id": "JC1-G07",
+    "stem": "(2) 應填入：We got up early and started working ____ six in the morning.",
+    "options": [
+      "in",
+      "on",
+      "for",
+      "at"
+    ],
+    "answer": 3,
+    "explain_zh": "鐘點時間前面用 at，at six in the morning 是早上六點。in 用於 in the morning 這種時段，on 用於日期，for 表示持續多久，都不能直接接 six。",
+    "vocab": [
+      {
+        "w": "get up",
+        "zh": "起床",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0033",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Our school fair was held last Saturday. Each class had to (1) up a stall on the playground. My class decided to sell sandwiches and lemon tea. We got up early and started working (2) six in the morning. At noon, we almost (3) out of bread because so many people came. In the end, we made two thousand dollars (4) the school library. Everyone was very tired (5) proud.",
+    "group_id": "JC1-G07",
+    "stem": "(3) 應填入：At noon, we almost ____ out of bread for the sandwiches.",
+    "options": [
+      "ran",
+      "took",
+      "went",
+      "got"
+    ],
+    "answer": 0,
+    "explain_zh": "run out of 是「用完、耗盡」，過去式是 ran out of。take out、go out、get out 都沒有「東西用光」的意思。",
+    "vocab": [
+      {
+        "w": "run out of",
+        "zh": "用完",
+        "pos": "v. phr."
+      },
+      {
+        "w": "noon",
+        "zh": "中午",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0034",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Our school fair was held last Saturday. Each class had to (1) up a stall on the playground. My class decided to sell sandwiches and lemon tea. We got up early and started working (2) six in the morning. At noon, we almost (3) out of bread because so many people came. In the end, we made two thousand dollars (4) the school library. Everyone was very tired (5) proud.",
+    "group_id": "JC1-G07",
+    "stem": "(4) 應填入：In the end, we made two thousand dollars ____ the school library.",
+    "options": [
+      "to",
+      "for",
+      "of",
+      "by"
+    ],
+    "answer": 1,
+    "explain_zh": "「為圖書館賺了兩千元」用 for 表示目的或受益對象。to 表方向、of 表所屬、by 表方式，都不能表示「為了……而賺」。",
+    "vocab": [
+      {
+        "w": "library",
+        "zh": "圖書館",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0035",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Our school fair was held last Saturday. Each class had to (1) up a stall on the playground. My class decided to sell sandwiches and lemon tea. We got up early and started working (2) six in the morning. At noon, we almost (3) out of bread because so many people came. In the end, we made two thousand dollars (4) the school library. Everyone was very tired (5) proud.",
+    "group_id": "JC1-G07",
+    "stem": "(5) 應填入：Everyone was very tired ____ proud of our hard work.",
+    "options": [
+      "so",
+      "or",
+      "but",
+      "because"
+    ],
+    "answer": 2,
+    "explain_zh": "「很累」和「很驕傲」是相反的感受，用 but 表示轉折。so 表結果、or 表選擇、because 表原因，放在兩個形容詞之間都不合適。",
+    "vocab": [
+      {
+        "w": "proud",
+        "zh": "驕傲的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0036",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Kevin is a member (1) our school basketball team. He practices for two hours every day (2) he wants to be a better player. Last month, his team played against another school. In the first half, they were losing by ten points. Their coach told them never to (3) up. In the second half, Kevin made eight points and his team finally (4) the game. The whole school was (5) of them.",
+    "group_id": "JC1-G08",
+    "stem": "(1) 應填入：Kevin is a member ____ our school basketball team.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "of"
+    ],
+    "answer": 3,
+    "explain_zh": "a member of + 團體 是固定說法，表示「……的一員」。in、on、at 都是表示位置的介系詞，不能用來表示所屬關係。",
+    "vocab": [
+      {
+        "w": "member",
+        "zh": "成員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0037",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Kevin is a member (1) our school basketball team. He practices for two hours every day (2) he wants to be a better player. Last month, his team played against another school. In the first half, they were losing by ten points. Their coach told them never to (3) up. In the second half, Kevin made eight points and his team finally (4) the game. The whole school was (5) of them.",
+    "group_id": "JC1-G08",
+    "stem": "(2) 應填入：He practices two hours every day ____ he wants to be better.",
+    "options": [
+      "because",
+      "but",
+      "so",
+      "though"
+    ],
+    "answer": 0,
+    "explain_zh": "「想成為更好的球員」是每天練兩小時的原因，用 because。but 是轉折、so 會讓因果顛倒、though 是讓步，語意都不通。",
+    "vocab": [
+      {
+        "w": "practice",
+        "zh": "練習",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0038",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Kevin is a member (1) our school basketball team. He practices for two hours every day (2) he wants to be a better player. Last month, his team played against another school. In the first half, they were losing by ten points. Their coach told them never to (3) up. In the second half, Kevin made eight points and his team finally (4) the game. The whole school was (5) of them.",
+    "group_id": "JC1-G08",
+    "stem": "(3) 應填入：Their coach told them never to ____ up in the game.",
+    "options": [
+      "take",
+      "give",
+      "put",
+      "turn"
+    ],
+    "answer": 1,
+    "explain_zh": "give up 是「放棄」，教練叫他們別放棄最合理。take up 是開始從事，put up 是張貼，turn up 是出現或調大聲，都不符合比賽落後的情境。",
+    "vocab": [
+      {
+        "w": "give up",
+        "zh": "放棄",
+        "pos": "v. phr."
+      },
+      {
+        "w": "coach",
+        "zh": "教練",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0039",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:tense",
+    "tag_zh": "克漏字：時態",
+    "passage": "Kevin is a member (1) our school basketball team. He practices for two hours every day (2) he wants to be a better player. Last month, his team played against another school. In the first half, they were losing by ten points. Their coach told them never to (3) up. In the second half, Kevin made eight points and his team finally (4) the game. The whole school was (5) of them.",
+    "group_id": "JC1-G08",
+    "stem": "(4) 應填入：Kevin made eight points and his team finally ____ the game.",
+    "options": [
+      "win",
+      "wins",
+      "won",
+      "winning"
+    ],
+    "answer": 2,
+    "explain_zh": "前面 made 是過去式，整段在講上個月的比賽，所以要用過去式 won。win 是原形、wins 是現在式、winning 是現在分詞，時態都不一致。",
+    "vocab": [
+      {
+        "w": "win",
+        "zh": "贏得",
+        "pos": "v."
+      },
+      {
+        "w": "point",
+        "zh": "分數",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0040",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Kevin is a member (1) our school basketball team. He practices for two hours every day (2) he wants to be a better player. Last month, his team played against another school. In the first half, they were losing by ten points. Their coach told them never to (3) up. In the second half, Kevin made eight points and his team finally (4) the game. The whole school was (5) of them.",
+    "group_id": "JC1-G08",
+    "stem": "(5) 應填入：The whole school was ____ of them after the exciting game.",
+    "options": [
+      "glad",
+      "kind",
+      "afraid",
+      "proud"
+    ],
+    "answer": 3,
+    "explain_zh": "be proud of 是「以……為榮」，贏球後全校與有榮焉。glad 通常接 to 或 that 子句，kind of 是「有點」的口語，afraid of 是「害怕」，語意都不對。",
+    "vocab": [
+      {
+        "w": "be proud of",
+        "zh": "以……為榮",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0041",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "My mother gets (1) at five thirty every morning to make lunch boxes for my sister and me. She always puts rice, vegetables, and meat (2) the lunch box. Sometimes she leaves a short note inside, (3) makes me smile at school. My sister and I want to help her, so we wash the dishes (4) dinner. My mother says we are the best (5) in the world.",
+    "group_id": "JC1-G09",
+    "stem": "(1) 應填入：My mother gets ____ at five thirty every morning to cook.",
+    "options": [
+      "up",
+      "on",
+      "off",
+      "in"
+    ],
+    "answer": 0,
+    "explain_zh": "get up 是「起床」，配合 at five thirty 最合理。get on 是上車，get off 是下車，get in 是進入，都不是起床的意思。",
+    "vocab": [
+      {
+        "w": "get up",
+        "zh": "起床",
+        "pos": "v. phr."
+      },
+      {
+        "w": "lunch box",
+        "zh": "便當",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0042",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "My mother gets (1) at five thirty every morning to make lunch boxes for my sister and me. She always puts rice, vegetables, and meat (2) the lunch box. Sometimes she leaves a short note inside, (3) makes me smile at school. My sister and I want to help her, so we wash the dishes (4) dinner. My mother says we are the best (5) in the world.",
+    "group_id": "JC1-G09",
+    "stem": "(2) 應填入：She always puts rice, vegetables, and meat ____ the lunch box.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "of"
+    ],
+    "answer": 1,
+    "explain_zh": "食物是放「進」便當盒裡面，要用 in。on 是放在盒子上面，at 表示地點的一點，of 表所屬，都不符合裝便當的情境。",
+    "vocab": [
+      {
+        "w": "vegetable",
+        "zh": "蔬菜",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0043",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "My mother gets (1) at five thirty every morning to make lunch boxes for my sister and me. She always puts rice, vegetables, and meat (2) the lunch box. Sometimes she leaves a short note inside, (3) makes me smile at school. My sister and I want to help her, so we wash the dishes (4) dinner. My mother says we are the best (5) in the world.",
+    "group_id": "JC1-G09",
+    "stem": "(3) 應填入：She leaves a short note inside, ____ makes me smile at school.",
+    "options": [
+      "what",
+      "who",
+      "which",
+      "where"
+    ],
+    "answer": 2,
+    "explain_zh": "空格代替前面「留紙條」這件事，並當後面子句的主詞，要用關係代名詞 which。what 不能引導這種補述用法，who 指人，where 指地點。",
+    "vocab": [
+      {
+        "w": "note",
+        "zh": "紙條",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0044",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "My mother gets (1) at five thirty every morning to make lunch boxes for my sister and me. She always puts rice, vegetables, and meat (2) the lunch box. Sometimes she leaves a short note inside, (3) makes me smile at school. My sister and I want to help her, so we wash the dishes (4) dinner. My mother says we are the best (5) in the world.",
+    "group_id": "JC1-G09",
+    "stem": "(4) 應填入：We want to help her, so we wash the dishes ____ dinner.",
+    "options": [
+      "during",
+      "until",
+      "since",
+      "after"
+    ],
+    "answer": 3,
+    "explain_zh": "吃完晚餐才洗碗，所以用 after dinner。during 是「在……期間」，until 是「直到」，since 是「自從」，都不符合幫忙洗碗的時間點。",
+    "vocab": [
+      {
+        "w": "wash the dishes",
+        "zh": "洗碗",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0045",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "My mother gets (1) at five thirty every morning to make lunch boxes for my sister and me. She always puts rice, vegetables, and meat (2) the lunch box. Sometimes she leaves a short note inside, (3) makes me smile at school. My sister and I want to help her, so we wash the dishes (4) dinner. My mother says we are the best (5) in the world.",
+    "group_id": "JC1-G09",
+    "stem": "(5) 應填入：My mother says we are the best ____ in the world.",
+    "options": [
+      "children",
+      "parents",
+      "teachers",
+      "neighbors"
+    ],
+    "answer": 0,
+    "explain_zh": "說話的是媽媽，對象是「我和姊姊」，所以是世界上最棒的孩子 children。parents（父母）、teachers（老師）、neighbors（鄰居）都不是媽媽對子女的稱呼。",
+    "vocab": [
+      {
+        "w": "children",
+        "zh": "孩子（複數）",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0046",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Our school library is on the third floor. It opens (1) eight in the morning and closes at five. Students can borrow three books and keep them (2) two weeks. Last week I (3) up a new word in the big dictionary there. I also read a story about a boy who lived in the mountains. The story was so moving (4) I read it twice. Reading is now my favorite (5) after school.",
+    "group_id": "JC1-G10",
+    "stem": "(1) 應填入：The library opens ____ eight in the morning and closes at five.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answer": 1,
+    "explain_zh": "後半句的 closes at five 已經提示鐘點要用 at。in 用於較長時段，on 用於日期星期，by 是「在……之前」，語意都不對。",
+    "vocab": [
+      {
+        "w": "borrow",
+        "zh": "借入",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0047",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Our school library is on the third floor. It opens (1) eight in the morning and closes at five. Students can borrow three books and keep them (2) two weeks. Last week I (3) up a new word in the big dictionary there. I also read a story about a boy who lived in the mountains. The story was so moving (4) I read it twice. Reading is now my favorite (5) after school.",
+    "group_id": "JC1-G10",
+    "stem": "(2) 應填入：Students can borrow three books and keep them ____ two weeks.",
+    "options": [
+      "in",
+      "since",
+      "for",
+      "during"
+    ],
+    "answer": 2,
+    "explain_zh": "for + 一段時間 表示持續多久，for two weeks 就是借兩星期。in 表示多久之後，since 要接時間起點，during 要接特定事件期間。",
+    "vocab": [
+      {
+        "w": "keep",
+        "zh": "保有",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0048",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Our school library is on the third floor. It opens (1) eight in the morning and closes at five. Students can borrow three books and keep them (2) two weeks. Last week I (3) up a new word in the big dictionary there. I also read a story about a boy who lived in the mountains. The story was so moving (4) I read it twice. Reading is now my favorite (5) after school.",
+    "group_id": "JC1-G10",
+    "stem": "(3) 應填入：Last week I ____ up a new word in the big dictionary.",
+    "options": [
+      "took",
+      "made",
+      "put",
+      "looked"
+    ],
+    "answer": 3,
+    "explain_zh": "look up 是「查（字典、資料）」，過去式 looked up。take up、make up、put up 都沒有查字典的意思。",
+    "vocab": [
+      {
+        "w": "look up",
+        "zh": "查閱",
+        "pos": "v. phr."
+      },
+      {
+        "w": "dictionary",
+        "zh": "字典",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0049",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Our school library is on the third floor. It opens (1) eight in the morning and closes at five. Students can borrow three books and keep them (2) two weeks. Last week I (3) up a new word in the big dictionary there. I also read a story about a boy who lived in the mountains. The story was so moving (4) I read it twice. Reading is now my favorite (5) after school.",
+    "group_id": "JC1-G10",
+    "stem": "(4) 應填入：The story was so moving ____ I read it twice.",
+    "options": [
+      "that",
+      "as",
+      "if",
+      "than"
+    ],
+    "answer": 0,
+    "explain_zh": "so + 形容詞 + that + 子句 表示「如此……以至於……」，是國中必考句型。as、if、than 都不能和前面的 so 組成這個句型。",
+    "vocab": [
+      {
+        "w": "moving",
+        "zh": "感人的",
+        "pos": "adj."
+      },
+      {
+        "w": "twice",
+        "zh": "兩次",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0050",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Our school library is on the third floor. It opens (1) eight in the morning and closes at five. Students can borrow three books and keep them (2) two weeks. Last week I (3) up a new word in the big dictionary there. I also read a story about a boy who lived in the mountains. The story was so moving (4) I read it twice. Reading is now my favorite (5) after school.",
+    "group_id": "JC1-G10",
+    "stem": "(5) 應填入：Reading is now my favorite ____ after school every day.",
+    "options": [
+      "homework",
+      "hobby",
+      "subject",
+      "reason"
+    ],
+    "answer": 1,
+    "explain_zh": "閱讀是放學後喜歡做的事，所以是 hobby（嗜好）。homework 是功課、subject 是學校科目、reason 是理由，都不能形容課後的休閒活動。",
+    "vocab": [
+      {
+        "w": "hobby",
+        "zh": "嗜好",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0051",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "I ride my bike to school every day. It takes me about fifteen minutes. On rainy days, I do not ride; I take the bus (1). Last Monday, my bike broke (2) on the way to school, so I had to push it. A kind man stopped and helped me (3) it. I was ten minutes late, (4) my teacher did not get angry. She said she was glad that I was (5).",
+    "group_id": "JC1-G11",
+    "stem": "(1) 應填入：On rainy days, I do not ride; I take the bus ____.",
+    "options": [
+      "already",
+      "seldom",
+      "instead",
+      "hardly"
+    ],
+    "answer": 2,
+    "explain_zh": "instead 放句尾表示「改成……」，剛好對應前面「不騎車」。already 是已經、seldom 和 hardly 是「很少、幾乎不」，且位置也不能放句尾。",
+    "vocab": [
+      {
+        "w": "instead",
+        "zh": "作為替代",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0052",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "I ride my bike to school every day. It takes me about fifteen minutes. On rainy days, I do not ride; I take the bus (1). Last Monday, my bike broke (2) on the way to school, so I had to push it. A kind man stopped and helped me (3) it. I was ten minutes late, (4) my teacher did not get angry. She said she was glad that I was (5).",
+    "group_id": "JC1-G11",
+    "stem": "(2) 應填入：Last Monday my bike broke ____ on the way to school.",
+    "options": [
+      "up",
+      "off",
+      "into",
+      "down"
+    ],
+    "answer": 3,
+    "explain_zh": "break down 指車子或機器「拋錨、故障」，所以後面才要用推的。break up 是分手或解散，break off 是中斷，break into 是闖入，語意都不對。",
+    "vocab": [
+      {
+        "w": "break down",
+        "zh": "故障",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0053",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "I ride my bike to school every day. It takes me about fifteen minutes. On rainy days, I do not ride; I take the bus (1). Last Monday, my bike broke (2) on the way to school, so I had to push it. A kind man stopped and helped me (3) it. I was ten minutes late, (4) my teacher did not get angry. She said she was glad that I was (5).",
+    "group_id": "JC1-G11",
+    "stem": "(3) 應填入：A kind man stopped and helped me ____ my broken bike.",
+    "options": [
+      "fix",
+      "break",
+      "lose",
+      "sell"
+    ],
+    "answer": 0,
+    "explain_zh": "好心人停下來幫忙，當然是「修理」腳踏車，用 fix。break（弄壞）、lose（弄丟）、sell（賣掉）都和 kind man 的善意不符。",
+    "vocab": [
+      {
+        "w": "fix",
+        "zh": "修理",
+        "pos": "v."
+      },
+      {
+        "w": "kind",
+        "zh": "親切的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0054",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "I ride my bike to school every day. It takes me about fifteen minutes. On rainy days, I do not ride; I take the bus (1). Last Monday, my bike broke (2) on the way to school, so I had to push it. A kind man stopped and helped me (3) it. I was ten minutes late, (4) my teacher did not get angry. She said she was glad that I was (5).",
+    "group_id": "JC1-G11",
+    "stem": "(4) 應填入：I was ten minutes late, ____ my teacher did not get angry.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "if"
+    ],
+    "answer": 1,
+    "explain_zh": "遲到照理會被罵，老師卻沒生氣，屬於轉折語意，要用 but。so 會變成因為遲到所以不生氣，because 和 if 的邏輯也都不通。",
+    "vocab": [
+      {
+        "w": "angry",
+        "zh": "生氣的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0055",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "I ride my bike to school every day. It takes me about fifteen minutes. On rainy days, I do not ride; I take the bus (1). Last Monday, my bike broke (2) on the way to school, so I had to push it. A kind man stopped and helped me (3) it. I was ten minutes late, (4) my teacher did not get angry. She said she was glad that I was (5).",
+    "group_id": "JC1-G11",
+    "stem": "(5) 應填入：She said she was glad that I was ____ that morning.",
+    "options": [
+      "late",
+      "busy",
+      "safe",
+      "tired"
+    ],
+    "answer": 2,
+    "explain_zh": "腳踏車在路上故障，老師最在意的是學生「平安」，所以用 safe。late 前面已經提過而且不會讓老師高興，busy 和 tired 也不是老師慶幸的理由。",
+    "vocab": [
+      {
+        "w": "safe",
+        "zh": "安全的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0056",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Our environment club cleans the beach once (1) month. Last Sunday, more than forty students joined us. We picked (2) plastic bottles, cans, and straws for two hours. We collected over ten bags of trash. Our teacher told us that plastic is bad (3) the sea animals. (4) we cannot clean the whole beach, every small action helps. I will keep (5) this beach cleaning activity next year.",
+    "group_id": "JC1-G12",
+    "stem": "(1) 應填入：Our environment club cleans the beach once ____ month.",
+    "options": [
+      "the",
+      "in",
+      "for",
+      "a"
+    ],
+    "answer": 3,
+    "explain_zh": "once a month 表示「每個月一次」，這裡的 a 等於 per。the 是特指、in 和 for 是介系詞，都不能表示頻率。",
+    "vocab": [
+      {
+        "w": "environment",
+        "zh": "環境",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0057",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Our environment club cleans the beach once (1) month. Last Sunday, more than forty students joined us. We picked (2) plastic bottles, cans, and straws for two hours. We collected over ten bags of trash. Our teacher told us that plastic is bad (3) the sea animals. (4) we cannot clean the whole beach, every small action helps. I will keep (5) this beach cleaning activity next year.",
+    "group_id": "JC1-G12",
+    "stem": "(2) 應填入：We picked ____ plastic bottles, cans, and straws for two hours.",
+    "options": [
+      "up",
+      "on",
+      "in",
+      "over"
+    ],
+    "answer": 0,
+    "explain_zh": "pick up 是「撿起」，撿垃圾就用這個片語。pick on 是找碴欺負，pick in 不是常用片語，pick over 是挑揀，都不合語意。",
+    "vocab": [
+      {
+        "w": "pick up",
+        "zh": "撿起",
+        "pos": "v. phr."
+      },
+      {
+        "w": "straw",
+        "zh": "吸管",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0058",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Our environment club cleans the beach once (1) month. Last Sunday, more than forty students joined us. We picked (2) plastic bottles, cans, and straws for two hours. We collected over ten bags of trash. Our teacher told us that plastic is bad (3) the sea animals. (4) we cannot clean the whole beach, every small action helps. I will keep (5) this beach cleaning activity next year.",
+    "group_id": "JC1-G12",
+    "stem": "(3) 應填入：Our teacher said that plastic is bad ____ the sea animals.",
+    "options": [
+      "to",
+      "for",
+      "at",
+      "with"
+    ],
+    "answer": 1,
+    "explain_zh": "be bad for 表示「對……有害」，是固定搭配。be bad to somebody 意思是對人不好、態度惡劣，bad at 是「不擅長」，bad with 也不是這個意思。",
+    "vocab": [
+      {
+        "w": "plastic",
+        "zh": "塑膠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0059",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Our environment club cleans the beach once (1) month. Last Sunday, more than forty students joined us. We picked (2) plastic bottles, cans, and straws for two hours. We collected over ten bags of trash. Our teacher told us that plastic is bad (3) the sea animals. (4) we cannot clean the whole beach, every small action helps. I will keep (5) this beach cleaning activity next year.",
+    "group_id": "JC1-G12",
+    "stem": "(4) 應填入：____ we cannot clean the whole beach, every small action helps.",
+    "options": [
+      "Because",
+      "So",
+      "Although",
+      "Since"
+    ],
+    "answer": 2,
+    "explain_zh": "「無法清完整片海灘」和「小小行動仍有幫助」是讓步關係，用 Although。Because 和 Since 都表原因，So 表結果，語意都接不上。",
+    "vocab": [
+      {
+        "w": "action",
+        "zh": "行動",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0060",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Our environment club cleans the beach once (1) month. Last Sunday, more than forty students joined us. We picked (2) plastic bottles, cans, and straws for two hours. We collected over ten bags of trash. Our teacher told us that plastic is bad (3) the sea animals. (4) we cannot clean the whole beach, every small action helps. I will keep (5) this beach cleaning activity next year.",
+    "group_id": "JC1-G12",
+    "stem": "(5) 應填入：I will keep ____ this beach cleaning activity next year.",
+    "options": [
+      "join",
+      "to join",
+      "joined",
+      "joining"
+    ],
+    "answer": 3,
+    "explain_zh": "keep + V-ing 表示「持續做某事」，所以用 joining。keep 後面不能直接接原形動詞、不定詞或過去式，這是國中常考的動名詞搭配。",
+    "vocab": [
+      {
+        "w": "activity",
+        "zh": "活動",
+        "pos": "n."
+      },
+      {
+        "w": "collect",
+        "zh": "收集",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0061",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Last month I took part (1) an English speech contest. I was really nervous, (2) I practiced every night for three weeks. My English teacher listened to me and (3) me some useful advice. On the big day, my hands were shaking, but my voice was clear. I did not win first place, (4) I got the third prize. I learned that practice really (5) a difference in the end.",
+    "group_id": "JC1-G13",
+    "stem": "(1) 應填入：Last month I took part ____ an English speech contest.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "of"
+    ],
+    "answer": 0,
+    "explain_zh": "take part in 是「參加」的固定片語，後面接活動名稱。take part on／at／of 都不是正確搭配，可以和 join 一起背。",
+    "vocab": [
+      {
+        "w": "take part in",
+        "zh": "參加",
+        "pos": "v. phr."
+      },
+      {
+        "w": "contest",
+        "zh": "比賽",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0062",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Last month I took part (1) an English speech contest. I was really nervous, (2) I practiced every night for three weeks. My English teacher listened to me and (3) me some useful advice. On the big day, my hands were shaking, but my voice was clear. I did not win first place, (4) I got the third prize. I learned that practice really (5) a difference in the end.",
+    "group_id": "JC1-G13",
+    "stem": "(2) 應填入：I was really nervous, ____ I practiced every night for three weeks.",
+    "options": [
+      "but",
+      "so",
+      "because",
+      "though"
+    ],
+    "answer": 1,
+    "explain_zh": "「很緊張」是原因，「每晚練習」是因此採取的行動，用 so 表結果。but 是轉折，because 會把因果顛倒，though 是讓步，都不合理。",
+    "vocab": [
+      {
+        "w": "practice",
+        "zh": "練習",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0063",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Last month I took part (1) an English speech contest. I was really nervous, (2) I practiced every night for three weeks. My English teacher listened to me and (3) me some useful advice. On the big day, my hands were shaking, but my voice was clear. I did not win first place, (4) I got the third prize. I learned that practice really (5) a difference in the end.",
+    "group_id": "JC1-G13",
+    "stem": "(3) 應填入：My English teacher listened to me and ____ me some useful advice.",
+    "options": [
+      "made",
+      "took",
+      "gave",
+      "said"
+    ],
+    "answer": 2,
+    "explain_zh": "give somebody advice 是「給某人建議」的固定搭配，過去式 gave。make advice、take advice me、say me 都不合文法或不是正確搭配。",
+    "vocab": [
+      {
+        "w": "advice",
+        "zh": "建議",
+        "pos": "n."
+      },
+      {
+        "w": "useful",
+        "zh": "有用的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0064",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Last month I took part (1) an English speech contest. I was really nervous, (2) I practiced every night for three weeks. My English teacher listened to me and (3) me some useful advice. On the big day, my hands were shaking, but my voice was clear. I did not win first place, (4) I got the third prize. I learned that practice really (5) a difference in the end.",
+    "group_id": "JC1-G13",
+    "stem": "(4) 應填入：I did not win first place, ____ I got the third prize.",
+    "options": [
+      "so",
+      "or",
+      "because",
+      "but"
+    ],
+    "answer": 3,
+    "explain_zh": "沒得第一名卻拿到第三名，語意是轉折，用 but。so 表結果、or 表選擇、because 表原因，都不能連接這種對比。",
+    "vocab": [
+      {
+        "w": "prize",
+        "zh": "獎項",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0065",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Last month I took part (1) an English speech contest. I was really nervous, (2) I practiced every night for three weeks. My English teacher listened to me and (3) me some useful advice. On the big day, my hands were shaking, but my voice was clear. I did not win first place, (4) I got the third prize. I learned that practice really (5) a difference in the end.",
+    "group_id": "JC1-G13",
+    "stem": "(5) 應填入：I learned that practice really ____ a difference in the end.",
+    "options": [
+      "makes",
+      "does",
+      "takes",
+      "gets"
+    ],
+    "answer": 0,
+    "explain_zh": "make a difference 是「造成改變、帶來影響」的固定片語。do／take／get 都不能和 a difference 搭配，要整組記起來。",
+    "vocab": [
+      {
+        "w": "make a difference",
+        "zh": "帶來改變",
+        "pos": "v. phr."
+      },
+      {
+        "w": "shake",
+        "zh": "發抖",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0066",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "During the winter vacation, my family went to Taipei (1) high speed rail. We arrived (2) Taipei Main Station before ten o'clock. First, we visited a famous museum and (3) many old paintings. Then we took the MRT to a shopping area. My sister could not decide what to buy, so we stayed there (4) two hours. We were tired, but we had a (5) time in Taipei.",
+    "group_id": "JC1-G14",
+    "stem": "(1) 應填入：During the winter vacation, my family went to Taipei ____ high speed rail.",
+    "options": [
+      "in",
+      "by",
+      "with",
+      "to"
+    ],
+    "answer": 1,
+    "explain_zh": "表示交通方式用 by + 交通工具，且中間不加冠詞，例如 by high speed rail、by bus。in 要說 in a car，with 表工具或同伴，to 表方向，都不對。",
+    "vocab": [
+      {
+        "w": "high speed rail",
+        "zh": "高鐵",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0067",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "During the winter vacation, my family went to Taipei (1) high speed rail. We arrived (2) Taipei Main Station before ten o'clock. First, we visited a famous museum and (3) many old paintings. Then we took the MRT to a shopping area. My sister could not decide what to buy, so we stayed there (4) two hours. We were tired, but we had a (5) time in Taipei.",
+    "group_id": "JC1-G14",
+    "stem": "(2) 應填入：We arrived ____ Taipei Main Station before ten o'clock.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "to"
+    ],
+    "answer": 2,
+    "explain_zh": "arrive at 用在車站、機場這類較小的地點，arrive in 才用在城市或國家。on 和 to 都不能和 arrive 搭配。",
+    "vocab": [
+      {
+        "w": "arrive",
+        "zh": "抵達",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0068",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "During the winter vacation, my family went to Taipei (1) high speed rail. We arrived (2) Taipei Main Station before ten o'clock. First, we visited a famous museum and (3) many old paintings. Then we took the MRT to a shopping area. My sister could not decide what to buy, so we stayed there (4) two hours. We were tired, but we had a (5) time in Taipei.",
+    "group_id": "JC1-G14",
+    "stem": "(3) 應填入：First, we visited a famous museum and ____ many old paintings.",
+    "options": [
+      "heard",
+      "listened",
+      "watched",
+      "saw"
+    ],
+    "answer": 3,
+    "explain_zh": "在博物館看畫作用 saw（看見）。heard 是聽到，listened 後面要接 to 且是用聽的，watched 用於看會動的東西如電視、比賽，畫作不會動。",
+    "vocab": [
+      {
+        "w": "museum",
+        "zh": "博物館",
+        "pos": "n."
+      },
+      {
+        "w": "painting",
+        "zh": "畫作",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0069",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "During the winter vacation, my family went to Taipei (1) high speed rail. We arrived (2) Taipei Main Station before ten o'clock. First, we visited a famous museum and (3) many old paintings. Then we took the MRT to a shopping area. My sister could not decide what to buy, so we stayed there (4) two hours. We were tired, but we had a (5) time in Taipei.",
+    "group_id": "JC1-G14",
+    "stem": "(4) 應填入：My sister could not decide, so we stayed there ____ two hours.",
+    "options": [
+      "for",
+      "in",
+      "since",
+      "during"
+    ],
+    "answer": 0,
+    "explain_zh": "for + 一段時間 表示停留多久。in two hours 是「兩小時後」，since 要接時間起點，during 要接特定事件，都不能表示停留兩小時。",
+    "vocab": [
+      {
+        "w": "decide",
+        "zh": "決定",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0070",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "During the winter vacation, my family went to Taipei (1) high speed rail. We arrived (2) Taipei Main Station before ten o'clock. First, we visited a famous museum and (3) many old paintings. Then we took the MRT to a shopping area. My sister could not decide what to buy, so we stayed there (4) two hours. We were tired, but we had a (5) time in Taipei.",
+    "group_id": "JC1-G14",
+    "stem": "(5) 應填入：We were tired, but we had a ____ time in Taipei.",
+    "options": [
+      "terrible",
+      "wonderful",
+      "boring",
+      "silly"
+    ],
+    "answer": 1,
+    "explain_zh": "but 表示雖然累但玩得開心，所以用 wonderful。terrible（糟糕）、boring（無聊）、silly（愚蠢）都和 but 的轉折語意相反。",
+    "vocab": [
+      {
+        "w": "wonderful",
+        "zh": "很棒的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0071",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "My aunt has two cats. Their names are Mimi and Coco. When my aunt goes abroad, I look (1) them for a week. I feed them twice a day and clean their box. Mimi is shy and often hides (2) the sofa in the living room. Coco is different; she is not afraid (3) strangers at all. Taking care of pets is not easy, (4) it is really fun. I want to (5) a cat of my own someday.",
+    "group_id": "JC1-G15",
+    "stem": "(1) 應填入：When my aunt goes abroad, I look ____ her two cats.",
+    "options": [
+      "at",
+      "for",
+      "after",
+      "up"
+    ],
+    "answer": 2,
+    "explain_zh": "look after 是「照顧」，等於 take care of。look at 是看著，look for 是尋找，look up 是查閱，雖然都是 look 開頭，意思卻完全不同。",
+    "vocab": [
+      {
+        "w": "look after",
+        "zh": "照顧",
+        "pos": "v. phr."
+      },
+      {
+        "w": "abroad",
+        "zh": "到國外",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0072",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "My aunt has two cats. Their names are Mimi and Coco. When my aunt goes abroad, I look (1) them for a week. I feed them twice a day and clean their box. Mimi is shy and often hides (2) the sofa in the living room. Coco is different; she is not afraid (3) strangers at all. Taking care of pets is not easy, (4) it is really fun. I want to (5) a cat of my own someday.",
+    "group_id": "JC1-G15",
+    "stem": "(2) 應填入：Mimi is shy and often hides ____ the sofa in the living room.",
+    "options": [
+      "above",
+      "onto",
+      "across",
+      "under"
+    ],
+    "answer": 3,
+    "explain_zh": "貓怕生會躲在沙發「底下」，用 under。above 是上方、onto 是移動到……之上、across 是橫越，都不能表示躲在下面。",
+    "vocab": [
+      {
+        "w": "hide",
+        "zh": "躲藏",
+        "pos": "v."
+      },
+      {
+        "w": "shy",
+        "zh": "害羞的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0073",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "My aunt has two cats. Their names are Mimi and Coco. When my aunt goes abroad, I look (1) them for a week. I feed them twice a day and clean their box. Mimi is shy and often hides (2) the sofa in the living room. Coco is different; she is not afraid (3) strangers at all. Taking care of pets is not easy, (4) it is really fun. I want to (5) a cat of my own someday.",
+    "group_id": "JC1-G15",
+    "stem": "(3) 應填入：Coco is not afraid ____ strangers at all.",
+    "options": [
+      "of",
+      "to",
+      "with",
+      "from"
+    ],
+    "answer": 0,
+    "explain_zh": "be afraid of + 名詞 表示「害怕……」。afraid to 後面只能接原形動詞，afraid with 和 afraid from 都不是英文用法。",
+    "vocab": [
+      {
+        "w": "stranger",
+        "zh": "陌生人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0074",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "My aunt has two cats. Their names are Mimi and Coco. When my aunt goes abroad, I look (1) them for a week. I feed them twice a day and clean their box. Mimi is shy and often hides (2) the sofa in the living room. Coco is different; she is not afraid (3) strangers at all. Taking care of pets is not easy, (4) it is really fun. I want to (5) a cat of my own someday.",
+    "group_id": "JC1-G15",
+    "stem": "(4) 應填入：Taking care of pets is not easy, ____ it is really fun.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "unless"
+    ],
+    "answer": 1,
+    "explain_zh": "「不容易」和「很有趣」是對比，用 but。so 表結果、because 表原因、unless 表除非，都無法連接這兩個相反的評價。",
+    "vocab": [
+      {
+        "w": "pet",
+        "zh": "寵物",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0075",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "My aunt has two cats. Their names are Mimi and Coco. When my aunt goes abroad, I look (1) them for a week. I feed them twice a day and clean their box. Mimi is shy and often hides (2) the sofa in the living room. Coco is different; she is not afraid (3) strangers at all. Taking care of pets is not easy, (4) it is really fun. I want to (5) a cat of my own someday.",
+    "group_id": "JC1-G15",
+    "stem": "(5) 應填入：I want to ____ a cat of my own someday.",
+    "options": [
+      "grow",
+      "rise",
+      "raise",
+      "raise up"
+    ],
+    "answer": 2,
+    "explain_zh": "raise 用於養育動物或小孩；grow 通常用於種植物；rise 是不及物動詞（上升），後面不能接受詞；raise up 不是正確用法。",
+    "vocab": [
+      {
+        "w": "raise",
+        "zh": "飼養",
+        "pos": "v."
+      },
+      {
+        "w": "someday",
+        "zh": "將來有一天",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0076",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "This summer I signed (1) for an online English course. The class is from seven to eight every evening. My teacher is from Canada, and she speaks slowly (2) we can all understand her. Every week we have to hand (3) a short English writing. At first, I was not used (4) speaking English online. Now I really enjoy it because I can study (5) home every evening.",
+    "group_id": "JC1-G16",
+    "stem": "(1) 應填入：This summer I signed ____ for an online English course.",
+    "options": [
+      "in",
+      "on",
+      "off",
+      "up"
+    ],
+    "answer": 3,
+    "explain_zh": "sign up for 是「報名參加」。sign in 是簽到，sign on 多指登入或簽約，sign off 是結束、下線，都不是報名課程的意思。",
+    "vocab": [
+      {
+        "w": "sign up for",
+        "zh": "報名",
+        "pos": "v. phr."
+      },
+      {
+        "w": "course",
+        "zh": "課程",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0077",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "This summer I signed (1) for an online English course. The class is from seven to eight every evening. My teacher is from Canada, and she speaks slowly (2) we can all understand her. Every week we have to hand (3) a short English writing. At first, I was not used (4) speaking English online. Now I really enjoy it because I can study (5) home every evening.",
+    "group_id": "JC1-G16",
+    "stem": "(2) 應填入：She speaks slowly ____ we can all understand her clearly.",
+    "options": [
+      "so",
+      "but",
+      "or",
+      "though"
+    ],
+    "answer": 0,
+    "explain_zh": "so (that) 引導目的子句，表示「以便我們都聽得懂」。but 是轉折、or 是選擇、though 是讓步，都無法表達說慢一點的目的。",
+    "vocab": [
+      {
+        "w": "understand",
+        "zh": "理解",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0078",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "This summer I signed (1) for an online English course. The class is from seven to eight every evening. My teacher is from Canada, and she speaks slowly (2) we can all understand her. Every week we have to hand (3) a short English writing. At first, I was not used (4) speaking English online. Now I really enjoy it because I can study (5) home every evening.",
+    "group_id": "JC1-G16",
+    "stem": "(3) 應填入：Every week we have to hand ____ a short English writing.",
+    "options": [
+      "on",
+      "in",
+      "out",
+      "over"
+    ],
+    "answer": 1,
+    "explain_zh": "hand in 是「繳交（作業）」。hand out 是發給大家，hand over 是移交，hand on 不是常用片語，語意都不對。",
+    "vocab": [
+      {
+        "w": "hand in",
+        "zh": "繳交",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0079",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "This summer I signed (1) for an online English course. The class is from seven to eight every evening. My teacher is from Canada, and she speaks slowly (2) we can all understand her. Every week we have to hand (3) a short English writing. At first, I was not used (4) speaking English online. Now I really enjoy it because I can study (5) home every evening.",
+    "group_id": "JC1-G16",
+    "stem": "(4) 應填入：At first, I was not used ____ speaking English online.",
+    "options": [
+      "for",
+      "with",
+      "to",
+      "at"
+    ],
+    "answer": 2,
+    "explain_zh": "be used to + 動名詞 表示「習慣於做某事」，這裡的 to 是介系詞，所以後面接 speaking。for、with、at 都不能和 be used 搭配。",
+    "vocab": [
+      {
+        "w": "be used to",
+        "zh": "習慣於",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0080",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "This summer I signed (1) for an online English course. The class is from seven to eight every evening. My teacher is from Canada, and she speaks slowly (2) we can all understand her. Every week we have to hand (3) a short English writing. At first, I was not used (4) speaking English online. Now I really enjoy it because I can study (5) home every evening.",
+    "group_id": "JC1-G16",
+    "stem": "(5) 應填入：Now I enjoy it because I can study ____ home every evening.",
+    "options": [
+      "in",
+      "on",
+      "to",
+      "at"
+    ],
+    "answer": 3,
+    "explain_zh": "at home 是「在家」的固定用法，home 前面不加冠詞也不用 in。in home、on home、to home 都不是正確說法。",
+    "vocab": [
+      {
+        "w": "enjoy",
+        "zh": "享受",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0081",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:tense",
+    "tag_zh": "克漏字：時態",
+    "passage": "Last winter, our class visited an old people's home. We (1) there by bus on Saturday morning. Some students sang songs, and others played simple games (2) the grandpas and grandmas. I helped a grandma write a letter (3) her son in Taipei. She held my hand and thanked me again and again. (4) I only stayed for two hours, I will never forget her smile. I hope to go (5) next winter.",
+    "group_id": "JC1-G17",
+    "stem": "(1) 應填入：We ____ there by bus on Saturday morning last winter.",
+    "options": [
+      "went",
+      "go",
+      "goes",
+      "going"
+    ],
+    "answer": 0,
+    "explain_zh": "last winter 是過去時間，動詞用過去式 went。go 是原形、goes 是現在式第三人稱、going 是現在分詞，都不能表示去年冬天的動作。",
+    "vocab": [
+      {
+        "w": "visit",
+        "zh": "拜訪",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0082",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Last winter, our class visited an old people's home. We (1) there by bus on Saturday morning. Some students sang songs, and others played simple games (2) the grandpas and grandmas. I helped a grandma write a letter (3) her son in Taipei. She held my hand and thanked me again and again. (4) I only stayed for two hours, I will never forget her smile. I hope to go (5) next winter.",
+    "group_id": "JC1-G17",
+    "stem": "(2) 應填入：Some students sang songs, and others played games ____ the grandmas.",
+    "options": [
+      "to",
+      "with",
+      "on",
+      "by"
+    ],
+    "answer": 1,
+    "explain_zh": "play games with somebody 表示「和某人玩遊戲」，用 with。to 表方向、on 表在……之上、by 表方式，都不能表示一起玩。",
+    "vocab": [
+      {
+        "w": "grandma",
+        "zh": "奶奶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0083",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Last winter, our class visited an old people's home. We (1) there by bus on Saturday morning. Some students sang songs, and others played simple games (2) the grandpas and grandmas. I helped a grandma write a letter (3) her son in Taipei. She held my hand and thanked me again and again. (4) I only stayed for two hours, I will never forget her smile. I hope to go (5) next winter.",
+    "group_id": "JC1-G17",
+    "stem": "(3) 應填入：I helped a grandma write a letter ____ her son in Taipei.",
+    "options": [
+      "of",
+      "at",
+      "to",
+      "into"
+    ],
+    "answer": 2,
+    "explain_zh": "write a letter to somebody 表示「寫信給某人」，用 to 表示對象。of 表所屬、at 表地點、into 表進入，都不能表示收信人。",
+    "vocab": [
+      {
+        "w": "letter",
+        "zh": "信",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0084",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Last winter, our class visited an old people's home. We (1) there by bus on Saturday morning. Some students sang songs, and others played simple games (2) the grandpas and grandmas. I helped a grandma write a letter (3) her son in Taipei. She held my hand and thanked me again and again. (4) I only stayed for two hours, I will never forget her smile. I hope to go (5) next winter.",
+    "group_id": "JC1-G17",
+    "stem": "(4) 應填入：____ I only stayed for two hours, I will never forget her.",
+    "options": [
+      "Because",
+      "So",
+      "Unless",
+      "Although"
+    ],
+    "answer": 3,
+    "explain_zh": "「只待兩小時」卻「永遠不會忘記」，屬於讓步關係，用 Although。Because 表原因會讓語意矛盾，So 不能這樣放句首，Unless 是「除非」。",
+    "vocab": [
+      {
+        "w": "forget",
+        "zh": "忘記",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0085",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Last winter, our class visited an old people's home. We (1) there by bus on Saturday morning. Some students sang songs, and others played simple games (2) the grandpas and grandmas. I helped a grandma write a letter (3) her son in Taipei. She held my hand and thanked me again and again. (4) I only stayed for two hours, I will never forget her smile. I hope to go (5) next winter.",
+    "group_id": "JC1-G17",
+    "stem": "(5) 應填入：I hope to go ____ next winter with my classmates.",
+    "options": [
+      "again",
+      "ago",
+      "already",
+      "ever"
+    ],
+    "answer": 0,
+    "explain_zh": "去過一次還想再去，用 again。ago 要接在一段時間後面表示「……之前」，already 是已經，ever 多用於疑問句或完成式，都不合適。",
+    "vocab": [
+      {
+        "w": "smile",
+        "zh": "微笑",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0086",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Our group made a report (1) night market food for class. First, we made a list of ten popular snacks. Then we went to the Ningxia Night Market and (2) photos of each stall. We also asked ten visitors which snack they liked (3) of all. Most of them chose oyster omelet. We (4) our report to the whole class last Thursday. Our teacher said our pictures made the report much (5).",
+    "group_id": "JC1-G18",
+    "stem": "(1) 應填入：Our group made a report ____ night market food for class.",
+    "options": [
+      "in",
+      "about",
+      "for",
+      "at"
+    ],
+    "answer": 1,
+    "explain_zh": "a report about／on something 表示「關於某主題的報告」。in、for、at 都不能用來帶出報告的主題。",
+    "vocab": [
+      {
+        "w": "report",
+        "zh": "報告",
+        "pos": "n."
+      },
+      {
+        "w": "snack",
+        "zh": "小吃",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0087",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Our group made a report (1) night market food for class. First, we made a list of ten popular snacks. Then we went to the Ningxia Night Market and (2) photos of each stall. We also asked ten visitors which snack they liked (3) of all. Most of them chose oyster omelet. We (4) our report to the whole class last Thursday. Our teacher said our pictures made the report much (5).",
+    "group_id": "JC1-G18",
+    "stem": "(2) 應填入：Then we went to the night market and ____ photos of each stall.",
+    "options": [
+      "made",
+      "did",
+      "took",
+      "got"
+    ],
+    "answer": 2,
+    "explain_zh": "take photos 是「拍照」的固定搭配，過去式 took。make photos、do photos、get photos 都不是正確的英文說法。",
+    "vocab": [
+      {
+        "w": "photo",
+        "zh": "照片",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0088",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Our group made a report (1) night market food for class. First, we made a list of ten popular snacks. Then we went to the Ningxia Night Market and (2) photos of each stall. We also asked ten visitors which snack they liked (3) of all. Most of them chose oyster omelet. We (4) our report to the whole class last Thursday. Our teacher said our pictures made the report much (5).",
+    "group_id": "JC1-G18",
+    "stem": "(3) 應填入：We asked ten visitors which snack they liked ____ of all.",
+    "options": [
+      "good",
+      "well",
+      "better",
+      "best"
+    ],
+    "answer": 3,
+    "explain_zh": "三者以上比較要用最高級 best，like something best 是「最喜歡」。good 是形容詞、well 是原級副詞、better 是兩者比較的比較級，都不合。",
+    "vocab": [
+      {
+        "w": "visitor",
+        "zh": "遊客",
+        "pos": "n."
+      },
+      {
+        "w": "oyster omelet",
+        "zh": "蚵仔煎",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0089",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "passage": "Our group made a report (1) night market food for class. First, we made a list of ten popular snacks. Then we went to the Ningxia Night Market and (2) photos of each stall. We also asked ten visitors which snack they liked (3) of all. Most of them chose oyster omelet. We (4) our report to the whole class last Thursday. Our teacher said our pictures made the report much (5).",
+    "group_id": "JC1-G18",
+    "stem": "(4) 應填入：We ____ our report to the whole class last Thursday.",
+    "options": [
+      "gave",
+      "spoke",
+      "told",
+      "said"
+    ],
+    "answer": 0,
+    "explain_zh": "give a report 是「做報告」的固定搭配。speak 是不及物用法，tell 後面要先接人，say 不能說 say a report to the class。",
+    "vocab": [
+      {
+        "w": "whole",
+        "zh": "全部的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0090",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Our group made a report (1) night market food for class. First, we made a list of ten popular snacks. Then we went to the Ningxia Night Market and (2) photos of each stall. We also asked ten visitors which snack they liked (3) of all. Most of them chose oyster omelet. We (4) our report to the whole class last Thursday. Our teacher said our pictures made the report much (5).",
+    "group_id": "JC1-G18",
+    "stem": "(5) 應填入：Our teacher said our pictures made the report much ____.",
+    "options": [
+      "clear",
+      "clearer",
+      "clearly",
+      "most clear"
+    ],
+    "answer": 1,
+    "explain_zh": "much 用來修飾比較級，所以要用 clearer。clear 是原級不能被 much 修飾，clearly 是副詞不能當受詞補語，most clear 也不是正確的最高級形式。",
+    "vocab": [
+      {
+        "w": "clear",
+        "zh": "清楚的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0091",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Final exams are coming next week. I made a study plan and put it (1) my desk. Every day I review two subjects. I am not good (2) math, so I spend more time on it. My best friend and I study in the library (3) school. (4) we finish studying, we buy a cup of milk tea as a reward. I believe hard work will (5) me good grades this time.",
+    "group_id": "JC1-G19",
+    "stem": "(1) 應填入：I made a study plan and put it ____ my desk.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "of"
+    ],
+    "answer": 2,
+    "explain_zh": "讀書計畫是貼在書桌「表面」上，用 on。in my desk 是在抽屜裡，at 表示地點的一點，of 表所屬，都不符合。",
+    "vocab": [
+      {
+        "w": "study plan",
+        "zh": "讀書計畫",
+        "pos": "n."
+      },
+      {
+        "w": "review",
+        "zh": "複習",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0092",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Final exams are coming next week. I made a study plan and put it (1) my desk. Every day I review two subjects. I am not good (2) math, so I spend more time on it. My best friend and I study in the library (3) school. (4) we finish studying, we buy a cup of milk tea as a reward. I believe hard work will (5) me good grades this time.",
+    "group_id": "JC1-G19",
+    "stem": "(2) 應填入：I am not good ____ math, so I spend more time on it.",
+    "options": [
+      "in",
+      "on",
+      "for",
+      "at"
+    ],
+    "answer": 3,
+    "explain_zh": "be good at 表示「擅長」，後面接學科或技能。good in、good on、good for 都不是「擅長」的意思，good for 是「對……有益」。",
+    "vocab": [
+      {
+        "w": "be good at",
+        "zh": "擅長",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0093",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Final exams are coming next week. I made a study plan and put it (1) my desk. Every day I review two subjects. I am not good (2) math, so I spend more time on it. My best friend and I study in the library (3) school. (4) we finish studying, we buy a cup of milk tea as a reward. I believe hard work will (5) me good grades this time.",
+    "group_id": "JC1-G19",
+    "stem": "(3) 應填入：My best friend and I study in the library ____ school.",
+    "options": [
+      "after",
+      "on",
+      "by",
+      "since"
+    ],
+    "answer": 0,
+    "explain_zh": "after school 是「放學後」的固定說法。on school、by school、since school 都不是英文用法，注意 school 前面不加冠詞。",
+    "vocab": [
+      {
+        "w": "library",
+        "zh": "圖書館",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0094",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Final exams are coming next week. I made a study plan and put it (1) my desk. Every day I review two subjects. I am not good (2) math, so I spend more time on it. My best friend and I study in the library (3) school. (4) we finish studying, we buy a cup of milk tea as a reward. I believe hard work will (5) me good grades this time.",
+    "group_id": "JC1-G19",
+    "stem": "(4) 應填入：____ we finish studying, we buy a cup of milk tea.",
+    "options": [
+      "Though",
+      "When",
+      "Unless",
+      "Whether"
+    ],
+    "answer": 1,
+    "explain_zh": "「讀完書之後就去買奶茶」是時間關係，用 When。Though 是讓步、Unless 是除非、Whether 是是否，語意都不通。",
+    "vocab": [
+      {
+        "w": "reward",
+        "zh": "獎勵",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0095",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Final exams are coming next week. I made a study plan and put it (1) my desk. Every day I review two subjects. I am not good (2) math, so I spend more time on it. My best friend and I study in the library (3) school. (4) we finish studying, we buy a cup of milk tea as a reward. I believe hard work will (5) me good grades this time.",
+    "group_id": "JC1-G19",
+    "stem": "(5) 應填入：I believe hard work will ____ me good grades this time.",
+    "options": [
+      "take",
+      "carry",
+      "bring",
+      "send"
+    ],
+    "answer": 2,
+    "explain_zh": "bring somebody something 表示「為某人帶來……」，努力帶來好成績。take 是帶走、carry 是搬運、send 是寄送，都不符合語意。",
+    "vocab": [
+      {
+        "w": "grade",
+        "zh": "成績",
+        "pos": "n."
+      },
+      {
+        "w": "believe",
+        "zh": "相信",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0096",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Last Wednesday our class went (1) a field trip to the science museum. On the bus, our teacher (2) us not to touch the machines with wet hands. In the museum, I saw a robot that could dance. My classmate Andy asked the guide many questions and (3) the answers very interesting. We stayed in the museum (4) about three hours. Everyone agreed it was (5) only fun but also educational.",
+    "group_id": "JC1-G20",
+    "stem": "(1) 應填入：Last Wednesday our class went ____ a field trip to the museum.",
+    "options": [
+      "in",
+      "at",
+      "to",
+      "on"
+    ],
+    "answer": 3,
+    "explain_zh": "go on a field trip 是「去校外教學」的固定搭配，用 on。很多人會寫成 go to a field trip，那是常見錯誤；in 和 at 也不能這樣用。",
+    "vocab": [
+      {
+        "w": "field trip",
+        "zh": "校外教學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0097",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Last Wednesday our class went (1) a field trip to the science museum. On the bus, our teacher (2) us not to touch the machines with wet hands. In the museum, I saw a robot that could dance. My classmate Andy asked the guide many questions and (3) the answers very interesting. We stayed in the museum (4) about three hours. Everyone agreed it was (5) only fun but also educational.",
+    "group_id": "JC1-G20",
+    "stem": "(2) 應填入：On the bus, our teacher ____ us not to touch the machines.",
+    "options": [
+      "told",
+      "said",
+      "spoke",
+      "talked"
+    ],
+    "answer": 0,
+    "explain_zh": "tell somebody not to + 原形動詞 表示「叫某人別做某事」。say 後面不能直接接人，speak 和 talk 是不及物用法，要加 to。",
+    "vocab": [
+      {
+        "w": "machine",
+        "zh": "機器",
+        "pos": "n."
+      },
+      {
+        "w": "touch",
+        "zh": "觸摸",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0098",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：字義選擇",
+    "passage": "Last Wednesday our class went (1) a field trip to the science museum. On the bus, our teacher (2) us not to touch the machines with wet hands. In the museum, I saw a robot that could dance. My classmate Andy asked the guide many questions and (3) the answers very interesting. We stayed in the museum (4) about three hours. Everyone agreed it was (5) only fun but also educational.",
+    "group_id": "JC1-G20",
+    "stem": "(3) 應填入：Andy asked many questions and ____ the answers very interesting.",
+    "options": [
+      "looked",
+      "found",
+      "watched",
+      "saw"
+    ],
+    "answer": 1,
+    "explain_zh": "find + 受詞 + 形容詞 表示「覺得……很……」，所以用 found。look 後面要接 at，watch 用於看會動的事物，see 不能接這種受詞補語結構。",
+    "vocab": [
+      {
+        "w": "guide",
+        "zh": "導覽員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0099",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:preposition",
+    "tag_zh": "克漏字：介系詞",
+    "passage": "Last Wednesday our class went (1) a field trip to the science museum. On the bus, our teacher (2) us not to touch the machines with wet hands. In the museum, I saw a robot that could dance. My classmate Andy asked the guide many questions and (3) the answers very interesting. We stayed in the museum (4) about three hours. Everyone agreed it was (5) only fun but also educational.",
+    "group_id": "JC1-G20",
+    "stem": "(4) 應填入：We stayed in the science museum ____ about three hours.",
+    "options": [
+      "in",
+      "since",
+      "for",
+      "during"
+    ],
+    "answer": 2,
+    "explain_zh": "for + 一段時間 表示停留多久。in three hours 是「三小時後」，since 要接時間起點，during 要接特定事件名詞，都不能表示停留三小時。",
+    "vocab": [
+      {
+        "w": "science",
+        "zh": "科學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0100",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "passage": "Last Wednesday our class went (1) a field trip to the science museum. On the bus, our teacher (2) us not to touch the machines with wet hands. In the museum, I saw a robot that could dance. My classmate Andy asked the guide many questions and (3) the answers very interesting. We stayed in the museum (4) about three hours. Everyone agreed it was (5) only fun but also educational.",
+    "group_id": "JC1-G20",
+    "stem": "(5) 應填入：Everyone agreed it was ____ only fun but also educational.",
+    "options": [
+      "no",
+      "never",
+      "neither",
+      "not"
+    ],
+    "answer": 3,
+    "explain_zh": "not only A but also B 是「不但……而且……」的固定句型。no 修飾名詞、never 是頻率副詞、neither 要搭配 nor，都不能組成這個句型。",
+    "vocab": [
+      {
+        "w": "educational",
+        "zh": "有教育意義的",
+        "pos": "adj."
+      },
+      {
+        "w": "agree",
+        "zh": "同意",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0101",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Could you ____ my little sister while I go shopping?",
+    "options": [
+      "look after",
+      "look for",
+      "look up",
+      "look into"
+    ],
+    "answer": 0,
+    "explain_zh": "look after 是「照顧」，等於 take care of。look for 是尋找、look up 是查閱、look into 是調查，雖然都是 look 開頭，意思卻完全不同。",
+    "vocab": [
+      {
+        "w": "look after",
+        "zh": "照顧",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0102",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "I am ____ my student ID card. Have you seen it anywhere?",
+    "options": [
+      "looking after",
+      "looking for",
+      "looking up",
+      "looking like"
+    ],
+    "answer": 1,
+    "explain_zh": "東西不見了要「尋找」，用 look for。look after 是照顧、look up 是查字典、look like 是看起來像，都不符合找東西的情境。",
+    "vocab": [
+      {
+        "w": "look for",
+        "zh": "尋找",
+        "pos": "v. phr."
+      },
+      {
+        "w": "ID card",
+        "zh": "證件",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0103",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "If you don't know the word, please ____ in the dictionary.",
+    "options": [
+      "look up it",
+      "look for it",
+      "look it up",
+      "look after it"
+    ],
+    "answer": 2,
+    "explain_zh": "look up 是可分片語，受詞是代名詞時一定要放中間，所以是 look it up，不能寫 look up it。look for it 是找它，look after it 是照顧它，語意也不對。",
+    "vocab": [
+      {
+        "w": "look up",
+        "zh": "查閱",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0104",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "My grandmother is sick, so my mother has to ____ her every day.",
+    "options": [
+      "take care for",
+      "take care with",
+      "care of",
+      "take care of"
+    ],
+    "answer": 3,
+    "explain_zh": "take care of 是「照顧」的固定片語，介系詞只能用 of。take care for、take care with 都不是英文說法，care 要單獨用時應寫成 care for。",
+    "vocab": [
+      {
+        "w": "take care of",
+        "zh": "照顧",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0105",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Who ____ your cat when you travel with your family?",
+    "options": [
+      "takes care of",
+      "takes care to",
+      "takes care in",
+      "cares of"
+    ],
+    "answer": 0,
+    "explain_zh": "take care of 是固定片語，主詞 Who 視為第三人稱單數，所以用 takes care of。takes care to／in 都不是正確搭配，care 後面也不接 of。",
+    "vocab": [
+      {
+        "w": "travel",
+        "zh": "旅行",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0106",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "I have to ____ at six o'clock to catch the school bus.",
+    "options": [
+      "get on",
+      "get up",
+      "get off",
+      "get in"
+    ],
+    "answer": 1,
+    "explain_zh": "get up 是「起床」，配合六點和趕校車最合理。get on 是上車、get off 是下車、get in 是進入，都不是起床的意思。",
+    "vocab": [
+      {
+        "w": "get up",
+        "zh": "起床",
+        "pos": "v. phr."
+      },
+      {
+        "w": "catch",
+        "zh": "趕上",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0107",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "My brother never ____ early on weekends; he sleeps until noon.",
+    "options": [
+      "gets down",
+      "gets away",
+      "gets up",
+      "gets over"
+    ],
+    "answer": 2,
+    "explain_zh": "後面說睡到中午，可見是「起床」很晚，用 get up。get down 是下來、get away 是逃離、get over 是克服，語意都不對。",
+    "vocab": [
+      {
+        "w": "weekend",
+        "zh": "週末",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0108",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is cold outside. ____ your coat before you go out.",
+    "options": [
+      "Put off",
+      "Put down",
+      "Put away",
+      "Put on"
+    ],
+    "answer": 3,
+    "explain_zh": "put on 是「穿上」衣物，天冷當然要穿外套。put off 是延期、put down 是放下、put away 是收好，都和天冷出門的情境不符。",
+    "vocab": [
+      {
+        "w": "put on",
+        "zh": "穿上",
+        "pos": "v. phr."
+      },
+      {
+        "w": "coat",
+        "zh": "外套",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0109",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "She ____ her new dress and looked in the mirror happily.",
+    "options": [
+      "put on",
+      "put in",
+      "put up",
+      "put off"
+    ],
+    "answer": 0,
+    "explain_zh": "put on 是「穿上」，穿上新洋裝後照鏡子最合理。put in 是投入、put up 是張貼、put off 是延期，都不能和 dress 搭配。",
+    "vocab": [
+      {
+        "w": "mirror",
+        "zh": "鏡子",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0110",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ the light. The room is too dark to read.",
+    "options": [
+      "turn off",
+      "turn on",
+      "turn down",
+      "turn over"
+    ],
+    "answer": 1,
+    "explain_zh": "房間太暗要「打開」電燈，用 turn on。turn off 是關掉會更暗，turn down 是調小聲或拒絕，turn over 是翻面，都不合理。",
+    "vocab": [
+      {
+        "w": "turn on",
+        "zh": "打開（電器）",
+        "pos": "v. phr."
+      },
+      {
+        "w": "dark",
+        "zh": "暗的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0111",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Remember to ____ the TV before you go to bed tonight.",
+    "options": [
+      "turn on",
+      "turn up",
+      "turn off",
+      "turn into"
+    ],
+    "answer": 2,
+    "explain_zh": "睡覺前要「關掉」電視，用 turn off。turn on 是打開，turn up 是調大聲或出現，turn into 是變成，都和睡前的動作不符。",
+    "vocab": [
+      {
+        "w": "turn off",
+        "zh": "關掉（電器）",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0112",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Don't forget to ____ the water when you brush your teeth.",
+    "options": [
+      "turn on",
+      "turn up",
+      "turn back",
+      "turn off"
+    ],
+    "answer": 3,
+    "explain_zh": "刷牙時提醒別浪費水，所以是「關掉」水龍頭 turn off。turn on 是打開，turn up 是調大，turn back 是折返，都不符合節約用水的提醒。",
+    "vocab": [
+      {
+        "w": "brush",
+        "zh": "刷",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0113",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The math problem was very hard, but Jack did not ____.",
+    "options": [
+      "give up",
+      "give out",
+      "give back",
+      "give away"
+    ],
+    "answer": 0,
+    "explain_zh": "but 表示題目雖難他仍不「放棄」，用 give up。give out 是發放或用盡，give back 是歸還，give away 是送出，語意都不對。",
+    "vocab": [
+      {
+        "w": "give up",
+        "zh": "放棄",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0114",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father decided to ____ smoking for his own health.",
+    "options": [
+      "give out",
+      "give up",
+      "give off",
+      "give away"
+    ],
+    "answer": 1,
+    "explain_zh": "give up + 動名詞 表示「戒掉、放棄做某事」，give up smoking 就是戒菸。give out 是發放，give off 是散發氣味，give away 是贈送。",
+    "vocab": [
+      {
+        "w": "smoking",
+        "zh": "抽菸",
+        "pos": "n."
+      },
+      {
+        "w": "health",
+        "zh": "健康",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0115",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The police are trying to ____ who broke the school window.",
+    "options": [
+      "find in",
+      "look out",
+      "find out",
+      "take out"
+    ],
+    "answer": 2,
+    "explain_zh": "find out 是「查明、查出」事情的真相。find in 不是片語，look out 是「小心」，take out 是拿出，都不能表示查明真相。",
+    "vocab": [
+      {
+        "w": "find out",
+        "zh": "查明",
+        "pos": "v. phr."
+      },
+      {
+        "w": "police",
+        "zh": "警察",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0116",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "I called the bookstore to ____ what time it closes today.",
+    "options": [
+      "find off",
+      "get out",
+      "run out",
+      "find out"
+    ],
+    "answer": 3,
+    "explain_zh": "打電話詢問資訊是 find out（查明、問清楚）。find off 不是英文片語，get out 是出去，run out 是用完，都不符合語意。",
+    "vocab": [
+      {
+        "w": "bookstore",
+        "zh": "書店",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0117",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The printer ____ paper, so we cannot print the report now.",
+    "options": [
+      "has run out of",
+      "has run out",
+      "has run into",
+      "has run after"
+    ],
+    "answer": 0,
+    "explain_zh": "run out of + 名詞 表示「用完某樣東西」，後面有受詞 paper 就一定要加 of。run out 後面不能直接接名詞，run into 是偶遇，run after 是追趕。",
+    "vocab": [
+      {
+        "w": "run out of",
+        "zh": "用完",
+        "pos": "v. phr."
+      },
+      {
+        "w": "printer",
+        "zh": "印表機",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0118",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Hurry up! We are ____ time before the movie starts.",
+    "options": [
+      "running after",
+      "running out of",
+      "running into",
+      "running over"
+    ],
+    "answer": 1,
+    "explain_zh": "run out of time 是「時間快用完了」，和 Hurry up 呼應。run after 是追趕，run into 是撞上或巧遇，run over 是輾過，都不合語意。",
+    "vocab": [
+      {
+        "w": "hurry up",
+        "zh": "快一點",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0119",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "My sister is very ____ drawing cartoon characters on paper.",
+    "options": [
+      "good in",
+      "good on",
+      "good at",
+      "good for"
+    ],
+    "answer": 2,
+    "explain_zh": "be good at 表示「擅長」，後面接名詞或動名詞。good in 和 good on 都不是正確搭配，good for 是「對……有益」，意思完全不同。",
+    "vocab": [
+      {
+        "w": "be good at",
+        "zh": "擅長",
+        "pos": "v. phr."
+      },
+      {
+        "w": "cartoon",
+        "zh": "卡通",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0120",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Tom is not ____ swimming, but he practices every week.",
+    "options": [
+      "good to",
+      "good of",
+      "good by",
+      "good at"
+    ],
+    "answer": 3,
+    "explain_zh": "be good at 才是「擅長」。be good to somebody 是對某人好，It is good of you 是「你人真好」，good by 不是英文用法。",
+    "vocab": [
+      {
+        "w": "practice",
+        "zh": "練習",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0121",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many students are ____ joining the school basketball club.",
+    "options": [
+      "interested in",
+      "interested on",
+      "interested at",
+      "interested for"
+    ],
+    "answer": 0,
+    "explain_zh": "be interested in 是「對……有興趣」，in 後面可接名詞或動名詞 joining。interested on／at／for 都不是正確搭配。",
+    "vocab": [
+      {
+        "w": "be interested in",
+        "zh": "對……有興趣",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0122",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "I became ____ history after watching that wonderful movie.",
+    "options": [
+      "interest in",
+      "interested in",
+      "interesting in",
+      "interested of"
+    ],
+    "answer": 1,
+    "explain_zh": "become 後面要接形容詞，且人感到有興趣用 interested。interest 是名詞或動詞，interesting 是「令人感興趣的」用來形容事物，interested of 搭配錯誤。",
+    "vocab": [
+      {
+        "w": "history",
+        "zh": "歷史",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0123",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Whether we go hiking tomorrow ____ the weather in the morning.",
+    "options": [
+      "depends of",
+      "depends in",
+      "depends on",
+      "depends to"
+    ],
+    "answer": 2,
+    "explain_zh": "depend on 是「取決於、依靠」，主詞是 Whether 子句視為單數，所以用 depends on。depend of／in／to 都不是正確搭配。",
+    "vocab": [
+      {
+        "w": "depend on",
+        "zh": "取決於",
+        "pos": "v. phr."
+      },
+      {
+        "w": "hike",
+        "zh": "健行",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0124",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Young children usually ____ their parents for food and money.",
+    "options": [
+      "depend in",
+      "depend with",
+      "depend at",
+      "depend on"
+    ],
+    "answer": 3,
+    "explain_zh": "depend on somebody for something 表示「在某方面依靠某人」。depend 的固定介系詞只有 on（或 upon），其他三個都不對。",
+    "vocab": [
+      {
+        "w": "parents",
+        "zh": "父母",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0125",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Let's take the MRT ____ a taxi. It is much faster.",
+    "options": [
+      "instead of",
+      "instead",
+      "because of",
+      "in spite of"
+    ],
+    "answer": 0,
+    "explain_zh": "instead of + 名詞 表示「而不是……」。instead 是副詞，後面不能直接接名詞；because of 是因為；in spite of 是儘管，語意都不對。",
+    "vocab": [
+      {
+        "w": "instead of",
+        "zh": "而不是",
+        "pos": "prep. phr."
+      },
+      {
+        "w": "MRT",
+        "zh": "捷運",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0126",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "He drank water ____ cola because he wants to be healthier.",
+    "options": [
+      "instead for",
+      "instead of",
+      "instead to",
+      "instead from"
+    ],
+    "answer": 1,
+    "explain_zh": "instead of 是固定片語，of 不能換成其他介系詞。instead for、instead to、instead from 都不是英文用法。",
+    "vocab": [
+      {
+        "w": "cola",
+        "zh": "可樂",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0127",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:daily-expression",
+    "tag_zh": "片語：生活常用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "I will call you ____ I get home from school tonight.",
+    "options": [
+      "as soon",
+      "so soon as",
+      "as soon as",
+      "as fast as"
+    ],
+    "answer": 2,
+    "explain_zh": "as soon as 是「一……就……」，引導時間子句。as soon 和 so soon as 都不是完整片語，as fast as 是比較速度，語意不同。",
+    "vocab": [
+      {
+        "w": "as soon as",
+        "zh": "一……就……",
+        "pos": "conj. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0128",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:daily-expression",
+    "tag_zh": "片語：生活常用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the bell rang, the students ran out of the classroom.",
+    "options": [
+      "As soon",
+      "So soon",
+      "Soon as",
+      "As soon as"
+    ],
+    "answer": 3,
+    "explain_zh": "As soon as 引導時間副詞子句，表示鐘聲一響就……。As soon、So soon、Soon as 都不是正確的連接詞形式。",
+    "vocab": [
+      {
+        "w": "bell",
+        "zh": "鐘聲",
+        "pos": "n."
+      },
+      {
+        "w": "ring",
+        "zh": "響",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0129",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:daily-expression",
+    "tag_zh": "片語：生活常用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "She is ____ a good singer but also a great dancer.",
+    "options": [
+      "not only",
+      "no only",
+      "not any",
+      "neither only"
+    ],
+    "answer": 0,
+    "explain_zh": "not only A but also B 是「不但……而且……」的固定句型，前後要成對出現。no only、not any、neither only 都不是正確用法。",
+    "vocab": [
+      {
+        "w": "not only...but also",
+        "zh": "不但……而且……",
+        "pos": "conj. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0130",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:daily-expression",
+    "tag_zh": "片語：生活常用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "He can not only speak English ____ write it very well.",
+    "options": [
+      "and also",
+      "but also",
+      "but too",
+      "also but"
+    ],
+    "answer": 1,
+    "explain_zh": "前面有 not only，後面一定要接 but also 才能形成對稱句型。and also、but too、also but 都不能和 not only 搭配。",
+    "vocab": [
+      {
+        "w": "speak",
+        "zh": "說",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0131",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "My grandfather is used to ____ up early every single morning.",
+    "options": [
+      "get",
+      "gets",
+      "getting",
+      "got"
+    ],
+    "answer": 2,
+    "explain_zh": "be used to 的 to 是介系詞，後面要接動名詞，所以是 getting up。若寫 used to get up 就變成「以前常常起床」，意思完全不同。",
+    "vocab": [
+      {
+        "w": "be used to",
+        "zh": "習慣於",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0132",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "After a month in Tainan, I ____ the hot weather there.",
+    "options": [
+      "am use to",
+      "used to",
+      "am used for",
+      "am used to"
+    ],
+    "answer": 3,
+    "explain_zh": "be used to + 名詞 表示「習慣了……」。am use to 少了過去分詞形式，used to 是「以前曾經」且後面要接原形動詞，be used for 是「被用來」。",
+    "vocab": [
+      {
+        "w": "weather",
+        "zh": "天氣",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0133",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "We ____ the bus for twenty minutes in the heavy rain.",
+    "options": [
+      "waited for",
+      "waited to",
+      "waited at",
+      "waited on"
+    ],
+    "answer": 0,
+    "explain_zh": "wait for somebody／something 是「等待」，介系詞固定用 for。wait to 後面要接原形動詞，wait at 是在某處等，wait on 是服侍。",
+    "vocab": [
+      {
+        "w": "wait for",
+        "zh": "等待",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0134",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The plane to Japan will ____ in about ten minutes.",
+    "options": [
+      "take out",
+      "take off",
+      "take up",
+      "take away"
+    ],
+    "answer": 1,
+    "explain_zh": "take off 用在飛機上是「起飛」。take out 是拿出，take up 是占用或開始學習，take away 是帶走，都不能形容飛機離地。",
+    "vocab": [
+      {
+        "w": "take off",
+        "zh": "起飛",
+        "pos": "v. phr."
+      },
+      {
+        "w": "plane",
+        "zh": "飛機",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0135",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:daily-expression",
+    "tag_zh": "片語：生活常用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "What time do you usually ____ school in the morning?",
+    "options": [
+      "arrive to",
+      "get in",
+      "get to",
+      "reach to"
+    ],
+    "answer": 2,
+    "explain_zh": "get to + 地點 表示「到達」。arrive 的搭配是 arrive at／in 而非 arrive to，reach 是及物動詞後面不加 to，get in 多指進入車內。",
+    "vocab": [
+      {
+        "w": "get to",
+        "zh": "到達",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0136",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "My little cousin is ____ the dark, so he sleeps with a light.",
+    "options": [
+      "afraid for",
+      "afraid at",
+      "afraid with",
+      "afraid of"
+    ],
+    "answer": 3,
+    "explain_zh": "be afraid of + 名詞 表示「害怕……」。afraid for 是替某人擔心，afraid at 和 afraid with 都不是英文用法。",
+    "vocab": [
+      {
+        "w": "be afraid of",
+        "zh": "害怕",
+        "pos": "v. phr."
+      },
+      {
+        "w": "dark",
+        "zh": "黑暗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0137",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Tainan is ____ its delicious snacks and beautiful old temples.",
+    "options": [
+      "famous for",
+      "famous of",
+      "famous with",
+      "famous to"
+    ],
+    "answer": 0,
+    "explain_zh": "be famous for + 特色 表示「以……聞名」。famous of、famous with、famous to 都不是正確搭配；be famous as 則是「以……身分出名」。",
+    "vocab": [
+      {
+        "w": "be famous for",
+        "zh": "以……聞名",
+        "pos": "v. phr."
+      },
+      {
+        "w": "temple",
+        "zh": "廟宇",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0138",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "More than fifty students ____ the singing contest last year.",
+    "options": [
+      "took part of",
+      "took part in",
+      "took part at",
+      "took part on"
+    ],
+    "answer": 1,
+    "explain_zh": "take part in 是「參加（活動）」的固定片語，介系詞只能用 in。take part of、at、on 都不是正確搭配。",
+    "vocab": [
+      {
+        "w": "take part in",
+        "zh": "參加",
+        "pos": "v. phr."
+      },
+      {
+        "w": "contest",
+        "zh": "比賽",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0139",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Could you ____ my English homework tonight? I don't understand it.",
+    "options": [
+      "help me on",
+      "help me at",
+      "help me with",
+      "help me of"
+    ],
+    "answer": 2,
+    "explain_zh": "help somebody with something 表示「幫某人做某事」，介系詞用 with。help me on／at／of 都不是正確搭配。",
+    "vocab": [
+      {
+        "w": "homework",
+        "zh": "作業",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0140",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ what the teacher says during the class.",
+    "options": [
+      "pay attention on",
+      "pay attention at",
+      "take attention to",
+      "pay attention to"
+    ],
+    "answer": 3,
+    "explain_zh": "pay attention to 是「注意、專心於」，介系詞固定用 to。pay attention on／at 搭配錯誤，attention 也不和 take 連用。",
+    "vocab": [
+      {
+        "w": "pay attention to",
+        "zh": "注意",
+        "pos": "v. phr."
+      },
+      {
+        "w": "attention",
+        "zh": "注意力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0141",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "She ____ all of her new classmates very well this semester.",
+    "options": [
+      "gets along with",
+      "gets along to",
+      "gets along on",
+      "gets long with"
+    ],
+    "answer": 0,
+    "explain_zh": "get along with somebody 是「和某人相處融洽」。gets along to／on 介系詞錯誤，gets long with 則是把 along 誤寫成 long。",
+    "vocab": [
+      {
+        "w": "get along with",
+        "zh": "與……相處",
+        "pos": "v. phr."
+      },
+      {
+        "w": "semester",
+        "zh": "學期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0142",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "We are all ____ the summer vacation next month.",
+    "options": [
+      "looking forward",
+      "looking forward to",
+      "looking forward for",
+      "looking front to"
+    ],
+    "answer": 1,
+    "explain_zh": "look forward to 是「期待」，to 是介系詞，後面要接名詞。少了 to 或換成 for 都不對，looking front to 更不是英文片語。",
+    "vocab": [
+      {
+        "w": "look forward to",
+        "zh": "期待",
+        "pos": "v. phr."
+      },
+      {
+        "w": "vacation",
+        "zh": "假期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0143",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "It is easy to ____ new people in the school guitar club.",
+    "options": [
+      "make friends to",
+      "make friend with",
+      "make friends with",
+      "do friends with"
+    ],
+    "answer": 2,
+    "explain_zh": "make friends with somebody 是「和某人交朋友」，friends 一定要用複數，介系詞用 with。make friends to、make friend with、do friends with 都不正確。",
+    "vocab": [
+      {
+        "w": "make friends with",
+        "zh": "和……交朋友",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0144",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The bookstore is ____ the train station, just across the road.",
+    "options": [
+      "in the front",
+      "in front",
+      "front of",
+      "in front of"
+    ],
+    "answer": 3,
+    "explain_zh": "in front of + 地點 表示「在……前面」，後面有受詞時三個字缺一不可。in the front 是「在（內部的）前段」，in front 和 front of 都不能直接接名詞。",
+    "vocab": [
+      {
+        "w": "in front of",
+        "zh": "在……前面",
+        "pos": "prep. phr."
+      },
+      {
+        "w": "station",
+        "zh": "車站",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0145",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:daily-expression",
+    "tag_zh": "片語：生活常用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The high speed rail is always ____; it never leaves late.",
+    "options": [
+      "on time",
+      "in time",
+      "at time",
+      "by time"
+    ],
+    "answer": 0,
+    "explain_zh": "on time 是「準時」，和 never leaves late 呼應。in time 是「及時、來得及」，意思不同；at time 和 by time 都不是正確片語。",
+    "vocab": [
+      {
+        "w": "on time",
+        "zh": "準時",
+        "pos": "adv. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0146",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:daily-expression",
+    "tag_zh": "片語：生活常用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Doctors say students should sleep ____ eight hours every night.",
+    "options": [
+      "at last",
+      "at least",
+      "at first",
+      "in the least"
+    ],
+    "answer": 1,
+    "explain_zh": "at least 是「至少」，符合醫師建議的最低睡眠時數。at last 是「最後終於」，at first 是「起初」，in the least 多用於否定句表示「一點也不」。",
+    "vocab": [
+      {
+        "w": "at least",
+        "zh": "至少",
+        "pos": "adv. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0147",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "My little brother can ride a bike ____ now; nobody helps him.",
+    "options": [
+      "by his own",
+      "by him",
+      "by himself",
+      "of himself"
+    ],
+    "answer": 2,
+    "explain_zh": "by oneself 是「獨自、靠自己」，主詞是 my little brother 所以用 by himself。正確說法是 on his own 或 by himself，by his own、by him、of himself 都不對。",
+    "vocab": [
+      {
+        "w": "by oneself",
+        "zh": "獨自地",
+        "pos": "adv. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0148",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:daily-expression",
+    "tag_zh": "片語：生活常用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Let me ____ your new phone. It looks really cool.",
+    "options": [
+      "take a look",
+      "take look at",
+      "make a look at",
+      "take a look at"
+    ],
+    "answer": 3,
+    "explain_zh": "take a look at something 是「看一下某樣東西」，後面有受詞時一定要加 at。take a look 後面不能直接接名詞，take look at 少了冠詞，look 也不和 make 連用。",
+    "vocab": [
+      {
+        "w": "take a look at",
+        "zh": "看一看",
+        "pos": "v. phr."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0149",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "片語：介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "My grandmother ____ a small village in Yilan sixty years ago.",
+    "options": [
+      "was born in",
+      "was born at",
+      "born in",
+      "was borned in"
+    ],
+    "answer": 0,
+    "explain_zh": "be born in + 較大的地方 表示「出生於」，born 本身就是過去分詞。at 用於很小的定點不適合村莊，born in 少了 be 動詞，borned 更是錯誤拼法。",
+    "vocab": [
+      {
+        "w": "be born in",
+        "zh": "出生於",
+        "pos": "v. phr."
+      },
+      {
+        "w": "village",
+        "zh": "村莊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "JC1-0150",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "phrase",
+    "tag": "phrase:verb-phrase",
+    "tag_zh": "片語：動詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Don't ____ the test. You have studied very hard this month.",
+    "options": [
+      "worry of",
+      "worry about",
+      "worry for",
+      "worry on"
+    ],
+    "answer": 1,
+    "explain_zh": "worry about something 是「擔心某事」，介系詞固定用 about。worry of、worry for、worry on 都不是正確搭配。",
+    "vocab": [
+      {
+        "w": "worry about",
+        "zh": "擔心",
+        "pos": "v. phr."
+      }
+    ]
+  }
+]

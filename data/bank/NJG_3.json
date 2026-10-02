@@ -1,0 +1,2832 @@
+[
+  {
+    "id": "NJG-0201",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My classmates and I ____ excited about the upcoming field trip.",
+    "options": [
+      "are",
+      "is",
+      "am",
+      "was"
+    ],
+    "answer": 0,
+    "explain_zh": "My classmates and I 是複數主詞，be動詞現在式要用 are；is/am 用於單數，was 是過去式。",
+    "vocab": [
+      {
+        "w": "field trip",
+        "zh": "校外教學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0202",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "簡單現在式",
+    "passage": null,
+    "group_id": null,
+    "stem": "This shop ____ handmade jewelry from local designers.",
+    "options": [
+      "sell",
+      "sells",
+      "selling",
+      "sold"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 this shop 是第三人稱單數，現在式動詞要加 s，sells 正確；sell 漏 s，selling 缺助動詞，sold 是過去式。",
+    "vocab": [
+      {
+        "w": "handmade",
+        "zh": "手工製作的",
+        "pos": "adj."
+      },
+      {
+        "w": "jewelry",
+        "zh": "珠寶、飾品",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0203",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "簡單過去式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The firefighters ____ everyone out of the burning building safely.",
+    "options": [
+      "get",
+      "gets",
+      "got",
+      "getting"
+    ],
+    "answer": 2,
+    "explain_zh": "句子敘述已經發生的事件，動詞要用過去式 got；get/gets 是現在式，getting 缺助動詞。",
+    "vocab": [
+      {
+        "w": "firefighter",
+        "zh": "消防員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0204",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Look outside! The clouds ____ darker, so a storm might be coming.",
+    "options": [
+      "get",
+      "gets",
+      "got",
+      "are getting"
+    ],
+    "answer": 3,
+    "explain_zh": "Look outside 提示現在正在發生的變化，要用 be + Ving，are getting 正確；get/gets 是簡單式，got 是過去式。",
+    "vocab": [
+      {
+        "w": "storm",
+        "zh": "暴風雨",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0205",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Scientists believe robots ____ do many jobs for humans in the future.",
+    "options": [
+      "will",
+      "did",
+      "are",
+      "does"
+    ],
+    "answer": 0,
+    "explain_zh": "in the future 明確提示未來，要用 will + 原形動詞；did 是過去式，are/does 不能直接接原形動詞表未來。",
+    "vocab": [
+      {
+        "w": "robot",
+        "zh": "機器人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0206",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The prize will be shared between my teammate and ____.",
+    "options": [
+      "I",
+      "me",
+      "my",
+      "mine"
+    ],
+    "answer": 1,
+    "explain_zh": "between 後面要接受格，me 正確；I 是主格，my 是所有格，mine 是所有格代名詞，都不合。",
+    "vocab": [
+      {
+        "w": "teammate",
+        "zh": "隊友",
+        "pos": "n."
+      },
+      {
+        "w": "share",
+        "zh": "分享、共用",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0207",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "This is ____ unusual plant; I have never seen one like it.",
+    "options": [
+      "a",
+      "the",
+      "an",
+      "some"
+    ],
+    "answer": 2,
+    "explain_zh": "unusual 是母音開頭發音，要用 an；a 用於子音開頭名詞，the 表特定對象，some 不能接單數可數名詞。",
+    "vocab": [
+      {
+        "w": "unusual",
+        "zh": "不尋常的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0208",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "The zoo added several new ____ to the African exhibit this year.",
+    "options": [
+      "specieses",
+      "species's",
+      "speciess",
+      "species"
+    ],
+    "answer": 3,
+    "explain_zh": "species 是特殊名詞，單複數同形，直接用 species；specieses/speciess 拼法錯誤，species's 是所有格。",
+    "vocab": [
+      {
+        "w": "zoo",
+        "zh": "動物園",
+        "pos": "n."
+      },
+      {
+        "w": "species",
+        "zh": "物種",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0209",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:prepositions",
+    "tag_zh": "介系詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The volunteers arrived ____ the shelter early to help the animals.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "of"
+    ],
+    "answer": 0,
+    "explain_zh": "表示抵達某個明確地點要用 at；in 用於較大範圍，on 用於平面，of 不表示位置。",
+    "vocab": [
+      {
+        "w": "volunteer",
+        "zh": "志工",
+        "pos": "n."
+      },
+      {
+        "w": "shelter",
+        "zh": "收容所",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0210",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:question-words",
+    "tag_zh": "疑問詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ should we go for the class trip, the beach or the mountains?",
+    "options": [
+      "Who",
+      "Where",
+      "When",
+      "Why"
+    ],
+    "answer": 1,
+    "explain_zh": "詢問地點要用 Where；Who 問人，When 問時間，Why 問原因，都不合句意。",
+    "vocab": [
+      {
+        "w": "class trip",
+        "zh": "班級旅遊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0211",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:can-must-should",
+    "tag_zh": "情態動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Visitors ____ touch the artwork in the museum; it's fragile.",
+    "options": [
+      "should",
+      "can",
+      "mustn't",
+      "might"
+    ],
+    "answer": 2,
+    "explain_zh": "表示明確禁止要用 mustn't；should 是建議語氣較弱，can 表示能力，might 表示可能性，都不合此禁止規定。",
+    "vocab": [
+      {
+        "w": "artwork",
+        "zh": "藝術品",
+        "pos": "n."
+      },
+      {
+        "w": "fragile",
+        "zh": "易碎的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0212",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ a strange noise coming from the old clock every hour.",
+    "options": [
+      "are",
+      "were",
+      "be",
+      "is"
+    ],
+    "answer": 3,
+    "explain_zh": "noise 是不可數名詞，視為單數，there be 現在式要用 is；are/were 用於複數或過去式，be 是原形。",
+    "vocab": [
+      {
+        "w": "strange",
+        "zh": "奇怪的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0213",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:comparative-superlative",
+    "tag_zh": "比較級與最高級",
+    "passage": null,
+    "group_id": null,
+    "stem": "This route is ____ than the one we took last time.",
+    "options": [
+      "shorter",
+      "short",
+      "shortest",
+      "more short"
+    ],
+    "answer": 0,
+    "explain_zh": "比較兩者要用比較級 shorter；short 是原級，shortest 是最高級，more short 是錯誤形式（short 為單音節）。",
+    "vocab": [
+      {
+        "w": "route",
+        "zh": "路線",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0214",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ leave your valuables unattended at the train station.",
+    "options": [
+      "Always",
+      "Never",
+      "Sometimes",
+      "Often"
+    ],
+    "answer": 1,
+    "explain_zh": "祈使句表示強烈禁止可用 Never，語意等同「絕對不要」；Always/Sometimes/Often 都不能表達禁止的語氣。",
+    "vocab": [
+      {
+        "w": "valuables",
+        "zh": "貴重物品",
+        "pos": "n."
+      },
+      {
+        "w": "unattended",
+        "zh": "無人看管的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0215",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "One of the biggest problems in our city ____ traffic congestion.",
+    "options": [
+      "are",
+      "am",
+      "is",
+      "were"
+    ],
+    "answer": 2,
+    "explain_zh": "one of... 當主詞視為單數，be動詞要用 is；are/were 用於複數，am 只能搭配 I。",
+    "vocab": [
+      {
+        "w": "traffic congestion",
+        "zh": "交通壅塞",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0216",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "簡單現在式",
+    "passage": null,
+    "group_id": null,
+    "stem": "This app ____ students track their homework and deadlines.",
+    "options": [
+      "help",
+      "helped",
+      "helping",
+      "helps"
+    ],
+    "answer": 3,
+    "explain_zh": "主詞 this app 是第三人稱單數，現在式動詞要加 s，helps 正確；help 漏 s，helped 是過去式，helping 缺助動詞。",
+    "vocab": [
+      {
+        "w": "app",
+        "zh": "應用程式",
+        "pos": "n."
+      },
+      {
+        "w": "track",
+        "zh": "追蹤",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0217",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "簡單過去式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The volunteers ____ hundreds of trees along the riverbank last spring.",
+    "options": [
+      "planted",
+      "plant",
+      "plants",
+      "planting"
+    ],
+    "answer": 0,
+    "explain_zh": "last spring 提示過去式，動詞要用過去式 planted；plant/plants 是現在式，planting 缺助動詞。",
+    "vocab": [
+      {
+        "w": "riverbank",
+        "zh": "河岸",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0218",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "These days, more and more people ____ electric scooters to save energy.",
+    "options": [
+      "use",
+      "are using",
+      "used",
+      "uses"
+    ],
+    "answer": 1,
+    "explain_zh": "These days 表示近期正在發生的趨勢，要用 be + Ving，are using 正確；use/uses 是簡單式，used 是過去式。",
+    "vocab": [
+      {
+        "w": "electric scooter",
+        "zh": "電動機車",
+        "pos": "n."
+      },
+      {
+        "w": "save energy",
+        "zh": "節省能源",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0219",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "If it rains tomorrow, the outdoor concert ____ be canceled.",
+    "options": [
+      "did",
+      "is",
+      "will",
+      "was"
+    ],
+    "answer": 2,
+    "explain_zh": "未來條件句主要子句要用 will + 原形動詞；did/was 是過去式，is 不能直接接原形動詞表未來。",
+    "vocab": [
+      {
+        "w": "outdoor",
+        "zh": "戶外的",
+        "pos": "adj."
+      },
+      {
+        "w": "cancel",
+        "zh": "取消",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0220",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The manager thanked the whole team, including ____, for the hard work.",
+    "options": [
+      "we",
+      "our",
+      "ours",
+      "us"
+    ],
+    "answer": 3,
+    "explain_zh": "including 後面要接受格，us 正確；we 是主格，our 是所有格形容詞，ours 是所有格代名詞，都不合。",
+    "vocab": [
+      {
+        "w": "manager",
+        "zh": "經理",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0221",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My teacher is ____ excellent guide who explains things clearly.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "some"
+    ],
+    "answer": 0,
+    "explain_zh": "excellent 是母音開頭發音，要用 an；a 用於子音開頭名詞，the 表特定，some 不能接單數可數名詞。",
+    "vocab": [
+      {
+        "w": "excellent",
+        "zh": "優秀的",
+        "pos": "adj."
+      },
+      {
+        "w": "guide",
+        "zh": "嚮導、指南",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0222",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "We spotted a group of wild ____ near the campsite at dawn.",
+    "options": [
+      "deers",
+      "deer",
+      "deer's",
+      "deeres"
+    ],
+    "answer": 1,
+    "explain_zh": "deer 是特殊複數，單複數同形，直接用 deer；deers/deeres 拼法錯誤，deer's 是所有格。",
+    "vocab": [
+      {
+        "w": "campsite",
+        "zh": "露營地",
+        "pos": "n."
+      },
+      {
+        "w": "dawn",
+        "zh": "黎明",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0223",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:prepositions",
+    "tag_zh": "介系詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The novel is based ____ a true story from World War II.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "of"
+    ],
+    "answer": 2,
+    "explain_zh": "be based on 表示「根據、基於」是固定片語；in/at/of 都不能與 based 搭配成這個意思。",
+    "vocab": [
+      {
+        "w": "based on",
+        "zh": "根據、基於",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0224",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:question-words",
+    "tag_zh": "疑問詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ did you find out about the change in the exam schedule?",
+    "options": [
+      "Who",
+      "What",
+      "Why",
+      "How"
+    ],
+    "answer": 3,
+    "explain_zh": "詢問方法或途徑要用 How；Who 問人，What 問事物，Why 問原因，都不合句意。",
+    "vocab": [
+      {
+        "w": "schedule",
+        "zh": "時間表",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0225",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:can-must-should",
+    "tag_zh": "情態動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Passengers ____ fasten their seatbelts before the plane takes off.",
+    "options": [
+      "must",
+      "can",
+      "might",
+      "would"
+    ],
+    "answer": 0,
+    "explain_zh": "表示強制規定要用 must；can 表示能力，might/would 語氣不夠肯定，都不合此規定情境。",
+    "vocab": [
+      {
+        "w": "passenger",
+        "zh": "乘客",
+        "pos": "n."
+      },
+      {
+        "w": "seatbelt",
+        "zh": "安全帶",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0226",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ there any tickets left for tonight's basketball game?",
+    "options": [
+      "Is",
+      "Are",
+      "Was",
+      "Does"
+    ],
+    "answer": 1,
+    "explain_zh": "tickets 是複數名詞，there be 疑問句要用 Are；Is 用於單數，Was 是過去式，Does 不是 be動詞。",
+    "vocab": [
+      {
+        "w": "ticket",
+        "zh": "票",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0227",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:comparative-superlative",
+    "tag_zh": "比較級與最高級",
+    "passage": null,
+    "group_id": null,
+    "stem": "Of all the apps on my phone, this game is ____ addictive.",
+    "options": [
+      "more",
+      "most",
+      "the most",
+      "much"
+    ],
+    "answer": 2,
+    "explain_zh": "of all 提示三者以上的最高級，要用 the most；more 是比較級用法，most 少了 the，much 不是最高級形式。",
+    "vocab": [
+      {
+        "w": "addictive",
+        "zh": "令人上癮的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0228",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ about joining the debate club this semester?",
+    "options": [
+      "What",
+      "Why",
+      "When",
+      "How"
+    ],
+    "answer": 3,
+    "explain_zh": "How about + Ving 表示提議「要不要…」；What/Why/When 都不能構成這個固定提議句型。",
+    "vocab": [
+      {
+        "w": "debate club",
+        "zh": "辯論社",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0229",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The biggest challenge for new students ____ making friends quickly.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "were"
+    ],
+    "answer": 0,
+    "explain_zh": "the biggest challenge 是單數主詞，be動詞現在式要用 is；are/were 用於複數，am 只能搭配 I。",
+    "vocab": [
+      {
+        "w": "challenge",
+        "zh": "挑戰",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0230",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "簡單現在式",
+    "passage": null,
+    "group_id": null,
+    "stem": "This recipe ____ only five simple ingredients and ten minutes.",
+    "options": [
+      "require",
+      "requires",
+      "requiring",
+      "required"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 this recipe 是第三人稱單數，現在式動詞要加 s，requires 正確；require 漏 s，requiring 缺助動詞，required 是過去式。",
+    "vocab": [
+      {
+        "w": "recipe",
+        "zh": "食譜",
+        "pos": "n."
+      },
+      {
+        "w": "ingredient",
+        "zh": "食材",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0231",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "簡單過去式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The explorers ____ across the desert without any modern equipment.",
+    "options": [
+      "travel",
+      "travels",
+      "traveled",
+      "traveling"
+    ],
+    "answer": 2,
+    "explain_zh": "句子描述過去發生的探險過程，動詞要用過去式 traveled；travel/travels 是現在式，traveling 缺助動詞。",
+    "vocab": [
+      {
+        "w": "explorer",
+        "zh": "探險家",
+        "pos": "n."
+      },
+      {
+        "w": "desert",
+        "zh": "沙漠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0232",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Right now, the whole class ____ a presentation about ocean pollution.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "is preparing"
+    ],
+    "answer": 3,
+    "explain_zh": "Right now 表示現在進行，要用 be + Ving，is preparing 正確；prepare/prepares 是簡單式，prepared 是過去式。",
+    "vocab": [
+      {
+        "w": "presentation",
+        "zh": "簡報",
+        "pos": "n."
+      },
+      {
+        "w": "pollution",
+        "zh": "污染",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0233",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many experts predict the sea level ____ rise significantly by 2100.",
+    "options": [
+      "will",
+      "did",
+      "is",
+      "was"
+    ],
+    "answer": 0,
+    "explain_zh": "by 2100 明確提示未來，要用 will + 原形動詞；did/was 是過去式，is 不能直接接原形動詞表未來。",
+    "vocab": [
+      {
+        "w": "sea level",
+        "zh": "海平面",
+        "pos": "n."
+      },
+      {
+        "w": "significantly",
+        "zh": "顯著地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0234",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The award went to the coach and ____ for their years of effort.",
+    "options": [
+      "he",
+      "him",
+      "his",
+      "he's"
+    ],
+    "answer": 1,
+    "explain_zh": "went to 後面要接受格，him 正確；he 是主格，his 是所有格，he's 是 he is 的縮寫，都不合文法。",
+    "vocab": [
+      {
+        "w": "award",
+        "zh": "獎項",
+        "pos": "n."
+      },
+      {
+        "w": "effort",
+        "zh": "努力",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0235",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "She lives in ____ old house that was built over a century ago.",
+    "options": [
+      "a",
+      "the",
+      "an",
+      "some"
+    ],
+    "answer": 2,
+    "explain_zh": "old 是母音開頭發音，要用 an；a 用於子音開頭，the 表特定對象，some 不能接單數可數名詞。",
+    "vocab": [
+      {
+        "w": "century",
+        "zh": "世紀",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0236",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "The dentist examined all of my ____ during the checkup yesterday.",
+    "options": [
+      "tooths",
+      "teeths",
+      "tooth",
+      "teeth"
+    ],
+    "answer": 3,
+    "explain_zh": "tooth 的複數是不規則變化 teeth，要直接用；tooths/teeths 拼法錯誤，tooth 是單數。",
+    "vocab": [
+      {
+        "w": "checkup",
+        "zh": "健康檢查",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0237",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:prepositions",
+    "tag_zh": "介系詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The article was written ____ a famous journalist from Taipei.",
+    "options": [
+      "by",
+      "with",
+      "for",
+      "of"
+    ],
+    "answer": 0,
+    "explain_zh": "表示動作的執行者要用 by，written by 表示「由...所寫」；with/for/of 都不能表示這個被動行為者。",
+    "vocab": [
+      {
+        "w": "article",
+        "zh": "文章",
+        "pos": "n."
+      },
+      {
+        "w": "journalist",
+        "zh": "記者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0238",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:question-words",
+    "tag_zh": "疑問詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ often do you update your social media profile?",
+    "options": [
+      "What",
+      "How",
+      "Why",
+      "Which"
+    ],
+    "answer": 1,
+    "explain_zh": "How often 詢問「頻率」；What/Why/Which 都不能與 often 搭配表示這個意思。",
+    "vocab": [
+      {
+        "w": "update",
+        "zh": "更新",
+        "pos": "v."
+      },
+      {
+        "w": "profile",
+        "zh": "個人檔案",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0239",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:can-must-should",
+    "tag_zh": "情態動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "You ____ worry so much; the interview will probably go well.",
+    "options": [
+      "can",
+      "must",
+      "shouldn't",
+      "have to"
+    ],
+    "answer": 2,
+    "explain_zh": "表示委婉勸阻不必做要用 shouldn't；can 表示能力，must/have to 表示義務，語意都不合此安慰情境。",
+    "vocab": [
+      {
+        "w": "interview",
+        "zh": "面試",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0240",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "There ____ many opportunities to volunteer abroad these days.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "are"
+    ],
+    "answer": 3,
+    "explain_zh": "opportunities 是複數名詞，there be 現在式要用 are；is 用於單數，was 是過去式，be 是原形。",
+    "vocab": [
+      {
+        "w": "opportunity",
+        "zh": "機會",
+        "pos": "n."
+      },
+      {
+        "w": "abroad",
+        "zh": "在國外",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0241",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:comparative-superlative",
+    "tag_zh": "比較級與最高級",
+    "passage": null,
+    "group_id": null,
+    "stem": "This model of laptop is ____ than the previous version.",
+    "options": [
+      "lighter",
+      "light",
+      "lightest",
+      "more light"
+    ],
+    "answer": 0,
+    "explain_zh": "比較兩者要用比較級 lighter；light 是原級，lightest 是最高級，more light 是錯誤形式（light 為單音節）。",
+    "vocab": [
+      {
+        "w": "laptop",
+        "zh": "筆記型電腦",
+        "pos": "n."
+      },
+      {
+        "w": "previous",
+        "zh": "先前的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0242",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ we ask the librarian for help finding this book?",
+    "options": [
+      "Do",
+      "Shall",
+      "Will",
+      "Are"
+    ],
+    "answer": 1,
+    "explain_zh": "Shall we...? 是提議「我們要不要…」的固定句型；Do/Will/Are 不能這樣直接用於此種提議句型。",
+    "vocab": [
+      {
+        "w": "librarian",
+        "zh": "圖書館員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0243",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Several of the exhibits ____ closed for repairs this week.",
+    "options": [
+      "is",
+      "was",
+      "are",
+      "am"
+    ],
+    "answer": 2,
+    "explain_zh": "several of 後面的主詞視為複數，be動詞要用 are；is/was 用於單數，am 只能搭配 I。",
+    "vocab": [
+      {
+        "w": "exhibit",
+        "zh": "展覽品",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0244",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "簡單現在式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The committee ____ new proposals at the end of every meeting.",
+    "options": [
+      "review",
+      "reviewed",
+      "reviewing",
+      "reviews"
+    ],
+    "answer": 3,
+    "explain_zh": "主詞 the committee 視為單數，現在式動詞要加 s，reviews 正確；review 漏 s，reviewed 是過去式，reviewing 缺助動詞。",
+    "vocab": [
+      {
+        "w": "committee",
+        "zh": "委員會",
+        "pos": "n."
+      },
+      {
+        "w": "proposal",
+        "zh": "提案",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0245",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "簡單過去式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The engineers ____ a new bridge design last month for the city council.",
+    "options": [
+      "proposed",
+      "propose",
+      "proposes",
+      "proposing"
+    ],
+    "answer": 0,
+    "explain_zh": "last month 提示過去式，動詞要用過去式 proposed；propose/proposes 是現在式，proposing 缺助動詞。",
+    "vocab": [
+      {
+        "w": "engineer",
+        "zh": "工程師",
+        "pos": "n."
+      },
+      {
+        "w": "council",
+        "zh": "議會、委員會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0246",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "At this very moment, researchers ____ a cure for the rare disease.",
+    "options": [
+      "develop",
+      "are developing",
+      "developed",
+      "develops"
+    ],
+    "answer": 1,
+    "explain_zh": "At this very moment 表示現在進行，要用 be + Ving，are developing 正確；develop/develops 是簡單式，developed 是過去式。",
+    "vocab": [
+      {
+        "w": "researcher",
+        "zh": "研究員",
+        "pos": "n."
+      },
+      {
+        "w": "cure",
+        "zh": "治療方法",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0247",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:future",
+    "tag_zh": "未來式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Unless we hurry, we ____ miss the last train home.",
+    "options": [
+      "did",
+      "are",
+      "will",
+      "was"
+    ],
+    "answer": 2,
+    "explain_zh": "unless 引導的條件句，主要子句要用 will + 原形動詞；did/was 是過去式，are 不能直接接原形動詞表未來。",
+    "vocab": [
+      {
+        "w": "unless",
+        "zh": "除非",
+        "pos": "conj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0248",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:pronouns",
+    "tag_zh": "代名詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The prize money will be divided equally between you and ____.",
+    "options": [
+      "I",
+      "my",
+      "mine",
+      "me"
+    ],
+    "answer": 3,
+    "explain_zh": "between 後面要接受格，me 正確；I 是主格，my 是所有格，mine 是所有格代名詞，都不合。",
+    "vocab": [
+      {
+        "w": "divide equally",
+        "zh": "平均分配",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0249",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:articles",
+    "tag_zh": "冠詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "My cousin just became ____ honorable member of the student council.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "some"
+    ],
+    "answer": 0,
+    "explain_zh": "honorable 開頭的 h 不發音，等於母音開頭，要用 an；a 用於子音開頭發音的字，the 表特定，some 不能接單數可數名詞。",
+    "vocab": [
+      {
+        "w": "honorable",
+        "zh": "值得尊敬的",
+        "pos": "adj."
+      },
+      {
+        "w": "student council",
+        "zh": "學生會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0250",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:nouns-plural",
+    "tag_zh": "名詞複數",
+    "passage": null,
+    "group_id": null,
+    "stem": "The biologist studies how different ____ of fish adapt to warm water.",
+    "options": [
+      "specieses",
+      "species",
+      "species's",
+      "speciess"
+    ],
+    "answer": 1,
+    "explain_zh": "species 是特殊名詞，單複數同形，直接用 species；specieses/speciess 拼法錯誤，species's 是所有格。",
+    "vocab": [
+      {
+        "w": "biologist",
+        "zh": "生物學家",
+        "pos": "n."
+      },
+      {
+        "w": "adapt",
+        "zh": "適應",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0251",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:prepositions",
+    "tag_zh": "介系詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The charity event raised money ____ children in need.",
+    "options": [
+      "by",
+      "with",
+      "for",
+      "of"
+    ],
+    "answer": 2,
+    "explain_zh": "表示「為了某人的利益」要用 for；by 表示執行者，with 表示伴隨，of 不表示這個目的。",
+    "vocab": [
+      {
+        "w": "charity event",
+        "zh": "慈善活動",
+        "pos": "n."
+      },
+      {
+        "w": "raise money",
+        "zh": "募款",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0252",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:question-words",
+    "tag_zh": "疑問詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ subjects are you taking this semester, five or six?",
+    "options": [
+      "How much",
+      "How long",
+      "How often",
+      "How many"
+    ],
+    "answer": 3,
+    "explain_zh": "subjects 是可數複數名詞，詢問數量要用 How many；How much 用於不可數名詞，How long 問長度，How often 問頻率。",
+    "vocab": [
+      {
+        "w": "subject",
+        "zh": "科目",
+        "pos": "n."
+      },
+      {
+        "w": "semester",
+        "zh": "學期",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0253",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:can-must-should",
+    "tag_zh": "情態動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "You ____ submit the application before the deadline, or it won't be accepted.",
+    "options": [
+      "must",
+      "can",
+      "might",
+      "would"
+    ],
+    "answer": 0,
+    "explain_zh": "表示必要且強制的規定要用 must；can 表示能力，might/would 語氣不夠肯定，都不合此規定情境。",
+    "vocab": [
+      {
+        "w": "submit",
+        "zh": "提交",
+        "pos": "v."
+      },
+      {
+        "w": "application",
+        "zh": "申請書",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0254",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:there-be",
+    "tag_zh": "there be 句型",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ there a shortcut to the community center from here?",
+    "options": [
+      "Are",
+      "Is",
+      "Were",
+      "Do"
+    ],
+    "answer": 1,
+    "explain_zh": "a shortcut 是單數名詞，there be 疑問句要用 Is；Are 用於複數，Were 是過去式，Do 不是 be動詞。",
+    "vocab": [
+      {
+        "w": "shortcut",
+        "zh": "捷徑",
+        "pos": "n."
+      },
+      {
+        "w": "community center",
+        "zh": "社區中心",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0255",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:comparative-superlative",
+    "tag_zh": "比較級與最高級",
+    "passage": null,
+    "group_id": null,
+    "stem": "This is ____ dangerous trail in the entire national park.",
+    "options": [
+      "more",
+      "most",
+      "the most",
+      "much more"
+    ],
+    "answer": 2,
+    "explain_zh": "in the entire national park 提示三者以上的最高級，dangerous 是多音節形容詞要用 the most dangerous；more 是比較級用法，most 少了 the，much more 語法錯誤。",
+    "vocab": [
+      {
+        "w": "trail",
+        "zh": "步道",
+        "pos": "n."
+      },
+      {
+        "w": "national park",
+        "zh": "國家公園",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0256",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:imperative-suggestion",
+    "tag_zh": "祈使句與建議句",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ leave your bike unlocked outside the station overnight.",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Usually",
+      "Never"
+    ],
+    "answer": 3,
+    "explain_zh": "祈使句表示強烈禁止可用 Never，語意等同「絕對不要」；Always/Sometimes/Usually 都不能表達禁止的語氣。",
+    "vocab": [
+      {
+        "w": "unlocked",
+        "zh": "未上鎖的",
+        "pos": "adj."
+      },
+      {
+        "w": "overnight",
+        "zh": "整夜",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0257",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:be-verb",
+    "tag_zh": "be動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The most important thing in a friendship ____ trust and honesty.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "am"
+    ],
+    "answer": 0,
+    "explain_zh": "主詞 the most important thing 是單數，be動詞現在式要用 is；are/were 用於複數，am 只能搭配 I。",
+    "vocab": [
+      {
+        "w": "friendship",
+        "zh": "友誼",
+        "pos": "n."
+      },
+      {
+        "w": "honesty",
+        "zh": "誠實",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0258",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-present",
+    "tag_zh": "簡單現在式",
+    "passage": null,
+    "group_id": null,
+    "stem": "This machine ____ plastic bottles into small pieces for recycling.",
+    "options": [
+      "shred",
+      "shreds",
+      "shredded",
+      "shredding"
+    ],
+    "answer": 1,
+    "explain_zh": "主詞 this machine 是第三人稱單數，現在式動詞要加 s，shreds 正確；shred 漏 s，shredded 是過去式，shredding 缺助動詞。",
+    "vocab": [
+      {
+        "w": "shred",
+        "zh": "粉碎",
+        "pos": "v."
+      },
+      {
+        "w": "recycling",
+        "zh": "回收",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0259",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:simple-past",
+    "tag_zh": "簡單過去式",
+    "passage": null,
+    "group_id": null,
+    "stem": "The team ____ a strategy meeting before the big competition last week.",
+    "options": [
+      "hold",
+      "holds",
+      "held",
+      "holding"
+    ],
+    "answer": 2,
+    "explain_zh": "last week 提示過去式，hold 的過去式是 held；hold/holds 是現在式，holding 缺助動詞。",
+    "vocab": [
+      {
+        "w": "strategy",
+        "zh": "策略",
+        "pos": "n."
+      },
+      {
+        "w": "competition",
+        "zh": "比賽",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0260",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "grammar",
+    "tag": "grammar:present-continuous",
+    "tag_zh": "現在進行式",
+    "passage": null,
+    "group_id": null,
+    "stem": "Currently, the government ____ a new policy to reduce plastic waste.",
+    "options": [
+      "test",
+      "tests",
+      "tested",
+      "is testing"
+    ],
+    "answer": 3,
+    "explain_zh": "Currently 表示現在進行，要用 be + Ving，is testing 正確；test/tests 是簡單式，tested 是過去式。",
+    "vocab": [
+      {
+        "w": "policy",
+        "zh": "政策",
+        "pos": "n."
+      },
+      {
+        "w": "plastic waste",
+        "zh": "塑膠垃圾",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0261",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:daily-life",
+    "tag_zh": "日常生活",
+    "passage": null,
+    "group_id": null,
+    "stem": "I usually ____ the trash cans out to the curb on Tuesday nights.",
+    "options": [
+      "take",
+      "make",
+      "do",
+      "give"
+    ],
+    "answer": 0,
+    "explain_zh": "take the trash out 表示「把垃圾拿出去」是固定片語；make/do/give 都不能與 trash out 搭配成這個意思。",
+    "vocab": [
+      {
+        "w": "curb",
+        "zh": "路邊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0262",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:school",
+    "tag_zh": "學校生活",
+    "passage": null,
+    "group_id": null,
+    "stem": "Please ____ your name at the top of the answer sheet.",
+    "options": [
+      "draw",
+      "write",
+      "paint",
+      "carve"
+    ],
+    "answer": 1,
+    "explain_zh": "在作答紙上「寫下」姓名要用 write；draw 是畫圖，paint 是上色，carve 是雕刻，都不是填寫姓名的正確動作。",
+    "vocab": [
+      {
+        "w": "answer sheet",
+        "zh": "答案卷",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0263",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:family",
+    "tag_zh": "家庭",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father's younger brother is my ____, and he is very funny.",
+    "options": [
+      "nephew",
+      "cousin",
+      "uncle",
+      "grandfather"
+    ],
+    "answer": 2,
+    "explain_zh": "father's younger brother（父親的弟弟）稱為 uncle（叔叔）；nephew 是姪子，cousin 是表堂兄弟姊妹，grandfather 是祖父，都不合。",
+    "vocab": [
+      {
+        "w": "funny",
+        "zh": "風趣的、好笑的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0264",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:food",
+    "tag_zh": "飲食",
+    "passage": null,
+    "group_id": null,
+    "stem": "This curry is way too ____ for me; I need some water immediately.",
+    "options": [
+      "sweet",
+      "fresh",
+      "sour",
+      "spicy"
+    ],
+    "answer": 3,
+    "explain_zh": "需要立刻喝水通常是因為食物 spicy（辣的）；sweet/fresh/sour 都不會讓人急著喝水。",
+    "vocab": [
+      {
+        "w": "curry",
+        "zh": "咖哩",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0265",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:time-date",
+    "tag_zh": "時間日期",
+    "passage": null,
+    "group_id": null,
+    "stem": "The meeting has been moved ____ Thursday instead of Wednesday.",
+    "options": [
+      "to",
+      "at",
+      "in",
+      "on"
+    ],
+    "answer": 0,
+    "explain_zh": "move something to + 時間 表示「改到...」；at/in/on 都不能與 moved 搭配表達改期到某天。",
+    "vocab": [
+      {
+        "w": "instead of",
+        "zh": "而不是",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0266",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:weather",
+    "tag_zh": "天氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "The forecast says it will be ____ tomorrow, so bring a jacket.",
+    "options": [
+      "humid",
+      "chilly",
+      "sunny",
+      "dry"
+    ],
+    "answer": 1,
+    "explain_zh": "需要帶外套通常是因為天氣 chilly（涼冷的）；humid 是潮濕的，sunny 是晴朗的，dry 是乾燥的，都不太需要帶外套保暖。",
+    "vocab": [
+      {
+        "w": "forecast",
+        "zh": "天氣預報",
+        "pos": "n."
+      },
+      {
+        "w": "chilly",
+        "zh": "涼冷的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0267",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:places",
+    "tag_zh": "地點方位",
+    "passage": null,
+    "group_id": null,
+    "stem": "You can get your passport photo taken at the ____ near the station.",
+    "options": [
+      "bakery",
+      "clinic",
+      "photo studio",
+      "bookstore"
+    ],
+    "answer": 2,
+    "explain_zh": "拍護照照片要去 photo studio（照相館）；bakery 是麵包店，clinic 是診所，bookstore 是書店，都不能拍證件照。",
+    "vocab": [
+      {
+        "w": "passport",
+        "zh": "護照",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0268",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:hobbies",
+    "tag_zh": "興趣嗜好",
+    "passage": null,
+    "group_id": null,
+    "stem": "My little sister loves ____ paper cranes in her free time.",
+    "options": [
+      "cooking",
+      "painting",
+      "cutting",
+      "folding"
+    ],
+    "answer": 3,
+    "explain_zh": "fold paper cranes（摺紙鶴）是常見的手作嗜好；cook/paint/cut 都不能與 paper cranes 搭配成合理動作。",
+    "vocab": [
+      {
+        "w": "paper crane",
+        "zh": "紙鶴",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0269",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:feelings",
+    "tag_zh": "情緒感受",
+    "passage": null,
+    "group_id": null,
+    "stem": "He felt ____ when everyone laughed at his mistake in front of the class.",
+    "options": [
+      "embarrassed",
+      "delighted",
+      "calm",
+      "confident"
+    ],
+    "answer": 0,
+    "explain_zh": "全班嘲笑他的錯誤通常會感到 embarrassed（尷尬的）；delighted 是高興的，calm 是冷靜的，confident 是有信心的，語意都不合此情境。",
+    "vocab": [
+      {
+        "w": "embarrassed",
+        "zh": "尷尬的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0270",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:body-health",
+    "tag_zh": "身體健康",
+    "passage": null,
+    "group_id": null,
+    "stem": "She had trouble hearing the announcement well because of an ____.",
+    "options": [
+      "headache",
+      "earache",
+      "stomachache",
+      "toothache"
+    ],
+    "answer": 1,
+    "explain_zh": "聽不清楚廣播通常與耳朵有關，earache 表示「耳朵痛」；headache 是頭痛，stomachache 是胃痛，toothache 是牙痛，都與聽力障礙較無直接關聯。",
+    "vocab": [
+      {
+        "w": "earache",
+        "zh": "耳朵痛",
+        "pos": "n."
+      },
+      {
+        "w": "announcement",
+        "zh": "廣播、宣布",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0271",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:numbers-money",
+    "tag_zh": "數字金錢",
+    "passage": null,
+    "group_id": null,
+    "stem": "The old coin is worth a lot of money because it is very ____.",
+    "options": [
+      "cheap",
+      "common",
+      "rare",
+      "light"
+    ],
+    "answer": 2,
+    "explain_zh": "值錢通常是因為物品 rare（稀有的）；cheap 是便宜的，common 是常見的，light 是輕的，都與「值很多錢」矛盾。",
+    "vocab": [
+      {
+        "w": "coin",
+        "zh": "硬幣",
+        "pos": "n."
+      },
+      {
+        "w": "rare",
+        "zh": "稀有的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0272",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:clothes-shopping",
+    "tag_zh": "服裝購物",
+    "passage": null,
+    "group_id": null,
+    "stem": "I want to ____ this sweater for a different color, please.",
+    "options": [
+      "return",
+      "refund",
+      "cancel",
+      "exchange"
+    ],
+    "answer": 3,
+    "explain_zh": "換成不同顏色要用 exchange（交換）；return 是退回，refund 是退款，cancel 是取消，語意都不如 exchange 精確。",
+    "vocab": [
+      {
+        "w": "sweater",
+        "zh": "毛衣",
+        "pos": "n."
+      },
+      {
+        "w": "exchange",
+        "zh": "交換、換貨",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0273",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:daily-life",
+    "tag_zh": "日常生活",
+    "passage": null,
+    "group_id": null,
+    "stem": "I like to ____ the table before my family sits down for dinner.",
+    "options": [
+      "set",
+      "cook",
+      "wash",
+      "cut"
+    ],
+    "answer": 0,
+    "explain_zh": "set the table 表示「擺放餐具」是固定片語；cook/wash/cut 都不能與 table 搭配表示這個意思。",
+    "vocab": [
+      {
+        "w": "set the table",
+        "zh": "擺放餐具",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0274",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:school",
+    "tag_zh": "學校生活",
+    "passage": null,
+    "group_id": null,
+    "stem": "Our teacher will ____ the results of the science fair tomorrow.",
+    "options": [
+      "borrow",
+      "announce",
+      "forget",
+      "ignore"
+    ],
+    "answer": 1,
+    "explain_zh": "announce the results 表示「宣布結果」；borrow 是借用，forget 是忘記，ignore 是忽略，語意都不合公布結果的情境。",
+    "vocab": [
+      {
+        "w": "science fair",
+        "zh": "科展",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0275",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:family",
+    "tag_zh": "家庭",
+    "passage": null,
+    "group_id": null,
+    "stem": "My father's new wife is my ____, and she is friendly to everyone.",
+    "options": [
+      "stepmother",
+      "aunt",
+      "cousin",
+      "grandmother"
+    ],
+    "answer": 2,
+    "explain_zh": "father's new wife（父親再婚的妻子）稱為 stepmother（繼母）；aunt 是姑姑/阿姨，cousin 是表堂兄弟姊妹，grandmother 是祖母，都不合。",
+    "vocab": [
+      {
+        "w": "stepmother",
+        "zh": "繼母",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0276",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:food",
+    "tag_zh": "飲食",
+    "passage": null,
+    "group_id": null,
+    "stem": "This bread is several days old and tastes quite ____ now.",
+    "options": [
+      "fresh",
+      "warm",
+      "soft",
+      "stale"
+    ],
+    "answer": 3,
+    "explain_zh": "放了好幾天的麵包通常變得 stale（不新鮮的）；fresh/warm/soft 都與「放了好幾天」矛盾。",
+    "vocab": [
+      {
+        "w": "stale",
+        "zh": "不新鮮的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0277",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:time-date",
+    "tag_zh": "時間日期",
+    "passage": null,
+    "group_id": null,
+    "stem": "We need to finish this project ____ the end of this week.",
+    "options": [
+      "by",
+      "at",
+      "on",
+      "in"
+    ],
+    "answer": 0,
+    "explain_zh": "表示「在...之前完成」的截止時間要用 by；at/on/in 都不能表達這個「不晚於」的意思。",
+    "vocab": [
+      {
+        "w": "project",
+        "zh": "專案、專題",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0278",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:weather",
+    "tag_zh": "天氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "It's too ____ to go hiking today; the trail will be dangerous.",
+    "options": [
+      "sunny",
+      "stormy",
+      "clear",
+      "mild"
+    ],
+    "answer": 1,
+    "explain_zh": "步道會有危險通常是因為天氣 stormy（暴風雨的）；sunny/clear/mild 都不會讓步道變危險。",
+    "vocab": [
+      {
+        "w": "trail",
+        "zh": "步道",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0279",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:places",
+    "tag_zh": "地點方位",
+    "passage": null,
+    "group_id": null,
+    "stem": "You can get your shoes repaired at the small ____ near the market.",
+    "options": [
+      "bakery",
+      "pharmacy",
+      "cobbler's",
+      "florist's"
+    ],
+    "answer": 2,
+    "explain_zh": "修鞋的地方是 cobbler's（修鞋店）；bakery 是麵包店，pharmacy 是藥局，florist's 是花店，都不能修鞋。",
+    "vocab": [
+      {
+        "w": "cobbler's",
+        "zh": "修鞋店",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0280",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:hobbies",
+    "tag_zh": "興趣嗜好",
+    "passage": null,
+    "group_id": null,
+    "stem": "On weekends, my father enjoys ____ old radios in his workshop.",
+    "options": [
+      "cooking",
+      "selling",
+      "washing",
+      "fixing"
+    ],
+    "answer": 3,
+    "explain_zh": "fix old radios（修理舊收音機）是常見的嗜好；cook/sell/wash radios 都不是合理的興趣描述。",
+    "vocab": [
+      {
+        "w": "workshop",
+        "zh": "工作室、工坊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0281",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:feelings",
+    "tag_zh": "情緒感受",
+    "passage": null,
+    "group_id": null,
+    "stem": "The little boy felt ____ when he saw the huge roller coaster.",
+    "options": [
+      "scared",
+      "bored",
+      "proud",
+      "calm"
+    ],
+    "answer": 0,
+    "explain_zh": "看到巨大的雲霄飛車通常感到 scared（害怕的）；bored 是無聊的，proud 是驕傲的，calm 是冷靜的，語意都不合此情境。",
+    "vocab": [
+      {
+        "w": "roller coaster",
+        "zh": "雲霄飛車",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0282",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:body-health",
+    "tag_zh": "身體健康",
+    "passage": null,
+    "group_id": null,
+    "stem": "He couldn't walk properly after he badly sprained his ____.",
+    "options": [
+      "wrist",
+      "knee",
+      "elbow",
+      "shoulder"
+    ],
+    "answer": 1,
+    "explain_zh": "影響走路的關節是 knee（膝蓋）；wrist/elbow/shoulder 都是上肢關節，不會直接影響走路。",
+    "vocab": [
+      {
+        "w": "sprain",
+        "zh": "扭傷",
+        "pos": "v."
+      },
+      {
+        "w": "knee",
+        "zh": "膝蓋",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0283",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:numbers-money",
+    "tag_zh": "數字金錢",
+    "passage": null,
+    "group_id": null,
+    "stem": "The store gives a ____ to students who show their student ID.",
+    "options": [
+      "profit",
+      "tax",
+      "discount",
+      "interest"
+    ],
+    "answer": 2,
+    "explain_zh": "憑學生證享有優惠要用 discount（折扣）；profit 是利潤，tax 是稅金，interest 是利息，都不是購物優惠的正確說法。",
+    "vocab": [
+      {
+        "w": "discount",
+        "zh": "折扣",
+        "pos": "n."
+      },
+      {
+        "w": "student ID",
+        "zh": "學生證",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0284",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:clothes-shopping",
+    "tag_zh": "服裝購物",
+    "passage": null,
+    "group_id": null,
+    "stem": "This coat is made of real wool, so the ____ feels very soft.",
+    "options": [
+      "brand",
+      "label",
+      "price",
+      "fabric"
+    ],
+    "answer": 3,
+    "explain_zh": "描述材質觸感要用 fabric（布料）；brand 是品牌，label 是標籤，price 是價格，都與觸感無關。",
+    "vocab": [
+      {
+        "w": "wool",
+        "zh": "羊毛",
+        "pos": "n."
+      },
+      {
+        "w": "fabric",
+        "zh": "布料",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0285",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:daily-life",
+    "tag_zh": "日常生活",
+    "passage": null,
+    "group_id": null,
+    "stem": "Every night before bed, I ____ my teeth for two full minutes.",
+    "options": [
+      "brush",
+      "cook",
+      "wash",
+      "comb"
+    ],
+    "answer": 0,
+    "explain_zh": "brush one's teeth 表示「刷牙」是固定片語；cook/wash/comb 都不能與 teeth 搭配表示這個意思。",
+    "vocab": [
+      {
+        "w": "brush",
+        "zh": "刷（牙）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0286",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:school",
+    "tag_zh": "學校生活",
+    "passage": null,
+    "group_id": null,
+    "stem": "The principal will ____ the top three students during the assembly.",
+    "options": [
+      "punish",
+      "reward",
+      "ignore",
+      "blame"
+    ],
+    "answer": 1,
+    "explain_zh": "表揚優秀學生要用 reward（獎勵）；punish 是懲罰，ignore 是忽略，blame 是責怪，語意都相反或不合。",
+    "vocab": [
+      {
+        "w": "reward",
+        "zh": "獎勵",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0287",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:family",
+    "tag_zh": "家庭",
+    "passage": null,
+    "group_id": null,
+    "stem": "My grandmother's youngest daughter is my ____, and she lives abroad.",
+    "options": [
+      "niece",
+      "cousin",
+      "aunt",
+      "grandmother"
+    ],
+    "answer": 2,
+    "explain_zh": "grandmother's daughter（祖母的女兒，且不是自己的母親）稱為 aunt（姑姑/阿姨）；niece 是姪女，cousin 是表堂兄弟姊妹，grandmother 是祖母本人，都不合。",
+    "vocab": [
+      {
+        "w": "abroad",
+        "zh": "在國外",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0288",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:food",
+    "tag_zh": "飲食",
+    "passage": null,
+    "group_id": null,
+    "stem": "This steak is cooked perfectly; it's juicy and very ____.",
+    "options": [
+      "tough",
+      "dry",
+      "raw",
+      "tender"
+    ],
+    "answer": 3,
+    "explain_zh": "完美烹調的牛排通常多汁且 tender（軟嫩的）；tough 是難嚼的，dry 是乾的，raw 是生的，都與「完美烹調」矛盾。",
+    "vocab": [
+      {
+        "w": "steak",
+        "zh": "牛排",
+        "pos": "n."
+      },
+      {
+        "w": "tender",
+        "zh": "軟嫩的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0289",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:time-date",
+    "tag_zh": "時間日期",
+    "passage": null,
+    "group_id": null,
+    "stem": "The store stays open ____ midnight during the holiday season.",
+    "options": [
+      "until",
+      "since",
+      "during",
+      "by"
+    ],
+    "answer": 0,
+    "explain_zh": "表示「持續到...為止」要用 until；since 表示「自從」，during 表示「在...期間」，by 表示「不晚於」，語意都不合。",
+    "vocab": [
+      {
+        "w": "holiday season",
+        "zh": "假期旺季",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0290",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:weather",
+    "tag_zh": "天氣",
+    "passage": null,
+    "group_id": null,
+    "stem": "Everything looked blurry because of the thick ____ this morning.",
+    "options": [
+      "rain",
+      "fog",
+      "snow",
+      "wind"
+    ],
+    "answer": 1,
+    "explain_zh": "看起來模糊通常是因為濃 fog（霧）；rain/snow/wind 通常不會讓視線模糊到「blurry」的程度。",
+    "vocab": [
+      {
+        "w": "blurry",
+        "zh": "模糊的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0291",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:places",
+    "tag_zh": "地點方位",
+    "passage": null,
+    "group_id": null,
+    "stem": "We picked up our new glasses at the ____ downtown yesterday.",
+    "options": [
+      "bakery",
+      "laundry",
+      "optician's",
+      "butcher's"
+    ],
+    "answer": 2,
+    "explain_zh": "配眼鏡的地方是 optician's（眼鏡行）；bakery 是麵包店，laundry 是洗衣店，butcher's 是肉舖，都不能配眼鏡。",
+    "vocab": [
+      {
+        "w": "glasses",
+        "zh": "眼鏡",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0292",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:hobbies",
+    "tag_zh": "興趣嗜好",
+    "passage": null,
+    "group_id": null,
+    "stem": "My grandfather still enjoys ____ old stamps he collected decades ago.",
+    "options": [
+      "cooking",
+      "selling",
+      "washing",
+      "displaying"
+    ],
+    "answer": 3,
+    "explain_zh": "display old stamps（展示舊郵票）符合收藏嗜好的常見描述；cook/sell/wash stamps 都不是合理的動作。",
+    "vocab": [
+      {
+        "w": "decade",
+        "zh": "十年",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0293",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:feelings",
+    "tag_zh": "情緒感受",
+    "passage": null,
+    "group_id": null,
+    "stem": "I felt completely ____ after solving the puzzle that took three hours.",
+    "options": [
+      "satisfied",
+      "annoyed",
+      "ashamed",
+      "anxious"
+    ],
+    "answer": 0,
+    "explain_zh": "花三小時終於解出謎題通常感到 satisfied（滿足的）；annoyed 是惱怒的，ashamed 是羞愧的，anxious 是焦慮的，語意都不合完成任務的情境。",
+    "vocab": [
+      {
+        "w": "satisfied",
+        "zh": "滿足的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0294",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:body-health",
+    "tag_zh": "身體健康",
+    "passage": null,
+    "group_id": null,
+    "stem": "After the long hike, both of my ____ felt sore and weak.",
+    "options": [
+      "ears",
+      "legs",
+      "hands",
+      "eyes"
+    ],
+    "answer": 1,
+    "explain_zh": "長途健行後最容易痠痛無力的部位是 legs（腿）；ears/hands/eyes 都不是健行後典型痠痛的部位。",
+    "vocab": [
+      {
+        "w": "hike",
+        "zh": "健行",
+        "pos": "n."
+      },
+      {
+        "w": "sore",
+        "zh": "痠痛的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0295",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:numbers-money",
+    "tag_zh": "數字金錢",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company offered him a much higher ____ for the new position.",
+    "options": [
+      "bill",
+      "tax",
+      "salary",
+      "fee"
+    ],
+    "answer": 2,
+    "explain_zh": "公司提供的職位待遇要用 salary（薪水）；bill 是帳單，tax 是稅金，fee 是費用，都不是「職位待遇」的正確說法。",
+    "vocab": [
+      {
+        "w": "position",
+        "zh": "職位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0296",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:clothes-shopping",
+    "tag_zh": "服裝購物",
+    "passage": null,
+    "group_id": null,
+    "stem": "I bought this dress online, but the ____ doesn't match the photo.",
+    "options": [
+      "price",
+      "brand",
+      "size",
+      "color"
+    ],
+    "answer": 3,
+    "explain_zh": "與照片不符通常是在描述顏色，color 正確；price/brand/size 都不是「與照片不符」最直接對應的外觀描述。",
+    "vocab": [
+      {
+        "w": "match",
+        "zh": "相符",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0297",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:daily-life",
+    "tag_zh": "日常生活",
+    "passage": null,
+    "group_id": null,
+    "stem": "I always ____ my phone before I go to sleep at night.",
+    "options": [
+      "charge",
+      "cook",
+      "wash",
+      "cut"
+    ],
+    "answer": 0,
+    "explain_zh": "charge one's phone 表示「幫手機充電」；cook/wash/cut 都不能與 phone 搭配表示這個意思。",
+    "vocab": [
+      {
+        "w": "charge",
+        "zh": "充電",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0298",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:school",
+    "tag_zh": "學校生活",
+    "passage": null,
+    "group_id": null,
+    "stem": "The coach will ____ the team for the district competition next week.",
+    "options": [
+      "punish",
+      "train",
+      "forget",
+      "blame"
+    ],
+    "answer": 1,
+    "explain_zh": "train the team 表示「訓練隊伍」；punish 是懲罰，forget 是忘記，blame 是責怪，語意都不合準備比賽的情境。",
+    "vocab": [
+      {
+        "w": "district competition",
+        "zh": "分區比賽",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0299",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:family",
+    "tag_zh": "家庭",
+    "passage": null,
+    "group_id": null,
+    "stem": "My uncle's daughter is my ____, and we often play together.",
+    "options": [
+      "niece",
+      "sister",
+      "cousin",
+      "aunt"
+    ],
+    "answer": 2,
+    "explain_zh": "uncle's daughter（叔叔的女兒）稱為 cousin（表姊妹）；niece 是姪女，sister 是姊妹，aunt 是姑姑，都不合。",
+    "vocab": [
+      {
+        "w": "cousin",
+        "zh": "表堂兄弟姊妹",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJG-0300",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "vocab",
+    "tag": "vocab:food",
+    "tag_zh": "飲食",
+    "passage": null,
+    "group_id": null,
+    "stem": "The chef added extra herbs to make the dish more ____.",
+    "options": [
+      "bland",
+      "plain",
+      "dull",
+      "aromatic"
+    ],
+    "answer": 3,
+    "explain_zh": "加入額外香草通常是為了讓菜餚更 aromatic（香氣濃郁的）；bland/plain/dull 都與「額外添加香草」的目的矛盾。",
+    "vocab": [
+      {
+        "w": "herb",
+        "zh": "香草",
+        "pos": "n."
+      },
+      {
+        "w": "aromatic",
+        "zh": "香氣濃郁的",
+        "pos": "adj."
+      }
+    ]
+  }
+]

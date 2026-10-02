@@ -1,0 +1,1952 @@
+[
+  {
+    "id": "NJL-0076",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good morning, students. Here is this week's lunch menu from the cafeteria. On Monday, we will have chicken curry rice with a boiled egg and corn soup. Tuesday's lunch is spaghetti with meat sauce and a small salad. On Wednesday, because it is Fruit Day, every student will get an extra piece of fruit, either a banana or an orange, along with braised pork rice. Thursday's lunch is fish with rice and stir-fried vegetables, and on Friday we will have a special dumpling lunch to celebrate the end of the month. Please remember that students with food allergies should tell their homeroom teacher by Wednesday this week so the kitchen can prepare a different dish. Enjoy your meals, everyone!",
+    "group_id": "NJL-G16",
+    "stem": "What is this announcement mainly about?",
+    "options": [
+      "An announcement about this week's school lunch menu.",
+      "An announcement about a school cooking contest.",
+      "An announcement about new cafeteria rules.",
+      "An announcement about a change in lunch time."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播從星期一到星期五依序介紹每天的午餐內容，所以主旨是介紹本週菜單。廣播沒有提到烹飪比賽、新的餐廳規定或午餐時間更動。聽開頭「this week's lunch menu」就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "menu",
+        "zh": "菜單",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0077",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good morning, students. Here is this week's lunch menu from the cafeteria. On Monday, we will have chicken curry rice with a boiled egg and corn soup. Tuesday's lunch is spaghetti with meat sauce and a small salad. On Wednesday, because it is Fruit Day, every student will get an extra piece of fruit, either a banana or an orange, along with braised pork rice. Thursday's lunch is fish with rice and stir-fried vegetables, and on Friday we will have a special dumpling lunch to celebrate the end of the month. Please remember that students with food allergies should tell their homeroom teacher by Wednesday this week so the kitchen can prepare a different dish. Enjoy your meals, everyone!",
+    "group_id": "NJL-G16",
+    "stem": "What is special about Wednesday's lunch?",
+    "options": [
+      "Every student gets a free drink.",
+      "Every student gets an extra piece of fruit.",
+      "Lunch is free that day.",
+      "There is no lunch served."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說星期三是水果日，「every student will get an extra piece of fruit」，所以答案是多一份水果。廣播沒有提到免費飲料、免費午餐或不供餐。細節題要抓住 special 對應的那句話。",
+    "vocab": [
+      {
+        "w": "extra",
+        "zh": "額外的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0078",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning, students. Here is this week's lunch menu from the cafeteria. On Monday, we will have chicken curry rice with a boiled egg and corn soup. Tuesday's lunch is spaghetti with meat sauce and a small salad. On Wednesday, because it is Fruit Day, every student will get an extra piece of fruit, either a banana or an orange, along with braised pork rice. Thursday's lunch is fish with rice and stir-fried vegetables, and on Friday we will have a special dumpling lunch to celebrate the end of the month. Please remember that students with food allergies should tell their homeroom teacher by Wednesday this week so the kitchen can prepare a different dish. Enjoy your meals, everyone!",
+    "group_id": "NJL-G16",
+    "stem": "What day is the spaghetti served?",
+    "options": [
+      "Monday.",
+      "Wednesday.",
+      "Tuesday.",
+      "Thursday."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說「Tuesday's lunch is spaghetti with meat sauce」，所以義大利麵是星期二供應。其他選項是別天的菜色。時間題要把星期幾和菜名一一對應。",
+    "vocab": [
+      {
+        "w": "spaghetti",
+        "zh": "義大利麵",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0079",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good morning, students. Here is this week's lunch menu from the cafeteria. On Monday, we will have chicken curry rice with a boiled egg and corn soup. Tuesday's lunch is spaghetti with meat sauce and a small salad. On Wednesday, because it is Fruit Day, every student will get an extra piece of fruit, either a banana or an orange, along with braised pork rice. Thursday's lunch is fish with rice and stir-fried vegetables, and on Friday we will have a special dumpling lunch to celebrate the end of the month. Please remember that students with food allergies should tell their homeroom teacher by Wednesday this week so the kitchen can prepare a different dish. Enjoy your meals, everyone!",
+    "group_id": "NJL-G16",
+    "stem": "What will be served on Friday?",
+    "options": [
+      "Fish with rice.",
+      "Chicken curry rice.",
+      "Spaghetti with meat sauce.",
+      "A special dumpling lunch."
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說「on Friday we will have a special dumpling lunch」，所以星期五是水餃餐。魚肉飯是星期四、咖哩飯是星期一的菜色，容易混淆。細節題要記住每天對應的菜名。",
+    "vocab": [
+      {
+        "w": "dumpling",
+        "zh": "水餃",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0080",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning, students. Here is this week's lunch menu from the cafeteria. On Monday, we will have chicken curry rice with a boiled egg and corn soup. Tuesday's lunch is spaghetti with meat sauce and a small salad. On Wednesday, because it is Fruit Day, every student will get an extra piece of fruit, either a banana or an orange, along with braised pork rice. Thursday's lunch is fish with rice and stir-fried vegetables, and on Friday we will have a special dumpling lunch to celebrate the end of the month. Please remember that students with food allergies should tell their homeroom teacher by Wednesday this week so the kitchen can prepare a different dish. Enjoy your meals, everyone!",
+    "group_id": "NJL-G16",
+    "stem": "By when should students with food allergies tell their teacher?",
+    "options": [
+      "By Wednesday this week.",
+      "By Friday this week.",
+      "By the end of the month.",
+      "By Monday next week."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說過敏的學生「should tell their homeroom teacher by Wednesday this week」，所以期限是這星期三。其他選項的時間都沒有在廣播中出現。時間題要抓住 by 後面的確切期限。",
+    "vocab": [
+      {
+        "w": "allergy",
+        "zh": "過敏",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0081",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Attention, seventh-grade students. Because of the rain today, PE class will not be held on the outdoor field as usual. Instead, all seventh-grade classes will have PE in the indoor gym on the second floor. Please change into your PE clothes first and then go straight to the gym instead of the field. Class 701 and 702 will use the left side of the gym for badminton, while Class 703 and 704 will use the right side for basic exercises. Please bring your own water bottle, since the water fountain near the gym is being repaired this week. PE teachers will take attendance at the gym door, so please arrive on time. Thank you.",
+    "group_id": "NJL-G17",
+    "stem": "What is this announcement mainly about?",
+    "options": [
+      "An announcement about cancelling PE class for the week.",
+      "An announcement about moving PE class indoors because of rain.",
+      "An announcement about a new PE teacher.",
+      "An announcement about a sports competition."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播一開始就說因為下雨，體育課要改到室內體育館，所以主旨是體育課地點更動。廣播沒有提到整週停課、換新老師或比賽。聽開頭「Because of the rain」就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "indoor",
+        "zh": "室內的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0082",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Attention, seventh-grade students. Because of the rain today, PE class will not be held on the outdoor field as usual. Instead, all seventh-grade classes will have PE in the indoor gym on the second floor. Please change into your PE clothes first and then go straight to the gym instead of the field. Class 701 and 702 will use the left side of the gym for badminton, while Class 703 and 704 will use the right side for basic exercises. Please bring your own water bottle, since the water fountain near the gym is being repaired this week. PE teachers will take attendance at the gym door, so please arrive on time. Thank you.",
+    "group_id": "NJL-G17",
+    "stem": "Where will PE class be held today?",
+    "options": [
+      "On the outdoor field.",
+      "In the classroom.",
+      "In the indoor gym on the second floor.",
+      "In the school auditorium."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說「all seventh-grade classes will have PE in the indoor gym on the second floor」，所以地點是二樓體育館。廣播沒有提到教室或禮堂。細節題要抓住 instead 之後給的新地點。",
+    "vocab": [
+      {
+        "w": "gym",
+        "zh": "體育館",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0083",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Attention, seventh-grade students. Because of the rain today, PE class will not be held on the outdoor field as usual. Instead, all seventh-grade classes will have PE in the indoor gym on the second floor. Please change into your PE clothes first and then go straight to the gym instead of the field. Class 701 and 702 will use the left side of the gym for badminton, while Class 703 and 704 will use the right side for basic exercises. Please bring your own water bottle, since the water fountain near the gym is being repaired this week. PE teachers will take attendance at the gym door, so please arrive on time. Thank you.",
+    "group_id": "NJL-G17",
+    "stem": "What will Class 701 and 702 do?",
+    "options": [
+      "Do basic exercises on the right side.",
+      "Play basketball outdoors.",
+      "Watch a sports video.",
+      "Play badminton on the left side of the gym."
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說「Class 701 and 702 will use the left side of the gym for badminton」，所以是打羽球。右側做基本體操的是703和704班，容易混淆。細節題要把班級和活動內容正確配對。",
+    "vocab": [
+      {
+        "w": "badminton",
+        "zh": "羽毛球",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0084",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Attention, seventh-grade students. Because of the rain today, PE class will not be held on the outdoor field as usual. Instead, all seventh-grade classes will have PE in the indoor gym on the second floor. Please change into your PE clothes first and then go straight to the gym instead of the field. Class 701 and 702 will use the left side of the gym for badminton, while Class 703 and 704 will use the right side for basic exercises. Please bring your own water bottle, since the water fountain near the gym is being repaired this week. PE teachers will take attendance at the gym door, so please arrive on time. Thank you.",
+    "group_id": "NJL-G17",
+    "stem": "Why should students bring their own water bottle?",
+    "options": [
+      "Because the water fountain near the gym is being repaired.",
+      "Because water bottles are being sold at the gym.",
+      "Because the gym has no water fountain at all.",
+      "Because it is a new school rule for every day."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說「the water fountain near the gym is being repaired this week」，可推論是因為飲水機正在維修才要自備水壺。廣播沒有提到販售水壺、完全沒有飲水機或是每天都要自備的新規定。推論題要抓住原因子句。",
+    "vocab": [
+      {
+        "w": "repair",
+        "zh": "維修",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0085",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "Attention, seventh-grade students. Because of the rain today, PE class will not be held on the outdoor field as usual. Instead, all seventh-grade classes will have PE in the indoor gym on the second floor. Please change into your PE clothes first and then go straight to the gym instead of the field. Class 701 and 702 will use the left side of the gym for badminton, while Class 703 and 704 will use the right side for basic exercises. Please bring your own water bottle, since the water fountain near the gym is being repaired this week. PE teachers will take attendance at the gym door, so please arrive on time. Thank you.",
+    "group_id": "NJL-G17",
+    "stem": "Where will teachers take attendance?",
+    "options": [
+      "In the classroom.",
+      "At the gym door.",
+      "On the outdoor field.",
+      "At the school gate."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說「PE teachers will take attendance at the gym door」，所以點名地點在體育館門口。廣播沒有提到教室、操場或校門口。方向指引題要抓住地點名詞的準確位置。",
+    "vocab": [
+      {
+        "w": "attendance",
+        "zh": "出席；點名",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0086",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good evening, residents of Sunshine Community. This is a reminder about the garbage truck schedule for this week. Because of the mid-autumn holiday on Thursday, the garbage truck will not come on that day. Instead, the truck will come on Wednesday evening at the usual time, seven thirty, and again on Friday evening at the same time. Please remember to separate your recyclables from general trash, and put food waste in the yellow bucket only. Large items, like old furniture, must be reported to the community office at least two days before pickup. Please have your trash ready outside your door five minutes before the truck arrives, since the truck will only stop for about three minutes at each collection point. Thank you for keeping our community clean.",
+    "group_id": "NJL-G18",
+    "stem": "What is this announcement mainly about?",
+    "options": [
+      "A reminder about a community festival.",
+      "A warning about illegal dumping.",
+      "A reminder about the community garbage truck schedule this week.",
+      "An announcement about a new recycling law."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播一開始就說是「a reminder about the garbage truck schedule」，所以主旨是垃圾車時間提醒。廣播沒有提到社區節慶、非法棄置警告或新法規。聽開頭句就能抓到主旨。",
+    "vocab": [
+      {
+        "w": "reminder",
+        "zh": "提醒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0087",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good evening, residents of Sunshine Community. This is a reminder about the garbage truck schedule for this week. Because of the mid-autumn holiday on Thursday, the garbage truck will not come on that day. Instead, the truck will come on Wednesday evening at the usual time, seven thirty, and again on Friday evening at the same time. Please remember to separate your recyclables from general trash, and put food waste in the yellow bucket only. Large items, like old furniture, must be reported to the community office at least two days before pickup. Please have your trash ready outside your door five minutes before the truck arrives, since the truck will only stop for about three minutes at each collection point. Thank you for keeping our community clean.",
+    "group_id": "NJL-G18",
+    "stem": "Why won't the truck come on Thursday?",
+    "options": [
+      "Because of bad weather.",
+      "Because the truck broke down.",
+      "Because it is a national cleaning day.",
+      "Because of the mid-autumn holiday."
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說「Because of the mid-autumn holiday on Thursday, the garbage truck will not come」，所以原因是中秋節放假。廣播沒有提到壞天氣、車子故障或清潔日。細節題要抓住 because of 後面的原因。",
+    "vocab": [
+      {
+        "w": "holiday",
+        "zh": "假日",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0088",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good evening, residents of Sunshine Community. This is a reminder about the garbage truck schedule for this week. Because of the mid-autumn holiday on Thursday, the garbage truck will not come on that day. Instead, the truck will come on Wednesday evening at the usual time, seven thirty, and again on Friday evening at the same time. Please remember to separate your recyclables from general trash, and put food waste in the yellow bucket only. Large items, like old furniture, must be reported to the community office at least two days before pickup. Please have your trash ready outside your door five minutes before the truck arrives, since the truck will only stop for about three minutes at each collection point. Thank you for keeping our community clean.",
+    "group_id": "NJL-G18",
+    "stem": "What time does the truck usually arrive?",
+    "options": [
+      "Seven thirty.",
+      "Six thirty.",
+      "Eight o'clock.",
+      "Five thirty."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說垃圾車會在「the usual time, seven thirty」抵達，所以平常是七點半。其他時間都沒有出現在廣播中。時間題要抓住 usual time 後面接的具體時刻。",
+    "vocab": [
+      {
+        "w": "usual",
+        "zh": "平常的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0089",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good evening, residents of Sunshine Community. This is a reminder about the garbage truck schedule for this week. Because of the mid-autumn holiday on Thursday, the garbage truck will not come on that day. Instead, the truck will come on Wednesday evening at the usual time, seven thirty, and again on Friday evening at the same time. Please remember to separate your recyclables from general trash, and put food waste in the yellow bucket only. Large items, like old furniture, must be reported to the community office at least two days before pickup. Please have your trash ready outside your door five minutes before the truck arrives, since the truck will only stop for about three minutes at each collection point. Thank you for keeping our community clean.",
+    "group_id": "NJL-G18",
+    "stem": "Where should food waste be placed?",
+    "options": [
+      "In a plastic bag with general trash.",
+      "In the yellow bucket.",
+      "In the recycling bin.",
+      "Directly on the ground."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說「put food waste in the yellow bucket only」，所以廚餘要放進黃色桶子。廣播沒有說要跟一般垃圾混裝、放進回收桶或直接倒在地上。細節題要抓住 only 強調的正確做法。",
+    "vocab": [
+      {
+        "w": "bucket",
+        "zh": "桶子",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0090",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Good evening, residents of Sunshine Community. This is a reminder about the garbage truck schedule for this week. Because of the mid-autumn holiday on Thursday, the garbage truck will not come on that day. Instead, the truck will come on Wednesday evening at the usual time, seven thirty, and again on Friday evening at the same time. Please remember to separate your recyclables from general trash, and put food waste in the yellow bucket only. Large items, like old furniture, must be reported to the community office at least two days before pickup. Please have your trash ready outside your door five minutes before the truck arrives, since the truck will only stop for about three minutes at each collection point. Thank you for keeping our community clean.",
+    "group_id": "NJL-G18",
+    "stem": "What must residents do before throwing away large furniture?",
+    "options": [
+      "Leave it outside anytime.",
+      "Pay the truck driver directly.",
+      "Report it to the community office at least two days early.",
+      "Take it to the truck themselves."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說大型家具「must be reported to the community office at least two days before pickup」，所以要提前兩天向社區辦公室登記。廣播沒有說可以隨時放外面、直接付錢給司機或自己拿去給垃圾車。細節題要抓住 must 後面的具體規定。",
+    "vocab": [
+      {
+        "w": "furniture",
+        "zh": "家具",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0091",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Excuse me, I'm so sorry to bother you, but could I borrow your phone for a minute? Mine just died.\nB: Sure, no problem. What do you need to do?\nA: I need to call my mom to tell her I'll be a little late picking up my sister from school.\nB: Of course, here you go. Do you know her number by heart?\nA: Yes, I remember it. Thank you so much, I really appreciate it.\nB: No worries at all. Take your time.\nA: (after the call) Okay, all done! Thanks again. Here's your phone back.\nB: You're welcome. Is your sister waiting somewhere safe?\nA: Yes, she's with her teacher at the school office, so it's fine.",
+    "group_id": "NJL-G19",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A student is asking to buy a new phone.",
+      "A student is reporting a lost phone.",
+      "A student is fixing a broken phone.",
+      "A student is borrowing a phone to call a family member."
+    ],
+    "answer": 3,
+    "explain_zh": "對話一開始就是「could I borrow your phone for a minute」，所以主旨是借手機打電話。對話沒有提到買新手機、報失手機或修手機。聽開頭的請求句就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "borrow",
+        "zh": "借用",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0092",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Excuse me, I'm so sorry to bother you, but could I borrow your phone for a minute? Mine just died.\nB: Sure, no problem. What do you need to do?\nA: I need to call my mom to tell her I'll be a little late picking up my sister from school.\nB: Of course, here you go. Do you know her number by heart?\nA: Yes, I remember it. Thank you so much, I really appreciate it.\nB: No worries at all. Take your time.\nA: (after the call) Okay, all done! Thanks again. Here's your phone back.\nB: You're welcome. Is your sister waiting somewhere safe?\nA: Yes, she's with her teacher at the school office, so it's fine.",
+    "group_id": "NJL-G19",
+    "stem": "Why does the student need to borrow a phone?",
+    "options": [
+      "Because her own phone died.",
+      "Because she forgot her phone at home.",
+      "Because her phone was stolen.",
+      "Because she does not own a phone."
+    ],
+    "answer": 0,
+    "explain_zh": "說話者說「Mine just died」，所以是自己的手機沒電了。對話沒有提到忘記帶手機、手機被偷或沒有手機。細節題要抓住借手機的原因句。",
+    "vocab": [
+      {
+        "w": "died",
+        "zh": "（電池）沒電了",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0093",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Excuse me, I'm so sorry to bother you, but could I borrow your phone for a minute? Mine just died.\nB: Sure, no problem. What do you need to do?\nA: I need to call my mom to tell her I'll be a little late picking up my sister from school.\nB: Of course, here you go. Do you know her number by heart?\nA: Yes, I remember it. Thank you so much, I really appreciate it.\nB: No worries at all. Take your time.\nA: (after the call) Okay, all done! Thanks again. Here's your phone back.\nB: You're welcome. Is your sister waiting somewhere safe?\nA: Yes, she's with her teacher at the school office, so it's fine.",
+    "group_id": "NJL-G19",
+    "stem": "Who does the student need to call?",
+    "options": [
+      "Her teacher.",
+      "Her mom.",
+      "Her sister.",
+      "Her friend."
+    ],
+    "answer": 1,
+    "explain_zh": "說話者說「I need to call my mom」，所以要打給媽媽。對話沒有提到打給老師、妹妹或朋友。細節題要抓住 call 後面的受詞。",
+    "vocab": [
+      {
+        "w": "call",
+        "zh": "打電話給",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0094",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Excuse me, I'm so sorry to bother you, but could I borrow your phone for a minute? Mine just died.\nB: Sure, no problem. What do you need to do?\nA: I need to call my mom to tell her I'll be a little late picking up my sister from school.\nB: Of course, here you go. Do you know her number by heart?\nA: Yes, I remember it. Thank you so much, I really appreciate it.\nB: No worries at all. Take your time.\nA: (after the call) Okay, all done! Thanks again. Here's your phone back.\nB: You're welcome. Is your sister waiting somewhere safe?\nA: Yes, she's with her teacher at the school office, so it's fine.",
+    "group_id": "NJL-G19",
+    "stem": "Why does the student need to make the call?",
+    "options": [
+      "To ask for money.",
+      "To cancel a doctor's appointment.",
+      "To say she'll be a little late picking up her sister.",
+      "To tell her mom she is sick."
+    ],
+    "answer": 2,
+    "explain_zh": "說話者說要打電話「to tell her I'll be a little late picking up my sister from school」，所以目的是告知會晚點接妹妹。對話沒有提到要錢、取消看醫生或說自己生病。推論題要抓住電話目的的完整句子。",
+    "vocab": [
+      {
+        "w": "pick up",
+        "zh": "接（人）",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0095",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Excuse me, I'm so sorry to bother you, but could I borrow your phone for a minute? Mine just died.\nB: Sure, no problem. What do you need to do?\nA: I need to call my mom to tell her I'll be a little late picking up my sister from school.\nB: Of course, here you go. Do you know her number by heart?\nA: Yes, I remember it. Thank you so much, I really appreciate it.\nB: No worries at all. Take your time.\nA: (after the call) Okay, all done! Thanks again. Here's your phone back.\nB: You're welcome. Is your sister waiting somewhere safe?\nA: Yes, she's with her teacher at the school office, so it's fine.",
+    "group_id": "NJL-G19",
+    "stem": "Where is the student's sister while waiting?",
+    "options": [
+      "Alone at the bus stop.",
+      "At home by herself.",
+      "Walking to the pickup point alone.",
+      "At the school office with her teacher."
+    ],
+    "answer": 3,
+    "explain_zh": "對話最後說妹妹「she's with her teacher at the school office」，所以妹妹在學校辦公室很安全。對話沒有提到獨自在公車站、在家或自己走路。推論題要抓住最後確認安全的那句話。",
+    "vocab": [
+      {
+        "w": "office",
+        "zh": "辦公室",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0096",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Excuse me, do you know how to get to the stinky tofu stand from here? I heard it's very famous.\nB: Oh yes, it's really popular! Walk straight down this street until you pass the shoe store, then turn left at the toy stand.\nA: Turn left at the toy stand, got it. Is it far after that?\nB: Not far at all. After you turn, walk past about three stands, and you'll see a long line of people — that's the stinky tofu stand, you can't miss it.\nA: Great, thank you! Do you know if they also sell drinks nearby?\nB: Yes, right across from the tofu stand there's a stall selling fresh fruit juice. Perfect for a hot night like this.\nA: Perfect, thanks again for your help!\nB: No problem, enjoy the night market!",
+    "group_id": "NJL-G20",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A visitor is asking for directions to a food stand at the night market.",
+      "A visitor is asking about ticket prices for an event.",
+      "A visitor is complaining about long lines.",
+      "A vendor is advertising his stinky tofu stand."
+    ],
+    "answer": 0,
+    "explain_zh": "對話一開始就問「how to get to the stinky tofu stand」，所以主旨是問路到夜市攤位。對話沒有提到票價、抱怨排隊或攤販自我宣傳。聽開頭的問句就能判斷情境。",
+    "vocab": [
+      {
+        "w": "stand",
+        "zh": "攤位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0097",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "A: Excuse me, do you know how to get to the stinky tofu stand from here? I heard it's very famous.\nB: Oh yes, it's really popular! Walk straight down this street until you pass the shoe store, then turn left at the toy stand.\nA: Turn left at the toy stand, got it. Is it far after that?\nB: Not far at all. After you turn, walk past about three stands, and you'll see a long line of people — that's the stinky tofu stand, you can't miss it.\nA: Great, thank you! Do you know if they also sell drinks nearby?\nB: Yes, right across from the tofu stand there's a stall selling fresh fruit juice. Perfect for a hot night like this.\nA: Perfect, thanks again for your help!\nB: No problem, enjoy the night market!",
+    "group_id": "NJL-G20",
+    "stem": "Where should the visitor turn left?",
+    "options": [
+      "At the shoe store.",
+      "At the toy stand.",
+      "At the fruit juice stall.",
+      "At the entrance of the night market."
+    ],
+    "answer": 1,
+    "explain_zh": "對方說「turn left at the toy stand」，所以要在玩具攤左轉。鞋店只是路過的地標，不是轉彎點，容易混淆。方向指引題要抓住 turn 後面對應的地標。",
+    "vocab": [
+      {
+        "w": "turn",
+        "zh": "轉彎",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0098",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Excuse me, do you know how to get to the stinky tofu stand from here? I heard it's very famous.\nB: Oh yes, it's really popular! Walk straight down this street until you pass the shoe store, then turn left at the toy stand.\nA: Turn left at the toy stand, got it. Is it far after that?\nB: Not far at all. After you turn, walk past about three stands, and you'll see a long line of people — that's the stinky tofu stand, you can't miss it.\nA: Great, thank you! Do you know if they also sell drinks nearby?\nB: Yes, right across from the tofu stand there's a stall selling fresh fruit juice. Perfect for a hot night like this.\nA: Perfect, thanks again for your help!\nB: No problem, enjoy the night market!",
+    "group_id": "NJL-G20",
+    "stem": "How will the visitor know they found the stand?",
+    "options": [
+      "By seeing a big red sign.",
+      "By smelling only fried food.",
+      "By seeing a long line of people.",
+      "By hearing loud music."
+    ],
+    "answer": 2,
+    "explain_zh": "對方說「you'll see a long line of people — that's the stinky tofu stand」，所以是看到排隊人潮就知道到了。對話沒有提到紅色招牌、只有炸物味道或音樂聲。細節題要抓住辨認地點的關鍵描述。",
+    "vocab": [
+      {
+        "w": "line",
+        "zh": "排隊人龍",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0099",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Excuse me, do you know how to get to the stinky tofu stand from here? I heard it's very famous.\nB: Oh yes, it's really popular! Walk straight down this street until you pass the shoe store, then turn left at the toy stand.\nA: Turn left at the toy stand, got it. Is it far after that?\nB: Not far at all. After you turn, walk past about three stands, and you'll see a long line of people — that's the stinky tofu stand, you can't miss it.\nA: Great, thank you! Do you know if they also sell drinks nearby?\nB: Yes, right across from the tofu stand there's a stall selling fresh fruit juice. Perfect for a hot night like this.\nA: Perfect, thanks again for your help!\nB: No problem, enjoy the night market!",
+    "group_id": "NJL-G20",
+    "stem": "What is located across from the tofu stand?",
+    "options": [
+      "A toy stand.",
+      "A shoe store.",
+      "Another tofu stand.",
+      "A stall selling fresh fruit juice."
+    ],
+    "answer": 3,
+    "explain_zh": "對方說「right across from the tofu stand there's a stall selling fresh fruit juice」，所以對面是果汁攤。玩具攤和鞋店是路線上的地標，不是對面的攤位。細節題要抓住 across from 後面的內容。",
+    "vocab": [
+      {
+        "w": "across",
+        "zh": "在對面",
+        "pos": "prep."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0100",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Excuse me, do you know how to get to the stinky tofu stand from here? I heard it's very famous.\nB: Oh yes, it's really popular! Walk straight down this street until you pass the shoe store, then turn left at the toy stand.\nA: Turn left at the toy stand, got it. Is it far after that?\nB: Not far at all. After you turn, walk past about three stands, and you'll see a long line of people — that's the stinky tofu stand, you can't miss it.\nA: Great, thank you! Do you know if they also sell drinks nearby?\nB: Yes, right across from the tofu stand there's a stall selling fresh fruit juice. Perfect for a hot night like this.\nA: Perfect, thanks again for your help!\nB: No problem, enjoy the night market!",
+    "group_id": "NJL-G20",
+    "stem": "Why does the second speaker mention the juice stall?",
+    "options": [
+      "Because it's a good drink for a hot night, near the tofu stand.",
+      "Because the juice stall is having a sale.",
+      "Because the visitor asked to buy shoes.",
+      "Because the tofu stand is closed."
+    ],
+    "answer": 0,
+    "explain_zh": "對方補充說果汁「Perfect for a hot night like this」，可推論是順便推薦適合天熱時喝的飲料。對話沒有提到促銷、買鞋或臭豆腐攤已關門。推論題要留意附加說明句透露的用意。",
+    "vocab": [
+      {
+        "w": "juice",
+        "zh": "果汁",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0101",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'd like to send this box to Taichung. How much will it cost?\nB: Let's see... it weighs about two kilograms, so regular delivery will be ninety dollars, and it takes about two days.\nA: Is there a faster option? My sister needs it before her birthday tomorrow.\nB: Yes, we have express delivery for one hundred and eighty dollars, and it will arrive by tomorrow morning.\nA: I'll choose the express delivery then. Do I need to fill out a form?\nB: Yes, please write the receiver's name, address, and phone number on this form.\nA: Done. Can I also buy some stamps while I'm here?\nB: Sure, how many would you like?",
+    "group_id": "NJL-G21",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A customer is picking up a lost package.",
+      "A customer is sending a package and choosing a delivery speed.",
+      "A worker is weighing empty boxes for fun.",
+      "A customer is complaining about a late delivery."
+    ],
+    "answer": 1,
+    "explain_zh": "對話一開始就是「I'd like to send this box」，接著在討論寄送速度，所以主旨是寄包裹並選擇配送方式。對話沒有提到領取遺失包裹、單純秤空箱子或抱怨延遲。聽開頭的請求句就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "package",
+        "zh": "包裹",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0102",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to send this box to Taichung. How much will it cost?\nB: Let's see... it weighs about two kilograms, so regular delivery will be ninety dollars, and it takes about two days.\nA: Is there a faster option? My sister needs it before her birthday tomorrow.\nB: Yes, we have express delivery for one hundred and eighty dollars, and it will arrive by tomorrow morning.\nA: I'll choose the express delivery then. Do I need to fill out a form?\nB: Yes, please write the receiver's name, address, and phone number on this form.\nA: Done. Can I also buy some stamps while I'm here?\nB: Sure, how many would you like?",
+    "group_id": "NJL-G21",
+    "stem": "How much does regular delivery cost?",
+    "options": [
+      "One hundred and eighty dollars.",
+      "Nine dollars.",
+      "Ninety dollars.",
+      "Eighteen dollars."
+    ],
+    "answer": 2,
+    "explain_zh": "店員說「regular delivery will be ninety dollars」，所以一般配送是九十元。一百八十元是快遞的價格，容易混淆。數字題要分清楚一般配送和快遞的金額。",
+    "vocab": [
+      {
+        "w": "regular",
+        "zh": "一般的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0103",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to send this box to Taichung. How much will it cost?\nB: Let's see... it weighs about two kilograms, so regular delivery will be ninety dollars, and it takes about two days.\nA: Is there a faster option? My sister needs it before her birthday tomorrow.\nB: Yes, we have express delivery for one hundred and eighty dollars, and it will arrive by tomorrow morning.\nA: I'll choose the express delivery then. Do I need to fill out a form?\nB: Yes, please write the receiver's name, address, and phone number on this form.\nA: Done. Can I also buy some stamps while I'm here?\nB: Sure, how many would you like?",
+    "group_id": "NJL-G21",
+    "stem": "How long does express delivery take?",
+    "options": [
+      "It takes about two days.",
+      "It takes about a week.",
+      "It arrives the same afternoon.",
+      "It arrives by the next morning."
+    ],
+    "answer": 3,
+    "explain_zh": "店員說快遞「will arrive by tomorrow morning」，所以隔天早上就能送到。兩天是一般配送需要的時間，容易搞混。時間題要分清楚兩種配送方式各自的送達時間。",
+    "vocab": [
+      {
+        "w": "express",
+        "zh": "快遞",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0104",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hi, I'd like to send this box to Taichung. How much will it cost?\nB: Let's see... it weighs about two kilograms, so regular delivery will be ninety dollars, and it takes about two days.\nA: Is there a faster option? My sister needs it before her birthday tomorrow.\nB: Yes, we have express delivery for one hundred and eighty dollars, and it will arrive by tomorrow morning.\nA: I'll choose the express delivery then. Do I need to fill out a form?\nB: Yes, please write the receiver's name, address, and phone number on this form.\nA: Done. Can I also buy some stamps while I'm here?\nB: Sure, how many would you like?",
+    "group_id": "NJL-G21",
+    "stem": "Why does the customer choose express delivery?",
+    "options": [
+      "Because her sister needs it before her birthday tomorrow.",
+      "Because express delivery is cheaper.",
+      "Because regular delivery is out of service.",
+      "Because the box is too heavy for regular delivery."
+    ],
+    "answer": 0,
+    "explain_zh": "顧客說「My sister needs it before her birthday tomorrow」，可推論是為了趕上妹妹生日才選快遞。對話沒有提到快遞比較便宜、一般配送停用或箱子太重。推論題要抓住選擇背後的原因句。",
+    "vocab": [
+      {
+        "w": "birthday",
+        "zh": "生日",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0105",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, I'd like to send this box to Taichung. How much will it cost?\nB: Let's see... it weighs about two kilograms, so regular delivery will be ninety dollars, and it takes about two days.\nA: Is there a faster option? My sister needs it before her birthday tomorrow.\nB: Yes, we have express delivery for one hundred and eighty dollars, and it will arrive by tomorrow morning.\nA: I'll choose the express delivery then. Do I need to fill out a form?\nB: Yes, please write the receiver's name, address, and phone number on this form.\nA: Done. Can I also buy some stamps while I'm here?\nB: Sure, how many would you like?",
+    "group_id": "NJL-G21",
+    "stem": "What information does the customer write on the form?",
+    "options": [
+      "Only the receiver's name.",
+      "The receiver's name, address, and phone number.",
+      "Her own home address only.",
+      "The price of the item inside."
+    ],
+    "answer": 1,
+    "explain_zh": "店員說要在表格上寫「the receiver's name, address, and phone number」，所以要填收件人的姓名、地址和電話。對話沒有提到只填姓名、自己的地址或物品價格。細節題要抓住表格要填的完整內容。",
+    "vocab": [
+      {
+        "w": "receiver",
+        "zh": "收件人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0106",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'd like to make an appointment for a haircut this weekend.\nB: Sure. We have an opening on Saturday at two p.m. with Stylist Amy, or Sunday at eleven a.m. with Stylist Ben.\nA: I'll take Saturday at two, please. Can I also get my hair dyed that day?\nB: Of course, but dyeing usually takes an extra hour, so the whole visit would take about two and a half hours instead of one.\nA: That's fine, I have time. How much would the haircut and dye cost together?\nB: The haircut is four hundred dollars, and dyeing starts at one thousand two hundred dollars, depending on the color you choose.\nA: OK, I'll decide the color when I get there. Should I arrive early?\nB: Please arrive ten minutes early so we can wash your hair first.",
+    "group_id": "NJL-G22",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A customer is complaining about a bad haircut.",
+      "A stylist is training a new employee.",
+      "A customer is booking a haircut and hair dye appointment.",
+      "A customer is buying hair products."
+    ],
+    "answer": 2,
+    "explain_zh": "對話從預約剪髮開始，接著又加訂染髮，所以主旨是預約剪染髮服務。對話沒有提到抱怨剪壞、訓練新員工或買美髮產品。聽開頭「make an appointment for a haircut」就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "appointment",
+        "zh": "預約",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0107",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to make an appointment for a haircut this weekend.\nB: Sure. We have an opening on Saturday at two p.m. with Stylist Amy, or Sunday at eleven a.m. with Stylist Ben.\nA: I'll take Saturday at two, please. Can I also get my hair dyed that day?\nB: Of course, but dyeing usually takes an extra hour, so the whole visit would take about two and a half hours instead of one.\nA: That's fine, I have time. How much would the haircut and dye cost together?\nB: The haircut is four hundred dollars, and dyeing starts at one thousand two hundred dollars, depending on the color you choose.\nA: OK, I'll decide the color when I get there. Should I arrive early?\nB: Please arrive ten minutes early so we can wash your hair first.",
+    "group_id": "NJL-G22",
+    "stem": "What time is the appointment on Saturday?",
+    "options": [
+      "Eleven a.m.",
+      "Two a.m.",
+      "Twelve p.m.",
+      "Two p.m."
+    ],
+    "answer": 3,
+    "explain_zh": "店員說星期六「at two p.m. with Stylist Amy」，所以是下午兩點。十一點是星期日的時段，容易混淆。時間題要把星期幾和對應時段配對清楚。",
+    "vocab": [
+      {
+        "w": "stylist",
+        "zh": "美髮師",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0108",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to make an appointment for a haircut this weekend.\nB: Sure. We have an opening on Saturday at two p.m. with Stylist Amy, or Sunday at eleven a.m. with Stylist Ben.\nA: I'll take Saturday at two, please. Can I also get my hair dyed that day?\nB: Of course, but dyeing usually takes an extra hour, so the whole visit would take about two and a half hours instead of one.\nA: That's fine, I have time. How much would the haircut and dye cost together?\nB: The haircut is four hundred dollars, and dyeing starts at one thousand two hundred dollars, depending on the color you choose.\nA: OK, I'll decide the color when I get there. Should I arrive early?\nB: Please arrive ten minutes early so we can wash your hair first.",
+    "group_id": "NJL-G22",
+    "stem": "About how long will the full visit take with dyeing?",
+    "options": [
+      "About two and a half hours.",
+      "About one hour.",
+      "About thirty minutes.",
+      "About four hours."
+    ],
+    "answer": 0,
+    "explain_zh": "店員說染髮會讓整個過程變成「about two and a half hours instead of one」，所以答案是兩個半小時。一小時是只剪髮的時間，容易混淆。時間題要分清楚有無染髮兩種情況的時間差異。",
+    "vocab": [
+      {
+        "w": "dye",
+        "zh": "染（髮）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0109",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to make an appointment for a haircut this weekend.\nB: Sure. We have an opening on Saturday at two p.m. with Stylist Amy, or Sunday at eleven a.m. with Stylist Ben.\nA: I'll take Saturday at two, please. Can I also get my hair dyed that day?\nB: Of course, but dyeing usually takes an extra hour, so the whole visit would take about two and a half hours instead of one.\nA: That's fine, I have time. How much would the haircut and dye cost together?\nB: The haircut is four hundred dollars, and dyeing starts at one thousand two hundred dollars, depending on the color you choose.\nA: OK, I'll decide the color when I get there. Should I arrive early?\nB: Please arrive ten minutes early so we can wash your hair first.",
+    "group_id": "NJL-G22",
+    "stem": "How much does the haircut alone cost?",
+    "options": [
+      "One thousand two hundred dollars.",
+      "Four hundred dollars.",
+      "Two hundred dollars.",
+      "Forty dollars."
+    ],
+    "answer": 1,
+    "explain_zh": "店員說「The haircut is four hundred dollars」，所以剪髮單獨是四百元。一千兩百元是染髮的起價，容易混淆。數字題要分清楚剪髮和染髮各自的價格。",
+    "vocab": [
+      {
+        "w": "haircut",
+        "zh": "剪髮",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0110",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, I'd like to make an appointment for a haircut this weekend.\nB: Sure. We have an opening on Saturday at two p.m. with Stylist Amy, or Sunday at eleven a.m. with Stylist Ben.\nA: I'll take Saturday at two, please. Can I also get my hair dyed that day?\nB: Of course, but dyeing usually takes an extra hour, so the whole visit would take about two and a half hours instead of one.\nA: That's fine, I have time. How much would the haircut and dye cost together?\nB: The haircut is four hundred dollars, and dyeing starts at one thousand two hundred dollars, depending on the color you choose.\nA: OK, I'll decide the color when I get there. Should I arrive early?\nB: Please arrive ten minutes early so we can wash your hair first.",
+    "group_id": "NJL-G22",
+    "stem": "Why should the customer arrive ten minutes early?",
+    "options": [
+      "So she can choose a new stylist.",
+      "So she can pay in advance.",
+      "So her hair can be washed first.",
+      "So she can see other customers' hairstyles."
+    ],
+    "answer": 2,
+    "explain_zh": "店員說「Please arrive ten minutes early so we can wash your hair first」，所以是為了先洗頭。對話沒有提到換設計師、先付款或看別人的髮型。細節題要抓住 so 後面的目的句。",
+    "vocab": [
+      {
+        "w": "wash",
+        "zh": "清洗",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0111",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "OK everyone, quiet down for a second. We need to decide where to go for our class trip next month, so let's vote now. There are three choices: the amusement park, the beach, and the mountain hiking trail. If you want the amusement park, raise your hand now... okay, that's twelve hands. Now for the beach... that's eight hands. And finally, the mountain hiking trail... that's five hands. So the amusement park wins with the most votes! I'll tell our homeroom teacher the result after class. Remember, the trip will be on the fifteenth of next month, and everyone needs to bring their permission form signed by a parent by this Friday.",
+    "group_id": "NJL-G23",
+    "stem": "What is this talk mainly about?",
+    "options": [
+      "The class is voting for a new class leader.",
+      "The class is discussing a change in homework.",
+      "The class is planning a birthday celebration.",
+      "The class is voting on where to go for their class trip."
+    ],
+    "answer": 3,
+    "explain_zh": "說話者一開始就說要投票決定校外教學要去哪裡，所以主旨是班級旅遊地點投票。談話沒有提到選幹部、討論作業或慶生。聽開頭「decide where to go for our class trip」就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "vote",
+        "zh": "投票",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0112",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "OK everyone, quiet down for a second. We need to decide where to go for our class trip next month, so let's vote now. There are three choices: the amusement park, the beach, and the mountain hiking trail. If you want the amusement park, raise your hand now... okay, that's twelve hands. Now for the beach... that's eight hands. And finally, the mountain hiking trail... that's five hands. So the amusement park wins with the most votes! I'll tell our homeroom teacher the result after class. Remember, the trip will be on the fifteenth of next month, and everyone needs to bring their permission form signed by a parent by this Friday.",
+    "group_id": "NJL-G23",
+    "stem": "Which place gets the most votes?",
+    "options": [
+      "The amusement park.",
+      "The beach.",
+      "The mountain hiking trail.",
+      "No place gets enough votes."
+    ],
+    "answer": 0,
+    "explain_zh": "說話者最後說「the amusement park wins with the most votes」，所以遊樂園票數最高。海邊和登山步道的票數都比較少。細節題要把每個選項的票數比較清楚。",
+    "vocab": [
+      {
+        "w": "amusement park",
+        "zh": "遊樂園",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0113",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "OK everyone, quiet down for a second. We need to decide where to go for our class trip next month, so let's vote now. There are three choices: the amusement park, the beach, and the mountain hiking trail. If you want the amusement park, raise your hand now... okay, that's twelve hands. Now for the beach... that's eight hands. And finally, the mountain hiking trail... that's five hands. So the amusement park wins with the most votes! I'll tell our homeroom teacher the result after class. Remember, the trip will be on the fifteenth of next month, and everyone needs to bring their permission form signed by a parent by this Friday.",
+    "group_id": "NJL-G23",
+    "stem": "How many students vote for the beach?",
+    "options": [
+      "Twelve.",
+      "Eight.",
+      "Five.",
+      "Twenty."
+    ],
+    "answer": 1,
+    "explain_zh": "說話者說海邊「that's eight hands」，所以是八票。十二票是遊樂園、五票是登山步道，容易混淆。數字題要把每個選項對應的票數分開記住。",
+    "vocab": [
+      {
+        "w": "beach",
+        "zh": "海灘",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0114",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "OK everyone, quiet down for a second. We need to decide where to go for our class trip next month, so let's vote now. There are three choices: the amusement park, the beach, and the mountain hiking trail. If you want the amusement park, raise your hand now... okay, that's twelve hands. Now for the beach... that's eight hands. And finally, the mountain hiking trail... that's five hands. So the amusement park wins with the most votes! I'll tell our homeroom teacher the result after class. Remember, the trip will be on the fifteenth of next month, and everyone needs to bring their permission form signed by a parent by this Friday.",
+    "group_id": "NJL-G23",
+    "stem": "When is the class trip?",
+    "options": [
+      "The fifth of this month.",
+      "Next Friday.",
+      "The fifteenth of next month.",
+      "The end of this month."
+    ],
+    "answer": 2,
+    "explain_zh": "說話者說「the trip will be on the fifteenth of next month」，所以是下個月十五日。其他選項的時間都沒有出現在談話中。時間題要聽清楚日期和月份的搭配。",
+    "vocab": [
+      {
+        "w": "trip",
+        "zh": "旅行",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0115",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "OK everyone, quiet down for a second. We need to decide where to go for our class trip next month, so let's vote now. There are three choices: the amusement park, the beach, and the mountain hiking trail. If you want the amusement park, raise your hand now... okay, that's twelve hands. Now for the beach... that's eight hands. And finally, the mountain hiking trail... that's five hands. So the amusement park wins with the most votes! I'll tell our homeroom teacher the result after class. Remember, the trip will be on the fifteenth of next month, and everyone needs to bring their permission form signed by a parent by this Friday.",
+    "group_id": "NJL-G23",
+    "stem": "By when should students return the signed permission form?",
+    "options": [
+      "By next Monday.",
+      "On the day of the trip.",
+      "By the end of the month.",
+      "By this Friday."
+    ],
+    "answer": 3,
+    "explain_zh": "說話者說表格要「signed by a parent by this Friday」交回，所以期限是這星期五。其他選項的時間都沒有在談話中出現。時間題要抓住 by 後面的確切期限。",
+    "vocab": [
+      {
+        "w": "permission",
+        "zh": "許可",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0116",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Attention, students. This is a message from the school office about lost and found items. A black backpack with a name tag that says \"Class 802\" was found near the basketball court this morning. Also, a pair of glasses in a red case was found in the school cafeteria during lunch. If these items belong to you, please come to the office before four thirty this afternoon to collect them. After four thirty, all unclaimed items will be kept in a box outside the office door for one more week. If no one claims them after that, the items will be given to charity. Please remember to write your name on your belongings to avoid losing them in the future.",
+    "group_id": "NJL-G24",
+    "stem": "What is this announcement mainly about?",
+    "options": [
+      "An announcement about items found around the school.",
+      "An announcement about missing students.",
+      "A warning about theft at school.",
+      "An announcement about a new backpack sale."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播一開始就說是關於「lost and found items」，所以主旨是失物招領。廣播沒有提到學生失蹤、竊盜警告或背包特賣。聽開頭句就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "lost and found",
+        "zh": "失物招領",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0117",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Attention, students. This is a message from the school office about lost and found items. A black backpack with a name tag that says \"Class 802\" was found near the basketball court this morning. Also, a pair of glasses in a red case was found in the school cafeteria during lunch. If these items belong to you, please come to the office before four thirty this afternoon to collect them. After four thirty, all unclaimed items will be kept in a box outside the office door for one more week. If no one claims them after that, the items will be given to charity. Please remember to write your name on your belongings to avoid losing them in the future.",
+    "group_id": "NJL-G24",
+    "stem": "Where was the black backpack found?",
+    "options": [
+      "In the cafeteria.",
+      "Near the basketball court.",
+      "In the classroom.",
+      "Near the school gate."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說背包「was found near the basketball court this morning」，所以地點是籃球場附近。餐廳是眼鏡被找到的地方，容易混淆。細節題要把物品和發現地點正確配對。",
+    "vocab": [
+      {
+        "w": "backpack",
+        "zh": "背包",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0118",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "Attention, students. This is a message from the school office about lost and found items. A black backpack with a name tag that says \"Class 802\" was found near the basketball court this morning. Also, a pair of glasses in a red case was found in the school cafeteria during lunch. If these items belong to you, please come to the office before four thirty this afternoon to collect them. After four thirty, all unclaimed items will be kept in a box outside the office door for one more week. If no one claims them after that, the items will be given to charity. Please remember to write your name on your belongings to avoid losing them in the future.",
+    "group_id": "NJL-G24",
+    "stem": "Where were the glasses found?",
+    "options": [
+      "Near the basketball court.",
+      "In the library.",
+      "In the school cafeteria.",
+      "On the school bus."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說眼鏡「was found in the school cafeteria during lunch」，所以地點是餐廳。籃球場是背包被找到的地方，容易混淆。細節題要仔細分辨兩樣物品各自的地點。",
+    "vocab": [
+      {
+        "w": "glasses",
+        "zh": "眼鏡",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0119",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Attention, students. This is a message from the school office about lost and found items. A black backpack with a name tag that says \"Class 802\" was found near the basketball court this morning. Also, a pair of glasses in a red case was found in the school cafeteria during lunch. If these items belong to you, please come to the office before four thirty this afternoon to collect them. After four thirty, all unclaimed items will be kept in a box outside the office door for one more week. If no one claims them after that, the items will be given to charity. Please remember to write your name on your belongings to avoid losing them in the future.",
+    "group_id": "NJL-G24",
+    "stem": "By when should students come to claim their items today?",
+    "options": [
+      "Before noon today.",
+      "Before eight tomorrow morning.",
+      "By the end of the week.",
+      "Before four thirty this afternoon."
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說「please come to the office before four thirty this afternoon」，所以今天要在下午四點半前領取。其他時間都沒有在廣播中出現。時間題要抓住 before 後面的確切時刻。",
+    "vocab": [
+      {
+        "w": "collect",
+        "zh": "領取",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0120",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Attention, students. This is a message from the school office about lost and found items. A black backpack with a name tag that says \"Class 802\" was found near the basketball court this morning. Also, a pair of glasses in a red case was found in the school cafeteria during lunch. If these items belong to you, please come to the office before four thirty this afternoon to collect them. After four thirty, all unclaimed items will be kept in a box outside the office door for one more week. If no one claims them after that, the items will be given to charity. Please remember to write your name on your belongings to avoid losing them in the future.",
+    "group_id": "NJL-G24",
+    "stem": "What will happen to items no one claims after one more week?",
+    "options": [
+      "They will be given to charity.",
+      "They will be thrown away immediately.",
+      "They will be sold to other students.",
+      "They will be kept forever in the office."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說「If no one claims them after that, the items will be given to charity」，所以最後會捐給慈善機構。廣播沒有提到直接丟掉、賣給學生或永遠留在辦公室。推論題要抓住 if...then 的條件句結果。",
+    "vocab": [
+      {
+        "w": "charity",
+        "zh": "慈善機構",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0121",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, I'd like to buy tickets for the school music concert next Friday.\nB: Sure! Tickets are one hundred dollars for students and one hundred and fifty dollars for adults. How many would you like?\nA: I need two student tickets and one adult ticket for my mom.\nB: OK, that comes to three hundred and fifty dollars in total. Would you like seats near the front or the back?\nA: Near the front, if possible, since my mom wants to take good photos.\nB: I have three seats together in row C, is that all right?\nA: Perfect. What time does the concert start?\nB: The doors open at six thirty, and the concert starts at seven o'clock sharp.",
+    "group_id": "NJL-G25",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A customer is joining the school choir.",
+      "A customer is buying tickets for a school music concert.",
+      "A parent is asking to volunteer at a concert.",
+      "A student is returning tickets for a refund."
+    ],
+    "answer": 1,
+    "explain_zh": "對話一開始就是「I'd like to buy tickets for the school music concert」，所以主旨是購買音樂會門票。對話沒有提到加入合唱團、當志工或退票。聽開頭的請求句就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "concert",
+        "zh": "音樂會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0122",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to buy tickets for the school music concert next Friday.\nB: Sure! Tickets are one hundred dollars for students and one hundred and fifty dollars for adults. How many would you like?\nA: I need two student tickets and one adult ticket for my mom.\nB: OK, that comes to three hundred and fifty dollars in total. Would you like seats near the front or the back?\nA: Near the front, if possible, since my mom wants to take good photos.\nB: I have three seats together in row C, is that all right?\nA: Perfect. What time does the concert start?\nB: The doors open at six thirty, and the concert starts at seven o'clock sharp.",
+    "group_id": "NJL-G25",
+    "stem": "How much is one student ticket?",
+    "options": [
+      "One hundred and fifty dollars.",
+      "Three hundred and fifty dollars.",
+      "One hundred dollars.",
+      "Fifty dollars."
+    ],
+    "answer": 2,
+    "explain_zh": "店員說「Tickets are one hundred dollars for students」，所以學生票一張一百元。一百五十元是成人票的價格，容易混淆。數字題要分清楚學生票和成人票各自的金額。",
+    "vocab": [
+      {
+        "w": "student",
+        "zh": "學生",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0123",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to buy tickets for the school music concert next Friday.\nB: Sure! Tickets are one hundred dollars for students and one hundred and fifty dollars for adults. How many would you like?\nA: I need two student tickets and one adult ticket for my mom.\nB: OK, that comes to three hundred and fifty dollars in total. Would you like seats near the front or the back?\nA: Near the front, if possible, since my mom wants to take good photos.\nB: I have three seats together in row C, is that all right?\nA: Perfect. What time does the concert start?\nB: The doors open at six thirty, and the concert starts at seven o'clock sharp.",
+    "group_id": "NJL-G25",
+    "stem": "What is the total price for all the tickets?",
+    "options": [
+      "Two hundred and fifty dollars.",
+      "Three hundred dollars.",
+      "Four hundred dollars.",
+      "Three hundred and fifty dollars."
+    ],
+    "answer": 3,
+    "explain_zh": "店員說「that comes to three hundred and fifty dollars in total」，所以總價是三百五十元（兩張學生票加一張成人票）。其他選項是計算錯誤的常見金額。數字題要把每張票的價格加總。",
+    "vocab": [
+      {
+        "w": "total",
+        "zh": "總計",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0124",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Hi, I'd like to buy tickets for the school music concert next Friday.\nB: Sure! Tickets are one hundred dollars for students and one hundred and fifty dollars for adults. How many would you like?\nA: I need two student tickets and one adult ticket for my mom.\nB: OK, that comes to three hundred and fifty dollars in total. Would you like seats near the front or the back?\nA: Near the front, if possible, since my mom wants to take good photos.\nB: I have three seats together in row C, is that all right?\nA: Perfect. What time does the concert start?\nB: The doors open at six thirty, and the concert starts at seven o'clock sharp.",
+    "group_id": "NJL-G25",
+    "stem": "Why does the customer want seats near the front?",
+    "options": [
+      "So her mom can take good photos.",
+      "Because the back seats are sold out.",
+      "Because front seats are cheaper.",
+      "Because her mom cannot walk far."
+    ],
+    "answer": 0,
+    "explain_zh": "顧客說要靠前的位子是「since my mom wants to take good photos」，所以原因是媽媽想拍好照片。對話沒有提到後排賣完、前排比較便宜或媽媽走不遠。推論題要抓住 since 後面的原因子句。",
+    "vocab": [
+      {
+        "w": "photo",
+        "zh": "照片",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0125",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to buy tickets for the school music concert next Friday.\nB: Sure! Tickets are one hundred dollars for students and one hundred and fifty dollars for adults. How many would you like?\nA: I need two student tickets and one adult ticket for my mom.\nB: OK, that comes to three hundred and fifty dollars in total. Would you like seats near the front or the back?\nA: Near the front, if possible, since my mom wants to take good photos.\nB: I have three seats together in row C, is that all right?\nA: Perfect. What time does the concert start?\nB: The doors open at six thirty, and the concert starts at seven o'clock sharp.",
+    "group_id": "NJL-G25",
+    "stem": "What time does the concert start?",
+    "options": [
+      "Six thirty.",
+      "Seven o'clock.",
+      "Seven thirty.",
+      "Six o'clock."
+    ],
+    "answer": 1,
+    "explain_zh": "店員說「the concert starts at seven o'clock sharp」，所以七點準時開始。六點半是開放進場的時間，容易和開始時間搞混。時間題要區分「開門」和「開始」兩個時間點。",
+    "vocab": [
+      {
+        "w": "sharp",
+        "zh": "整（用於報時）",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0126",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Good morning, everyone, and welcome to this year's school sports day! Before we begin, please note a few changes to the schedule. The one hundred meter race, originally planned for nine o'clock, will now start at nine thirty because of the opening ceremony running a little long. The tug of war between classes will happen right after that on the main field. Please note that the long jump event has been moved from the small field to the main field as well, due to yesterday's rain making the small field too wet. Parents and visitors are welcome to sit in the stands on the east side, while students should stay with their class groups on the west side until their event begins. Let's all have a fun and safe sports day!",
+    "group_id": "NJL-G26",
+    "stem": "What is this announcement mainly about?",
+    "options": [
+      "An announcement about cancelling sports day.",
+      "An announcement about who won the races.",
+      "An announcement about schedule changes for sports day.",
+      "An announcement about new team uniforms."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播一開始就說「please note a few changes to the schedule」，所以主旨是宣布運動會流程異動。廣播沒有提到取消運動會、公布比賽結果或新隊服。聽開頭句就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "schedule",
+        "zh": "時間表；流程",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0127",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "Good morning, everyone, and welcome to this year's school sports day! Before we begin, please note a few changes to the schedule. The one hundred meter race, originally planned for nine o'clock, will now start at nine thirty because of the opening ceremony running a little long. The tug of war between classes will happen right after that on the main field. Please note that the long jump event has been moved from the small field to the main field as well, due to yesterday's rain making the small field too wet. Parents and visitors are welcome to sit in the stands on the east side, while students should stay with their class groups on the west side until their event begins. Let's all have a fun and safe sports day!",
+    "group_id": "NJL-G26",
+    "stem": "What time will the one hundred meter race now start?",
+    "options": [
+      "Nine o'clock.",
+      "Ten o'clock.",
+      "Eight thirty.",
+      "Nine thirty."
+    ],
+    "answer": 3,
+    "explain_zh": "廣播說賽跑「will now start at nine thirty」，所以改成九點半開始。九點是原本預計的時間，因開幕式拖長而延後，容易混淆。時間題要分辨「原定」和「更改後」的時間。",
+    "vocab": [
+      {
+        "w": "race",
+        "zh": "賽跑",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0128",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "Good morning, everyone, and welcome to this year's school sports day! Before we begin, please note a few changes to the schedule. The one hundred meter race, originally planned for nine o'clock, will now start at nine thirty because of the opening ceremony running a little long. The tug of war between classes will happen right after that on the main field. Please note that the long jump event has been moved from the small field to the main field as well, due to yesterday's rain making the small field too wet. Parents and visitors are welcome to sit in the stands on the east side, while students should stay with their class groups on the west side until their event begins. Let's all have a fun and safe sports day!",
+    "group_id": "NJL-G26",
+    "stem": "Why was the long jump event moved?",
+    "options": [
+      "Because the small field was too wet from yesterday's rain.",
+      "Because the small field was being repaired.",
+      "Because too many students signed up.",
+      "Because the main field is closer to parking."
+    ],
+    "answer": 0,
+    "explain_zh": "廣播說移動場地是「due to yesterday's rain making the small field too wet」，所以原因是昨天下雨場地太濕。廣播沒有提到場地整修、報名人數太多或停車方便。推論題要抓住 due to 後面的原因。",
+    "vocab": [
+      {
+        "w": "wet",
+        "zh": "潮濕的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0129",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "Good morning, everyone, and welcome to this year's school sports day! Before we begin, please note a few changes to the schedule. The one hundred meter race, originally planned for nine o'clock, will now start at nine thirty because of the opening ceremony running a little long. The tug of war between classes will happen right after that on the main field. Please note that the long jump event has been moved from the small field to the main field as well, due to yesterday's rain making the small field too wet. Parents and visitors are welcome to sit in the stands on the east side, while students should stay with their class groups on the west side until their event begins. Let's all have a fun and safe sports day!",
+    "group_id": "NJL-G26",
+    "stem": "Where should parents and visitors sit?",
+    "options": [
+      "On the west side with the students.",
+      "In the stands on the east side.",
+      "On the main field.",
+      "Near the finish line."
+    ],
+    "answer": 1,
+    "explain_zh": "廣播說「Parents and visitors are welcome to sit in the stands on the east side」，所以家長和訪客坐東側看台。西側是學生等待的地方，容易混淆。方向指引題要把不同對象對應的位置分清楚。",
+    "vocab": [
+      {
+        "w": "stands",
+        "zh": "看台",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0130",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:directions",
+    "tag_zh": "方向指引",
+    "passage": "Good morning, everyone, and welcome to this year's school sports day! Before we begin, please note a few changes to the schedule. The one hundred meter race, originally planned for nine o'clock, will now start at nine thirty because of the opening ceremony running a little long. The tug of war between classes will happen right after that on the main field. Please note that the long jump event has been moved from the small field to the main field as well, due to yesterday's rain making the small field too wet. Parents and visitors are welcome to sit in the stands on the east side, while students should stay with their class groups on the west side until their event begins. Let's all have a fun and safe sports day!",
+    "group_id": "NJL-G26",
+    "stem": "Where should students stay until their event begins?",
+    "options": [
+      "In the stands with their parents.",
+      "On the main field.",
+      "With their class groups on the west side.",
+      "Near the small field."
+    ],
+    "answer": 2,
+    "explain_zh": "廣播說「students should stay with their class groups on the west side」，所以學生要待在西側班級隊伍裡。東側看台是家長的位置，容易混淆。方向指引題要抓住對象和地點的正確配對。",
+    "vocab": [
+      {
+        "w": "field",
+        "zh": "場地",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0131",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Wow, there are so many club booths here today! Which one should we visit first?\nB: Let's check the robotics club first, it's at booth twelve, right next to the gym entrance.\nA: Sounds good. I also want to see the photography club and the guitar club.\nB: The photography club is at booth five, and I think the guitar club is at booth twenty, near the stage.\nA: Great, let's go to robotics first since it's closest, then walk over to photography.\nB: Sure. Remember, sign-up sheets close at three o'clock today, so we should decide before then.\nA: Good point. Do you know if the guitar club needs any experience to join?\nB: I don't think so — I heard they teach beginners too.",
+    "group_id": "NJL-G27",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "Two students are practicing for a guitar performance.",
+      "Two teachers are organizing a school fair.",
+      "Two students are fixing a robot for a competition.",
+      "Two students are visiting club booths at a club fair."
+    ],
+    "answer": 3,
+    "explain_zh": "對話一開始就在討論要先去哪個社團攤位，所以主旨是逛社團博覽會。對話沒有提到練習吉他表演、老師籌辦園遊會或修機器人比賽。聽開頭「so many club booths」就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "booth",
+        "zh": "攤位",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0132",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Wow, there are so many club booths here today! Which one should we visit first?\nB: Let's check the robotics club first, it's at booth twelve, right next to the gym entrance.\nA: Sounds good. I also want to see the photography club and the guitar club.\nB: The photography club is at booth five, and I think the guitar club is at booth twenty, near the stage.\nA: Great, let's go to robotics first since it's closest, then walk over to photography.\nB: Sure. Remember, sign-up sheets close at three o'clock today, so we should decide before then.\nA: Good point. Do you know if the guitar club needs any experience to join?\nB: I don't think so — I heard they teach beginners too.",
+    "group_id": "NJL-G27",
+    "stem": "Where is the robotics club booth?",
+    "options": [
+      "Booth twelve, next to the gym entrance.",
+      "Booth five, next to the stage.",
+      "Booth twenty, near the stage.",
+      "Booth twelve, near the school gate."
+    ],
+    "answer": 0,
+    "explain_zh": "說話者說機器人社在「booth twelve, right next to the gym entrance」，所以位置是十二號攤位、體育館入口旁。其他選項混淆了攤位號碼與地標。細節題要把攤位號碼和地標正確配對。",
+    "vocab": [
+      {
+        "w": "robotics",
+        "zh": "機器人學",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0133",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Wow, there are so many club booths here today! Which one should we visit first?\nB: Let's check the robotics club first, it's at booth twelve, right next to the gym entrance.\nA: Sounds good. I also want to see the photography club and the guitar club.\nB: The photography club is at booth five, and I think the guitar club is at booth twenty, near the stage.\nA: Great, let's go to robotics first since it's closest, then walk over to photography.\nB: Sure. Remember, sign-up sheets close at three o'clock today, so we should decide before then.\nA: Good point. Do you know if the guitar club needs any experience to join?\nB: I don't think so — I heard they teach beginners too.",
+    "group_id": "NJL-G27",
+    "stem": "Which club is at booth five?",
+    "options": [
+      "The robotics club.",
+      "The photography club.",
+      "The guitar club.",
+      "The art club."
+    ],
+    "answer": 1,
+    "explain_zh": "說話者說「The photography club is at booth five」，所以五號攤位是攝影社。機器人社在十二號、吉他社在二十號，容易混淆。細節題要記住每個社團對應的攤位號碼。",
+    "vocab": [
+      {
+        "w": "photography",
+        "zh": "攝影",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0134",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Wow, there are so many club booths here today! Which one should we visit first?\nB: Let's check the robotics club first, it's at booth twelve, right next to the gym entrance.\nA: Sounds good. I also want to see the photography club and the guitar club.\nB: The photography club is at booth five, and I think the guitar club is at booth twenty, near the stage.\nA: Great, let's go to robotics first since it's closest, then walk over to photography.\nB: Sure. Remember, sign-up sheets close at three o'clock today, so we should decide before then.\nA: Good point. Do you know if the guitar club needs any experience to join?\nB: I don't think so — I heard they teach beginners too.",
+    "group_id": "NJL-G27",
+    "stem": "When do sign-up sheets close?",
+    "options": [
+      "Five o'clock.",
+      "Twelve o'clock.",
+      "Three o'clock.",
+      "Three thirty."
+    ],
+    "answer": 2,
+    "explain_zh": "說話者說「sign-up sheets close at three o'clock today」，所以報名截止時間是三點。其他時間都沒有在對話中出現。時間題要抓住 close at 後面的確切時刻。",
+    "vocab": [
+      {
+        "w": "sign-up",
+        "zh": "報名",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0135",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "A: Wow, there are so many club booths here today! Which one should we visit first?\nB: Let's check the robotics club first, it's at booth twelve, right next to the gym entrance.\nA: Sounds good. I also want to see the photography club and the guitar club.\nB: The photography club is at booth five, and I think the guitar club is at booth twenty, near the stage.\nA: Great, let's go to robotics first since it's closest, then walk over to photography.\nB: Sure. Remember, sign-up sheets close at three o'clock today, so we should decide before then.\nA: Good point. Do you know if the guitar club needs any experience to join?\nB: I don't think so — I heard they teach beginners too.",
+    "group_id": "NJL-G27",
+    "stem": "What can be inferred about the guitar club?",
+    "options": [
+      "It only accepts advanced players.",
+      "It requires an audition to join.",
+      "It is already full for this year.",
+      "It welcomes beginners with no experience."
+    ],
+    "answer": 3,
+    "explain_zh": "說話者說「I heard they teach beginners too」，可推論吉他社歡迎沒有經驗的新手。對話沒有提到只收高手、需要面試或名額已滿。推論題要抓住最後一句透露的訊息。",
+    "vocab": [
+      {
+        "w": "beginner",
+        "zh": "初學者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0136",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Excuse me, I bought this English textbook here yesterday, but I think I got the wrong level. I need Book Two, not Book Three.\nB: No problem, let me check... yes, this is Book Three. Do you still have your receipt?\nA: Yes, here it is.\nB: Great, since it's within seven days and the book is still new, I can exchange it for you right away. Let me get Book Two from the shelf.\nA: Thank you. Is there a difference in price between the two books?\nB: Book Two is actually ten dollars cheaper, so I'll refund you the difference.\nA: That's great, thank you so much!\nB: You're welcome. Next time, please check with your teacher about the exact book number before buying.",
+    "group_id": "NJL-G28",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A customer is exchanging a textbook for the correct level.",
+      "A customer is returning a damaged book for a refund.",
+      "A customer is asking about a book sale.",
+      "A worker is restocking textbooks on the shelf."
+    ],
+    "answer": 0,
+    "explain_zh": "對話一開始就說買錯了課本等級要換書，所以主旨是換課本。對話沒有提到書本損壞退貨、詢問特價或補貨。聽開頭「I think I got the wrong level」就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "exchange",
+        "zh": "更換",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0137",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Excuse me, I bought this English textbook here yesterday, but I think I got the wrong level. I need Book Two, not Book Three.\nB: No problem, let me check... yes, this is Book Three. Do you still have your receipt?\nA: Yes, here it is.\nB: Great, since it's within seven days and the book is still new, I can exchange it for you right away. Let me get Book Two from the shelf.\nA: Thank you. Is there a difference in price between the two books?\nB: Book Two is actually ten dollars cheaper, so I'll refund you the difference.\nA: That's great, thank you so much!\nB: You're welcome. Next time, please check with your teacher about the exact book number before buying.",
+    "group_id": "NJL-G28",
+    "stem": "Why does the customer want to exchange the book?",
+    "options": [
+      "The book she bought is damaged.",
+      "She bought the wrong level, Book Three instead of Book Two.",
+      "She changed her mind about studying English.",
+      "The book was too expensive."
+    ],
+    "answer": 1,
+    "explain_zh": "顧客說「I need Book Two, not Book Three」，所以原因是買錯等級。對話沒有提到書本破損、不想學英文或太貴。細節題要抓住換書的原因句。",
+    "vocab": [
+      {
+        "w": "level",
+        "zh": "程度；級別",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0138",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Excuse me, I bought this English textbook here yesterday, but I think I got the wrong level. I need Book Two, not Book Three.\nB: No problem, let me check... yes, this is Book Three. Do you still have your receipt?\nA: Yes, here it is.\nB: Great, since it's within seven days and the book is still new, I can exchange it for you right away. Let me get Book Two from the shelf.\nA: Thank you. Is there a difference in price between the two books?\nB: Book Two is actually ten dollars cheaper, so I'll refund you the difference.\nA: That's great, thank you so much!\nB: You're welcome. Next time, please check with your teacher about the exact book number before buying.",
+    "group_id": "NJL-G28",
+    "stem": "What does the customer need to show for the exchange?",
+    "options": [
+      "Her student ID.",
+      "A written note from her teacher.",
+      "Her receipt.",
+      "Nothing at all."
+    ],
+    "answer": 2,
+    "explain_zh": "店員問「Do you still have your receipt?」，顧客也拿出來了，所以要出示收據。對話沒有提到學生證或老師的字條。細節題要抓住換貨需要的證明文件。",
+    "vocab": [
+      {
+        "w": "receipt",
+        "zh": "收據",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0139",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Excuse me, I bought this English textbook here yesterday, but I think I got the wrong level. I need Book Two, not Book Three.\nB: No problem, let me check... yes, this is Book Three. Do you still have your receipt?\nA: Yes, here it is.\nB: Great, since it's within seven days and the book is still new, I can exchange it for you right away. Let me get Book Two from the shelf.\nA: Thank you. Is there a difference in price between the two books?\nB: Book Two is actually ten dollars cheaper, so I'll refund you the difference.\nA: That's great, thank you so much!\nB: You're welcome. Next time, please check with your teacher about the exact book number before buying.",
+    "group_id": "NJL-G28",
+    "stem": "Within how many days can the book be exchanged?",
+    "options": [
+      "Seventeen days.",
+      "Three days.",
+      "Thirty days.",
+      "Seven days."
+    ],
+    "answer": 3,
+    "explain_zh": "店員說「since it's within seven days... I can exchange it」，所以換貨期限是七天內。其他選項是數字聽錯的常見混淆。數字題要注意 seven 和 seventeen 的發音差異。",
+    "vocab": [
+      {
+        "w": "within",
+        "zh": "在...之內",
+        "pos": "prep."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0140",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Excuse me, I bought this English textbook here yesterday, but I think I got the wrong level. I need Book Two, not Book Three.\nB: No problem, let me check... yes, this is Book Three. Do you still have your receipt?\nA: Yes, here it is.\nB: Great, since it's within seven days and the book is still new, I can exchange it for you right away. Let me get Book Two from the shelf.\nA: Thank you. Is there a difference in price between the two books?\nB: Book Two is actually ten dollars cheaper, so I'll refund you the difference.\nA: That's great, thank you so much!\nB: You're welcome. Next time, please check with your teacher about the exact book number before buying.",
+    "group_id": "NJL-G28",
+    "stem": "What happens with the price difference?",
+    "options": [
+      "The customer gets a refund since Book Two is cheaper.",
+      "The customer pays ten dollars more.",
+      "There is no price difference.",
+      "The store keeps the difference as a fee."
+    ],
+    "answer": 0,
+    "explain_zh": "店員說「Book Two is actually ten dollars cheaper, so I'll refund you the difference」，所以顧客會拿回退款。對話沒有提到要多付錢、沒有價差或店家收手續費。細節題要抓住 refund 對應的結果。",
+    "vocab": [
+      {
+        "w": "refund",
+        "zh": "退款",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0141",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "OK class, here is this week's cleaning duty list. Group One, that's Wei-Ting, Xiao-Ming, and Ya-Ting, will sweep and mop the classroom floor every day after school. Group Two will be responsible for cleaning the windows and wiping the whiteboard — that's Jia-Hao and Mei-Ling. Group Three, please take care of the trash cans and recycling bins, making sure they are emptied before you go home. This week, because Group Four helped carry books to the library, they don't need to do daily cleaning, but they must still help on Friday for the big weekly clean-up. If your name is not on today's list, please just wait quietly in the classroom or help move desks if needed. Duty groups change every two weeks, so please remember your job until then.",
+    "group_id": "NJL-G29",
+    "stem": "What is this talk mainly about?",
+    "options": [
+      "A class leader is announcing exam results.",
+      "A class leader is assigning cleaning duties for the week.",
+      "A teacher is grading homework.",
+      "A student is complaining about cleaning duty."
+    ],
+    "answer": 1,
+    "explain_zh": "說話者一開始就說「this week's cleaning duty list」，所以主旨是分配打掃工作。談話沒有提到公布考試成績、改作業或抱怨打掃。聽開頭句就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "duty",
+        "zh": "值日；任務",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0142",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "OK class, here is this week's cleaning duty list. Group One, that's Wei-Ting, Xiao-Ming, and Ya-Ting, will sweep and mop the classroom floor every day after school. Group Two will be responsible for cleaning the windows and wiping the whiteboard — that's Jia-Hao and Mei-Ling. Group Three, please take care of the trash cans and recycling bins, making sure they are emptied before you go home. This week, because Group Four helped carry books to the library, they don't need to do daily cleaning, but they must still help on Friday for the big weekly clean-up. If your name is not on today's list, please just wait quietly in the classroom or help move desks if needed. Duty groups change every two weeks, so please remember your job until then.",
+    "group_id": "NJL-G29",
+    "stem": "What does Group One do?",
+    "options": [
+      "Clean the windows and whiteboard.",
+      "Take care of the trash cans.",
+      "Sweep and mop the classroom floor every day.",
+      "Carry books to the library."
+    ],
+    "answer": 2,
+    "explain_zh": "說話者說第一組「will sweep and mop the classroom floor every day」，所以是掃地拖地。第二組負責窗戶和白板，第三組負責垃圾桶，容易混淆。細節題要把每組的工作內容分清楚。",
+    "vocab": [
+      {
+        "w": "sweep",
+        "zh": "掃地",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0143",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:inference",
+    "tag_zh": "推論",
+    "passage": "OK class, here is this week's cleaning duty list. Group One, that's Wei-Ting, Xiao-Ming, and Ya-Ting, will sweep and mop the classroom floor every day after school. Group Two will be responsible for cleaning the windows and wiping the whiteboard — that's Jia-Hao and Mei-Ling. Group Three, please take care of the trash cans and recycling bins, making sure they are emptied before you go home. This week, because Group Four helped carry books to the library, they don't need to do daily cleaning, but they must still help on Friday for the big weekly clean-up. If your name is not on today's list, please just wait quietly in the classroom or help move desks if needed. Duty groups change every two weeks, so please remember your job until then.",
+    "group_id": "NJL-G29",
+    "stem": "Why doesn't Group Four need daily cleaning this week?",
+    "options": [
+      "Because they finished all their homework.",
+      "Because they cleaned extra last week.",
+      "Because they are new students.",
+      "Because they helped carry books to the library."
+    ],
+    "answer": 3,
+    "explain_zh": "說話者說「because Group Four helped carry books to the library, they don't need to do daily cleaning」，所以原因是他們幫忙搬書。談話沒有提到寫完功課、上週多打掃或是新生。推論題要抓住 because 後面的原因。",
+    "vocab": [
+      {
+        "w": "carry",
+        "zh": "搬運",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0144",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "OK class, here is this week's cleaning duty list. Group One, that's Wei-Ting, Xiao-Ming, and Ya-Ting, will sweep and mop the classroom floor every day after school. Group Two will be responsible for cleaning the windows and wiping the whiteboard — that's Jia-Hao and Mei-Ling. Group Three, please take care of the trash cans and recycling bins, making sure they are emptied before you go home. This week, because Group Four helped carry books to the library, they don't need to do daily cleaning, but they must still help on Friday for the big weekly clean-up. If your name is not on today's list, please just wait quietly in the classroom or help move desks if needed. Duty groups change every two weeks, so please remember your job until then.",
+    "group_id": "NJL-G29",
+    "stem": "When must Group Four still help?",
+    "options": [
+      "On Friday for the weekly clean-up.",
+      "Every day after school.",
+      "Only next Monday.",
+      "They don't need to help at all."
+    ],
+    "answer": 0,
+    "explain_zh": "說話者說第四組「must still help on Friday for the big weekly clean-up」，所以星期五還是要幫忙大掃除。談話沒有說完全不用幫忙或每天都要。時間題要抓住 still 後面的例外規定。",
+    "vocab": [
+      {
+        "w": "clean-up",
+        "zh": "大掃除",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0145",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "OK class, here is this week's cleaning duty list. Group One, that's Wei-Ting, Xiao-Ming, and Ya-Ting, will sweep and mop the classroom floor every day after school. Group Two will be responsible for cleaning the windows and wiping the whiteboard — that's Jia-Hao and Mei-Ling. Group Three, please take care of the trash cans and recycling bins, making sure they are emptied before you go home. This week, because Group Four helped carry books to the library, they don't need to do daily cleaning, but they must still help on Friday for the big weekly clean-up. If your name is not on today's list, please just wait quietly in the classroom or help move desks if needed. Duty groups change every two weeks, so please remember your job until then.",
+    "group_id": "NJL-G29",
+    "stem": "How often do duty groups change?",
+    "options": [
+      "Every day.",
+      "Every two weeks.",
+      "Every month.",
+      "Once a semester."
+    ],
+    "answer": 1,
+    "explain_zh": "說話者最後說「Duty groups change every two weeks」，所以每兩週輪換一次。其他選項的頻率都沒有出現在談話中。時間題要抓住 every 後面接的頻率單位。",
+    "vocab": [
+      {
+        "w": "change",
+        "zh": "更換",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0146",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "A: Hi, my family wants to go camping this weekend. Do you rent tents and sleeping bags?\nB: Yes, we do. A four-person tent is three hundred dollars for two days, and sleeping bags are fifty dollars each.\nA: We need one tent and four sleeping bags. How much is that altogether?\nB: That would be three hundred dollars for the tent plus two hundred dollars for the sleeping bags, so five hundred dollars total.\nA: Do you also rent camping stoves? We'd like to cook dinner outdoors.\nB: Yes, a small camping stove is one hundred dollars extra, and it comes with one gas can.\nA: Great, we'll take the stove too. When can we pick everything up?\nB: You can pick up the gear tomorrow afternoon after two, and please return everything by Sunday evening before the shop closes at seven.",
+    "group_id": "NJL-G30",
+    "stem": "What is this conversation mainly about?",
+    "options": [
+      "A family is buying new camping gear to keep.",
+      "A shop owner is teaching a camping class.",
+      "A family is renting camping gear for a weekend trip.",
+      "A family is returning damaged camping gear."
+    ],
+    "answer": 2,
+    "explain_zh": "對話一開始就問「Do you rent tents and sleeping bags?」，所以主旨是租借露營用品。對話沒有提到買下用品、上露營課或退還損壞的裝備。聽開頭的問句就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "camping",
+        "zh": "露營",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0147",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, my family wants to go camping this weekend. Do you rent tents and sleeping bags?\nB: Yes, we do. A four-person tent is three hundred dollars for two days, and sleeping bags are fifty dollars each.\nA: We need one tent and four sleeping bags. How much is that altogether?\nB: That would be three hundred dollars for the tent plus two hundred dollars for the sleeping bags, so five hundred dollars total.\nA: Do you also rent camping stoves? We'd like to cook dinner outdoors.\nB: Yes, a small camping stove is one hundred dollars extra, and it comes with one gas can.\nA: Great, we'll take the stove too. When can we pick everything up?\nB: You can pick up the gear tomorrow afternoon after two, and please return everything by Sunday evening before the shop closes at seven.",
+    "group_id": "NJL-G30",
+    "stem": "How much does the tent cost for two days?",
+    "options": [
+      "Two hundred dollars.",
+      "Five hundred dollars.",
+      "Fifty dollars.",
+      "Three hundred dollars."
+    ],
+    "answer": 3,
+    "explain_zh": "店員說帳篷「is three hundred dollars for two days」，所以帳篷租金是三百元。五百元是含睡袋的總價，容易混淆。數字題要分清楚單項價格和總價。",
+    "vocab": [
+      {
+        "w": "tent",
+        "zh": "帳篷",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0148",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, my family wants to go camping this weekend. Do you rent tents and sleeping bags?\nB: Yes, we do. A four-person tent is three hundred dollars for two days, and sleeping bags are fifty dollars each.\nA: We need one tent and four sleeping bags. How much is that altogether?\nB: That would be three hundred dollars for the tent plus two hundred dollars for the sleeping bags, so five hundred dollars total.\nA: Do you also rent camping stoves? We'd like to cook dinner outdoors.\nB: Yes, a small camping stove is one hundred dollars extra, and it comes with one gas can.\nA: Great, we'll take the stove too. When can we pick everything up?\nB: You can pick up the gear tomorrow afternoon after two, and please return everything by Sunday evening before the shop closes at seven.",
+    "group_id": "NJL-G30",
+    "stem": "What is the total cost including the stove?",
+    "options": [
+      "Six hundred dollars.",
+      "Five hundred dollars.",
+      "Seven hundred dollars.",
+      "One hundred dollars."
+    ],
+    "answer": 0,
+    "explain_zh": "帳篷三百元加睡袋兩百元共五百元，再加爐具一百元，所以含爐具總共是六百元。五百元是還沒加爐具前的金額，容易混淆。數字題要把每一項費用依序加總。",
+    "vocab": [
+      {
+        "w": "stove",
+        "zh": "爐具",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0149",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, my family wants to go camping this weekend. Do you rent tents and sleeping bags?\nB: Yes, we do. A four-person tent is three hundred dollars for two days, and sleeping bags are fifty dollars each.\nA: We need one tent and four sleeping bags. How much is that altogether?\nB: That would be three hundred dollars for the tent plus two hundred dollars for the sleeping bags, so five hundred dollars total.\nA: Do you also rent camping stoves? We'd like to cook dinner outdoors.\nB: Yes, a small camping stove is one hundred dollars extra, and it comes with one gas can.\nA: Great, we'll take the stove too. When can we pick everything up?\nB: You can pick up the gear tomorrow afternoon after two, and please return everything by Sunday evening before the shop closes at seven.",
+    "group_id": "NJL-G30",
+    "stem": "What comes with the camping stove?",
+    "options": [
+      "Extra sleeping bags.",
+      "One gas can.",
+      "A cooking pot.",
+      "Nothing extra."
+    ],
+    "answer": 1,
+    "explain_zh": "店員說爐具「comes with one gas can」，所以會附一罐瓦斯。對話沒有提到附睡袋、鍋子或什麼都不附。細節題要抓住 comes with 後面的附贈物品。",
+    "vocab": [
+      {
+        "w": "gas",
+        "zh": "瓦斯",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJL-0150",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, my family wants to go camping this weekend. Do you rent tents and sleeping bags?\nB: Yes, we do. A four-person tent is three hundred dollars for two days, and sleeping bags are fifty dollars each.\nA: We need one tent and four sleeping bags. How much is that altogether?\nB: That would be three hundred dollars for the tent plus two hundred dollars for the sleeping bags, so five hundred dollars total.\nA: Do you also rent camping stoves? We'd like to cook dinner outdoors.\nB: Yes, a small camping stove is one hundred dollars extra, and it comes with one gas can.\nA: Great, we'll take the stove too. When can we pick everything up?\nB: You can pick up the gear tomorrow afternoon after two, and please return everything by Sunday evening before the shop closes at seven.",
+    "group_id": "NJL-G30",
+    "stem": "By when should the gear be returned?",
+    "options": [
+      "Monday morning.",
+      "Saturday evening.",
+      "Sunday evening before seven.",
+      "Sunday at noon."
+    ],
+    "answer": 2,
+    "explain_zh": "店員說「please return everything by Sunday evening before the shop closes at seven」，所以要在星期天晚上七點前歸還。其他選項的時間都沒有在對話中出現。時間題要抓住 by 後面的確切期限。",
+    "vocab": [
+      {
+        "w": "return",
+        "zh": "歸還",
+        "pos": "v."
+      }
+    ]
+  }
+]

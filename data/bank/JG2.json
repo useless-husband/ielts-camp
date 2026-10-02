@@ -1,0 +1,4652 @@
+[
+ {
+  "id": "JG2-0001",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "This bag is ____ than mine, but it costs much less.",
+  "options": [
+   "bigger",
+   "big",
+   "biggest",
+   "the biggest"
+  ],
+  "answer": 0,
+  "explain_zh": "than 前面要用比較級，big 重複子音加 -er 變成 bigger。big 是原級，biggest 與 the biggest 是最高級，都不能和 than 連用。",
+  "vocab": [
+   {
+    "w": "bag",
+    "zh": "包包",
+    "pos": "n."
+   },
+   {
+    "w": "cost",
+    "zh": "花費",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0002",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "Mount Jade is ____ mountain in Taiwan.",
+  "options": [
+   "higher",
+   "the highest",
+   "high",
+   "highest"
+  ],
+  "answer": 1,
+  "explain_zh": "在單一範圍 in Taiwan 中比所有山，要用最高級，而且最高級前面必須加 the。higher 是比較級，high 是原級，highest 少了 the。",
+  "vocab": [
+   {
+    "w": "mountain",
+    "zh": "山",
+    "pos": "n."
+   },
+   {
+    "w": "high",
+    "zh": "高的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0003",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "My brother runs ____ than I do, so he won the race.",
+  "options": [
+   "fast",
+   "fastest",
+   "faster",
+   "more fast"
+  ],
+  "answer": 2,
+  "explain_zh": "than 提示要用比較級，副詞 fast 的比較級是 faster。fast 是原級，fastest 是最高級，單音節字不可以用 more fast。",
+  "vocab": [
+   {
+    "w": "race",
+    "zh": "賽跑",
+    "pos": "n."
+   },
+   {
+    "w": "win",
+    "zh": "贏",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0004",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "This math problem is ____ difficult than the one on page ten.",
+  "options": [
+   "much",
+   "very",
+   "most",
+   "more"
+  ],
+  "answer": 3,
+  "explain_zh": "difficult 是三音節的長形容詞，比較級要用 more difficult。much 和 very 是程度副詞，不能直接接 than；most 是最高級。",
+  "vocab": [
+   {
+    "w": "difficult",
+    "zh": "困難的",
+    "pos": "adj."
+   },
+   {
+    "w": "problem",
+    "zh": "題目",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0005",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "Of all the students in my class, Amy studies ____.",
+  "options": [
+   "the hardest",
+   "harder",
+   "hard",
+   "more hard"
+  ],
+  "answer": 0,
+  "explain_zh": "Of all the students 表示在全班範圍內比較，要用最高級 the hardest。harder 是比較級，hard 是原級，單音節字不能寫 more hard。",
+  "vocab": [
+   {
+    "w": "hard",
+    "zh": "努力地",
+    "pos": "adv."
+   },
+   {
+    "w": "study",
+    "zh": "讀書",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0006",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "The MRT is as convenient ____ the bus for going downtown.",
+  "options": [
+   "than",
+   "as",
+   "so",
+   "like"
+  ],
+  "answer": 1,
+  "explain_zh": "as + 原級 + as 表示「和……一樣」，所以第二個空要用 as。than 只能接比較級，so 與 like 都不能形成這個句型。",
+  "vocab": [
+   {
+    "w": "convenient",
+    "zh": "方便的",
+    "pos": "adj."
+   },
+   {
+    "w": "downtown",
+    "zh": "市中心",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0007",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "Today is ____ hotter than yesterday, so remember to drink water.",
+  "options": [
+   "very",
+   "so",
+   "much",
+   "too"
+  ],
+  "answer": 2,
+  "explain_zh": "要強調比較級可以用 much、far、a lot 等副詞，故選 much hotter。very、so、too 只能修飾原級，不能修飾比較級。",
+  "vocab": [
+   {
+    "w": "hot",
+    "zh": "熱的",
+    "pos": "adj."
+   },
+   {
+    "w": "remember",
+    "zh": "記得",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0008",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "Which is ____, a lion or a tiger?",
+  "options": [
+   "heavy",
+   "heaviest",
+   "the heaviest",
+   "heavier"
+  ],
+  "answer": 3,
+  "explain_zh": "兩者之間做比較要用比較級，heavy 去 y 加 ier 變成 heavier。heavy 是原級，最高級用在三者以上。",
+  "vocab": [
+   {
+    "w": "heavy",
+    "zh": "重的",
+    "pos": "adj."
+   },
+   {
+    "w": "tiger",
+    "zh": "老虎",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0009",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "Health is ____ important thing in our life.",
+  "options": [
+   "the most",
+   "more",
+   "most",
+   "much more"
+  ],
+  "answer": 0,
+  "explain_zh": "「最重要的事」是最高級，important 屬長形容詞，要用 the most important。more 是比較級，most 少了 the，much more 也是比較級。",
+  "vocab": [
+   {
+    "w": "health",
+    "zh": "健康",
+    "pos": "n."
+   },
+   {
+    "w": "important",
+    "zh": "重要的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0010",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "My grades are getting ____ and better because I review every night.",
+  "options": [
+   "good",
+   "better",
+   "best",
+   "well"
+  ],
+  "answer": 1,
+  "explain_zh": "「比較級 and 比較級」表示越來越……，good 的比較級是 better，所以寫 better and better。good、well 是原級，best 是最高級。",
+  "vocab": [
+   {
+    "w": "grade",
+    "zh": "成績",
+    "pos": "n."
+   },
+   {
+    "w": "review",
+    "zh": "複習",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "This is ____ movie I have ever seen; I almost fell asleep.",
+  "options": [
+   "more boring",
+   "the more boring",
+   "the most boring",
+   "boringest"
+  ],
+  "answer": 2,
+  "explain_zh": "have ever seen 是最高級常見的句型，boring 是長形容詞，最高級為 the most boring。boring 不能加 -est，比較級也不合句意。",
+  "vocab": [
+   {
+    "w": "boring",
+    "zh": "無聊的",
+    "pos": "adj."
+   },
+   {
+    "w": "asleep",
+    "zh": "睡著的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "Taipei is not ____ Kaohsiung in summer.",
+  "options": [
+   "as hotter as",
+   "so hot than",
+   "hotter as",
+   "as hot as"
+  ],
+  "answer": 3,
+  "explain_zh": "否定的「不如……一樣」用 not as + 原級 + as，故選 as hot as。as 之間一定放原級，不能放 hotter，也不能和 than 混用。",
+  "vocab": [
+   {
+    "w": "summer",
+    "zh": "夏天",
+    "pos": "n."
+   },
+   {
+    "w": "hot",
+    "zh": "炎熱的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "The more you practice, ____ you will speak.",
+  "options": [
+   "the better",
+   "the best",
+   "better",
+   "the more good"
+  ],
+  "answer": 0,
+  "explain_zh": "「the + 比較級, the + 比較級」表示越……就越……，well 的比較級是 better，前面要加 the。the best 是最高級，單獨的 better 少了 the。",
+  "vocab": [
+   {
+    "w": "practice",
+    "zh": "練習",
+    "pos": "v."
+   },
+   {
+    "w": "speak",
+    "zh": "說",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "My sister is three years ____ than me, so she is in senior high.",
+  "options": [
+   "old",
+   "older",
+   "oldest",
+   "more old"
+  ],
+  "answer": 1,
+  "explain_zh": "數字＋years 之後接比較級再接 than，old 的比較級是 older。old 是原級，oldest 是最高級，old 也不能寫成 more old。",
+  "vocab": [
+   {
+    "w": "senior high",
+    "zh": "高中",
+    "pos": "n."
+   },
+   {
+    "w": "old",
+    "zh": "年紀大的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0015",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "Of the three shirts, this one is ____ expensive.",
+  "options": [
+   "less",
+   "little",
+   "the least",
+   "the less"
+  ],
+  "answer": 2,
+  "explain_zh": "三件之中「最不……」要用 the least + 原級。less 與 the less 是比較級，little 是原級，都不能表達三者中的最低程度。",
+  "vocab": [
+   {
+    "w": "expensive",
+    "zh": "昂貴的",
+    "pos": "adj."
+   },
+   {
+    "w": "shirt",
+    "zh": "襯衫",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "A blue whale is ____ animal in the world.",
+  "options": [
+   "larger",
+   "large",
+   "more large",
+   "the largest"
+  ],
+  "answer": 3,
+  "explain_zh": "in the world 指全世界範圍，要用最高級 the largest。larger 是比較級，large 是原級，單音節字不用 more。",
+  "vocab": [
+   {
+    "w": "whale",
+    "zh": "鯨魚",
+    "pos": "n."
+   },
+   {
+    "w": "large",
+    "zh": "大的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "Winter in Japan is ____ colder than winter in Taiwan.",
+  "options": [
+   "far",
+   "very",
+   "too",
+   "so"
+  ],
+  "answer": 0,
+  "explain_zh": "far 可以加強比較級，表示「……得多」。very、too、so 只能修飾原級形容詞，不能放在 colder 前面。",
+  "vocab": [
+   {
+    "w": "winter",
+    "zh": "冬天",
+    "pos": "n."
+   },
+   {
+    "w": "cold",
+    "zh": "寒冷的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:comparative-superlative",
+  "tag_zh": "比較級與最高級",
+  "passage": null,
+  "group_id": null,
+  "stem": "He speaks English ____ fluently than his classmates.",
+  "options": [
+   "most",
+   "more",
+   "much",
+   "very"
+  ],
+  "answer": 1,
+  "explain_zh": "fluently 是 -ly 結尾的副詞，比較級要用 more fluently 再接 than。most 是最高級，much 和 very 不能直接接 than。",
+  "vocab": [
+   {
+    "w": "fluently",
+    "zh": "流利地",
+    "pos": "adv."
+   },
+   {
+    "w": "classmate",
+    "zh": "同學",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0019",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "We usually have a big dinner ____ Chinese New Year's Eve.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "to"
+  ],
+  "answer": 2,
+  "explain_zh": "特定的某一天或節日當天要用 on，例如 on Sunday、on Chinese New Year's Eve。in 用於月份年份，at 用於幾點鐘。",
+  "vocab": [
+   {
+    "w": "eve",
+    "zh": "前夕",
+    "pos": "n."
+   },
+   {
+    "w": "dinner",
+    "zh": "晚餐",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0020",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The bookstore is ____ the post office and the bank.",
+  "options": [
+   "among",
+   "during",
+   "behind",
+   "between"
+  ],
+  "answer": 3,
+  "explain_zh": "between 用在「兩者之間」，這裡是郵局和銀行兩個地方。among 用於三者以上，during 是時間介系詞，behind 是在後面。",
+  "vocab": [
+   {
+    "w": "bookstore",
+    "zh": "書店",
+    "pos": "n."
+   },
+   {
+    "w": "post office",
+    "zh": "郵局",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0021",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My father goes to work ____ MRT every morning.",
+  "options": [
+   "by",
+   "on",
+   "with",
+   "in"
+  ],
+  "answer": 0,
+  "explain_zh": "交通工具前用 by＋名詞單數且不加冠詞，如 by MRT、by bus。on 要說 on the MRT，with 表示工具，in 用於車內。",
+  "vocab": [
+   {
+    "w": "MRT",
+    "zh": "捷運",
+    "pos": "n."
+   },
+   {
+    "w": "morning",
+    "zh": "早上",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0022",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The class will begin ____ eight thirty, so don't be late.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "to"
+  ],
+  "answer": 1,
+  "explain_zh": "明確的鐘點時間用 at，如 at eight thirty。on 接日期，in 接月份、季節或年份。",
+  "vocab": [
+   {
+    "w": "begin",
+    "zh": "開始",
+    "pos": "v."
+   },
+   {
+    "w": "late",
+    "zh": "遲到的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0023",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She has lived in Tainan ____ 2019.",
+  "options": [
+   "for",
+   "from",
+   "since",
+   "during"
+  ],
+  "answer": 2,
+  "explain_zh": "since 後面接「時間起點」，2019 是起點且搭配現在完成式。for 後面接一段時間長度，during 接事件期間。",
+  "vocab": [
+   {
+    "w": "live",
+    "zh": "居住",
+    "pos": "v."
+   },
+   {
+    "w": "since",
+    "zh": "自從",
+    "pos": "prep."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0024",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I waited for the bus ____ twenty minutes in the heavy rain.",
+  "options": [
+   "since",
+   "during",
+   "until",
+   "for"
+  ],
+  "answer": 3,
+  "explain_zh": "for 後面接一段時間長度 twenty minutes。since 接時間起點，during 接名詞事件，until 表示「直到」。",
+  "vocab": [
+   {
+    "w": "wait",
+    "zh": "等待",
+    "pos": "v."
+   },
+   {
+    "w": "heavy rain",
+    "zh": "大雨",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0025",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I fell asleep ____ the long and quiet movie last night.",
+  "options": [
+   "during",
+   "while",
+   "for",
+   "since"
+  ],
+  "answer": 0,
+  "explain_zh": "during 是介系詞，後面接名詞 the movie。while 是連接詞要接句子，for 接時間長度，since 接時間起點。",
+  "vocab": [
+   {
+    "w": "asleep",
+    "zh": "睡著的",
+    "pos": "adj."
+   },
+   {
+    "w": "quiet",
+    "zh": "安靜的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0026",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The cat is hiding ____ the sofa; I can only see its tail.",
+  "options": [
+   "among",
+   "behind",
+   "through",
+   "across"
+  ],
+  "answer": 1,
+  "explain_zh": "只看得到尾巴，表示貓躲在沙發「後面」，用 behind。among 是在三者以上之中，through 是穿過，across 是橫越。",
+  "vocab": [
+   {
+    "w": "hide",
+    "zh": "躲藏",
+    "pos": "v."
+   },
+   {
+    "w": "tail",
+    "zh": "尾巴",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0027",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The train went ____ a long tunnel in the mountain.",
+  "options": [
+   "across",
+   "above",
+   "through",
+   "between"
+  ],
+  "answer": 2,
+  "explain_zh": "through 表示從內部穿過，隧道是立體空間。across 是橫越表面，above 是在上方，between 是在兩者之間。",
+  "vocab": [
+   {
+    "w": "tunnel",
+    "zh": "隧道",
+    "pos": "n."
+   },
+   {
+    "w": "train",
+    "zh": "火車",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0028",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My grandma was born ____ May, 1955.",
+  "options": [
+   "on",
+   "at",
+   "to",
+   "in"
+  ],
+  "answer": 3,
+  "explain_zh": "月份與年份前用 in，如 in May、in 1955。on 用於特定日期，at 用於鐘點。",
+  "vocab": [
+   {
+    "w": "be born",
+    "zh": "出生",
+    "pos": "v."
+   },
+   {
+    "w": "grandma",
+    "zh": "奶奶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0029",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Hang the picture ____ the sofa so that everyone can see it.",
+  "options": [
+   "above",
+   "under",
+   "below",
+   "into"
+  ],
+  "answer": 0,
+  "explain_zh": "above 表示在上方較高的位置，畫掛在沙發上方。under 與 below 是在下方，into 是進入某物內部。",
+  "vocab": [
+   {
+    "w": "hang",
+    "zh": "懸掛",
+    "pos": "v."
+   },
+   {
+    "w": "picture",
+    "zh": "圖畫",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0030",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She is good ____ playing the piano and often performs at school.",
+  "options": [
+   "in",
+   "at",
+   "on",
+   "for"
+  ],
+  "answer": 1,
+  "explain_zh": "be good at 是固定用法，表示擅長某事，at 後面接動名詞。be good in、on、for 都不是這個意思的搭配。",
+  "vocab": [
+   {
+    "w": "perform",
+    "zh": "表演",
+    "pos": "v."
+   },
+   {
+    "w": "piano",
+    "zh": "鋼琴",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0031",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Don't worry ____ the test; you have studied very hard.",
+  "options": [
+   "for",
+   "of",
+   "about",
+   "with"
+  ],
+  "answer": 2,
+  "explain_zh": "worry about 是固定搭配，表示擔心某事。worry for、of、with 都不是正確的動詞片語。",
+  "vocab": [
+   {
+    "w": "worry",
+    "zh": "擔心",
+    "pos": "v."
+   },
+   {
+    "w": "test",
+    "zh": "考試",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0032",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I am interested ____ learning how to cook Italian food.",
+  "options": [
+   "on",
+   "at",
+   "for",
+   "in"
+  ],
+  "answer": 3,
+  "explain_zh": "be interested in 是固定用法，in 後面接名詞或動名詞 learning。其他介系詞都不能和 interested 搭配。",
+  "vocab": [
+   {
+    "w": "interested",
+    "zh": "感興趣的",
+    "pos": "adj."
+   },
+   {
+    "w": "cook",
+    "zh": "烹煮",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0033",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The school library is ____ the third floor of that building.",
+  "options": [
+   "on",
+   "in",
+   "at",
+   "of"
+  ],
+  "answer": 0,
+  "explain_zh": "樓層前面用 on，如 on the third floor。in 用於空間內部，at 用於地點的一個點。",
+  "vocab": [
+   {
+    "w": "library",
+    "zh": "圖書館",
+    "pos": "n."
+   },
+   {
+    "w": "floor",
+    "zh": "樓層",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0034",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "He put the letter ____ his pocket and left the house quietly.",
+  "options": [
+   "onto",
+   "into",
+   "out of",
+   "off"
+  ],
+  "answer": 1,
+  "explain_zh": "into 表示移動到內部，把信放進口袋。onto 是放到表面上，out of 是拿出來，off 是離開表面，都與句意不符。",
+  "vocab": [
+   {
+    "w": "letter",
+    "zh": "信",
+    "pos": "n."
+   },
+   {
+    "w": "pocket",
+    "zh": "口袋",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0035",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Wait for me here; I will be back ____ ten minutes.",
+  "options": [
+   "on",
+   "at",
+   "in",
+   "since"
+  ],
+  "answer": 2,
+  "explain_zh": "in + 一段時間表示「再過多久之後」，in ten minutes 是十分鐘後。on 與 at 不接時間長度，since 接時間起點。",
+  "vocab": [
+   {
+    "w": "wait",
+    "zh": "等",
+    "pos": "v."
+   },
+   {
+    "w": "minute",
+    "zh": "分鐘",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0036",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:prepositions",
+  "tag_zh": "介系詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The night market is right ____ from our school gate.",
+  "options": [
+   "between",
+   "along",
+   "through",
+   "across"
+  ],
+  "answer": 3,
+  "explain_zh": "across from 表示在正對面。between 要接兩者，along 是沿著，through 是穿過，都不能表示「對面」。",
+  "vocab": [
+   {
+    "w": "night market",
+    "zh": "夜市",
+    "pos": "n."
+   },
+   {
+    "w": "gate",
+    "zh": "大門",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0037",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ it was raining hard, we still went to the baseball game.",
+  "options": [
+   "Although",
+   "Because",
+   "So",
+   "But"
+  ],
+  "answer": 0,
+  "explain_zh": "前後語意相反，要用 Although 引導讓步子句。Because 表原因與句意不合，So 不能放句首帶子句，But 不能和後面的 still 這樣搭配句首從屬子句。",
+  "vocab": [
+   {
+    "w": "although",
+    "zh": "雖然",
+    "pos": "conj."
+   },
+   {
+    "w": "baseball",
+    "zh": "棒球",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0038",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I was very tired, ____ I still finished my homework before bed.",
+  "options": [
+   "because",
+   "but",
+   "so",
+   "although"
+  ],
+  "answer": 1,
+  "explain_zh": "「很累」和「還是寫完功課」語意相反，用對等連接詞 but。because 表原因、so 表結果都不合理，although 是從屬連接詞不能放在逗號後這樣連接。",
+  "vocab": [
+   {
+    "w": "tired",
+    "zh": "疲倦的",
+    "pos": "adj."
+   },
+   {
+    "w": "finish",
+    "zh": "完成",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0039",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Both my brother ____ I joined the school marathon last Sunday.",
+  "options": [
+   "or",
+   "nor",
+   "and",
+   "but"
+  ],
+  "answer": 2,
+  "explain_zh": "both A and B 是固定搭配，表示兩者都。or、nor、but 都不能和 both 連用。",
+  "vocab": [
+   {
+    "w": "join",
+    "zh": "參加",
+    "pos": "v."
+   },
+   {
+    "w": "marathon",
+    "zh": "馬拉松",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0040",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Neither Tom ____ his sister likes eating green peppers.",
+  "options": [
+   "or",
+   "and",
+   "but",
+   "nor"
+  ],
+  "answer": 3,
+  "explain_zh": "neither A nor B 是固定搭配，表示兩者都不。or 要搭 either，and 與 but 都不能接在 neither 後面。",
+  "vocab": [
+   {
+    "w": "neither",
+    "zh": "兩者都不",
+    "pos": "conj."
+   },
+   {
+    "w": "green pepper",
+    "zh": "青椒",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0041",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Hurry up, ____ you will miss the last train home.",
+  "options": [
+   "or",
+   "and",
+   "so",
+   "but"
+  ],
+  "answer": 0,
+  "explain_zh": "「祈使句, or + 句子」表示「否則就會……」。and 是「就會有好結果」，so 和 but 都不能構成這個句型。",
+  "vocab": [
+   {
+    "w": "hurry",
+    "zh": "趕快",
+    "pos": "v."
+   },
+   {
+    "w": "miss",
+    "zh": "錯過",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0042",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "We stayed inside all day ____ a strong typhoon was coming.",
+  "options": [
+   "although",
+   "because",
+   "but",
+   "or"
+  ],
+  "answer": 1,
+  "explain_zh": "颱風要來是待在室內的原因，用 because。although 表讓步、but 表轉折、or 表選擇，都不符合因果關係。",
+  "vocab": [
+   {
+    "w": "typhoon",
+    "zh": "颱風",
+    "pos": "n."
+   },
+   {
+    "w": "inside",
+    "zh": "在室內",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0043",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Study hard, ____ you will pass the exam without any problem.",
+  "options": [
+   "or",
+   "but",
+   "and",
+   "so"
+  ],
+  "answer": 2,
+  "explain_zh": "「祈使句, and + 句子」表示這樣做就會有好結果。or 是「否則」，but 表轉折，so 不用於祈使句後這種搭配。",
+  "vocab": [
+   {
+    "w": "pass",
+    "zh": "通過",
+    "pos": "v."
+   },
+   {
+    "w": "exam",
+    "zh": "考試",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0044",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ I was walking home, I met my old English teacher.",
+  "options": [
+   "During",
+   "Until",
+   "Since",
+   "While"
+  ],
+  "answer": 3,
+  "explain_zh": "While 是連接詞，後面接完整子句表示「當……的時候」。During 是介系詞只能接名詞，Until 是直到，Since 是自從。",
+  "vocab": [
+   {
+    "w": "meet",
+    "zh": "遇見",
+    "pos": "v."
+   },
+   {
+    "w": "while",
+    "zh": "當……時",
+    "pos": "conj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0045",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She not only sings very well ____ also dances beautifully.",
+  "options": [
+   "but",
+   "and",
+   "or",
+   "nor"
+  ],
+  "answer": 0,
+  "explain_zh": "not only A but also B 是固定句型，表示不但……而且……。and、or、nor 都不能和 not only 搭配 also。",
+  "vocab": [
+   {
+    "w": "beautifully",
+    "zh": "優美地",
+    "pos": "adv."
+   },
+   {
+    "w": "dance",
+    "zh": "跳舞",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0046",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Please wait here ____ I come back with the tickets.",
+  "options": [
+   "while",
+   "until",
+   "since",
+   "before"
+  ],
+  "answer": 1,
+  "explain_zh": "until 表示「直到……為止」，等到我拿票回來。while 表同時，since 表自從，before 會變成「在我回來之前等」語意不通順。",
+  "vocab": [
+   {
+    "w": "ticket",
+    "zh": "票",
+    "pos": "n."
+   },
+   {
+    "w": "until",
+    "zh": "直到",
+    "pos": "conj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0047",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ you finish your dinner, you can watch TV for an hour.",
+  "options": [
+   "Until",
+   "Although",
+   "After",
+   "Unless"
+  ],
+  "answer": 2,
+  "explain_zh": "先吃完飯才能看電視，用 After 表示時間先後。Until 意思相反，Although 表讓步，Unless 是除非，語意都不合。",
+  "vocab": [
+   {
+    "w": "after",
+    "zh": "在……之後",
+    "pos": "conj."
+   },
+   {
+    "w": "hour",
+    "zh": "小時",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0048",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I will not go to the party ____ you go with me.",
+  "options": [
+   "if",
+   "because",
+   "although",
+   "unless"
+  ],
+  "answer": 3,
+  "explain_zh": "unless 等於 if not，表示「除非你陪我去，否則我不去」。if 會讓句意變成相反，because 和 although 也不合邏輯。",
+  "vocab": [
+   {
+    "w": "unless",
+    "zh": "除非",
+    "pos": "conj."
+   },
+   {
+    "w": "party",
+    "zh": "派對",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0049",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Turn off all the lights ____ you leave the classroom.",
+  "options": [
+   "when",
+   "until",
+   "although",
+   "unless"
+  ],
+  "answer": 0,
+  "explain_zh": "when 表示「當……的時候」，離開教室時要關燈。until 是直到，although 是雖然，unless 是除非，語意都不通。",
+  "vocab": [
+   {
+    "w": "turn off",
+    "zh": "關掉",
+    "pos": "v."
+   },
+   {
+    "w": "classroom",
+    "zh": "教室",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0050",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was already very late, ____ we took a taxi home.",
+  "options": [
+   "because",
+   "so",
+   "although",
+   "or"
+  ],
+  "answer": 1,
+  "explain_zh": "「太晚了」是原因，「搭計程車」是結果，用 so。because 會把因果顛倒，although 表讓步，or 表選擇。",
+  "vocab": [
+   {
+    "w": "taxi",
+    "zh": "計程車",
+    "pos": "n."
+   },
+   {
+    "w": "already",
+    "zh": "已經",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0051",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ you want to stay healthy, you should exercise every day.",
+  "options": [
+   "Unless",
+   "Although",
+   "If",
+   "So"
+  ],
+  "answer": 2,
+  "explain_zh": "If 表示條件「如果你想要健康」。Unless 是除非會使語意相反，Although 表讓步，So 不能放句首引導條件子句。",
+  "vocab": [
+   {
+    "w": "healthy",
+    "zh": "健康的",
+    "pos": "adj."
+   },
+   {
+    "w": "exercise",
+    "zh": "運動",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0052",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My little sister enjoys ____ comic books on rainy afternoons.",
+  "options": [
+   "to read",
+   "read",
+   "reads",
+   "reading"
+  ],
+  "answer": 3,
+  "explain_zh": "enjoy 後面固定接動名詞，所以用 reading。enjoy 不能接不定詞 to read，也不能直接接原形或第三人稱動詞。",
+  "vocab": [
+   {
+    "w": "enjoy",
+    "zh": "享受",
+    "pos": "v."
+   },
+   {
+    "w": "comic book",
+    "zh": "漫畫書",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0053",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "We finished ____ the classroom before the teacher came back.",
+  "options": [
+   "cleaning",
+   "to clean",
+   "clean",
+   "cleaned"
+  ],
+  "answer": 0,
+  "explain_zh": "finish 後面只能接動名詞，故用 cleaning。finish to clean 是常見錯誤，原形與過去式也不能當受詞。",
+  "vocab": [
+   {
+    "w": "finish",
+    "zh": "完成",
+    "pos": "v."
+   },
+   {
+    "w": "clean",
+    "zh": "打掃",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0054",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Would you mind ____ the window? It is a little cold in here.",
+  "options": [
+   "to close",
+   "closing",
+   "close",
+   "closed"
+  ],
+  "answer": 1,
+  "explain_zh": "mind 後面接動名詞，Would you mind + V-ing 是禮貌請求的固定用法。其他三個形式都不能接在 mind 後面。",
+  "vocab": [
+   {
+    "w": "mind",
+    "zh": "介意",
+    "pos": "v."
+   },
+   {
+    "w": "cold",
+    "zh": "冷的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0055",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "You should avoid ____ too much sugar if you want to stay healthy.",
+  "options": [
+   "to eat",
+   "eat",
+   "eating",
+   "ate"
+  ],
+  "answer": 2,
+  "explain_zh": "avoid 後面必須接動名詞 eating。avoid to eat 是典型錯誤，原形與過去式也不能當受詞。",
+  "vocab": [
+   {
+    "w": "avoid",
+    "zh": "避免",
+    "pos": "v."
+   },
+   {
+    "w": "sugar",
+    "zh": "糖",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0056",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "He practices ____ the guitar for an hour every evening.",
+  "options": [
+   "to play",
+   "play",
+   "plays",
+   "playing"
+  ],
+  "answer": 3,
+  "explain_zh": "practice 後面接動名詞，表示反覆練習做某事。practice to play 不合文法，原形與第三人稱形式也不能當受詞。",
+  "vocab": [
+   {
+    "w": "practice",
+    "zh": "練習",
+    "pos": "v."
+   },
+   {
+    "w": "guitar",
+    "zh": "吉他",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0057",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "They decided ____ the mountain early on Sunday morning.",
+  "options": [
+   "to climb",
+   "climbing",
+   "climb",
+   "climbed"
+  ],
+  "answer": 0,
+  "explain_zh": "decide 後面固定接不定詞 to + 原形，表示決定要做某事。decide climbing 是常見錯誤。",
+  "vocab": [
+   {
+    "w": "decide",
+    "zh": "決定",
+    "pos": "v."
+   },
+   {
+    "w": "climb",
+    "zh": "攀爬",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0058",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I hope ____ you again during the summer vacation.",
+  "options": [
+   "seeing",
+   "to see",
+   "see",
+   "saw"
+  ],
+  "answer": 1,
+  "explain_zh": "hope 後面接不定詞 to see，表示希望做某事。hope seeing 不合文法，原形與過去式也不能直接接。",
+  "vocab": [
+   {
+    "w": "hope",
+    "zh": "希望",
+    "pos": "v."
+   },
+   {
+    "w": "vacation",
+    "zh": "假期",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0059",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She promised ____ me with my science project tonight.",
+  "options": [
+   "helping",
+   "help",
+   "to help",
+   "helped"
+  ],
+  "answer": 2,
+  "explain_zh": "promise 後面接不定詞，表示答應要做某事。promise helping 是錯誤用法，原形與過去式也不行。",
+  "vocab": [
+   {
+    "w": "promise",
+    "zh": "答應",
+    "pos": "v."
+   },
+   {
+    "w": "project",
+    "zh": "專題",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0060",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The two boys agreed ____ the last piece of pizza.",
+  "options": [
+   "sharing",
+   "share",
+   "shared",
+   "to share"
+  ],
+  "answer": 3,
+  "explain_zh": "agree 後面接不定詞 to share，表示同意去做某事。agree sharing 不合文法。",
+  "vocab": [
+   {
+    "w": "agree",
+    "zh": "同意",
+    "pos": "v."
+   },
+   {
+    "w": "share",
+    "zh": "分享",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0061",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The baby stopped ____ as soon as his mother held him.",
+  "options": [
+   "crying",
+   "to cry",
+   "cry",
+   "cried"
+  ],
+  "answer": 0,
+  "explain_zh": "stop + V-ing 表示「停止正在做的事」，媽媽一抱就不哭了。stop to cry 會變成「停下來去哭」，語意不合。",
+  "vocab": [
+   {
+    "w": "stop",
+    "zh": "停止",
+    "pos": "v."
+   },
+   {
+    "w": "hold",
+    "zh": "抱",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0062",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "On the way home, we stopped ____ some bread for breakfast.",
+  "options": [
+   "buying",
+   "to buy",
+   "buy",
+   "bought"
+  ],
+  "answer": 1,
+  "explain_zh": "stop to + 原形表示「停下來去做另一件事」，這裡是停下來買麵包。stop buying 會變成「不再買麵包」，語意不合。",
+  "vocab": [
+   {
+    "w": "bread",
+    "zh": "麵包",
+    "pos": "n."
+   },
+   {
+    "w": "breakfast",
+    "zh": "早餐",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0063",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Remember ____ the door when you leave the house tomorrow.",
+  "options": [
+   "locking",
+   "lock",
+   "to lock",
+   "locked"
+  ],
+  "answer": 2,
+  "explain_zh": "remember to + 原形表示「記得去做還沒做的事」。remember locking 是回想已經做過的事，和 tomorrow 矛盾。",
+  "vocab": [
+   {
+    "w": "lock",
+    "zh": "鎖上",
+    "pos": "v."
+   },
+   {
+    "w": "remember",
+    "zh": "記得",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0064",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I still remember ____ this song at the concert last year.",
+  "options": [
+   "to hear",
+   "hear",
+   "heard",
+   "hearing"
+  ],
+  "answer": 3,
+  "explain_zh": "remember + V-ing 表示「記得做過的事」，last year 提示是過去的經驗。remember to hear 是記得要去聽，語意不合。",
+  "vocab": [
+   {
+    "w": "concert",
+    "zh": "演唱會",
+    "pos": "n."
+   },
+   {
+    "w": "hear",
+    "zh": "聽見",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0065",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I will never forget ____ Mount Fuji with my family when I was ten.",
+  "options": [
+   "visiting",
+   "to visit",
+   "visit",
+   "visited"
+  ],
+  "answer": 0,
+  "explain_zh": "forget + V-ing 表示「忘不了做過的事」，when I was ten 指過去的回憶。forget to visit 是忘記要去做。",
+  "vocab": [
+   {
+    "w": "forget",
+    "zh": "忘記",
+    "pos": "v."
+   },
+   {
+    "w": "visit",
+    "zh": "參觀",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0066",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Don't forget ____ your umbrella; it will rain later this afternoon.",
+  "options": [
+   "bringing",
+   "to bring",
+   "bring",
+   "brought"
+  ],
+  "answer": 1,
+  "explain_zh": "forget to + 原形表示「忘記要做的事」，這裡是提醒帶傘。forget bringing 是忘記曾經帶過，語意不合。",
+  "vocab": [
+   {
+    "w": "umbrella",
+    "zh": "雨傘",
+    "pos": "n."
+   },
+   {
+    "w": "bring",
+    "zh": "帶",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0067",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I would like ____ a cup of hot tea, please.",
+  "options": [
+   "having",
+   "have",
+   "to have",
+   "had"
+  ],
+  "answer": 2,
+  "explain_zh": "would like 後面接不定詞 to have，表示想要做某事。would like having 不合文法，原形與過去式也不能直接接。",
+  "vocab": [
+   {
+    "w": "would like",
+    "zh": "想要",
+    "pos": "v."
+   },
+   {
+    "w": "tea",
+    "zh": "茶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0068",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is important ____ enough water every day, especially in summer.",
+  "options": [
+   "drinking",
+   "drink",
+   "drank",
+   "to drink"
+  ],
+  "answer": 3,
+  "explain_zh": "It is + 形容詞 + to + 原形是虛主詞句型，真正的主詞是 to drink。這個句型不能用動名詞或原形接在 important 後面。",
+  "vocab": [
+   {
+    "w": "important",
+    "zh": "重要的",
+    "pos": "adj."
+   },
+   {
+    "w": "enough",
+    "zh": "足夠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0069",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:infinitive-gerund",
+  "tag_zh": "不定詞與動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Mike keeps ____ his phone in class, and the teacher is angry.",
+  "options": [
+   "using",
+   "to use",
+   "use",
+   "used"
+  ],
+  "answer": 0,
+  "explain_zh": "keep + V-ing 表示「一直做某事」，所以用 using。keep to use 不合文法，原形與過去式也不能接在 keep 後面。",
+  "vocab": [
+   {
+    "w": "keep",
+    "zh": "持續",
+    "pos": "v."
+   },
+   {
+    "w": "angry",
+    "zh": "生氣的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0070",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "You ____ wear a helmet when you ride a scooter. It is the law.",
+  "options": [
+   "may",
+   "must",
+   "might",
+   "could"
+  ],
+  "answer": 1,
+  "explain_zh": "法律規定屬於強烈的義務，用 must。may 和 might 表示可能或許可，could 表示能力或客氣請求，語氣都太弱。",
+  "vocab": [
+   {
+    "w": "helmet",
+    "zh": "安全帽",
+    "pos": "n."
+   },
+   {
+    "w": "law",
+    "zh": "法律",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0071",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ I borrow your eraser for a moment, please?",
+  "options": [
+   "Must",
+   "Should",
+   "May",
+   "Would"
+  ],
+  "answer": 2,
+  "explain_zh": "May I...? 是有禮貌地請求許可。Must I 是問有沒有義務，Should I 是問該不該，Would I 不能用來請求許可。",
+  "vocab": [
+   {
+    "w": "borrow",
+    "zh": "借",
+    "pos": "v."
+   },
+   {
+    "w": "eraser",
+    "zh": "橡皮擦",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0072",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is very cloudy. It ____ rain this afternoon, so take an umbrella.",
+  "options": [
+   "must",
+   "should",
+   "can't",
+   "might"
+  ],
+  "answer": 3,
+  "explain_zh": "might 表示「也許會」，符合看天色猜測的語氣。must 是很肯定的推測，should 是應該，can't 是不可能，都與 very cloudy 的推測不合。",
+  "vocab": [
+   {
+    "w": "cloudy",
+    "zh": "多雲的",
+    "pos": "adj."
+   },
+   {
+    "w": "might",
+    "zh": "也許",
+    "pos": "aux."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0073",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "You look really tired. You ____ go to bed earlier tonight.",
+  "options": [
+   "should",
+   "must not",
+   "can't",
+   "would"
+  ],
+  "answer": 0,
+  "explain_zh": "should 用來給建議，語氣最合適。must not 是禁止，can't 是不可能，would 沒有建議的意思。",
+  "vocab": [
+   {
+    "w": "tired",
+    "zh": "疲倦的",
+    "pos": "adj."
+   },
+   {
+    "w": "early",
+    "zh": "早的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0074",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "When I was six, I ____ not swim at all, but now I can.",
+  "options": [
+   "can",
+   "could",
+   "may",
+   "must"
+  ],
+  "answer": 1,
+  "explain_zh": "描述過去的能力用 could，句尾的 but now I can 也提示前面要用過去式。can 是現在式，may 與 must 不表示能力。",
+  "vocab": [
+   {
+    "w": "swim",
+    "zh": "游泳",
+    "pos": "v."
+   },
+   {
+    "w": "could",
+    "zh": "能夠",
+    "pos": "aux."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0075",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "She ____ speak three languages, including Japanese and Korean.",
+  "options": [
+   "must",
+   "should",
+   "can",
+   "may"
+  ],
+  "answer": 2,
+  "explain_zh": "說明現在具備的能力用 can。must 是必須，should 是應該，may 是也許，都不是在講能力。",
+  "vocab": [
+   {
+    "w": "language",
+    "zh": "語言",
+    "pos": "n."
+   },
+   {
+    "w": "including",
+    "zh": "包括",
+    "pos": "prep."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0076",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "You ____ be hungry after running for two hours in the sun.",
+  "options": [
+   "can",
+   "may not",
+   "need",
+   "must"
+  ],
+  "answer": 3,
+  "explain_zh": "must 在這裡表示很有把握的推測「一定是」。can 不能這樣表肯定推測，may not 意思相反，need 也不能單獨這樣用。",
+  "vocab": [
+   {
+    "w": "hungry",
+    "zh": "飢餓的",
+    "pos": "adj."
+   },
+   {
+    "w": "sun",
+    "zh": "太陽",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0077",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "We ____ to hand in the science report before Friday afternoon.",
+  "options": [
+   "have",
+   "must",
+   "should",
+   "can"
+  ],
+  "answer": 0,
+  "explain_zh": "have to 是「必須」的固定用法，後面接原形動詞。must、should、can 都是情態助動詞，後面不能再接 to。",
+  "vocab": [
+   {
+    "w": "hand in",
+    "zh": "繳交",
+    "pos": "v."
+   },
+   {
+    "w": "report",
+    "zh": "報告",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0078",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "The sky is clear all day, so you ____ take an umbrella.",
+  "options": [
+   "must not",
+   "don't have to",
+   "can't",
+   "shouldn't"
+  ],
+  "answer": 1,
+  "explain_zh": "don't have to 表示「不必」，沒有必要帶傘。must not 是嚴格禁止，can't 是不可以，shouldn't 是不應該，語氣都太強。",
+  "vocab": [
+   {
+    "w": "clear",
+    "zh": "晴朗的",
+    "pos": "adj."
+   },
+   {
+    "w": "umbrella",
+    "zh": "雨傘",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0079",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Visitors ____ feed the animals in the zoo. It is very dangerous.",
+  "options": [
+   "don't have to",
+   "might not",
+   "must not",
+   "would not"
+  ],
+  "answer": 2,
+  "explain_zh": "危險行為要用 must not 表示嚴格禁止。don't have to 是「不必」，might not 是也許不會，would not 是不願意，都不是禁止。",
+  "vocab": [
+   {
+    "w": "visitor",
+    "zh": "遊客",
+    "pos": "n."
+   },
+   {
+    "w": "feed",
+    "zh": "餵食",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0080",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ you please turn down the music? I am studying for a test.",
+  "options": [
+   "Must",
+   "Should",
+   "May",
+   "Could"
+  ],
+  "answer": 3,
+  "explain_zh": "Could you...? 是客氣地請別人做事。Must you、Should you、May you 都不是請求對方幫忙的正確說法。",
+  "vocab": [
+   {
+    "w": "turn down",
+    "zh": "調小聲",
+    "pos": "v."
+   },
+   {
+    "w": "music",
+    "zh": "音樂",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0081",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "He ____ be at home now; I just saw him at the library.",
+  "options": [
+   "can't",
+   "must",
+   "should",
+   "may"
+  ],
+  "answer": 0,
+  "explain_zh": "剛剛在圖書館看到他，所以推測「不可能在家」，否定推測用 can't。must 是肯定推測，should 與 may 都不合語意。",
+  "vocab": [
+   {
+    "w": "library",
+    "zh": "圖書館",
+    "pos": "n."
+   },
+   {
+    "w": "home",
+    "zh": "家",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0082",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ we meet in front of the train station at six o'clock?",
+  "options": [
+   "Do",
+   "Shall",
+   "Are",
+   "Must"
+  ],
+  "answer": 1,
+  "explain_zh": "Shall we...? 用來提出建議或邀約。Do we、Are we、Must we 都不能表達「我們要不要……」的提議語氣。",
+  "vocab": [
+   {
+    "w": "station",
+    "zh": "車站",
+    "pos": "n."
+   },
+   {
+    "w": "meet",
+    "zh": "碰面",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0083",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "You ____ better see a doctor if the cough gets worse.",
+  "options": [
+   "have",
+   "would",
+   "had",
+   "should"
+  ],
+  "answer": 2,
+  "explain_zh": "had better + 原形是「最好……」的固定用法。have better、would better、should better 都不是正確說法。",
+  "vocab": [
+   {
+    "w": "cough",
+    "zh": "咳嗽",
+    "pos": "n."
+   },
+   {
+    "w": "worse",
+    "zh": "更糟的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0084",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:modal-verbs",
+  "tag_zh": "情態助動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tom ____ to wear a uniform at his old school in Tainan.",
+  "options": [
+   "must",
+   "should",
+   "would",
+   "had"
+  ],
+  "answer": 3,
+  "explain_zh": "had to 是 have to 的過去式，表示過去的必須。must、should、would 後面不能接 to，也不能這樣表示過去的規定。",
+  "vocab": [
+   {
+    "w": "uniform",
+    "zh": "制服",
+    "pos": "n."
+   },
+   {
+    "w": "old",
+    "zh": "從前的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0085",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "This long bridge ____ in 1998 by a Japanese company.",
+  "options": [
+   "was built",
+   "built",
+   "is built",
+   "has built"
+  ],
+  "answer": 0,
+  "explain_zh": "橋是被建造的，且時間 1998 是過去，要用過去式被動 was built。built 是主動，is built 時態錯誤，has built 是主動完成式。",
+  "vocab": [
+   {
+    "w": "bridge",
+    "zh": "橋",
+    "pos": "n."
+   },
+   {
+    "w": "company",
+    "zh": "公司",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0086",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "English ____ in many countries around the world today.",
+  "options": [
+   "speaks",
+   "is spoken",
+   "is speaking",
+   "spoke"
+  ],
+  "answer": 1,
+  "explain_zh": "英語是「被說」的，現在的事實用現在式被動 is spoken。speaks 與 spoke 是主動，is speaking 是主動進行式。",
+  "vocab": [
+   {
+    "w": "country",
+    "zh": "國家",
+    "pos": "n."
+   },
+   {
+    "w": "speak",
+    "zh": "說",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0087",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "The classroom ____ every day by the students on duty.",
+  "options": [
+   "cleans",
+   "cleaned",
+   "is cleaned",
+   "is cleaning"
+  ],
+  "answer": 2,
+  "explain_zh": "教室是被打掃的，every day 表示現在的習慣，用 is cleaned。其他三個都是主動形式。",
+  "vocab": [
+   {
+    "w": "duty",
+    "zh": "值日",
+    "pos": "n."
+   },
+   {
+    "w": "clean",
+    "zh": "打掃",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0088",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "My bike ____ last night, so I took the bus this morning.",
+  "options": [
+   "stole",
+   "is stolen",
+   "was stealing",
+   "was stolen"
+  ],
+  "answer": 3,
+  "explain_zh": "腳踏車是被偷的，last night 是過去，用 was stolen。stole 與 was stealing 是主動，is stolen 時態不對。",
+  "vocab": [
+   {
+    "w": "steal",
+    "zh": "偷",
+    "pos": "v."
+   },
+   {
+    "w": "bike",
+    "zh": "腳踏車",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0089",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "These delicious cookies ____ by my grandmother yesterday.",
+  "options": [
+   "were made",
+   "made",
+   "are made",
+   "was made"
+  ],
+  "answer": 0,
+  "explain_zh": "餅乾是被做出來的，主詞複數且時間是昨天，用 were made。made 是主動，are made 時態錯，was made 主詞單複數不合。",
+  "vocab": [
+   {
+    "w": "cookie",
+    "zh": "餅乾",
+    "pos": "n."
+   },
+   {
+    "w": "delicious",
+    "zh": "美味的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0090",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "All the invitation letters will ____ tomorrow morning.",
+  "options": [
+   "send",
+   "be sent",
+   "sent",
+   "be sending"
+  ],
+  "answer": 1,
+  "explain_zh": "will 後面接原形，被動語態為 will be + 過去分詞，故選 be sent。send 與 sent 缺少 be，be sending 是進行式主動。",
+  "vocab": [
+   {
+    "w": "invitation",
+    "zh": "邀請",
+    "pos": "n."
+   },
+   {
+    "w": "send",
+    "zh": "寄送",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0091",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "Many windows ____ by the strong wind during the typhoon.",
+  "options": [
+   "broke",
+   "are broken",
+   "were broken",
+   "were breaking"
+  ],
+  "answer": 2,
+  "explain_zh": "窗戶是被風吹破的，過去的事且主詞複數，用 were broken。broke 與 were breaking 是主動，are broken 時態錯誤。",
+  "vocab": [
+   {
+    "w": "wind",
+    "zh": "風",
+    "pos": "n."
+   },
+   {
+    "w": "break",
+    "zh": "打破",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0092",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "Paper ____ from trees, so we should save every sheet.",
+  "options": [
+   "makes",
+   "made",
+   "is making",
+   "is made"
+  ],
+  "answer": 3,
+  "explain_zh": "紙是被製造出來的，敘述普遍事實用現在式被動 is made from。makes 和 made 是主動，is making 是主動進行式。",
+  "vocab": [
+   {
+    "w": "paper",
+    "zh": "紙",
+    "pos": "n."
+   },
+   {
+    "w": "save",
+    "zh": "節省",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0093",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "That popular song ____ by a famous singer last year.",
+  "options": [
+   "was sung",
+   "sang",
+   "is sung",
+   "was singing"
+  ],
+  "answer": 0,
+  "explain_zh": "歌是被唱的，last year 是過去，用 was sung。sang 與 was singing 是主動，is sung 時態不符。",
+  "vocab": [
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "pos": "adj."
+   },
+   {
+    "w": "famous",
+    "zh": "有名的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0094",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "Many young trees ____ on our campus every spring.",
+  "options": [
+   "plant",
+   "are planted",
+   "planted",
+   "are planting"
+  ],
+  "answer": 1,
+  "explain_zh": "樹是被種下的，every spring 表示現在的習慣，主詞複數用 are planted。其他選項都是主動形式。",
+  "vocab": [
+   {
+    "w": "campus",
+    "zh": "校園",
+    "pos": "n."
+   },
+   {
+    "w": "plant",
+    "zh": "種植",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0095",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "The math homework must ____ before Friday afternoon.",
+  "options": [
+   "hand in",
+   "handed in",
+   "be handed in",
+   "being handed in"
+  ],
+  "answer": 2,
+  "explain_zh": "must 後面接原形，被動要用 must be + 過去分詞。hand in 與 handed in 缺少 be，being handed in 不能接在 must 後面。",
+  "vocab": [
+   {
+    "w": "hand in",
+    "zh": "繳交",
+    "pos": "v."
+   },
+   {
+    "w": "homework",
+    "zh": "功課",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0096",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-basic",
+  "tag_zh": "被動語態入門",
+  "passage": null,
+  "group_id": null,
+  "stem": "This beautiful picture ____ by a student in our class.",
+  "options": [
+   "drew",
+   "is drawing",
+   "draws",
+   "was drawn"
+  ],
+  "answer": 3,
+  "explain_zh": "畫是被畫出來的，要用被動語態 was drawn。drew、draws、is drawing 都是主動形式，主詞變成畫自己在畫圖。",
+  "vocab": [
+   {
+    "w": "draw",
+    "zh": "畫",
+    "pos": "v."
+   },
+   {
+    "w": "beautiful",
+    "zh": "美麗的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0097",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "You are in the ninth grade this year, ____?",
+  "options": [
+   "aren't you",
+   "are you",
+   "don't you",
+   "isn't it"
+  ],
+  "answer": 0,
+  "explain_zh": "附加問句要「前肯後否」，主要子句用 are，所以附加問句是 aren't you。are you 沒有變否定，don't you 助動詞錯，isn't it 主詞錯。",
+  "vocab": [
+   {
+    "w": "grade",
+    "zh": "年級",
+    "pos": "n."
+   },
+   {
+    "w": "year",
+    "zh": "年",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0098",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Your sister doesn't like drinking coffee, ____?",
+  "options": [
+   "doesn't she",
+   "does she",
+   "is she",
+   "does it"
+  ],
+  "answer": 1,
+  "explain_zh": "主要子句是否定，附加問句要用肯定，而且要和 doesn't 一致用 does，主詞代換成 she。doesn't she 重複否定，is she 助動詞錯。",
+  "vocab": [
+   {
+    "w": "coffee",
+    "zh": "咖啡",
+    "pos": "n."
+   },
+   {
+    "w": "sister",
+    "zh": "姊妹",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0099",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Let's go hiking in Yangmingshan this Sunday, ____?",
+  "options": [
+   "will you",
+   "do we",
+   "shall we",
+   "don't we"
+  ],
+  "answer": 2,
+  "explain_zh": "Let's 開頭的句子，附加問句固定用 shall we。will you 用在祈使句，do we 與 don't we 都不正確。",
+  "vocab": [
+   {
+    "w": "hiking",
+    "zh": "健行",
+    "pos": "n."
+   },
+   {
+    "w": "Sunday",
+    "zh": "星期日",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0100",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tom went to the dentist with his mother yesterday, ____?",
+  "options": [
+   "did he",
+   "doesn't he",
+   "wasn't he",
+   "didn't he"
+  ],
+  "answer": 3,
+  "explain_zh": "主要子句是過去式肯定句，附加問句要用 didn't he。did he 沒有否定，doesn't he 時態錯，wasn't he 助動詞錯。",
+  "vocab": [
+   {
+    "w": "dentist",
+    "zh": "牙醫",
+    "pos": "n."
+   },
+   {
+    "w": "yesterday",
+    "zh": "昨天",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0101",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Open the window and let the fresh air in, ____?",
+  "options": [
+   "will you",
+   "shall we",
+   "do you",
+   "aren't you"
+  ],
+  "answer": 0,
+  "explain_zh": "祈使句的附加問句用 will you。shall we 用在 Let's 句型，do you 和 aren't you 都不能接在祈使句後面。",
+  "vocab": [
+   {
+    "w": "fresh",
+    "zh": "新鮮的",
+    "pos": "adj."
+   },
+   {
+    "w": "air",
+    "zh": "空氣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0102",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "They have already finished the group project, ____?",
+  "options": [
+   "have they",
+   "haven't they",
+   "didn't they",
+   "don't they"
+  ],
+  "answer": 1,
+  "explain_zh": "現在完成式的附加問句用 haven't they。have they 沒有否定，didn't they 與 don't they 助動詞不一致。",
+  "vocab": [
+   {
+    "w": "project",
+    "zh": "專題",
+    "pos": "n."
+   },
+   {
+    "w": "already",
+    "zh": "已經",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0103",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "There is a big night market near your house, ____?",
+  "options": [
+   "isn't it",
+   "aren't there",
+   "isn't there",
+   "is there"
+  ],
+  "answer": 2,
+  "explain_zh": "There is 句型的附加問句主詞仍用 there，且要否定，故用 isn't there。isn't it 主詞錯，aren't there 單複數錯。",
+  "vocab": [
+   {
+    "w": "market",
+    "zh": "市場",
+    "pos": "n."
+   },
+   {
+    "w": "near",
+    "zh": "在……附近",
+    "pos": "prep."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0104",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "You can't drive a car by yourself yet, ____?",
+  "options": [
+   "can't you",
+   "do you",
+   "could you",
+   "can you"
+  ],
+  "answer": 3,
+  "explain_zh": "主要子句是否定 can't，附加問句要改成肯定的 can you。can't you 重複否定，do you 助動詞不一致，could you 時態不對。",
+  "vocab": [
+   {
+    "w": "drive",
+    "zh": "駕駛",
+    "pos": "v."
+   },
+   {
+    "w": "car",
+    "zh": "汽車",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0105",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tag-question",
+  "tag_zh": "附加問句",
+  "passage": null,
+  "group_id": null,
+  "stem": "Amy will join the English club next semester, ____?",
+  "options": [
+   "won't she",
+   "will she",
+   "doesn't she",
+   "isn't she"
+  ],
+  "answer": 0,
+  "explain_zh": "未來式肯定句的附加問句用 won't she。will she 沒有否定，doesn't she 與 isn't she 助動詞不一致。",
+  "vocab": [
+   {
+    "w": "club",
+    "zh": "社團",
+    "pos": "n."
+   },
+   {
+    "w": "semester",
+    "zh": "學期",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0106",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "I ____ my homework when the earthquake suddenly happened.",
+  "options": [
+   "did",
+   "was doing",
+   "am doing",
+   "have done"
+  ],
+  "answer": 1,
+  "explain_zh": "when 引導的短暫動作發生時，正在進行的動作用過去進行式 was doing。did 是單純過去，am doing 是現在進行，have done 是完成式。",
+  "vocab": [
+   {
+    "w": "earthquake",
+    "zh": "地震",
+    "pos": "n."
+   },
+   {
+    "w": "suddenly",
+    "zh": "突然地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0107",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "While my sister ____ on the phone, the doorbell rang loudly.",
+  "options": [
+   "talked",
+   "talks",
+   "was talking",
+   "is talking"
+  ],
+  "answer": 2,
+  "explain_zh": "While 引導的長動作要用過去進行式 was talking，搭配後面的過去式 rang。talked、talks、is talking 都無法表示當時正在進行。",
+  "vocab": [
+   {
+    "w": "doorbell",
+    "zh": "門鈴",
+    "pos": "n."
+   },
+   {
+    "w": "ring",
+    "zh": "響",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0108",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "At eight o'clock last night, we ____ dinner together at home.",
+  "options": [
+   "have",
+   "had been",
+   "are having",
+   "were having"
+  ],
+  "answer": 3,
+  "explain_zh": "at eight o'clock last night 指過去某一時刻正在做的事，用過去進行式 were having。have 與 are having 時態錯，had been 後面不能直接接受詞。",
+  "vocab": [
+   {
+    "w": "dinner",
+    "zh": "晚餐",
+    "pos": "n."
+   },
+   {
+    "w": "together",
+    "zh": "一起",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0109",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "They ____ basketball when it suddenly started to rain hard.",
+  "options": [
+   "were playing",
+   "played",
+   "are playing",
+   "have played"
+  ],
+  "answer": 0,
+  "explain_zh": "突然下雨時正在進行的動作用過去進行式 were playing。played 只表示過去發生，are playing 是現在進行，have played 是完成式。",
+  "vocab": [
+   {
+    "w": "basketball",
+    "zh": "籃球",
+    "pos": "n."
+   },
+   {
+    "w": "start",
+    "zh": "開始",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0110",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "The students ____ quietly when the principal walked into the room.",
+  "options": [
+   "read",
+   "were reading",
+   "are reading",
+   "have read"
+  ],
+  "answer": 1,
+  "explain_zh": "校長走進來的那一刻學生正在閱讀，用過去進行式 were reading。read 無法強調當時正在進行，其他兩個時態也不對。",
+  "vocab": [
+   {
+    "w": "principal",
+    "zh": "校長",
+    "pos": "n."
+   },
+   {
+    "w": "quietly",
+    "zh": "安靜地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0111",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "It ____ heavily when we walked out of the MRT station.",
+  "options": [
+   "rains",
+   "is raining",
+   "was raining",
+   "has rained"
+  ],
+  "answer": 2,
+  "explain_zh": "走出捷運站時雨正在下，用過去進行式 was raining。rains 與 is raining 是現在的時態，has rained 是完成式。",
+  "vocab": [
+   {
+    "w": "heavily",
+    "zh": "猛烈地",
+    "pos": "adv."
+   },
+   {
+    "w": "station",
+    "zh": "車站",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0112",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "My parents were watching TV while I ____ the dishes.",
+  "options": [
+   "wash",
+   "have washed",
+   "am washing",
+   "was washing"
+  ],
+  "answer": 3,
+  "explain_zh": "while 連接兩個同時進行的過去動作，前面是 were watching，後面也要用過去進行式 was washing。其他選項時態不一致。",
+  "vocab": [
+   {
+    "w": "dish",
+    "zh": "碗盤",
+    "pos": "n."
+   },
+   {
+    "w": "wash",
+    "zh": "清洗",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0113",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "He ____ for the bus when his uncle drove by and stopped.",
+  "options": [
+   "was waiting",
+   "waits",
+   "is waiting",
+   "has waited"
+  ],
+  "answer": 0,
+  "explain_zh": "叔叔開車經過時他正在等公車，用過去進行式 was waiting。waits 與 is waiting 是現在式，has waited 是完成式。",
+  "vocab": [
+   {
+    "w": "uncle",
+    "zh": "叔叔",
+    "pos": "n."
+   },
+   {
+    "w": "drive by",
+    "zh": "開車經過",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0114",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "I ____ across the street when someone suddenly called my name.",
+  "options": [
+   "walk",
+   "was walking",
+   "am walking",
+   "have walked"
+  ],
+  "answer": 1,
+  "explain_zh": "有人叫我名字時我正在過馬路，用過去進行式 was walking。其他三個選項都無法表達過去某時正在進行的動作。",
+  "vocab": [
+   {
+    "w": "across",
+    "zh": "橫越",
+    "pos": "prep."
+   },
+   {
+    "w": "call",
+    "zh": "呼叫",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0115",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "The baby ____ peacefully when his mother came into the room.",
+  "options": [
+   "sleeps",
+   "is sleeping",
+   "was sleeping",
+   "has slept"
+  ],
+  "answer": 2,
+  "explain_zh": "媽媽進房間時寶寶正在睡覺，用過去進行式 was sleeping。sleeps 是現在習慣，is sleeping 是現在進行，has slept 是完成式。",
+  "vocab": [
+   {
+    "w": "peacefully",
+    "zh": "安穩地",
+    "pos": "adv."
+   },
+   {
+    "w": "baby",
+    "zh": "嬰兒",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0116",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "We ____ about the coming test when the teacher came in.",
+  "options": [
+   "talk",
+   "are talking",
+   "have talked",
+   "were talking"
+  ],
+  "answer": 3,
+  "explain_zh": "老師進來時我們正在討論考試，用過去進行式 were talking。talk 與 are talking 是現在的時態，have talked 是完成式。",
+  "vocab": [
+   {
+    "w": "coming",
+    "zh": "即將到來的",
+    "pos": "adj."
+   },
+   {
+    "w": "teacher",
+    "zh": "老師",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0117",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:past-continuous",
+  "tag_zh": "過去進行式",
+  "passage": null,
+  "group_id": null,
+  "stem": "She ____ a shower, so she didn't answer your phone call.",
+  "options": [
+   "was taking",
+   "takes",
+   "is taking",
+   "has taken"
+  ],
+  "answer": 0,
+  "explain_zh": "她沒接電話是因為當時正在洗澡，用過去進行式 was taking。takes 與 is taking 是現在式，has taken 無法說明當時的狀態。",
+  "vocab": [
+   {
+    "w": "shower",
+    "zh": "淋浴",
+    "pos": "n."
+   },
+   {
+    "w": "answer",
+    "zh": "接聽",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0118",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "The soup is ____ hot that I cannot drink it right now.",
+  "options": [
+   "such",
+   "so",
+   "too",
+   "very"
+  ],
+  "answer": 1,
+  "explain_zh": "so + 形容詞 + that 子句表示「如此……以至於」。such 後面要接名詞，too 和 very 都不能搭配 that 子句。",
+  "vocab": [
+   {
+    "w": "soup",
+    "zh": "湯",
+    "pos": "n."
+   },
+   {
+    "w": "hot",
+    "zh": "燙的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0119",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was ____ a nice day that we decided to go to the beach.",
+  "options": [
+   "so",
+   "too",
+   "such",
+   "very"
+  ],
+  "answer": 2,
+  "explain_zh": "such + a + 形容詞 + 名詞 + that 子句是固定句型。so 後面要直接接形容詞，too 與 very 不能接 that 子句。",
+  "vocab": [
+   {
+    "w": "beach",
+    "zh": "海灘",
+    "pos": "n."
+   },
+   {
+    "w": "decide",
+    "zh": "決定",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0120",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "He is ____ young to watch this movie by himself.",
+  "options": [
+   "so",
+   "such",
+   "enough",
+   "too"
+  ],
+  "answer": 3,
+  "explain_zh": "too + 形容詞 + to + 原形表示「太……而不能」。so 與 such 不能形成這個句型，enough 要放在形容詞後面。",
+  "vocab": [
+   {
+    "w": "young",
+    "zh": "年輕的",
+    "pos": "adj."
+   },
+   {
+    "w": "movie",
+    "zh": "電影",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0121",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "She is old ____ to take good care of herself now.",
+  "options": [
+   "enough",
+   "too",
+   "so",
+   "such"
+  ],
+  "answer": 0,
+  "explain_zh": "enough 修飾形容詞時要放在形容詞後面，old enough to 表示「夠大到可以」。too old to 意思相反，so 與 such 都不合句型。",
+  "vocab": [
+   {
+    "w": "enough",
+    "zh": "足夠地",
+    "pos": "adv."
+   },
+   {
+    "w": "take care of",
+    "zh": "照顧",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0122",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "The box is too heavy for me ____ upstairs alone.",
+  "options": [
+   "carrying",
+   "to carry",
+   "carry",
+   "carried"
+  ],
+  "answer": 1,
+  "explain_zh": "too...for someone to + 原形是固定句型，故用 to carry。動名詞、原形與過去式都不能放在這個位置。",
+  "vocab": [
+   {
+    "w": "carry",
+    "zh": "搬運",
+    "pos": "v."
+   },
+   {
+    "w": "upstairs",
+    "zh": "樓上",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0123",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "It was ____ exciting game that nobody left before the end.",
+  "options": [
+   "so an",
+   "such a",
+   "such an",
+   "so a"
+  ],
+  "answer": 2,
+  "explain_zh": "such + a/an + 形容詞 + 名詞，exciting 是母音開頭要用 an，故選 such an。so 後面不能接冠詞，such a 冠詞用錯。",
+  "vocab": [
+   {
+    "w": "exciting",
+    "zh": "刺激的",
+    "pos": "adj."
+   },
+   {
+    "w": "nobody",
+    "zh": "沒有人",
+    "pos": "pron."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0124",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "There is not ____ time to finish the whole test paper.",
+  "options": [
+   "too",
+   "so",
+   "such",
+   "enough"
+  ],
+  "answer": 3,
+  "explain_zh": "enough 修飾名詞 time 時放在名詞前面，not enough time 表示時間不夠。too、so、such 都不能直接修飾名詞表示數量足夠。",
+  "vocab": [
+   {
+    "w": "whole",
+    "zh": "整份的",
+    "pos": "adj."
+   },
+   {
+    "w": "time",
+    "zh": "時間",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0125",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "This coffee is ____ sweet for me; I really cannot finish it.",
+  "options": [
+   "too",
+   "enough",
+   "such",
+   "so"
+  ],
+  "answer": 0,
+  "explain_zh": "too + 形容詞 + for someone 表示「對某人來說太……」。enough 要放在形容詞後，such 接名詞，so 不能這樣搭配 for me。",
+  "vocab": [
+   {
+    "w": "sweet",
+    "zh": "甜的",
+    "pos": "adj."
+   },
+   {
+    "w": "finish",
+    "zh": "喝完",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0126",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "The movie was ____ boring that half of the audience left early.",
+  "options": [
+   "such",
+   "so",
+   "too",
+   "very"
+  ],
+  "answer": 1,
+  "explain_zh": "so + 形容詞 + that 子句表示程度造成的結果。such 後面需要名詞，too 與 very 不能接 that 子句。",
+  "vocab": [
+   {
+    "w": "audience",
+    "zh": "觀眾",
+    "pos": "n."
+   },
+   {
+    "w": "half",
+    "zh": "一半",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0127",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "He ran fast ____ to catch the last bus back home.",
+  "options": [
+   "too",
+   "so",
+   "enough",
+   "much"
+  ],
+  "answer": 2,
+  "explain_zh": "enough 修飾副詞 fast 時要放在後面，fast enough to 表示「快到足以」。too fast to 意思相反，so 與 much 都不合句型。",
+  "vocab": [
+   {
+    "w": "catch",
+    "zh": "趕上",
+    "pos": "v."
+   },
+   {
+    "w": "last",
+    "zh": "最後的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0128",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "They are ____ kind people that everyone in town likes them.",
+  "options": [
+   "so",
+   "too",
+   "very",
+   "such"
+  ],
+  "answer": 3,
+  "explain_zh": "such + 形容詞 + 複數名詞 + that 子句，people 是名詞所以用 such。so 後面只能接形容詞或副詞，too 與 very 不接 that 子句。",
+  "vocab": [
+   {
+    "w": "kind",
+    "zh": "親切的",
+    "pos": "adj."
+   },
+   {
+    "w": "town",
+    "zh": "城鎮",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0129",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-such-too-enough",
+  "tag_zh": "so/such/too/enough",
+  "passage": null,
+  "group_id": null,
+  "stem": "I was ____ tired to walk any further, so I took a taxi.",
+  "options": [
+   "too",
+   "so",
+   "enough",
+   "such"
+  ],
+  "answer": 0,
+  "explain_zh": "too + 形容詞 + to + 原形表示「太累而無法再走」。so 要搭 that 子句，enough 位置錯誤，such 要接名詞。",
+  "vocab": [
+   {
+    "w": "further",
+    "zh": "更遠地",
+    "pos": "adv."
+   },
+   {
+    "w": "taxi",
+    "zh": "計程車",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0130",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ is the weather like in Taipei in March?",
+  "options": [
+   "How",
+   "What",
+   "Which",
+   "Why"
+  ],
+  "answer": 1,
+  "explain_zh": "問天氣的固定句型是 What is the weather like?。How is the weather? 雖然存在，但不能和 like 連用，Which 與 Why 都不合。",
+  "vocab": [
+   {
+    "w": "weather",
+    "zh": "天氣",
+    "pos": "n."
+   },
+   {
+    "w": "March",
+    "zh": "三月",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0131",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ do you go to the library? — About twice a week.",
+  "options": [
+   "How long",
+   "How many",
+   "How often",
+   "When"
+  ],
+  "answer": 2,
+  "explain_zh": "回答 twice a week 是頻率，所以問句用 How often。How long 問時間長度，How many 問數量，When 問時間點。",
+  "vocab": [
+   {
+    "w": "often",
+    "zh": "經常",
+    "pos": "adv."
+   },
+   {
+    "w": "library",
+    "zh": "圖書館",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0132",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ bag is this? It has your English name on it.",
+  "options": [
+   "Who's",
+   "Who",
+   "Which",
+   "Whose"
+  ],
+  "answer": 3,
+  "explain_zh": "問所有權且後面接名詞 bag，要用 Whose。Who's 是 who is 的縮寫，Who 不能直接修飾名詞，Which 是問哪一個。",
+  "vocab": [
+   {
+    "w": "whose",
+    "zh": "誰的",
+    "pos": "pron."
+   },
+   {
+    "w": "name",
+    "zh": "名字",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0133",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ did you stay in Japan last winter? — For ten days.",
+  "options": [
+   "How long",
+   "How often",
+   "How far",
+   "When"
+  ],
+  "answer": 0,
+  "explain_zh": "回答 For ten days 是一段時間，問句用 How long。How often 問頻率，How far 問距離，When 問時間點。",
+  "vocab": [
+   {
+    "w": "stay",
+    "zh": "停留",
+    "pos": "v."
+   },
+   {
+    "w": "winter",
+    "zh": "冬天",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0134",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ is it from your home to school? — About two kilometers.",
+  "options": [
+   "How long",
+   "How far",
+   "How much",
+   "How many"
+  ],
+  "answer": 1,
+  "explain_zh": "回答是距離兩公里，問距離用 How far。How long 問長度或時間，How much 問價錢或不可數數量，How many 問可數數量。",
+  "vocab": [
+   {
+    "w": "far",
+    "zh": "遠的",
+    "pos": "adj."
+   },
+   {
+    "w": "kilometer",
+    "zh": "公里",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0135",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ do you like better, apples or bananas?",
+  "options": [
+   "What",
+   "Who",
+   "Which",
+   "Whose"
+  ],
+  "answer": 2,
+  "explain_zh": "在兩個明確選項之間做選擇要用 Which。What 用於範圍不限定的提問，Who 問人，Whose 問所有權。",
+  "vocab": [
+   {
+    "w": "which",
+    "zh": "哪一個",
+    "pos": "pron."
+   },
+   {
+    "w": "banana",
+    "zh": "香蕉",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0136",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ were you absent yesterday? — Because I had a bad fever.",
+  "options": [
+   "When",
+   "How",
+   "What",
+   "Why"
+  ],
+  "answer": 3,
+  "explain_zh": "回答以 Because 開頭表示原因，問句要用 Why。When 問時間，How 問方式，What 問事物。",
+  "vocab": [
+   {
+    "w": "absent",
+    "zh": "缺席的",
+    "pos": "adj."
+   },
+   {
+    "w": "fever",
+    "zh": "發燒",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0137",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ students are there in your class? — Thirty-five.",
+  "options": [
+   "How many",
+   "How much",
+   "How often",
+   "How long"
+  ],
+  "answer": 0,
+  "explain_zh": "students 是可數名詞複數，問數量用 How many。How much 用於不可數名詞，How often 問頻率，How long 問長度。",
+  "vocab": [
+   {
+    "w": "many",
+    "zh": "許多",
+    "pos": "adj."
+   },
+   {
+    "w": "class",
+    "zh": "班級",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0138",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:question-words",
+  "tag_zh": "疑問詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ taught you to make this lovely cake? — My aunt did.",
+  "options": [
+   "Whose",
+   "Who",
+   "Whom",
+   "Which"
+  ],
+  "answer": 1,
+  "explain_zh": "回答是 My aunt，問人且當主詞要用 Who。Whose 問所有權，Whom 當受詞用，Which 用於選擇。",
+  "vocab": [
+   {
+    "w": "aunt",
+    "zh": "阿姨",
+    "pos": "n."
+   },
+   {
+    "w": "cake",
+    "zh": "蛋糕",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0139",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My father ____ drinks coffee at night because he cannot sleep.",
+  "options": [
+   "always",
+   "usually",
+   "never",
+   "often"
+  ],
+  "answer": 2,
+  "explain_zh": "因為喝了睡不著，所以是「從不」在晚上喝咖啡，用 never。always、usually、often 都表示常喝，與後面的原因矛盾。",
+  "vocab": [
+   {
+    "w": "never",
+    "zh": "從不",
+    "pos": "adv."
+   },
+   {
+    "w": "coffee",
+    "zh": "咖啡",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0140",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Lisa ____ late for school; she always gets up at six.",
+  "options": [
+   "never is",
+   "is not never",
+   "never be",
+   "is never"
+  ],
+  "answer": 3,
+  "explain_zh": "頻率副詞要放在 be 動詞後面，所以是 is never。never is 位置錯誤，is not never 是雙重否定，never be 缺少時態。",
+  "vocab": [
+   {
+    "w": "late",
+    "zh": "遲到的",
+    "pos": "adj."
+   },
+   {
+    "w": "get up",
+    "zh": "起床",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0141",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "There isn't ____ milk in the fridge; let's buy some on the way.",
+  "options": [
+   "any",
+   "some",
+   "many",
+   "a few"
+  ],
+  "answer": 0,
+  "explain_zh": "否定句中修飾不可數名詞 milk 要用 any。some 一般用於肯定句，many 與 a few 只能修飾可數名詞。",
+  "vocab": [
+   {
+    "w": "fridge",
+    "zh": "冰箱",
+    "pos": "n."
+   },
+   {
+    "w": "milk",
+    "zh": "牛奶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0142",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "How ____ water do you drink every day, Dr. Lin?",
+  "options": [
+   "many",
+   "much",
+   "much of",
+   "a lot"
+  ],
+  "answer": 1,
+  "explain_zh": "water 是不可數名詞，問數量用 How much。How many 接可數複數名詞，much of 與 a lot 都不能放在這個位置。",
+  "vocab": [
+   {
+    "w": "water",
+    "zh": "水",
+    "pos": "n."
+   },
+   {
+    "w": "drink",
+    "zh": "喝",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0143",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "There are ____ students in the gym, so it is very noisy.",
+  "options": [
+   "much",
+   "a little",
+   "many",
+   "any"
+  ],
+  "answer": 2,
+  "explain_zh": "students 是可數名詞複數，用 many 表示很多。much 與 a little 修飾不可數名詞，any 通常用於否定句或疑問句。",
+  "vocab": [
+   {
+    "w": "gym",
+    "zh": "體育館",
+    "pos": "n."
+   },
+   {
+    "w": "noisy",
+    "zh": "吵鬧的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0144",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I have only ____ friends in this new school, but they are very nice.",
+  "options": [
+   "a little",
+   "much",
+   "few of",
+   "a few"
+  ],
+  "answer": 3,
+  "explain_zh": "friends 是可數複數，而且後面說他們人很好，屬肯定語氣，用 a few。a little 與 much 修飾不可數名詞，few of 後面要接 the 或代名詞。",
+  "vocab": [
+   {
+    "w": "friend",
+    "zh": "朋友",
+    "pos": "n."
+   },
+   {
+    "w": "nice",
+    "zh": "友善的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0145",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "There is ____ sugar left, so we can still make a small cake.",
+  "options": [
+   "a little",
+   "a few",
+   "many",
+   "few"
+  ],
+  "answer": 0,
+  "explain_zh": "sugar 是不可數名詞，而且語氣是肯定的「還有一些」，用 a little。a few 與 many 修飾可數名詞，few 是否定語氣。",
+  "vocab": [
+   {
+    "w": "sugar",
+    "zh": "糖",
+    "pos": "n."
+   },
+   {
+    "w": "left",
+    "zh": "剩下的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0146",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ of the students in my class wear glasses in the front row.",
+  "options": [
+   "Much",
+   "Some",
+   "A little",
+   "Every"
+  ],
+  "answer": 1,
+  "explain_zh": "some of the + 複數名詞表示「其中一些」，動詞用 wear。Much 與 A little 搭配不可數名詞，Every 後面要直接接單數名詞不能加 of the。",
+  "vocab": [
+   {
+    "w": "glasses",
+    "zh": "眼鏡",
+    "pos": "n."
+   },
+   {
+    "w": "row",
+    "zh": "排",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0147",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My brother hardly ____ watches TV on school nights.",
+  "options": [
+   "never",
+   "always",
+   "ever",
+   "often"
+  ],
+  "answer": 2,
+  "explain_zh": "hardly ever 是固定搭配，表示「幾乎不曾」。hardly never 是雙重否定，hardly always 與 hardly often 都不是正確搭配。",
+  "vocab": [
+   {
+    "w": "hardly",
+    "zh": "幾乎不",
+    "pos": "adv."
+   },
+   {
+    "w": "ever",
+    "zh": "曾經",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0148",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I go swimming three ____ a week to stay healthy and strong.",
+  "options": [
+   "time",
+   "timing",
+   "hours",
+   "times"
+  ],
+  "answer": 3,
+  "explain_zh": "表示次數要用 times，three times a week 是一週三次。time 是單數形不合，timing 與 hours 都不能表示頻率次數。",
+  "vocab": [
+   {
+    "w": "times",
+    "zh": "次數",
+    "pos": "n."
+   },
+   {
+    "w": "strong",
+    "zh": "強壯的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0149",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ student in our class has an English name and a nickname.",
+  "options": [
+   "Every",
+   "All",
+   "Both",
+   "Some"
+  ],
+  "answer": 0,
+  "explain_zh": "Every 後面接單數名詞且動詞用單數 has。All 與 Some 要接複數名詞，Both 只用於兩者且接複數。",
+  "vocab": [
+   {
+    "w": "every",
+    "zh": "每一個",
+    "pos": "adj."
+   },
+   {
+    "w": "nickname",
+    "zh": "綽號",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JG2-0150",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:frequency-quantifier",
+  "tag_zh": "頻率與數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "We don't have ____ homework today, so let's play basketball.",
+  "options": [
+   "many",
+   "much",
+   "a few",
+   "lots"
+  ],
+  "answer": 1,
+  "explain_zh": "homework 是不可數名詞，否定句中用 much。many 與 a few 修飾可數名詞，lots 後面一定要加 of。",
+  "vocab": [
+   {
+    "w": "homework",
+    "zh": "功課",
+    "pos": "n."
+   },
+   {
+    "w": "basketball",
+    "zh": "籃球",
+    "pos": "n."
+   }
+  ]
+ }
+]

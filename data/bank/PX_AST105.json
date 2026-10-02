@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "PX-AST105-001",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "source": "105指考",
+    "stem": "Microscopes are used in medical research labs for studying bacteria or ______ that are too small to be visible to the naked eye.",
+    "options": [
+      "agencies",
+      "codes",
+      "germs",
+      "indexes"
+    ],
+    "answer": 2,
+    "explain_zh": "顯微鏡用於觀察肉眼看不見的細菌或「病菌」，故選 germs；agencies（機構）、codes（代碼）、indexes（索引）皆與微生物的語境不合。germ 常與 bacteria 並列出現在醫學類考題中。",
+    "vocab": [
+      {
+        "w": "germ",
+        "zh": "病菌",
+        "pos": "n."
+      },
+      {
+        "w": "microscope",
+        "zh": "顯微鏡",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-002",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:daily-life",
+    "tag_zh": "日常生活",
+    "source": "105指考",
+    "stem": "Lisa hopped on her bicycle and ______ as fast as she could through the dark narrow backstreets to get home after working the night shift.",
+    "options": [
+      "bounced",
+      "commuted",
+      "tumbled",
+      "pedaled"
+    ],
+    "answer": 3,
+    "explain_zh": "Lisa 騎腳踏車趕路回家，最合適的動作是「用力踩踏板」，故選 pedaled；bounced（彈跳）、tumbled（翻滾）皆與騎車無關，commuted（通勤）語意過於籠統，不如 pedaled 精確描述騎車的動作。",
+    "vocab": [
+      {
+        "w": "pedal",
+        "zh": "踩踏板",
+        "pos": "v."
+      },
+      {
+        "w": "commute",
+        "zh": "通勤",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-003",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:tourism",
+    "tag_zh": "旅遊觀光",
+    "source": "105指考",
+    "stem": "Rated as one of the top restaurants of the city, this steak house is highly ______ to visitors by the tourism bureau.",
+    "options": [
+      "encountered",
+      "recommended",
+      "outnumbered",
+      "speculated"
+    ],
+    "answer": 1,
+    "explain_zh": "觀光局極力向遊客「推薦」這家高評價牛排館，故選 recommended；encountered（偶遇）、outnumbered（數量超過）、speculated（推測）皆與觀光局宣傳的語意不合。highly recommended 是旅遊類常見搭配。",
+    "vocab": [
+      {
+        "w": "recommend",
+        "zh": "推薦",
+        "pos": "v."
+      },
+      {
+        "w": "encounter",
+        "zh": "偶遇",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-004",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:agreement",
+    "tag_zh": "協議承諾",
+    "source": "105指考",
+    "stem": "The manager ______ agreed to rent his apartment to me. Even though the agreement was not put in writing, I am sure he will keep his word.",
+    "options": [
+      "barely",
+      "stably",
+      "verbally",
+      "massively"
+    ],
+    "answer": 2,
+    "explain_zh": "後句提到協議並未寫成書面，卻仍相信對方會遵守承諾，可知經理是「口頭」同意出租公寓，故選 verbally；barely（勉強）、stably（穩定地）、massively（大量地）皆與口頭承諾的語意不合。",
+    "vocab": [
+      {
+        "w": "verbally",
+        "zh": "口頭地",
+        "pos": "adv."
+      },
+      {
+        "w": "in writing",
+        "zh": "以書面形式",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-005",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:leisure",
+    "tag_zh": "休閒生活",
+    "source": "105指考",
+    "stem": "For Jerry, practicing yoga three times a week is a relaxing ______ from his tight work schedule.",
+    "options": [
+      "diversion",
+      "medication",
+      "nuisance",
+      "fulfillment"
+    ],
+    "answer": 0,
+    "explain_zh": "每週練瑜珈三次，是讓 Jerry 從緊湊的工作行程中「轉移注意力放鬆」的方式，故選 diversion；medication（藥物治療）、nuisance（討厭的事）、fulfillment（成就感）皆與此處休閒放鬆的語意不合。",
+    "vocab": [
+      {
+        "w": "diversion",
+        "zh": "消遣,轉移注意力",
+        "pos": "n."
+      },
+      {
+        "w": "nuisance",
+        "zh": "討厭的事",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-006",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:family",
+    "tag_zh": "家庭關係",
+    "source": "105指考",
+    "stem": "Parents could be charged with neglect or abandonment if they leave their young children home alone without adult ______.",
+    "options": [
+      "intuition",
+      "supervision",
+      "compassion",
+      "obligation"
+    ],
+    "answer": 1,
+    "explain_zh": "若沒有成人「監督」而讓年幼孩子獨自在家，父母可能被控疏忽或遺棄，故選 supervision；intuition（直覺）、compassion（同情心）、obligation（義務）皆與監督照看的語意不合。",
+    "vocab": [
+      {
+        "w": "supervision",
+        "zh": "監督",
+        "pos": "n."
+      },
+      {
+        "w": "neglect",
+        "zh": "疏忽",
+        "pos": "n./v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-007",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康身體",
+    "source": "105指考",
+    "stem": "Walking at a ______ pace for a shorter amount of time burns more calories than walking at a slow pace for a longer period of time.",
+    "options": [
+      "joyous",
+      "superb",
+      "brisk",
+      "decent"
+    ],
+    "answer": 2,
+    "explain_zh": "句子以較短時間、較快步伐與較長時間、slow（慢）的步伐相比，故空格應選與 slow 相對的「輕快的」brisk；joyous（歡欣的）、superb（極好的）、decent（得體的）都無法表達步伐快慢的對比。",
+    "vocab": [
+      {
+        "w": "brisk",
+        "zh": "輕快的,快步的",
+        "pos": "adj."
+      },
+      {
+        "w": "pace",
+        "zh": "步伐,速度",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-008",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:weather",
+    "tag_zh": "天氣氣候",
+    "source": "105指考",
+    "stem": "Plants and animals in some deserts must cope with a climate of ______—freezing winters and very hot summers.",
+    "options": [
+      "extremes",
+      "forecasts",
+      "atmospheres",
+      "homelands"
+    ],
+    "answer": 0,
+    "explain_zh": "破折號後說明「冬天酷寒、夏天酷熱」，正是氣候「極端」的表現，故選 extremes；forecasts（預測）、atmospheres（大氣/氛圍）、homelands（家鄉）皆與氣候型態的描述不合。",
+    "vocab": [
+      {
+        "w": "extreme",
+        "zh": "極端",
+        "pos": "n."
+      },
+      {
+        "w": "forecast",
+        "zh": "預測",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-009",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "source": "105指考",
+    "stem": "The success of J.K. Rowling is ______, with her Harry Potter series making her a multi-millionaire in just a few years.",
+    "options": [
+      "eligible",
+      "marginal",
+      "confidential",
+      "legendary"
+    ],
+    "answer": 3,
+    "explain_zh": "J.K. 羅琳短短幾年內靠《哈利波特》系列成為千萬富翁，這樣的成功堪稱「傳奇性的」，故選 legendary；marginal（微不足道的）、eligible（合格的）、confidential（機密的）皆與其巨大成就的語意不合。",
+    "vocab": [
+      {
+        "w": "legendary",
+        "zh": "傳奇性的",
+        "pos": "adj."
+      },
+      {
+        "w": "marginal",
+        "zh": "微不足道的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-010",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟金融",
+    "source": "105指考",
+    "stem": "The high-tech company's ______ earnings surely made its shareholders happy since they were getting a good return on their investment.",
+    "options": [
+      "robust",
+      "solitary",
+      "imperative",
+      "terminal"
+    ],
+    "answer": 0,
+    "explain_zh": "獲利「強勁」讓投資報酬率良好、股東滿意，故選 robust；solitary（孤獨的）、imperative（必要的）、terminal（末期的,終點的）皆與獲利表現亮眼的語境不合。robust earnings 是財經新聞常見搭配。",
+    "vocab": [
+      {
+        "w": "robust",
+        "zh": "強勁的",
+        "pos": "adj."
+      },
+      {
+        "w": "shareholder",
+        "zh": "股東",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-011",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "105指考",
+    "passage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have (11) you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated.\nAccording to scientists, personal space involves certain invisible forces imposed on you through all the (12). For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare.\nIn certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their (13) distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing (14) them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may (15) to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
+    "group_id": "PX-AST105-G01",
+    "stem": "(11) 應填入：They may have ____ you with the loud music from their earphones.",
+    "options": [
+      "offended",
+      "controlled",
+      "acquired",
+      "supplied"
+    ],
+    "answer": 0,
+    "explain_zh": "別人耳機外放的大聲音樂讓人感到不悅、被「冒犯」，故選 offended；controlled（控制）、acquired（取得）、supplied（供應）皆與被打擾、冒犯的語意不合。offend 常用於描述令人不快的行為。",
+    "vocab": [
+      {
+        "w": "offend",
+        "zh": "冒犯,使不悅",
+        "pos": "v."
+      },
+      {
+        "w": "acquire",
+        "zh": "取得",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-012",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "105指考",
+    "passage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have (11) you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated.\nAccording to scientists, personal space involves certain invisible forces imposed on you through all the (12). For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare.\nIn certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their (13) distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing (14) them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may (15) to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
+    "group_id": "PX-AST105-G01",
+    "stem": "(12) 應填入：Personal space involves invisible forces imposed on you through all the ____.",
+    "options": [
+      "angles",
+      "events",
+      "senses",
+      "regions"
+    ],
+    "answer": 2,
+    "explain_zh": "後文舉出聲音、氣味、注視等例子，說明個人空間受侵犯是透過「感官」感受到的，故選 senses；angles（角度）、events（事件）、regions（區域）皆無法涵蓋聲音、氣味、視覺這類感官經驗。",
+    "vocab": [
+      {
+        "w": "sense",
+        "zh": "感官",
+        "pos": "n."
+      },
+      {
+        "w": "invade",
+        "zh": "侵犯",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-013",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "105指考",
+    "passage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have (11) you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated.\nAccording to scientists, personal space involves certain invisible forces imposed on you through all the (12). For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare.\nIn certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their (13) distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing (14) them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may (15) to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
+    "group_id": "PX-AST105-G01",
+    "stem": "(13) 應填入：It is not always possible for people to keep their ____ distance from others.",
+    "options": [
+      "prefer",
+      "preferring",
+      "preferred",
+      "being preferred"
+    ],
+    "answer": 2,
+    "explain_zh": "preferred distance（偏好的距離）中，過去分詞 preferred 作形容詞修飾 distance，故選 preferred；prefer 是原形動詞不能直接修飾名詞，preferring、being preferred 在文法結構上都不符合此處單純形容詞化的用法。",
+    "vocab": [
+      {
+        "w": "preferred distance",
+        "zh": "偏好的距離",
+        "pos": "phr."
+      },
+      {
+        "w": "distance",
+        "zh": "距離",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-014",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "source": "105指考",
+    "passage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have (11) you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated.\nAccording to scientists, personal space involves certain invisible forces imposed on you through all the (12). For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare.\nIn certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their (13) distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing (14) them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may (15) to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
+    "group_id": "PX-AST105-G01",
+    "stem": "(14) 應填入：People often avoid eye contact with someone standing ____ them.",
+    "options": [
+      "long before",
+      "close to",
+      "aside from",
+      "soon after"
+    ],
+    "answer": 1,
+    "explain_zh": "人們會避免與站得「很靠近」自己的人有眼神接觸，故選 close to；long before（很久以前）、aside from（除了）、soon after（不久後）皆與描述空間距離的語意不合。close to 是常見的空間介系詞片語。",
+    "vocab": [
+      {
+        "w": "close to",
+        "zh": "靠近",
+        "pos": "phr."
+      },
+      {
+        "w": "aside from",
+        "zh": "除了",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-015",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "105指考",
+    "passage": "Have you been irritated by someone standing too close in line, talking too loud or making eye contact for too long? Or, they may have (11) you with the loud music from their earphones, or by taking up more than one seat on a crowded subway car. You feel unhappy because your personal space has been violated.\nAccording to scientists, personal space involves certain invisible forces imposed on you through all the (12). For example, people may feel their space is being invaded when they experience an unwelcome sound, smell, or stare.\nIn certain situations such as in crowded subway cars or elevators, it is not always possible for people to keep their (13) distance from others. They learn coping strategies to deal with their discomfort. For instance, people often avoid eye contact with someone standing (14) them, or they pretend that these people are lifeless objects in their personal space. Given the opportunity, they may (15) to a corner, putting distance between themselves and strangers. Or, they may sit or stand equidistant from one another like birds on a wire.",
+    "group_id": "PX-AST105-G01",
+    "stem": "(15) 應填入：Given the opportunity, they may ____ to a corner, putting distance between themselves and strangers.",
+    "options": [
+      "retreat",
+      "explore",
+      "dispense",
+      "connect"
+    ],
+    "answer": 0,
+    "explain_zh": "有機會的話，人們可能會「退到」角落，藉此拉開與陌生人的距離，故選 retreat；explore（探索）、dispense（分配,免除）、connect（連結）皆與遠離人群、退避的語意不合。",
+    "vocab": [
+      {
+        "w": "retreat",
+        "zh": "退到,撤退",
+        "pos": "v."
+      },
+      {
+        "w": "dispense",
+        "zh": "分配,免除",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-016",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "105指考",
+    "passage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the (16) uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, (17) people have even heard his name.\nTuring displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what (18) the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human.\nThe postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. (19) being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This (20) drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
+    "group_id": "PX-AST105-G02",
+    "stem": "(16) 應填入：He cracked the ____ uncrackable Enigma code used by Nazi Germany.",
+    "options": [
+      "eventually",
+      "precisely",
+      "concernedly",
+      "supposedly"
+    ],
+    "answer": 3,
+    "explain_zh": "Enigma 密碼「據稱」是無法破解的，卻被杜林破解，形成強烈反差，故選 supposedly；precisely（精確地）、concernedly（關切地）皆與此處強調「傳言中」不可破解的語意不合，eventually（最終）也不符合修飾 uncrackable 的邏輯。",
+    "vocab": [
+      {
+        "w": "supposedly",
+        "zh": "據稱,按理應該",
+        "pos": "adv."
+      },
+      {
+        "w": "eventually",
+        "zh": "最終",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-017",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "105指考",
+    "passage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the (16) uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, (17) people have even heard his name.\nTuring displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what (18) the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human.\nThe postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. (19) being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This (20) drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
+    "group_id": "PX-AST105-G02",
+    "stem": "(17) 應填入：His code-breaking helped save two million lives. Nevertheless, ____ people have even heard his name.",
+    "options": [
+      "many",
+      "some",
+      "any",
+      "few"
+    ],
+    "answer": 3,
+    "explain_zh": "Nevertheless 表轉折，前句說他的破譯貢獻拯救了兩百萬條人命，後句卻說「很少」人聽過他的名字，形成對比，故選 few；many、some、any 都無法呈現這種貢獻與知名度不成比例的反差語氣。",
+    "vocab": [
+      {
+        "w": "few",
+        "zh": "很少的",
+        "pos": "adj."
+      },
+      {
+        "w": "nevertheless",
+        "zh": "然而",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-018",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "105指考",
+    "passage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the (16) uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, (17) people have even heard his name.\nTuring displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what (18) the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human.\nThe postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. (19) being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This (20) drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
+    "group_id": "PX-AST105-G02",
+    "stem": "(18) 應填入：By the time he was 23, he had already come up with the idea of what ____ the modern computer.",
+    "options": [
+      "would become",
+      "should become",
+      "could have become",
+      "had become"
+    ],
+    "answer": 0,
+    "explain_zh": "此句站在1930年代的時間點，預測「後來會成為」現代電腦的構想，屬於「過去的未來」語氣，故選 would become；should become、could have become、had become皆不符合這種對未來的推測語氣。",
+    "vocab": [
+      {
+        "w": "would become",
+        "zh": "(過去未來式)後來成為",
+        "pos": "phr."
+      },
+      {
+        "w": "theoretical",
+        "zh": "理論的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-019",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "105指考",
+    "passage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the (16) uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, (17) people have even heard his name.\nTuring displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what (18) the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human.\nThe postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. (19) being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This (20) drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
+    "group_id": "PX-AST105-G02",
+    "stem": "(19) 應填入：____ being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\"",
+    "options": [
+      "Because of",
+      "Instead of",
+      "In addition to",
+      "With respect to"
+    ],
+    "answer": 1,
+    "explain_zh": "杜林原本應被譽為擊敗納粹的重要功臣，事實卻「恰恰相反」，他反而因同性戀傾向被判「嚴重猥褻罪」定罪，形成命運的強烈反差，故選 Instead of（而非、沒有卻反而…）；Because of（因為）、In addition to（除了…之外還）、With respect to（關於）皆不符合這種「該發生的沒發生，反而發生相反之事」的語意。",
+    "vocab": [
+      {
+        "w": "in addition to",
+        "zh": "除了...之外(還)",
+        "pos": "phr."
+      },
+      {
+        "w": "instead of",
+        "zh": "而不是",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-020",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "105指考",
+    "passage": "Alan Turing was one of the leading scientific geniuses of the 20th century. Many scholars consider him the father of modern computer science. He was also the man who cracked the (16) uncrackable Enigma code used by Nazi Germany. His code-breaking turned the tide of World War II and helped save two million lives. Nevertheless, (17) people have even heard his name.\nTuring displayed signs of high intelligence in math and science at a young age. By the time he was 23, he had already come up with the idea of what (18) the modern computer—the Turing machine. Today, Turing machines are still used in theoretical computation. He also proposed the now famous Turing test, used to determine whether a computer exhibits intelligent behavior equivalent to that of a human.\nThe postwar era, however, was a disaster for Turing. He was gay, which was then a crime in Britain. (19) being hailed as one of the crucial figures in defeating the Nazis, Turing was convicted of \"gross indecency.\" This (20) drove him to commit suicide in 1954, at the age of 41. Nearly 60 years after his death, Queen Elizabeth II granted Turing a formal pardon for his conviction, upon an online petition signed by prominent scientists and technology leaders around the world.",
+    "group_id": "PX-AST105-G02",
+    "stem": "(20) 應填入：This ____ drove him to commit suicide in 1954, at the age of 41.",
+    "options": [
+      "compromise",
+      "procession",
+      "humiliation",
+      "supplement"
+    ],
+    "answer": 2,
+    "explain_zh": "被定罪帶來的「屈辱」最終導致杜林在41歲時自殺，故選 humiliation；compromise（妥協）、procession（隊伍,行列）、supplement（補充）皆與造成自殺的情緒因素不合。",
+    "vocab": [
+      {
+        "w": "humiliation",
+        "zh": "屈辱",
+        "pos": "n."
+      },
+      {
+        "w": "compromise",
+        "zh": "妥協",
+        "pos": "n./v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-021",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "105指考",
+    "passage": "Some people call it a traveling museum. Others refer to it as a living or open-air museum. Built in Brazil to celebrate the quincentennial of Columbus' first voyage to the New World, the Nina, a Columbus-era replica ship, provides visitors with an accurate visual of the size and sailing implements of Columbus' favorite ship from over 500 years ago.\nI joined the crew of the Nina in Gulf Shores, Alabama, in February 2013. As part of a research project sponsored by my university, my goal was to document my days aboard the ship in a blog. I quickly realized that I gained the most valuable insights when I observed or gave tours to school-age children. The field-trip tour of the Nina is hands-on learning at its best. In this setting, students could touch the line, pass around a ballast stone, and move the extremely large tiller that steered the ships in Columbus' day. They soon came to understand the labor involved in sailing the ship back in his time. I was pleased to see the students become active participants in their learning process.\nThe Nina is not the only traveling museum that provides such field trips. A visit to Jamestown Settlement, for example, allows visitors to board three re-creations of the ships that brought the first settlers from England to Virginia in the early 1600s. Historical interpreters, dressed in period garb, give tours to the Susan Constant, Godspeed, and Discovery. These interpreters often portray a character that would have lived and worked during that time period. Students touring these ships are encouraged to interact with the interpreters in order to better understand the daily life in the past.\nMy experience on the Nina helps substantiate my long-held belief that students stay interested, ask better questions, and engage in higher-order thinking tasks when they are actively engaged in the learning process. The students who boarded the Nina came as passive learners. They left as bold explorers.",
+    "group_id": "PX-AST105-G03",
+    "stem": "What line of business is the author engaged in?",
+    "options": [
+      "Shipping.",
+      "Education.",
+      "Ecological tourism.",
+      "Museum administration."
+    ],
+    "answer": 1,
+    "explain_zh": "作者以研究計畫的角度記錄自己帶學生參訪帆船、觀察孩童主動學習的過程，並在末段強調親身參與式學習的教育理念，可知其從事的是「教育」相關工作，故選 B；文中沒有提到作者從事航運、生態旅遊或博物館行政管理。",
+    "vocab": [
+      {
+        "w": "field trip",
+        "zh": "校外教學",
+        "pos": "n."
+      },
+      {
+        "w": "hands-on",
+        "zh": "親自動手的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-022",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "105指考",
+    "passage": "Some people call it a traveling museum. Others refer to it as a living or open-air museum. Built in Brazil to celebrate the quincentennial of Columbus' first voyage to the New World, the Nina, a Columbus-era replica ship, provides visitors with an accurate visual of the size and sailing implements of Columbus' favorite ship from over 500 years ago.\nI joined the crew of the Nina in Gulf Shores, Alabama, in February 2013. As part of a research project sponsored by my university, my goal was to document my days aboard the ship in a blog. I quickly realized that I gained the most valuable insights when I observed or gave tours to school-age children. The field-trip tour of the Nina is hands-on learning at its best. In this setting, students could touch the line, pass around a ballast stone, and move the extremely large tiller that steered the ships in Columbus' day. They soon came to understand the labor involved in sailing the ship back in his time. I was pleased to see the students become active participants in their learning process.\nThe Nina is not the only traveling museum that provides such field trips. A visit to Jamestown Settlement, for example, allows visitors to board three re-creations of the ships that brought the first settlers from England to Virginia in the early 1600s. Historical interpreters, dressed in period garb, give tours to the Susan Constant, Godspeed, and Discovery. These interpreters often portray a character that would have lived and worked during that time period. Students touring these ships are encouraged to interact with the interpreters in order to better understand the daily life in the past.\nMy experience on the Nina helps substantiate my long-held belief that students stay interested, ask better questions, and engage in higher-order thinking tasks when they are actively engaged in the learning process. The students who boarded the Nina came as passive learners. They left as bold explorers.",
+    "group_id": "PX-AST105-G03",
+    "stem": "Which of the following is true about the Nina introduced in the passage?",
+    "options": [
+      "She is a replica of a ship that Columbus built in Brazil.",
+      "She is always crowded with foreign tourists during holidays.",
+      "She is the boat Columbus sailed in his voyage to the New World.",
+      "She displays a replica of the navigational equipment used in Columbus' time."
+    ],
+    "answer": 3,
+    "explain_zh": "第一段說明 Nina 重現了哥倫布最愛船隻當年的尺寸與航行器具(sailing implements)，故選 D；這艘船其實是在巴西建造以紀念哥倫布首航五百週年，並非哥倫布本人建造的船，A 錯誤，也並非哥倫布真正搭乘航行新大陸的那艘船，C 錯誤。",
+    "vocab": [
+      {
+        "w": "replica",
+        "zh": "複製品,仿製品",
+        "pos": "n."
+      },
+      {
+        "w": "implement",
+        "zh": "器具,工具",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-023",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "105指考",
+    "passage": "Some people call it a traveling museum. Others refer to it as a living or open-air museum. Built in Brazil to celebrate the quincentennial of Columbus' first voyage to the New World, the Nina, a Columbus-era replica ship, provides visitors with an accurate visual of the size and sailing implements of Columbus' favorite ship from over 500 years ago.\nI joined the crew of the Nina in Gulf Shores, Alabama, in February 2013. As part of a research project sponsored by my university, my goal was to document my days aboard the ship in a blog. I quickly realized that I gained the most valuable insights when I observed or gave tours to school-age children. The field-trip tour of the Nina is hands-on learning at its best. In this setting, students could touch the line, pass around a ballast stone, and move the extremely large tiller that steered the ships in Columbus' day. They soon came to understand the labor involved in sailing the ship back in his time. I was pleased to see the students become active participants in their learning process.\nThe Nina is not the only traveling museum that provides such field trips. A visit to Jamestown Settlement, for example, allows visitors to board three re-creations of the ships that brought the first settlers from England to Virginia in the early 1600s. Historical interpreters, dressed in period garb, give tours to the Susan Constant, Godspeed, and Discovery. These interpreters often portray a character that would have lived and worked during that time period. Students touring these ships are encouraged to interact with the interpreters in order to better understand the daily life in the past.\nMy experience on the Nina helps substantiate my long-held belief that students stay interested, ask better questions, and engage in higher-order thinking tasks when they are actively engaged in the learning process. The students who boarded the Nina came as passive learners. They left as bold explorers.",
+    "group_id": "PX-AST105-G03",
+    "stem": "What is the third paragraph mainly about?",
+    "options": [
+      "Guidelines for visitors on the ships.",
+      "Life of the first settlers in Jamestown Settlement.",
+      "Duties of the interpreters in the British museums.",
+      "Introduction to some open-air museums similar to the Nina."
+    ],
+    "answer": 3,
+    "explain_zh": "第三段以 Jamestown Settlement 為例，介紹另一個與 Nina 類似、提供校外教學參訪的開放式博物館，故選 D；並非在講參觀守則、Jamestown 早期移民的生活本身，或英國博物館解說員的職責。",
+    "vocab": [
+      {
+        "w": "interpreter",
+        "zh": "(博物館)解說員",
+        "pos": "n."
+      },
+      {
+        "w": "settlement",
+        "zh": "殖民聚落",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-024",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "105指考",
+    "passage": "Some people call it a traveling museum. Others refer to it as a living or open-air museum. Built in Brazil to celebrate the quincentennial of Columbus' first voyage to the New World, the Nina, a Columbus-era replica ship, provides visitors with an accurate visual of the size and sailing implements of Columbus' favorite ship from over 500 years ago.\nI joined the crew of the Nina in Gulf Shores, Alabama, in February 2013. As part of a research project sponsored by my university, my goal was to document my days aboard the ship in a blog. I quickly realized that I gained the most valuable insights when I observed or gave tours to school-age children. The field-trip tour of the Nina is hands-on learning at its best. In this setting, students could touch the line, pass around a ballast stone, and move the extremely large tiller that steered the ships in Columbus' day. They soon came to understand the labor involved in sailing the ship back in his time. I was pleased to see the students become active participants in their learning process.\nThe Nina is not the only traveling museum that provides such field trips. A visit to Jamestown Settlement, for example, allows visitors to board three re-creations of the ships that brought the first settlers from England to Virginia in the early 1600s. Historical interpreters, dressed in period garb, give tours to the Susan Constant, Godspeed, and Discovery. These interpreters often portray a character that would have lived and worked during that time period. Students touring these ships are encouraged to interact with the interpreters in order to better understand the daily life in the past.\nMy experience on the Nina helps substantiate my long-held belief that students stay interested, ask better questions, and engage in higher-order thinking tasks when they are actively engaged in the learning process. The students who boarded the Nina came as passive learners. They left as bold explorers.",
+    "group_id": "PX-AST105-G03",
+    "stem": "What does the author mean by the last two sentences of the passage?",
+    "options": [
+      "The students are interested in becoming tour guides.",
+      "The experience has changed the students' learning attitude.",
+      "The students become brave and are ready to sail the seas on their own.",
+      "The museums are successful in teaching the students survival skills at sea."
+    ],
+    "answer": 1,
+    "explain_zh": "末段「passive learners」變成「bold explorers」是比喻學生從被動接受知識，轉變為主動積極、勇於探索的學習態度，故選 B；並非字面上真的要當導遊或獨自出海航行，C、D 過度直譯了比喻的字面意思。",
+    "vocab": [
+      {
+        "w": "passive",
+        "zh": "被動的",
+        "pos": "adj."
+      },
+      {
+        "w": "engage",
+        "zh": "使投入,吸引",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-025",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "105指考",
+    "passage": "An ancient skull unearthed recently indicates that big cats originated in central Asia—not Africa as widely thought, paleontologists reported on Wednesday.\nDated at between 4.1 and 5.95 million years old, the fossil is the oldest remains ever found of a pantherine felid, as big cats are called. The previous felid record holder—tooth fragments found in Tanzania—is estimated to be around 3.8 million years old.\nThe evolution of big cats has been hotly discussed, and the issue is complicated by a lack of fossil evidence to settle the debate.\n\"This find suggests that big cats have a deeper evolutionary origin than previously suspected,\" said Jack Tseng, a paleontologist of the University of Southern California who led the probe.\nTseng and his team made the find in 2010 in a remote border region in Tibet. The fossil was found stuck among more than 100 bones that were probably deposited by a river that exited a cliff. After three years of careful comparisons with other fossils, using DNA data to build a family tree, the team is convinced the creature was a pantherine felid.\nThe weight of evidence suggests that central or northern Asia is where big cats originated some 16 million years ago. They may have lived in a vast mountain refuge, formed by the uplifting Himalayas, feeding on equally remarkable species such as the Tibetan blue sheep. They then dispersed into Southeast Asia, evolving into the clouded leopard, tiger and snow leopard lineages, and later movements across continents saw them evolve into jaguars and lions.\nThe newly discovered felid has been called Panthera Blytheae, after Blythe Haaga, daughter of a couple who support a museum in Los Angeles, the university said in a news release.",
+    "group_id": "PX-AST105-G04",
+    "stem": "According to the passage, why is the origin of big cats a hot issue?",
+    "options": [
+      "Because not many fossils have been found.",
+      "Because they moved across continents.",
+      "Because no equipment was available for accurate analysis.",
+      "Because they have evolved into many different species of felid."
+    ],
+    "answer": 0,
+    "explain_zh": "第三段明白指出大貓演化議題之所以備受討論，是因為「缺乏化石證據」難以定論，故選 A；文章雖提到大貓後來擴散到各大洲、演化出多個物種，但這些並非issue受熱議的原因，B、D 皆非文中所述理由。",
+    "vocab": [
+      {
+        "w": "fossil",
+        "zh": "化石",
+        "pos": "n."
+      },
+      {
+        "w": "paleontologist",
+        "zh": "古生物學家",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-026",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "105指考",
+    "passage": "An ancient skull unearthed recently indicates that big cats originated in central Asia—not Africa as widely thought, paleontologists reported on Wednesday.\nDated at between 4.1 and 5.95 million years old, the fossil is the oldest remains ever found of a pantherine felid, as big cats are called. The previous felid record holder—tooth fragments found in Tanzania—is estimated to be around 3.8 million years old.\nThe evolution of big cats has been hotly discussed, and the issue is complicated by a lack of fossil evidence to settle the debate.\n\"This find suggests that big cats have a deeper evolutionary origin than previously suspected,\" said Jack Tseng, a paleontologist of the University of Southern California who led the probe.\nTseng and his team made the find in 2010 in a remote border region in Tibet. The fossil was found stuck among more than 100 bones that were probably deposited by a river that exited a cliff. After three years of careful comparisons with other fossils, using DNA data to build a family tree, the team is convinced the creature was a pantherine felid.\nThe weight of evidence suggests that central or northern Asia is where big cats originated some 16 million years ago. They may have lived in a vast mountain refuge, formed by the uplifting Himalayas, feeding on equally remarkable species such as the Tibetan blue sheep. They then dispersed into Southeast Asia, evolving into the clouded leopard, tiger and snow leopard lineages, and later movements across continents saw them evolve into jaguars and lions.\nThe newly discovered felid has been called Panthera Blytheae, after Blythe Haaga, daughter of a couple who support a museum in Los Angeles, the university said in a news release.",
+    "group_id": "PX-AST105-G04",
+    "stem": "Where was the new felid fossil found?",
+    "options": [
+      "In Tanzania.",
+      "In Tibet.",
+      "In California.",
+      "In Southeast Asia."
+    ],
+    "answer": 1,
+    "explain_zh": "第五段說明 Tseng 團隊於 2010 年在西藏偏遠邊境地區發現這塊化石，故選 B；坦尚尼亞(Tanzania)是先前紀錄保持者(牙齒碎片)的發現地，並非這次新化石的出土地，A 錯誤。",
+    "vocab": [
+      {
+        "w": "unearth",
+        "zh": "發掘,出土",
+        "pos": "v."
+      },
+      {
+        "w": "remote",
+        "zh": "偏遠的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-027",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "105指考",
+    "passage": "An ancient skull unearthed recently indicates that big cats originated in central Asia—not Africa as widely thought, paleontologists reported on Wednesday.\nDated at between 4.1 and 5.95 million years old, the fossil is the oldest remains ever found of a pantherine felid, as big cats are called. The previous felid record holder—tooth fragments found in Tanzania—is estimated to be around 3.8 million years old.\nThe evolution of big cats has been hotly discussed, and the issue is complicated by a lack of fossil evidence to settle the debate.\n\"This find suggests that big cats have a deeper evolutionary origin than previously suspected,\" said Jack Tseng, a paleontologist of the University of Southern California who led the probe.\nTseng and his team made the find in 2010 in a remote border region in Tibet. The fossil was found stuck among more than 100 bones that were probably deposited by a river that exited a cliff. After three years of careful comparisons with other fossils, using DNA data to build a family tree, the team is convinced the creature was a pantherine felid.\nThe weight of evidence suggests that central or northern Asia is where big cats originated some 16 million years ago. They may have lived in a vast mountain refuge, formed by the uplifting Himalayas, feeding on equally remarkable species such as the Tibetan blue sheep. They then dispersed into Southeast Asia, evolving into the clouded leopard, tiger and snow leopard lineages, and later movements across continents saw them evolve into jaguars and lions.\nThe newly discovered felid has been called Panthera Blytheae, after Blythe Haaga, daughter of a couple who support a museum in Los Angeles, the university said in a news release.",
+    "group_id": "PX-AST105-G04",
+    "stem": "According to the passage, which of the following statements is true regarding big cats?",
+    "options": [
+      "Some big cats evolved into jaguars 16 million years ago.",
+      "The oldest fossil of big cats ever discovered is 3.8 million years old.",
+      "Big cats are descendants of snow leopards living in high mountains.",
+      "Tibetan blue sheep was a main food source for big cats in the Himalayas."
+    ],
+    "answer": 3,
+    "explain_zh": "第六段提到大貓可能棲息在喜馬拉雅山隆起形成的山區，並以西藏盤羊等物種為食，故選 D；文中所述最古老化石年代為410萬至595萬年前，並非3.8百萬年，B 的敘述與內容不符。",
+    "vocab": [
+      {
+        "w": "uplift",
+        "zh": "隆起",
+        "pos": "v."
+      },
+      {
+        "w": "lineage",
+        "zh": "世系,血統",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-028",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "105指考",
+    "passage": "An ancient skull unearthed recently indicates that big cats originated in central Asia—not Africa as widely thought, paleontologists reported on Wednesday.\nDated at between 4.1 and 5.95 million years old, the fossil is the oldest remains ever found of a pantherine felid, as big cats are called. The previous felid record holder—tooth fragments found in Tanzania—is estimated to be around 3.8 million years old.\nThe evolution of big cats has been hotly discussed, and the issue is complicated by a lack of fossil evidence to settle the debate.\n\"This find suggests that big cats have a deeper evolutionary origin than previously suspected,\" said Jack Tseng, a paleontologist of the University of Southern California who led the probe.\nTseng and his team made the find in 2010 in a remote border region in Tibet. The fossil was found stuck among more than 100 bones that were probably deposited by a river that exited a cliff. After three years of careful comparisons with other fossils, using DNA data to build a family tree, the team is convinced the creature was a pantherine felid.\nThe weight of evidence suggests that central or northern Asia is where big cats originated some 16 million years ago. They may have lived in a vast mountain refuge, formed by the uplifting Himalayas, feeding on equally remarkable species such as the Tibetan blue sheep. They then dispersed into Southeast Asia, evolving into the clouded leopard, tiger and snow leopard lineages, and later movements across continents saw them evolve into jaguars and lions.\nThe newly discovered felid has been called Panthera Blytheae, after Blythe Haaga, daughter of a couple who support a museum in Los Angeles, the university said in a news release.",
+    "group_id": "PX-AST105-G04",
+    "stem": "What is the purpose of this passage?",
+    "options": [
+      "To promote wildlife conservation.",
+      "To report on a new finding in paleontology.",
+      "To introduce a new animal species.",
+      "To compare the family trees of pantherine felids."
+    ],
+    "answer": 1,
+    "explain_zh": "全文以新聞報導的形式，說明古生物學家發現大貓可能起源於中亞而非非洲的新研究，故選 B；文章重點在於報導這項科學發現，並非在宣導野生動物保育或單純介紹新物種。",
+    "vocab": [
+      {
+        "w": "originate",
+        "zh": "起源",
+        "pos": "v."
+      },
+      {
+        "w": "evolutionary",
+        "zh": "演化的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-029",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "文意猜字",
+    "source": "105指考",
+    "passage": "American cooking programs have taught audiences, changed audiences, and changed with audiences from generation to generation. In October 1926, the U.S. Department of Agriculture created this genre's first official representative, a fictional radio host named Aunt Sammy. Over the airwaves, she educated homemakers on home economics and doled out advice on all kinds of matters, but it was mostly the cooking recipes that got listeners' attention. The show provided a channel for transmitting culinary advice and brought about a national exchange of recipes.\nCooking shows transitioned to television in the 1940s, and in the 1950s were often presented by a cook systematically explaining instructions on how to prepare dishes from start to finish. These programs were broadcast during the day and aimed at middle-class women whose mindset leaned toward convenient foods for busy families. Poppy Cannon, for example, was a popular writer of The Can-Opener Cookbook. She appeared on various television shows, using canned foods to demonstrate how to cook quickly and easily.\nThroughout the sixties and seventies, a few chef-oriented shows redefined the genre as an exhibition of haute European cuisine by celebrity gourmet experts. This elite cultural aura then gave way to various cooking styles from around the world. An example of such change can be seen in Martin Yan's 1982 \"Yan Can Cook\" series, which demonstrated Chinese cuisine cooking with the catchphrase, \"If Yan can cook, you can too!\" By the 1990s, these cooking shows ranged from high-culture to health-conscious cuisine, with chefs' personalities and entertainment value being two keys to successful productions.\nAt the beginning of the 21st century, new cooking shows emerged to satisfy celeb-hungry, reality-crazed audiences. In this new millennium of out-of-studio shows and chef competition reality shows, chefs have become celebrities whose fame rivals that of rock stars. Audiences of these shows tend to be people who are interested in food and enjoy watching people cook rather than those who want to do the cooking themselves, leaving the age-old emphasis on following recipes outmoded.",
+    "group_id": "PX-AST105-G05",
+    "stem": "Which of the following is closest in meaning to \"haute\" in the third paragraph?",
+    "options": [
+      "Coarse.",
+      "Civilian.",
+      "Various.",
+      "High-class."
+    ],
+    "answer": 3,
+    "explain_zh": "文中haute European cuisine 是由名廚展示的「高檔」歐式料理，與後文逐漸轉向多元國際料理形成對比，故 haute 意義最接近 High-class；Coarse（粗糙的）、Civilian（平民的）、Various（多樣的）皆與「高檔」的語意不符。",
+    "vocab": [
+      {
+        "w": "haute",
+        "zh": "高檔的(法語借詞)",
+        "pos": "adj."
+      },
+      {
+        "w": "cuisine",
+        "zh": "料理",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-030",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "105指考",
+    "passage": "American cooking programs have taught audiences, changed audiences, and changed with audiences from generation to generation. In October 1926, the U.S. Department of Agriculture created this genre's first official representative, a fictional radio host named Aunt Sammy. Over the airwaves, she educated homemakers on home economics and doled out advice on all kinds of matters, but it was mostly the cooking recipes that got listeners' attention. The show provided a channel for transmitting culinary advice and brought about a national exchange of recipes.\nCooking shows transitioned to television in the 1940s, and in the 1950s were often presented by a cook systematically explaining instructions on how to prepare dishes from start to finish. These programs were broadcast during the day and aimed at middle-class women whose mindset leaned toward convenient foods for busy families. Poppy Cannon, for example, was a popular writer of The Can-Opener Cookbook. She appeared on various television shows, using canned foods to demonstrate how to cook quickly and easily.\nThroughout the sixties and seventies, a few chef-oriented shows redefined the genre as an exhibition of haute European cuisine by celebrity gourmet experts. This elite cultural aura then gave way to various cooking styles from around the world. An example of such change can be seen in Martin Yan's 1982 \"Yan Can Cook\" series, which demonstrated Chinese cuisine cooking with the catchphrase, \"If Yan can cook, you can too!\" By the 1990s, these cooking shows ranged from high-culture to health-conscious cuisine, with chefs' personalities and entertainment value being two keys to successful productions.\nAt the beginning of the 21st century, new cooking shows emerged to satisfy celeb-hungry, reality-crazed audiences. In this new millennium of out-of-studio shows and chef competition reality shows, chefs have become celebrities whose fame rivals that of rock stars. Audiences of these shows tend to be people who are interested in food and enjoy watching people cook rather than those who want to do the cooking themselves, leaving the age-old emphasis on following recipes outmoded.",
+    "group_id": "PX-AST105-G05",
+    "stem": "Which of the following is true about audiences of American cooking shows?",
+    "options": [
+      "Those in the '30s preferred advice on home economics to cooking instructions.",
+      "Those in the '40s and '50s were interested in food preparation for busy families.",
+      "Those in the '60s and '70s were eager to exchange recipes with each other.",
+      "Those in the '80s enjoyed genuine American-style gourmet cooking."
+    ],
+    "answer": 1,
+    "explain_zh": "第二段說明40、50年代的烹飪節目鎖定忙碌家庭主婦，示範快速方便的食譜，故選 B；文章其實提到1920年代的聽眾最受食譜吸引(而非家政建議)，A 的敘述與原文相反。",
+    "vocab": [
+      {
+        "w": "convenient",
+        "zh": "方便的",
+        "pos": "adj."
+      },
+      {
+        "w": "canned",
+        "zh": "罐裝的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-031",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "105指考",
+    "passage": "American cooking programs have taught audiences, changed audiences, and changed with audiences from generation to generation. In October 1926, the U.S. Department of Agriculture created this genre's first official representative, a fictional radio host named Aunt Sammy. Over the airwaves, she educated homemakers on home economics and doled out advice on all kinds of matters, but it was mostly the cooking recipes that got listeners' attention. The show provided a channel for transmitting culinary advice and brought about a national exchange of recipes.\nCooking shows transitioned to television in the 1940s, and in the 1950s were often presented by a cook systematically explaining instructions on how to prepare dishes from start to finish. These programs were broadcast during the day and aimed at middle-class women whose mindset leaned toward convenient foods for busy families. Poppy Cannon, for example, was a popular writer of The Can-Opener Cookbook. She appeared on various television shows, using canned foods to demonstrate how to cook quickly and easily.\nThroughout the sixties and seventies, a few chef-oriented shows redefined the genre as an exhibition of haute European cuisine by celebrity gourmet experts. This elite cultural aura then gave way to various cooking styles from around the world. An example of such change can be seen in Martin Yan's 1982 \"Yan Can Cook\" series, which demonstrated Chinese cuisine cooking with the catchphrase, \"If Yan can cook, you can too!\" By the 1990s, these cooking shows ranged from high-culture to health-conscious cuisine, with chefs' personalities and entertainment value being two keys to successful productions.\nAt the beginning of the 21st century, new cooking shows emerged to satisfy celeb-hungry, reality-crazed audiences. In this new millennium of out-of-studio shows and chef competition reality shows, chefs have become celebrities whose fame rivals that of rock stars. Audiences of these shows tend to be people who are interested in food and enjoy watching people cook rather than those who want to do the cooking themselves, leaving the age-old emphasis on following recipes outmoded.",
+    "group_id": "PX-AST105-G05",
+    "stem": "According to the passage, which of the following is true about the most recent cooking programs?",
+    "options": [
+      "They are often hosted by rock stars.",
+      "They are often not filmed in the studios.",
+      "They attract many celebrity viewers.",
+      "They invite hungry audience members to be judges."
+    ],
+    "answer": 1,
+    "explain_zh": "末段提到21世紀新節目走向「棚外拍攝」的主廚競賽實境秀，故選 B；文中是說主廚的知名度「媲美」搖滾巨星(rival that of rock stars)，並非由搖滾明星主持節目，A 的敘述與原文不符。",
+    "vocab": [
+      {
+        "w": "out-of-studio",
+        "zh": "棚外拍攝的",
+        "pos": "phr."
+      },
+      {
+        "w": "rival",
+        "zh": "媲美",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-032",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "105指考",
+    "passage": "American cooking programs have taught audiences, changed audiences, and changed with audiences from generation to generation. In October 1926, the U.S. Department of Agriculture created this genre's first official representative, a fictional radio host named Aunt Sammy. Over the airwaves, she educated homemakers on home economics and doled out advice on all kinds of matters, but it was mostly the cooking recipes that got listeners' attention. The show provided a channel for transmitting culinary advice and brought about a national exchange of recipes.\nCooking shows transitioned to television in the 1940s, and in the 1950s were often presented by a cook systematically explaining instructions on how to prepare dishes from start to finish. These programs were broadcast during the day and aimed at middle-class women whose mindset leaned toward convenient foods for busy families. Poppy Cannon, for example, was a popular writer of The Can-Opener Cookbook. She appeared on various television shows, using canned foods to demonstrate how to cook quickly and easily.\nThroughout the sixties and seventies, a few chef-oriented shows redefined the genre as an exhibition of haute European cuisine by celebrity gourmet experts. This elite cultural aura then gave way to various cooking styles from around the world. An example of such change can be seen in Martin Yan's 1982 \"Yan Can Cook\" series, which demonstrated Chinese cuisine cooking with the catchphrase, \"If Yan can cook, you can too!\" By the 1990s, these cooking shows ranged from high-culture to health-conscious cuisine, with chefs' personalities and entertainment value being two keys to successful productions.\nAt the beginning of the 21st century, new cooking shows emerged to satisfy celeb-hungry, reality-crazed audiences. In this new millennium of out-of-studio shows and chef competition reality shows, chefs have become celebrities whose fame rivals that of rock stars. Audiences of these shows tend to be people who are interested in food and enjoy watching people cook rather than those who want to do the cooking themselves, leaving the age-old emphasis on following recipes outmoded.",
+    "group_id": "PX-AST105-G05",
+    "stem": "Which of the following would most likely be a hit cooking show in the '90s?",
+    "options": [
+      "A show dedicated to European cuisine and gourmet food.",
+      "A show sponsored by food companies advertising new products.",
+      "A show hosted by a humorous chef presenting low-calorie dishes.",
+      "A show with a professional cook demonstrating systematic ways of cooking."
+    ],
+    "answer": 2,
+    "explain_zh": "第三段末提到90年代的烹飪節目強調主廚個人特質(personalities)與健康意識(health-conscious)料理，故最可能受歡迎的是「幽默主廚示範低卡料理」的節目，選 C；純歐式高檔料理或系統化教學示範較屬於六、七十年代的風格。",
+    "vocab": [
+      {
+        "w": "health-conscious",
+        "zh": "注重健康的",
+        "pos": "adj."
+      },
+      {
+        "w": "entertainment value",
+        "zh": "娛樂價值",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-033",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "105指考",
+    "passage": "Screaming is one of the primal responses humans share with other animals. Conventional thinking suggests that what sets a scream apart from other sounds is its loudness or high pitch. However, many sounds that are loud and high-pitched do not raise goose bumps like screams can. To find out what makes human screams unique, neuroscientist Luc Arnal and his team examined a bank of sounds containing sentences spoken or screamed by 19 adults. The result shows screams and screamed sentences had a quality called \"roughness,\" which refers to how fast a sound changes in loudness. While normal speech sounds only have slight differences in loudness—between 4 and 5 Hz, screams can switch very fast, varying between 30 and 150 Hz, thus perceived as being rough and unpleasant.\nArnal's team asked 20 subjects to judge screams as neutral or fearful, and found that the scariest almost always corresponded with roughness. The team then studied how the human brain responds to roughness using fMRI brain scanners. As expected, after hearing a scream, activity increased in the brain's auditory centers where sound coming into the ears is processed. But the scans also lit up in the amygdala, the brain's fear center.\nThe amygdala is the area that regulates our emotional and physiological response to danger. When a threat is detected, our adrenaline rises, and our body prepares to react to danger. The study discovered that screams have a similar influence on our body. It also found that roughness isn't heard when we speak naturally, regardless of the language we use, but it is prevalent in artificial sounds. The most aggravating alarm clocks, car horns, and fire alarms possess high degrees of roughness.\nOne potential application for this research might be to add roughness to alarm sounds to make them more effective, the same way a bad smell is added to natural gas to make it easily detectable. Warning sounds could also be added to electric cars, which are particularly silent, so they can be efficiently detected by pedestrians.",
+    "group_id": "PX-AST105-G06",
+    "stem": "What is the first paragraph mainly about?",
+    "options": [
+      "Different types of screams.",
+      "Human sounds and animal cries.",
+      "Specific features of screams.",
+      "Sound changes and goose bumps."
+    ],
+    "answer": 2,
+    "explain_zh": "第一段說明傳統認為尖叫聲的特點在於音量大、音調高，但研究發現真正讓尖叫獨特的是「粗糙度」(roughness)這項特徵，故選 C，段落重點在於介紹尖叫聲的特有屬性；並非泛泛比較人類與動物的聲音。",
+    "vocab": [
+      {
+        "w": "roughness",
+        "zh": "粗糙度",
+        "pos": "n."
+      },
+      {
+        "w": "pitch",
+        "zh": "音調",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-034",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "105指考",
+    "passage": "Screaming is one of the primal responses humans share with other animals. Conventional thinking suggests that what sets a scream apart from other sounds is its loudness or high pitch. However, many sounds that are loud and high-pitched do not raise goose bumps like screams can. To find out what makes human screams unique, neuroscientist Luc Arnal and his team examined a bank of sounds containing sentences spoken or screamed by 19 adults. The result shows screams and screamed sentences had a quality called \"roughness,\" which refers to how fast a sound changes in loudness. While normal speech sounds only have slight differences in loudness—between 4 and 5 Hz, screams can switch very fast, varying between 30 and 150 Hz, thus perceived as being rough and unpleasant.\nArnal's team asked 20 subjects to judge screams as neutral or fearful, and found that the scariest almost always corresponded with roughness. The team then studied how the human brain responds to roughness using fMRI brain scanners. As expected, after hearing a scream, activity increased in the brain's auditory centers where sound coming into the ears is processed. But the scans also lit up in the amygdala, the brain's fear center.\nThe amygdala is the area that regulates our emotional and physiological response to danger. When a threat is detected, our adrenaline rises, and our body prepares to react to danger. The study discovered that screams have a similar influence on our body. It also found that roughness isn't heard when we speak naturally, regardless of the language we use, but it is prevalent in artificial sounds. The most aggravating alarm clocks, car horns, and fire alarms possess high degrees of roughness.\nOne potential application for this research might be to add roughness to alarm sounds to make them more effective, the same way a bad smell is added to natural gas to make it easily detectable. Warning sounds could also be added to electric cars, which are particularly silent, so they can be efficiently detected by pedestrians.",
+    "group_id": "PX-AST105-G06",
+    "stem": "According to the passage, which of the following is NOT a finding by Arnal's team?",
+    "options": [
+      "Changes in volume make screams different from other sounds.",
+      "Only humans can produce sounds with great loudness variation.",
+      "Normal human speech sounds vary between 4 to 5 Hz in loudness.",
+      "Drastic volume variation in speech can effectively activate the amygdala."
+    ],
+    "answer": 1,
+    "explain_zh": "文中並未提到「只有人類」才能發出音量劇烈變化的聲音，故選 B 為「未被提及」的發現；音量變化造就尖叫特殊性(A)、正常語speech音量差在4-5赫茲(C)、劇烈音量變化可活化杏仁核(D)皆在文中被明確提及。",
+    "vocab": [
+      {
+        "w": "variation",
+        "zh": "變化",
+        "pos": "n."
+      },
+      {
+        "w": "volume",
+        "zh": "音量",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-035",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "代名詞指涉",
+    "source": "105指考",
+    "passage": "Screaming is one of the primal responses humans share with other animals. Conventional thinking suggests that what sets a scream apart from other sounds is its loudness or high pitch. However, many sounds that are loud and high-pitched do not raise goose bumps like screams can. To find out what makes human screams unique, neuroscientist Luc Arnal and his team examined a bank of sounds containing sentences spoken or screamed by 19 adults. The result shows screams and screamed sentences had a quality called \"roughness,\" which refers to how fast a sound changes in loudness. While normal speech sounds only have slight differences in loudness—between 4 and 5 Hz, screams can switch very fast, varying between 30 and 150 Hz, thus perceived as being rough and unpleasant.\nArnal's team asked 20 subjects to judge screams as neutral or fearful, and found that the scariest almost always corresponded with roughness. The team then studied how the human brain responds to roughness using fMRI brain scanners. As expected, after hearing a scream, activity increased in the brain's auditory centers where sound coming into the ears is processed. But the scans also lit up in the amygdala, the brain's fear center.\nThe amygdala is the area that regulates our emotional and physiological response to danger. When a threat is detected, our adrenaline rises, and our body prepares to react to danger. The study discovered that screams have a similar influence on our body. It also found that roughness isn't heard when we speak naturally, regardless of the language we use, but it is prevalent in artificial sounds. The most aggravating alarm clocks, car horns, and fire alarms possess high degrees of roughness.\nOne potential application for this research might be to add roughness to alarm sounds to make them more effective, the same way a bad smell is added to natural gas to make it easily detectable. Warning sounds could also be added to electric cars, which are particularly silent, so they can be efficiently detected by pedestrians.",
+    "group_id": "PX-AST105-G06",
+    "stem": "What does \"it\" in the third paragraph refer to?",
+    "options": [
+      "The study.",
+      "Language.",
+      "Roughness.",
+      "The amygdala."
+    ],
+    "answer": 2,
+    "explain_zh": "該句承接前句主題，指「粗糙度」在自然說話中不會出現，卻普遍存在於人工聲音中，it 即代替前面提到的 roughness，故選 C；並非指研究本身、語言或杏仁核。",
+    "vocab": [
+      {
+        "w": "prevalent",
+        "zh": "普遍存在的",
+        "pos": "adj."
+      },
+      {
+        "w": "artificial",
+        "zh": "人工的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST105-036",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "105指考",
+    "passage": "Screaming is one of the primal responses humans share with other animals. Conventional thinking suggests that what sets a scream apart from other sounds is its loudness or high pitch. However, many sounds that are loud and high-pitched do not raise goose bumps like screams can. To find out what makes human screams unique, neuroscientist Luc Arnal and his team examined a bank of sounds containing sentences spoken or screamed by 19 adults. The result shows screams and screamed sentences had a quality called \"roughness,\" which refers to how fast a sound changes in loudness. While normal speech sounds only have slight differences in loudness—between 4 and 5 Hz, screams can switch very fast, varying between 30 and 150 Hz, thus perceived as being rough and unpleasant.\nArnal's team asked 20 subjects to judge screams as neutral or fearful, and found that the scariest almost always corresponded with roughness. The team then studied how the human brain responds to roughness using fMRI brain scanners. As expected, after hearing a scream, activity increased in the brain's auditory centers where sound coming into the ears is processed. But the scans also lit up in the amygdala, the brain's fear center.\nThe amygdala is the area that regulates our emotional and physiological response to danger. When a threat is detected, our adrenaline rises, and our body prepares to react to danger. The study discovered that screams have a similar influence on our body. It also found that roughness isn't heard when we speak naturally, regardless of the language we use, but it is prevalent in artificial sounds. The most aggravating alarm clocks, car horns, and fire alarms possess high degrees of roughness.\nOne potential application for this research might be to add roughness to alarm sounds to make them more effective, the same way a bad smell is added to natural gas to make it easily detectable. Warning sounds could also be added to electric cars, which are particularly silent, so they can be efficiently detected by pedestrians.",
+    "group_id": "PX-AST105-G06",
+    "stem": "Which of the following devices may be improved with the researchers' findings?",
+    "options": [
+      "Smoke detectors.",
+      "Security cameras.",
+      "Electric bug killers.",
+      "Fire extinguishers."
+    ],
+    "answer": 0,
+    "explain_zh": "末段建議將「粗糙度」加入警報聲，使其更容易被察覺，正如天然氣中添加臭味劑一樣，煙霧偵測器(smoke detectors)的警報聲與此研究最直接相關，故選 A；監視器、電蚊拍、滅火器皆與警示聲音的應用無關。",
+    "vocab": [
+      {
+        "w": "alarm",
+        "zh": "警報",
+        "pos": "n."
+      },
+      {
+        "w": "detect",
+        "zh": "偵測",
+        "pos": "v."
+      }
+    ]
+  }
+]

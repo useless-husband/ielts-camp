@@ -1,0 +1,1146 @@
+[
+ {
+  "id": "PX-CAP113-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:body-parts",
+  "tag_zh": "身體部位",
+  "stem": "My ____ hurts so much that I cannot even turn my head.",
+  "options": [
+   "arm",
+   "knee",
+   "neck",
+   "stomach"
+  ],
+  "answer": 2,
+  "explain_zh": "痛到連頭都不能轉，最合理的部位是「脖子」，故選 neck。arm（手臂）、knee（膝蓋）、stomach（胃）都不會因為疼痛而讓人無法轉頭。",
+  "vocab": [
+   {
+    "w": "neck",
+    "zh": "脖子",
+    "pos": "n."
+   },
+   {
+    "w": "turn",
+    "zh": "轉動",
+    "pos": "v."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adj-preposition",
+  "tag_zh": "形容詞搭配介系詞",
+  "stem": "Our school basketball team won the national game last night.  We are so ____ them.",
+  "options": [
+   "popular with",
+   "proud of",
+   "sorry for",
+   "worried about"
+  ],
+  "answer": 1,
+  "explain_zh": "校籃球隊贏得全國冠軍，大家因此感到「驕傲」，故選 proud of。popular with（受…歡迎）、sorry for（為…感到抱歉）、worried about（擔心）都與「贏得冠軍」該有的情緒不符。",
+  "vocab": [
+   {
+    "w": "proud of",
+    "zh": "以…為榮",
+    "pos": "phr."
+   },
+   {
+    "w": "national",
+    "zh": "全國的",
+    "pos": "adj."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verbs",
+  "tag_zh": "動詞語意",
+  "stem": "Tomorrow is Sam's last day in the office.  Nobody knows why he decided to ____.",
+  "options": [
+   "hide",
+   "leave",
+   "pack",
+   "walk"
+  ],
+  "answer": 1,
+  "explain_zh": "明天是 Sam 上班的最後一天，沒人知道他為什麼決定「離職」，故選 leave。hide（躲藏）、pack（打包）、walk（走路）都無法對應「最後一天上班」暗示的「離職」語意。",
+  "vocab": [
+   {
+    "w": "leave",
+    "zh": "離開、離職",
+    "pos": "v."
+   },
+   {
+    "w": "office",
+    "zh": "辦公室",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:nouns",
+  "tag_zh": "名詞語意",
+  "stem": "It's not a good idea to go mountain climbing in this bad ____.  We should wait until the typhoon goes away.",
+  "options": [
+   "chance",
+   "dream",
+   "habit",
+   "weather"
+  ],
+  "answer": 3,
+  "explain_zh": "後句提到要等颱風過去，可知去爬山不是好主意是因為「天氣」不好，故選 weather。chance（機會）、dream（夢想）、habit（習慣）都與「颱風」這個天氣現象無關。",
+  "vocab": [
+   {
+    "w": "weather",
+    "zh": "天氣",
+    "pos": "n."
+   },
+   {
+    "w": "typhoon",
+    "zh": "颱風",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:pronouns",
+  "tag_zh": "代名詞",
+  "stem": "Chris loves walking with Anna on snowy days, but Anna hates ____ very much.",
+  "options": [
+   "them",
+   "so",
+   "one",
+   "it"
+  ],
+  "answer": 3,
+  "explain_zh": "Chris 喜歡雪天散步，但 Anna 卻很討厭「這件事（雪天散步這個情境／下雪的天氣）」，it 用來代替前面提到的整個情境，故選 it。them、one 都是指涉特定名詞、與前面語境不合，so 則不能當動詞受詞使用。",
+  "vocab": [
+   {
+    "w": "hate",
+    "zh": "討厭",
+    "pos": "v."
+   },
+   {
+    "w": "snowy",
+    "zh": "下雪的",
+    "pos": "adj."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:so-inversion",
+  "tag_zh": "so倒裝句",
+  "stem": "Lora likes to eat bananas that are already a little brown on the outside, and so ____ I.",
+  "options": [
+   "am",
+   "do",
+   "have",
+   "will"
+  ],
+  "answer": 1,
+  "explain_zh": "so + 助動詞 + 主詞 表示「某人也是如此」，前句用一般動詞 likes，倒裝句要用助動詞 do 代替，故選 do。am、have、will 的助動詞形式都與前句的一般動詞現在式不對應。",
+  "vocab": [
+   {
+    "w": "so do I",
+    "zh": "我也是",
+    "pos": "phr."
+   },
+   {
+    "w": "brown",
+    "zh": "棕色的",
+    "pos": "adj."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adverbs",
+  "tag_zh": "副詞語意",
+  "stem": "Your refrigerator shouldn't be making loud noises now, but if it ____ does, just give me a call and I'll come check it again.",
+  "options": [
+   "already",
+   "even",
+   "finally",
+   "still"
+  ],
+  "answer": 3,
+  "explain_zh": "冰箱現在不該發出噪音，但「萬一」它還是發出聲音，就打電話通知，still 在此表「仍然、萬一還是」，呼應前面「不該發生卻可能發生」的語氣，故選 still。already（已經）、even（甚至）、finally（終於）都不符合這種假設性的轉折語氣。",
+  "vocab": [
+   {
+    "w": "still",
+    "zh": "仍然",
+    "pos": "adv."
+   },
+   {
+    "w": "refrigerator",
+    "zh": "冰箱",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "After winning money in the card game, Jay decided to try again.  He felt that he might also be ____ a second time.",
+  "options": [
+   "famous",
+   "interested",
+   "lucky",
+   "ready"
+  ],
+  "answer": 2,
+  "explain_zh": "第一次玩牌贏了錢，讓他覺得自己可能會「幸運」地再贏一次，故選 lucky。famous（有名的）、interested（感興趣的）、ready（準備好的）都無法對應「贏錢」這件事帶來的期待心理。",
+  "vocab": [
+   {
+    "w": "lucky",
+    "zh": "幸運的",
+    "pos": "adj."
+   },
+   {
+    "w": "card game",
+    "zh": "紙牌遊戲",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "The knife doesn't cut very well.  It's not as ____ as before.",
+  "options": [
+   "bright",
+   "heavy",
+   "quick",
+   "sharp"
+  ],
+  "answer": 3,
+  "explain_zh": "刀子切不好，可知它不像以前那麼「鋒利」，故選 sharp。bright（明亮的）、heavy（重的）、quick（快的）都無法用來形容刀刃是否鋒利。",
+  "vocab": [
+   {
+    "w": "sharp",
+    "zh": "鋒利的",
+    "pos": "adj."
+   },
+   {
+    "w": "cut",
+    "zh": "切",
+    "pos": "v."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:time-clauses",
+  "tag_zh": "時間副詞子句",
+  "stem": "John will stay with his sister until he ____ an apartment.",
+  "options": [
+   "will find",
+   "would find",
+   "finds",
+   "found"
+  ],
+  "answer": 2,
+  "explain_zh": "until 引導的時間副詞子句，要用現在式代替未來式，故選 finds。will find、would find 都是未來相關時態、found 是過去式，都不符合「until 子句用現在式表未來」的文法規則。",
+  "vocab": [
+   {
+    "w": "find",
+    "zh": "找到",
+    "pos": "v."
+   },
+   {
+    "w": "apartment",
+    "zh": "公寓",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clauses-subject",
+  "tag_zh": "關係子句(主格)",
+  "stem": "Students ____ to go on the school trip should ask their parents first.",
+  "options": [
+   "who want",
+   "want",
+   "who they want",
+   "what they want"
+  ],
+  "answer": 0,
+  "explain_zh": "Students 後面接形容詞子句修飾「想去校外教學的學生」，關係代名詞 who 代替人當主詞，故選 who want。want 缺了關代、who they want 和 what they want 的關代用法或句構都不正確，無法修飾 students。",
+  "vocab": [
+   {
+    "w": "who",
+    "zh": "（關係代名詞）",
+    "pos": "pron."
+   },
+   {
+    "w": "trip",
+    "zh": "旅行、校外教學",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:prepositions",
+  "tag_zh": "介系詞",
+  "stem": "The temple sits alone in the mountains at a height of 3,000m ____ sea level.",
+  "options": [
+   "above",
+   "at",
+   "below",
+   "in"
+  ],
+  "answer": 0,
+  "explain_zh": "寺廟座落在海拔3000公尺「以上」的山中，故選 above（在…之上）。at（在）、below（在…之下）、in（在…裡）都無法正確表達「高於海平面」的意思。",
+  "vocab": [
+   {
+    "w": "above sea level",
+    "zh": "海拔",
+    "pos": "phr."
+   },
+   {
+    "w": "temple",
+    "zh": "寺廟",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "stem": "Patty spent several days planning to invite Charlie to dinner, ____ she couldn't say a word when they met.",
+  "options": [
+   "but",
+   "if",
+   "or",
+   "so"
+  ],
+  "answer": 0,
+  "explain_zh": "花了好幾天計畫邀約，見面時卻一個字都說不出來，前後語意明顯轉折、出乎意料，故選 but。if 表條件、or 表選擇、so 表結果，皆無法呈現這種「精心計畫卻大失所望」的對比語氣。",
+  "vocab": [
+   {
+    "w": "but",
+    "zh": "但是",
+    "pos": "conj."
+   },
+   {
+    "w": "plan",
+    "zh": "計畫",
+    "pos": "v."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-present-perfect",
+  "tag_zh": "現在完成式",
+  "stem": "I can't tell you what I think of the movie because I ____ it.  I'll probably watch it this Saturday.",
+  "options": [
+   "am not seeing",
+   "don't see",
+   "haven't seen",
+   "won't see"
+  ],
+  "answer": 2,
+  "explain_zh": "還沒對電影發表看法，是因為「還沒看過」這部電影（預計週六才看），用現在完成式表達「到現在為止還沒發生」，故選 haven't seen。am not seeing、don't see、won't see 的時態都無法呼應「到目前為止尚未看過、之後才會看」的語境。",
+  "vocab": [
+   {
+    "w": "haven't seen",
+    "zh": "還沒看過",
+    "pos": "phr."
+   },
+   {
+    "w": "probably",
+    "zh": "可能",
+    "pos": "adv."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-015",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:nouns",
+  "tag_zh": "名詞語意",
+  "stem": "The new guy at the help desk answers calls like a ____.  There are no ups and downs in his voice and you can't tell if he is happy or sad.",
+  "options": [
+   "father",
+   "foreigner",
+   "radio",
+   "robot"
+  ],
+  "answer": 3,
+  "explain_zh": "說話沒有高低起伏、聽不出喜怒，形容這種呆板的語調最貼切的比喻是「機器人」，故選 robot。father（父親）、foreigner（外國人）、radio（收音機）都無法呼應「說話沒有情緒起伏」的形象。",
+  "vocab": [
+   {
+    "w": "robot",
+    "zh": "機器人",
+    "pos": "n."
+   },
+   {
+    "w": "ups and downs",
+    "zh": "高低起伏",
+    "pos": "phr."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verbs",
+  "tag_zh": "動詞語意",
+  "stem": "Jasmine planned to spend her summer in the country, but right after she got there, she started to ____ the noise in the city.",
+  "options": [
+   "enjoy",
+   "mind",
+   "miss",
+   "notice"
+  ],
+  "answer": 2,
+  "explain_zh": "原本計畫到鄉下避開城市喧囂，結果一到鄉下卻開始「想念」城市的吵鬧聲，故選 miss。enjoy（享受）、mind（介意）、notice（注意到）都無法呼應「原本想遠離、卻反而懷念」的反差語氣。",
+  "vocab": [
+   {
+    "w": "miss",
+    "zh": "想念",
+    "pos": "v."
+   },
+   {
+    "w": "the country",
+    "zh": "鄉下",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:superlatives",
+  "tag_zh": "最高級形容詞",
+  "stem": "\"Bad traffic\" is perhaps the ____ excuse for being late when your boss knows it only takes you five minutes to walk to work.",
+  "options": [
+   "easiest",
+   "oldest",
+   "smartest",
+   "worst"
+  ],
+  "answer": 3,
+  "explain_zh": "老闆明明知道走路上班只要五分鐘，卻還拿「塞車」當遲到理由，這是最爛、最說不過去的藉口，故選 worst。easiest（最簡單的）、oldest（最老套的）、smartest（最聰明的）都不如 worst（最糟的）貼切表達「藉口根本說不通」的語氣。",
+  "vocab": [
+   {
+    "w": "worst",
+    "zh": "最糟的",
+    "pos": "adj."
+   },
+   {
+    "w": "excuse",
+    "zh": "藉口",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:passive-voice",
+  "tag_zh": "被動語態",
+  "stem": "The housework in Mr. and Mrs. Wang's family ____ between them and their kids.  Everyone's got their own job to do.",
+  "options": [
+   "is shared",
+   "are shared",
+   "shares",
+   "share"
+  ],
+  "answer": 0,
+  "explain_zh": "housework（家事，不可數單數名詞）是被家人「分擔」的，主詞是單數且為被動語態，故選 is shared。are shared 主詞單複數不一致、shares、share 都是主動語態，無法表達「家事被分配」的被動意涵。",
+  "vocab": [
+   {
+    "w": "share",
+    "zh": "分擔",
+    "pos": "v."
+   },
+   {
+    "w": "housework",
+    "zh": "家事",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-019",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:possessive-pronouns",
+  "tag_zh": "所有格代名詞",
+  "stem": "I want to find another dentist because ____ pulled out a good tooth last time I went to him.",
+  "options": [
+   "I",
+   "me",
+   "mine",
+   "myself"
+  ],
+  "answer": 2,
+  "explain_zh": "空格應代入所有格代名詞，代替「我的（牙醫）」，表示「我的（牙醫）上次拔錯了一顆好牙」，故選 mine（代替 my dentist）。I 是主格、me 是受格、myself 是反身代名詞，皆無法表達「所有格＋名詞」的省略概念。",
+  "vocab": [
+   {
+    "w": "mine",
+    "zh": "我的（東西／人）",
+    "pos": "pron."
+   },
+   {
+    "w": "pull out",
+    "zh": "拔出",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-020",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-simple-past",
+  "tag_zh": "簡單過去式",
+  "stem": "Mom: Linda, you've been playing computer games all evening!  Have you finished your report? Linda: Well, ____ most of it this afternoon, and I'll finish it by Friday.",
+  "options": [
+   "I would do",
+   "I did",
+   "I was doing",
+   "I'll do"
+  ],
+  "answer": 1,
+  "explain_zh": "Linda 說今天下午已經完成了大部分報告，描述已完成的過去動作用簡單過去式，故選 I did。I would do、I'll do 是未來／假設語氣，I was doing 是過去進行式，都不符合「今天下午已經做了大部分」這個已完成的事實。",
+  "vocab": [
+   {
+    "w": "most of",
+    "zh": "大部分的",
+    "pos": "phr."
+   },
+   {
+    "w": "report",
+    "zh": "報告",
+    "pos": "n."
+   }
+  ],
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-021",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "Why did Philip go out?",
+  "options": [
+   "To meet a woman.",
+   "To look for his father.",
+   "To ask the police for help.",
+   "To buy food for his brother."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到弟弟 Jason 肚子餓一直哭，Philip 不會煮飯，所以才帶弟弟出門買吃的，故選 D。故事裡完全沒提到要見某位女子（A）、找爸爸（B）或報警求助（C），這些都是後來意外發生的插曲。",
+  "vocab": [
+   {
+    "w": "hungry",
+    "zh": "飢餓的",
+    "pos": "adj."
+   },
+   {
+    "w": "decide",
+    "zh": "決定",
+    "pos": "v."
+   }
+  ],
+  "passage": "It was around eight o'clock on Saturday night.  Philip was at home with his little brother, Jason.  Jason was hungry and kept crying.  But Philip couldn't cook and their father was not home yet because he was working late in the office.  So Philip decided to take Jason out for some food.\nHalf an hour later, when they came back home, Philip was surprised to find that their father was talking to the police and a woman outside their house.  He didn't know who the woman was.  She looked scared and stood behind the police.  Philip's father was very angry and kept shouting, \"I didn't do anything wrong!  I forgot my keys and was just trying to get into MY OWN HOUSE!\"  But the police didn't believe him until Philip ran to them and explained everything.\nThe police told Philip that the woman called 110 when she saw Philip's father trying to get into a house through a window.  That was how it all happened.",
+  "group_id": "PX-CAP113-G01",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-022",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "Why was Philip's father angry?",
+  "options": [
+   "He forgot his keys.",
+   "The woman was hiding from him.",
+   "The police didn't believe what he said.",
+   "Philip and his brother went out at night."
+  ],
+  "answer": 2,
+  "explain_zh": "爸爸忘記帶鑰匙、想爬窗回自己家，卻被誤認成可疑人士，警察一開始不相信他的解釋，直到 Philip 跑回來說明才化解誤會，可知他生氣是因為「警察不相信他說的話」，故選 C。",
+  "vocab": [
+   {
+    "w": "believe",
+    "zh": "相信",
+    "pos": "v."
+   },
+   {
+    "w": "explain",
+    "zh": "解釋",
+    "pos": "v."
+   }
+  ],
+  "passage": "It was around eight o'clock on Saturday night.  Philip was at home with his little brother, Jason.  Jason was hungry and kept crying.  But Philip couldn't cook and their father was not home yet because he was working late in the office.  So Philip decided to take Jason out for some food.\nHalf an hour later, when they came back home, Philip was surprised to find that their father was talking to the police and a woman outside their house.  He didn't know who the woman was.  She looked scared and stood behind the police.  Philip's father was very angry and kept shouting, \"I didn't do anything wrong!  I forgot my keys and was just trying to get into MY OWN HOUSE!\"  But the police didn't believe him until Philip ran to them and explained everything.\nThe police told Philip that the woman called 110 when she saw Philip's father trying to get into a house through a window.  That was how it all happened.",
+  "group_id": "PX-CAP113-G01",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-023",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "What kind of people do Yan's and Chang's friends most likely think Yan and Chang are?",
+  "options": [
+   "They enjoy good food.",
+   "They don't like to share.",
+   "They like to make friends.",
+   "They don't like new things."
+  ],
+  "answer": 1,
+  "explain_zh": "兩則故事裡，Yan 只端出一小盤魚卻要朋友點燈「看清楚其他菜」、Chang 甚至寧可殺自己騎來的馬也不肯拿家裡的鴨或雞招待朋友，兩人朋友的反應都在諷刺主人小氣，可知朋友心中認為 Yan 和 Chang「不願分享」，故選 B。",
+  "vocab": [
+   {
+    "w": "share",
+    "zh": "分享",
+    "pos": "v."
+   },
+   {
+    "w": "friend",
+    "zh": "朋友",
+    "pos": "n."
+   }
+  ],
+  "passage": "Yan lived a good life in a big house.  One day he invited a friend to dinner at his house.  However, on the dinner table there was only one small dish of one small fish.  The friend looked quietly at the fish.  It was no bigger than a finger.\nThen he asked Yan if he could borrow a lamp.\n\"What for?\" Yan asked.\n\"Well, it's so dark in here,\" the friend said with a dry smile, \"I can't see the other delicious dishes you've prepared for me.\"\n\nChang kept a lot of ducks and chickens on his farm.  One day, his best friend came to visit him.  At noon, Chang told his friend that he couldn't let him stay for lunch because there wasn't much food to eat.  The friend looked out at Chang's farm animals for a moment.  Then he asked Chang if he had a big knife.\n\"Yes, but what for?\" Chang asked.\n\"I'm thinking about killing the horse I rode here so we'll have something for lunch,\" the friend said.\n\"But how are you going to go home without it?\"\n\"Well, you wouldn't mind lending me one of your many ducks or chickens so I can ride it home, would you?\"",
+  "group_id": "PX-CAP113-G02",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-024",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What is \"it\" in the second story? (\"But how are you going to go home without it?\")",
+  "options": [
+   "A big knife.",
+   "The horse.",
+   "Lunch.",
+   "One of Chang's ducks or chickens."
+  ],
+  "answer": 1,
+  "explain_zh": "朋友問「沒有『它』你要怎麼回家」，是因為朋友提議殺掉 Chang 借來騎的那匹「馬」當午餐，馬被殺掉朋友就沒有交通工具回家，故選 B。並非指大刀（A）、午餐（C，it 指的是交通工具而非食物本身）或 Chang 的鴨子雞（D）。",
+  "vocab": [
+   {
+    "w": "horse",
+    "zh": "馬",
+    "pos": "n."
+   },
+   {
+    "w": "without",
+    "zh": "沒有",
+    "pos": "prep."
+   }
+  ],
+  "passage": "Yan lived a good life in a big house.  One day he invited a friend to dinner at his house.  However, on the dinner table there was only one small dish of one small fish.  The friend looked quietly at the fish.  It was no bigger than a finger.\nThen he asked Yan if he could borrow a lamp.\n\"What for?\" Yan asked.\n\"Well, it's so dark in here,\" the friend said with a dry smile, \"I can't see the other delicious dishes you've prepared for me.\"\n\nChang kept a lot of ducks and chickens on his farm.  One day, his best friend came to visit him.  At noon, Chang told his friend that he couldn't let him stay for lunch because there wasn't much food to eat.  The friend looked out at Chang's farm animals for a moment.  Then he asked Chang if he had a big knife.\n\"Yes, but what for?\" Chang asked.\n\"I'm thinking about killing the horse I rode here so we'll have something for lunch,\" the friend said.\n\"But how are you going to go home without it?\"\n\"Well, you wouldn't mind lending me one of your many ducks or chickens so I can ride it home, would you?\"",
+  "group_id": "PX-CAP113-G02",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-025",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "Why does the writer talk about doctors and a health center in the reading?",
+  "options": [
+   "To explain Chen's services.",
+   "To talk about Chen's future plans.",
+   "To explain Chen's love for books.",
+   "To show why bookstores are important."
+  ],
+  "answer": 0,
+  "explain_zh": "作者把陳先生的書店比喻成「健康中心」、把大型圖書館和博物館比喻成「醫院」，用醫療體系的分工來說明陳先生修書服務的定位，故選 A。這段類比是為了解釋他的「服務內容與角色定位」，並非在講他的書店未來計畫（B）或他對書的熱愛（C）。",
+  "vocab": [
+   {
+    "w": "health center",
+    "zh": "健康中心、診所",
+    "pos": "n."
+   },
+   {
+    "w": "explain",
+    "zh": "解釋",
+    "pos": "v."
+   }
+  ],
+  "passage": "Usually, people visit bookstores to buy books.  But those who walk into Cotoha come to see its owner, Chen Bing-Hong.  They bring him books with different problems.  Some have lost their covers, some are missing a few pages, and some have pages that are falling out.  Chen can always fix the books and make them whole again.\nChen sees himself as a doctor.  He says that books, like people, get sick and need help.  In Taiwan, there are not many \"doctors\" like him, and most of them work for big libraries and museums.  If big libraries and museums are hospitals, Chen's bookstore is a health center.  Big libraries and museums fix important old books with serious problems, and Chen helps people with books that have smaller problems.  However, the smaller size of the problems doesn't mean Chen's job is less important.\nChen gave an example of a science book he once worked on.  It was very old and half of its cover was lost.  Its owner still wanted to keep it because it was a gift from a teacher who helped him follow his dream of studying science.  When he got his book back, he was very surprised at the new-old book.  He felt he was brought back to the days with his teacher.  Seeing the owner's smile made Chen happy, because smiles like that are what his magic is for.",
+  "group_id": "PX-CAP113-G03",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-026",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "Why is Chen Bing-Hong's job important in the example he gave?",
+  "options": [
+   "It allows people to get books as gifts.",
+   "It saves people money on new books.",
+   "It gives people hope to follow their dreams.",
+   "It helps people think of special moments in the past."
+  ],
+  "answer": 3,
+  "explain_zh": "書主人拿回修復好的舊書後，彷彿回到當年老師贈書、鼓勵他追求科學夢想的那段時光，可知修書的意義在於「幫人重溫過去珍貴的回憶」，故選 D。並非單純把書當禮物送人（A）或省下買新書的錢（B），修書本身也不是為了給人追夢的希望（C，追夢是書主人自己過去的故事）。",
+  "vocab": [
+   {
+    "w": "special moment",
+    "zh": "特別的時刻、回憶",
+    "pos": "phr."
+   },
+   {
+    "w": "gift",
+    "zh": "禮物",
+    "pos": "n."
+   }
+  ],
+  "passage": "Usually, people visit bookstores to buy books.  But those who walk into Cotoha come to see its owner, Chen Bing-Hong.  They bring him books with different problems.  Some have lost their covers, some are missing a few pages, and some have pages that are falling out.  Chen can always fix the books and make them whole again.\nChen sees himself as a doctor.  He says that books, like people, get sick and need help.  In Taiwan, there are not many \"doctors\" like him, and most of them work for big libraries and museums.  If big libraries and museums are hospitals, Chen's bookstore is a health center.  Big libraries and museums fix important old books with serious problems, and Chen helps people with books that have smaller problems.  However, the smaller size of the problems doesn't mean Chen's job is less important.\nChen gave an example of a science book he once worked on.  It was very old and half of its cover was lost.  Its owner still wanted to keep it because it was a gift from a teacher who helped him follow his dream of studying science.  When he got his book back, he was very surprised at the new-old book.  He felt he was brought back to the days with his teacher.  Seeing the owner's smile made Chen happy, because smiles like that are what his magic is for.",
+  "group_id": "PX-CAP113-G03",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-027",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What is his magic?",
+  "options": [
+   "Fixing books.",
+   "Making book owners smile.",
+   "Finding books that are long lost.",
+   "Changing his bookstore into a library."
+  ],
+  "answer": 0,
+  "explain_zh": "根據官方答案，正解是 A：文末說「看到書主人的笑容讓陳先生感到開心，因為這樣的笑容正是他的魔法『所要達成的目的』」，可知「他的魔法」指的正是他修復書本的手藝（fixing books），而「讓書主人微笑」是這門魔法帶來的成果、並非魔法本身，故選 A。（此題經與 113 年會考官方答案卡核對後更正）",
+  "vocab": [
+   {
+    "w": "magic",
+    "zh": "魔法、絕活",
+    "pos": "n."
+   },
+   {
+    "w": "fix",
+    "zh": "修復",
+    "pos": "v."
+   }
+  ],
+  "passage": "Usually, people visit bookstores to buy books.  But those who walk into Cotoha come to see its owner, Chen Bing-Hong.  They bring him books with different problems.  Some have lost their covers, some are missing a few pages, and some have pages that are falling out.  Chen can always fix the books and make them whole again.\nChen sees himself as a doctor.  He says that books, like people, get sick and need help.  In Taiwan, there are not many \"doctors\" like him, and most of them work for big libraries and museums.  If big libraries and museums are hospitals, Chen's bookstore is a health center.  Big libraries and museums fix important old books with serious problems, and Chen helps people with books that have smaller problems.  However, the smaller size of the problems doesn't mean Chen's job is less important.\nChen gave an example of a science book he once worked on.  It was very old and half of its cover was lost.  Its owner still wanted to keep it because it was a gift from a teacher who helped him follow his dream of studying science.  When he got his book back, he was very surprised at the new-old book.  He felt he was brought back to the days with his teacher.  Seeing the owner's smile made Chen happy, because smiles like that are what his magic is for.",
+  "group_id": "PX-CAP113-G03",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-028",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "According to the reading, why did Rohla and Kreytenberg open Habibi & Hawara?",
+  "options": [
+   "To help refugees live better in Austria.",
+   "To collect money to help Syria fight the war.",
+   "To help Austrians learn about the war in Syria.",
+   "To help refugees go back to their home countries."
+  ],
+  "answer": 0,
+  "explain_zh": "文中說兩位創辦人希望「幫助難民在奧地利展開新生活」，故選 A。他們並非為了募款幫敘利亞打仗（B）、讓奧地利人了解敘利亞戰爭（C，這只是附帶效果，非開店初衷），也不是要幫難民回到自己的國家（D，恰好相反，是要幫他們在異鄉展開新生活）。",
+  "vocab": [
+   {
+    "w": "refugee",
+    "zh": "難民",
+    "pos": "n."
+   },
+   {
+    "w": "a new life",
+    "zh": "新生活",
+    "pos": "phr."
+   }
+  ],
+  "passage": "In Austria, there are not many restaurants like Habibi & Hawara.  Here you can enjoy Austrian and Syrian food together.  Two Austrians, Martin Rohla and David Kreytenberg, started this yummy plan from their experience of working with refugees.\nEvery year, thousands of people have to leave their homes and families because of war in their countries.  So many of them go to Austria that some people in the country think they have become a problem.  They are afraid refugees may take away their jobs and they don't feel safe around them, either.  But Rohla and Kreytenberg would beg to differ: The refugees don't have to be a problem.  They want to help them start a new life.  They invited refugees to meetings and found that some of them were cooks back in Syria.  So the idea of Habibi & Hawara was born—a restaurant that brings together Austrian and Syrian food.  \"The two worlds far away from each other meet together,\" Kreytenberg said.\nBut Rohla and Kreytenberg want to do more than just give the refugees work.  They want their best workers to buy the restaurant in the end.  They hope that Habibi & Hawara is not just a one-time plan and that other Austrians will join them and help more refugees.",
+  "group_id": "PX-CAP113-G04",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-029",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What can we learn about Habibi & Hawara?",
+  "options": [
+   "It was moved from Syria to Austria.",
+   "It may finally be sold to its workers.",
+   "It has cooking classes in Syrian food.",
+   "It is an important meeting place for Syrians."
+  ],
+  "answer": 1,
+  "explain_zh": "文末提到兩位創辦人希望最優秀的員工最終能「買下」這家餐廳，故選 B。這家店是在奧地利開設的新事業、並非從敘利亞搬遷而來（A），文中沒有提到開設敘利亞料理教室（C），文章重點也不是把它塑造成敘利亞人的聚會場所（D）。",
+  "vocab": [
+   {
+    "w": "worker",
+    "zh": "員工",
+    "pos": "n."
+   },
+   {
+    "w": "sell",
+    "zh": "出售",
+    "pos": "v."
+   }
+  ],
+  "passage": "In Austria, there are not many restaurants like Habibi & Hawara.  Here you can enjoy Austrian and Syrian food together.  Two Austrians, Martin Rohla and David Kreytenberg, started this yummy plan from their experience of working with refugees.\nEvery year, thousands of people have to leave their homes and families because of war in their countries.  So many of them go to Austria that some people in the country think they have become a problem.  They are afraid refugees may take away their jobs and they don't feel safe around them, either.  But Rohla and Kreytenberg would beg to differ: The refugees don't have to be a problem.  They want to help them start a new life.  They invited refugees to meetings and found that some of them were cooks back in Syria.  So the idea of Habibi & Hawara was born—a restaurant that brings together Austrian and Syrian food.  \"The two worlds far away from each other meet together,\" Kreytenberg said.\nBut Rohla and Kreytenberg want to do more than just give the refugees work.  They want their best workers to buy the restaurant in the end.  They hope that Habibi & Hawara is not just a one-time plan and that other Austrians will join them and help more refugees.",
+  "group_id": "PX-CAP113-G04",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-030",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "What does it mean when people beg to differ?",
+  "options": [
+   "They do not agree.",
+   "They look different.",
+   "They cannot speak for others.",
+   "They do not notice something."
+  ],
+  "answer": 0,
+  "explain_zh": "作者接著說明兩位創辦人「認為難民不必然是問題」，也就是他們對「難民會帶來問題」這個普遍看法「不表贊同」，可知 beg to differ 表示「不同意」，故選 A。並非指外表不同（B）、無法代表他人發言（C）或沒注意到什麼（D）。",
+  "vocab": [
+   {
+    "w": "beg to differ",
+    "zh": "不敢苟同、持不同意見",
+    "pos": "phr."
+   },
+   {
+    "w": "agree",
+    "zh": "同意",
+    "pos": "v."
+   }
+  ],
+  "passage": "In Austria, there are not many restaurants like Habibi & Hawara.  Here you can enjoy Austrian and Syrian food together.  Two Austrians, Martin Rohla and David Kreytenberg, started this yummy plan from their experience of working with refugees.\nEvery year, thousands of people have to leave their homes and families because of war in their countries.  So many of them go to Austria that some people in the country think they have become a problem.  They are afraid refugees may take away their jobs and they don't feel safe around them, either.  But Rohla and Kreytenberg would beg to differ: The refugees don't have to be a problem.  They want to help them start a new life.  They invited refugees to meetings and found that some of them were cooks back in Syria.  So the idea of Habibi & Hawara was born—a restaurant that brings together Austrian and Syrian food.  \"The two worlds far away from each other meet together,\" Kreytenberg said.\nBut Rohla and Kreytenberg want to do more than just give the refugees work.  They want their best workers to buy the restaurant in the end.  They hope that Habibi & Hawara is not just a one-time plan and that other Austrians will join them and help more refugees.",
+  "group_id": "PX-CAP113-G04",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-031",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "What does it mean when someone is an advocate of something?",
+  "options": [
+   "They talk a lot but do little about it.",
+   "They believe it is good and should be done.",
+   "They have had some bad experiences with it.",
+   "They are one of the first people who have done it."
+  ],
+  "answer": 1,
+  "explain_zh": "作者說 Smith「主張復育滅絕動物」，且認為人類該盡一切努力讓牠們重現，可知 advocate 是指「相信某件事是好的、該去做」的人，故選 B。並非指說得多做得少（A）、曾有不好經驗（C）或是最早這麼做的人（D）。",
+  "vocab": [
+   {
+    "w": "advocate",
+    "zh": "提倡者、支持者",
+    "pos": "n."
+   },
+   {
+    "w": "believe",
+    "zh": "相信",
+    "pos": "v."
+   }
+  ],
+  "passage": "If you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start.  But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back.  He says we have lost many animals because we made their living spaces too dirty.  He also thinks we must do everything we can to bring them back.  However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us.  He talks about an extinct frog that grew tadpoles in its stomach.  Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem.  According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies.  But I don't think things are as easy as Smith thinks.  We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs.  If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\"  And he's right.  A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it.  So should we still keep going down this road?",
+  "group_id": "PX-CAP113-G05",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-032",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What is special about the extinct frog in Smith's book?",
+  "options": [
+   "It can live in a dirty living space.",
+   "It might help fix a health problem.",
+   "It eats its babies when it cannot find food.",
+   "It is the first extinct animal that people studied."
+  ],
+  "answer": 1,
+  "explain_zh": "文中提到這種滅絕蛙的蝌蚪在牠胃裡長大，Smith 認為研究這個特性也許有助解決孕婦胎兒早夭的問題，故選 B。文章沒有說牠能住在骯髒的環境（A，剛好相反，環境變髒害牠滅絕）、吃掉自己的孩子（C，是把蝌蚪養在胃裡而非吃掉）或牠是第一個被研究的滅絕動物（D）。",
+  "vocab": [
+   {
+    "w": "extinct",
+    "zh": "滅絕的",
+    "pos": "adj."
+   },
+   {
+    "w": "fix",
+    "zh": "解決、修復",
+    "pos": "v."
+   }
+  ],
+  "passage": "If you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start.  But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back.  He says we have lost many animals because we made their living spaces too dirty.  He also thinks we must do everything we can to bring them back.  However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us.  He talks about an extinct frog that grew tadpoles in its stomach.  Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem.  According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies.  But I don't think things are as easy as Smith thinks.  We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs.  If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\"  And he's right.  A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it.  So should we still keep going down this road?",
+  "group_id": "PX-CAP113-G05",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-033",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "Why does Ellen Zimmer use the words from Dr. Solomon Wang?",
+  "options": [
+   "To start a new topic.",
+   "To share a big dream.",
+   "To make her idea clearer.",
+   "To invite people to take action."
+  ],
+  "answer": 2,
+  "explain_zh": "作者引用王博士「把好錢丟進壞錢裡」這句話，並直接表示「他說得對」，藉此更清楚地表達自己對復育滅絕動物研究的質疑態度，故選 C。這句話不是用來開啟新話題（A）、分享偉大夢想（B，反而是質疑這個夢想），也不是呼籲大家採取行動（D）。",
+  "vocab": [
+   {
+    "w": "make clear",
+    "zh": "使清楚",
+    "pos": "phr."
+   },
+   {
+    "w": "quote",
+    "zh": "引用",
+    "pos": "v."
+   }
+  ],
+  "passage": "If you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start.  But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back.  He says we have lost many animals because we made their living spaces too dirty.  He also thinks we must do everything we can to bring them back.  However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us.  He talks about an extinct frog that grew tadpoles in its stomach.  Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem.  According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies.  But I don't think things are as easy as Smith thinks.  We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs.  If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\"  And he's right.  A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it.  So should we still keep going down this road?",
+  "group_id": "PX-CAP113-G05",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-034",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "What does Ellen Zimmer most likely think about bringing back extinct animals?",
+  "options": [
+   "It is possible.",
+   "It is dangerous.",
+   "It is not possible.",
+   "It is not dangerous."
+  ],
+  "answer": 2,
+  "explain_zh": "作者全文對 Smith 的樂觀說法多所質疑，最後又引用專家的話「把好錢丟進壞錢裡」表示認同，可知作者認為復育滅絕動物「不太可能成功」，故選 C。並非認為這件事可行（A）或單純判斷危不危險（B、D，文章重點在「可不可能」而非「危不危險」）。",
+  "vocab": [
+   {
+    "w": "bring back",
+    "zh": "使復活、復育",
+    "pos": "phr."
+   },
+   {
+    "w": "possible",
+    "zh": "可能的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "If you want to learn about bringing back extinct animals, reading John Smith's Back from the Dead is a good start.  But I have to say I can't agree with everything he says.\nFrom his book, I can see Smith is an advocate of bringing extinct animals back.  He says we have lost many animals because we made their living spaces too dirty.  He also thinks we must do everything we can to bring them back.  However, I don't know how much time and money we would need to make the world a better place for them, and honestly no one knows if they could actually come back.\nSmith also says that bringing back extinct animals may be good for us.  He talks about an extinct frog that grew tadpoles in its stomach.  Some women's babies die before they are born, and Smith believes bringing back the frog may be an answer to the problem.  According to him, by studying how the tadpoles grow inside the frog's stomach, we might be able to find new ways to help these women successfully keep their babies.  But I don't think things are as easy as Smith thinks.  We have spent ten years and millions of dollars on this kind of frog, but all we have got are only a few dead frog eggs.  If we can't see a real frog, how can we be sure women will get the help they need?\nDr. Solomon Wang from the Animal Saving Office says the study of bringing back extinct animals is \"throwing good money after bad.\"  And he's right.  A lot of hard work has been put into this expensive dream, but we haven't seen anything come out of it.  So should we still keep going down this road?",
+  "group_id": "PX-CAP113-G05",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-035",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "Though it has been a very popular topic this year, social distancing ____.  In fact, it was widely used in the U.S. in the flu pandemic in 1918.",
+  "options": [
+   "is not a new idea",
+   "has not been very useful",
+   "may bring some problems",
+   "is not welcomed by everyone"
+  ],
+  "answer": 0,
+  "explain_zh": "後句補充「事實上，1918年流感大流行時，美國就已廣泛使用」社交距離，可知這個做法「不是新概念」，故選 is not a new idea。其餘選項（沒什麼用、可能帶來問題、不受歡迎）都與後文「其實早就用過」的語意不符。",
+  "vocab": [
+   {
+    "w": "social distancing",
+    "zh": "社交距離",
+    "pos": "phr."
+   },
+   {
+    "w": "pandemic",
+    "zh": "大流行病",
+    "pos": "n."
+   }
+  ],
+  "passage": "Since the Covid-19 pandemic started, people have begun \"social distancing\"—keeping a safe space between you and anyone you don't live with.  Though it has been a very popular topic this year, social distancing ____.  In fact, it was widely used in the U.S. in the flu pandemic in 1918.  But how well did it work?  The Americans' experience can tell us whether it really saved lives.\nBesides taking early action, keeping the action long enough was also important in fighting the pandemic.  The picture shows that Portland and Denver did well in the first few weeks.  However, both cities ____, and the numbers of deaths climbed again.\nBut there was one thing Portland did right.  The city used several ways of social distancing at the same time to deal with the pandemic.  ____, sick people were kept away from healthy ones; schools were closed; public activities were not allowed.  All these were useful in keeping people safe.\nThe lessons of the 1918 pandemic bring us hope.  While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now.",
+  "group_id": "PX-CAP113-G06",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-036",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "The picture shows that Portland and Denver did well in the first few weeks.  However, both cities ____, and the numbers of deaths climbed again.",
+  "options": [
+   "had higher numbers of deaths",
+   "stopped social distancing too soon",
+   "began social distancing a second time",
+   "had the most days of social distancing"
+  ],
+  "answer": 1,
+  "explain_zh": "後句說「死亡人數又開始攀升」，可知這兩座城市雖然前幾週做得不錯，卻「太早停止」社交距離措施，導致疫情反彈，故選 stopped social distancing too soon。其餘選項都無法解釋「前期表現好、後來卻死亡人數又上升」這個轉折。",
+  "vocab": [
+   {
+    "w": "stop too soon",
+    "zh": "太早停止",
+    "pos": "phr."
+   },
+   {
+    "w": "climb",
+    "zh": "攀升",
+    "pos": "v."
+   }
+  ],
+  "passage": "Since the Covid-19 pandemic started, people have begun \"social distancing\"—keeping a safe space between you and anyone you don't live with.  Though it has been a very popular topic this year, social distancing ____.  In fact, it was widely used in the U.S. in the flu pandemic in 1918.  But how well did it work?  The Americans' experience can tell us whether it really saved lives.\nBesides taking early action, keeping the action long enough was also important in fighting the pandemic.  The picture shows that Portland and Denver did well in the first few weeks.  However, both cities ____, and the numbers of deaths climbed again.\nBut there was one thing Portland did right.  The city used several ways of social distancing at the same time to deal with the pandemic.  ____, sick people were kept away from healthy ones; schools were closed; public activities were not allowed.  All these were useful in keeping people safe.\nThe lessons of the 1918 pandemic bring us hope.  While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now.",
+  "group_id": "PX-CAP113-G06",
+  "source": "113會考"
+ },
+ {
+  "id": "PX-CAP113-037",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "The city used several ways of social distancing at the same time to deal with the pandemic.  ____, sick people were kept away from healthy ones; schools were closed; public activities were not allowed.",
+  "options": [
+   "Also",
+   "At first",
+   "However",
+   "For example"
+  ],
+  "answer": 3,
+  "explain_zh": "後面列舉的「隔離病患、關閉學校、禁止公眾活動」都是波特蘭同時採取的具體社交距離做法，用來「舉例說明」前一句提到的多管齊下策略，故選 For example。Also（此外）、At first（起初）、However（然而）都不是用來引出具體例子的正確連接詞。",
+  "vocab": [
+   {
+    "w": "for example",
+    "zh": "舉例來說",
+    "pos": "phr."
+   },
+   {
+    "w": "public activity",
+    "zh": "公眾活動",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Since the Covid-19 pandemic started, people have begun \"social distancing\"—keeping a safe space between you and anyone you don't live with.  Though it has been a very popular topic this year, social distancing ____.  In fact, it was widely used in the U.S. in the flu pandemic in 1918.  But how well did it work?  The Americans' experience can tell us whether it really saved lives.\nBesides taking early action, keeping the action long enough was also important in fighting the pandemic.  The picture shows that Portland and Denver did well in the first few weeks.  However, both cities ____, and the numbers of deaths climbed again.\nBut there was one thing Portland did right.  The city used several ways of social distancing at the same time to deal with the pandemic.  ____, sick people were kept away from healthy ones; schools were closed; public activities were not allowed.  All these were useful in keeping people safe.\nThe lessons of the 1918 pandemic bring us hope.  While we are still learning to fight Covid-19, social distancing may be the best way to get us through the dark days, at least for now.",
+  "group_id": "PX-CAP113-G06",
+  "source": "113會考"
+ }
+]

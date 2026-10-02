@@ -1,0 +1,20 @@
+# Python 環境與快取（綁定電腦路徑，請在本機重建）
+venv/
+__pycache__/
+*.pyc
+
+# 個人資料：作答紀錄、執行紀錄、PID
+data/progress.db
+data/progress.db-*
+data/app.log
+data/app.pid
+
+# 開發過程的暫存
+data/wordlists/
+data/verify_report.json
+
+# 聽力音檔是自動產生的快取，第一次播放會重新產生
+static/audio/
+
+# macOS
+.DS_Store

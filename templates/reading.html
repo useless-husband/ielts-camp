@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% set req='reading' %}
+{% block body %}
+<h1>閱讀</h1>
+<p class="sub">一篇文章配一組題目。先整篇掃過抓大意，再回頭找答案句。</p>
+<div class="card" id="pass"></div>
+<div class="card" id="q"></div>
+<script src="/static/quiz.js"></script>
+<script>
+Quiz({mount:'q',url:'/api/reading',mode:'reading',onload:d=>{
+  document.getElementById('pass').innerHTML =
+    '<div class="row"><span class="tag">'+d.level_zh+'</span><span class="spacer"></span>'+
+    '<button class="btn sm ghost" onclick="location.reload()">換一篇</button></div>'+
+    '<div class="passage" style="margin-top:12px">'+
+    d.passage.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))+'</div>';
+}});
+</script>
+{% endblock %}

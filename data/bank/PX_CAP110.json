@@ -1,0 +1,1172 @@
+[
+ {
+  "id": "PX-CAP110-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-present-continuous",
+  "tag_zh": "現在進行式",
+  "stem": "Listen!  The baby ____ in the bedroom.  Why don't you go in and take a look?",
+  "options": [
+   "cried",
+   "cries",
+   "is crying",
+   "will cry"
+  ],
+  "answer": 2,
+  "explain_zh": "Listen! 提示現在正聽到寶寶在哭，強調「當下正在發生」的動作要用現在進行式，故選 is crying。cried、cries 分別是過去式、現在簡單式，will cry 是未來式，都不符合「此刻正在哭」的情境。",
+  "vocab": [
+   {
+    "w": "cry",
+    "zh": "哭",
+    "pos": "v."
+   },
+   {
+    "w": "take a look",
+    "zh": "看一下",
+    "pos": "phr."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjectives",
+  "tag_zh": "形容詞",
+  "stem": "Jill is ____ that the city park is closed for the music festival because now she can't jog there.",
+  "options": [
+   "excited",
+   "proud",
+   "scared",
+   "unhappy"
+  ],
+  "answer": 3,
+  "explain_zh": "公園因音樂節而關閉，Jill 因此不能去慢跑，這是令人「不開心」的事，故選 unhappy。excited（興奮的）、proud（驕傲的）、scared（害怕的）都與「不能運動而不悅」的心情不符。",
+  "vocab": [
+   {
+    "w": "unhappy",
+    "zh": "不開心的",
+    "pos": "adj."
+   },
+   {
+    "w": "jog",
+    "zh": "慢跑",
+    "pos": "v."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:occupations",
+  "tag_zh": "職業名詞",
+  "stem": "Steven wants to be a ____, because he loves to watch people enjoy the food he prepares.",
+  "options": [
+   "cook",
+   "doctor",
+   "driver",
+   "farmer"
+  ],
+  "answer": 0,
+  "explain_zh": "他喜歡看別人享用自己準備的食物，可知他想當的是「廚師」，故選 cook。doctor、driver、farmer 的工作內容都與「準備食物給人享用」無關。",
+  "vocab": [
+   {
+    "w": "cook",
+    "zh": "廚師；烹煮",
+    "pos": "n./v."
+   },
+   {
+    "w": "prepare",
+    "zh": "準備",
+    "pos": "v."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-present-perfect",
+  "tag_zh": "現在完成式",
+  "stem": "Paul misses his parents a lot.  He ____ them since he came to work in Taiwan a year ago.",
+  "options": [
+   "didn't see",
+   "doesn't see",
+   "hasn't seen",
+   "won't see"
+  ],
+  "answer": 2,
+  "explain_zh": "since he came to Taiwan a year ago 表示「從一年前到現在」，要用現在完成式表達「一直沒有見到」，故選 hasn't seen。didn't see、doesn't see 是過去式與現在式，won't see 是未來式，皆無法搭配 since 表示持續到現在的狀態。",
+  "vocab": [
+   {
+    "w": "miss",
+    "zh": "想念",
+    "pos": "v."
+   },
+   {
+    "w": "since",
+    "zh": "自從",
+    "pos": "conj."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:do-substitution",
+  "tag_zh": "助動詞代替",
+  "stem": "Our teacher Ms. Wu seldom laughs, but when she ____, everyone in the same building can hear her.",
+  "options": [
+   "can",
+   "does",
+   "has",
+   "will"
+  ],
+  "answer": 1,
+  "explain_zh": "when 引導的時間副詞子句要用現在簡單式代替未來式，且此處代替前面的 laughs，故選 does。can、has、will 都不能單獨代替一般動詞 laughs 的意思，也不符合子句用現在式的規則。",
+  "vocab": [
+   {
+    "w": "laugh",
+    "zh": "笑",
+    "pos": "v."
+   },
+   {
+    "w": "seldom",
+    "zh": "很少",
+    "pos": "adv."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:tense-simple-future",
+  "tag_zh": "簡單未來式",
+  "stem": "My sister is coming to my home today.  She ____ with me for a week.",
+  "options": [
+   "stays",
+   "stayed",
+   "has stayed",
+   "will stay"
+  ],
+  "answer": 3,
+  "explain_zh": "姊姊今天要來，並「將會」在這裡待一週，描述未來的計畫要用未來式，故選 will stay。stays 是現在式、stayed 是過去式、has stayed 是現在完成式，時態都不符合「即將發生」的语意。",
+  "vocab": [
+   {
+    "w": "stay",
+    "zh": "停留",
+    "pos": "v."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:nouns",
+  "tag_zh": "名詞語意",
+  "stem": "Edward had worked as a computer engineer for ten years.  This ____ helped him a lot when he started his own computer shop.",
+  "options": [
+   "chance",
+   "experience",
+   "hobby",
+   "knowledge"
+  ],
+  "answer": 1,
+  "explain_zh": "當過十年的電腦工程師，這段「經歷」對他後來開店很有幫助，故選 experience。chance（機會）、hobby（嗜好）、knowledge（知識，較偏理論）都不如 experience 貼切表達「十年工作累積的實務經驗」。",
+  "vocab": [
+   {
+    "w": "experience",
+    "zh": "經驗",
+    "pos": "n."
+   },
+   {
+    "w": "engineer",
+    "zh": "工程師",
+    "pos": "n."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:imperatives",
+  "tag_zh": "祈使句",
+  "stem": "If you're interested in our business plan, ____ this number and ask for Ms. Lee.  She'll answer your questions.",
+  "options": [
+   "calling",
+   "call",
+   "and call",
+   "to call"
+  ],
+  "answer": 1,
+  "explain_zh": "句首給建議、指示，用祈使句原形動詞開頭，故選 call。calling 是動名詞、and call 多了不必要的連接詞、to call 是不定詞，都不能直接作為祈使句的主要動詞放在句首。",
+  "vocab": [
+   {
+    "w": "call",
+    "zh": "打電話",
+    "pos": "v."
+   },
+   {
+    "w": "business plan",
+    "zh": "營運計畫",
+    "pos": "n."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:conjunctions",
+  "tag_zh": "連接詞",
+  "stem": "Jimmy would not get up for breakfast, ____ his dad had already tried to pull him from his bed several times.",
+  "options": [
+   "although",
+   "because",
+   "if",
+   "until"
+  ],
+  "answer": 0,
+  "explain_zh": "爸爸已經試著拉他起床好幾次了，他卻還是不肯起床，前後語意是「儘管…卻…」的讓步關係，故選 although。because 表原因、if 表條件、until 表直到，都無法呈現「已經這麼努力了，他還是不起床」的對比語氣。",
+  "vocab": [
+   {
+    "w": "although",
+    "zh": "儘管、雖然",
+    "pos": "conj."
+   },
+   {
+    "w": "pull",
+    "zh": "拉",
+    "pos": "v."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verbs",
+  "tag_zh": "動詞語意",
+  "stem": "Duncan spent all his money trying to ____ the bookstore his mom left him.  Sadly, the business never got better, and he had to close it in the end.",
+  "options": [
+   "build",
+   "buy",
+   "save",
+   "start"
+  ],
+  "answer": 2,
+  "explain_zh": "生意始終沒有起色、最後只能收掉，可知 Duncan 花光了錢是想「挽救」媽媽留給他的書店，故選 save（挽救）。build（建造）、buy（購買）、start（開始經營）都與「已經擁有卻想辦法讓它撐下去」的情境不符。",
+  "vocab": [
+   {
+    "w": "save",
+    "zh": "挽救",
+    "pos": "v."
+   },
+   {
+    "w": "close",
+    "zh": "（店）關閉",
+    "pos": "v."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:relative-clauses-omission",
+  "tag_zh": "關係子句省略",
+  "stem": "Fiona loves listening to her children sing songs ____ at school.",
+  "options": [
+   "are learned",
+   "that learned",
+   "they learned",
+   "that they are learned"
+  ],
+  "answer": 2,
+  "explain_zh": "songs 後面接的是省略關係代名詞的子句，原句是 songs (that/which) they learned at school，受詞關代可省略，故選 they learned。are learned 少了關代且時態不合；that learned 缺主詞、that they are learned 文法重複贅字，都不通順。",
+  "vocab": [
+   {
+    "w": "learn",
+    "zh": "學習",
+    "pos": "v."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:prepositions",
+  "tag_zh": "介系詞",
+  "stem": "Beverly eats lots of snacks ____ meals.  That's why she is often too full to eat anything at mealtimes.",
+  "options": [
+   "after",
+   "between",
+   "during",
+   "from"
+  ],
+  "answer": 1,
+  "explain_zh": "在正餐「之間」吃零食才會導致正餐吃不下，故選 between meals（餐與餐之間）。after（之後）、during（在…期間，通常指單一事件）、from（從）都無法表達「兩餐之間」的時間概念。",
+  "vocab": [
+   {
+    "w": "between",
+    "zh": "在…之間",
+    "pos": "prep."
+   },
+   {
+    "w": "snack",
+    "zh": "零食",
+    "pos": "n."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:indefinite-pronouns",
+  "tag_zh": "不定代名詞",
+  "stem": "Nora: Can I check your drawer for some tools we can use? Matt: Sure.  Take a look.  See if you can find ____ in there.",
+  "options": [
+   "any",
+   "it",
+   "others",
+   "those"
+  ],
+  "answer": 0,
+  "explain_zh": "在疑問句／可能句中詢問「有沒有任何工具」，用 any 代替前面提到的 tools，故選 any。it 是單數代名詞、others 指「其他的」、those 需要有特定範圍才能使用，皆不符合此處泛指「任何」的語意。",
+  "vocab": [
+   {
+    "w": "any",
+    "zh": "任何",
+    "pos": "pron."
+   },
+   {
+    "w": "drawer",
+    "zh": "抽屜",
+    "pos": "n."
+   }
+  ],
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-014",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "What is this ad for?",
+  "options": [
+   "Teaching people how to use their BeautiMed points.",
+   "Telling people they can shop at BeautiMed on the Internet now.",
+   "Inviting people to share their shopping experience at e-BeautiMed.",
+   "Letting people know what is on sale at e-BeautiMed from 7/1 to 8/31."
+  ],
+  "answer": 1,
+  "explain_zh": "廣告開頭就介紹 e-BeautiMed 這個「線上商店」推出多項優惠，重點在告訴大家現在可以在網路上購物，故選 B。廣告不是教你怎麼用點數（A）、邀請分享購物心得（C），優惠 4 提到的是抽獎活動，並非單純的特價品清單（D）。",
+  "vocab": [
+   {
+    "w": "online store",
+    "zh": "網路商店",
+    "pos": "n."
+   },
+   {
+    "w": "points",
+    "zh": "點數",
+    "pos": "n."
+   }
+  ],
+  "passage": "We've prepared many wonderful surprises for you at e-BeautiMed, BeautiMed's online store!\nSurprise 1: Join \"BeautiMed Friend\" online for free and get 2000 BeautiMed points!\nSurprise 2: Already a \"BeautiMed Friend\"? Come collect your free gift by entering your \"BeautiMed Friend\" card number at e-BeautiMed before 8/31.\nSurprise 3: Get 500 BeautiMed points by shopping at e-BeautiMed and you'll get 500 more points if you spend more than $1,000.\nSurprise 4: Shop at e-BeautiMed during 7/1-8/31 and you may win $5,000 or free movie tickets!\nSurprise 5: Invite a friend to join \"BeautiMed Friend\" and you both can get 1000 points each!",
+  "group_id": "PX-CAP110-G01",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-015",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What will NOT get you BeautiMed points?",
+  "options": [
+   "Shopping at e-BeautiMed.",
+   "Joining \"BeautiMed Friend\" online.",
+   "Inviting a friend to join \"BeautiMed Friend.\"",
+   "Entering the \"BeautiMed Friend\" card number."
+  ],
+  "answer": 3,
+  "explain_zh": "廣告中拿到點數的方式包含購物、加入會員、邀請朋友，但「輸入會員卡號」只是領取免費禮物的方式、並不會額外獲得點數，故選 D。其餘三個選項都是廣告中明確列出能得到點數的方法。",
+  "vocab": [
+   {
+    "w": "enter",
+    "zh": "輸入",
+    "pos": "v."
+   },
+   {
+    "w": "card number",
+    "zh": "卡號",
+    "pos": "n."
+   }
+  ],
+  "passage": "We've prepared many wonderful surprises for you at e-BeautiMed, BeautiMed's online store!\nSurprise 1: Join \"BeautiMed Friend\" online for free and get 2000 BeautiMed points!\nSurprise 2: Already a \"BeautiMed Friend\"? Come collect your free gift by entering your \"BeautiMed Friend\" card number at e-BeautiMed before 8/31.\nSurprise 3: Get 500 BeautiMed points by shopping at e-BeautiMed and you'll get 500 more points if you spend more than $1,000.\nSurprise 4: Shop at e-BeautiMed during 7/1-8/31 and you may win $5,000 or free movie tickets!\nSurprise 5: Invite a friend to join \"BeautiMed Friend\" and you both can get 1000 points each!",
+  "group_id": "PX-CAP110-G01",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-016",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "What can we learn about Lynn from the dialogue?",
+  "options": [
+   "She does not cook.",
+   "She likes to try new food.",
+   "She did not enjoy the food at Caldron.",
+   "She changed Joey's idea about Caldron."
+  ],
+  "answer": 2,
+  "explain_zh": "Lynn 抱怨在 Caldron 得自己下鍋煮，東西都是同一鍋煮出來，吃起來都一個味道，還一直丟奇怪的東西進鍋裡，顯示她很不喜歡那次用餐經驗，故選 C。文中並未說她不煮飯（A）或喜歡嘗試新食物（B，其實她抱怨連連）。",
+  "vocab": [
+   {
+    "w": "boiling pot",
+    "zh": "滾燙的鍋子",
+    "pos": "phr."
+   },
+   {
+    "w": "experience",
+    "zh": "經驗",
+    "pos": "n."
+   }
+  ],
+  "passage": "Joey: Lynn, have you tried Caldron?  I've heard that restaurant is good.\nLynn: I have.  I went there once for Tom's party.\nJoey: And?\nLynn: Well, I never thought I would have to cook for myself when eating out.\nJoey: But it's fun to cook your own food.\nLynn: I don't see any fun in that.  Besides, I want nice food.\nJoey: So you didn't like the food there?\nLynn: Everything tasted the same.  I mean, they were all cooked in the same boiling pot.  How could they taste different?  I just kept throwing strange things into the pot.  I didn't even know what half the things were made of.\nJoey: Don't worry.  Everything should be safe to eat after a hot bath in the pot.  And you didn't get sick after that, right?  Besides, you tried something different there.  Still a good experience, I think?\nLynn: I don't think we share the same idea of good experiences.",
+  "group_id": "PX-CAP110-G02",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-017",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What do we know about Woollie from Katie's diary?",
+  "options": [
+   "Woollie was older than Katie.",
+   "Woollie was taken to visit sick kids.",
+   "Woollie was sick when he ran away.",
+   "Woollie looked strange without his fleece."
+  ],
+  "answer": 0,
+  "explain_zh": "故事書說 Woollie 四歲時走失，六年後才被 Armstrong 先生找到，找到時 Katie 剛好出生，可推算 Woollie 走失時的年紀比 Katie 大，故選 A。文中沒說牠曾被帶去探望生病的孩子（B，是牠的毛被拿去義賣籌款）或走失時生病（C）。",
+  "vocab": [
+   {
+    "w": "run away",
+    "zh": "逃跑、走失",
+    "pos": "phr.v."
+   },
+   {
+    "w": "fleece",
+    "zh": "羊毛",
+    "pos": "n."
+   }
+  ],
+  "passage": "Dear Diary, June 7, 2011\nI was very sad to hear what happened to Woollie yesterday.  Woollie was my favorite sheep.  I have a storybook about Woollie.  It says when Woollie was four, he ran away from Mr. Armstrong's farm, and it took Mr. Armstrong six years to find Woollie.  But Woollie had grown so much fleece that he didn't even look like a sheep.  Mr. Armstrong decided to cut his fleece on TV so everyone could see.  Daddy said this happened on the day I was born.  Woollie's fleece weighed 27 kg, and could make clothes for 20 large men.  I asked Daddy if his favorite vest was made from Woollie's fleece.  Daddy said no, because Woollie's fleece was sold to collect money for sick kids.  In the storybook, Woollie was taken to see Ms. Stella Clark, the leader of our city then.  They even had tea together.  Daddy said Woollie did meet Ms. Clark, but he wasn't sure if they had tea.  Daddy said Woollie was put down because he was too sick and there was no way to help him.  I cried.  I hope Woollie will be happy up there in the sky.",
+  "group_id": "PX-CAP110-G03",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-018",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "What happened when Woollie was put down?",
+  "options": [
+   "He was sold.",
+   "He couldn't be found.",
+   "He died.",
+   "He became famous."
+  ],
+  "answer": 2,
+  "explain_zh": "日記最後說爸爸提到 Woollie 因為病得太重、沒辦法醫治，所以被安樂死（was put down），也就是牠去世了，故選 C。牠並沒有被賣掉（A）、找不到（B）或因此成名（D，牠原本就因剪毛活動出名）。",
+  "vocab": [
+   {
+    "w": "put down",
+    "zh": "（讓動物）安樂死",
+    "pos": "phr.v."
+   },
+   {
+    "w": "sick",
+    "zh": "生病的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Dear Diary, June 7, 2011\nI was very sad to hear what happened to Woollie yesterday.  Woollie was my favorite sheep.  I have a storybook about Woollie.  It says when Woollie was four, he ran away from Mr. Armstrong's farm, and it took Mr. Armstrong six years to find Woollie.  But Woollie had grown so much fleece that he didn't even look like a sheep.  Mr. Armstrong decided to cut his fleece on TV so everyone could see.  Daddy said this happened on the day I was born.  Woollie's fleece weighed 27 kg, and could make clothes for 20 large men.  I asked Daddy if his favorite vest was made from Woollie's fleece.  Daddy said no, because Woollie's fleece was sold to collect money for sick kids.  In the storybook, Woollie was taken to see Ms. Stella Clark, the leader of our city then.  They even had tea together.  Daddy said Woollie did meet Ms. Clark, but he wasn't sure if they had tea.  Daddy said Woollie was put down because he was too sick and there was no way to help him.  I cried.  I hope Woollie will be happy up there in the sky.",
+  "group_id": "PX-CAP110-G03",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-019",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "What can we learn about The Piano Lesson from the reading?",
+  "options": [
+   "Matisse painted it when his son was away from home.",
+   "The woman who sits on a seat behind the boy is his mother.",
+   "Matisse uses yellow and red to show that his son was happy.",
+   "The candle on the piano shows that the piano lesson has just begun."
+  ],
+  "answer": 0,
+  "explain_zh": "文末提到 Pierre 當時已經當兵離家，馬蒂斯不確定他能不能平安回來，這幅畫很可能是憂心的父親懷念從前美好時光的方式，可知創作時兒子人不在家，故選 A。畫中右上角的女子其實是另一幅畫（B錯），灰色代表憂鬱而非快樂（C錯），蠟燭燒到快沒了才暗示練習已久（D錯，不是剛開始）。",
+  "vocab": [
+   {
+    "w": "paint",
+    "zh": "繪畫",
+    "pos": "v."
+   },
+   {
+    "w": "soldier",
+    "zh": "軍人、士兵",
+    "pos": "n."
+   }
+  ],
+  "passage": "Here's The Piano Lesson, one of Henri Matisse's most famous paintings.  The boy in the picture is the painter's son, Pierre.  In the picture, Pierre looks quite serious.  Why?  Well, look at the yellow candle on the red piano.  It's almost burned down.  So maybe Pierre has already practiced for hours.  And Matisse uses a lot of gray, not a very fun color, right?  It shows how the poor kid feels, don't you think?\nOn the top right corner, you can see a woman sitting straight on a seat.  Is she Pierre's piano teacher?  Or his mother?  Well, if you're a Matisse fan, you'll know this is in fact another painting by him, Woman on a High Stool.  Interesting, right?  Matisse likes to do that a lot.  In fact, there's another work by Matisse in the picture.  Did you find it?  Right!  The sculpture on the bottom left corner!\nMatisse painted this picture in 1916.  Pierre was already 16 then, but the artist painted his son much younger than he really was.  Pierre had gone away to be a soldier, and Matisse didn't know whether he would come back.  Maybe this is a worried father's way to remember the good old days.",
+  "group_id": "PX-CAP110-G04",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-020",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "代名詞指涉",
+  "stem": "What does \"do that\" mean in the reading?",
+  "options": [
+   "Put his family in his paintings.",
+   "Paint to remember the good old days.",
+   "Use a lot of fun colors in his art works.",
+   "Put his earlier art work in a new painting."
+  ],
+  "answer": 3,
+  "explain_zh": "文中提到畫裡的女子與左下角的雕塑其實都是馬蒂斯自己「其他作品」的畫中畫，這種把自己舊作放進新畫裡的做法就是 do that，故選 D。並非單純把家人畫進畫裡（A）或使用繽紛色彩（C，此畫其實用色偏灰）。",
+  "vocab": [
+   {
+    "w": "sculpture",
+    "zh": "雕塑",
+    "pos": "n."
+   },
+   {
+    "w": "refer to",
+    "zh": "指的是",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Here's The Piano Lesson, one of Henri Matisse's most famous paintings.  The boy in the picture is the painter's son, Pierre.  In the picture, Pierre looks quite serious.  Why?  Well, look at the yellow candle on the red piano.  It's almost burned down.  So maybe Pierre has already practiced for hours.  And Matisse uses a lot of gray, not a very fun color, right?  It shows how the poor kid feels, don't you think?\nOn the top right corner, you can see a woman sitting straight on a seat.  Is she Pierre's piano teacher?  Or his mother?  Well, if you're a Matisse fan, you'll know this is in fact another painting by him, Woman on a High Stool.  Interesting, right?  Matisse likes to do that a lot.  In fact, there's another work by Matisse in the picture.  Did you find it?  Right!  The sculpture on the bottom left corner!\nMatisse painted this picture in 1916.  Pierre was already 16 then, but the artist painted his son much younger than he really was.  Pierre had gone away to be a soldier, and Matisse didn't know whether he would come back.  Maybe this is a worried father's way to remember the good old days.",
+  "group_id": "PX-CAP110-G04",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-021",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What is NOT used in the reading to refer to Henri Matisse?",
+  "options": [
+   "The artist.",
+   "The painter.",
+   "The poor kid.",
+   "A worried father."
+  ],
+  "answer": 2,
+  "explain_zh": "文章用 the painter、a worried father 來稱呼馬蒂斯，也用「poor kid（可憐的孩子）」形容畫中的兒子 Pierre，並非用來稱呼馬蒂斯本人，故選 C。The artist、The painter、A worried father 在文中都曾用來指馬蒂斯。",
+  "vocab": [
+   {
+    "w": "refer to",
+    "zh": "稱呼、提及",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Here's The Piano Lesson, one of Henri Matisse's most famous paintings.  The boy in the picture is the painter's son, Pierre.  In the picture, Pierre looks quite serious.  Why?  Well, look at the yellow candle on the red piano.  It's almost burned down.  So maybe Pierre has already practiced for hours.  And Matisse uses a lot of gray, not a very fun color, right?  It shows how the poor kid feels, don't you think?\nOn the top right corner, you can see a woman sitting straight on a seat.  Is she Pierre's piano teacher?  Or his mother?  Well, if you're a Matisse fan, you'll know this is in fact another painting by him, Woman on a High Stool.  Interesting, right?  Matisse likes to do that a lot.  In fact, there's another work by Matisse in the picture.  Did you find it?  Right!  The sculpture on the bottom left corner!\nMatisse painted this picture in 1916.  Pierre was already 16 then, but the artist painted his son much younger than he really was.  Pierre had gone away to be a soldier, and Matisse didn't know whether he would come back.  Maybe this is a worried father's way to remember the good old days.",
+  "group_id": "PX-CAP110-G04",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-022",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "What idea is talked about in the reading?",
+  "options": [
+   "How Teachers' Day is celebrated now.",
+   "Why Teachers' Day was celebrated at first.",
+   "Why Confucius was seen as a great teacher.",
+   "How teachers today feel about Teachers' Day."
+  ],
+  "answer": 1,
+  "explain_zh": "文章開頭先點出一般人對教師節由來的既定印象，接著花大篇幅說明教師節最初其實是為了讓老師發聲、爭取權益而設立，重點在解釋「教師節最初為何被慶祝」，故選 B。文章沒有詳細介紹現在教師節怎麼過（A）或現代教師的感受（D）。",
+  "vocab": [
+   {
+    "w": "celebrate",
+    "zh": "慶祝",
+    "pos": "v."
+   },
+   {
+    "w": "at first",
+    "zh": "起初",
+    "pos": "phr."
+   }
+  ],
+  "passage": "On Teachers' Day, we thank our teachers for their hard work.  We also celebrate this day to remember Confucius, the great Chinese teacher from 2,500 years ago.  Well, that's everything we're taught about Teachers' Day.  But, the first Teachers' Day was not on Confucius's birthday, and it was not about thanking our teachers.\nIn 1930, Mr. Tai Shuang-qiu and other teachers celebrated the first Teachers' Day in Nanjing.  But there was nothing to celebrate.  Teachers were paid very little and not respected.  These teachers took this chance to shout out their problems.  They had Teachers' Day on June 6 because the date was easy to remember and near the end of the school year.  This action by Mr. Tai and the other teachers was welcomed and followed by teachers from other cities.  In 1939, the government made Teachers' Day a national holiday.  However, it was on August 27, the day when Confucius's birthday was celebrated.  Not everyone hailed this decision: Teachers' Day was never about Confucius, and Confucius couldn't speak for all the teachers either.\nOne funny thing was that the government was wrong about the date of Confucius's birthday.  In 1952, people found out he was in fact born on September 28.  That was when we started to celebrate Teachers' Day on Confucius's real birthday.",
+  "group_id": "PX-CAP110-G05",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-023",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "Which is true about Teachers' Day from the reading?",
+  "options": [
+   "It used to be celebrated on different dates.",
+   "It was started by students for their teachers.",
+   "It has been celebrated in Nanjing for over 2,500 years.",
+   "Teachers decided to celebrate it on Confucius's birthday."
+  ],
+  "answer": 0,
+  "explain_zh": "文中提到教師節最初訂在 6 月 6 日，後來政府又改到孔子誕辰（誤植的 8 月 27 日），1952 年才又改回正確的 9 月 28 日，可知日期曾經多次變動，故選 A。它並非由學生發起（B，是老師自己發起），南京慶祝的歷史沒有長達 2500 年（C，2500年是指孔子時代），也不是老師自己決定用孔子生日（D，是政府決定的）。",
+  "vocab": [
+   {
+    "w": "used to",
+    "zh": "過去曾經",
+    "pos": "phr."
+   },
+   {
+    "w": "date",
+    "zh": "日期",
+    "pos": "n."
+   }
+  ],
+  "passage": "On Teachers' Day, we thank our teachers for their hard work.  We also celebrate this day to remember Confucius, the great Chinese teacher from 2,500 years ago.  Well, that's everything we're taught about Teachers' Day.  But, the first Teachers' Day was not on Confucius's birthday, and it was not about thanking our teachers.\nIn 1930, Mr. Tai Shuang-qiu and other teachers celebrated the first Teachers' Day in Nanjing.  But there was nothing to celebrate.  Teachers were paid very little and not respected.  These teachers took this chance to shout out their problems.  They had Teachers' Day on June 6 because the date was easy to remember and near the end of the school year.  This action by Mr. Tai and the other teachers was welcomed and followed by teachers from other cities.  In 1939, the government made Teachers' Day a national holiday.  However, it was on August 27, the day when Confucius's birthday was celebrated.  Not everyone hailed this decision: Teachers' Day was never about Confucius, and Confucius couldn't speak for all the teachers either.\nOne funny thing was that the government was wrong about the date of Confucius's birthday.  In 1952, people found out he was in fact born on September 28.  That was when we started to celebrate Teachers' Day on Confucius's real birthday.",
+  "group_id": "PX-CAP110-G05",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-024",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "vocab:in-context",
+  "tag_zh": "文意猜字",
+  "stem": "What does \"not everyone hailed this decision\" mean in the reading?",
+  "options": [
+   "Not everyone cared about the decision.",
+   "Not everyone welcomed the decision.",
+   "Not everyone heard about the decision.",
+   "Not everyone remembered the decision."
+  ],
+  "answer": 1,
+  "explain_zh": "後句解釋教師節本來就與孔子無關，孔子也不能代表所有教師，可知「不是每個人都歡迎」政府把教師節訂在孔子誕辰這個決定，故選 B。並非說大家不關心（A）、沒聽過（C）或忘記（D）這個決定。",
+  "vocab": [
+   {
+    "w": "hail",
+    "zh": "歡呼、歡迎",
+    "pos": "v."
+   },
+   {
+    "w": "decision",
+    "zh": "決定",
+    "pos": "n."
+   }
+  ],
+  "passage": "On Teachers' Day, we thank our teachers for their hard work.  We also celebrate this day to remember Confucius, the great Chinese teacher from 2,500 years ago.  Well, that's everything we're taught about Teachers' Day.  But, the first Teachers' Day was not on Confucius's birthday, and it was not about thanking our teachers.\nIn 1930, Mr. Tai Shuang-qiu and other teachers celebrated the first Teachers' Day in Nanjing.  But there was nothing to celebrate.  Teachers were paid very little and not respected.  These teachers took this chance to shout out their problems.  They had Teachers' Day on June 6 because the date was easy to remember and near the end of the school year.  This action by Mr. Tai and the other teachers was welcomed and followed by teachers from other cities.  In 1939, the government made Teachers' Day a national holiday.  However, it was on August 27, the day when Confucius's birthday was celebrated.  Not everyone hailed this decision: Teachers' Day was never about Confucius, and Confucius couldn't speak for all the teachers either.\nOne funny thing was that the government was wrong about the date of Confucius's birthday.  In 1952, people found out he was in fact born on September 28.  That was when we started to celebrate Teachers' Day on Confucius's real birthday.",
+  "group_id": "PX-CAP110-G05",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-025",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "內容推論",
+  "stem": "What does the writer try to do with this reading?",
+  "options": [
+   "To talk about a problem that no one notices.",
+   "To share a fun experience that was not common.",
+   "To tell a piece of history that few people know about.",
+   "To give an example of an idea that is hard to understand."
+  ],
+  "answer": 2,
+  "explain_zh": "全文娓娓道來教師節不為人知的由來與變遷，屬於少有人知道的一段歷史，故選 C。這不是在講一個沒人注意的問題（A）或分享有趣的少見經歷（B），內容也不難理解（D）。",
+  "vocab": [
+   {
+    "w": "history",
+    "zh": "歷史",
+    "pos": "n."
+   },
+   {
+    "w": "few",
+    "zh": "少數的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "On Teachers' Day, we thank our teachers for their hard work.  We also celebrate this day to remember Confucius, the great Chinese teacher from 2,500 years ago.  Well, that's everything we're taught about Teachers' Day.  But, the first Teachers' Day was not on Confucius's birthday, and it was not about thanking our teachers.\nIn 1930, Mr. Tai Shuang-qiu and other teachers celebrated the first Teachers' Day in Nanjing.  But there was nothing to celebrate.  Teachers were paid very little and not respected.  These teachers took this chance to shout out their problems.  They had Teachers' Day on June 6 because the date was easy to remember and near the end of the school year.  This action by Mr. Tai and the other teachers was welcomed and followed by teachers from other cities.  In 1939, the government made Teachers' Day a national holiday.  However, it was on August 27, the day when Confucius's birthday was celebrated.  Not everyone hailed this decision: Teachers' Day was never about Confucius, and Confucius couldn't speak for all the teachers either.\nOne funny thing was that the government was wrong about the date of Confucius's birthday.  In 1952, people found out he was in fact born on September 28.  That was when we started to celebrate Teachers' Day on Confucius's real birthday.",
+  "group_id": "PX-CAP110-G05",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-026",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "stem": "Why does National Formosa Railway write this letter?",
+  "options": [
+   "There is a train ticket sale.",
+   "A train line will be closed in July.",
+   "It will open a new train line in August.",
+   "Some of its trains will run on different lines."
+  ],
+  "answer": 3,
+  "explain_zh": "信中說明因颱風影響，8月14日至28日部分路線將改道行駛、部分車站將不停靠，這封信的目的是通知旅客「部分列車將改走其他路線」，故選 D。並非在宣傳車票特賣（A）或宣布新路線開通（C），該路段是暫時關閉而非永久（B錯，僅指出關閉時間）。",
+  "vocab": [
+   {
+    "w": "change lines",
+    "zh": "改道、換路線",
+    "pos": "phr."
+   },
+   {
+    "w": "typhoon",
+    "zh": "颱風",
+    "pos": "n."
+   }
+  ],
+  "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White Water City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand Town – Spring Town line will be closed between August 14 and 28 2016.  During this time, some trains will change lines and will not stop at a few stations.  There will be free buses to take travelers to these stations.  Please check below for the changes.  Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller, National Formosa Railway\n\nTrains that run between Green City and Cloud City will take the Smoke Town – Spring Town line, and will stop at every station.  The free buses for the Sand Town – Spring Town line will wait at Green City (going south) and Spring Town (going north) stations.  No stop at Gray Village.",
+  "group_id": "PX-CAP110-G06",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-027",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What is true about NFR's trains between August 14 and 28 2016?",
+  "options": [
+   "No trains will stop at Spring Town.",
+   "Trains that change lines will all stop at Cloud City.",
+   "People can take the free buses to any station on the Sand Town - Spring Town line.",
+   "People can go to Hill Town on any train that runs between Green City and Cloud City."
+  ],
+  "answer": 3,
+  "explain_zh": "文末說明行駛於 Green City 和 Cloud City 間的列車會改走 Smoke Town–Spring Town 線，且每一站都停，可知這段期間搭乘往來兩地的列車可以抵達 Hill Town（沿線一站），故選 D。文中並未說 Spring Town 完全不停車（A）或所有改道列車都停 Cloud City（B）。",
+  "vocab": [
+   {
+    "w": "run between",
+    "zh": "行駛於…之間",
+    "pos": "phr."
+   },
+   {
+    "w": "stop at",
+    "zh": "停靠",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White Water City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand Town – Spring Town line will be closed between August 14 and 28 2016.  During this time, some trains will change lines and will not stop at a few stations.  There will be free buses to take travelers to these stations.  Please check below for the changes.  Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller, National Formosa Railway\n\nTrains that run between Green City and Cloud City will take the Smoke Town – Spring Town line, and will stop at every station.  The free buses for the Sand Town – Spring Town line will wait at Green City (going south) and Spring Town (going north) stations.  No stop at Gray Village.",
+  "group_id": "PX-CAP110-G06",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-028",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:application",
+  "tag_zh": "資訊應用",
+  "stem": "James lives in Smoke Town.  He wants to go to Black Town on August 19.  How can he get there?",
+  "options": [
+   "Take Train RL202 to Green City, get off there, and take the free bus.",
+   "Take Train RL103 to Green City, get off there, and take the free bus.",
+   "Take Train RL102 to Spring Town, get off there, and take Train RL201.",
+   "Take Train RL101 to Cloud City, get off there, and take the free bus."
+  ],
+  "answer": 0,
+  "explain_zh": "根據路線資訊，往 Green City 方向的列車在該站有接駁的免費巴士可到 Sand Town–Spring Town 線各站，所以住 Smoke Town 的 James 應搭乘經過 Green City 的列車（如 RL202），到站後轉乘免費巴士前往 Black Town，故選 A。",
+  "vocab": [
+   {
+    "w": "get off",
+    "zh": "下車",
+    "pos": "phr.v."
+   },
+   {
+    "w": "free bus",
+    "zh": "免費巴士",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Dear Traveler,\nYou have bought an NFR ticket online for a train that runs between White Water City and Cloud City.\nWe are sorry to tell you that, because of the typhoon last month, the Sand Town – Spring Town line will be closed between August 14 and 28 2016.  During this time, some trains will change lines and will not stop at a few stations.  There will be free buses to take travelers to these stations.  Please check below for the changes.  Visit http://www.nfr.gov/ for more information.\nWe wish you a nice summer.\nLena Muller, National Formosa Railway\n\nTrains that run between Green City and Cloud City will take the Smoke Town – Spring Town line, and will stop at every station.  The free buses for the Sand Town – Spring Town line will wait at Green City (going south) and Spring Town (going north) stations.  No stop at Gray Village.",
+  "group_id": "PX-CAP110-G06",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-029",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:organization",
+  "tag_zh": "文章結構",
+  "stem": "Below are the ideas that are talked about in the reading. a. The problems Darayya has. b. How Darayya's library was started. c. What makes Darayya's library special. d. How Darayya's library helps people there. In what order does the writer put his ideas in the reading?",
+  "options": [
+   "c b a d.",
+   "b a d c.",
+   "a c b d.",
+   "c a b d."
+  ],
+  "answer": 3,
+  "explain_zh": "文章先介紹這座地下圖書館「與眾不同之處」（c，秘密、地下），接著說明戰亂讓 Darayya 陷入困境（a），再描述學生們如何蓋出這座圖書館（b），最後說明圖書館如何幫助居民（d），順序為 c, a, b, d，故選 D。",
+  "vocab": [
+   {
+    "w": "underground",
+    "zh": "地下的",
+    "pos": "adj."
+   },
+   {
+    "w": "library",
+    "zh": "圖書館",
+    "pos": "n."
+   }
+  ],
+  "passage": "In Darayya, a city in Syria, there's a library, and it has 15,000 books on almost every subject you can think of.  However, it is different from any libraries you know: It is a secret underground library, and only people in Darayya know where it is.\nOver the years, war has shaken Darayya badly.  Every day, houses are bombed and people are killed.  Stores are closed one after another, and so are schools.  To help the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and his friends decided to build a library.  They built the library under the ground to keep it safe from bombing.  But it is dangerous to collect books for the library.  Often, Ahmad and his friends look for books in houses that were bombed.  They need to be careful because they may be killed in another bombing.\nYou may ask, \"In a place like Darayya, would people be interested in books?\"  \"Just like the body needs food, the mind needs books,\" says one library user.  In the library, people enjoy their time of reading and forget about the terrible world above, so their life doesn't seem so hard.  Through reading, they are able to dream of a better life after war.",
+  "group_id": "PX-CAP110-G07",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-030",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "Why do people in Darayya go to the library even during the war?",
+  "options": [
+   "They can get free food.",
+   "They find joy and hope in reading.",
+   "They want to learn how to win the war.",
+   "Their school teachers give lessons there."
+  ],
+  "answer": 1,
+  "explain_zh": "文末引用讀者的話「心靈也需要書本的滋養」，並說人們在圖書館裡享受閱讀、忘卻戰爭的殘酷，藉此對未來抱有希望，故選 B。圖書館並非提供免費食物（A）或教人打仗（C），也沒有提到學校老師在此授課（D）。",
+  "vocab": [
+   {
+    "w": "hope",
+    "zh": "希望",
+    "pos": "n."
+   },
+   {
+    "w": "joy",
+    "zh": "喜悅",
+    "pos": "n."
+   }
+  ],
+  "passage": "In Darayya, a city in Syria, there's a library, and it has 15,000 books on almost every subject you can think of.  However, it is different from any libraries you know: It is a secret underground library, and only people in Darayya know where it is.\nOver the years, war has shaken Darayya badly.  Every day, houses are bombed and people are killed.  Stores are closed one after another, and so are schools.  To help the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and his friends decided to build a library.  They built the library under the ground to keep it safe from bombing.  But it is dangerous to collect books for the library.  Often, Ahmad and his friends look for books in houses that were bombed.  They need to be careful because they may be killed in another bombing.\nYou may ask, \"In a place like Darayya, would people be interested in books?\"  \"Just like the body needs food, the mind needs books,\" says one library user.  In the library, people enjoy their time of reading and forget about the terrible world above, so their life doesn't seem so hard.  Through reading, they are able to dream of a better life after war.",
+  "group_id": "PX-CAP110-G07",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-031",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "stem": "What do we know about Darayya's library?",
+  "options": [
+   "It was built during the war.",
+   "It has been bombed many times.",
+   "It was built to remember people who died in the war.",
+   "Most of its books are collected from outside of Darayya."
+  ],
+  "answer": 0,
+  "explain_zh": "文中說明這是戰亂期間、由學生們建造的地下圖書館，故選 A。文章沒有說圖書館本身曾多次遭轟炸（B，是收集書本時要冒風險），也不是為了紀念戰爭中犧牲者而建（C），書籍多半來自被炸毀的當地民宅，而非外地（D）。",
+  "vocab": [
+   {
+    "w": "war",
+    "zh": "戰爭",
+    "pos": "n."
+   },
+   {
+    "w": "build",
+    "zh": "建造",
+    "pos": "v."
+   }
+  ],
+  "passage": "In Darayya, a city in Syria, there's a library, and it has 15,000 books on almost every subject you can think of.  However, it is different from any libraries you know: It is a secret underground library, and only people in Darayya know where it is.\nOver the years, war has shaken Darayya badly.  Every day, houses are bombed and people are killed.  Stores are closed one after another, and so are schools.  To help the kids in Darayya with their learning, Anas Ahmad, a 19-year-old student, and his friends decided to build a library.  They built the library under the ground to keep it safe from bombing.  But it is dangerous to collect books for the library.  Often, Ahmad and his friends look for books in houses that were bombed.  They need to be careful because they may be killed in another bombing.\nYou may ask, \"In a place like Darayya, would people be interested in books?\"  \"Just like the body needs food, the mind needs books,\" says one library user.  In the library, people enjoy their time of reading and forget about the terrible world above, so their life doesn't seem so hard.  Through reading, they are able to dream of a better life after war.",
+  "group_id": "PX-CAP110-G07",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-032",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "We know we told you that the party would be in ____. However, we just moved to Carlton City last month, so the party won't be in Pattersons Town. It'll be at Mosman Garden right next to Victor Zoo. Please don't go to Northbank Park next to our old house.",
+  "options": [
+   "Victor Zoo",
+   "Carlton City",
+   "Mosman Garden",
+   "Northbank Park"
+  ],
+  "answer": 3,
+  "explain_zh": "後文說「派對不會辦在 Pattersons Town 了」「請不要去舊家附近的 Northbank Park」，可知原本說要辦的地點、現在要改期通知大家別去的地方就是 Northbank Park，故選 D。Victor Zoo、Mosman Garden 是新地點，Carlton City 是他們剛搬去的城市。",
+  "vocab": [
+   {
+    "w": "move",
+    "zh": "搬家",
+    "pos": "v."
+   },
+   {
+    "w": "instead",
+    "zh": "取而代之",
+    "pos": "adv."
+   }
+  ],
+  "passage": "Hello Dave,\nWe're happy to invite you and your family to Daniel's fifth birthday party this Saturday.\nWe know we told you that the party would be in ____.  However, we just moved to Carlton City last month, so the party won't be in Pattersons Town.  It'll be at Mosman Garden right next to Victor Zoo, just across from our new apartment.  Please don't go to Northbank Park next to our old house.\nThe weather report said that it may be rainy this weekend, but ____.  If it rains, we'll move the party inside our home.  However, if we're ____ and it is fine, we'll still have the party at the garden.\nAgain, we're all very happy and excited to welcome you to join us for some fun this weekend!\nBest,\nMia, Sam & Daniel",
+  "group_id": "PX-CAP110-G08",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-033",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "The weather report said that it may be rainy this weekend, but ____. If it rains, we'll move the party inside our home.",
+  "options": [
+   "we have a plan if this happens",
+   "we could just wait for the rain to stop",
+   "we should be fine if the rain isn't too heavy",
+   "we will let you know if we'll still have the party"
+  ],
+  "answer": 0,
+  "explain_zh": "後句接著說「如果下雨，我們就把派對移到室內」，可知信中要表達的是「我們已經有應對下雨的計畫」，故選 A（we have a plan if this happens）。其餘選項語氣上都不如這句明確承接後文提到的備案。",
+  "vocab": [
+   {
+    "w": "weather report",
+    "zh": "氣象預報",
+    "pos": "n."
+   },
+   {
+    "w": "plan",
+    "zh": "計畫",
+    "pos": "n."
+   }
+  ],
+  "passage": "Hello Dave,\nWe're happy to invite you and your family to Daniel's fifth birthday party this Saturday.\nWe know we told you that the party would be in ____.  However, we just moved to Carlton City last month, so the party won't be in Pattersons Town.  It'll be at Mosman Garden right next to Victor Zoo, just across from our new apartment.  Please don't go to Northbank Park next to our old house.\nThe weather report said that it may be rainy this weekend, but ____.  If it rains, we'll move the party inside our home.  However, if we're ____ and it is fine, we'll still have the party at the garden.\nAgain, we're all very happy and excited to welcome you to join us for some fun this weekend!\nBest,\nMia, Sam & Daniel",
+  "group_id": "PX-CAP110-G08",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-034",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "However, if we're ____ and it is fine, we'll still have the party at the garden.",
+  "options": [
+   "crazy",
+   "good",
+   "lucky",
+   "strong"
+  ],
+  "answer": 2,
+  "explain_zh": "承接上文「如果下雨就搬到室內」，這句用 However 轉折，表示「如果我們『幸運』遇到好天氣，仍會照原定計畫在花園舉辦」，故選 lucky。crazy（瘋狂的）、good、strong 都無法貼切表達「運氣好、天氣配合」的意思。",
+  "vocab": [
+   {
+    "w": "lucky",
+    "zh": "幸運的",
+    "pos": "adj."
+   },
+   {
+    "w": "however",
+    "zh": "然而",
+    "pos": "adv."
+   }
+  ],
+  "passage": "Hello Dave,\nWe're happy to invite you and your family to Daniel's fifth birthday party this Saturday.\nWe know we told you that the party would be in ____.  However, we just moved to Carlton City last month, so the party won't be in Pattersons Town.  It'll be at Mosman Garden right next to Victor Zoo, just across from our new apartment.  Please don't go to Northbank Park next to our old house.\nThe weather report said that it may be rainy this weekend, but ____.  If it rains, we'll move the party inside our home.  However, if we're ____ and it is fine, we'll still have the party at the garden.\nAgain, we're all very happy and excited to welcome you to join us for some fun this weekend!\nBest,\nMia, Sam & Daniel",
+  "group_id": "PX-CAP110-G08",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-035",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "Soon after I walked into the park, I saw a man under a tree up ahead.  My heart fell.  The stories I'd heard about the park ____ into my head at this moment.",
+  "options": [
+   "are all coming",
+   "have all come",
+   "were all coming",
+   "would all come"
+  ],
+  "answer": 2,
+  "explain_zh": "此處描述「當下」看到樹下的人，過去聽過關於這座公園的種種傳聞「當時正陸續湧上心頭」，用過去進行式表達過去某一刻正在發生的心理狀態，故選 were all coming。are、have 時態不符過去語境，would 則缺乏過去進行的動態感。",
+  "vocab": [
+   {
+    "w": "come into one's head",
+    "zh": "浮現腦海",
+    "pos": "phr."
+   }
+  ],
+  "passage": "Usually I wouldn't cross the park at this time of night.  But walking around the park would take more time, and it was raining so hard that I couldn't even see clearly what was right before me.  So I entered the park.  And that was the first stupid thing I did tonight.\nSoon after I walked into the park, I saw a man under a tree up ahead.  My heart fell.  The stories I'd heard about the park ____ into my head at this moment.  Anyone with a clear mind would just turn back.  But me?  No.  I did ____ stupid thing: I decided to hurry past him.\nJust when I was passing the man, he raised his head and gave me the strangest smile ever.  I got scared and started running.  \"Hey!\" the man shouted from behind.  \"Wait!\"  He was running after me!\nI ran like crazy.  I had hoped the trees would keep some rain off.  And they ____.  But they also made the park look even darker.  I couldn't see what was ahead of me.  Then, I ran into something.  It was the man!\n\"Don't kill me!\" I cried.\n\"What?  I ____ to give back your bag!  You dropped it,\" the man gave me my bag.\nNow, I felt saying that to the man was the stupidest thing I did tonight.",
+  "group_id": "PX-CAP110-G09",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-036",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "Anyone with a clear mind would just turn back. But me? No. I did ____ stupid thing: I decided to hurry past him.",
+  "options": [
+   "another",
+   "one",
+   "the last",
+   "the other"
+  ],
+  "answer": 0,
+  "explain_zh": "前面已提到「進入公園」是今晚做的第一件蠢事，這裡「決定加快腳步經過陌生人」則是「另一件」蠢事，故選 another（另一個，不特定）。one 缺乏「再一件」的對比語感，the last、the other 需要特定範圍才能使用，皆不合適。",
+  "vocab": [
+   {
+    "w": "another",
+    "zh": "另一個",
+    "pos": "adj."
+   },
+   {
+    "w": "stupid",
+    "zh": "愚蠢的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Usually I wouldn't cross the park at this time of night.  But walking around the park would take more time, and it was raining so hard that I couldn't even see clearly what was right before me.  So I entered the park.  And that was the first stupid thing I did tonight.\nSoon after I walked into the park, I saw a man under a tree up ahead.  My heart fell.  The stories I'd heard about the park ____ into my head at this moment.  Anyone with a clear mind would just turn back.  But me?  No.  I did ____ stupid thing: I decided to hurry past him.\nJust when I was passing the man, he raised his head and gave me the strangest smile ever.  I got scared and started running.  \"Hey!\" the man shouted from behind.  \"Wait!\"  He was running after me!\nI ran like crazy.  I had hoped the trees would keep some rain off.  And they ____.  But they also made the park look even darker.  I couldn't see what was ahead of me.  Then, I ran into something.  It was the man!\n\"Don't kill me!\" I cried.\n\"What?  I ____ to give back your bag!  You dropped it,\" the man gave me my bag.\nNow, I felt saying that to the man was the stupidest thing I did tonight.",
+  "group_id": "PX-CAP110-G09",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-037",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "I ran like crazy.  I had hoped the trees would keep some rain off.  And they ____.  But they also made the park look even darker.",
+  "options": [
+   "have",
+   "did",
+   "had",
+   "would"
+  ],
+  "answer": 1,
+  "explain_zh": "did 在此代替前面的 keep（擋雨），表示「樹確實有擋到一些雨」，故選 did，呼應後句「但也讓公園看起來更暗」的轉折語氣。have、had、would 的時態或用法都無法單純代替 kept off 這個過去動作。",
+  "vocab": [
+   {
+    "w": "keep off",
+    "zh": "阻擋",
+    "pos": "phr.v."
+   },
+   {
+    "w": "darker",
+    "zh": "更暗的",
+    "pos": "adj."
+   }
+  ],
+  "passage": "Usually I wouldn't cross the park at this time of night.  But walking around the park would take more time, and it was raining so hard that I couldn't even see clearly what was right before me.  So I entered the park.  And that was the first stupid thing I did tonight.\nSoon after I walked into the park, I saw a man under a tree up ahead.  My heart fell.  The stories I'd heard about the park ____ into my head at this moment.  Anyone with a clear mind would just turn back.  But me?  No.  I did ____ stupid thing: I decided to hurry past him.\nJust when I was passing the man, he raised his head and gave me the strangest smile ever.  I got scared and started running.  \"Hey!\" the man shouted from behind.  \"Wait!\"  He was running after me!\nI ran like crazy.  I had hoped the trees would keep some rain off.  And they ____.  But they also made the park look even darker.  I couldn't see what was ahead of me.  Then, I ran into something.  It was the man!\n\"Don't kill me!\" I cried.\n\"What?  I ____ to give back your bag!  You dropped it,\" the man gave me my bag.\nNow, I felt saying that to the man was the stupidest thing I did tonight.",
+  "group_id": "PX-CAP110-G09",
+  "source": "110會考"
+ },
+ {
+  "id": "PX-CAP110-038",
+  "level": "J3",
+  "cefr": "B1",
+  "skill": "reading",
+  "tag": "reading:cloze",
+  "tag_zh": "篇章結構",
+  "stem": "\"Don't kill me!\" I cried. \"What?  I ____ to give back your bag!  You dropped it,\" the man gave me my bag.",
+  "options": [
+   "was trying",
+   "try",
+   "would try",
+   "will try"
+  ],
+  "answer": 0,
+  "explain_zh": "男子解釋自己剛剛「正想要」把包包還給她，用過去進行式表達當時正在進行、被誤會打斷的動作，故選 was trying。try、would try、will try 的時態都無法對應「剛才正在做」這個過去當下的動作。",
+  "vocab": [
+   {
+    "w": "try to",
+    "zh": "試圖",
+    "pos": "phr."
+   },
+   {
+    "w": "drop",
+    "zh": "掉落、遺落",
+    "pos": "v."
+   }
+  ],
+  "passage": "Usually I wouldn't cross the park at this time of night.  But walking around the park would take more time, and it was raining so hard that I couldn't even see clearly what was right before me.  So I entered the park.  And that was the first stupid thing I did tonight.\nSoon after I walked into the park, I saw a man under a tree up ahead.  My heart fell.  The stories I'd heard about the park ____ into my head at this moment.  Anyone with a clear mind would just turn back.  But me?  No.  I did ____ stupid thing: I decided to hurry past him.\nJust when I was passing the man, he raised his head and gave me the strangest smile ever.  I got scared and started running.  \"Hey!\" the man shouted from behind.  \"Wait!\"  He was running after me!\nI ran like crazy.  I had hoped the trees would keep some rain off.  And they ____.  But they also made the park look even darker.  I couldn't see what was ahead of me.  Then, I ran into something.  It was the man!\n\"Don't kill me!\" I cried.\n\"What?  I ____ to give back your bag!  You dropped it,\" the man gave me my bag.\nNow, I felt saying that to the man was the stupidest thing I did tonight.",
+  "group_id": "PX-CAP110-G09",
+  "source": "110會考"
+ }
+]

@@ -1,0 +1,1218 @@
+[
+ {
+  "id": "PX-CAP105-001",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:noun",
+  "tag_zh": "名詞語意",
+  "passage": null,
+  "group_id": null,
+  "stem": "Chris: Which ____ looks better on me?  Penny: I think purple's better.  You look great in purple.",
+  "options": [
+   "color",
+   "grade",
+   "shape",
+   "size"
+  ],
+  "answer": 0,
+  "explain_zh": "回答提到 purple（紫色）比較好看，代表問的是穿哪個顏色好看，故選 color。grade（成績）、shape（形狀）、size（尺寸）都與顏色無關。",
+  "vocab": [
+   {
+    "w": "color",
+    "zh": "顏色",
+    "pos": "n."
+   },
+   {
+    "w": "purple",
+    "zh": "紫色",
+    "pos": "n./adj."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-002",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:perception-verb",
+  "tag_zh": "感官動詞後接現在分詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My cat got excited when it saw the boy ____ the birds.",
+  "options": [
+   "catches",
+   "catching",
+   "to catch",
+   "caught"
+  ],
+  "answer": 1,
+  "explain_zh": "see + 受詞 + V-ing 表示看到某動作正在進行，故選 catching。see + 受詞 + 原形動詞才是看到整個動作發生，這裡強調當下正在抓的過程。",
+  "vocab": [
+   {
+    "w": "excited",
+    "zh": "興奮的",
+    "pos": "adj."
+   },
+   {
+    "w": "catch",
+    "zh": "抓、捕捉",
+    "pos": "v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-003",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "形容詞語意",
+  "passage": null,
+  "group_id": null,
+  "stem": "Mr. Jackson is a very ____ writer; people of all ages enjoy his stories.",
+  "options": [
+   "polite",
+   "popular",
+   "handsome",
+   "honest"
+  ],
+  "answer": 1,
+  "explain_zh": "各年齡層都愛看他的故事，表示他很受歡迎，故選 popular。polite（有禮貌）、handsome（英俊）、honest（誠實）都與「受歡迎」的語意不符。",
+  "vocab": [
+   {
+    "w": "popular",
+    "zh": "受歡迎的",
+    "pos": "adj."
+   },
+   {
+    "w": "of all ages",
+    "zh": "各年齡層的",
+    "pos": "phr."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-004",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:noun",
+  "tag_zh": "身體部位表情感",
+  "passage": null,
+  "group_id": null,
+  "stem": "Carol sounded happy when we talked on the phone; I could feel joy in her ____.",
+  "options": [
+   "eyes",
+   "mail",
+   "smile",
+   "voice"
+  ],
+  "answer": 3,
+  "explain_zh": "講電話只能聽到聲音，看不到表情或眼神，因此感受到喜悅的地方只能是「聲音」，故選 voice。eyes、smile 都是視覺線索，電話中無法看見。",
+  "vocab": [
+   {
+    "w": "joy",
+    "zh": "喜悅",
+    "pos": "n."
+   },
+   {
+    "w": "voice",
+    "zh": "聲音、嗓音",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-005",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:verb",
+  "tag_zh": "動詞語意",
+  "passage": null,
+  "group_id": null,
+  "stem": "Mark studies very hard and never ____ classes.  He goes to school even when he is sick.",
+  "options": [
+   "loses",
+   "misses",
+   "changes",
+   "forgets"
+  ],
+  "answer": 1,
+  "explain_zh": "miss class 是固定搭配，表示「缺課」；生病也堅持上學，表示他從不缺課，故選 misses。loses、forgets 不能這樣搭配 classes。",
+  "vocab": [
+   {
+    "w": "miss",
+    "zh": "錯過、缺席",
+    "pos": "v."
+   },
+   {
+    "w": "even when",
+    "zh": "即使在…時",
+    "pos": "conj."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-006",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adverb",
+  "tag_zh": "頻率副詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Have you got anything for Joe ____?  He'd be happy to get your gift on his birthday.",
+  "options": [
+   "almost",
+   "either",
+   "soon",
+   "yet"
+  ],
+  "answer": 3,
+  "explain_zh": "疑問句中的 yet 表示「已經（準備好了嗎）」，詢問是否已經準備好生日禮物，故選 yet。almost、either、soon 語意都不合。",
+  "vocab": [
+   {
+    "w": "yet",
+    "zh": "（疑問句）已經",
+    "pos": "adv."
+   },
+   {
+    "w": "gift",
+    "zh": "禮物",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-007",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:quantifiers",
+  "tag_zh": "可數不可數量詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "Susan bought ____ bread in the supermarket, but she did not buy anything to drink.",
+  "options": [
+   "many",
+   "some",
+   "any",
+   "one"
+  ],
+  "answer": 1,
+  "explain_zh": "bread 是不可數名詞，肯定句中修飾不可數名詞要用 some，故選 B。many 只能修飾可數名詞，any 通常用於否定句或疑問句。",
+  "vocab": [
+   {
+    "w": "bread",
+    "zh": "麵包",
+    "pos": "n."
+   },
+   {
+    "w": "some",
+    "zh": "一些",
+    "pos": "det."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-008",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:subject-verb-agreement",
+  "tag_zh": "動名詞片語主詞單數",
+  "passage": null,
+  "group_id": null,
+  "stem": "Playing sports at least three times a week ____ good for your health.",
+  "options": [
+   "is",
+   "are",
+   "has",
+   "have"
+  ],
+  "answer": 0,
+  "explain_zh": "動名詞片語（Playing sports...）當主詞時視為單數，動詞要用第三人稱單數 is，故選 A。",
+  "vocab": [
+   {
+    "w": "at least",
+    "zh": "至少",
+    "pos": "phr."
+   },
+   {
+    "w": "health",
+    "zh": "健康",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-009",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:pronouns",
+  "tag_zh": "the other 用法",
+  "passage": null,
+  "group_id": null,
+  "stem": "My parents have different hobbies.  One enjoys baking; ____ enjoys taking pictures.",
+  "options": [
+   "another",
+   "the next",
+   "the other",
+   "the second"
+  ],
+  "answer": 2,
+  "explain_zh": "父母只有兩人，「一個…另一個」在兩者中用 the other，故選 C。another 用於三者以上不特定的「另一個」，不適用於此。",
+  "vocab": [
+   {
+    "w": "the other",
+    "zh": "（兩者中）另一個",
+    "pos": "pron."
+   },
+   {
+    "w": "hobby",
+    "zh": "嗜好",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-010",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:reflexive-pronoun",
+  "tag_zh": "反身代名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My mom told me to take care of ____ in England.  She worried that I couldn't eat or sleep well there.",
+  "options": [
+   "me",
+   "myself",
+   "her",
+   "herself"
+  ],
+  "answer": 1,
+  "explain_zh": "take care of oneself 表示「照顧自己」，句中主詞是 I（媽媽叫「我」照顧「我自己」），受詞要用反身代名詞 myself，故選 B。",
+  "vocab": [
+   {
+    "w": "take care of",
+    "zh": "照顧",
+    "pos": "phr."
+   },
+   {
+    "w": "worry",
+    "zh": "擔心",
+    "pos": "v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-011",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "形容詞語意",
+  "passage": null,
+  "group_id": null,
+  "stem": "The paint on the wall is not as ____ as it was ten years ago.  It has changed from white to gray.",
+  "options": [
+   "bright",
+   "heavy",
+   "sure",
+   "young"
+  ],
+  "answer": 0,
+  "explain_zh": "牆壁從白色變成灰色，表示不再明亮，故選 bright。heavy（重）、sure（確定）、young（年輕）都不能形容油漆的色澤變化。",
+  "vocab": [
+   {
+    "w": "paint",
+    "zh": "油漆",
+    "pos": "n."
+   },
+   {
+    "w": "bright",
+    "zh": "明亮的",
+    "pos": "adj."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-012",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "phrase",
+  "tag": "phrase:phrasal-verb",
+  "tag_zh": "片語動詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "I told you this road went the wrong way, but you just wouldn't listen.  Now we have to ____ and take another road.",
+  "options": [
+   "go ahead",
+   "move away",
+   "pass by",
+   "turn back"
+  ],
+  "answer": 3,
+  "explain_zh": "走錯路了，必須「回頭」走另一條路，turn back 表示往回走，故選 D。go ahead（繼續前進）、pass by（經過）語意都不符。",
+  "vocab": [
+   {
+    "w": "turn back",
+    "zh": "回頭、折返",
+    "pos": "phr.v."
+   },
+   {
+    "w": "the wrong way",
+    "zh": "錯的方向",
+    "pos": "phr."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-013",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "vocab",
+  "tag": "vocab:adjective",
+  "tag_zh": "形容詞語意",
+  "passage": null,
+  "group_id": null,
+  "stem": "The last five years have not been ____ to Jennie.  Her face is covered with lines and she looks much older than she is.",
+  "options": [
+   "kind",
+   "special",
+   "real",
+   "enough"
+  ],
+  "answer": 0,
+  "explain_zh": "歲月使她顯老、滿臉皺紋，表示這五年對她並不「仁慈」，故選 kind。not kind to sb. 是常見的擬人化用法，表示某段時間對人不好。",
+  "vocab": [
+   {
+    "w": "kind",
+    "zh": "仁慈的、友善的",
+    "pos": "adj."
+   },
+   {
+    "w": "line",
+    "zh": "（臉上的）皺紋",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-014",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "grammar",
+  "tag": "grammar:gerund",
+  "tag_zh": "動詞+V-ing/被動動名詞",
+  "passage": null,
+  "group_id": null,
+  "stem": "My dog Jimmy loves ____ with a comb.  Every time I comb his hair, he will close his eyes and fall asleep.",
+  "options": [
+   "to brush",
+   "brushing",
+   "to be brushing",
+   "being brushed"
+  ],
+  "answer": 3,
+  "explain_zh": "狗是「被」主人用梳子梳毛（被動），所以要用被動動名詞 being brushed，故選 D。love + V-ing 表喜歡做某事，但此處動作方向是被梳，須用被動式。",
+  "vocab": [
+   {
+    "w": "comb",
+    "zh": "梳子；梳",
+    "pos": "n./v."
+   },
+   {
+    "w": "fall asleep",
+    "zh": "睡著",
+    "pos": "phr."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-015",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "公告主旨",
+  "passage": "Our Pinky Street, one of the oldest streets in the world, was almost lost to a big fire last night.  Most of the old houses on Pinky were burned down.  The living history we are proud of is dying.  But we should never give up.  Pinky is like a parent, always there caring for our town.  Now we must do something together to get the old Pinky back.  There will be a meeting at 2:00 this Saturday afternoon at Town Office.  Anyone who wants to help is welcome.  Let's see what we can do.\nAdam Bolton, Town Office, March 9",
+  "group_id": "PX-CAP105-G01",
+  "stem": "What is the reading for?",
+  "options": [
+   "Finding out why the old street was on fire.",
+   "Inviting people to do business on the old street.",
+   "Getting people to find ways to save the old street.",
+   "Asking for help for people who got hurt in the fire."
+  ],
+  "answer": 2,
+  "explain_zh": "文中呼籲大家一起想辦法把老街救回來，並邀請大家開會討論解決方法，故選 C。文章沒有提到調查火災原因或做生意。",
+  "vocab": [
+   {
+    "w": "burn down",
+    "zh": "燒毀",
+    "pos": "phr.v."
+   },
+   {
+    "w": "give up",
+    "zh": "放棄",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節辨識",
+  "passage": "Our Pinky Street, one of the oldest streets in the world, was almost lost to a big fire last night.  Most of the old houses on Pinky were burned down.  The living history we are proud of is dying.  But we should never give up.  Pinky is like a parent, always there caring for our town.  Now we must do something together to get the old Pinky back.  There will be a meeting at 2:00 this Saturday afternoon at Town Office.  Anyone who wants to help is welcome.  Let's see what we can do.\nAdam Bolton, Town Office, March 9",
+  "group_id": "PX-CAP105-G01",
+  "stem": "Which is NOT used in the reading to talk about the old street?",
+  "options": [
+   "A good friend.",
+   "The old Pinky.",
+   "A parent.",
+   "A living history."
+  ],
+  "answer": 0,
+  "explain_zh": "文中把老街比喻成 parent（父母）、living history（活歷史），也直接稱呼 Pinky，但沒有提到 a good friend，故選 A。",
+  "vocab": [
+   {
+    "w": "proud",
+    "zh": "驕傲的",
+    "pos": "adj."
+   },
+   {
+    "w": "care for",
+    "zh": "照顧",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "passage": "No idea where to spend your vacation?  If you are a big fan of sun, beach, and water sports, then you must join FunGana 2016!\nOver the years, FunGana has taken people to many places in Gana.  This year, we are taking you to Piso Island, one of Gana's beautiful islands.  Piso Island is adjacent to Wako Island, the biggest island in Gana, so it is only 15 minutes away by boat from Wako Island.  The best time to visit?  All year around, the weather on Piso Island is just wonderful for a vacation.  You can sail out to watch whales, or enjoy one of the best mud springs in the world.  We will also show you around the island in a special car, the Cocoon Rider.  It's our pleasure to help you enjoy your stay on Piso Island.\nFind out more about FunGana 2016 at http://www.fungana2016.com.gn.",
+  "group_id": "PX-CAP105-G02",
+  "stem": "What is FunGana 2016 for?",
+  "options": [
+   "Studying sea animals in Gana.",
+   "Giving courses in water sports.",
+   "Giving weather reports in Gana.",
+   "Helping people experience Gana."
+  ],
+  "answer": 3,
+  "explain_zh": "全文在介紹帶遊客到Gana的Piso島度假、賞鯨、泡泥漿溫泉，是旅遊行程廣告，目的是讓遊客體驗Gana，故選 D。",
+  "vocab": [
+   {
+    "w": "vacation",
+    "zh": "假期",
+    "pos": "n."
+   },
+   {
+    "w": "sail out",
+    "zh": "出海",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "No idea where to spend your vacation?  If you are a big fan of sun, beach, and water sports, then you must join FunGana 2016!\nOver the years, FunGana has taken people to many places in Gana.  This year, we are taking you to Piso Island, one of Gana's beautiful islands.  Piso Island is adjacent to Wako Island, the biggest island in Gana, so it is only 15 minutes away by boat from Wako Island.  The best time to visit?  All year around, the weather on Piso Island is just wonderful for a vacation.  You can sail out to watch whales, or enjoy one of the best mud springs in the world.  We will also show you around the island in a special car, the Cocoon Rider.  It's our pleasure to help you enjoy your stay on Piso Island.\nFind out more about FunGana 2016 at http://www.fungana2016.com.gn.",
+  "group_id": "PX-CAP105-G02",
+  "stem": "What does the reading say about Piso Island?",
+  "options": [
+   "It makes the best cars in Gana.",
+   "It has nice weather in every season.",
+   "It is the most popular island in Gana.",
+   "It has the most mud springs in the world."
+  ],
+  "answer": 1,
+  "explain_zh": "文中說 All year around, the weather on Piso Island is just wonderful，全年天氣都很棒，故選 B。",
+  "vocab": [
+   {
+    "w": "all year around",
+    "zh": "全年",
+    "pos": "phr."
+   },
+   {
+    "w": "wonderful",
+    "zh": "極好的",
+    "pos": "adj."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-019",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "上下文猜字義",
+  "passage": "No idea where to spend your vacation?  If you are a big fan of sun, beach, and water sports, then you must join FunGana 2016!\nOver the years, FunGana has taken people to many places in Gana.  This year, we are taking you to Piso Island, one of Gana's beautiful islands.  Piso Island is adjacent to Wako Island, the biggest island in Gana, so it is only 15 minutes away by boat from Wako Island.  The best time to visit?  All year around, the weather on Piso Island is just wonderful for a vacation.  You can sail out to watch whales, or enjoy one of the best mud springs in the world.  We will also show you around the island in a special car, the Cocoon Rider.  It's our pleasure to help you enjoy your stay on Piso Island.\nFind out more about FunGana 2016 at http://www.fungana2016.com.gn.",
+  "group_id": "PX-CAP105-G02",
+  "stem": "What does adjacent to mean?",
+  "options": [
+   "Like.",
+   "Near.",
+   "Bigger than.",
+   "Warmer than."
+  ],
+  "answer": 1,
+  "explain_zh": "後文說搭船只要15分鐘就能從Piso島到Wako島，可知 adjacent to 表示「鄰近」，故選 B。",
+  "vocab": [
+   {
+    "w": "adjacent to",
+    "zh": "鄰近於",
+    "pos": "phr."
+   },
+   {
+    "w": "boat",
+    "zh": "船",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-020",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "公告細節判斷",
+  "passage": "Here is the schedule with the notice of the summer school that Tina goes to.\nSchedule (Day: Mon / Tues / Wed / Thurs / Fri):\n09:30-10:30: English / Computer / English / English / Piano\n10:40-11:40: Piano / English / Painting / Dancing / Dancing\n13:30-14:30: Tennis / Painting / Tennis / Painting / Computer\n14:40-15:40: Baseball / Baseball / Swimming / Basketball / Basketball\nNOTICE\nThe school restaurant is closed during the summer school (7/4~7/31).  Please bring your own lunch.  If you need to order lunch, please tell your class leader the day before.\nDancing shoes can be borrowed with your summer school card.  Please find Mr. Shum in Room 117.\nDuring the third week, the gym will be used for the High School Ball Games.  Please go to the playground for the basketball classes of the week.",
+  "group_id": "PX-CAP105-G03",
+  "stem": "What do we know from the notice?",
+  "options": [
+   "The summer school is three weeks long.",
+   "Students can order lunch from the school restaurant.",
+   "There are basketball classes in the gym every week except the third week.",
+   "Those who need to borrow dancing shoes must tell Mr. Shum the day before."
+  ],
+  "answer": 2,
+  "explain_zh": "公告說第三週體育館被高中球賽占用，籃球課要改到操場上，等於其他週籃球課都在體育館，符合 C。餐廳其實是暫停營業，不是可以訂餐。",
+  "vocab": [
+   {
+    "w": "gym",
+    "zh": "體育館",
+    "pos": "n."
+   },
+   {
+    "w": "playground",
+    "zh": "操場",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-021",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:table-matching",
+  "tag_zh": "課表比對",
+  "passage": "Here is the schedule with the notice of the summer school that Tina goes to.\nSchedule (Day: Mon / Tues / Wed / Thurs / Fri):\n09:30-10:30: English / Computer / English / English / Piano\n10:40-11:40: Piano / English / Painting / Dancing / Dancing\n13:30-14:30: Tennis / Painting / Tennis / Painting / Computer\n14:40-15:40: Baseball / Baseball / Swimming / Basketball / Basketball\nNOTICE\nThe school restaurant is closed during the summer school (7/4~7/31).  Please bring your own lunch.  If you need to order lunch, please tell your class leader the day before.\nDancing shoes can be borrowed with your summer school card.  Please find Mr. Shum in Room 117.\nDuring the third week, the gym will be used for the High School Ball Games.  Please go to the playground for the basketball classes of the week.",
+  "group_id": "PX-CAP105-G03",
+  "stem": "Below is what Tina told her friends about the classes in her summer school schedule: \"Mr. Reed was really crazy to give us so many new words... In our art class... I just drew a mad me looking at Mr. Reed.  But then I totally forgot about Mr. Reed after two hours of PE classes in the afternoon... there was no computer class today.\"  Which day was Tina talking about?",
+  "options": [
+   "Monday.",
+   "Tuesday.",
+   "Wednesday.",
+   "Thursday."
+  ],
+  "answer": 2,
+  "explain_zh": "當天有繪畫課（art class）、下午連續兩節運動課（網球+游泳）、沒有電腦課，對照課表只有星期三同時符合這三個條件，故選 C。",
+  "vocab": [
+   {
+    "w": "art class",
+    "zh": "美術課",
+    "pos": "n."
+   },
+   {
+    "w": "totally",
+    "zh": "完全地",
+    "pos": "adv."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-022",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "詩句推論",
+  "passage": "The wind keeps blowing.\nThe door keeps opening.\nWill you be with me, my dear Lucy,\nWhen I look for candy\nDown there in the dark, dark kitchen?\nThe wind keeps crying.\nThe door keeps shaking.\nWill you be with me, my dear Lucy,\nWhen I pick up my toy puppy\nOut there on the high, high balcony?\nWish you could always be with me\nAnd make them go away with your Do-Re-Me.\nI remember last Halloween\nThey ran away when you started to sing,\n\"Dear Tommy, my little king,\nClose your eyes and have a sweet dream.\"\nSo please stay with me and sing\nTo stop them kicking the door, riding the wind,\nAnd pulling me down to their house under the ground.\nThey'll go away if you sing here for me,\nIn a voice that gets a black cat's hair standing,\nThe strongest legs shaking, and the window glass breaking.\n(ideas from Matthew Sweeney's poem)",
+  "group_id": "PX-CAP105-G04",
+  "stem": "Which is most likely true about the speaker in the reading?",
+  "options": [
+   "He thinks a black cat is hiding somewhere in the house.",
+   "He feels lonely because he is the only child in his family.",
+   "He is looking for something he left somewhere in the house.",
+   "He is afraid of being by himself when he feels ghosts around."
+  ],
+  "answer": 3,
+  "explain_zh": "說話者一直請 Lucy 陪他一起趕走風、門、地下傳來的怪物聲響，顯示他害怕獨自面對這些「鬼怪」，故選 D。",
+  "vocab": [
+   {
+    "w": "be with",
+    "zh": "陪伴",
+    "pos": "phr."
+   },
+   {
+    "w": "balcony",
+    "zh": "陽台",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-023",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "詩句細節",
+  "passage": "The wind keeps blowing.\nThe door keeps opening.\nWill you be with me, my dear Lucy,\nWhen I look for candy\nDown there in the dark, dark kitchen?\nThe wind keeps crying.\nThe door keeps shaking.\nWill you be with me, my dear Lucy,\nWhen I pick up my toy puppy\nOut there on the high, high balcony?\nWish you could always be with me\nAnd make them go away with your Do-Re-Me.\nI remember last Halloween\nThey ran away when you started to sing,\n\"Dear Tommy, my little king,\nClose your eyes and have a sweet dream.\"\nSo please stay with me and sing\nTo stop them kicking the door, riding the wind,\nAnd pulling me down to their house under the ground.\nThey'll go away if you sing here for me,\nIn a voice that gets a black cat's hair standing,\nThe strongest legs shaking, and the window glass breaking.\n(ideas from Matthew Sweeney's poem)",
+  "group_id": "PX-CAP105-G04",
+  "stem": "What can we learn about Lucy in the reading?",
+  "options": [
+   "She keeps opening the door.",
+   "Her voice makes the speaker feel safe.",
+   "Her candy was hidden in the kitchen.",
+   "She was away from home last Halloween."
+  ],
+  "answer": 1,
+  "explain_zh": "詩中說去年萬聖節 Lucy 一開口唱歌，那些怪物就跑走了，顯示她的歌聲讓說話者感到安全，故選 B。",
+  "vocab": [
+   {
+    "w": "sing",
+    "zh": "唱歌",
+    "pos": "v."
+   },
+   {
+    "w": "run away",
+    "zh": "逃跑",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-024",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "passage": "A comic strip in 10 panels:\nPanel1: A book titled 'Catch-22 by Joseph Heller.'\nPanel2: 'There was a soldier...'\nPanel3: The soldier flies his airplane while enemy planes explode nearby.\nPanel4: The soldier thinks, 'This job is dangerous.  I could die any time I fly.'\nPanel5: The soldier walks toward a hospital.\nPanel6: Soldier asks the doctor, 'Doctor, how can I get out of my dangerous job?'\nPanel7: The doctor explains, 'Rule 22 - A soldier can stop flying airplanes only if he is crazy.  But he has to MAKE THE DOCTOR BELIEVE IT.'\nPanel8: The soldier says, 'That's easy!'\nPanel9: The doctor explains further: 'Really?  Think about it.  If you are crazy, you won't worry about your life.  Then you would never think you should stop flying airplanes.  If you ever think you should stop flying, it means that you worry about your life and that you're not crazy.  If you are not crazy, you have to keep flying.  You see, you're caught by Rule 22.  You have no way out.  You will still need to fly.'\nPanel10: 'Now people use \"catch-22,\" the name of Joseph Heller's book, to mean that someone has a problem like the soldier's.'  A small diagram beside it shows a circle: want to stop -> (must) get crazy first -> BUT... already got crazy -> will not want to stop -> (back to want to stop).",
+  "group_id": "PX-CAP105-G05",
+  "stem": "What does IT in picture 7 mean?",
+  "options": [
+   "Rule 22 is easy to follow.",
+   "Anyone can die at any time.",
+   "Flying airplanes is dangerous.",
+   "The soldier has become crazy."
+  ],
+  "answer": 3,
+  "explain_zh": "醫生說士兵得讓醫生相信「IT」，也就是相信他真的瘋了，才能停飛，故選 D。",
+  "vocab": [
+   {
+    "w": "crazy",
+    "zh": "瘋狂的",
+    "pos": "adj."
+   },
+   {
+    "w": "believe",
+    "zh": "相信",
+    "pos": "v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-025",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "漫畫內容推論",
+  "passage": "A comic strip in 10 panels:\nPanel1: A book titled 'Catch-22 by Joseph Heller.'\nPanel2: 'There was a soldier...'\nPanel3: The soldier flies his airplane while enemy planes explode nearby.\nPanel4: The soldier thinks, 'This job is dangerous.  I could die any time I fly.'\nPanel5: The soldier walks toward a hospital.\nPanel6: Soldier asks the doctor, 'Doctor, how can I get out of my dangerous job?'\nPanel7: The doctor explains, 'Rule 22 - A soldier can stop flying airplanes only if he is crazy.  But he has to MAKE THE DOCTOR BELIEVE IT.'\nPanel8: The soldier says, 'That's easy!'\nPanel9: The doctor explains further: 'Really?  Think about it.  If you are crazy, you won't worry about your life.  Then you would never think you should stop flying airplanes.  If you ever think you should stop flying, it means that you worry about your life and that you're not crazy.  If you are not crazy, you have to keep flying.  You see, you're caught by Rule 22.  You have no way out.  You will still need to fly.'\nPanel10: 'Now people use \"catch-22,\" the name of Joseph Heller's book, to mean that someone has a problem like the soldier's.'  A small diagram beside it shows a circle: want to stop -> (must) get crazy first -> BUT... already got crazy -> will not want to stop -> (back to want to stop).",
+  "group_id": "PX-CAP105-G05",
+  "stem": "What can we learn from the comics?",
+  "options": [
+   "The doctor tried several ways to help the soldier.",
+   "The soldier cared about his life more than his job.",
+   "The soldier went to ask the doctor about Rule 22.",
+   "The use of \"catch-22\" appeared before Joseph Heller's book."
+  ],
+  "answer": 1,
+  "explain_zh": "第4格士兵心想「這份工作很危險，我隨時可能因飛行而喪命」，可知他把自己的性命看得比工作更重要，因此才會去找醫生設法擺脫飛行任務，故選 B；他去找醫生時是詢問「如何擺脫危險的工作」，Rule 22 是醫生後來才解釋給他聽的規定，他事先並不知情，故 C「去問醫生 Rule 22 的事」不準確；漫畫中醫生並未提供多種方法，只解釋了 Rule 22 這一項規則（A錯）；catch-22 一詞其實源自 Joseph Heller 的這本書之後才流行使用，並非在此之前就存在（D錯）。",
+  "vocab": [
+   {
+    "w": "doctor",
+    "zh": "醫生",
+    "pos": "n."
+   },
+   {
+    "w": "dangerous",
+    "zh": "危險的",
+    "pos": "adj."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-026",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:apply-concept",
+  "tag_zh": "應用情境判斷",
+  "passage": "A comic strip in 10 panels:\nPanel1: A book titled 'Catch-22 by Joseph Heller.'\nPanel2: 'There was a soldier...'\nPanel3: The soldier flies his airplane while enemy planes explode nearby.\nPanel4: The soldier thinks, 'This job is dangerous.  I could die any time I fly.'\nPanel5: The soldier walks toward a hospital.\nPanel6: Soldier asks the doctor, 'Doctor, how can I get out of my dangerous job?'\nPanel7: The doctor explains, 'Rule 22 - A soldier can stop flying airplanes only if he is crazy.  But he has to MAKE THE DOCTOR BELIEVE IT.'\nPanel8: The soldier says, 'That's easy!'\nPanel9: The doctor explains further: 'Really?  Think about it.  If you are crazy, you won't worry about your life.  Then you would never think you should stop flying airplanes.  If you ever think you should stop flying, it means that you worry about your life and that you're not crazy.  If you are not crazy, you have to keep flying.  You see, you're caught by Rule 22.  You have no way out.  You will still need to fly.'\nPanel10: 'Now people use \"catch-22,\" the name of Joseph Heller's book, to mean that someone has a problem like the soldier's.'  A small diagram beside it shows a circle: want to stop -> (must) get crazy first -> BUT... already got crazy -> will not want to stop -> (back to want to stop).",
+  "group_id": "PX-CAP105-G05",
+  "stem": "From the comics, which is most likely an example of \"catch-22\"?",
+  "options": [
+   "I need to go to hospital, but there are no hospitals near my house.",
+   "I need my key to open the door of my house, but I left my key at school.",
+   "I need some special experience to get this job, but I can't get this kind of experience except from this job.",
+   "I want to go out with Jennifer on New Year's Day, but I'm not sure whether she wants to go out with me that day."
+  ],
+  "answer": 2,
+  "explain_zh": "catch-22指互相矛盾、無解的困境，C選項「要有經驗才能得到工作，卻只能靠這份工作獲得經驗」正是這種邏輯死結，故選 C。",
+  "vocab": [
+   {
+    "w": "experience",
+    "zh": "經驗",
+    "pos": "n."
+   },
+   {
+    "w": "except",
+    "zh": "除了…之外",
+    "pos": "prep."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-027",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "passage": "Alec: So, what do you think about it?\nEllie: It's...interesting.\nAlec: Oh, no, don't say that.\nEllie: The first thing you should know about Olivia is that she's scared of anything with six legs.  I don't think she'll be able to walk past the gate of Buzzing World.\nAlec: But she loves butterflies!  Well, she loved the photos of butterflies I took last time I was there.\nEllie: Only when they're not moving.\nAlec: Fine.  I'll just take her somewhere else, and that'd be OK.  Right?\nEllie: Umm, you're taking her to Wavelength for dinner?\nAlec: What's wrong with that?!\nEllie: I wouldn't say a dead fish is really her idea of a nice dinner, and this restaurant sells seafood...\nAlec: Now you're wrong about this one.  She loved my mom's fish balls.  She had several last time!\nEllie: OK, let's ask someone else.  Oh, there's Lori.  Hey, Lori, could you look at Alec's plan?  He's taking Olivia out.\nLori: Wow!  Everything's written down on paper!  Hmmm... I thought you wanted her to be your girlfriend.\nAlec: I do!\nLori: If you follow this plan, I'm sure it'll be your only date with her.",
+  "group_id": "PX-CAP105-G06",
+  "stem": "What does it in the first line mean?",
+  "options": [
+   "The gate of Buzzing World.",
+   "Alec's butterfly photo.",
+   "Alec's plan for his date.",
+   "Anything with six legs."
+  ],
+  "answer": 2,
+  "explain_zh": "整段對話都在討論Alec約會的計畫，Ellie正在看的it即Alec's plan for his date，故選 C。",
+  "vocab": [
+   {
+    "w": "interesting",
+    "zh": "有趣的",
+    "pos": "adj."
+   },
+   {
+    "w": "plan",
+    "zh": "計畫",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-028",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:pronoun-reference",
+  "tag_zh": "代名詞指涉",
+  "passage": "Alec: So, what do you think about it?\nEllie: It's...interesting.\nAlec: Oh, no, don't say that.\nEllie: The first thing you should know about Olivia is that she's scared of anything with six legs.  I don't think she'll be able to walk past the gate of Buzzing World.\nAlec: But she loves butterflies!  Well, she loved the photos of butterflies I took last time I was there.\nEllie: Only when they're not moving.\nAlec: Fine.  I'll just take her somewhere else, and that'd be OK.  Right?\nEllie: Umm, you're taking her to Wavelength for dinner?\nAlec: What's wrong with that?!\nEllie: I wouldn't say a dead fish is really her idea of a nice dinner, and this restaurant sells seafood...\nAlec: Now you're wrong about this one.  She loved my mom's fish balls.  She had several last time!\nEllie: OK, let's ask someone else.  Oh, there's Lori.  Hey, Lori, could you look at Alec's plan?  He's taking Olivia out.\nLori: Wow!  Everything's written down on paper!  Hmmm... I thought you wanted her to be your girlfriend.\nAlec: I do!\nLori: If you follow this plan, I'm sure it'll be your only date with her.",
+  "group_id": "PX-CAP105-G06",
+  "stem": "What does this one mean in the dialogue?",
+  "options": [
+   "What food Wavelength sells.",
+   "Why Olivia does not like seafood.",
+   "What Alec thinks about Wavelength.",
+   "What food Olivia does not like to eat."
+  ],
+  "answer": 3,
+  "explain_zh": "this one 指 Ellie 剛說的「Olivia不愛吃死魚（海鮮）」，Alec反駁這個說法是錯的，並舉媽媽做的魚丸為例，故選 D。",
+  "vocab": [
+   {
+    "w": "seafood",
+    "zh": "海鮮",
+    "pos": "n."
+   },
+   {
+    "w": "several",
+    "zh": "好幾個",
+    "pos": "det."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-029",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "對話推論",
+  "passage": "Alec: So, what do you think about it?\nEllie: It's...interesting.\nAlec: Oh, no, don't say that.\nEllie: The first thing you should know about Olivia is that she's scared of anything with six legs.  I don't think she'll be able to walk past the gate of Buzzing World.\nAlec: But she loves butterflies!  Well, she loved the photos of butterflies I took last time I was there.\nEllie: Only when they're not moving.\nAlec: Fine.  I'll just take her somewhere else, and that'd be OK.  Right?\nEllie: Umm, you're taking her to Wavelength for dinner?\nAlec: What's wrong with that?!\nEllie: I wouldn't say a dead fish is really her idea of a nice dinner, and this restaurant sells seafood...\nAlec: Now you're wrong about this one.  She loved my mom's fish balls.  She had several last time!\nEllie: OK, let's ask someone else.  Oh, there's Lori.  Hey, Lori, could you look at Alec's plan?  He's taking Olivia out.\nLori: Wow!  Everything's written down on paper!  Hmmm... I thought you wanted her to be your girlfriend.\nAlec: I do!\nLori: If you follow this plan, I'm sure it'll be your only date with her.",
+  "group_id": "PX-CAP105-G06",
+  "stem": "What can we learn about Alec?",
+  "options": [
+   "He was told that Olivia likes nice surprises.",
+   "He decided to cook Olivia a nice seafood dinner.",
+   "He was happy that Olivia was finally his girlfriend.",
+   "He gave up the idea of taking Olivia to Buzzing World."
+  ],
+  "answer": 3,
+  "explain_zh": "Ellie提醒Olivia怕蟲怕蝴蝶亂飛，Alec回應「那我帶她去別的地方」，可知他放棄了帶她去Buzzing World的計畫，故選 D。",
+  "vocab": [
+   {
+    "w": "scared of",
+    "zh": "害怕…的",
+    "pos": "phr."
+   },
+   {
+    "w": "give up",
+    "zh": "放棄",
+    "pos": "phr.v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-030",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:apply-concept",
+  "tag_zh": "立場應用推論",
+  "passage": "Alec: So, what do you think about it?\nEllie: It's...interesting.\nAlec: Oh, no, don't say that.\nEllie: The first thing you should know about Olivia is that she's scared of anything with six legs.  I don't think she'll be able to walk past the gate of Buzzing World.\nAlec: But she loves butterflies!  Well, she loved the photos of butterflies I took last time I was there.\nEllie: Only when they're not moving.\nAlec: Fine.  I'll just take her somewhere else, and that'd be OK.  Right?\nEllie: Umm, you're taking her to Wavelength for dinner?\nAlec: What's wrong with that?!\nEllie: I wouldn't say a dead fish is really her idea of a nice dinner, and this restaurant sells seafood...\nAlec: Now you're wrong about this one.  She loved my mom's fish balls.  She had several last time!\nEllie: OK, let's ask someone else.  Oh, there's Lori.  Hey, Lori, could you look at Alec's plan?  He's taking Olivia out.\nLori: Wow!  Everything's written down on paper!  Hmmm... I thought you wanted her to be your girlfriend.\nAlec: I do!\nLori: If you follow this plan, I'm sure it'll be your only date with her.",
+  "group_id": "PX-CAP105-G06",
+  "stem": "Emily is a friend of Olivia's.  If she agrees with Lori, what would she most likely say to Alec?",
+  "options": [
+   "\"This is just what Olivia would want!\"",
+   "\"You never know what a girl like Olivia would want.\"",
+   "\"Make a different plan or have a date with a different girl!\"",
+   "\"She never cares what she does on a date; she cares who she has a date with.\""
+  ],
+  "answer": 2,
+  "explain_zh": "Lori認為Alec的計畫很糟、按此計畫這會是唯一一次約會，同意此看法的人應建議他換計畫或換對象，故選 C。",
+  "vocab": [
+   {
+    "w": "date",
+    "zh": "約會",
+    "pos": "n."
+   },
+   {
+    "w": "follow",
+    "zh": "遵循",
+    "pos": "v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-031",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "文章主旨",
+  "passage": "Since the first case of \"Cow Cold\" was reported in Kirk State in June, this killer cold has moved up north faster than we thought it would.  By July, almost every part of the country had been attacked by Cow Cold.  In only two months, the number of dead cows has risen to 5,000.  Though Cow Cold started in the south, the east of the country is the worst hit area.  By this week, 80% of the farms in Osten State have reported cases of Cow Cold.\nThe sale of milk in Osten State has slumped because of Cow Cold.  Before Cow Cold, the sale of milk in Osten State was $2.5 million each week; now it is less than $500,000.\nOdin State is the only area in the north without cases of Cow Cold.  Before we know how to deal with Cow Cold, we can only hope Odin State will be lucky enough not to experience the power of this killer cold.\n(Elaine Baker, City Post)",
+  "group_id": "PX-CAP105-G07",
+  "stem": "What can we learn from the news report?",
+  "options": [
+   "How to deal with Cow Cold.",
+   "Whether people may catch Cow Cold.",
+   "How fast Cow Cold has hit the country.",
+   "How to find out if cows have Cow Cold."
+  ],
+  "answer": 2,
+  "explain_zh": "文章描述牛瘟從六月在南方爆發，短短兩個月就擴散到幾乎全國，強調傳播速度之快，故選 C。文中並未提供治療或檢測方法。",
+  "vocab": [
+   {
+    "w": "report",
+    "zh": "通報、報導",
+    "pos": "v./n."
+   },
+   {
+    "w": "slump",
+    "zh": "（銷量）暴跌",
+    "pos": "v."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-032",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "時態語意",
+  "passage": "It was 11 p.m. and Molly walked out of her bakery.  She turned and looked at her store one last time.  She wanted to remember what it ____ at the moment.  A few hours later, people would come and clean out everything in the store.  A young man had bought it.  He ____ it into a flower shop.\nBefore it was a bakery, this place ____ a small coffee shop.  Molly worked in the shop as a waitress.  But taking orders was never Molly's dream; baking was.  When she knew her boss planned to sell the shop, she borrowed money and bought it.\nHer bakery had been open for thirty years.  Thirty very wonderful years.  However, it would all come to an end tonight.  Molly ____ the bakery to be a family business.  But her daughter was never interested in baking.  Molly did not want her business in a stranger's hands, so after some serious thinking, she decided to close it.\n\"Goodbye, my dear old friend,\" Molly looked at the store, whispering.",
+  "group_id": "PX-CAP105-G08",
+  "stem": "She wanted to remember what it ____ at the moment.",
+  "options": [
+   "had looked like",
+   "looked like",
+   "would look like",
+   "has looked like"
+  ],
+  "answer": 1,
+  "explain_zh": "描述她記憶中「此刻」店的樣子，是過去某時間點的狀態，用過去式 looked like，故選 B。had looked like 用於更早以前的動作，不符合語境。",
+  "vocab": [
+   {
+    "w": "look like",
+    "zh": "看起來像",
+    "pos": "phr."
+   },
+   {
+    "w": "at the moment",
+    "zh": "此刻",
+    "pos": "phr."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-033",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "時態語意",
+  "passage": "It was 11 p.m. and Molly walked out of her bakery.  She turned and looked at her store one last time.  She wanted to remember what it ____ at the moment.  A few hours later, people would come and clean out everything in the store.  A young man had bought it.  He ____ it into a flower shop.\nBefore it was a bakery, this place ____ a small coffee shop.  Molly worked in the shop as a waitress.  But taking orders was never Molly's dream; baking was.  When she knew her boss planned to sell the shop, she borrowed money and bought it.\nHer bakery had been open for thirty years.  Thirty very wonderful years.  However, it would all come to an end tonight.  Molly ____ the bakery to be a family business.  But her daughter was never interested in baking.  Molly did not want her business in a stranger's hands, so after some serious thinking, she decided to close it.\n\"Goodbye, my dear old friend,\" Molly looked at the store, whispering.",
+  "group_id": "PX-CAP105-G08",
+  "stem": "A young man had bought it.  He ____ it into a flower shop.",
+  "options": [
+   "had changed",
+   "changed",
+   "was going to change",
+   "has changed"
+  ],
+  "answer": 2,
+  "explain_zh": "買下店面後「即將要」把它改裝成花店，這件事尚未發生，用過去未來式 was going to change，故選 C。",
+  "vocab": [
+   {
+    "w": "flower shop",
+    "zh": "花店",
+    "pos": "n."
+   },
+   {
+    "w": "change... into...",
+    "zh": "把…變成…",
+    "pos": "phr."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-034",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "時態語意",
+  "passage": "It was 11 p.m. and Molly walked out of her bakery.  She turned and looked at her store one last time.  She wanted to remember what it ____ at the moment.  A few hours later, people would come and clean out everything in the store.  A young man had bought it.  He ____ it into a flower shop.\nBefore it was a bakery, this place ____ a small coffee shop.  Molly worked in the shop as a waitress.  But taking orders was never Molly's dream; baking was.  When she knew her boss planned to sell the shop, she borrowed money and bought it.\nHer bakery had been open for thirty years.  Thirty very wonderful years.  However, it would all come to an end tonight.  Molly ____ the bakery to be a family business.  But her daughter was never interested in baking.  Molly did not want her business in a stranger's hands, so after some serious thinking, she decided to close it.\n\"Goodbye, my dear old friend,\" Molly looked at the store, whispering.",
+  "group_id": "PX-CAP105-G08",
+  "stem": "Before it was a bakery, this place ____ a small coffee shop.",
+  "options": [
+   "used to be",
+   "would be",
+   "has been",
+   "is"
+  ],
+  "answer": 0,
+  "explain_zh": "描述更早以前這裡曾是咖啡店、現在已不是，用 used to be 表示過去曾經如此但現在已改變，故選 A。",
+  "vocab": [
+   {
+    "w": "used to",
+    "zh": "以前曾經",
+    "pos": "phr."
+   },
+   {
+    "w": "waitress",
+    "zh": "女服務生",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-035",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:verb-tense",
+  "tag_zh": "時態語意",
+  "passage": "It was 11 p.m. and Molly walked out of her bakery.  She turned and looked at her store one last time.  She wanted to remember what it ____ at the moment.  A few hours later, people would come and clean out everything in the store.  A young man had bought it.  He ____ it into a flower shop.\nBefore it was a bakery, this place ____ a small coffee shop.  Molly worked in the shop as a waitress.  But taking orders was never Molly's dream; baking was.  When she knew her boss planned to sell the shop, she borrowed money and bought it.\nHer bakery had been open for thirty years.  Thirty very wonderful years.  However, it would all come to an end tonight.  Molly ____ the bakery to be a family business.  But her daughter was never interested in baking.  Molly did not want her business in a stranger's hands, so after some serious thinking, she decided to close it.\n\"Goodbye, my dear old friend,\" Molly looked at the store, whispering.",
+  "group_id": "PX-CAP105-G08",
+  "stem": "Molly ____ the bakery to be a family business.",
+  "options": [
+   "had wanted",
+   "has wanted",
+   "would want",
+   "will want"
+  ],
+  "answer": 0,
+  "explain_zh": "在麵包店關門這個過去時間點之前，Molly「早已」希望它成為家族事業，這是「過去的過去」，用過去完成式 had wanted，故選 A。",
+  "vocab": [
+   {
+    "w": "family business",
+    "zh": "家族事業",
+    "pos": "n."
+   },
+   {
+    "w": "stranger",
+    "zh": "陌生人",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-036",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "What does the word family mean to you?  An American study in 2006 showed that people today ____.  Over 99% of the people who were interviewed agree that a husband, a wife, and a child are a family.  At the same time, 94% see a parent with a child as a family, 91% say a husband and a wife, without children, are a family, and 81% think a man and a woman, with a child, but not married, are a family too.\nThe study also found that ____ is very important in the modern thinking on family.  Though 81% think a man and a woman, not married, with a child, are a family, the percentage (%) drops to 40% if the couple doesn't have a child.  This is also true with same-sex couples.  About 60% see two men, or two women, with a child, as a family, but only 32% think so when the couple doesn't have a child.\nIn the study, those who see two men or two women that live together as a family often find it OK for same-sex couples to get married.  ____.  However, not everyone opens their arms to same-sex couples: the study said 30% have no problem seeing pets as part of one's family, but they do not think a same-sex couple is a family.",
+  "group_id": "PX-CAP105-G09",
+  "stem": "An American study in 2006 showed that people today ____.",
+  "options": [
+   "think differently about when to start a family",
+   "do not find family as important as their parents did",
+   "want many different things when they start a family",
+   "have several different ideas about what makes a family"
+  ],
+  "answer": 3,
+  "explain_zh": "後文列出多種被認可為「家庭」的組合型態（夫妻有小孩、單親、未婚同居有小孩等），呼應人們對「什麼是家庭」看法不一，故選 D。",
+  "vocab": [
+   {
+    "w": "interview",
+    "zh": "訪問",
+    "pos": "v."
+   },
+   {
+    "w": "percentage",
+    "zh": "百分比",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-037",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "What does the word family mean to you?  An American study in 2006 showed that people today ____.  Over 99% of the people who were interviewed agree that a husband, a wife, and a child are a family.  At the same time, 94% see a parent with a child as a family, 91% say a husband and a wife, without children, are a family, and 81% think a man and a woman, with a child, but not married, are a family too.\nThe study also found that ____ is very important in the modern thinking on family.  Though 81% think a man and a woman, not married, with a child, are a family, the percentage (%) drops to 40% if the couple doesn't have a child.  This is also true with same-sex couples.  About 60% see two men, or two women, with a child, as a family, but only 32% think so when the couple doesn't have a child.\nIn the study, those who see two men or two women that live together as a family often find it OK for same-sex couples to get married.  ____.  However, not everyone opens their arms to same-sex couples: the study said 30% have no problem seeing pets as part of one's family, but they do not think a same-sex couple is a family.",
+  "group_id": "PX-CAP105-G09",
+  "stem": "The study also found that ____ is very important in the modern thinking on family.",
+  "options": [
+   "whether people are married or not",
+   "whether people have a child or not",
+   "whether people live together or not",
+   "whether people love each other or not"
+  ],
+  "answer": 1,
+  "explain_zh": "後文比較「有小孩」與「沒小孩」時人們認同為家庭的比例差很多（如81%降到40%），顯示是否有小孩是關鍵因素，故選 B。",
+  "vocab": [
+   {
+    "w": "modern thinking",
+    "zh": "現代觀念",
+    "pos": "phr."
+   },
+   {
+    "w": "couple",
+    "zh": "伴侶、夫妻",
+    "pos": "n."
+   }
+  ],
+  "source": "105會考"
+ },
+ {
+  "id": "PX-CAP105-038",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "cloze",
+  "tag": "cloze:vocab-in-context",
+  "tag_zh": "克漏字語意",
+  "passage": "What does the word family mean to you?  An American study in 2006 showed that people today ____.  Over 99% of the people who were interviewed agree that a husband, a wife, and a child are a family.  At the same time, 94% see a parent with a child as a family, 91% say a husband and a wife, without children, are a family, and 81% think a man and a woman, with a child, but not married, are a family too.\nThe study also found that ____ is very important in the modern thinking on family.  Though 81% think a man and a woman, not married, with a child, are a family, the percentage (%) drops to 40% if the couple doesn't have a child.  This is also true with same-sex couples.  About 60% see two men, or two women, with a child, as a family, but only 32% think so when the couple doesn't have a child.\nIn the study, those who see two men or two women that live together as a family often find it OK for same-sex couples to get married.  ____.  However, not everyone opens their arms to same-sex couples: the study said 30% have no problem seeing pets as part of one's family, but they do not think a same-sex couple is a family.",
+  "group_id": "PX-CAP105-G09",
+  "stem": "Those who see two men or two women that live together as a family often find it OK for same-sex couples to get married.  ____.",
+  "options": [
+   "This is not surprising",
+   "This is not possible everywhere",
+   "It is no good news for everyone",
+   "It cannot be this way for very long"
+  ],
+  "answer": 0,
+  "explain_zh": "前句才說「認同同性同居視為家庭的人，多半也認同同性婚姻」，兩種立場邏輯一致，故用「這並不意外」承接，選 A。",
+  "vocab": [
+   {
+    "w": "same-sex",
+    "zh": "同性的",
+    "pos": "adj."
+   },
+   {
+    "w": "surprising",
+    "zh": "令人驚訝的",
+    "pos": "adj."
+   }
+  ],
+  "source": "105會考"
+ }
+]

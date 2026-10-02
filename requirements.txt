@@ -1,0 +1,2 @@
+flask>=3.0
+anthropic>=1.0     # 選用：設了 ANTHROPIC_API_KEY 才會用；沒設就走本機 claude 指令

@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "PX-AST108-001",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:society",
+    "tag_zh": "社會議題",
+    "source": "108指考",
+    "stem": "The sign in front of the Johnsons' house says that no one is allowed to set foot on their ______ without permission.",
+    "options": [
+      "margin",
+      "shelter",
+      "reservation",
+      "property"
+    ],
+    "answer": 3,
+    "explain_zh": "門前告示牌寫著未經許可不得踏入他們的「地產」，故選 property；margin（邊緣）、shelter（庇護所）、reservation（保留區,預訂）皆與私人土地財產的語意不合。property 常見於禁止進入的告示標語。",
+    "vocab": [
+      {
+        "w": "property",
+        "zh": "地產,財產",
+        "pos": "n."
+      },
+      {
+        "w": "margin",
+        "zh": "邊緣",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-002",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "source": "108指考",
+    "stem": "Instead of giving negative criticism, our teachers usually try to give us ______ feedback so that we can improve on our papers.",
+    "options": [
+      "absolute",
+      "constructive",
+      "influential",
+      "peculiar"
+    ],
+    "answer": 1,
+    "explain_zh": "句子以 Instead of giving negative criticism 與後半對比，老師給的應是有助於改進的「建設性」意見，故選 constructive；absolute（絕對的）、influential（有影響力的）、peculiar（古怪的）皆與此處鼓勵性回饋的語意不合。",
+    "vocab": [
+      {
+        "w": "constructive",
+        "zh": "建設性的",
+        "pos": "adj."
+      },
+      {
+        "w": "criticism",
+        "zh": "批評",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-003",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:daily-life",
+    "tag_zh": "日常生活",
+    "source": "108指考",
+    "stem": "A study shows that the chance of an accident is much higher for drivers who are ______ in phone conversations while driving.",
+    "options": [
+      "contained",
+      "engaged",
+      "included",
+      "located"
+    ],
+    "answer": 1,
+    "explain_zh": "研究顯示開車時「忙於」講電話的駕駛人發生事故的機率較高，故選 engaged；contained（被包含）、included（被納入）、located（被定位）皆無法表達「投入某活動」的語意。be engaged in 是常見的固定搭配。",
+    "vocab": [
+      {
+        "w": "engaged in",
+        "zh": "忙於,投入於",
+        "pos": "phr."
+      },
+      {
+        "w": "contain",
+        "zh": "包含",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-004",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒態度",
+    "source": "108指考",
+    "stem": "Mike trembled with ______ and admiration when he saw the magnificent view of the waterfalls.",
+    "options": [
+      "awe",
+      "plea",
+      "oath",
+      "merit"
+    ],
+    "answer": 0,
+    "explain_zh": "Mike 看見壯麗的瀑布景觀而顫抖，帶著「敬畏」與讚嘆，故選 awe；plea（懇求）、oath（誓言）、merit（優點）皆與被壯麗景色震撼的語意不合。tremble with awe 是常見的固定搭配，表示因敬畏而顫抖。",
+    "vocab": [
+      {
+        "w": "awe",
+        "zh": "敬畏",
+        "pos": "n."
+      },
+      {
+        "w": "admiration",
+        "zh": "讚嘆",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-005",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:daily-life",
+    "tag_zh": "日常生活",
+    "source": "108指考",
+    "stem": "Ms. Chen has a large collection of books and most of them are quite heavy; she needs a bookshelf ______ enough to hold all of them.",
+    "options": [
+      "coarse",
+      "vigorous",
+      "portable",
+      "sturdy"
+    ],
+    "answer": 3,
+    "explain_zh": "陳女士的藏書又多又重，她需要一個「堅固」到能承受所有書的書架，故選 sturdy；coarse（粗糙的）、vigorous（充沛的）、portable（可攜帶的）皆與承重耐用的語意不合，portable 反而與「固定放置的書架」矛盾。",
+    "vocab": [
+      {
+        "w": "sturdy",
+        "zh": "堅固的",
+        "pos": "adj."
+      },
+      {
+        "w": "portable",
+        "zh": "可攜帶的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-006",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "source": "108指考",
+    "stem": "The athlete rolled up his sleeves to show his ______ forearms, thick and strong from years of training in weight-lifting.",
+    "options": [
+      "barren",
+      "chubby",
+      "ragged",
+      "muscular"
+    ],
+    "answer": 3,
+    "explain_zh": "多年重量訓練練出的手臂應是「肌肉發達的」，故選 muscular；barren（貧瘠的）、chubby（圓胖的）、ragged（破爛的）皆與強壯結實的手臂描述不合。muscular forearms 是描述體格的常見搭配。",
+    "vocab": [
+      {
+        "w": "muscular",
+        "zh": "肌肉發達的",
+        "pos": "adj."
+      },
+      {
+        "w": "barren",
+        "zh": "貧瘠的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-007",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:economy",
+    "tag_zh": "經濟金融",
+    "source": "108指考",
+    "stem": "Suffering from a serious financial crisis, the car company is now on the edge of ______, especially with the recent sharp decrease in its new car sales.",
+    "options": [
+      "graduation",
+      "capacity",
+      "depression",
+      "bankruptcy"
+    ],
+    "answer": 3,
+    "explain_zh": "公司財務危機加上新車銷量驟降，正瀕臨「破產」的邊緣，故選 bankruptcy；graduation（畢業）、capacity（產能,容量）、depression（憂鬱,不景氣）皆與公司即將倒閉的語意不合。on the edge of bankruptcy 是財經新聞常見搭配。",
+    "vocab": [
+      {
+        "w": "bankruptcy",
+        "zh": "破產",
+        "pos": "n."
+      },
+      {
+        "w": "depression",
+        "zh": "經濟蕭條,憂鬱",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-008",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:nature",
+    "tag_zh": "自然景色",
+    "source": "108指考",
+    "stem": "After the rain, the meadow ______ under the sun with the droplets of water on the grass.",
+    "options": [
+      "rippled",
+      "shattered",
+      "glistened",
+      "mingled"
+    ],
+    "answer": 2,
+    "explain_zh": "雨後草地上的水珠在陽光下「閃爍發光」，故選 glistened；shattered（碎裂）、mingled（混合）、rippled（起漣漪）皆與水珠反光閃耀的語意不合。glisten 常用來形容濕潤物體在光線下的閃亮樣貌。",
+    "vocab": [
+      {
+        "w": "glisten",
+        "zh": "閃爍發光",
+        "pos": "v."
+      },
+      {
+        "w": "shatter",
+        "zh": "粉碎",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-009",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:history",
+    "tag_zh": "歷史文化",
+    "source": "108指考",
+    "stem": "The Great Wall of China was originally built to ______ the northern border of the country against foreign invasion.",
+    "options": [
+      "fortify",
+      "rehearse",
+      "diminish",
+      "strangle"
+    ],
+    "answer": 0,
+    "explain_zh": "長城最初是為了「強化」北方邊境、抵禦外敵入侵而建，故選 fortify；rehearse（排練）、diminish（減少）、strangle（勒死）皆與強化防禦的語意不合。fortify a border 是歷史類考題常見搭配。",
+    "vocab": [
+      {
+        "w": "fortify",
+        "zh": "強化,鞏固",
+        "pos": "v."
+      },
+      {
+        "w": "invasion",
+        "zh": "入侵",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-010",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "source": "108指考",
+    "stem": "A mad scientist in a novel is often portrayed as a wild-eyed man with crazy hair, working ______ in a lab full of strange equipment and bubbling test tubes.",
+    "options": [
+      "contagiously",
+      "distinctively",
+      "frantically",
+      "tremendously"
+    ],
+    "answer": 2,
+    "explain_zh": "小說中瘋狂科學家常被描寫成在充滿怪異器材的實驗室裡「狂亂地」工作，故選 frantically；contagiously（有感染力地）、distinctively（獨特地）、tremendously（極大地）皆與慌亂忙碌工作的語意不合。",
+    "vocab": [
+      {
+        "w": "frantically",
+        "zh": "狂亂地",
+        "pos": "adv."
+      },
+      {
+        "w": "contagiously",
+        "zh": "有感染力地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-011",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "108指考",
+    "passage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, (11). Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, (12) she got an opportunity to interact with various cultures at a young age. (13), she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global (14), making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely (15) in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
+    "group_id": "PX-AST108-G01",
+    "stem": "(11) 應填入：African fashion design has caught the eyes of celebrities including Michelle Obama, Rihanna, and Beyoncé, ____.",
+    "options": [
+      "if any",
+      "among others",
+      "in short",
+      "at best"
+    ],
+    "answer": 1,
+    "explain_zh": "列舉 Michelle Obama、Rihanna、Beyoncé 等名人之後，表示「還有其他人」也受到吸引，故選 among others；if any（如果有的話）、in short（總之）、at best（充其量）皆無法呼應「列舉完部分例子後仍有更多」的語意。",
+    "vocab": [
+      {
+        "w": "among others",
+        "zh": "還有其他",
+        "pos": "phr."
+      },
+      {
+        "w": "celebrity",
+        "zh": "名人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-012",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "108指考",
+    "passage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, (11). Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, (12) she got an opportunity to interact with various cultures at a young age. (13), she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global (14), making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely (15) in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
+    "group_id": "PX-AST108-G01",
+    "stem": "(12) 應填入：She received her education in Europe, ____ she got an opportunity to interact with various cultures at a young age.",
+    "options": [
+      "where",
+      "there",
+      "that",
+      "whether"
+    ],
+    "answer": 0,
+    "explain_zh": "where 引導關係子句，修飾先行詞 Europe，補充說明她在歐洲求學時與各種文化互動的經歷，故選 where；there、that、whether 皆不符合這種修飾地點先行詞的關係子句文法結構。",
+    "vocab": [
+      {
+        "w": "where",
+        "zh": "(關係副詞)在那裡",
+        "pos": "conj."
+      },
+      {
+        "w": "interact",
+        "zh": "互動",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-013",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "108指考",
+    "passage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, (11). Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, (12) she got an opportunity to interact with various cultures at a young age. (13), she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global (14), making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely (15) in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
+    "group_id": "PX-AST108-G01",
+    "stem": "(13) 應填入：____, she has a master's degree in law from Switzerland, but her passion led her into fashion design.",
+    "options": [
+      "Generally",
+      "Ideally",
+      "Relatively",
+      "Interestingly"
+    ],
+    "answer": 3,
+    "explain_zh": "擁有法律碩士學位卻走上時尚設計之路，這樣意外的人生轉折適合用「有趣的是」來銜接，故選 Interestingly；Generally（一般而言）、Ideally（理想上）、Relatively（相對地）皆無法呈現這種出人意料的語氣轉折。",
+    "vocab": [
+      {
+        "w": "interestingly",
+        "zh": "有趣的是",
+        "pos": "adv."
+      },
+      {
+        "w": "fate",
+        "zh": "命運",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-014",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "108指考",
+    "passage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, (11). Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, (12) she got an opportunity to interact with various cultures at a young age. (13), she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global (14), making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely (15) in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
+    "group_id": "PX-AST108-G01",
+    "stem": "(14) 應填入：Folake's tasteful and colorful creations have earned her global ____.",
+    "options": [
+      "recognition",
+      "motivation",
+      "supervision",
+      "preparation"
+    ],
+    "answer": 0,
+    "explain_zh": "她品味出眾、色彩豐富的作品為她贏得全球「肯定」，故選 recognition；motivation（動機）、supervision（監督）、preparation（準備）皆與獲得國際認可的語意不合。earn global recognition 是常見的成就類搭配。",
+    "vocab": [
+      {
+        "w": "recognition",
+        "zh": "肯定,認可",
+        "pos": "n."
+      },
+      {
+        "w": "showcase",
+        "zh": "展示",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-015",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "108指考",
+    "passage": "The fashion industry in Africa has witnessed tremendous growth in recent years. African fashion design has caught the eyes of international celebrities including former US first lady, Michelle Obama, Rihanna, and Beyoncé, (11). Global demand for African-inspired fashion has led to incredible sales for some African designers and brands.\nFolake Folarin–Coker, founder of Tiffany Amber, is one of the best-known fashion designers in both the African and global fashion industry. Born in Lagos, Nigeria, she received her education in Europe, (12) she got an opportunity to interact with various cultures at a young age. (13), she has a master's degree in law from Switzerland, but as fate would have it, her passion for fashion led her into fashion design.\nFolake's tasteful and colorful creations have earned her global (14), making her the first African fashion designer to showcase her talent at the New York Mercedes Fashion Week for two consecutive years. She has also been widely (15) in international media such as CNN. In 2013, she was listed as one of the Forbes Power Women in Africa.",
+    "group_id": "PX-AST108-G01",
+    "stem": "(15) 應填入：She has also been widely ____ in international media such as CNN.",
+    "options": [
+      "believed",
+      "announced",
+      "featured",
+      "populated"
+    ],
+    "answer": 2,
+    "explain_zh": "她也廣泛地被 CNN 等國際媒體「專題報導」，故選 featured；believed（被相信）、announced（被宣布）、populated（被居住）皆與被媒體專訪報導的語意不合。be featured in the media 是常見的媒體類搭配。",
+    "vocab": [
+      {
+        "w": "feature",
+        "zh": "以...為特色報導",
+        "pos": "v."
+      },
+      {
+        "w": "media",
+        "zh": "媒體",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-016",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "108指考",
+    "passage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables (16), stretching over 700,000 miles around the world. It is not a new phenomenon, (17). The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. (18) named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra (19) to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general (20). The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
+    "group_id": "PX-AST108-G02",
+    "stem": "(16) 應填入：Today, there are over 420 submarine cables ____, stretching over 700,000 miles around the world.",
+    "options": [
+      "at large",
+      "in service",
+      "by contrast",
+      "under control"
+    ],
+    "answer": 1,
+    "explain_zh": "目前有超過420條海底電纜正「運作使用中」，總長超過70萬英里，故選 in service；at large（逍遙法外,一般而言）、by contrast（相比之下）、under control（受控制）皆與電纜「正在運行」的語意不合。",
+    "vocab": [
+      {
+        "w": "in service",
+        "zh": "運作使用中",
+        "pos": "phr."
+      },
+      {
+        "w": "submarine",
+        "zh": "海底的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-017",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "108指考",
+    "passage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables (16), stretching over 700,000 miles around the world. It is not a new phenomenon, (17). The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. (18) named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra (19) to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general (20). The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
+    "group_id": "PX-AST108-G02",
+    "stem": "(17) 應填入：It is not a new phenomenon, ____.",
+    "options": [
+      "then",
+      "still",
+      "instead",
+      "though"
+    ],
+    "answer": 3,
+    "explain_zh": "此句放在句尾表示轉折語氣，強調「說到底」海底電纜其實不是新現象，故選 though；then（那麼）、still（仍然）、instead（取而代之）皆無法置於句尾表達這種輕微轉折的口語化語氣。",
+    "vocab": [
+      {
+        "w": "though",
+        "zh": "不過(置於句尾)",
+        "pos": "adv."
+      },
+      {
+        "w": "phenomenon",
+        "zh": "現象",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-018",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "108指考",
+    "passage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables (16), stretching over 700,000 miles around the world. It is not a new phenomenon, (17). The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. (18) named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra (19) to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general (20). The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
+    "group_id": "PX-AST108-G02",
+    "stem": "(18) 應填入：____ named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.",
+    "options": [
+      "Suitably",
+      "Constantly",
+      "Vitally",
+      "Mockingly"
+    ],
+    "answer": 0,
+    "explain_zh": "這條海纜被命名為「FASTER（更快）」十分「貼切」，因為它是全球傳輸容量最高的海底網路電纜，故選 Suitably；Constantly（不斷地）、Vitally（極重要地）、Mockingly（嘲諷地）皆與命名貼切的語意不合。",
+    "vocab": [
+      {
+        "w": "suitably",
+        "zh": "適切地",
+        "pos": "adv."
+      },
+      {
+        "w": "capacity",
+        "zh": "容量,產能",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-019",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "108指考",
+    "passage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables (16), stretching over 700,000 miles around the world. It is not a new phenomenon, (17). The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. (18) named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra (19) to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general (20). The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
+    "group_id": "PX-AST108-G02",
+    "stem": "(19) 應填入：The submarine cables require extra ____ to install.",
+    "options": [
+      "speed",
+      "light",
+      "care",
+      "link"
+    ],
+    "answer": 2,
+    "explain_zh": "鋪設海底電纜需避開珊瑚礁、沉船等障礙物，因此格外需要「謹慎小心」，故選 care；speed（速度）、light（光線）、link（連結）皆與鋪設工程所需的謹慎態度不合。require extra care 是常見搭配。",
+    "vocab": [
+      {
+        "w": "care",
+        "zh": "謹慎,小心",
+        "pos": "n."
+      },
+      {
+        "w": "install",
+        "zh": "安裝,鋪設",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-020",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "108指考",
+    "passage": "When we stream the latest TV series, or download high-resolution photos, we are probably unaware that the data behind them is speeding around the world in cables under the sea.\nThese cable systems, faster and cheaper than satellites, carry most of the intercontinental Internet traffic. Today, there are over 420 submarine cables (16), stretching over 700,000 miles around the world. It is not a new phenomenon, (17). The first transcontinental cable—laid in 1854—ran from Ireland to Newfoundland, and made telegraph communication possible between England and Canada. Currently, the world's highest-capacity undersea Internet cable is a 5,600-mile link between the US and Japan. (18) named \"FASTER,\" the cable connects Oregon in the US with Japan and Taiwan.\nThe submarine cables require extra (19) to install. They must generally be run across flat surfaces of the ocean floor, and stay clear of coral reefs, sunken ships, fish beds, and other general (20). The fiber-optic cables are also very fragile, so they are surrounded with layers of tubing and steel to prevent damage.",
+    "group_id": "PX-AST108-G02",
+    "stem": "(20) 應填入：They must stay clear of coral reefs, sunken ships, fish beds, and other general ____.",
+    "options": [
+      "directions",
+      "obstacles",
+      "aquariums",
+      "circulations"
+    ],
+    "answer": 1,
+    "explain_zh": "珊瑚礁、沉船、魚群棲地等都是鋪設電纜時必須避開的一般性「障礙物」，故選 obstacles；directions（方向）、aquariums（水族館）、circulations（循環）皆與需要避開的實體障礙物語意不合。",
+    "vocab": [
+      {
+        "w": "obstacle",
+        "zh": "障礙物",
+        "pos": "n."
+      },
+      {
+        "w": "coral reef",
+        "zh": "珊瑚礁",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-021",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "108指考",
+    "passage": "Tempeh (or tempe), a traditional soy product from Indonesia, is hailed as the country's \"gift to the world,\" like kimchi from Korea or miso from Japan.\nA stable, cheap source of protein in Indonesia for centuries, tempeh is a fermented food originating from the island of Java. It was discovered during tofu production when discarded soybean residue caught microbial spores from the air and grew certain whitish fungi around it. When this fermented residue was found to be edible and tasty, people began producing it at home for daily consumption across the country. This has given rise to many variations in its flavor and texture throughout different Indonesian regions.\nTempeh is high in protein and low in fat, and contains a host of vitamins. In fact, it is the only reported plant-based source of vitamin B12. Apart from being able to help reduce cholesterol, increase bone density, and promote muscle recovery, tempeh has a lot of polyphenols that protect skin cells and slow down the aging process. Best of all, with the same protein quality as meat and the ability to take on many flavors and textures, tempeh is a great meat substitute—something the vegetarian and vegan communities have been quick in adopting.\nIn addition to its highly nutritional makeup, tempeh has diverse preparation possibilities. It can be served as a main course (usually in curries) or a side dish to be eaten with rice, as a deep-fried snack, or even blended into smoothies and healthy juices. Though not yet a popular food among international diners, you may find tempeh-substituted BLTs (bacon, lettuce, tomato sandwiches) in San Francisco as easily as you can find vegetarian burgers with tempeh patties in Bali.\nFor the people of Indonesia, tempeh is not just food but also has cultural value. With the Indonesian traditional fabric batik being recognized by UNESCO as \"Intangible Cultural Heritage of Humanity,\" tempeh has great potential for this honor as well.",
+    "group_id": "PX-AST108-G03",
+    "stem": "What is the passage mainly about?",
+    "options": [
+      "The preparation of a health food.",
+      "A traditional delicacy from Java.",
+      "A gourmet guide for vegetarians.",
+      "The cultural heritage of Indonesia."
+    ],
+    "answer": 1,
+    "explain_zh": "全文從天貝的起源(爪哇島)、發酵過程、營養價值到多樣的料理方式，完整介紹這項印尼傳統食品，故選 B；A 只涵蓋部分內容(料理方式)，D 雖在文末提及文化價值，但不是全文重點，因此範圍不夠完整。",
+    "vocab": [
+      {
+        "w": "fermented",
+        "zh": "發酵的",
+        "pos": "adj."
+      },
+      {
+        "w": "delicacy",
+        "zh": "佳餚,美食",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-022",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "108指考",
+    "passage": "Tempeh (or tempe), a traditional soy product from Indonesia, is hailed as the country's \"gift to the world,\" like kimchi from Korea or miso from Japan.\nA stable, cheap source of protein in Indonesia for centuries, tempeh is a fermented food originating from the island of Java. It was discovered during tofu production when discarded soybean residue caught microbial spores from the air and grew certain whitish fungi around it. When this fermented residue was found to be edible and tasty, people began producing it at home for daily consumption across the country. This has given rise to many variations in its flavor and texture throughout different Indonesian regions.\nTempeh is high in protein and low in fat, and contains a host of vitamins. In fact, it is the only reported plant-based source of vitamin B12. Apart from being able to help reduce cholesterol, increase bone density, and promote muscle recovery, tempeh has a lot of polyphenols that protect skin cells and slow down the aging process. Best of all, with the same protein quality as meat and the ability to take on many flavors and textures, tempeh is a great meat substitute—something the vegetarian and vegan communities have been quick in adopting.\nIn addition to its highly nutritional makeup, tempeh has diverse preparation possibilities. It can be served as a main course (usually in curries) or a side dish to be eaten with rice, as a deep-fried snack, or even blended into smoothies and healthy juices. Though not yet a popular food among international diners, you may find tempeh-substituted BLTs (bacon, lettuce, tomato sandwiches) in San Francisco as easily as you can find vegetarian burgers with tempeh patties in Bali.\nFor the people of Indonesia, tempeh is not just food but also has cultural value. With the Indonesian traditional fabric batik being recognized by UNESCO as \"Intangible Cultural Heritage of Humanity,\" tempeh has great potential for this honor as well.",
+    "group_id": "PX-AST108-G03",
+    "stem": "According to the passage, which of the following is true about tempeh?",
+    "options": [
+      "It is mainly served as a side dish.",
+      "It is discarded when fungi grow around it.",
+      "It is formed from fermented soybeans.",
+      "It has the same nutritional benefits as kimchi."
+    ],
+    "answer": 2,
+    "explain_zh": "第二段說明天貝是由製作豆腐剩下的黃豆殘渣，經過發酵長出白色菌絲而成，故選 C；正是因為長出菌絲後被發現可食用美味，人們才開始在家自製食用，並非因此被丟棄，B 的敘述與原文相反。",
+    "vocab": [
+      {
+        "w": "ferment",
+        "zh": "發酵",
+        "pos": "v."
+      },
+      {
+        "w": "residue",
+        "zh": "殘渣",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-023",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "篇章結構理解",
+    "source": "108指考",
+    "passage": "Tempeh (or tempe), a traditional soy product from Indonesia, is hailed as the country's \"gift to the world,\" like kimchi from Korea or miso from Japan.\nA stable, cheap source of protein in Indonesia for centuries, tempeh is a fermented food originating from the island of Java. It was discovered during tofu production when discarded soybean residue caught microbial spores from the air and grew certain whitish fungi around it. When this fermented residue was found to be edible and tasty, people began producing it at home for daily consumption across the country. This has given rise to many variations in its flavor and texture throughout different Indonesian regions.\nTempeh is high in protein and low in fat, and contains a host of vitamins. In fact, it is the only reported plant-based source of vitamin B12. Apart from being able to help reduce cholesterol, increase bone density, and promote muscle recovery, tempeh has a lot of polyphenols that protect skin cells and slow down the aging process. Best of all, with the same protein quality as meat and the ability to take on many flavors and textures, tempeh is a great meat substitute—something the vegetarian and vegan communities have been quick in adopting.\nIn addition to its highly nutritional makeup, tempeh has diverse preparation possibilities. It can be served as a main course (usually in curries) or a side dish to be eaten with rice, as a deep-fried snack, or even blended into smoothies and healthy juices. Though not yet a popular food among international diners, you may find tempeh-substituted BLTs (bacon, lettuce, tomato sandwiches) in San Francisco as easily as you can find vegetarian burgers with tempeh patties in Bali.\nFor the people of Indonesia, tempeh is not just food but also has cultural value. With the Indonesian traditional fabric batik being recognized by UNESCO as \"Intangible Cultural Heritage of Humanity,\" tempeh has great potential for this honor as well.",
+    "group_id": "PX-AST108-G03",
+    "stem": "What aspects of tempeh are discussed in paragraphs 2 to 4?",
+    "options": [
+      "Origin → nutrition → cuisine.",
+      "Origin → cuisine → marketing.",
+      "Cuisine → nutrition → marketing.",
+      "Distribution → cuisine → nutrition."
+    ],
+    "answer": 0,
+    "explain_zh": "第二段講述天貝的起源(origin)，第三段說明其營養價值(nutrition)，第四段介紹各種烹調方式(cuisine)，依序鋪陳，故選 A；並未涉及行銷(marketing)或分布(distribution)的內容。",
+    "vocab": [
+      {
+        "w": "nutrition",
+        "zh": "營養",
+        "pos": "n."
+      },
+      {
+        "w": "cuisine",
+        "zh": "料理",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-024",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "108指考",
+    "passage": "Tempeh (or tempe), a traditional soy product from Indonesia, is hailed as the country's \"gift to the world,\" like kimchi from Korea or miso from Japan.\nA stable, cheap source of protein in Indonesia for centuries, tempeh is a fermented food originating from the island of Java. It was discovered during tofu production when discarded soybean residue caught microbial spores from the air and grew certain whitish fungi around it. When this fermented residue was found to be edible and tasty, people began producing it at home for daily consumption across the country. This has given rise to many variations in its flavor and texture throughout different Indonesian regions.\nTempeh is high in protein and low in fat, and contains a host of vitamins. In fact, it is the only reported plant-based source of vitamin B12. Apart from being able to help reduce cholesterol, increase bone density, and promote muscle recovery, tempeh has a lot of polyphenols that protect skin cells and slow down the aging process. Best of all, with the same protein quality as meat and the ability to take on many flavors and textures, tempeh is a great meat substitute—something the vegetarian and vegan communities have been quick in adopting.\nIn addition to its highly nutritional makeup, tempeh has diverse preparation possibilities. It can be served as a main course (usually in curries) or a side dish to be eaten with rice, as a deep-fried snack, or even blended into smoothies and healthy juices. Though not yet a popular food among international diners, you may find tempeh-substituted BLTs (bacon, lettuce, tomato sandwiches) in San Francisco as easily as you can find vegetarian burgers with tempeh patties in Bali.\nFor the people of Indonesia, tempeh is not just food but also has cultural value. With the Indonesian traditional fabric batik being recognized by UNESCO as \"Intangible Cultural Heritage of Humanity,\" tempeh has great potential for this honor as well.",
+    "group_id": "PX-AST108-G03",
+    "stem": "Which of the following can be inferred from this passage?",
+    "options": [
+      "Senior citizens will eat tempeh as vitamin supplement.",
+      "Tempeh will soon be more popular than kimchi or miso.",
+      "The nutrition of tempeh will be reduced with mass production.",
+      "Tempeh is likely to be recognized as an international cultural symbol."
+    ],
+    "answer": 3,
+    "explain_zh": "文末提到印尼傳統蠟染布(batik)已被UNESCO列為非物質文化遺產，並暗示天貝同樣具有獲此殊榮的潛力，可推論天貝未來有機會被視為「國際文化象徵」，故選 D。",
+    "vocab": [
+      {
+        "w": "heritage",
+        "zh": "文化遺產",
+        "pos": "n."
+      },
+      {
+        "w": "intangible",
+        "zh": "無形的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-025",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "篇章結構理解",
+    "source": "108指考",
+    "passage": "When Dr. David Spiegel emerged from a three-hour shoulder surgery in 1972, he didn't use any pain medication to recover. Instead, he hypnotized himself. It worked—to the surprise of everyone but Spiegel himself, who has studied hypnosis for 45 years.\nHypnosis is often misunderstood as a sleep-like state in which a person is put to sleep and does whatever he is asked to do. But according to Dr. Spiegel, it is a state of highly focused attention and intense concentration. Being hypnotized, you tune out most of the stimuli around you. You focus intently on the subject at hand, to the near exclusion of any other thought. This trance-like state can be an effective tool to control pain, ease anxiety, and deal with stress.\nNot all people, however, are equally hypnotizable. In a recent study, Dr. Spiegel and his colleagues found that people who are easily hypnotized tend to be more trusting of others, more intuitive, and more likely to get caught up in a good movie. The research team compared people who were highly hypnotizable with those low in hypnotizability. Both groups were given fMRI scans during several different conditions: at rest, while recalling a memory, and during two sessions of hypnotism. The researchers saw some interesting changes in the brain during hypnosis—but only in the highly hypnotizable group. Specifically, there was a drop in activity in the part of the brain which usually fires up when there is something to worry about.\nThis helps explain how hypnosis can have powerful effects, including reducing stress, anxiety, pain, and self-consciousness. Spiegel hopes that the practice can be used to replace painkillers. His own previous research has shown that when people in pain were taught self-hypnosis, they needed half the pain medication and suffered half the pain of those who were only given access to painkillers. However, more needs to be learned about hypnosis in order to harness its potential effects.",
+    "group_id": "PX-AST108-G04",
+    "stem": "How does the author begin the passage?",
+    "options": [
+      "By giving a definition.",
+      "By mentioning an incident.",
+      "By providing statistics.",
+      "By comparing people's responses."
+    ],
+    "answer": 1,
+    "explain_zh": "文章開頭以 Dr. Spiegel 於1972年肩部手術後自我催眠、不需止痛藥復原的軼事切入，藉此引起讀者興趣，故選 B；並非一開始就給出催眠的定義、提供統計數據，或比較人們的反應，這些內容出現在後段。",
+    "vocab": [
+      {
+        "w": "incident",
+        "zh": "事件,軼事",
+        "pos": "n."
+      },
+      {
+        "w": "hypnotize",
+        "zh": "催眠",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-026",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "108指考",
+    "passage": "When Dr. David Spiegel emerged from a three-hour shoulder surgery in 1972, he didn't use any pain medication to recover. Instead, he hypnotized himself. It worked—to the surprise of everyone but Spiegel himself, who has studied hypnosis for 45 years.\nHypnosis is often misunderstood as a sleep-like state in which a person is put to sleep and does whatever he is asked to do. But according to Dr. Spiegel, it is a state of highly focused attention and intense concentration. Being hypnotized, you tune out most of the stimuli around you. You focus intently on the subject at hand, to the near exclusion of any other thought. This trance-like state can be an effective tool to control pain, ease anxiety, and deal with stress.\nNot all people, however, are equally hypnotizable. In a recent study, Dr. Spiegel and his colleagues found that people who are easily hypnotized tend to be more trusting of others, more intuitive, and more likely to get caught up in a good movie. The research team compared people who were highly hypnotizable with those low in hypnotizability. Both groups were given fMRI scans during several different conditions: at rest, while recalling a memory, and during two sessions of hypnotism. The researchers saw some interesting changes in the brain during hypnosis—but only in the highly hypnotizable group. Specifically, there was a drop in activity in the part of the brain which usually fires up when there is something to worry about.\nThis helps explain how hypnosis can have powerful effects, including reducing stress, anxiety, pain, and self-consciousness. Spiegel hopes that the practice can be used to replace painkillers. His own previous research has shown that when people in pain were taught self-hypnosis, they needed half the pain medication and suffered half the pain of those who were only given access to painkillers. However, more needs to be learned about hypnosis in order to harness its potential effects.",
+    "group_id": "PX-AST108-G04",
+    "stem": "According to the passage, what is the goal of Dr. Spiegel's work?",
+    "options": [
+      "To explain the real cause of pain.",
+      "To help people concentrate on their job.",
+      "To explore how hypnosis can be used as a medical treatment.",
+      "To strengthen the brain's functions to reduce psychological problems."
+    ],
+    "answer": 2,
+    "explain_zh": "文末提到 Spiegel 希望催眠能取代止痛藥，並持續研究如何運用催眠達到更多醫療效果，可知他研究的目標是「探索催眠作為醫療手段的可能性」，故選 C；並非在解釋疼痛的真正成因，或單純強化大腦功能。",
+    "vocab": [
+      {
+        "w": "medical treatment",
+        "zh": "醫療手段",
+        "pos": "n."
+      },
+      {
+        "w": "painkiller",
+        "zh": "止痛藥",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-027",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "108指考",
+    "passage": "When Dr. David Spiegel emerged from a three-hour shoulder surgery in 1972, he didn't use any pain medication to recover. Instead, he hypnotized himself. It worked—to the surprise of everyone but Spiegel himself, who has studied hypnosis for 45 years.\nHypnosis is often misunderstood as a sleep-like state in which a person is put to sleep and does whatever he is asked to do. But according to Dr. Spiegel, it is a state of highly focused attention and intense concentration. Being hypnotized, you tune out most of the stimuli around you. You focus intently on the subject at hand, to the near exclusion of any other thought. This trance-like state can be an effective tool to control pain, ease anxiety, and deal with stress.\nNot all people, however, are equally hypnotizable. In a recent study, Dr. Spiegel and his colleagues found that people who are easily hypnotized tend to be more trusting of others, more intuitive, and more likely to get caught up in a good movie. The research team compared people who were highly hypnotizable with those low in hypnotizability. Both groups were given fMRI scans during several different conditions: at rest, while recalling a memory, and during two sessions of hypnotism. The researchers saw some interesting changes in the brain during hypnosis—but only in the highly hypnotizable group. Specifically, there was a drop in activity in the part of the brain which usually fires up when there is something to worry about.\nThis helps explain how hypnosis can have powerful effects, including reducing stress, anxiety, pain, and self-consciousness. Spiegel hopes that the practice can be used to replace painkillers. His own previous research has shown that when people in pain were taught self-hypnosis, they needed half the pain medication and suffered half the pain of those who were only given access to painkillers. However, more needs to be learned about hypnosis in order to harness its potential effects.",
+    "group_id": "PX-AST108-G04",
+    "stem": "According to Dr. Spiegel, which of the following is true when people are hypnotized?",
+    "options": [
+      "They recall only happy memories.",
+      "Their mind is fixed only on what they are doing.",
+      "They do whatever they are told to do.",
+      "They have greater awareness of things around them."
+    ],
+    "answer": 1,
+    "explain_zh": "第二段說明催眠是高度專注的狀態，幾乎排除其他念頭，注意力完全集中在當下的對象上，故選 B；文中特別指出「照著指令做任何事」是常見的錯誤迷思，並非催眠的真實狀態，C 錯誤。",
+    "vocab": [
+      {
+        "w": "concentration",
+        "zh": "專注",
+        "pos": "n."
+      },
+      {
+        "w": "tune out",
+        "zh": "忽略,不理會",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-028",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "108指考",
+    "passage": "When Dr. David Spiegel emerged from a three-hour shoulder surgery in 1972, he didn't use any pain medication to recover. Instead, he hypnotized himself. It worked—to the surprise of everyone but Spiegel himself, who has studied hypnosis for 45 years.\nHypnosis is often misunderstood as a sleep-like state in which a person is put to sleep and does whatever he is asked to do. But according to Dr. Spiegel, it is a state of highly focused attention and intense concentration. Being hypnotized, you tune out most of the stimuli around you. You focus intently on the subject at hand, to the near exclusion of any other thought. This trance-like state can be an effective tool to control pain, ease anxiety, and deal with stress.\nNot all people, however, are equally hypnotizable. In a recent study, Dr. Spiegel and his colleagues found that people who are easily hypnotized tend to be more trusting of others, more intuitive, and more likely to get caught up in a good movie. The research team compared people who were highly hypnotizable with those low in hypnotizability. Both groups were given fMRI scans during several different conditions: at rest, while recalling a memory, and during two sessions of hypnotism. The researchers saw some interesting changes in the brain during hypnosis—but only in the highly hypnotizable group. Specifically, there was a drop in activity in the part of the brain which usually fires up when there is something to worry about.\nThis helps explain how hypnosis can have powerful effects, including reducing stress, anxiety, pain, and self-consciousness. Spiegel hopes that the practice can be used to replace painkillers. His own previous research has shown that when people in pain were taught self-hypnosis, they needed half the pain medication and suffered half the pain of those who were only given access to painkillers. However, more needs to be learned about hypnosis in order to harness its potential effects.",
+    "group_id": "PX-AST108-G04",
+    "stem": "What can be inferred about highly hypnotizable people?",
+    "options": [
+      "They tend to be isolated from the society.",
+      "They are more likely to fall asleep during the day.",
+      "They may easily identify themselves with characters in fictions.",
+      "They are more trustworthy than people who are less hypnotizable."
+    ],
+    "answer": 2,
+    "explain_zh": "第三段提到容易被催眠的人「更常沉浸入戲」(more likely to get caught up in a good movie)，可推論他們較容易將自己代入虛構故事中的角色，故選 C；文中並未提及他們較孤立、白天容易入睡，或比別人更值得信任。",
+    "vocab": [
+      {
+        "w": "identify with",
+        "zh": "認同,代入",
+        "pos": "phr."
+      },
+      {
+        "w": "fiction",
+        "zh": "虛構作品",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-029",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "108指考",
+    "passage": "In many languages, such as English, there is no straightforward way to talk about smell. For want of dedicated odor terminology, English speakers are often forced to use odor-sources such as \"flowery\" and \"vanilla\" and metaphors like \"sweet\" and \"oriental\" in their descriptions of smell.\nBut the difficulty with talking about smell is not universal. The Maniq, a group of hunter-gatherers in southern Thailand, can describe smells using at least fifteen different terms, which express only smells and are not applicable across other sensory domains. In addition to Maniq, researchers found that there are also a dozen words for various smells in Jahai, a language spoken by a neighboring hunter-gatherer population.\nInterestingly, the difficulty for English speakers to translate smell directly into words seems to have very little to do with the nose's actual capabilities. According to findings of a recent study, English speakers are capable of discriminating more than a trillion different odors. Then, why is there a gap between their ability to discriminate scent and their vocabulary? The researchers suggest that surroundings may play a significant role.\nManiq and Jahai speakers live in tropical rainforest regions with a hunting-gathering lifestyle, and these two ethnic groups evaluate their surroundings through their noses to survive in nature. In an environment that is still largely untouched by humans, they are surrounded by smells at all times. They need to use their sense of smell to identify animals that they can hunt, and to recognize objects or events, such as spoiled food, that can pose a danger. Unlike the Maniq and the Jahai, many English speakers inhabit the post-industrial west and do not rely on smells to survive in their environment. This difference may explain the interesting linguistic phenomenon discussed above.",
+    "group_id": "PX-AST108-G05",
+    "stem": "What is the purpose of this passage?",
+    "options": [
+      "To evaluate the languages used by different ethnic groups.",
+      "To prove how civilization slows down language development.",
+      "To describe how terms of smell are found in different languages.",
+      "To point out the link between language use and the environment."
+    ],
+    "answer": 3,
+    "explain_zh": "全文以英語與 Maniq、Jahai 語言對嗅覺詞彙豐富程度的差異為例，說明語言使用與生活環境(是否需要靠嗅覺求生)之間的關聯，故選 D；並非單純評比各族群語言優劣，或主張文明化會拖慢語言發展。",
+    "vocab": [
+      {
+        "w": "terminology",
+        "zh": "專門術語",
+        "pos": "n."
+      },
+      {
+        "w": "discriminate",
+        "zh": "辨別",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-030",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "文意猜字",
+    "source": "108指考",
+    "passage": "In many languages, such as English, there is no straightforward way to talk about smell. For want of dedicated odor terminology, English speakers are often forced to use odor-sources such as \"flowery\" and \"vanilla\" and metaphors like \"sweet\" and \"oriental\" in their descriptions of smell.\nBut the difficulty with talking about smell is not universal. The Maniq, a group of hunter-gatherers in southern Thailand, can describe smells using at least fifteen different terms, which express only smells and are not applicable across other sensory domains. In addition to Maniq, researchers found that there are also a dozen words for various smells in Jahai, a language spoken by a neighboring hunter-gatherer population.\nInterestingly, the difficulty for English speakers to translate smell directly into words seems to have very little to do with the nose's actual capabilities. According to findings of a recent study, English speakers are capable of discriminating more than a trillion different odors. Then, why is there a gap between their ability to discriminate scent and their vocabulary? The researchers suggest that surroundings may play a significant role.\nManiq and Jahai speakers live in tropical rainforest regions with a hunting-gathering lifestyle, and these two ethnic groups evaluate their surroundings through their noses to survive in nature. In an environment that is still largely untouched by humans, they are surrounded by smells at all times. They need to use their sense of smell to identify animals that they can hunt, and to recognize objects or events, such as spoiled food, that can pose a danger. Unlike the Maniq and the Jahai, many English speakers inhabit the post-industrial west and do not rely on smells to survive in their environment. This difference may explain the interesting linguistic phenomenon discussed above.",
+    "group_id": "PX-AST108-G05",
+    "stem": "What does the word \"want\" in the first paragraph most likely mean?",
+    "options": [
+      "Lack.",
+      "Growth.",
+      "Loss.",
+      "Search."
+    ],
+    "answer": 0,
+    "explain_zh": "for want of 是固定片語，意為「因缺乏…」，故此處 want 應理解為 Lack（缺乏）；Growth（成長）、Loss（損失）、Search（尋找）皆與「因為沒有專門的嗅覺詞彙」這個語意不合。",
+    "vocab": [
+      {
+        "w": "lack",
+        "zh": "缺乏",
+        "pos": "n./v."
+      },
+      {
+        "w": "dedicated",
+        "zh": "專門的,專屬的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-031",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "108指考",
+    "passage": "In many languages, such as English, there is no straightforward way to talk about smell. For want of dedicated odor terminology, English speakers are often forced to use odor-sources such as \"flowery\" and \"vanilla\" and metaphors like \"sweet\" and \"oriental\" in their descriptions of smell.\nBut the difficulty with talking about smell is not universal. The Maniq, a group of hunter-gatherers in southern Thailand, can describe smells using at least fifteen different terms, which express only smells and are not applicable across other sensory domains. In addition to Maniq, researchers found that there are also a dozen words for various smells in Jahai, a language spoken by a neighboring hunter-gatherer population.\nInterestingly, the difficulty for English speakers to translate smell directly into words seems to have very little to do with the nose's actual capabilities. According to findings of a recent study, English speakers are capable of discriminating more than a trillion different odors. Then, why is there a gap between their ability to discriminate scent and their vocabulary? The researchers suggest that surroundings may play a significant role.\nManiq and Jahai speakers live in tropical rainforest regions with a hunting-gathering lifestyle, and these two ethnic groups evaluate their surroundings through their noses to survive in nature. In an environment that is still largely untouched by humans, they are surrounded by smells at all times. They need to use their sense of smell to identify animals that they can hunt, and to recognize objects or events, such as spoiled food, that can pose a danger. Unlike the Maniq and the Jahai, many English speakers inhabit the post-industrial west and do not rely on smells to survive in their environment. This difference may explain the interesting linguistic phenomenon discussed above.",
+    "group_id": "PX-AST108-G05",
+    "stem": "Which of the following is true about the Maniq?",
+    "options": [
+      "They live in a different climate zone from the Jahai.",
+      "Their ability to smell is stronger than that of the Jahai.",
+      "They use smell terms to describe how food looks and tastes.",
+      "Their living environment is similar to that in earlier human history."
+    ],
+    "answer": 3,
+    "explain_zh": "第四段說明 Maniq 族仍以狩獵採集維生，生活在幾乎未受人類破壞的熱帶雨林中，這樣的生活型態與人類早期歷史相似，故選 D；文中並未比較 Maniq 與 Jahai 嗅覺能力的強弱，也沒說兩者氣候不同，B、A 皆非文中重點。",
+    "vocab": [
+      {
+        "w": "hunter-gatherer",
+        "zh": "狩獵採集者",
+        "pos": "n."
+      },
+      {
+        "w": "untouched",
+        "zh": "未受破壞的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-032",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "108指考",
+    "passage": "In many languages, such as English, there is no straightforward way to talk about smell. For want of dedicated odor terminology, English speakers are often forced to use odor-sources such as \"flowery\" and \"vanilla\" and metaphors like \"sweet\" and \"oriental\" in their descriptions of smell.\nBut the difficulty with talking about smell is not universal. The Maniq, a group of hunter-gatherers in southern Thailand, can describe smells using at least fifteen different terms, which express only smells and are not applicable across other sensory domains. In addition to Maniq, researchers found that there are also a dozen words for various smells in Jahai, a language spoken by a neighboring hunter-gatherer population.\nInterestingly, the difficulty for English speakers to translate smell directly into words seems to have very little to do with the nose's actual capabilities. According to findings of a recent study, English speakers are capable of discriminating more than a trillion different odors. Then, why is there a gap between their ability to discriminate scent and their vocabulary? The researchers suggest that surroundings may play a significant role.\nManiq and Jahai speakers live in tropical rainforest regions with a hunting-gathering lifestyle, and these two ethnic groups evaluate their surroundings through their noses to survive in nature. In an environment that is still largely untouched by humans, they are surrounded by smells at all times. They need to use their sense of smell to identify animals that they can hunt, and to recognize objects or events, such as spoiled food, that can pose a danger. Unlike the Maniq and the Jahai, many English speakers inhabit the post-industrial west and do not rely on smells to survive in their environment. This difference may explain the interesting linguistic phenomenon discussed above.",
+    "group_id": "PX-AST108-G05",
+    "stem": "Why is it difficult for English speakers to describe smells directly?",
+    "options": [
+      "They cannot distinguish the smells around them.",
+      "The sense of smell is not critical for their survival.",
+      "They consider it uncivilized to talk about smells directly.",
+      "There are not many sources of odor in their surroundings."
+    ],
+    "answer": 1,
+    "explain_zh": "末段指出許多英語使用者生活在後工業化的西方社會，不需要依賴嗅覺在環境中求生，這才是他們難以直接用詞語描述氣味的原因，故選 B；文中其實提到英語使用者能辨別超過一兆種氣味，可見並非嗅覺辨識能力不佳，A 錯誤。",
+    "vocab": [
+      {
+        "w": "critical",
+        "zh": "至關重要的",
+        "pos": "adj."
+      },
+      {
+        "w": "survival",
+        "zh": "生存",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-033",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "108指考",
+    "passage": "The okapi is a mammal living above the equator in one of the most biodiverse areas in central Africa. The animal was unknown to the western world until the beginning of the 20th century, and is often described as half-zebra, half-giraffe, as if it were a mixed-breed creature from a Greek legend. Yet its image is prevalent in the Democratic Republic of Congo—the only country in the world where it is found living in the wild. The okapi is to Congo what the giant panda is to China or the kangaroo to Australia.\nAlthough the okapi has striped markings resembling those of zebras', it is most closely related to the giraffe. It has a long neck, and large, flexible ears. The face and throat are greyish white. The coat is a chocolate to reddish brown, much in contrast with the white horizontal stripes and rings on the legs and white ankles. Overall, the okapi can be easily distinguished from its nearest relative. It is much smaller (about the size of a horse), and shares more external similarities with the deer than with the giraffe. While both sexes possess horns in the giraffe, only males bear horns in the okapi.\nThe West got its first whiff of the okapi in 1890 when Welsh journalist Henry Morton Stanley had puzzled over a strange \"African donkey\" in his book. Other Europeans in Africa had also heard of an animal that they came to call the \"African unicorn.\" Explorers may have seen the fleeting view of the striped backside as the animal fled through the bushes, leading to speculation that the okapi was some sort of rainforest zebra. Some even believed that the okapi was a new species of zebra. It was only later, when okapi skeleton was analyzed, that naturalists realized they had a giraffe on their hands.\nIn 1987, the Okapi Wildlife Reserve was established in eastern Congo to protect this rare mammal. But decades of political turbulence has seen much of the Congo's natural resources spin out of the government's control, and okapi numbers have fallen by 50 percent since 1995. Today, only 10,000 remain.",
+    "group_id": "PX-AST108-G06",
+    "stem": "Which of the following descriptions is true about the okapi?",
+    "options": [
+      "It is an important symbol of Congo.",
+      "It is a mystical creature from a Greek legend.",
+      "It has been well protected since 1987.",
+      "It is more closely related to the zebra than the giraffe."
+    ],
+    "answer": 0,
+    "explain_zh": "文章開頭將歐卡皮鹿比擬為剛果的重要象徵，如同大貓熊之於中國、袋鼠之於澳洲，故選 A；雖然1987年成立了歐卡皮野生動物保護區，族群數量卻仍自1995年以來銳減了50%，可見保育成效不彰，C 的敘述與原文不符。",
+    "vocab": [
+      {
+        "w": "symbol",
+        "zh": "象徵",
+        "pos": "n."
+      },
+      {
+        "w": "biodiverse",
+        "zh": "生物多樣性豐富的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-034",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "文意猜字",
+    "source": "108指考",
+    "passage": "The okapi is a mammal living above the equator in one of the most biodiverse areas in central Africa. The animal was unknown to the western world until the beginning of the 20th century, and is often described as half-zebra, half-giraffe, as if it were a mixed-breed creature from a Greek legend. Yet its image is prevalent in the Democratic Republic of Congo—the only country in the world where it is found living in the wild. The okapi is to Congo what the giant panda is to China or the kangaroo to Australia.\nAlthough the okapi has striped markings resembling those of zebras', it is most closely related to the giraffe. It has a long neck, and large, flexible ears. The face and throat are greyish white. The coat is a chocolate to reddish brown, much in contrast with the white horizontal stripes and rings on the legs and white ankles. Overall, the okapi can be easily distinguished from its nearest relative. It is much smaller (about the size of a horse), and shares more external similarities with the deer than with the giraffe. While both sexes possess horns in the giraffe, only males bear horns in the okapi.\nThe West got its first whiff of the okapi in 1890 when Welsh journalist Henry Morton Stanley had puzzled over a strange \"African donkey\" in his book. Other Europeans in Africa had also heard of an animal that they came to call the \"African unicorn.\" Explorers may have seen the fleeting view of the striped backside as the animal fled through the bushes, leading to speculation that the okapi was some sort of rainforest zebra. Some even believed that the okapi was a new species of zebra. It was only later, when okapi skeleton was analyzed, that naturalists realized they had a giraffe on their hands.\nIn 1987, the Okapi Wildlife Reserve was established in eastern Congo to protect this rare mammal. But decades of political turbulence has seen much of the Congo's natural resources spin out of the government's control, and okapi numbers have fallen by 50 percent since 1995. Today, only 10,000 remain.",
+    "group_id": "PX-AST108-G06",
+    "stem": "What does the word \"whiff\" most likely mean in the third paragraph?",
+    "options": [
+      "Firm belief.",
+      "Kind intention.",
+      "Slight trace.",
+      "Strong dislike."
+    ],
+    "answer": 2,
+    "explain_zh": "「got its first whiff of the okapi」描述西方世界在1890年首次得到關於歐卡皮鹿的「些微線索、耳聞」，故 whiff 最接近 Slight trace（些微痕跡）；Firm belief（堅定的信念）、Kind intention（善意）、Strong dislike（強烈厭惡）皆與此語意不合。",
+    "vocab": [
+      {
+        "w": "whiff",
+        "zh": "些微線索,一絲痕跡",
+        "pos": "n."
+      },
+      {
+        "w": "trace",
+        "zh": "痕跡",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST108-035",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "108指考",
+    "passage": "The okapi is a mammal living above the equator in one of the most biodiverse areas in central Africa. The animal was unknown to the western world until the beginning of the 20th century, and is often described as half-zebra, half-giraffe, as if it were a mixed-breed creature from a Greek legend. Yet its image is prevalent in the Democratic Republic of Congo—the only country in the world where it is found living in the wild. The okapi is to Congo what the giant panda is to China or the kangaroo to Australia.\nAlthough the okapi has striped markings resembling those of zebras', it is most closely related to the giraffe. It has a long neck, and large, flexible ears. The face and throat are greyish white. The coat is a chocolate to reddish brown, much in contrast with the white horizontal stripes and rings on the legs and white ankles. Overall, the okapi can be easily distinguished from its nearest relative. It is much smaller (about the size of a horse), and shares more external similarities with the deer than with the giraffe. While both sexes possess horns in the giraffe, only males bear horns in the okapi.\nThe West got its first whiff of the okapi in 1890 when Welsh journalist Henry Morton Stanley had puzzled over a strange \"African donkey\" in his book. Other Europeans in Africa had also heard of an animal that they came to call the \"African unicorn.\" Explorers may have seen the fleeting view of the striped backside as the animal fled through the bushes, leading to speculation that the okapi was some sort of rainforest zebra. Some even believed that the okapi was a new species of zebra. It was only later, when okapi skeleton was analyzed, that naturalists realized they had a giraffe on their hands.\nIn 1987, the Okapi Wildlife Reserve was established in eastern Congo to protect this rare mammal. But decades of political turbulence has seen much of the Congo's natural resources spin out of the government's control, and okapi numbers have fallen by 50 percent since 1995. Today, only 10,000 remain.",
+    "group_id": "PX-AST108-G06",
+    "stem": "Which of the following can be inferred about Henry Morton Stanley?",
+    "options": [
+      "He was the first European to analyze okapi skeleton.",
+      "He had found many new species of animals in Africa.",
+      "He did not know the \"African donkey\" in his book was the okapi.",
+      "He had seen the backside of an okapi dashing through the bushes."
+    ],
+    "answer": 2,
+    "explain_zh": "Stanley 在書中將這種動物稱為神秘的「非洲驢子」，感到困惑不解，直到後來學者分析骨骼才確認牠其實是長頸鹿的近親，可推知 Stanley 當時「並不知道」書中所寫的「非洲驢子」其實就是歐卡皮鹿，故選 C。",
+    "vocab": [
+      {
+        "w": "puzzle over",
+        "zh": "對...感到困惑",
+        "pos": "phr."
+      },
+      {
+        "w": "skeleton",
+        "zh": "骨骼",
+        "pos": "n."
+      }
+    ]
+  }
+]

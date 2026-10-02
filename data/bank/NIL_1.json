@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "NIL-0001",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Hello, Lakeside Property Rentals, this is Sandra speaking.\nB: Hi, I'm calling about the two-bedroom flat you listed near Bridge Street. Is it still available?\nA: Yes, it is. It's on the third floor of a building on Elm Avenue, close to the train station.\nB: Great. Could I ask about the rent?\nA: The rent is six hundred and fifty pounds a month — no, sorry, it went up last week, it's now six hundred and eighty pounds, and that includes water but not electricity.\nB: I see. Is there a deposit?\nA: Yes, a deposit of one month's rent, so six hundred and eighty pounds, due before you move in.\nB: When could I view it?\nA: We have viewings on Thursday at four p.m., or Saturday morning at ten. Which suits you better?\nB: Thursday at four works for me.\nA: Perfect. Can I take your name and number to confirm?\nB: Sure, it's Rachel Maddox — M-A-D-D-O-X.\nA: Got it. And a contact number?\nB: 0791 442 3087.\nA: Wonderful, Rachel. I'll send a confirmation text before Thursday. Please bring photo ID to the viewing, and note that pets aren't allowed in the building.",
+    "group_id": "NIL-G01",
+    "stem": "What is the main purpose of the woman's phone call?",
+    "options": [
+      "To ask about a flat for rent",
+      "To report a broken window",
+      "To cancel a viewing",
+      "To pay her rent"
+    ],
+    "answer": 0,
+    "explain_zh": "女子打電話是要詢問一間出租公寓的細節，包括租金與看房時間，屬於典型的租屋詢問對話。其他選項如繳租金、報修、取消看房都沒有在對話中出現。掌握開場白就能抓住通話目的。",
+    "vocab": [
+      {
+        "w": "available",
+        "zh": "可取得的；空著的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0002",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Hello, Lakeside Property Rentals, this is Sandra speaking.\nB: Hi, I'm calling about the two-bedroom flat you listed near Bridge Street. Is it still available?\nA: Yes, it is. It's on the third floor of a building on Elm Avenue, close to the train station.\nB: Great. Could I ask about the rent?\nA: The rent is six hundred and fifty pounds a month — no, sorry, it went up last week, it's now six hundred and eighty pounds, and that includes water but not electricity.\nB: I see. Is there a deposit?\nA: Yes, a deposit of one month's rent, so six hundred and eighty pounds, due before you move in.\nB: When could I view it?\nA: We have viewings on Thursday at four p.m., or Saturday morning at ten. Which suits you better?\nB: Thursday at four works for me.\nA: Perfect. Can I take your name and number to confirm?\nB: Sure, it's Rachel Maddox — M-A-D-D-O-X.\nA: Got it. And a contact number?\nB: 0791 442 3087.\nA: Wonderful, Rachel. I'll send a confirmation text before Thursday. Please bring photo ID to the viewing, and note that pets aren't allowed in the building.",
+    "group_id": "NIL-G01",
+    "stem": "What is the monthly rent for the flat?",
+    "options": [
+      "£650",
+      "£680",
+      "£608",
+      "£860"
+    ],
+    "answer": 1,
+    "explain_zh": "房仲一開始說六百五十鎊，但立刻改口說上週漲價了，正確金額是六百八十鎊。這是典型的「先說錯再更正」陷阱，一定要聽到最後更正的數字才是答案。千萬別聽到第一個數字就作答。",
+    "vocab": [
+      {
+        "w": "deposit",
+        "zh": "訂金；押金",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0003",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Hello, Lakeside Property Rentals, this is Sandra speaking.\nB: Hi, I'm calling about the two-bedroom flat you listed near Bridge Street. Is it still available?\nA: Yes, it is. It's on the third floor of a building on Elm Avenue, close to the train station.\nB: Great. Could I ask about the rent?\nA: The rent is six hundred and fifty pounds a month — no, sorry, it went up last week, it's now six hundred and eighty pounds, and that includes water but not electricity.\nB: I see. Is there a deposit?\nA: Yes, a deposit of one month's rent, so six hundred and eighty pounds, due before you move in.\nB: When could I view it?\nA: We have viewings on Thursday at four p.m., or Saturday morning at ten. Which suits you better?\nB: Thursday at four works for me.\nA: Perfect. Can I take your name and number to confirm?\nB: Sure, it's Rachel Maddox — M-A-D-D-O-X.\nA: Got it. And a contact number?\nB: 0791 442 3087.\nA: Wonderful, Rachel. I'll send a confirmation text before Thursday. Please bring photo ID to the viewing, and note that pets aren't allowed in the building.",
+    "group_id": "NIL-G01",
+    "stem": "How is the caller's surname spelled?",
+    "options": [
+      "MADDIX",
+      "MADOX",
+      "MADDOX",
+      "MADDOCKS"
+    ],
+    "answer": 2,
+    "explain_zh": "對話中女子清楚拼出姓氏 M-A-D-D-O-X，也就是 Maddox，中間有兩個 D，沒有 CK 或 I。拼字題一定要照字母一個一個聽，不能用猜的。",
+    "vocab": [
+      {
+        "w": "contact number",
+        "zh": "聯絡電話",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0004",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hello, Lakeside Property Rentals, this is Sandra speaking.\nB: Hi, I'm calling about the two-bedroom flat you listed near Bridge Street. Is it still available?\nA: Yes, it is. It's on the third floor of a building on Elm Avenue, close to the train station.\nB: Great. Could I ask about the rent?\nA: The rent is six hundred and fifty pounds a month — no, sorry, it went up last week, it's now six hundred and eighty pounds, and that includes water but not electricity.\nB: I see. Is there a deposit?\nA: Yes, a deposit of one month's rent, so six hundred and eighty pounds, due before you move in.\nB: When could I view it?\nA: We have viewings on Thursday at four p.m., or Saturday morning at ten. Which suits you better?\nB: Thursday at four works for me.\nA: Perfect. Can I take your name and number to confirm?\nB: Sure, it's Rachel Maddox — M-A-D-D-O-X.\nA: Got it. And a contact number?\nB: 0791 442 3087.\nA: Wonderful, Rachel. I'll send a confirmation text before Thursday. Please bring photo ID to the viewing, and note that pets aren't allowed in the building.",
+    "group_id": "NIL-G01",
+    "stem": "When is the viewing appointment?",
+    "options": [
+      "Saturday at 10 a.m.",
+      "Thursday at 10 a.m.",
+      "Saturday at 4 p.m.",
+      "Thursday at 4 p.m."
+    ],
+    "answer": 3,
+    "explain_zh": "房仲提供兩個看房時段：週四下午四點或週六早上十點，女子選擇了週四下午四點。要注意題目問的是「最後確認」的時間，不是所有提到的時間都對。",
+    "vocab": [
+      {
+        "w": "viewing",
+        "zh": "看房；參觀",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0005",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hello, Lakeside Property Rentals, this is Sandra speaking.\nB: Hi, I'm calling about the two-bedroom flat you listed near Bridge Street. Is it still available?\nA: Yes, it is. It's on the third floor of a building on Elm Avenue, close to the train station.\nB: Great. Could I ask about the rent?\nA: The rent is six hundred and fifty pounds a month — no, sorry, it went up last week, it's now six hundred and eighty pounds, and that includes water but not electricity.\nB: I see. Is there a deposit?\nA: Yes, a deposit of one month's rent, so six hundred and eighty pounds, due before you move in.\nB: When could I view it?\nA: We have viewings on Thursday at four p.m., or Saturday morning at ten. Which suits you better?\nB: Thursday at four works for me.\nA: Perfect. Can I take your name and number to confirm?\nB: Sure, it's Rachel Maddox — M-A-D-D-O-X.\nA: Got it. And a contact number?\nB: 0791 442 3087.\nA: Wonderful, Rachel. I'll send a confirmation text before Thursday. Please bring photo ID to the viewing, and note that pets aren't allowed in the building.",
+    "group_id": "NIL-G01",
+    "stem": "According to the agent, what is NOT allowed in the building?",
+    "options": [
+      "Pets",
+      "Deliveries",
+      "Guests",
+      "Bicycles"
+    ],
+    "answer": 0,
+    "explain_zh": "房仲在最後提醒大樓不准養寵物（pets aren't allowed），這是簡單的細節題，要留意結尾常常藏著附加規定。其餘選項在對話中完全沒有提到。",
+    "vocab": [
+      {
+        "w": "allowed",
+        "zh": "被允許的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0006",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Good afternoon, Riverside Community Kitchen, how can I help?\nB: Hi, I'd like to sign up for a cooking course, the one on Italian cuisine.\nA: Sure, that runs for six weeks, starting on the ninth of October, every Tuesday evening from six thirty to eight thirty.\nB: How much does it cost?\nA: It's ninety-five pounds for the full course — actually, sorry, we just added a new ingredient fee, so it's now one hundred and five pounds total, and that includes all the ingredients and a recipe booklet.\nB: Okay, that's fine. Do I need any experience?\nA: No previous experience is needed, but please bring your own apron and a container to take food home.\nB: Got it. Can I register now?\nA: Yes, can I get your full name?\nB: It's Benjamin Kowalski — K-O-W-A-L-S-K-I.\nA: Thank you, Benjamin. And a phone number in case we need to reach you?\nB: 0783 219 5561.\nA: We'll email your confirmation within two days. The class is held in Room 4B, and there's a maximum of twelve students, so it fills up fast. Also, note the course is fully booked for November, so this October session is your best option.",
+    "group_id": "NIL-G02",
+    "stem": "Why is the man calling the community kitchen?",
+    "options": [
+      "To cancel a booking",
+      "To register for a cooking course",
+      "To complain about a meal",
+      "To apply for a job"
+    ],
+    "answer": 1,
+    "explain_zh": "男子打電話是要報名義大利料理課程，這是整段對話的主要目的。從一開始「I'd like to sign up for a cooking course」就能判斷答案，其餘選項都不符合對話內容。",
+    "vocab": [
+      {
+        "w": "sign up",
+        "zh": "報名",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0007",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Good afternoon, Riverside Community Kitchen, how can I help?\nB: Hi, I'd like to sign up for a cooking course, the one on Italian cuisine.\nA: Sure, that runs for six weeks, starting on the ninth of October, every Tuesday evening from six thirty to eight thirty.\nB: How much does it cost?\nA: It's ninety-five pounds for the full course — actually, sorry, we just added a new ingredient fee, so it's now one hundred and five pounds total, and that includes all the ingredients and a recipe booklet.\nB: Okay, that's fine. Do I need any experience?\nA: No previous experience is needed, but please bring your own apron and a container to take food home.\nB: Got it. Can I register now?\nA: Yes, can I get your full name?\nB: It's Benjamin Kowalski — K-O-W-A-L-S-K-I.\nA: Thank you, Benjamin. And a phone number in case we need to reach you?\nB: 0783 219 5561.\nA: We'll email your confirmation within two days. The class is held in Room 4B, and there's a maximum of twelve students, so it fills up fast. Also, note the course is fully booked for November, so this October session is your best option.",
+    "group_id": "NIL-G02",
+    "stem": "What is the total cost of the course?",
+    "options": [
+      "£85",
+      "£95",
+      "£105",
+      "£150"
+    ],
+    "answer": 2,
+    "explain_zh": "接線員一開始說九十五鎊，但馬上更正說因為新增了食材費，總價其實是一百零五鎊。這題考驗學生是否聽到最終更正的金額，而不是被第一個數字誤導。",
+    "vocab": [
+      {
+        "w": "ingredient",
+        "zh": "食材；原料",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0008",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Good afternoon, Riverside Community Kitchen, how can I help?\nB: Hi, I'd like to sign up for a cooking course, the one on Italian cuisine.\nA: Sure, that runs for six weeks, starting on the ninth of October, every Tuesday evening from six thirty to eight thirty.\nB: How much does it cost?\nA: It's ninety-five pounds for the full course — actually, sorry, we just added a new ingredient fee, so it's now one hundred and five pounds total, and that includes all the ingredients and a recipe booklet.\nB: Okay, that's fine. Do I need any experience?\nA: No previous experience is needed, but please bring your own apron and a container to take food home.\nB: Got it. Can I register now?\nA: Yes, can I get your full name?\nB: It's Benjamin Kowalski — K-O-W-A-L-S-K-I.\nA: Thank you, Benjamin. And a phone number in case we need to reach you?\nB: 0783 219 5561.\nA: We'll email your confirmation within two days. The class is held in Room 4B, and there's a maximum of twelve students, so it fills up fast. Also, note the course is fully booked for November, so this October session is your best option.",
+    "group_id": "NIL-G02",
+    "stem": "How is the man's surname spelled?",
+    "options": [
+      "KOWALSKY",
+      "KOWALSKA",
+      "KOVALSKI",
+      "KOWALSKI"
+    ],
+    "answer": 3,
+    "explain_zh": "男子清楚拼出姓氏 K-O-W-A-L-S-K-I，也就是 Kowalski，結尾是 SKI 不是 SKY 或 SKA。拼字題常出現相似字母組合的誘答選項，要仔細分辨結尾。",
+    "vocab": [
+      {
+        "w": "confirmation",
+        "zh": "確認",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0009",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good afternoon, Riverside Community Kitchen, how can I help?\nB: Hi, I'd like to sign up for a cooking course, the one on Italian cuisine.\nA: Sure, that runs for six weeks, starting on the ninth of October, every Tuesday evening from six thirty to eight thirty.\nB: How much does it cost?\nA: It's ninety-five pounds for the full course — actually, sorry, we just added a new ingredient fee, so it's now one hundred and five pounds total, and that includes all the ingredients and a recipe booklet.\nB: Okay, that's fine. Do I need any experience?\nA: No previous experience is needed, but please bring your own apron and a container to take food home.\nB: Got it. Can I register now?\nA: Yes, can I get your full name?\nB: It's Benjamin Kowalski — K-O-W-A-L-S-K-I.\nA: Thank you, Benjamin. And a phone number in case we need to reach you?\nB: 0783 219 5561.\nA: We'll email your confirmation within two days. The class is held in Room 4B, and there's a maximum of twelve students, so it fills up fast. Also, note the course is fully booked for November, so this October session is your best option.",
+    "group_id": "NIL-G02",
+    "stem": "What should students bring to the course?",
+    "options": [
+      "An apron and a container",
+      "A recipe book",
+      "Their own ingredients",
+      "A knife set"
+    ],
+    "answer": 0,
+    "explain_zh": "接線員提到學生要自備圍裙和一個裝食物回家的容器，食材則是課程費用中已包含的，不需要自己準備。這題考驗聽出附帶提醒的細節。",
+    "vocab": [
+      {
+        "w": "container",
+        "zh": "容器",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0010",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Good afternoon, Riverside Community Kitchen, how can I help?\nB: Hi, I'd like to sign up for a cooking course, the one on Italian cuisine.\nA: Sure, that runs for six weeks, starting on the ninth of October, every Tuesday evening from six thirty to eight thirty.\nB: How much does it cost?\nA: It's ninety-five pounds for the full course — actually, sorry, we just added a new ingredient fee, so it's now one hundred and five pounds total, and that includes all the ingredients and a recipe booklet.\nB: Okay, that's fine. Do I need any experience?\nA: No previous experience is needed, but please bring your own apron and a container to take food home.\nB: Got it. Can I register now?\nA: Yes, can I get your full name?\nB: It's Benjamin Kowalski — K-O-W-A-L-S-K-I.\nA: Thank you, Benjamin. And a phone number in case we need to reach you?\nB: 0783 219 5561.\nA: We'll email your confirmation within two days. The class is held in Room 4B, and there's a maximum of twelve students, so it fills up fast. Also, note the course is fully booked for November, so this October session is your best option.",
+    "group_id": "NIL-G02",
+    "stem": "When does the course start?",
+    "options": [
+      "9th of October, on Thursdays",
+      "9th of October, on Tuesdays",
+      "9th of November, on Tuesdays",
+      "19th of October, on Thursdays"
+    ],
+    "answer": 1,
+    "explain_zh": "課程從十月九日開始，每週二晚上上課，對話最後也提到十一月已經額滿，所以十月是唯一開放報名的梯次。日期和星期要一起聽準確，避免混淆。",
+    "vocab": [
+      {
+        "w": "fully booked",
+        "zh": "額滿的",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0011",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Good evening, The Olive Branch restaurant, how can I help you?\nB: Hi, I'd like to book a table for Friday night.\nA: Certainly. How many people, and what time?\nB: Six people, around seven thirty.\nA: Let me check... Friday at seven thirty for six — I'm sorry, we're actually full at that time, but we do have a table at eight forty-five, or seven o'clock if that works.\nB: Seven o'clock is fine.\nA: Great. Will you need a high chair or anything special?\nB: Yes, one high chair for a toddler, and could we sit somewhere away from the kitchen door? My father doesn't like the noise.\nA: No problem, I'll note a quiet table with a high chair. Can I have a name for the booking?\nB: Yes, it's under Priya Chandrasekaran — that's C-H-A-N-D-R-A-S-E-K-A-R-A-N.\nA: Thank you. And a contact number in case we need to reschedule?\nB: 0762 384 1190.\nA: All set, Priya. Table for six, Friday at seven p.m., with a high chair and a quiet spot. We also offer a ten percent discount if you mention our loyalty card when you arrive.",
+    "group_id": "NIL-G03",
+    "stem": "What is the woman calling about?",
+    "options": [
+      "To ask about a menu",
+      "To order takeaway food",
+      "To book a restaurant table",
+      "To apply for a job"
+    ],
+    "answer": 2,
+    "explain_zh": "女子打電話是為了訂週五晚上的餐廳位子，這是整段對話最明確的主旨。其餘選項如外帶、應徵工作在對話中完全沒有出現。",
+    "vocab": [
+      {
+        "w": "book a table",
+        "zh": "訂位",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0012",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Good evening, The Olive Branch restaurant, how can I help you?\nB: Hi, I'd like to book a table for Friday night.\nA: Certainly. How many people, and what time?\nB: Six people, around seven thirty.\nA: Let me check... Friday at seven thirty for six — I'm sorry, we're actually full at that time, but we do have a table at eight forty-five, or seven o'clock if that works.\nB: Seven o'clock is fine.\nA: Great. Will you need a high chair or anything special?\nB: Yes, one high chair for a toddler, and could we sit somewhere away from the kitchen door? My father doesn't like the noise.\nA: No problem, I'll note a quiet table with a high chair. Can I have a name for the booking?\nB: Yes, it's under Priya Chandrasekaran — that's C-H-A-N-D-R-A-S-E-K-A-R-A-N.\nA: Thank you. And a contact number in case we need to reschedule?\nB: 0762 384 1190.\nA: All set, Priya. Table for six, Friday at seven p.m., with a high chair and a quiet spot. We also offer a ten percent discount if you mention our loyalty card when you arrive.",
+    "group_id": "NIL-G03",
+    "stem": "What time is the table finally confirmed for?",
+    "options": [
+      "6:45 p.m.",
+      "7:30 p.m.",
+      "8:45 p.m.",
+      "7:00 p.m."
+    ],
+    "answer": 3,
+    "explain_zh": "女子原本想訂七點半，但餐廳表示客滿，改提供八點四十五分或七點兩個選項，女子最後選了七點。這是先提出不可行時間、再確認最終時間的陷阱題。",
+    "vocab": [
+      {
+        "w": "reschedule",
+        "zh": "重新安排時間",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0013",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Good evening, The Olive Branch restaurant, how can I help you?\nB: Hi, I'd like to book a table for Friday night.\nA: Certainly. How many people, and what time?\nB: Six people, around seven thirty.\nA: Let me check... Friday at seven thirty for six — I'm sorry, we're actually full at that time, but we do have a table at eight forty-five, or seven o'clock if that works.\nB: Seven o'clock is fine.\nA: Great. Will you need a high chair or anything special?\nB: Yes, one high chair for a toddler, and could we sit somewhere away from the kitchen door? My father doesn't like the noise.\nA: No problem, I'll note a quiet table with a high chair. Can I have a name for the booking?\nB: Yes, it's under Priya Chandrasekaran — that's C-H-A-N-D-R-A-S-E-K-A-R-A-N.\nA: Thank you. And a contact number in case we need to reschedule?\nB: 0762 384 1190.\nA: All set, Priya. Table for six, Friday at seven p.m., with a high chair and a quiet spot. We also offer a ten percent discount if you mention our loyalty card when you arrive.",
+    "group_id": "NIL-G03",
+    "stem": "How many people is the table for?",
+    "options": [
+      "Six",
+      "Seven",
+      "Four",
+      "Five"
+    ],
+    "answer": 0,
+    "explain_zh": "女子一開始就說明是六個人用餐，這個數字在對話最後也再次被服務生覆誦確認。數字題只要抓住第一次提到的人數並確認有無更正即可。",
+    "vocab": [
+      {
+        "w": "toddler",
+        "zh": "學步幼兒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0014",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Good evening, The Olive Branch restaurant, how can I help you?\nB: Hi, I'd like to book a table for Friday night.\nA: Certainly. How many people, and what time?\nB: Six people, around seven thirty.\nA: Let me check... Friday at seven thirty for six — I'm sorry, we're actually full at that time, but we do have a table at eight forty-five, or seven o'clock if that works.\nB: Seven o'clock is fine.\nA: Great. Will you need a high chair or anything special?\nB: Yes, one high chair for a toddler, and could we sit somewhere away from the kitchen door? My father doesn't like the noise.\nA: No problem, I'll note a quiet table with a high chair. Can I have a name for the booking?\nB: Yes, it's under Priya Chandrasekaran — that's C-H-A-N-D-R-A-S-E-K-A-R-A-N.\nA: Thank you. And a contact number in case we need to reschedule?\nB: 0762 384 1190.\nA: All set, Priya. Table for six, Friday at seven p.m., with a high chair and a quiet spot. We also offer a ten percent discount if you mention our loyalty card when you arrive.",
+    "group_id": "NIL-G03",
+    "stem": "How is the caller's surname spelled?",
+    "options": [
+      "CHANDRASEKARIAN",
+      "CHANDRASEKARAN",
+      "CHANDRASHEKARAN",
+      "CHANDRASEKHARAN"
+    ],
+    "answer": 1,
+    "explain_zh": "女子清楚拼出 C-H-A-N-D-R-A-S-E-K-A-R-A-N，也就是 Chandrasekaran，中間沒有多餘的 H 或 I。長姓氏拼字題要耐心逐字聽寫再比對選項。",
+    "vocab": [
+      {
+        "w": "loyalty card",
+        "zh": "會員卡",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0015",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good evening, The Olive Branch restaurant, how can I help you?\nB: Hi, I'd like to book a table for Friday night.\nA: Certainly. How many people, and what time?\nB: Six people, around seven thirty.\nA: Let me check... Friday at seven thirty for six — I'm sorry, we're actually full at that time, but we do have a table at eight forty-five, or seven o'clock if that works.\nB: Seven o'clock is fine.\nA: Great. Will you need a high chair or anything special?\nB: Yes, one high chair for a toddler, and could we sit somewhere away from the kitchen door? My father doesn't like the noise.\nA: No problem, I'll note a quiet table with a high chair. Can I have a name for the booking?\nB: Yes, it's under Priya Chandrasekaran — that's C-H-A-N-D-R-A-S-E-K-A-R-A-N.\nA: Thank you. And a contact number in case we need to reschedule?\nB: 0762 384 1190.\nA: All set, Priya. Table for six, Friday at seven p.m., with a high chair and a quiet spot. We also offer a ten percent discount if you mention our loyalty card when you arrive.",
+    "group_id": "NIL-G03",
+    "stem": "What special request does the woman make?",
+    "options": [
+      "A birthday cake",
+      "A table near the window",
+      "A high chair and a quiet table",
+      "A private room"
+    ],
+    "answer": 2,
+    "explain_zh": "女子要求一張兒童高腳椅，並希望座位遠離廚房門口比較安靜，因為她父親不喜歡吵。這題考驗聽出對話中間段落的具體要求。",
+    "vocab": [
+      {
+        "w": "quiet",
+        "zh": "安靜的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0016",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Hello, lost property office, my name's Tom. How can I help?\nB: Hi, I think I left my backpack on the train from Manchester yesterday evening.\nA: Okay, can you describe the bag?\nB: It's a grey backpack, a rucksack, with a small red keychain shaped like a cat, and it has my laptop and notebook inside.\nA: What time did you get off the train, roughly?\nB: It arrived at Leeds at six fifteen, though I think I actually got off closer to six twenty, because we were delayed.\nA: Right, I'll check the six twenty arrival log. Do you have the train number or carriage?\nB: I was in carriage C, seat 14.\nA: Thanks. Can I take your name and number so we can call you if it turns up?\nB: It's Oliver Bramwell — B-R-A-M-W-E-L-L.\nA: And your number?\nB: 0798 553 2246.\nA: We'll check the lost property store and call you within forty-eight hours. If it's found, there's a small handling fee of five pounds to collect it. In the meantime, please also report it online in case another station finds it first.",
+    "group_id": "NIL-G04",
+    "stem": "Why is the man contacting the lost property office?",
+    "options": [
+      "To complain about a delay",
+      "To collect a found item",
+      "To buy a train ticket",
+      "To report a lost backpack"
+    ],
+    "answer": 3,
+    "explain_zh": "男子打電話是要通報他把背包遺留在火車上，這是對話最主要的目的。其他選項如買票或抱怨誤點都沒有在對話中出現。",
+    "vocab": [
+      {
+        "w": "rucksack",
+        "zh": "背包",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0017",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hello, lost property office, my name's Tom. How can I help?\nB: Hi, I think I left my backpack on the train from Manchester yesterday evening.\nA: Okay, can you describe the bag?\nB: It's a grey backpack, a rucksack, with a small red keychain shaped like a cat, and it has my laptop and notebook inside.\nA: What time did you get off the train, roughly?\nB: It arrived at Leeds at six fifteen, though I think I actually got off closer to six twenty, because we were delayed.\nA: Right, I'll check the six twenty arrival log. Do you have the train number or carriage?\nB: I was in carriage C, seat 14.\nA: Thanks. Can I take your name and number so we can call you if it turns up?\nB: It's Oliver Bramwell — B-R-A-M-W-E-L-L.\nA: And your number?\nB: 0798 553 2246.\nA: We'll check the lost property store and call you within forty-eight hours. If it's found, there's a small handling fee of five pounds to collect it. In the meantime, please also report it online in case another station finds it first.",
+    "group_id": "NIL-G04",
+    "stem": "What does the backpack look like?",
+    "options": [
+      "A grey backpack with a red cat keychain",
+      "A blue bag with a name tag",
+      "A brown backpack with a broken strap",
+      "A black bag with a silver zip"
+    ],
+    "answer": 0,
+    "explain_zh": "男子描述背包是灰色的，上面掛著一個紅色貓咪造型的鑰匙圈，裡面還有筆電和筆記本。這題考驗聽出物品外觀的具體描述。",
+    "vocab": [
+      {
+        "w": "keychain",
+        "zh": "鑰匙圈",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0018",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Hello, lost property office, my name's Tom. How can I help?\nB: Hi, I think I left my backpack on the train from Manchester yesterday evening.\nA: Okay, can you describe the bag?\nB: It's a grey backpack, a rucksack, with a small red keychain shaped like a cat, and it has my laptop and notebook inside.\nA: What time did you get off the train, roughly?\nB: It arrived at Leeds at six fifteen, though I think I actually got off closer to six twenty, because we were delayed.\nA: Right, I'll check the six twenty arrival log. Do you have the train number or carriage?\nB: I was in carriage C, seat 14.\nA: Thanks. Can I take your name and number so we can call you if it turns up?\nB: It's Oliver Bramwell — B-R-A-M-W-E-L-L.\nA: And your number?\nB: 0798 553 2246.\nA: We'll check the lost property store and call you within forty-eight hours. If it's found, there's a small handling fee of five pounds to collect it. In the meantime, please also report it online in case another station finds it first.",
+    "group_id": "NIL-G04",
+    "stem": "What time did the man actually get off the train?",
+    "options": [
+      "6:15",
+      "6:20",
+      "6:30",
+      "6:45"
+    ],
+    "answer": 1,
+    "explain_zh": "火車表定六點十五分到站，但男子表示因為誤點，他其實是六點二十分才下車，工作人員也確認要查六點二十分的紀錄。要聽出「其實／實際上」這類更正語氣後的正確時間。",
+    "vocab": [
+      {
+        "w": "delayed",
+        "zh": "延遲的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0019",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Hello, lost property office, my name's Tom. How can I help?\nB: Hi, I think I left my backpack on the train from Manchester yesterday evening.\nA: Okay, can you describe the bag?\nB: It's a grey backpack, a rucksack, with a small red keychain shaped like a cat, and it has my laptop and notebook inside.\nA: What time did you get off the train, roughly?\nB: It arrived at Leeds at six fifteen, though I think I actually got off closer to six twenty, because we were delayed.\nA: Right, I'll check the six twenty arrival log. Do you have the train number or carriage?\nB: I was in carriage C, seat 14.\nA: Thanks. Can I take your name and number so we can call you if it turns up?\nB: It's Oliver Bramwell — B-R-A-M-W-E-L-L.\nA: And your number?\nB: 0798 553 2246.\nA: We'll check the lost property store and call you within forty-eight hours. If it's found, there's a small handling fee of five pounds to collect it. In the meantime, please also report it online in case another station finds it first.",
+    "group_id": "NIL-G04",
+    "stem": "How is the man's surname spelled?",
+    "options": [
+      "BRAMWALL",
+      "BRANWELL",
+      "BRAMWELL",
+      "BRAMWEL"
+    ],
+    "answer": 2,
+    "explain_zh": "男子拼出 B-R-A-M-W-E-L-L，也就是 Bramwell，中間是 WE 不是 WA，結尾是雙 L。拼字題要特別注意母音和重複字母的位置。",
+    "vocab": [
+      {
+        "w": "handling fee",
+        "zh": "處理費",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0020",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hello, lost property office, my name's Tom. How can I help?\nB: Hi, I think I left my backpack on the train from Manchester yesterday evening.\nA: Okay, can you describe the bag?\nB: It's a grey backpack, a rucksack, with a small red keychain shaped like a cat, and it has my laptop and notebook inside.\nA: What time did you get off the train, roughly?\nB: It arrived at Leeds at six fifteen, though I think I actually got off closer to six twenty, because we were delayed.\nA: Right, I'll check the six twenty arrival log. Do you have the train number or carriage?\nB: I was in carriage C, seat 14.\nA: Thanks. Can I take your name and number so we can call you if it turns up?\nB: It's Oliver Bramwell — B-R-A-M-W-E-L-L.\nA: And your number?\nB: 0798 553 2246.\nA: We'll check the lost property store and call you within forty-eight hours. If it's found, there's a small handling fee of five pounds to collect it. In the meantime, please also report it online in case another station finds it first.",
+    "group_id": "NIL-G04",
+    "stem": "What fee must be paid if the bag is found?",
+    "options": [
+      "£10",
+      "There is no fee",
+      "£2",
+      "£5"
+    ],
+    "answer": 3,
+    "explain_zh": "工作人員說明如果找到背包，需要支付五鎊的處理費才能領回。這是對話結尾的具體金額細節，要聽到最後才不會漏掉。",
+    "vocab": [
+      {
+        "w": "lost property",
+        "zh": "失物招領",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0021",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Hi, this is FlexFit Studio, I'm Jenna.\nB: Hi Jenna, I'd like to book a personal training session.\nA: Sure, have you trained with us before?\nB: No, this would be my first session.\nA: Great, first sessions are sixty minutes and normally cost forty pounds — actually, first sessions are discounted for new clients, so it's thirty pounds.\nB: That's good. What times are available this week?\nA: We have Wednesday at nine a.m. or Friday at five thirty p.m.\nB: Friday at five thirty works better for me.\nA: Perfect. Do you have any injuries or conditions the trainer should know about?\nB: Yes, I had a knee injury last year, so I'd like to avoid heavy squats.\nA: Noted, I'll pass that to your trainer, Marcus. Can I get your name for the booking?\nB: It's Fiona Whitlock — W-H-I-T-L-O-C-K.\nA: And a phone number?\nB: 0774 902 6631.\nA: Thanks, Fiona. Please arrive fifteen minutes early to fill out a health form, and wear closed-toe shoes — sandals aren't permitted in the training area.",
+    "group_id": "NIL-G05",
+    "stem": "What is the woman trying to do?",
+    "options": [
+      "Book a personal training session",
+      "Complain about a trainer",
+      "Ask for a refund",
+      "Cancel her gym membership"
+    ],
+    "answer": 0,
+    "explain_zh": "女子打電話是要預約一對一的私人教練課程，這是對話開頭就表明的目的。其他選項如退費或取消會籍都沒有出現在對話中。",
+    "vocab": [
+      {
+        "w": "personal training",
+        "zh": "個人訓練",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0022",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Hi, this is FlexFit Studio, I'm Jenna.\nB: Hi Jenna, I'd like to book a personal training session.\nA: Sure, have you trained with us before?\nB: No, this would be my first session.\nA: Great, first sessions are sixty minutes and normally cost forty pounds — actually, first sessions are discounted for new clients, so it's thirty pounds.\nB: That's good. What times are available this week?\nA: We have Wednesday at nine a.m. or Friday at five thirty p.m.\nB: Friday at five thirty works better for me.\nA: Perfect. Do you have any injuries or conditions the trainer should know about?\nB: Yes, I had a knee injury last year, so I'd like to avoid heavy squats.\nA: Noted, I'll pass that to your trainer, Marcus. Can I get your name for the booking?\nB: It's Fiona Whitlock — W-H-I-T-L-O-C-K.\nA: And a phone number?\nB: 0774 902 6631.\nA: Thanks, Fiona. Please arrive fifteen minutes early to fill out a health form, and wear closed-toe shoes — sandals aren't permitted in the training area.",
+    "group_id": "NIL-G05",
+    "stem": "How much does the first session cost?",
+    "options": [
+      "£40",
+      "£30",
+      "£35",
+      "£45"
+    ],
+    "answer": 1,
+    "explain_zh": "接線員先說首堂課通常是四十鎊，但立刻補充新客戶有折扣，實際只要三十鎊。這是典型先講原價、再更正折扣價的陷阱，要聽到最終價格。",
+    "vocab": [
+      {
+        "w": "discounted",
+        "zh": "打折的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0023",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, this is FlexFit Studio, I'm Jenna.\nB: Hi Jenna, I'd like to book a personal training session.\nA: Sure, have you trained with us before?\nB: No, this would be my first session.\nA: Great, first sessions are sixty minutes and normally cost forty pounds — actually, first sessions are discounted for new clients, so it's thirty pounds.\nB: That's good. What times are available this week?\nA: We have Wednesday at nine a.m. or Friday at five thirty p.m.\nB: Friday at five thirty works better for me.\nA: Perfect. Do you have any injuries or conditions the trainer should know about?\nB: Yes, I had a knee injury last year, so I'd like to avoid heavy squats.\nA: Noted, I'll pass that to your trainer, Marcus. Can I get your name for the booking?\nB: It's Fiona Whitlock — W-H-I-T-L-O-C-K.\nA: And a phone number?\nB: 0774 902 6631.\nA: Thanks, Fiona. Please arrive fifteen minutes early to fill out a health form, and wear closed-toe shoes — sandals aren't permitted in the training area.",
+    "group_id": "NIL-G05",
+    "stem": "Which time does the woman choose for her session?",
+    "options": [
+      "Friday at 9 a.m.",
+      "Wednesday at 9 a.m.",
+      "Friday at 5:30 p.m.",
+      "Wednesday at 5:30 p.m."
+    ],
+    "answer": 2,
+    "explain_zh": "接線員提供週三早上九點或週五下午五點半兩個選項，女子表示週五五點半比較適合她。數字時間題要聽清楚最後確認的那一個。",
+    "vocab": [
+      {
+        "w": "available",
+        "zh": "有空的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0024",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Hi, this is FlexFit Studio, I'm Jenna.\nB: Hi Jenna, I'd like to book a personal training session.\nA: Sure, have you trained with us before?\nB: No, this would be my first session.\nA: Great, first sessions are sixty minutes and normally cost forty pounds — actually, first sessions are discounted for new clients, so it's thirty pounds.\nB: That's good. What times are available this week?\nA: We have Wednesday at nine a.m. or Friday at five thirty p.m.\nB: Friday at five thirty works better for me.\nA: Perfect. Do you have any injuries or conditions the trainer should know about?\nB: Yes, I had a knee injury last year, so I'd like to avoid heavy squats.\nA: Noted, I'll pass that to your trainer, Marcus. Can I get your name for the booking?\nB: It's Fiona Whitlock — W-H-I-T-L-O-C-K.\nA: And a phone number?\nB: 0774 902 6631.\nA: Thanks, Fiona. Please arrive fifteen minutes early to fill out a health form, and wear closed-toe shoes — sandals aren't permitted in the training area.",
+    "group_id": "NIL-G05",
+    "stem": "How is the woman's surname spelled?",
+    "options": [
+      "WHEATLOCK",
+      "WHITLOCKE",
+      "WITLOCK",
+      "WHITLOCK"
+    ],
+    "answer": 3,
+    "explain_zh": "女子拼出 W-H-I-T-L-O-C-K，也就是 Whitlock，開頭是 WH 而非 W，結尾沒有多餘的 E。拼字題要注意常見的無聲字母組合 WH。",
+    "vocab": [
+      {
+        "w": "injury",
+        "zh": "傷害；受傷",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0025",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, this is FlexFit Studio, I'm Jenna.\nB: Hi Jenna, I'd like to book a personal training session.\nA: Sure, have you trained with us before?\nB: No, this would be my first session.\nA: Great, first sessions are sixty minutes and normally cost forty pounds — actually, first sessions are discounted for new clients, so it's thirty pounds.\nB: That's good. What times are available this week?\nA: We have Wednesday at nine a.m. or Friday at five thirty p.m.\nB: Friday at five thirty works better for me.\nA: Perfect. Do you have any injuries or conditions the trainer should know about?\nB: Yes, I had a knee injury last year, so I'd like to avoid heavy squats.\nA: Noted, I'll pass that to your trainer, Marcus. Can I get your name for the booking?\nB: It's Fiona Whitlock — W-H-I-T-L-O-C-K.\nA: And a phone number?\nB: 0774 902 6631.\nA: Thanks, Fiona. Please arrive fifteen minutes early to fill out a health form, and wear closed-toe shoes — sandals aren't permitted in the training area.",
+    "group_id": "NIL-G05",
+    "stem": "What must the woman wear during training?",
+    "options": [
+      "Closed-toe shoes",
+      "Bare feet",
+      "High heels",
+      "Sandals"
+    ],
+    "answer": 0,
+    "explain_zh": "接線員在最後提醒必須穿包頭鞋，訓練區禁止穿涼鞋。這題考驗聽出結尾附加規定，常是聽力容易漏掉的細節。",
+    "vocab": [
+      {
+        "w": "permitted",
+        "zh": "被允許的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0026",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Good morning, Swift Movers, this is Craig.\nB: Hi, I'm moving flats and need a quote.\nA: Sure, where are you moving from and to?\nB: From a one-bedroom flat on King Street to a house on Orchard Lane, both here in town.\nA: Okay, and what date are you thinking?\nB: The fifteenth of next month, a Saturday.\nA: Let me check... actually the fifteenth is fully booked, but we have the sixteenth, the Sunday, available.\nB: The sixteenth works too.\nA: Great. For a one-bedroom flat, local move, our standard rate is one hundred and eighty pounds, but if you need packing boxes and materials, that's an extra thirty pounds.\nB: I'll need the boxes too.\nA: Right, so two hundred and ten pounds total. Can I get your name?\nB: Grace Oyelaran — O-Y-E-L-A-R-A-N.\nA: And your number, Grace?\nB: 0787 615 4423.\nA: We'll arrive at nine a.m. on the sixteenth. Please make sure fragile items are labelled clearly, and note that we can't transport plants due to company policy.",
+    "group_id": "NIL-G06",
+    "stem": "Why does the woman call Swift Movers?",
+    "options": [
+      "To complain about damaged furniture",
+      "To ask for a moving quote",
+      "To cancel a booking",
+      "To apply for a driving job"
+    ],
+    "answer": 1,
+    "explain_zh": "女子打電話是要詢問搬家報價，這是對話一開始就說明的目的。其餘選項如抱怨家具損壞、應徵司機都沒有出現在對話中。",
+    "vocab": [
+      {
+        "w": "quote",
+        "zh": "報價",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0027",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Good morning, Swift Movers, this is Craig.\nB: Hi, I'm moving flats and need a quote.\nA: Sure, where are you moving from and to?\nB: From a one-bedroom flat on King Street to a house on Orchard Lane, both here in town.\nA: Okay, and what date are you thinking?\nB: The fifteenth of next month, a Saturday.\nA: Let me check... actually the fifteenth is fully booked, but we have the sixteenth, the Sunday, available.\nB: The sixteenth works too.\nA: Great. For a one-bedroom flat, local move, our standard rate is one hundred and eighty pounds, but if you need packing boxes and materials, that's an extra thirty pounds.\nB: I'll need the boxes too.\nA: Right, so two hundred and ten pounds total. Can I get your name?\nB: Grace Oyelaran — O-Y-E-L-A-R-A-N.\nA: And your number, Grace?\nB: 0787 615 4423.\nA: We'll arrive at nine a.m. on the sixteenth. Please make sure fragile items are labelled clearly, and note that we can't transport plants due to company policy.",
+    "group_id": "NIL-G06",
+    "stem": "What date is the move finally confirmed for?",
+    "options": [
+      "The 16th, Saturday",
+      "The 15th, Saturday",
+      "The 16th, Sunday",
+      "The 15th, Sunday"
+    ],
+    "answer": 2,
+    "explain_zh": "女子原本想約十五號星期六，但公司表示已被訂滿，改為十六號星期日才確定下來。這是先提不可行日期、再更正的陷阱題，要聽到最終確認的日期。",
+    "vocab": [
+      {
+        "w": "fully booked",
+        "zh": "預約額滿的",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0028",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Good morning, Swift Movers, this is Craig.\nB: Hi, I'm moving flats and need a quote.\nA: Sure, where are you moving from and to?\nB: From a one-bedroom flat on King Street to a house on Orchard Lane, both here in town.\nA: Okay, and what date are you thinking?\nB: The fifteenth of next month, a Saturday.\nA: Let me check... actually the fifteenth is fully booked, but we have the sixteenth, the Sunday, available.\nB: The sixteenth works too.\nA: Great. For a one-bedroom flat, local move, our standard rate is one hundred and eighty pounds, but if you need packing boxes and materials, that's an extra thirty pounds.\nB: I'll need the boxes too.\nA: Right, so two hundred and ten pounds total. Can I get your name?\nB: Grace Oyelaran — O-Y-E-L-A-R-A-N.\nA: And your number, Grace?\nB: 0787 615 4423.\nA: We'll arrive at nine a.m. on the sixteenth. Please make sure fragile items are labelled clearly, and note that we can't transport plants due to company policy.",
+    "group_id": "NIL-G06",
+    "stem": "What is the total cost of the move?",
+    "options": [
+      "£240",
+      "£180",
+      "£150",
+      "£210"
+    ],
+    "answer": 3,
+    "explain_zh": "標準搬家費是一百八十鎊，加上她需要的紙箱和包材三十鎊，總共是兩百一十鎊。數字題要把基本費用和額外加價加總起來才是正確答案。",
+    "vocab": [
+      {
+        "w": "packing materials",
+        "zh": "包裝材料",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0029",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Good morning, Swift Movers, this is Craig.\nB: Hi, I'm moving flats and need a quote.\nA: Sure, where are you moving from and to?\nB: From a one-bedroom flat on King Street to a house on Orchard Lane, both here in town.\nA: Okay, and what date are you thinking?\nB: The fifteenth of next month, a Saturday.\nA: Let me check... actually the fifteenth is fully booked, but we have the sixteenth, the Sunday, available.\nB: The sixteenth works too.\nA: Great. For a one-bedroom flat, local move, our standard rate is one hundred and eighty pounds, but if you need packing boxes and materials, that's an extra thirty pounds.\nB: I'll need the boxes too.\nA: Right, so two hundred and ten pounds total. Can I get your name?\nB: Grace Oyelaran — O-Y-E-L-A-R-A-N.\nA: And your number, Grace?\nB: 0787 615 4423.\nA: We'll arrive at nine a.m. on the sixteenth. Please make sure fragile items are labelled clearly, and note that we can't transport plants due to company policy.",
+    "group_id": "NIL-G06",
+    "stem": "How is the woman's surname spelled?",
+    "options": [
+      "OYELARAN",
+      "OYELARIN",
+      "OYELERAN",
+      "OYELARAM"
+    ],
+    "answer": 0,
+    "explain_zh": "女子拼出 O-Y-E-L-A-R-A-N，也就是 Oyelaran，中間是 LARA 不是 LERA 或 LARI，結尾是 N 不是 M。拼字題要一字一字對照選項的微小差異。",
+    "vocab": [
+      {
+        "w": "fragile",
+        "zh": "易碎的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0030",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good morning, Swift Movers, this is Craig.\nB: Hi, I'm moving flats and need a quote.\nA: Sure, where are you moving from and to?\nB: From a one-bedroom flat on King Street to a house on Orchard Lane, both here in town.\nA: Okay, and what date are you thinking?\nB: The fifteenth of next month, a Saturday.\nA: Let me check... actually the fifteenth is fully booked, but we have the sixteenth, the Sunday, available.\nB: The sixteenth works too.\nA: Great. For a one-bedroom flat, local move, our standard rate is one hundred and eighty pounds, but if you need packing boxes and materials, that's an extra thirty pounds.\nB: I'll need the boxes too.\nA: Right, so two hundred and ten pounds total. Can I get your name?\nB: Grace Oyelaran — O-Y-E-L-A-R-A-N.\nA: And your number, Grace?\nB: 0787 615 4423.\nA: We'll arrive at nine a.m. on the sixteenth. Please make sure fragile items are labelled clearly, and note that we can't transport plants due to company policy.",
+    "group_id": "NIL-G06",
+    "stem": "What will Swift Movers NOT transport?",
+    "options": [
+      "Furniture",
+      "Plants",
+      "Electronics",
+      "Boxes"
+    ],
+    "answer": 1,
+    "explain_zh": "搬家公司在最後說明因公司政策不承運植物，這是對話結尾容易被忽略的附加規定。其餘選項都是可以搬運的物品。",
+    "vocab": [
+      {
+        "w": "policy",
+        "zh": "政策；規定",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0031",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Good afternoon, Hillside Dental Clinic, this is Nora.\nB: Hi, I'd like to make an appointment, I have a toothache.\nA: I'm sorry to hear that. Are you an existing patient?\nB: No, this is my first time.\nA: Okay, we can fit you in tomorrow at eleven a.m., or if that's too soon, Thursday at two p.m.\nB: Tomorrow at eleven is better.\nA: Great, I'll book that in. Since you're a new patient, please arrive twenty minutes early to complete a health form.\nB: Sure. How much is the consultation?\nA: The check-up is normally forty-five pounds, but actually, since you're a new patient, there's a registration fee as well, so with that it comes to sixty pounds total.\nB: Okay, that's fine.\nA: Can I get your full name, please?\nB: Theodore Nkemelu — N-K-E-M-E-L-U.\nA: Thank you. And a contact number?\nB: 0755 328 7749.\nA: You're all set, Theodore, tomorrow at eleven. Please don't eat anything an hour before the appointment, and bring your ID card with you.",
+    "group_id": "NIL-G07",
+    "stem": "Why is the man calling the dental clinic?",
+    "options": [
+      "To cancel his appointment",
+      "To renew his ID card",
+      "To book an appointment for a toothache",
+      "To ask about opening hours"
+    ],
+    "answer": 2,
+    "explain_zh": "男子打電話是因為牙痛想預約看診，這是對話一開始就清楚表明的目的。其餘選項如詢問營業時間、取消預約都沒有出現。",
+    "vocab": [
+      {
+        "w": "toothache",
+        "zh": "牙痛",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0032",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Good afternoon, Hillside Dental Clinic, this is Nora.\nB: Hi, I'd like to make an appointment, I have a toothache.\nA: I'm sorry to hear that. Are you an existing patient?\nB: No, this is my first time.\nA: Okay, we can fit you in tomorrow at eleven a.m., or if that's too soon, Thursday at two p.m.\nB: Tomorrow at eleven is better.\nA: Great, I'll book that in. Since you're a new patient, please arrive twenty minutes early to complete a health form.\nB: Sure. How much is the consultation?\nA: The check-up is normally forty-five pounds, but actually, since you're a new patient, there's a registration fee as well, so with that it comes to sixty pounds total.\nB: Okay, that's fine.\nA: Can I get your full name, please?\nB: Theodore Nkemelu — N-K-E-M-E-L-U.\nA: Thank you. And a contact number?\nB: 0755 328 7749.\nA: You're all set, Theodore, tomorrow at eleven. Please don't eat anything an hour before the appointment, and bring your ID card with you.",
+    "group_id": "NIL-G07",
+    "stem": "What time is the appointment confirmed for?",
+    "options": [
+      "Thursday at 2 p.m.",
+      "Tomorrow at 2 p.m.",
+      "Thursday at 11 a.m.",
+      "Tomorrow at 11 a.m."
+    ],
+    "answer": 3,
+    "explain_zh": "診所提供明天早上十一點或週四下午兩點兩個選項，男子選擇了比較快的明天十一點。數字時間題要聽清楚最後被選定的時段。",
+    "vocab": [
+      {
+        "w": "existing patient",
+        "zh": "舊病患",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0033",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Good afternoon, Hillside Dental Clinic, this is Nora.\nB: Hi, I'd like to make an appointment, I have a toothache.\nA: I'm sorry to hear that. Are you an existing patient?\nB: No, this is my first time.\nA: Okay, we can fit you in tomorrow at eleven a.m., or if that's too soon, Thursday at two p.m.\nB: Tomorrow at eleven is better.\nA: Great, I'll book that in. Since you're a new patient, please arrive twenty minutes early to complete a health form.\nB: Sure. How much is the consultation?\nA: The check-up is normally forty-five pounds, but actually, since you're a new patient, there's a registration fee as well, so with that it comes to sixty pounds total.\nB: Okay, that's fine.\nA: Can I get your full name, please?\nB: Theodore Nkemelu — N-K-E-M-E-L-U.\nA: Thank you. And a contact number?\nB: 0755 328 7749.\nA: You're all set, Theodore, tomorrow at eleven. Please don't eat anything an hour before the appointment, and bring your ID card with you.",
+    "group_id": "NIL-G07",
+    "stem": "What is the total cost of the visit?",
+    "options": [
+      "£60",
+      "£65",
+      "£45",
+      "£50"
+    ],
+    "answer": 0,
+    "explain_zh": "檢查費原本是四十五鎊，但因為是新病患還要加收掛號費，總共是六十鎊。這是先講基本費用、再補充額外費用的陷阱，要把兩者加總。",
+    "vocab": [
+      {
+        "w": "registration fee",
+        "zh": "掛號費",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0034",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Good afternoon, Hillside Dental Clinic, this is Nora.\nB: Hi, I'd like to make an appointment, I have a toothache.\nA: I'm sorry to hear that. Are you an existing patient?\nB: No, this is my first time.\nA: Okay, we can fit you in tomorrow at eleven a.m., or if that's too soon, Thursday at two p.m.\nB: Tomorrow at eleven is better.\nA: Great, I'll book that in. Since you're a new patient, please arrive twenty minutes early to complete a health form.\nB: Sure. How much is the consultation?\nA: The check-up is normally forty-five pounds, but actually, since you're a new patient, there's a registration fee as well, so with that it comes to sixty pounds total.\nB: Okay, that's fine.\nA: Can I get your full name, please?\nB: Theodore Nkemelu — N-K-E-M-E-L-U.\nA: Thank you. And a contact number?\nB: 0755 328 7749.\nA: You're all set, Theodore, tomorrow at eleven. Please don't eat anything an hour before the appointment, and bring your ID card with you.",
+    "group_id": "NIL-G07",
+    "stem": "How is the man's surname spelled?",
+    "options": [
+      "NEKEMELU",
+      "NKEMELU",
+      "NKEMELO",
+      "NKEMULU"
+    ],
+    "answer": 1,
+    "explain_zh": "男子拼出 N-K-E-M-E-L-U，也就是 Nkemelu，結尾是 ELU 不是 ELO 或 ULU。拼字題要注意字尾母音的細微差別。",
+    "vocab": [
+      {
+        "w": "consultation",
+        "zh": "諮詢；看診",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0035",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Good afternoon, Hillside Dental Clinic, this is Nora.\nB: Hi, I'd like to make an appointment, I have a toothache.\nA: I'm sorry to hear that. Are you an existing patient?\nB: No, this is my first time.\nA: Okay, we can fit you in tomorrow at eleven a.m., or if that's too soon, Thursday at two p.m.\nB: Tomorrow at eleven is better.\nA: Great, I'll book that in. Since you're a new patient, please arrive twenty minutes early to complete a health form.\nB: Sure. How much is the consultation?\nA: The check-up is normally forty-five pounds, but actually, since you're a new patient, there's a registration fee as well, so with that it comes to sixty pounds total.\nB: Okay, that's fine.\nA: Can I get your full name, please?\nB: Theodore Nkemelu — N-K-E-M-E-L-U.\nA: Thank you. And a contact number?\nB: 0755 328 7749.\nA: You're all set, Theodore, tomorrow at eleven. Please don't eat anything an hour before the appointment, and bring your ID card with you.",
+    "group_id": "NIL-G07",
+    "stem": "What should the man do before the appointment?",
+    "options": [
+      "Take a painkiller",
+      "Bring a friend",
+      "Avoid eating for an hour",
+      "Pay online in advance"
+    ],
+    "answer": 2,
+    "explain_zh": "診所在最後提醒男子看診前一小時不要進食，並要攜帶身分證件。這題考驗聽出結尾的注意事項。",
+    "vocab": [
+      {
+        "w": "appointment",
+        "zh": "預約",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0036",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Hello, Crystal Clean Dry Cleaners, how can I help?\nB: Hi, I'd like to drop off a suit and a wool coat for cleaning.\nA: Sure. The suit is twelve pounds and the coat is eighteen pounds, so that's thirty pounds together.\nB: There's also a stain on the coat sleeve, is that extra?\nA: Yes, stain removal is an additional eight pounds, so actually the total comes to thirty-eight pounds.\nB: Okay, that's fine. When will they be ready?\nA: Normally two days, but since it's a stain treatment, it'll take three days, ready by Thursday afternoon.\nB: Great, thank you.\nA: Can I have your name for the ticket?\nB: It's Desmond Achterberg — A-C-H-T-E-R-B-E-R-G.\nA: And a phone number in case of any issues?\nB: 0768 441 9902.\nA: Thanks, Desmond. Please keep this ticket, as we can't release the items without it, and note we close early at four p.m. on Thursdays.",
+    "group_id": "NIL-G08",
+    "stem": "What does the man want to do?",
+    "options": [
+      "Buy a new suit",
+      "Ask for a refund",
+      "Return a damaged coat",
+      "Drop off clothes for cleaning"
+    ],
+    "answer": 3,
+    "explain_zh": "男子打電話是要送洗一套西裝和一件羊毛大衣，這是對話開頭就說明的目的。其他選項如退貨或退款都沒有出現在對話中。",
+    "vocab": [
+      {
+        "w": "drop off",
+        "zh": "送交；放下",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0037",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Hello, Crystal Clean Dry Cleaners, how can I help?\nB: Hi, I'd like to drop off a suit and a wool coat for cleaning.\nA: Sure. The suit is twelve pounds and the coat is eighteen pounds, so that's thirty pounds together.\nB: There's also a stain on the coat sleeve, is that extra?\nA: Yes, stain removal is an additional eight pounds, so actually the total comes to thirty-eight pounds.\nB: Okay, that's fine. When will they be ready?\nA: Normally two days, but since it's a stain treatment, it'll take three days, ready by Thursday afternoon.\nB: Great, thank you.\nA: Can I have your name for the ticket?\nB: It's Desmond Achterberg — A-C-H-T-E-R-B-E-R-G.\nA: And a phone number in case of any issues?\nB: 0768 441 9902.\nA: Thanks, Desmond. Please keep this ticket, as we can't release the items without it, and note we close early at four p.m. on Thursdays.",
+    "group_id": "NIL-G08",
+    "stem": "What is the total cost of the cleaning?",
+    "options": [
+      "£38",
+      "£18",
+      "£40",
+      "£30"
+    ],
+    "answer": 0,
+    "explain_zh": "西裝和大衣加起來原本是三十鎊，但因為大衣袖子有污漬，加收去漬費八鎊，總共是三十八鎊。這題要把追加費用計算進去才是正確答案。",
+    "vocab": [
+      {
+        "w": "stain removal",
+        "zh": "去漬",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0038",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hello, Crystal Clean Dry Cleaners, how can I help?\nB: Hi, I'd like to drop off a suit and a wool coat for cleaning.\nA: Sure. The suit is twelve pounds and the coat is eighteen pounds, so that's thirty pounds together.\nB: There's also a stain on the coat sleeve, is that extra?\nA: Yes, stain removal is an additional eight pounds, so actually the total comes to thirty-eight pounds.\nB: Okay, that's fine. When will they be ready?\nA: Normally two days, but since it's a stain treatment, it'll take three days, ready by Thursday afternoon.\nB: Great, thank you.\nA: Can I have your name for the ticket?\nB: It's Desmond Achterberg — A-C-H-T-E-R-B-E-R-G.\nA: And a phone number in case of any issues?\nB: 0768 441 9902.\nA: Thanks, Desmond. Please keep this ticket, as we can't release the items without it, and note we close early at four p.m. on Thursdays.",
+    "group_id": "NIL-G08",
+    "stem": "When will the items be ready?",
+    "options": [
+      "Wednesday",
+      "Thursday afternoon",
+      "Friday morning",
+      "Tuesday"
+    ],
+    "answer": 1,
+    "explain_zh": "一般送洗只要兩天，但因為需要處理污漬，這次要三天，也就是週四下午才會好。數字時間題要聽出「因為某原因而延長」的更正語氣。",
+    "vocab": [
+      {
+        "w": "stain",
+        "zh": "污漬",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0039",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Hello, Crystal Clean Dry Cleaners, how can I help?\nB: Hi, I'd like to drop off a suit and a wool coat for cleaning.\nA: Sure. The suit is twelve pounds and the coat is eighteen pounds, so that's thirty pounds together.\nB: There's also a stain on the coat sleeve, is that extra?\nA: Yes, stain removal is an additional eight pounds, so actually the total comes to thirty-eight pounds.\nB: Okay, that's fine. When will they be ready?\nA: Normally two days, but since it's a stain treatment, it'll take three days, ready by Thursday afternoon.\nB: Great, thank you.\nA: Can I have your name for the ticket?\nB: It's Desmond Achterberg — A-C-H-T-E-R-B-E-R-G.\nA: And a phone number in case of any issues?\nB: 0768 441 9902.\nA: Thanks, Desmond. Please keep this ticket, as we can't release the items without it, and note we close early at four p.m. on Thursdays.",
+    "group_id": "NIL-G08",
+    "stem": "How is the man's surname spelled?",
+    "options": [
+      "ACHTERBURG",
+      "ACHTABERG",
+      "ACHTERBERG",
+      "ACHTENBERG"
+    ],
+    "answer": 2,
+    "explain_zh": "男子拼出 A-C-H-T-E-R-B-E-R-G，也就是 Achterberg，中間是 TER 不是 TEN，結尾是 BERG 不是 BURG。拼字題要仔細比對每個音節。",
+    "vocab": [
+      {
+        "w": "ticket",
+        "zh": "取件單；票根",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0040",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hello, Crystal Clean Dry Cleaners, how can I help?\nB: Hi, I'd like to drop off a suit and a wool coat for cleaning.\nA: Sure. The suit is twelve pounds and the coat is eighteen pounds, so that's thirty pounds together.\nB: There's also a stain on the coat sleeve, is that extra?\nA: Yes, stain removal is an additional eight pounds, so actually the total comes to thirty-eight pounds.\nB: Okay, that's fine. When will they be ready?\nA: Normally two days, but since it's a stain treatment, it'll take three days, ready by Thursday afternoon.\nB: Great, thank you.\nA: Can I have your name for the ticket?\nB: It's Desmond Achterberg — A-C-H-T-E-R-B-E-R-G.\nA: And a phone number in case of any issues?\nB: 0768 441 9902.\nA: Thanks, Desmond. Please keep this ticket, as we can't release the items without it, and note we close early at four p.m. on Thursdays.",
+    "group_id": "NIL-G08",
+    "stem": "What is required to collect the cleaned items?",
+    "options": [
+      "Cash payment",
+      "A phone call",
+      "A photo ID",
+      "The ticket"
+    ],
+    "answer": 3,
+    "explain_zh": "店員在最後提醒一定要保留取件單，因為沒有它無法領取衣物。這題考驗聽出結尾的注意事項細節。",
+    "vocab": [
+      {
+        "w": "release",
+        "zh": "釋出；交付",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0041",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Hi, welcome to QuickFix Phone Repairs.\nB: Hi, my phone screen is cracked, can you fix it?\nA: Sure, what model is it?\nB: It's a Galaxy S22.\nA: Okay, screen replacement for that model is fifty-five pounds, and it usually takes about two hours.\nB: Is there a cheaper option?\nA: There's a basic glass-only repair for thirty-five pounds, but actually that one isn't compatible with your model, so the full screen replacement is your only option.\nB: Alright, I'll go with that then.\nA: Great. We also need to check the battery, that's a free inspection. Can I get your name?\nB: It's Alina Kowalczyk — K-O-W-A-L-C-Z-Y-K.\nA: And your number, in case we need to reach you?\nB: 0781 226 5507.\nA: Thanks, Alina. Your phone will be ready by five p.m. today. Please back up your data beforehand, as we're not responsible for any data loss during repair.",
+    "group_id": "NIL-G09",
+    "stem": "What problem does the woman have?",
+    "options": [
+      "Her phone screen is cracked",
+      "Her phone won't turn on",
+      "Her phone charger is broken",
+      "Her phone battery is dead"
+    ],
+    "answer": 0,
+    "explain_zh": "女子的手機螢幕破裂，這是對話一開始就說明的問題。其餘選項如電池沒電、無法開機都沒有在對話中提到。",
+    "vocab": [
+      {
+        "w": "cracked",
+        "zh": "破裂的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0042",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Hi, welcome to QuickFix Phone Repairs.\nB: Hi, my phone screen is cracked, can you fix it?\nA: Sure, what model is it?\nB: It's a Galaxy S22.\nA: Okay, screen replacement for that model is fifty-five pounds, and it usually takes about two hours.\nB: Is there a cheaper option?\nA: There's a basic glass-only repair for thirty-five pounds, but actually that one isn't compatible with your model, so the full screen replacement is your only option.\nB: Alright, I'll go with that then.\nA: Great. We also need to check the battery, that's a free inspection. Can I get your name?\nB: It's Alina Kowalczyk — K-O-W-A-L-C-Z-Y-K.\nA: And your number, in case we need to reach you?\nB: 0781 226 5507.\nA: Thanks, Alina. Your phone will be ready by five p.m. today. Please back up your data beforehand, as we're not responsible for any data loss during repair.",
+    "group_id": "NIL-G09",
+    "stem": "Which repair option does the woman end up choosing?",
+    "options": [
+      "The basic glass-only repair",
+      "The full screen replacement",
+      "A battery replacement",
+      "A free inspection only"
+    ],
+    "answer": 1,
+    "explain_zh": "店員原本提到便宜的玻璃修復只要三十五鎊，但接著說明這個選項不適用於她的機型，所以她只能選擇完整螢幕更換。這是先提便宜選項再排除的陷阱題。",
+    "vocab": [
+      {
+        "w": "compatible",
+        "zh": "相容的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0043",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, welcome to QuickFix Phone Repairs.\nB: Hi, my phone screen is cracked, can you fix it?\nA: Sure, what model is it?\nB: It's a Galaxy S22.\nA: Okay, screen replacement for that model is fifty-five pounds, and it usually takes about two hours.\nB: Is there a cheaper option?\nA: There's a basic glass-only repair for thirty-five pounds, but actually that one isn't compatible with your model, so the full screen replacement is your only option.\nB: Alright, I'll go with that then.\nA: Great. We also need to check the battery, that's a free inspection. Can I get your name?\nB: It's Alina Kowalczyk — K-O-W-A-L-C-Z-Y-K.\nA: And your number, in case we need to reach you?\nB: 0781 226 5507.\nA: Thanks, Alina. Your phone will be ready by five p.m. today. Please back up your data beforehand, as we're not responsible for any data loss during repair.",
+    "group_id": "NIL-G09",
+    "stem": "How much does the screen replacement cost?",
+    "options": [
+      "£35",
+      "£45",
+      "£55",
+      "£65"
+    ],
+    "answer": 2,
+    "explain_zh": "店員說明該機型的螢幕更換費用是五十五鎊，這是對話中明確提到的數字，要與便宜方案的三十五鎊做區分。",
+    "vocab": [
+      {
+        "w": "replacement",
+        "zh": "更換；替換品",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0044",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Hi, welcome to QuickFix Phone Repairs.\nB: Hi, my phone screen is cracked, can you fix it?\nA: Sure, what model is it?\nB: It's a Galaxy S22.\nA: Okay, screen replacement for that model is fifty-five pounds, and it usually takes about two hours.\nB: Is there a cheaper option?\nA: There's a basic glass-only repair for thirty-five pounds, but actually that one isn't compatible with your model, so the full screen replacement is your only option.\nB: Alright, I'll go with that then.\nA: Great. We also need to check the battery, that's a free inspection. Can I get your name?\nB: It's Alina Kowalczyk — K-O-W-A-L-C-Z-Y-K.\nA: And your number, in case we need to reach you?\nB: 0781 226 5507.\nA: Thanks, Alina. Your phone will be ready by five p.m. today. Please back up your data beforehand, as we're not responsible for any data loss during repair.",
+    "group_id": "NIL-G09",
+    "stem": "How is the woman's surname spelled?",
+    "options": [
+      "KOWALCZYCK",
+      "KOVALCZYK",
+      "KOWALCYZK",
+      "KOWALCZYK"
+    ],
+    "answer": 3,
+    "explain_zh": "女子拼出 K-O-W-A-L-C-Z-Y-K，也就是 Kowalczyk，注意 C 和 Z 的順序是 CZY 而不是 CYZ。拼字題常在字母順序上設下陷阱。",
+    "vocab": [
+      {
+        "w": "inspection",
+        "zh": "檢查；檢驗",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0045",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, welcome to QuickFix Phone Repairs.\nB: Hi, my phone screen is cracked, can you fix it?\nA: Sure, what model is it?\nB: It's a Galaxy S22.\nA: Okay, screen replacement for that model is fifty-five pounds, and it usually takes about two hours.\nB: Is there a cheaper option?\nA: There's a basic glass-only repair for thirty-five pounds, but actually that one isn't compatible with your model, so the full screen replacement is your only option.\nB: Alright, I'll go with that then.\nA: Great. We also need to check the battery, that's a free inspection. Can I get your name?\nB: It's Alina Kowalczyk — K-O-W-A-L-C-Z-Y-K.\nA: And your number, in case we need to reach you?\nB: 0781 226 5507.\nA: Thanks, Alina. Your phone will be ready by five p.m. today. Please back up your data beforehand, as we're not responsible for any data loss during repair.",
+    "group_id": "NIL-G09",
+    "stem": "What should the woman do before leaving her phone for repair?",
+    "options": [
+      "Back up her data",
+      "Remove the phone case",
+      "Pay in advance",
+      "Turn off the phone"
+    ],
+    "answer": 0,
+    "explain_zh": "店員在最後提醒女子應該先備份資料，因為維修過程中若資料遺失，店家不負責任。這題考驗聽出結尾的重要提醒。",
+    "vocab": [
+      {
+        "w": "back up",
+        "zh": "備份",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0046",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:main-idea",
+    "tag_zh": "主旨理解",
+    "passage": "A: Hi, I'd like to sign up for a library card.\nB: Sure, do you live in this borough?\nA: Yes, I just moved here last month.\nB: Great, I'll need proof of address and photo ID. Do you have those with you?\nA: Yes, here's my ID and a utility bill.\nB: Perfect. The card itself is free for residents, but if you want to borrow DVDs and games, there's normally an annual fee of fifteen pounds — oh wait, actually that fee was removed last year, so DVD borrowing is free too now.\nA: Oh, that's great.\nB: You can borrow up to eight books at a time, for three weeks. Can I get your name for the card?\nA: It's Samuel Ezenwa — E-Z-E-N-W-A.\nB: And a phone number, in case a reserved book arrives?\nA: 0793 117 6642.\nB: Thanks, Samuel. Your card will be ready in about ten minutes, and it's valid for five years before it needs renewing.",
+    "group_id": "NIL-G10",
+    "stem": "What does the man want to do?",
+    "options": [
+      "Return overdue books",
+      "Sign up for a library card",
+      "Reserve a study room",
+      "Pay a late fee"
+    ],
+    "answer": 1,
+    "explain_zh": "男子是要辦理一張圖書館借閱證，這是對話一開始就說明的目的。其餘選項如歸還逾期書籍、預約自修室都沒有出現在對話中。",
+    "vocab": [
+      {
+        "w": "sign up for",
+        "zh": "報名；申辦",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0047",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:distractor",
+    "tag_zh": "陷阱誘答",
+    "passage": "A: Hi, I'd like to sign up for a library card.\nB: Sure, do you live in this borough?\nA: Yes, I just moved here last month.\nB: Great, I'll need proof of address and photo ID. Do you have those with you?\nA: Yes, here's my ID and a utility bill.\nB: Perfect. The card itself is free for residents, but if you want to borrow DVDs and games, there's normally an annual fee of fifteen pounds — oh wait, actually that fee was removed last year, so DVD borrowing is free too now.\nA: Oh, that's great.\nB: You can borrow up to eight books at a time, for three weeks. Can I get your name for the card?\nA: It's Samuel Ezenwa — E-Z-E-N-W-A.\nB: And a phone number, in case a reserved book arrives?\nA: 0793 117 6642.\nB: Thanks, Samuel. Your card will be ready in about ten minutes, and it's valid for five years before it needs renewing.",
+    "group_id": "NIL-G10",
+    "stem": "How much is the fee for borrowing DVDs now?",
+    "options": [
+      "£15 a year",
+      "£10 a year",
+      "Free",
+      "£5 a year"
+    ],
+    "answer": 2,
+    "explain_zh": "館員原本說借 DVD 每年要付十五鎊，但立刻更正說這項費用去年已經取消，現在借 DVD 也是免費的。這是典型先講舊規定再更正的陷阱題。",
+    "vocab": [
+      {
+        "w": "annual fee",
+        "zh": "年費",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0048",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:number-time",
+    "tag_zh": "數字時間",
+    "passage": "A: Hi, I'd like to sign up for a library card.\nB: Sure, do you live in this borough?\nA: Yes, I just moved here last month.\nB: Great, I'll need proof of address and photo ID. Do you have those with you?\nA: Yes, here's my ID and a utility bill.\nB: Perfect. The card itself is free for residents, but if you want to borrow DVDs and games, there's normally an annual fee of fifteen pounds — oh wait, actually that fee was removed last year, so DVD borrowing is free too now.\nA: Oh, that's great.\nB: You can borrow up to eight books at a time, for three weeks. Can I get your name for the card?\nA: It's Samuel Ezenwa — E-Z-E-N-W-A.\nB: And a phone number, in case a reserved book arrives?\nA: 0793 117 6642.\nB: Thanks, Samuel. Your card will be ready in about ten minutes, and it's valid for five years before it needs renewing.",
+    "group_id": "NIL-G10",
+    "stem": "How many books can the man borrow at once?",
+    "options": [
+      "Ten",
+      "Five",
+      "Six",
+      "Eight"
+    ],
+    "answer": 3,
+    "explain_zh": "館員說明一次最多可以借八本書，借閱期限是三週。這是明確提到的數字細節，要與借閱期限的三週分開記憶。",
+    "vocab": [
+      {
+        "w": "borrow",
+        "zh": "借閱",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0049",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:spelling",
+    "tag_zh": "拼字聽寫",
+    "passage": "A: Hi, I'd like to sign up for a library card.\nB: Sure, do you live in this borough?\nA: Yes, I just moved here last month.\nB: Great, I'll need proof of address and photo ID. Do you have those with you?\nA: Yes, here's my ID and a utility bill.\nB: Perfect. The card itself is free for residents, but if you want to borrow DVDs and games, there's normally an annual fee of fifteen pounds — oh wait, actually that fee was removed last year, so DVD borrowing is free too now.\nA: Oh, that's great.\nB: You can borrow up to eight books at a time, for three weeks. Can I get your name for the card?\nA: It's Samuel Ezenwa — E-Z-E-N-W-A.\nB: And a phone number, in case a reserved book arrives?\nA: 0793 117 6642.\nB: Thanks, Samuel. Your card will be ready in about ten minutes, and it's valid for five years before it needs renewing.",
+    "group_id": "NIL-G10",
+    "stem": "How is the man's surname spelled?",
+    "options": [
+      "EZENWA",
+      "EZENWU",
+      "EZEWNA",
+      "EZENWO"
+    ],
+    "answer": 0,
+    "explain_zh": "男子拼出 E-Z-E-N-W-A，也就是 Ezenwa，結尾是 WA 不是 WU 或 WO。拼字題要特別留意結尾母音的差異。",
+    "vocab": [
+      {
+        "w": "proof of address",
+        "zh": "地址證明",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NIL-0050",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "listening",
+    "tag": "listening:detail",
+    "tag_zh": "細節理解",
+    "passage": "A: Hi, I'd like to sign up for a library card.\nB: Sure, do you live in this borough?\nA: Yes, I just moved here last month.\nB: Great, I'll need proof of address and photo ID. Do you have those with you?\nA: Yes, here's my ID and a utility bill.\nB: Perfect. The card itself is free for residents, but if you want to borrow DVDs and games, there's normally an annual fee of fifteen pounds — oh wait, actually that fee was removed last year, so DVD borrowing is free too now.\nA: Oh, that's great.\nB: You can borrow up to eight books at a time, for three weeks. Can I get your name for the card?\nA: It's Samuel Ezenwa — E-Z-E-N-W-A.\nB: And a phone number, in case a reserved book arrives?\nA: 0793 117 6642.\nB: Thanks, Samuel. Your card will be ready in about ten minutes, and it's valid for five years before it needs renewing.",
+    "group_id": "NIL-G10",
+    "stem": "What documents does the man need to provide?",
+    "options": [
+      "A student card",
+      "Proof of address and photo ID",
+      "A bank statement only",
+      "A passport and a bill"
+    ],
+    "answer": 1,
+    "explain_zh": "館員說明辦卡需要地址證明和附照片的身分證件，男子出示了身分證和帳單。這題考驗聽出對話中段的具體要求。",
+    "vocab": [
+      {
+        "w": "resident",
+        "zh": "居民",
+        "pos": "n."
+      }
+    ]
+  }
+]

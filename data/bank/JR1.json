@@ -1,0 +1,2887 @@
+[
+ {
+  "id": "JR1-0001",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "NOTICE: Library Reading Week\nFrom Monday, May 6 to Friday, May 10, the school library will hold its yearly Reading Week. During this week, every student may borrow five books instead of the usual three, and the library will stay open until 6:30 p.m.\nOn Wednesday afternoon, the writer Lin Mei-hua will visit us. She will talk about how she turns everyday life into short stories. Her talk starts at 2:00 p.m. in the reading room on the second floor. Seats are limited, so please sign up at the front desk before Tuesday noon.\nWe also need six students to help put books back on the shelves after school. Helpers will receive a free bookmark and one extra service point.\nPlease remember: food and drinks are still not allowed inside the library. Thank you for keeping our reading space quiet and clean.",
+  "group_id": "JR1-RG01",
+  "stem": "What is the main purpose of this notice?",
+  "options": [
+   "To tell students about a special week at the library.",
+   "To explain how to become a librarian after school.",
+   "To announce that the library will close for repairs.",
+   "To introduce a new writing class for teachers."
+  ],
+  "answer": 0,
+  "explain_zh": "整篇公告都在說明「閱讀週」期間的借書規定、作家演講與幫忙事項，所以主旨是介紹圖書館的特別週。公告沒有提到關閉整修，也不是在徵圖書館員或開寫作課。看公告題先看標題，標題常常就是主旨。",
+  "vocab": [
+   {
+    "w": "notice",
+    "zh": "公告",
+    "pos": "n."
+   },
+   {
+    "w": "borrow",
+    "zh": "借入",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0002",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "NOTICE: Library Reading Week\nFrom Monday, May 6 to Friday, May 10, the school library will hold its yearly Reading Week. During this week, every student may borrow five books instead of the usual three, and the library will stay open until 6:30 p.m.\nOn Wednesday afternoon, the writer Lin Mei-hua will visit us. She will talk about how she turns everyday life into short stories. Her talk starts at 2:00 p.m. in the reading room on the second floor. Seats are limited, so please sign up at the front desk before Tuesday noon.\nWe also need six students to help put books back on the shelves after school. Helpers will receive a free bookmark and one extra service point.\nPlease remember: food and drinks are still not allowed inside the library. Thank you for keeping our reading space quiet and clean.",
+  "group_id": "JR1-RG01",
+  "stem": "How many books may a student borrow during Reading Week?",
+  "options": [
+   "Three",
+   "Five",
+   "Six",
+   "Ten"
+  ],
+  "answer": 1,
+  "explain_zh": "公告寫 every student may borrow five books instead of the usual three，閱讀週可借五本，平常才是三本。Six 是需要幫忙的學生人數，Ten 文中沒有提到。看到 instead of 要分清楚「新規定」和「舊規定」。",
+  "vocab": [
+   {
+    "w": "instead of",
+    "zh": "而不是",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0003",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "NOTICE: Library Reading Week\nFrom Monday, May 6 to Friday, May 10, the school library will hold its yearly Reading Week. During this week, every student may borrow five books instead of the usual three, and the library will stay open until 6:30 p.m.\nOn Wednesday afternoon, the writer Lin Mei-hua will visit us. She will talk about how she turns everyday life into short stories. Her talk starts at 2:00 p.m. in the reading room on the second floor. Seats are limited, so please sign up at the front desk before Tuesday noon.\nWe also need six students to help put books back on the shelves after school. Helpers will receive a free bookmark and one extra service point.\nPlease remember: food and drinks are still not allowed inside the library. Thank you for keeping our reading space quiet and clean.",
+  "group_id": "JR1-RG01",
+  "stem": "What does the notice suggest about the seats for the talk?",
+  "options": [
+   "Only teachers may sit in the reading room.",
+   "The talk will be held twice on Wednesday.",
+   "Students should sign up early because seats may run out.",
+   "Students must pay to enter the reading room."
+  ],
+  "answer": 2,
+  "explain_zh": "文中說 Seats are limited，並要求週二中午前報名，可推論座位不多、要早點報名。公告沒有說要付費、辦兩場，也沒有限制只有老師能參加。limited 常暗示「先報先贏」。",
+  "vocab": [
+   {
+    "w": "sign up",
+    "zh": "報名",
+    "pos": "phr."
+   },
+   {
+    "w": "seat",
+    "zh": "座位",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0004",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "NOTICE: Library Reading Week\nFrom Monday, May 6 to Friday, May 10, the school library will hold its yearly Reading Week. During this week, every student may borrow five books instead of the usual three, and the library will stay open until 6:30 p.m.\nOn Wednesday afternoon, the writer Lin Mei-hua will visit us. She will talk about how she turns everyday life into short stories. Her talk starts at 2:00 p.m. in the reading room on the second floor. Seats are limited, so please sign up at the front desk before Tuesday noon.\nWe also need six students to help put books back on the shelves after school. Helpers will receive a free bookmark and one extra service point.\nPlease remember: food and drinks are still not allowed inside the library. Thank you for keeping our reading space quiet and clean.",
+  "group_id": "JR1-RG01",
+  "stem": "The word \"limited\" in the notice is closest in meaning to ____.",
+  "options": [
+   "free of charge",
+   "very expensive",
+   "very comfortable",
+   "not many"
+  ],
+  "answer": 3,
+  "explain_zh": "limited 在這裡指數量有限、不多，所以是 not many。後一句要大家先報名，也印證座位數量少。limited 不是「免費」或「舒服」，不要看到 seats 就聯想成座位品質。",
+  "vocab": [
+   {
+    "w": "limited",
+    "zh": "有限的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0005",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "NOTICE: Library Reading Week\nFrom Monday, May 6 to Friday, May 10, the school library will hold its yearly Reading Week. During this week, every student may borrow five books instead of the usual three, and the library will stay open until 6:30 p.m.\nOn Wednesday afternoon, the writer Lin Mei-hua will visit us. She will talk about how she turns everyday life into short stories. Her talk starts at 2:00 p.m. in the reading room on the second floor. Seats are limited, so please sign up at the front desk before Tuesday noon.\nWe also need six students to help put books back on the shelves after school. Helpers will receive a free bookmark and one extra service point.\nPlease remember: food and drinks are still not allowed inside the library. Thank you for keeping our reading space quiet and clean.",
+  "group_id": "JR1-RG01",
+  "stem": "In the last paragraph, what does \"our reading space\" refer to?",
+  "options": [
+   "The school library",
+   "The night market",
+   "The school playground",
+   "The teachers' office"
+  ],
+  "answer": 0,
+  "explain_zh": "整篇公告談的地點就是學校圖書館，最後提醒不能帶飲食進去，our reading space 指的就是圖書館。操場、辦公室和夜市都沒有在文中出現。代名詞或指代詞要往前找最靠近、最合理的名詞。",
+  "vocab": [
+   {
+    "w": "allow",
+    "zh": "允許",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0006",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "To: ms.chen@greenhill.edu.tw\nFrom: wang.yu-ting@mail.greenhill.tw\nSubject: Class trip to the science museum\n\nDear Ms. Chen,\nI am writing to ask about the class trip next Friday. My mother wants to know what time we will come back, because she has to pick up my little brother at five o'clock.\nI also have two questions about the day. First, do we need to bring our own lunch, or can we buy food at the museum? Second, my classmate Jason hurt his leg last week and still walks very slowly. Could he join the group that takes the lift instead of the stairs?\nI have already paid the two hundred dollars for the ticket, but I have not handed in the parent form yet. I will give it to you on Monday morning.\nThank you for your help.\nBest wishes,\nYu-ting",
+  "group_id": "JR1-RG02",
+  "stem": "Why did Yu-ting write this email?",
+  "options": [
+   "To say sorry for missing a class trip.",
+   "To ask her teacher questions about the trip.",
+   "To invite Ms. Chen to her home on Friday.",
+   "To complain about the price of the ticket."
+  ],
+  "answer": 1,
+  "explain_zh": "信中提出回程時間、午餐和 Jason 的行動問題，目的就是向老師提問。她並沒有道歉、抱怨票價，也沒有邀請老師。寫信題先看 Subject 和第一句，通常就點出目的。",
+  "vocab": [
+   {
+    "w": "trip",
+    "zh": "旅行",
+    "pos": "n."
+   },
+   {
+    "w": "museum",
+    "zh": "博物館",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0007",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "To: ms.chen@greenhill.edu.tw\nFrom: wang.yu-ting@mail.greenhill.tw\nSubject: Class trip to the science museum\n\nDear Ms. Chen,\nI am writing to ask about the class trip next Friday. My mother wants to know what time we will come back, because she has to pick up my little brother at five o'clock.\nI also have two questions about the day. First, do we need to bring our own lunch, or can we buy food at the museum? Second, my classmate Jason hurt his leg last week and still walks very slowly. Could he join the group that takes the lift instead of the stairs?\nI have already paid the two hundred dollars for the ticket, but I have not handed in the parent form yet. I will give it to you on Monday morning.\nThank you for your help.\nBest wishes,\nYu-ting",
+  "group_id": "JR1-RG02",
+  "stem": "Why does Yu-ting's mother want to know the return time?",
+  "options": [
+   "She wants to join the class trip.",
+   "She needs to buy the ticket first.",
+   "She must pick up Yu-ting's younger brother.",
+   "She works at the science museum."
+  ],
+  "answer": 2,
+  "explain_zh": "信中說媽媽五點要去接弟弟，所以想知道幾點回來。媽媽沒有要一起去，也沒有在博物館上班。看到 because 後面就是原因，要仔細對應。",
+  "vocab": [
+   {
+    "w": "pick up",
+    "zh": "接（人）",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0008",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "To: ms.chen@greenhill.edu.tw\nFrom: wang.yu-ting@mail.greenhill.tw\nSubject: Class trip to the science museum\n\nDear Ms. Chen,\nI am writing to ask about the class trip next Friday. My mother wants to know what time we will come back, because she has to pick up my little brother at five o'clock.\nI also have two questions about the day. First, do we need to bring our own lunch, or can we buy food at the museum? Second, my classmate Jason hurt his leg last week and still walks very slowly. Could he join the group that takes the lift instead of the stairs?\nI have already paid the two hundred dollars for the ticket, but I have not handed in the parent form yet. I will give it to you on Monday morning.\nThank you for your help.\nBest wishes,\nYu-ting",
+  "group_id": "JR1-RG02",
+  "stem": "What can we infer about Jason?",
+  "options": [
+   "He does not want to join the trip.",
+   "He has already paid for two tickets.",
+   "He is the tallest boy in the class.",
+   "Climbing stairs is hard for him right now."
+  ],
+  "answer": 3,
+  "explain_zh": "信中說 Jason 上週弄傷腿、走得很慢，而且希望搭電梯而不是走樓梯，可推論爬樓梯對他來說很吃力。文中沒有提到他不想去或身高。推論題要用文中的線索，而不是自己的想像。",
+  "vocab": [
+   {
+    "w": "hurt",
+    "zh": "弄傷",
+    "pos": "v."
+   },
+   {
+    "w": "lift",
+    "zh": "電梯",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0009",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "To: ms.chen@greenhill.edu.tw\nFrom: wang.yu-ting@mail.greenhill.tw\nSubject: Class trip to the science museum\n\nDear Ms. Chen,\nI am writing to ask about the class trip next Friday. My mother wants to know what time we will come back, because she has to pick up my little brother at five o'clock.\nI also have two questions about the day. First, do we need to bring our own lunch, or can we buy food at the museum? Second, my classmate Jason hurt his leg last week and still walks very slowly. Could he join the group that takes the lift instead of the stairs?\nI have already paid the two hundred dollars for the ticket, but I have not handed in the parent form yet. I will give it to you on Monday morning.\nThank you for your help.\nBest wishes,\nYu-ting",
+  "group_id": "JR1-RG02",
+  "stem": "The phrase \"handed in\" in the email is closest in meaning to ____.",
+  "options": [
+   "given to someone in charge",
+   "paid for in cash",
+   "thrown away",
+   "written by hand"
+  ],
+  "answer": 0,
+  "explain_zh": "hand in 是「繳交」，指把表格交給老師，所以最接近 given to someone in charge。她已經付了錢，付款用的是 paid，和 hand in 不同。hand in 常和 homework、form 搭配。",
+  "vocab": [
+   {
+    "w": "hand in",
+    "zh": "繳交",
+    "pos": "phr."
+   },
+   {
+    "w": "form",
+    "zh": "表格",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0010",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "To: ms.chen@greenhill.edu.tw\nFrom: wang.yu-ting@mail.greenhill.tw\nSubject: Class trip to the science museum\n\nDear Ms. Chen,\nI am writing to ask about the class trip next Friday. My mother wants to know what time we will come back, because she has to pick up my little brother at five o'clock.\nI also have two questions about the day. First, do we need to bring our own lunch, or can we buy food at the museum? Second, my classmate Jason hurt his leg last week and still walks very slowly. Could he join the group that takes the lift instead of the stairs?\nI have already paid the two hundred dollars for the ticket, but I have not handed in the parent form yet. I will give it to you on Monday morning.\nThank you for your help.\nBest wishes,\nYu-ting",
+  "group_id": "JR1-RG02",
+  "stem": "What does \"it\" in the last paragraph refer to?",
+  "options": [
+   "The two hundred dollars",
+   "The parent form",
+   "The lunch box",
+   "The museum ticket"
+  ],
+  "answer": 1,
+  "explain_zh": "前一句說「還沒繳家長同意書」，接著說 I will give it to you，所以 it 指那張表格。錢已經付了，票和午餐也不是要交給老師的東西。it 通常指前一句剛提到的名詞。",
+  "vocab": [
+   {
+    "w": "already",
+    "zh": "已經",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0011",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "The bar chart shows how the two hundred students of Year 9 travel to school every day. The biggest group, eighty students, comes by bus. The second biggest group walks: fifty students live near the school and need less than fifteen minutes to get there. Forty students ride a bicycle, and twenty students are driven by their parents. Only ten students come by MRT, because the nearest station is still two kilometres away.\nThe chart also shows a clear difference between sunny days and rainy days. On rainy days, the number of students who ride a bicycle drops to about fifteen, while the number of students in their parents' cars almost doubles. Teachers say this is why the school gate becomes so crowded when it rains.",
+  "group_id": "JR1-RG03",
+  "stem": "What is the chart mainly about?",
+  "options": [
+   "Which subjects Year 9 students like best.",
+   "How much money students spend on transport.",
+   "How Year 9 students travel to school.",
+   "How long students study after school."
+  ],
+  "answer": 2,
+  "explain_zh": "第一句就說明圖表顯示學生每天怎麼上學，後面全是交通方式的人數，所以主旨是上學交通方式。圖表沒有提到科目、花費或讀書時間。圖表說明題先讀第一句的 The chart shows...。",
+  "vocab": [
+   {
+    "w": "chart",
+    "zh": "圖表",
+    "pos": "n."
+   },
+   {
+    "w": "travel",
+    "zh": "前往；旅行",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0012",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "The bar chart shows how the two hundred students of Year 9 travel to school every day. The biggest group, eighty students, comes by bus. The second biggest group walks: fifty students live near the school and need less than fifteen minutes to get there. Forty students ride a bicycle, and twenty students are driven by their parents. Only ten students come by MRT, because the nearest station is still two kilometres away.\nThe chart also shows a clear difference between sunny days and rainy days. On rainy days, the number of students who ride a bicycle drops to about fifteen, while the number of students in their parents' cars almost doubles. Teachers say this is why the school gate becomes so crowded when it rains.",
+  "group_id": "JR1-RG03",
+  "stem": "How many students walk to school?",
+  "options": [
+   "Eighty",
+   "Forty",
+   "Twenty",
+   "Fifty"
+  ],
+  "answer": 3,
+  "explain_zh": "文中說 fifty students live near the school 並用走路，所以是五十人。八十人是搭公車，四十人騎腳踏車，二十人坐父母的車。數字題要把每個數字和對應的交通方式配好。",
+  "vocab": [
+   {
+    "w": "walk",
+    "zh": "走路",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0013",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "The bar chart shows how the two hundred students of Year 9 travel to school every day. The biggest group, eighty students, comes by bus. The second biggest group walks: fifty students live near the school and need less than fifteen minutes to get there. Forty students ride a bicycle, and twenty students are driven by their parents. Only ten students come by MRT, because the nearest station is still two kilometres away.\nThe chart also shows a clear difference between sunny days and rainy days. On rainy days, the number of students who ride a bicycle drops to about fifteen, while the number of students in their parents' cars almost doubles. Teachers say this is why the school gate becomes so crowded when it rains.",
+  "group_id": "JR1-RG03",
+  "stem": "Why do so few students come by MRT?",
+  "options": [
+   "The nearest station is too far away.",
+   "The MRT is closed in the morning.",
+   "The MRT ticket is too expensive.",
+   "Students are not allowed to take the MRT."
+  ],
+  "answer": 0,
+  "explain_zh": "文中說最近的捷運站還有兩公里遠，因此只有十人搭捷運，距離就是原因。文章沒有提到票價、營運時間或校規。看到 because 引導的句子就是推論的依據。",
+  "vocab": [
+   {
+    "w": "station",
+    "zh": "車站",
+    "pos": "n."
+   },
+   {
+    "w": "kilometre",
+    "zh": "公里",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0014",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "The bar chart shows how the two hundred students of Year 9 travel to school every day. The biggest group, eighty students, comes by bus. The second biggest group walks: fifty students live near the school and need less than fifteen minutes to get there. Forty students ride a bicycle, and twenty students are driven by their parents. Only ten students come by MRT, because the nearest station is still two kilometres away.\nThe chart also shows a clear difference between sunny days and rainy days. On rainy days, the number of students who ride a bicycle drops to about fifteen, while the number of students in their parents' cars almost doubles. Teachers say this is why the school gate becomes so crowded when it rains.",
+  "group_id": "JR1-RG03",
+  "stem": "The word \"doubles\" in the chart description means ____.",
+  "options": [
+   "drops to zero",
+   "becomes twice as large",
+   "stays the same",
+   "changes every hour"
+  ],
+  "answer": 1,
+  "explain_zh": "double 當動詞是「變成兩倍」，文中指下雨天坐父母車的人數幾乎變兩倍。若是維持不變會用 stays the same，變成零則會用 drops。記住 double 名詞是「兩倍」，動詞是「加倍」。",
+  "vocab": [
+   {
+    "w": "double",
+    "zh": "加倍",
+    "pos": "v."
+   },
+   {
+    "w": "drop",
+    "zh": "下降",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0015",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "The bar chart shows how the two hundred students of Year 9 travel to school every day. The biggest group, eighty students, comes by bus. The second biggest group walks: fifty students live near the school and need less than fifteen minutes to get there. Forty students ride a bicycle, and twenty students are driven by their parents. Only ten students come by MRT, because the nearest station is still two kilometres away.\nThe chart also shows a clear difference between sunny days and rainy days. On rainy days, the number of students who ride a bicycle drops to about fifteen, while the number of students in their parents' cars almost doubles. Teachers say this is why the school gate becomes so crowded when it rains.",
+  "group_id": "JR1-RG03",
+  "stem": "In the last sentence, what does \"this\" refer to?",
+  "options": [
+   "The number of students in Year 9.",
+   "The time students need to walk to school.",
+   "More parents drive their children on rainy days.",
+   "The distance between the school and the station."
+  ],
+  "answer": 2,
+  "explain_zh": "最後一句說 this is why the school gate becomes so crowded，前面剛說下雨天坐父母車的人幾乎加倍，所以 this 指的是這件事。校門口會塞是因為車變多，不是因為距離或走路時間。this 常回指前一句整件事，而不只是一個字。",
+  "vocab": [
+   {
+    "w": "crowded",
+    "zh": "擁擠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0016",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "Last summer, A-hao worked at his uncle's drink stand in the night market. He hated it at first. The stand was hot, the lines were long, and his uncle never let him rest.\nOne rainy Tuesday, an old woman came and ordered a cup of winter melon tea. When she opened her purse, she found only twelve dollars. She turned to leave without a word. A-hao stopped her, paid the rest from his own pocket, and passed her the cup with both hands.\nThree weeks later, a food writer wrote about the stand in a magazine. She said the drink was sweet, but the young man behind the counter was sweeter. The old woman, it turned out, was her mother.\nA-hao still complains about the heat, but now he smiles when he says it.",
+  "group_id": "JR1-RG04",
+  "stem": "What is the best title for this story?",
+  "options": [
+   "A Hot Summer in the Classroom",
+   "How to Make Winter Melon Tea",
+   "The Busiest Night Market in Taiwan",
+   "A Small Kindness Comes Back"
+  ],
+  "answer": 3,
+  "explain_zh": "故事講 A-hao 幫老太太付錢，後來雜誌報導讓他被稱讚，主線是善意得到回報。文章不是教做飲料，也不是介紹夜市或教室。選標題要挑涵蓋整個故事的句子，而不是只提到一個細節。",
+  "vocab": [
+   {
+    "w": "kindness",
+    "zh": "善意",
+    "pos": "n."
+   },
+   {
+    "w": "stand",
+    "zh": "攤子",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0017",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Last summer, A-hao worked at his uncle's drink stand in the night market. He hated it at first. The stand was hot, the lines were long, and his uncle never let him rest.\nOne rainy Tuesday, an old woman came and ordered a cup of winter melon tea. When she opened her purse, she found only twelve dollars. She turned to leave without a word. A-hao stopped her, paid the rest from his own pocket, and passed her the cup with both hands.\nThree weeks later, a food writer wrote about the stand in a magazine. She said the drink was sweet, but the young man behind the counter was sweeter. The old woman, it turned out, was her mother.\nA-hao still complains about the heat, but now he smiles when he says it.",
+  "group_id": "JR1-RG04",
+  "stem": "What did the old woman order at the stand?",
+  "options": [
+   "A cup of winter melon tea",
+   "A bowl of hot noodles",
+   "A bottle of milk",
+   "A cup of black coffee"
+  ],
+  "answer": 0,
+  "explain_zh": "文中明確寫她點了一杯冬瓜茶。麵、牛奶和咖啡都沒有出現在故事裡。細節題把選項拿回原文比對最安全。",
+  "vocab": [
+   {
+    "w": "order",
+    "zh": "點（餐）",
+    "pos": "v."
+   },
+   {
+    "w": "purse",
+    "zh": "錢包",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0018",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "Last summer, A-hao worked at his uncle's drink stand in the night market. He hated it at first. The stand was hot, the lines were long, and his uncle never let him rest.\nOne rainy Tuesday, an old woman came and ordered a cup of winter melon tea. When she opened her purse, she found only twelve dollars. She turned to leave without a word. A-hao stopped her, paid the rest from his own pocket, and passed her the cup with both hands.\nThree weeks later, a food writer wrote about the stand in a magazine. She said the drink was sweet, but the young man behind the counter was sweeter. The old woman, it turned out, was her mother.\nA-hao still complains about the heat, but now he smiles when he says it.",
+  "group_id": "JR1-RG04",
+  "stem": "Why does A-hao feel different about the job now?",
+  "options": [
+   "His uncle now pays him much more money.",
+   "People began to praise him for his kindness.",
+   "The stand moved to a cooler place.",
+   "He no longer has to work on rainy days."
+  ],
+  "answer": 1,
+  "explain_zh": "雜誌報導稱讚他比飲料更甜，之後他提到熱時會笑，可推論是因為被肯定而心情改變。文中沒有提到加薪或換地點。推論題要找「結果」前面的原因線索。",
+  "vocab": [
+   {
+    "w": "praise",
+    "zh": "稱讚",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0019",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "Last summer, A-hao worked at his uncle's drink stand in the night market. He hated it at first. The stand was hot, the lines were long, and his uncle never let him rest.\nOne rainy Tuesday, an old woman came and ordered a cup of winter melon tea. When she opened her purse, she found only twelve dollars. She turned to leave without a word. A-hao stopped her, paid the rest from his own pocket, and passed her the cup with both hands.\nThree weeks later, a food writer wrote about the stand in a magazine. She said the drink was sweet, but the young man behind the counter was sweeter. The old woman, it turned out, was her mother.\nA-hao still complains about the heat, but now he smiles when he says it.",
+  "group_id": "JR1-RG04",
+  "stem": "The phrase \"complains about\" is closest in meaning to ____.",
+  "options": [
+   "feels thankful for",
+   "asks questions about",
+   "says he is not happy about",
+   "keeps a secret about"
+  ],
+  "answer": 2,
+  "explain_zh": "complain about 是抱怨、表達不滿，所以最接近 says he is not happy about。感謝是 thank，發問是 ask，都與抱怨不同。complain 後面常接 about + 名詞。",
+  "vocab": [
+   {
+    "w": "complain",
+    "zh": "抱怨",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0020",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "Last summer, A-hao worked at his uncle's drink stand in the night market. He hated it at first. The stand was hot, the lines were long, and his uncle never let him rest.\nOne rainy Tuesday, an old woman came and ordered a cup of winter melon tea. When she opened her purse, she found only twelve dollars. She turned to leave without a word. A-hao stopped her, paid the rest from his own pocket, and passed her the cup with both hands.\nThree weeks later, a food writer wrote about the stand in a magazine. She said the drink was sweet, but the young man behind the counter was sweeter. The old woman, it turned out, was her mother.\nA-hao still complains about the heat, but now he smiles when he says it.",
+  "group_id": "JR1-RG04",
+  "stem": "In the last sentence, what does \"it\" refer to?",
+  "options": [
+   "The magazine article",
+   "The old woman's purse",
+   "The uncle's advice",
+   "The heat at the stand"
+  ],
+  "answer": 3,
+  "explain_zh": "最後一句是 he still complains about the heat... when he says it，it 指他口中抱怨的「熱」。雜誌報導和錢包都不是他嘴上說的那件事。遇到 says it 要往前找他說的內容。",
+  "vocab": [
+   {
+    "w": "heat",
+    "zh": "熱氣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0021",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "Every day, Taiwan throws away enough food to fill more than two thousand rubbish trucks. Most of this waste does not come from restaurants; it comes from ordinary kitchens. People buy too much, forget what is already in the fridge, and throw away food that is still safe to eat.\nWasting food also wastes water and energy. Growing one kilogram of rice needs about two thousand litres of water. When the rice ends up in the bin, all that water is wasted too.\nThe good news is that small habits help. Make a list before shopping. Put older food at the front of the fridge. Cook only what your family can finish. Some schools now weigh their lunch waste every week and show the number on a board. After one term, one junior high school in Taichung cut its lunch waste by almost half.",
+  "group_id": "JR1-RG05",
+  "stem": "What is the main idea of this passage?",
+  "options": [
+   "Food waste is serious, but daily habits can reduce it.",
+   "Restaurants in Taiwan produce almost no rubbish.",
+   "Growing rice is the best way to save water.",
+   "Schools should stop serving lunch to students."
+  ],
+  "answer": 0,
+  "explain_zh": "文章先說廚餘問題嚴重，再說浪費水和能源，最後提出可行的小習慣，所以主旨是問題加上解決方法。文中說餐廳不是主因，但沒有說餐廳沒有垃圾；也沒有主張停止供餐。主旨題要涵蓋「問題」和「對策」兩部分。",
+  "vocab": [
+   {
+    "w": "waste",
+    "zh": "浪費；廢棄物",
+    "pos": "n./v."
+   },
+   {
+    "w": "habit",
+    "zh": "習慣",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0022",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Every day, Taiwan throws away enough food to fill more than two thousand rubbish trucks. Most of this waste does not come from restaurants; it comes from ordinary kitchens. People buy too much, forget what is already in the fridge, and throw away food that is still safe to eat.\nWasting food also wastes water and energy. Growing one kilogram of rice needs about two thousand litres of water. When the rice ends up in the bin, all that water is wasted too.\nThe good news is that small habits help. Make a list before shopping. Put older food at the front of the fridge. Cook only what your family can finish. Some schools now weigh their lunch waste every week and show the number on a board. After one term, one junior high school in Taichung cut its lunch waste by almost half.",
+  "group_id": "JR1-RG05",
+  "stem": "According to the passage, where does most food waste come from?",
+  "options": [
+   "Night markets",
+   "Ordinary home kitchens",
+   "School kitchens",
+   "Large farms"
+  ],
+  "answer": 1,
+  "explain_zh": "文中說大部分廚餘不是來自餐廳，而是來自一般家庭廚房。夜市和農場文章沒有提到。看到 not... ; it comes from... 的句型，答案在分號後面。",
+  "vocab": [
+   {
+    "w": "ordinary",
+    "zh": "一般的",
+    "pos": "adj."
+   },
+   {
+    "w": "fridge",
+    "zh": "冰箱",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0023",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "Every day, Taiwan throws away enough food to fill more than two thousand rubbish trucks. Most of this waste does not come from restaurants; it comes from ordinary kitchens. People buy too much, forget what is already in the fridge, and throw away food that is still safe to eat.\nWasting food also wastes water and energy. Growing one kilogram of rice needs about two thousand litres of water. When the rice ends up in the bin, all that water is wasted too.\nThe good news is that small habits help. Make a list before shopping. Put older food at the front of the fridge. Cook only what your family can finish. Some schools now weigh their lunch waste every week and show the number on a board. After one term, one junior high school in Taichung cut its lunch waste by almost half.",
+  "group_id": "JR1-RG05",
+  "stem": "Why does the writer mention the school in Taichung?",
+  "options": [
+   "To show that students eat too much rice.",
+   "To explain how to grow better vegetables.",
+   "To prove that simple actions really work.",
+   "To ask the government for more money."
+  ],
+  "answer": 2,
+  "explain_zh": "那所學校每週秤廚餘並公布數字，一學期後廚餘少了近一半，是用來證明小習慣真的有效。文章沒有向政府要錢，也沒有談種菜。舉例通常是為了支持前面提出的論點。",
+  "vocab": [
+   {
+    "w": "weigh",
+    "zh": "秤重",
+    "pos": "v."
+   },
+   {
+    "w": "term",
+    "zh": "學期",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0024",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "Every day, Taiwan throws away enough food to fill more than two thousand rubbish trucks. Most of this waste does not come from restaurants; it comes from ordinary kitchens. People buy too much, forget what is already in the fridge, and throw away food that is still safe to eat.\nWasting food also wastes water and energy. Growing one kilogram of rice needs about two thousand litres of water. When the rice ends up in the bin, all that water is wasted too.\nThe good news is that small habits help. Make a list before shopping. Put older food at the front of the fridge. Cook only what your family can finish. Some schools now weigh their lunch waste every week and show the number on a board. After one term, one junior high school in Taichung cut its lunch waste by almost half.",
+  "group_id": "JR1-RG05",
+  "stem": "The phrase \"ends up in the bin\" is closest in meaning to ____.",
+  "options": [
+   "is cooked again",
+   "is sold at a low price",
+   "is shared with neighbours",
+   "is finally thrown away"
+  ],
+  "answer": 3,
+  "explain_zh": "bin 是垃圾桶，end up 是「最後落得」，合起來就是最後被丟掉。文章接著說那些水也白費了，正呼應被丟棄的意思。end up + 地點或 V-ing 表示最後的結果。",
+  "vocab": [
+   {
+    "w": "bin",
+    "zh": "垃圾桶",
+    "pos": "n."
+   },
+   {
+    "w": "end up",
+    "zh": "最終變成",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0025",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "Every day, Taiwan throws away enough food to fill more than two thousand rubbish trucks. Most of this waste does not come from restaurants; it comes from ordinary kitchens. People buy too much, forget what is already in the fridge, and throw away food that is still safe to eat.\nWasting food also wastes water and energy. Growing one kilogram of rice needs about two thousand litres of water. When the rice ends up in the bin, all that water is wasted too.\nThe good news is that small habits help. Make a list before shopping. Put older food at the front of the fridge. Cook only what your family can finish. Some schools now weigh their lunch waste every week and show the number on a board. After one term, one junior high school in Taichung cut its lunch waste by almost half.",
+  "group_id": "JR1-RG05",
+  "stem": "What does \"all that water\" refer to?",
+  "options": [
+   "The water used to grow the rice",
+   "The rain that falls in summer",
+   "The water students drink at school",
+   "The water in the rubbish trucks"
+  ],
+  "answer": 0,
+  "explain_zh": "前一句說種一公斤米要約兩千公升的水，所以 all that water 指種那些米所用的水。雨水和飲用水都不是前文提到的內容。that 加名詞通常回指剛剛講過的具體東西。",
+  "vocab": [
+   {
+    "w": "litre",
+    "zh": "公升",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0026",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "SUNSHINE SUMMER CAMP - Two Weeks, One New You!\nAre you tired of sitting at a desk all summer? Join Sunshine Summer Camp in Hualien from July 8 to July 19. Every morning you will study English with teachers from Canada and Australia. In the afternoon you will swim, climb, cook, or learn to make short videos.\nThe price is NT$12,000 and includes meals, a bed in a four-person room, and all activity fees. Bring only clothes, a water bottle, and a smile. Students who sign up before June 1 pay only NT$10,500.\nOur camp is small. We take just forty students, and last year we were full by the middle of May. Call 03-8765-4321 or scan the code on this page. Parents are welcome to visit on the last afternoon.",
+  "group_id": "JR1-RG06",
+  "stem": "What is the purpose of this advertisement?",
+  "options": [
+   "To sell English textbooks to parents.",
+   "To invite students to join a summer camp.",
+   "To look for teachers from Canada.",
+   "To introduce a new hotel in Hualien."
+  ],
+  "answer": 1,
+  "explain_zh": "廣告介紹營隊時間、課程、價格和報名方式，目的是吸引學生參加夏令營。它不是賣書、找老師或介紹旅館。廣告題看標題和 Join... 這種祈使句最快。",
+  "vocab": [
+   {
+    "w": "camp",
+    "zh": "營隊",
+    "pos": "n."
+   },
+   {
+    "w": "activity",
+    "zh": "活動",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0027",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "SUNSHINE SUMMER CAMP - Two Weeks, One New You!\nAre you tired of sitting at a desk all summer? Join Sunshine Summer Camp in Hualien from July 8 to July 19. Every morning you will study English with teachers from Canada and Australia. In the afternoon you will swim, climb, cook, or learn to make short videos.\nThe price is NT$12,000 and includes meals, a bed in a four-person room, and all activity fees. Bring only clothes, a water bottle, and a smile. Students who sign up before June 1 pay only NT$10,500.\nOur camp is small. We take just forty students, and last year we were full by the middle of May. Call 03-8765-4321 or scan the code on this page. Parents are welcome to visit on the last afternoon.",
+  "group_id": "JR1-RG06",
+  "stem": "How much does a student pay if she signs up in May?",
+  "options": [
+   "NT$12,000",
+   "NT$4,321",
+   "NT$10,500",
+   "NT$19,000"
+  ],
+  "answer": 2,
+  "explain_zh": "廣告說六月一日前報名只要 NT$10,500，五月報名當然在期限內。NT$12,000 是原價，4321 是電話號碼的一部分。價格題要注意「早鳥優惠」的條件日期。",
+  "vocab": [
+   {
+    "w": "price",
+    "zh": "價格",
+    "pos": "n."
+   },
+   {
+    "w": "include",
+    "zh": "包含",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0028",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "SUNSHINE SUMMER CAMP - Two Weeks, One New You!\nAre you tired of sitting at a desk all summer? Join Sunshine Summer Camp in Hualien from July 8 to July 19. Every morning you will study English with teachers from Canada and Australia. In the afternoon you will swim, climb, cook, or learn to make short videos.\nThe price is NT$12,000 and includes meals, a bed in a four-person room, and all activity fees. Bring only clothes, a water bottle, and a smile. Students who sign up before June 1 pay only NT$10,500.\nOur camp is small. We take just forty students, and last year we were full by the middle of May. Call 03-8765-4321 or scan the code on this page. Parents are welcome to visit on the last afternoon.",
+  "group_id": "JR1-RG06",
+  "stem": "What does the advertisement suggest about signing up?",
+  "options": [
+   "Students can pay after the camp ends.",
+   "Only students from Hualien may join.",
+   "Parents must stay for the whole camp.",
+   "Students should book early because places run out."
+  ],
+  "answer": 3,
+  "explain_zh": "廣告說只收四十人，去年五月中就額滿，暗示要早點報名。家長只在最後一天下午來訪，也沒有限制只收花蓮學生。推論題要注意數字背後的意思。",
+  "vocab": [
+   {
+    "w": "sign up",
+    "zh": "報名",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0029",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "SUNSHINE SUMMER CAMP - Two Weeks, One New You!\nAre you tired of sitting at a desk all summer? Join Sunshine Summer Camp in Hualien from July 8 to July 19. Every morning you will study English with teachers from Canada and Australia. In the afternoon you will swim, climb, cook, or learn to make short videos.\nThe price is NT$12,000 and includes meals, a bed in a four-person room, and all activity fees. Bring only clothes, a water bottle, and a smile. Students who sign up before June 1 pay only NT$10,500.\nOur camp is small. We take just forty students, and last year we were full by the middle of May. Call 03-8765-4321 or scan the code on this page. Parents are welcome to visit on the last afternoon.",
+  "group_id": "JR1-RG06",
+  "stem": "In this advertisement, \"includes\" is closest in meaning to ____.",
+  "options": [
+   "already covers",
+   "costs extra",
+   "gives back",
+   "takes away"
+  ],
+  "answer": 0,
+  "explain_zh": "includes 表示價格已經含餐費、住宿和活動費，所以是 already covers。若要另外付費會寫 extra 或 not included。學生常把 include 誤解成「另外加購」，要特別小心。",
+  "vocab": [
+   {
+    "w": "meal",
+    "zh": "一餐",
+    "pos": "n."
+   },
+   {
+    "w": "fee",
+    "zh": "費用",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0030",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "SUNSHINE SUMMER CAMP - Two Weeks, One New You!\nAre you tired of sitting at a desk all summer? Join Sunshine Summer Camp in Hualien from July 8 to July 19. Every morning you will study English with teachers from Canada and Australia. In the afternoon you will swim, climb, cook, or learn to make short videos.\nThe price is NT$12,000 and includes meals, a bed in a four-person room, and all activity fees. Bring only clothes, a water bottle, and a smile. Students who sign up before June 1 pay only NT$10,500.\nOur camp is small. We take just forty students, and last year we were full by the middle of May. Call 03-8765-4321 or scan the code on this page. Parents are welcome to visit on the last afternoon.",
+  "group_id": "JR1-RG06",
+  "stem": "In the last paragraph, who does \"we\" refer to?",
+  "options": [
+   "The students who join the camp",
+   "The people who run the camp",
+   "The parents of the students",
+   "The teachers from Australia only"
+  ],
+  "answer": 1,
+  "explain_zh": "We take just forty students 是主辦單位在說話，所以 we 指辦營隊的人。學生是被收的對象，家長只是受邀參觀。廣告中的 we 幾乎都是指刊登廣告的一方。",
+  "vocab": [
+   {
+    "w": "welcome",
+    "zh": "歡迎的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0031",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "[Chat record - Group 4 science report]\nKai: Hi everyone. Mr. Lo said the report is due next Thursday, not Tuesday.\nMei: Great, that gives us four more days. Have you finished the part about solar panels?\nKai: Almost. I still need two photos of the ones on the school roof.\nBen: I can take them tomorrow at lunch. I bring my camera on Fridays anyway.\nMei: Thanks. I will put the charts together tonight and send them before ten.\nKai: Please use bigger numbers this time. The last chart was hard to read on the screen.\nMei: Fine, fine. Ben, don't forget the cover page.\nBen: Already done. I used a dark blue background. If anyone hates it, say so now.\nKai: It looks good. Let's meet in the computer room on Monday after school.",
+  "group_id": "JR1-RG07",
+  "stem": "What are the three students mainly doing in this chat?",
+  "options": [
+   "Choosing a place for a school trip.",
+   "Asking the teacher to change a test date.",
+   "Dividing the work for a science report.",
+   "Complaining about a difficult classmate."
+  ],
+  "answer": 2,
+  "explain_zh": "三人分別負責照片、圖表和封面，還約時間見面，所以是在分配報告工作。他們沒有討論旅行，也沒有要求改考試日期。對話紀錄題要看每個人「答應做什麼」。",
+  "vocab": [
+   {
+    "w": "report",
+    "zh": "報告",
+    "pos": "n."
+   },
+   {
+    "w": "cover page",
+    "zh": "封面",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0032",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "[Chat record - Group 4 science report]\nKai: Hi everyone. Mr. Lo said the report is due next Thursday, not Tuesday.\nMei: Great, that gives us four more days. Have you finished the part about solar panels?\nKai: Almost. I still need two photos of the ones on the school roof.\nBen: I can take them tomorrow at lunch. I bring my camera on Fridays anyway.\nMei: Thanks. I will put the charts together tonight and send them before ten.\nKai: Please use bigger numbers this time. The last chart was hard to read on the screen.\nMei: Fine, fine. Ben, don't forget the cover page.\nBen: Already done. I used a dark blue background. If anyone hates it, say so now.\nKai: It looks good. Let's meet in the computer room on Monday after school.",
+  "group_id": "JR1-RG07",
+  "stem": "What will Ben do at lunchtime tomorrow?",
+  "options": [
+   "Print the whole report.",
+   "Send the charts to Mei.",
+   "Book the computer room.",
+   "Take photos of the solar panels."
+  ],
+  "answer": 3,
+  "explain_zh": "Ben 說他明天午餐時間可以去拍屋頂上太陽能板的照片。圖表是 Mei 負責，電腦教室是週一才去。細節題要把「誰做什麼」對清楚，不要張冠李戴。",
+  "vocab": [
+   {
+    "w": "solar panel",
+    "zh": "太陽能板",
+    "pos": "n."
+   },
+   {
+    "w": "roof",
+    "zh": "屋頂",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0033",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "[Chat record - Group 4 science report]\nKai: Hi everyone. Mr. Lo said the report is due next Thursday, not Tuesday.\nMei: Great, that gives us four more days. Have you finished the part about solar panels?\nKai: Almost. I still need two photos of the ones on the school roof.\nBen: I can take them tomorrow at lunch. I bring my camera on Fridays anyway.\nMei: Thanks. I will put the charts together tonight and send them before ten.\nKai: Please use bigger numbers this time. The last chart was hard to read on the screen.\nMei: Fine, fine. Ben, don't forget the cover page.\nBen: Already done. I used a dark blue background. If anyone hates it, say so now.\nKai: It looks good. Let's meet in the computer room on Monday after school.",
+  "group_id": "JR1-RG07",
+  "stem": "What day is it most likely to be when they chat?",
+  "options": [
+   "Thursday",
+   "Saturday",
+   "Sunday",
+   "Monday"
+  ],
+  "answer": 0,
+  "explain_zh": "Ben 說他星期五都會帶相機，而且「明天」就能拍照，所以今天最可能是星期四。週末不上學，週一則與最後約定的見面日矛盾。推論日期要把「明天」和固定習慣結合起來看。",
+  "vocab": [
+   {
+    "w": "anyway",
+    "zh": "反正",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0034",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "[Chat record - Group 4 science report]\nKai: Hi everyone. Mr. Lo said the report is due next Thursday, not Tuesday.\nMei: Great, that gives us four more days. Have you finished the part about solar panels?\nKai: Almost. I still need two photos of the ones on the school roof.\nBen: I can take them tomorrow at lunch. I bring my camera on Fridays anyway.\nMei: Thanks. I will put the charts together tonight and send them before ten.\nKai: Please use bigger numbers this time. The last chart was hard to read on the screen.\nMei: Fine, fine. Ben, don't forget the cover page.\nBen: Already done. I used a dark blue background. If anyone hates it, say so now.\nKai: It looks good. Let's meet in the computer room on Monday after school.",
+  "group_id": "JR1-RG07",
+  "stem": "In this chat, \"due\" is closest in meaning to ____.",
+  "options": [
+   "too difficult to finish",
+   "must be handed in",
+   "already graded",
+   "written by a teacher"
+  ],
+  "answer": 1,
+  "explain_zh": "be due 指「到期、必須交出」，所以報告下週四要交。它不是指難度或已經打分數。due 後面常接 on + 日期。",
+  "vocab": [
+   {
+    "w": "due",
+    "zh": "到期的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0035",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "[Chat record - Group 4 science report]\nKai: Hi everyone. Mr. Lo said the report is due next Thursday, not Tuesday.\nMei: Great, that gives us four more days. Have you finished the part about solar panels?\nKai: Almost. I still need two photos of the ones on the school roof.\nBen: I can take them tomorrow at lunch. I bring my camera on Fridays anyway.\nMei: Thanks. I will put the charts together tonight and send them before ten.\nKai: Please use bigger numbers this time. The last chart was hard to read on the screen.\nMei: Fine, fine. Ben, don't forget the cover page.\nBen: Already done. I used a dark blue background. If anyone hates it, say so now.\nKai: It looks good. Let's meet in the computer room on Monday after school.",
+  "group_id": "JR1-RG07",
+  "stem": "What does \"it\" in \"If anyone hates it\" refer to?",
+  "options": [
+   "The science teacher's rule",
+   "The photo of the roof",
+   "The dark blue cover page",
+   "The computer room"
+  ],
+  "answer": 2,
+  "explain_zh": "Ben 剛說他做好封面、用了深藍底色，接著問有沒有人討厭，it 指那個封面設計。照片是 Ben 明天才要拍的，教室與喜好無關。對話中的 it 多半指說話者上一句提到的東西。",
+  "vocab": [
+   {
+    "w": "background",
+    "zh": "背景",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0036",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "My First Ride Around Sun Moon Lake\nPosted by Hsiao-chun, 2 October\nI am not a sporty person. Before this trip, my longest bike ride was the twenty minutes from my flat to the MRT station. So when my cousin asked me to cycle around Sun Moon Lake with her, I said yes mostly because I was too shy to say no.\nWe started at six in the morning. The first hour was lovely - cool air, quiet water, almost no cars. The second hour was a different story. My legs hurt, and the hills near Xuanguang Temple seemed to grow taller every minute.\nI finished in three hours and forty minutes, which is slow. But standing there with my cheap bike and my terrible hair, I felt something I had not felt for years: proud of my own body.\nNext month, we are trying the east coast.",
+  "group_id": "JR1-RG08",
+  "stem": "What is this blog post mainly about?",
+  "options": [
+   "A guide to the cheapest hotels near the lake.",
+   "A warning about dangerous roads in the mountains.",
+   "A report on how many people visit Sun Moon Lake.",
+   "A beginner's story about finishing a long bike ride."
+  ],
+  "answer": 3,
+  "explain_zh": "作者說自己不愛運動，描述騎車過程的辛苦，最後為自己感到驕傲，是一篇個人經驗分享。文章沒有介紹旅館價格，也不是統計報告。部落格常以「我」的經驗為主軸。",
+  "vocab": [
+   {
+    "w": "sporty",
+    "zh": "愛運動的",
+    "pos": "adj."
+   },
+   {
+    "w": "cousin",
+    "zh": "堂（表）兄弟姊妹",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0037",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "My First Ride Around Sun Moon Lake\nPosted by Hsiao-chun, 2 October\nI am not a sporty person. Before this trip, my longest bike ride was the twenty minutes from my flat to the MRT station. So when my cousin asked me to cycle around Sun Moon Lake with her, I said yes mostly because I was too shy to say no.\nWe started at six in the morning. The first hour was lovely - cool air, quiet water, almost no cars. The second hour was a different story. My legs hurt, and the hills near Xuanguang Temple seemed to grow taller every minute.\nI finished in three hours and forty minutes, which is slow. But standing there with my cheap bike and my terrible hair, I felt something I had not felt for years: proud of my own body.\nNext month, we are trying the east coast.",
+  "group_id": "JR1-RG08",
+  "stem": "Why did the writer agree to go on the ride?",
+  "options": [
+   "She felt too shy to refuse her cousin.",
+   "She wanted to win a cycling race.",
+   "Her school gave her extra points.",
+   "She had trained for the ride all year."
+  ],
+  "answer": 0,
+  "explain_zh": "文中說她答應主要是因為太害羞、不好意思拒絕。她沒有受過訓練，也沒有比賽或加分的說法。看到 because 後面就是理由，不要被其他細節干擾。",
+  "vocab": [
+   {
+    "w": "shy",
+    "zh": "害羞的",
+    "pos": "adj."
+   },
+   {
+    "w": "refuse",
+    "zh": "拒絕",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0038",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "My First Ride Around Sun Moon Lake\nPosted by Hsiao-chun, 2 October\nI am not a sporty person. Before this trip, my longest bike ride was the twenty minutes from my flat to the MRT station. So when my cousin asked me to cycle around Sun Moon Lake with her, I said yes mostly because I was too shy to say no.\nWe started at six in the morning. The first hour was lovely - cool air, quiet water, almost no cars. The second hour was a different story. My legs hurt, and the hills near Xuanguang Temple seemed to grow taller every minute.\nI finished in three hours and forty minutes, which is slow. But standing there with my cheap bike and my terrible hair, I felt something I had not felt for years: proud of my own body.\nNext month, we are trying the east coast.",
+  "group_id": "JR1-RG08",
+  "stem": "How does the writer feel about her finishing time?",
+  "options": [
+   "She is angry that her cousin was faster.",
+   "It is slow, but she is still proud of herself.",
+   "She thinks the time is a national record.",
+   "She regrets taking part in the ride."
+  ],
+  "answer": 1,
+  "explain_zh": "她說三小時四十分算慢，但接著說自己感到驕傲，還計畫下個月挑戰東海岸，可見並不後悔。文中沒有提到與表姊比較或紀錄。轉折詞 But 後面往往是作者真正的情緒。",
+  "vocab": [
+   {
+    "w": "proud",
+    "zh": "驕傲的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0039",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "My First Ride Around Sun Moon Lake\nPosted by Hsiao-chun, 2 October\nI am not a sporty person. Before this trip, my longest bike ride was the twenty minutes from my flat to the MRT station. So when my cousin asked me to cycle around Sun Moon Lake with her, I said yes mostly because I was too shy to say no.\nWe started at six in the morning. The first hour was lovely - cool air, quiet water, almost no cars. The second hour was a different story. My legs hurt, and the hills near Xuanguang Temple seemed to grow taller every minute.\nI finished in three hours and forty minutes, which is slow. But standing there with my cheap bike and my terrible hair, I felt something I had not felt for years: proud of my own body.\nNext month, we are trying the east coast.",
+  "group_id": "JR1-RG08",
+  "stem": "The phrase \"a different story\" in this post means ____.",
+  "options": [
+   "a book she read on the way",
+   "a joke her cousin told",
+   "much harder than before",
+   "a shorter road to the lake"
+  ],
+  "answer": 2,
+  "explain_zh": "第一小時舒服，第二小時腿痠又爬坡，a different story 指情況完全不同、變得更難。它在這裡不是真的「故事」。遇到片語要看上下文，不能逐字翻譯。",
+  "vocab": [
+   {
+    "w": "hill",
+    "zh": "山坡",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0040",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "My First Ride Around Sun Moon Lake\nPosted by Hsiao-chun, 2 October\nI am not a sporty person. Before this trip, my longest bike ride was the twenty minutes from my flat to the MRT station. So when my cousin asked me to cycle around Sun Moon Lake with her, I said yes mostly because I was too shy to say no.\nWe started at six in the morning. The first hour was lovely - cool air, quiet water, almost no cars. The second hour was a different story. My legs hurt, and the hills near Xuanguang Temple seemed to grow taller every minute.\nI finished in three hours and forty minutes, which is slow. But standing there with my cheap bike and my terrible hair, I felt something I had not felt for years: proud of my own body.\nNext month, we are trying the east coast.",
+  "group_id": "JR1-RG08",
+  "stem": "What does \"there\" refer to in the third paragraph?",
+  "options": [
+   "At the MRT station near her flat",
+   "In the classroom on Monday morning",
+   "At her cousin's house in Taichung",
+   "At the place where she finished the ride"
+  ],
+  "answer": 3,
+  "explain_zh": "她說 standing there with my cheap bike，指的是騎完全程、停下來的終點。捷運站是她以前最遠的距離，不是這次的地點。there 要回到前一句所描述的場景去找。",
+  "vocab": [
+   {
+    "w": "finish",
+    "zh": "完成",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0041",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "Students Build Robot That Sorts Rubbish\nTAINAN - Six students from Nanmen Junior High School won first prize at a national science fair last Saturday with a robot that sorts rubbish by itself.\nThe machine uses a small camera and a simple program. When a bottle or a can passes on the belt, the camera takes a picture, and the robot pushes the object into the right box. In a test, it put ninety-two out of one hundred items in the correct place.\nTeam leader Chen Wei-ting, 15, said the hardest part was not the program but the money. The group could not afford new parts, so they used an old printer motor and a phone camera from a repair shop.\nThe city government says it will lend the team a workshop next term. The students hope to test their robot in a real market.",
+  "group_id": "JR1-RG09",
+  "stem": "What is the news report mainly about?",
+  "options": [
+   "Junior high students won a prize with a rubbish-sorting robot.",
+   "A city government opened a new recycling factory.",
+   "A science fair was cancelled because of bad weather.",
+   "A repair shop started selling second-hand cameras."
+  ],
+  "answer": 0,
+  "explain_zh": "報導開頭就說六名國中生用自製分類機器人拿下全國科展第一名，後面都是補充說明。工廠、取消和二手相機都不是重點。新聞題第一段通常就是主旨。",
+  "vocab": [
+   {
+    "w": "prize",
+    "zh": "獎項",
+    "pos": "n."
+   },
+   {
+    "w": "sort",
+    "zh": "分類",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0042",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Students Build Robot That Sorts Rubbish\nTAINAN - Six students from Nanmen Junior High School won first prize at a national science fair last Saturday with a robot that sorts rubbish by itself.\nThe machine uses a small camera and a simple program. When a bottle or a can passes on the belt, the camera takes a picture, and the robot pushes the object into the right box. In a test, it put ninety-two out of one hundred items in the correct place.\nTeam leader Chen Wei-ting, 15, said the hardest part was not the program but the money. The group could not afford new parts, so they used an old printer motor and a phone camera from a repair shop.\nThe city government says it will lend the team a workshop next term. The students hope to test their robot in a real market.",
+  "group_id": "JR1-RG09",
+  "stem": "In the test, how many of the 100 items went into the right box?",
+  "options": [
+   "Eighty-two",
+   "Ninety-two",
+   "One hundred",
+   "Fifteen"
+  ],
+  "answer": 1,
+  "explain_zh": "文中說 ninety-two out of one hundred items 放對位置，所以是九十二個。15 是隊長的年齡，不是成績。數字題要看清楚數字後面接的是什麼名詞。",
+  "vocab": [
+   {
+    "w": "item",
+    "zh": "物品",
+    "pos": "n."
+   },
+   {
+    "w": "correct",
+    "zh": "正確的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0043",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "Students Build Robot That Sorts Rubbish\nTAINAN - Six students from Nanmen Junior High School won first prize at a national science fair last Saturday with a robot that sorts rubbish by itself.\nThe machine uses a small camera and a simple program. When a bottle or a can passes on the belt, the camera takes a picture, and the robot pushes the object into the right box. In a test, it put ninety-two out of one hundred items in the correct place.\nTeam leader Chen Wei-ting, 15, said the hardest part was not the program but the money. The group could not afford new parts, so they used an old printer motor and a phone camera from a repair shop.\nThe city government says it will lend the team a workshop next term. The students hope to test their robot in a real market.",
+  "group_id": "JR1-RG09",
+  "stem": "Why did the team use an old printer motor?",
+  "options": [
+   "The teacher asked them to recycle it.",
+   "New motors are too heavy for the robot.",
+   "They did not have enough money for new parts.",
+   "Old motors work faster than new ones."
+  ],
+  "answer": 2,
+  "explain_zh": "隊長說最難的不是程式而是錢，因為買不起新零件才用舊馬達和手機相機。文中沒有說舊零件比較快或比較輕。推論題要把兩個相鄰句子連起來看。",
+  "vocab": [
+   {
+    "w": "afford",
+    "zh": "負擔得起",
+    "pos": "v."
+   },
+   {
+    "w": "motor",
+    "zh": "馬達",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0044",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "Students Build Robot That Sorts Rubbish\nTAINAN - Six students from Nanmen Junior High School won first prize at a national science fair last Saturday with a robot that sorts rubbish by itself.\nThe machine uses a small camera and a simple program. When a bottle or a can passes on the belt, the camera takes a picture, and the robot pushes the object into the right box. In a test, it put ninety-two out of one hundred items in the correct place.\nTeam leader Chen Wei-ting, 15, said the hardest part was not the program but the money. The group could not afford new parts, so they used an old printer motor and a phone camera from a repair shop.\nThe city government says it will lend the team a workshop next term. The students hope to test their robot in a real market.",
+  "group_id": "JR1-RG09",
+  "stem": "In this report, \"sorts\" is closest in meaning to ____.",
+  "options": [
+   "burns completely",
+   "washes with water",
+   "counts one by one",
+   "puts into groups"
+  ],
+  "answer": 3,
+  "explain_zh": "sort 在這裡是「分類」，機器人把瓶罐推進正確的箱子，就是分門別類。它不是焚燒、清洗或單純計數。名詞 a sort of 是「一種」，動詞則是分類。",
+  "vocab": [
+   {
+    "w": "belt",
+    "zh": "輸送帶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0045",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "Students Build Robot That Sorts Rubbish\nTAINAN - Six students from Nanmen Junior High School won first prize at a national science fair last Saturday with a robot that sorts rubbish by itself.\nThe machine uses a small camera and a simple program. When a bottle or a can passes on the belt, the camera takes a picture, and the robot pushes the object into the right box. In a test, it put ninety-two out of one hundred items in the correct place.\nTeam leader Chen Wei-ting, 15, said the hardest part was not the program but the money. The group could not afford new parts, so they used an old printer motor and a phone camera from a repair shop.\nThe city government says it will lend the team a workshop next term. The students hope to test their robot in a real market.",
+  "group_id": "JR1-RG09",
+  "stem": "What does \"The machine\" in the second paragraph refer to?",
+  "options": [
+   "The rubbish-sorting robot",
+   "The printer in the office",
+   "The camera of the food writer",
+   "The bus to the science fair"
+  ],
+  "answer": 0,
+  "explain_zh": "第二段開頭的 The machine 指第一段提到的分類機器人，接著說明它如何運作。印表機只是零件來源，不是整台機器。看到 The + 名詞，要回前文找已經介紹過的對象。",
+  "vocab": [
+   {
+    "w": "program",
+    "zh": "程式",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0046",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "Dear Grandma,\nI am writing this on the beach in Penghu, so please forgive the sand on the paper. We arrived on Wednesday by boat, because the plane tickets were all sold out.\nThe weather here is windy but sunny. Yesterday Dad rented two scooters and we rode along the coast to see the old stone traps that fishermen built hundreds of years ago. Mum took about two hundred photos. I ate three bowls of noodles with fresh squid and I am not sorry at all.\nTomorrow we will visit the small island where your sister lived when she was young. Mum says the old house is still standing. I will take a picture of it for you.\nWe come home on Sunday night. I miss your soup.\nLove,\nWei-wei",
+  "group_id": "JR1-RG10",
+  "stem": "Why did Wei-wei write this postcard?",
+  "options": [
+   "To ask Grandma to send more money.",
+   "To tell Grandma about the family trip.",
+   "To invite Grandma to move to Penghu.",
+   "To say sorry for breaking a camera."
+  ],
+  "answer": 1,
+  "explain_zh": "明信片描述天氣、活動和行程，是在分享澎湖之旅的情形。她沒有要錢、沒有邀祖母搬家，也沒有弄壞相機。明信片題常見目的就是「報告近況」。",
+  "vocab": [
+   {
+    "w": "postcard",
+    "zh": "明信片",
+    "pos": "n."
+   },
+   {
+    "w": "forgive",
+    "zh": "原諒",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0047",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Dear Grandma,\nI am writing this on the beach in Penghu, so please forgive the sand on the paper. We arrived on Wednesday by boat, because the plane tickets were all sold out.\nThe weather here is windy but sunny. Yesterday Dad rented two scooters and we rode along the coast to see the old stone traps that fishermen built hundreds of years ago. Mum took about two hundred photos. I ate three bowls of noodles with fresh squid and I am not sorry at all.\nTomorrow we will visit the small island where your sister lived when she was young. Mum says the old house is still standing. I will take a picture of it for you.\nWe come home on Sunday night. I miss your soup.\nLove,\nWei-wei",
+  "group_id": "JR1-RG10",
+  "stem": "How did the family get to Penghu?",
+  "options": [
+   "By train",
+   "By plane",
+   "By boat",
+   "By scooter"
+  ],
+  "answer": 2,
+  "explain_zh": "文中說他們星期三搭船抵達，因為機票全部賣完了。機車是到了之後才租的，火車根本沒提到。交通方式題要注意「抵達」和「當地移動」的差別。",
+  "vocab": [
+   {
+    "w": "arrive",
+    "zh": "抵達",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0048",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "Dear Grandma,\nI am writing this on the beach in Penghu, so please forgive the sand on the paper. We arrived on Wednesday by boat, because the plane tickets were all sold out.\nThe weather here is windy but sunny. Yesterday Dad rented two scooters and we rode along the coast to see the old stone traps that fishermen built hundreds of years ago. Mum took about two hundred photos. I ate three bowls of noodles with fresh squid and I am not sorry at all.\nTomorrow we will visit the small island where your sister lived when she was young. Mum says the old house is still standing. I will take a picture of it for you.\nWe come home on Sunday night. I miss your soup.\nLove,\nWei-wei",
+  "group_id": "JR1-RG10",
+  "stem": "Why didn't the family fly to Penghu?",
+  "options": [
+   "The airport was closed by a storm.",
+   "Flying is much more expensive than boats.",
+   "Grandma asked them to take the boat.",
+   "There were no plane tickets left."
+  ],
+  "answer": 3,
+  "explain_zh": "信中說 the plane tickets were all sold out，也就是票都賣光了。文中沒有提到機場關閉或價格比較。sold out 是「售完」，是判斷的關鍵線索。",
+  "vocab": [
+   {
+    "w": "sold out",
+    "zh": "售完",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0049",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "Dear Grandma,\nI am writing this on the beach in Penghu, so please forgive the sand on the paper. We arrived on Wednesday by boat, because the plane tickets were all sold out.\nThe weather here is windy but sunny. Yesterday Dad rented two scooters and we rode along the coast to see the old stone traps that fishermen built hundreds of years ago. Mum took about two hundred photos. I ate three bowls of noodles with fresh squid and I am not sorry at all.\nTomorrow we will visit the small island where your sister lived when she was young. Mum says the old house is still standing. I will take a picture of it for you.\nWe come home on Sunday night. I miss your soup.\nLove,\nWei-wei",
+  "group_id": "JR1-RG10",
+  "stem": "The word \"rented\" in the postcard is closest in meaning to ____.",
+  "options": [
+   "paid to use for a short time",
+   "bought as a gift",
+   "borrowed and never returned",
+   "repaired by himself"
+  ],
+  "answer": 0,
+  "explain_zh": "rent 是付錢租用一段時間，爸爸租了兩台機車去海邊。買下來會用 bought，修理則是 repair。rent 常用在租車、租房。",
+  "vocab": [
+   {
+    "w": "rent",
+    "zh": "租用",
+    "pos": "v."
+   },
+   {
+    "w": "coast",
+    "zh": "海岸",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0050",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "Dear Grandma,\nI am writing this on the beach in Penghu, so please forgive the sand on the paper. We arrived on Wednesday by boat, because the plane tickets were all sold out.\nThe weather here is windy but sunny. Yesterday Dad rented two scooters and we rode along the coast to see the old stone traps that fishermen built hundreds of years ago. Mum took about two hundred photos. I ate three bowls of noodles with fresh squid and I am not sorry at all.\nTomorrow we will visit the small island where your sister lived when she was young. Mum says the old house is still standing. I will take a picture of it for you.\nWe come home on Sunday night. I miss your soup.\nLove,\nWei-wei",
+  "group_id": "JR1-RG10",
+  "stem": "What does \"the old house\" refer to?",
+  "options": [
+   "The hotel where the family stays",
+   "The house where Grandma's sister lived",
+   "The shop that sells squid noodles",
+   "The building near the boat station"
+  ],
+  "answer": 1,
+  "explain_zh": "前一句說要去祖母姊姊小時候住的小島，因此 the old house 指她當年住的房子。旅館和小吃店與這句無關。指代題要往前一句找同一個話題的名詞。",
+  "vocab": [
+   {
+    "w": "island",
+    "zh": "島嶼",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0051",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "HOW TO USE THE CAMPUS SHARED BIKES\n1. Open the app and press the blue button. The lock number will appear on your screen.\n2. Turn the four small wheels on the lock until the numbers match, then pull the lock open.\n3. Check the tyres and the brakes before you ride. If something is broken, press \"Report\" in the app and take another bike.\n4. The first thirty minutes are free for students. After that, each half hour costs ten dollars.\n5. When you finish, return the bike to any campus station, close the lock, and turn the numbers away from your code.\nPlease do not lock the bike outside a station. The app will keep counting your time, and you will pay for hours you did not ride. Riding two people on one bike is never allowed.",
+  "group_id": "JR1-RG11",
+  "stem": "What do these instructions mainly explain?",
+  "options": [
+   "How to repair a broken bicycle lock.",
+   "How to buy a cheap bicycle on campus.",
+   "How to borrow and return a campus bike.",
+   "How to ride safely in heavy traffic."
+  ],
+  "answer": 2,
+  "explain_zh": "五個步驟從開鎖、檢查、收費講到還車，整體就是借還校園共享單車的方法。它不是教修理或買車，也不是交通安全守則。說明文題要看步驟涵蓋的範圍。",
+  "vocab": [
+   {
+    "w": "instructions",
+    "zh": "使用說明",
+    "pos": "n."
+   },
+   {
+    "w": "lock",
+    "zh": "鎖",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0052",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "HOW TO USE THE CAMPUS SHARED BIKES\n1. Open the app and press the blue button. The lock number will appear on your screen.\n2. Turn the four small wheels on the lock until the numbers match, then pull the lock open.\n3. Check the tyres and the brakes before you ride. If something is broken, press \"Report\" in the app and take another bike.\n4. The first thirty minutes are free for students. After that, each half hour costs ten dollars.\n5. When you finish, return the bike to any campus station, close the lock, and turn the numbers away from your code.\nPlease do not lock the bike outside a station. The app will keep counting your time, and you will pay for hours you did not ride. Riding two people on one bike is never allowed.",
+  "group_id": "JR1-RG11",
+  "stem": "What should you do if the brakes do not work?",
+  "options": [
+   "Ride slowly and finish your trip.",
+   "Pay ten dollars at the station.",
+   "Turn the four wheels back to zero.",
+   "Report it in the app and take another bike."
+  ],
+  "answer": 3,
+  "explain_zh": "第三步說發現壞掉就在 app 按 Report 並換另一台車。文中沒有叫人慢慢騎或付錢。安全相關的指示通常寫在「檢查」那一步。",
+  "vocab": [
+   {
+    "w": "brake",
+    "zh": "煞車",
+    "pos": "n."
+   },
+   {
+    "w": "report",
+    "zh": "回報",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0053",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "HOW TO USE THE CAMPUS SHARED BIKES\n1. Open the app and press the blue button. The lock number will appear on your screen.\n2. Turn the four small wheels on the lock until the numbers match, then pull the lock open.\n3. Check the tyres and the brakes before you ride. If something is broken, press \"Report\" in the app and take another bike.\n4. The first thirty minutes are free for students. After that, each half hour costs ten dollars.\n5. When you finish, return the bike to any campus station, close the lock, and turn the numbers away from your code.\nPlease do not lock the bike outside a station. The app will keep counting your time, and you will pay for hours you did not ride. Riding two people on one bike is never allowed.",
+  "group_id": "JR1-RG11",
+  "stem": "What will happen if you lock the bike outside a station?",
+  "options": [
+   "You will be charged for time you did not ride.",
+   "The app will give you thirty free minutes.",
+   "The school will send you a new password.",
+   "Another student can unlock it for free."
+  ],
+  "answer": 0,
+  "explain_zh": "最後一段說 app 會繼續計時，你要付沒有騎的時數，所以會被多收錢。文中沒有提到送免費時間或換密碼。推論題常出現在警告句 Please do not... 之後。",
+  "vocab": [
+   {
+    "w": "charge",
+    "zh": "收費",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0054",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "HOW TO USE THE CAMPUS SHARED BIKES\n1. Open the app and press the blue button. The lock number will appear on your screen.\n2. Turn the four small wheels on the lock until the numbers match, then pull the lock open.\n3. Check the tyres and the brakes before you ride. If something is broken, press \"Report\" in the app and take another bike.\n4. The first thirty minutes are free for students. After that, each half hour costs ten dollars.\n5. When you finish, return the bike to any campus station, close the lock, and turn the numbers away from your code.\nPlease do not lock the bike outside a station. The app will keep counting your time, and you will pay for hours you did not ride. Riding two people on one bike is never allowed.",
+  "group_id": "JR1-RG11",
+  "stem": "In step 2, \"match\" is closest in meaning to ____.",
+  "options": [
+   "turn very fast",
+   "are the same as",
+   "fall off the lock",
+   "become larger"
+  ],
+  "answer": 1,
+  "explain_zh": "match 指轉到數字與密碼相同，才能把鎖拉開。它不是速度或大小的變化。match 當動詞常表示「相符、配對」。",
+  "vocab": [
+   {
+    "w": "match",
+    "zh": "相符",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0055",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "HOW TO USE THE CAMPUS SHARED BIKES\n1. Open the app and press the blue button. The lock number will appear on your screen.\n2. Turn the four small wheels on the lock until the numbers match, then pull the lock open.\n3. Check the tyres and the brakes before you ride. If something is broken, press \"Report\" in the app and take another bike.\n4. The first thirty minutes are free for students. After that, each half hour costs ten dollars.\n5. When you finish, return the bike to any campus station, close the lock, and turn the numbers away from your code.\nPlease do not lock the bike outside a station. The app will keep counting your time, and you will pay for hours you did not ride. Riding two people on one bike is never allowed.",
+  "group_id": "JR1-RG11",
+  "stem": "In rule 4, what does \"that\" refer to?",
+  "options": [
+   "The ten-dollar deposit",
+   "The password on the screen",
+   "The first free thirty minutes",
+   "The station near the east gate"
+  ],
+  "answer": 2,
+  "explain_zh": "規則四先說前三十分鐘免費，接著 After that 指超過那段免費時間之後。十元是之後每半小時的費用，不是 that 指的內容。After that 要回指剛剛講過的時間段。",
+  "vocab": [
+   {
+    "w": "free",
+    "zh": "免費的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0056",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "Interview: A Young Tea Farmer\nQ: You studied engineering. Why did you go back to your family's tea farm?\nA: My grandfather got sick in 2021 and nobody could take care of the trees. I planned to stay for six months. That was four years ago.\nQ: What surprised you most?\nA: How much of the work is waiting. You cannot make a tea plant grow faster by working harder. Engineering taught me to fix problems quickly; farming taught me to sit still.\nQ: Do young people ask you about this job?\nA: Many do, usually online. I tell them the truth: in the first two years I earned less than a convenience store worker. But now I sell directly to customers through a website, and I keep the money that used to go to middlemen.\nQ: Any advice?\nA: Learn to sell. Good tea that nobody knows about is just leaves.",
+  "group_id": "JR1-RG12",
+  "stem": "What is this interview mainly about?",
+  "options": [
+   "How to make tea taste sweeter at home.",
+   "Why engineering students earn a lot of money.",
+   "How a farm was sold to a large company.",
+   "Why a young man became a tea farmer and what he learned."
+  ],
+  "answer": 3,
+  "explain_zh": "訪談圍繞他回家種茶的原因、學到的事和銷售方式，主軸是他的轉行經驗。文中沒有教泡茶，也沒有賣農場。訪談題把每個回答的重點串起來就是主旨。",
+  "vocab": [
+   {
+    "w": "interview",
+    "zh": "訪談",
+    "pos": "n."
+   },
+   {
+    "w": "farmer",
+    "zh": "農夫",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0057",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Interview: A Young Tea Farmer\nQ: You studied engineering. Why did you go back to your family's tea farm?\nA: My grandfather got sick in 2021 and nobody could take care of the trees. I planned to stay for six months. That was four years ago.\nQ: What surprised you most?\nA: How much of the work is waiting. You cannot make a tea plant grow faster by working harder. Engineering taught me to fix problems quickly; farming taught me to sit still.\nQ: Do young people ask you about this job?\nA: Many do, usually online. I tell them the truth: in the first two years I earned less than a convenience store worker. But now I sell directly to customers through a website, and I keep the money that used to go to middlemen.\nQ: Any advice?\nA: Learn to sell. Good tea that nobody knows about is just leaves.",
+  "group_id": "JR1-RG12",
+  "stem": "Why did he first go back to the family farm?",
+  "options": [
+   "His grandfather became ill.",
+   "He failed his engineering exam.",
+   "He wanted to open a tea shop in Taipei.",
+   "A magazine asked him to write about tea."
+  ],
+  "answer": 0,
+  "explain_zh": "他說 2021 年祖父生病、沒人照顧茶樹，本來只打算待半年。文中沒有提到考試失敗或開店。回答第一句常常就是原因所在。",
+  "vocab": [
+   {
+    "w": "take care of",
+    "zh": "照顧",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0058",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論",
+  "passage": "Interview: A Young Tea Farmer\nQ: You studied engineering. Why did you go back to your family's tea farm?\nA: My grandfather got sick in 2021 and nobody could take care of the trees. I planned to stay for six months. That was four years ago.\nQ: What surprised you most?\nA: How much of the work is waiting. You cannot make a tea plant grow faster by working harder. Engineering taught me to fix problems quickly; farming taught me to sit still.\nQ: Do young people ask you about this job?\nA: Many do, usually online. I tell them the truth: in the first two years I earned less than a convenience store worker. But now I sell directly to customers through a website, and I keep the money that used to go to middlemen.\nQ: Any advice?\nA: Learn to sell. Good tea that nobody knows about is just leaves.",
+  "group_id": "JR1-RG12",
+  "stem": "What does he think helped him earn more money?",
+  "options": [
+   "Working longer hours every day.",
+   "Selling straight to customers online.",
+   "Buying more land near the farm.",
+   "Hiring many workers from the city."
+  ],
+  "answer": 1,
+  "explain_zh": "他說現在透過網站直接賣給顧客，把原本給中間商的錢留下來，所以收入變好。他還特別說努力工作無法讓茶長得更快。推論題要找他「改變了什麼」。",
+  "vocab": [
+   {
+    "w": "directly",
+    "zh": "直接地",
+    "pos": "adv."
+   },
+   {
+    "w": "customer",
+    "zh": "顧客",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0059",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "字義推測",
+  "passage": "Interview: A Young Tea Farmer\nQ: You studied engineering. Why did you go back to your family's tea farm?\nA: My grandfather got sick in 2021 and nobody could take care of the trees. I planned to stay for six months. That was four years ago.\nQ: What surprised you most?\nA: How much of the work is waiting. You cannot make a tea plant grow faster by working harder. Engineering taught me to fix problems quickly; farming taught me to sit still.\nQ: Do young people ask you about this job?\nA: Many do, usually online. I tell them the truth: in the first two years I earned less than a convenience store worker. But now I sell directly to customers through a website, and I keep the money that used to go to middlemen.\nQ: Any advice?\nA: Learn to sell. Good tea that nobody knows about is just leaves.",
+  "group_id": "JR1-RG12",
+  "stem": "The word \"middlemen\" is closest in meaning to ____.",
+  "options": [
+   "workers who pick tea leaves",
+   "farmers who grow rice",
+   "people who buy goods and sell them again",
+   "customers who order online"
+  ],
+  "answer": 2,
+  "explain_zh": "middleman 是中間商，介於生產者與顧客之間買進再賣出。他說跳過他們就能多留一些錢，正是這個意思。middle（中間）＋man 可以幫助記憶。",
+  "vocab": [
+   {
+    "w": "middleman",
+    "zh": "中間商",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0060",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指代關係",
+  "passage": "Interview: A Young Tea Farmer\nQ: You studied engineering. Why did you go back to your family's tea farm?\nA: My grandfather got sick in 2021 and nobody could take care of the trees. I planned to stay for six months. That was four years ago.\nQ: What surprised you most?\nA: How much of the work is waiting. You cannot make a tea plant grow faster by working harder. Engineering taught me to fix problems quickly; farming taught me to sit still.\nQ: Do young people ask you about this job?\nA: Many do, usually online. I tell them the truth: in the first two years I earned less than a convenience store worker. But now I sell directly to customers through a website, and I keep the money that used to go to middlemen.\nQ: Any advice?\nA: Learn to sell. Good tea that nobody knows about is just leaves.",
+  "group_id": "JR1-RG12",
+  "stem": "When he says \"this job\", what does he mean?",
+  "options": [
+   "Studying engineering at university",
+   "Working in a convenience store",
+   "Writing articles for a website",
+   "Working as a tea farmer"
+  ],
+  "answer": 3,
+  "explain_zh": "訪問者問年輕人會不會問他關於 this job 的事，整段談的都是種茶這份工作。工程是他以前讀的科系，超商只是收入比較的對象。this job 指訪談中一直在談的那份工作。",
+  "vocab": [
+   {
+    "w": "advice",
+    "zh": "建議",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0061",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:directions",
+  "tag_zh": "方向指引",
+  "passage": "A: Excuse me, could you tell me how to get to the City Library?\nB: Sure. Walk straight along this road for two blocks, then turn left at the post office.\nA: Two blocks, and turn left at the post office. And then?\nB: The library is the grey building next to the park. It takes about eight minutes on foot.\nA: Is there a bus? My suitcase is quite heavy.\nB: Bus 15 stops right in front of it, but you would wait ten minutes for the next one.\nA: Then I will walk. One more thing - is the library open on Mondays?\nB: It opens at nine every day except Monday. Today is Tuesday, so you are fine.",
+  "group_id": "JR1-LG01",
+  "stem": "Where should the traveller turn left?",
+  "options": [
+   "At the post office",
+   "At the park",
+   "At the bus stop",
+   "At the library gate"
+  ],
+  "answer": 0,
+  "explain_zh": "對話中說沿路走兩個街區，然後在郵局左轉，所以左轉點是郵局。公園是圖書館旁邊的地標，不是轉彎處。聽路線題要把「動作」和「地標」一組一組記下來。",
+  "vocab": [
+   {
+    "w": "block",
+    "zh": "街區",
+    "pos": "n."
+   },
+   {
+    "w": "turn left",
+    "zh": "左轉",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0062",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Excuse me, could you tell me how to get to the City Library?\nB: Sure. Walk straight along this road for two blocks, then turn left at the post office.\nA: Two blocks, and turn left at the post office. And then?\nB: The library is the grey building next to the park. It takes about eight minutes on foot.\nA: Is there a bus? My suitcase is quite heavy.\nB: Bus 15 stops right in front of it, but you would wait ten minutes for the next one.\nA: Then I will walk. One more thing - is the library open on Mondays?\nB: It opens at nine every day except Monday. Today is Tuesday, so you are fine.",
+  "group_id": "JR1-LG01",
+  "stem": "How long does it take to walk to the library?",
+  "options": [
+   "About two minutes",
+   "About eight minutes",
+   "About ten minutes",
+   "About fifteen minutes"
+  ],
+  "answer": 1,
+  "explain_zh": "男子說走路大約八分鐘。十分鐘是等下一班公車的時間，兩個街區則是距離。數字題要聽清楚數字後面接的是走路、等車還是距離。",
+  "vocab": [
+   {
+    "w": "on foot",
+    "zh": "步行",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0063",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "A: Excuse me, could you tell me how to get to the City Library?\nB: Sure. Walk straight along this road for two blocks, then turn left at the post office.\nA: Two blocks, and turn left at the post office. And then?\nB: The library is the grey building next to the park. It takes about eight minutes on foot.\nA: Is there a bus? My suitcase is quite heavy.\nB: Bus 15 stops right in front of it, but you would wait ten minutes for the next one.\nA: Then I will walk. One more thing - is the library open on Mondays?\nB: It opens at nine every day except Monday. Today is Tuesday, so you are fine.",
+  "group_id": "JR1-LG01",
+  "stem": "Why does the traveller decide to walk?",
+  "options": [
+   "The bus does not stop near the library.",
+   "The bus ticket is too expensive.",
+   "The next bus will not come for ten minutes.",
+   "She cannot find the bus stop."
+  ],
+  "answer": 2,
+  "explain_zh": "對方說 15 路公車就停在圖書館前面，但還要等十分鐘，她因此決定走路。公車有到站，也沒有提到票價。做決定的原因常出現在 but 後面。",
+  "vocab": [
+   {
+    "w": "suitcase",
+    "zh": "行李箱",
+    "pos": "n."
+   },
+   {
+    "w": "heavy",
+    "zh": "重的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0064",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "聽力推論",
+  "passage": "A: Excuse me, could you tell me how to get to the City Library?\nB: Sure. Walk straight along this road for two blocks, then turn left at the post office.\nA: Two blocks, and turn left at the post office. And then?\nB: The library is the grey building next to the park. It takes about eight minutes on foot.\nA: Is there a bus? My suitcase is quite heavy.\nB: Bus 15 stops right in front of it, but you would wait ten minutes for the next one.\nA: Then I will walk. One more thing - is the library open on Mondays?\nB: It opens at nine every day except Monday. Today is Tuesday, so you are fine.",
+  "group_id": "JR1-LG01",
+  "stem": "What can we learn about the library?",
+  "options": [
+   "It never closes at weekends.",
+   "It opens at eight in the morning.",
+   "It is inside the park.",
+   "It does not open on Mondays."
+  ],
+  "answer": 3,
+  "explain_zh": "男子說每天九點開門，只有星期一例外，可推論星期一不開放。開門時間是九點不是八點，圖書館也只是在公園旁邊。聽到 except 要特別注意例外的那一天。",
+  "vocab": [
+   {
+    "w": "except",
+    "zh": "除了…之外",
+    "pos": "prep."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0065",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "聽力主旨",
+  "passage": "A: Excuse me, could you tell me how to get to the City Library?\nB: Sure. Walk straight along this road for two blocks, then turn left at the post office.\nA: Two blocks, and turn left at the post office. And then?\nB: The library is the grey building next to the park. It takes about eight minutes on foot.\nA: Is there a bus? My suitcase is quite heavy.\nB: Bus 15 stops right in front of it, but you would wait ten minutes for the next one.\nA: Then I will walk. One more thing - is the library open on Mondays?\nB: It opens at nine every day except Monday. Today is Tuesday, so you are fine.",
+  "group_id": "JR1-LG01",
+  "stem": "What are the two speakers mainly talking about?",
+  "options": [
+   "How to get to a library",
+   "How to borrow a book",
+   "How to buy a bus ticket",
+   "How to pack a suitcase"
+  ],
+  "answer": 0,
+  "explain_zh": "整段對話都在問路、講走法和交通方式，主題是怎麼到圖書館。他們沒有談借書或買票。主旨題要看整段對話反覆出現的內容。",
+  "vocab": [
+   {
+    "w": "straight",
+    "zh": "直直地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0066",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "聽力主旨",
+  "passage": "A: Good evening. Are you ready to order?\nB: Yes. I would like the beef noodles, but not too spicy, please.\nA: No problem. A large bowl or a small one? The large is one hundred and eighty dollars, and the small is one hundred and forty.\nB: The small one, thanks. And a cup of hot lemon tea.\nA: I am sorry, the lemon tea is served cold only. We have hot black tea or hot green tea.\nB: Green tea, then. Oh, and could you bring the tea after the meal?\nA: Of course. Anything else?\nB: No, that's all. How long will it take? I have a film at seven thirty.\nA: About twelve minutes. You will have plenty of time.",
+  "group_id": "JR1-LG02",
+  "stem": "Where does this conversation most likely take place?",
+  "options": [
+   "At a school library",
+   "In a restaurant",
+   "At a train station",
+   "In a hospital"
+  ],
+  "answer": 1,
+  "explain_zh": "有人點牛肉麵、選大小碗、還問上菜要多久，這是在餐廳點餐的情境。車站和醫院都不會有這些對話。聽第一句 Are you ready to order? 就能判斷場景。",
+  "vocab": [
+   {
+    "w": "order",
+    "zh": "點餐",
+    "pos": "v."
+   },
+   {
+    "w": "spicy",
+    "zh": "辣的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0067",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Good evening. Are you ready to order?\nB: Yes. I would like the beef noodles, but not too spicy, please.\nA: No problem. A large bowl or a small one? The large is one hundred and eighty dollars, and the small is one hundred and forty.\nB: The small one, thanks. And a cup of hot lemon tea.\nA: I am sorry, the lemon tea is served cold only. We have hot black tea or hot green tea.\nB: Green tea, then. Oh, and could you bring the tea after the meal?\nA: Of course. Anything else?\nB: No, that's all. How long will it take? I have a film at seven thirty.\nA: About twelve minutes. You will have plenty of time.",
+  "group_id": "JR1-LG02",
+  "stem": "How much is the small bowl of beef noodles?",
+  "options": [
+   "One hundred and twenty dollars",
+   "One hundred and eighty dollars",
+   "One hundred and forty dollars",
+   "One hundred and seventy dollars"
+  ],
+  "answer": 2,
+  "explain_zh": "服務生說大碗一百八，小碗一百四，而客人選小碗，所以是一百四十元。一百八是大碗的價格。價格題要同時記住兩個數字和它們對應的品項。",
+  "vocab": [
+   {
+    "w": "bowl",
+    "zh": "碗",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0068",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "A: Good evening. Are you ready to order?\nB: Yes. I would like the beef noodles, but not too spicy, please.\nA: No problem. A large bowl or a small one? The large is one hundred and eighty dollars, and the small is one hundred and forty.\nB: The small one, thanks. And a cup of hot lemon tea.\nA: I am sorry, the lemon tea is served cold only. We have hot black tea or hot green tea.\nB: Green tea, then. Oh, and could you bring the tea after the meal?\nA: Of course. Anything else?\nB: No, that's all. How long will it take? I have a film at seven thirty.\nA: About twelve minutes. You will have plenty of time.",
+  "group_id": "JR1-LG02",
+  "stem": "What does the customer finally choose to drink?",
+  "options": [
+   "Cold lemon tea",
+   "Hot coffee",
+   "Cold milk tea",
+   "Hot green tea"
+  ],
+  "answer": 3,
+  "explain_zh": "客人本來要熱檸檬茶，但店家說檸檬茶只有冰的，於是改點熱綠茶。紅茶只是被提到的另一個選項。聽到 I am sorry 之後，答案常常會改變。",
+  "vocab": [
+   {
+    "w": "serve",
+    "zh": "供應",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0069",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "聽力推論",
+  "passage": "A: Good evening. Are you ready to order?\nB: Yes. I would like the beef noodles, but not too spicy, please.\nA: No problem. A large bowl or a small one? The large is one hundred and eighty dollars, and the small is one hundred and forty.\nB: The small one, thanks. And a cup of hot lemon tea.\nA: I am sorry, the lemon tea is served cold only. We have hot black tea or hot green tea.\nB: Green tea, then. Oh, and could you bring the tea after the meal?\nA: Of course. Anything else?\nB: No, that's all. How long will it take? I have a film at seven thirty.\nA: About twelve minutes. You will have plenty of time.",
+  "group_id": "JR1-LG02",
+  "stem": "Why does the customer ask how long the food will take?",
+  "options": [
+   "She wants to see a film later.",
+   "She has to go back to work.",
+   "She is waiting for a friend.",
+   "She feels very hungry now."
+  ],
+  "answer": 0,
+  "explain_zh": "她說七點半有電影，所以想確認上菜時間來得及。對話沒有提到上班或等朋友。推論題要把問題和後面那句理由連起來。",
+  "vocab": [
+   {
+    "w": "film",
+    "zh": "電影",
+    "pos": "n."
+   },
+   {
+    "w": "plenty of",
+    "zh": "充足的",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0070",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "A: Good evening. Are you ready to order?\nB: Yes. I would like the beef noodles, but not too spicy, please.\nA: No problem. A large bowl or a small one? The large is one hundred and eighty dollars, and the small is one hundred and forty.\nB: The small one, thanks. And a cup of hot lemon tea.\nA: I am sorry, the lemon tea is served cold only. We have hot black tea or hot green tea.\nB: Green tea, then. Oh, and could you bring the tea after the meal?\nA: Of course. Anything else?\nB: No, that's all. How long will it take? I have a film at seven thirty.\nA: About twelve minutes. You will have plenty of time.",
+  "group_id": "JR1-LG02",
+  "stem": "What is the problem with the lemon tea?",
+  "options": [
+   "It is sold out today.",
+   "It is not served hot.",
+   "It costs extra money.",
+   "It is too sweet."
+  ],
+  "answer": 1,
+  "explain_zh": "服務生說檸檬茶只有冰的，所以問題是沒有熱的。他沒有說賣完或要加錢。聽力常用 only 來暗示限制條件。",
+  "vocab": [
+   {
+    "w": "meal",
+    "zh": "一餐",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0071",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "聽力主旨",
+  "passage": "A: Excuse me, do you have this jacket in blue?\nB: Let me check. We have blue in size S and size L, but the medium is sold out.\nA: That's a pity. I usually wear medium. How much is it, by the way?\nB: It is one thousand two hundred dollars, but this week members get twenty percent off.\nA: I am not a member. Can I join today?\nB: Yes, and it is free. You just need to give us a phone number. Then the jacket is nine hundred and sixty.\nA: Great. I will take the large one, then. Can I return it if it does not fit?\nB: Within seven days, and please keep the receipt.",
+  "group_id": "JR1-LG03",
+  "stem": "What is the customer mainly doing in this conversation?",
+  "options": [
+   "Returning a pair of shoes",
+   "Asking about a bus route",
+   "Buying a jacket in a shop",
+   "Looking for a lost wallet"
+  ],
+  "answer": 2,
+  "explain_zh": "對話從詢問顏色尺寸、價格、會員折扣到決定購買，是在店裡買外套。退貨只是最後順便問的規定。主旨要看整段對話的主要行為。",
+  "vocab": [
+   {
+    "w": "jacket",
+    "zh": "外套",
+    "pos": "n."
+   },
+   {
+    "w": "size",
+    "zh": "尺寸",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0072",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "A: Excuse me, do you have this jacket in blue?\nB: Let me check. We have blue in size S and size L, but the medium is sold out.\nA: That's a pity. I usually wear medium. How much is it, by the way?\nB: It is one thousand two hundred dollars, but this week members get twenty percent off.\nA: I am not a member. Can I join today?\nB: Yes, and it is free. You just need to give us a phone number. Then the jacket is nine hundred and sixty.\nA: Great. I will take the large one, then. Can I return it if it does not fit?\nB: Within seven days, and please keep the receipt.",
+  "group_id": "JR1-LG03",
+  "stem": "Which size does the customer finally take?",
+  "options": [
+   "Small",
+   "Medium",
+   "Extra large",
+   "Large"
+  ],
+  "answer": 3,
+  "explain_zh": "中號賣完了，她雖然平常穿中號，最後仍決定買大號。小號雖然有貨但她沒有選。聽力要聽到最後的 I will take... 才是最終決定。",
+  "vocab": [
+   {
+    "w": "sold out",
+    "zh": "售完",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0073",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Excuse me, do you have this jacket in blue?\nB: Let me check. We have blue in size S and size L, but the medium is sold out.\nA: That's a pity. I usually wear medium. How much is it, by the way?\nB: It is one thousand two hundred dollars, but this week members get twenty percent off.\nA: I am not a member. Can I join today?\nB: Yes, and it is free. You just need to give us a phone number. Then the jacket is nine hundred and sixty.\nA: Great. I will take the large one, then. Can I return it if it does not fit?\nB: Within seven days, and please keep the receipt.",
+  "group_id": "JR1-LG03",
+  "stem": "How much will the customer pay for the jacket?",
+  "options": [
+   "Nine hundred and sixty dollars",
+   "One thousand two hundred dollars",
+   "Two hundred dollars",
+   "One thousand dollars"
+  ],
+  "answer": 0,
+  "explain_zh": "原價一千二，會員打八折後是九百六十元，她當場加入會員。一千二是沒有折扣的價格。遇到折扣題要聽清楚「打折後」的金額。",
+  "vocab": [
+   {
+    "w": "percent",
+    "zh": "百分之",
+    "pos": "n."
+   },
+   {
+    "w": "member",
+    "zh": "會員",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0074",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "聽力推論",
+  "passage": "A: Excuse me, do you have this jacket in blue?\nB: Let me check. We have blue in size S and size L, but the medium is sold out.\nA: That's a pity. I usually wear medium. How much is it, by the way?\nB: It is one thousand two hundred dollars, but this week members get twenty percent off.\nA: I am not a member. Can I join today?\nB: Yes, and it is free. You just need to give us a phone number. Then the jacket is nine hundred and sixty.\nA: Great. I will take the large one, then. Can I return it if it does not fit?\nB: Within seven days, and please keep the receipt.",
+  "group_id": "JR1-LG03",
+  "stem": "Why does the customer join the membership?",
+  "options": [
+   "To get a free jacket next time.",
+   "To pay a lower price today.",
+   "To return the jacket without a receipt.",
+   "To order a medium size from another shop."
+  ],
+  "answer": 1,
+  "explain_zh": "店員說本週會員打八折，她因此當場加入，目的是省錢。入會免費，但不是為了免費拿外套。推論題要看她入會之後發生了什麼事。",
+  "vocab": [
+   {
+    "w": "join",
+    "zh": "加入",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0075",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "A: Excuse me, do you have this jacket in blue?\nB: Let me check. We have blue in size S and size L, but the medium is sold out.\nA: That's a pity. I usually wear medium. How much is it, by the way?\nB: It is one thousand two hundred dollars, but this week members get twenty percent off.\nA: I am not a member. Can I join today?\nB: Yes, and it is free. You just need to give us a phone number. Then the jacket is nine hundred and sixty.\nA: Great. I will take the large one, then. Can I return it if it does not fit?\nB: Within seven days, and please keep the receipt.",
+  "group_id": "JR1-LG03",
+  "stem": "What does the customer need in order to return the jacket?",
+  "options": [
+   "A member card and a photo",
+   "A phone call to the shop first",
+   "The receipt, within seven days",
+   "The bag the jacket came in"
+  ],
+  "answer": 2,
+  "explain_zh": "店員說七天內、並保留發票就可以退。他沒有要求先打電話或帶袋子。退換貨規定常包含「期限」和「憑證」兩個條件。",
+  "vocab": [
+   {
+    "w": "receipt",
+    "zh": "收據",
+    "pos": "n."
+   },
+   {
+    "w": "fit",
+    "zh": "合身",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0076",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "聽力主旨",
+  "passage": "A: Good morning. What seems to be the problem?\nB: I have had a sore throat since Sunday, and last night I started coughing a lot.\nA: Any fever?\nB: This morning it was thirty-eight point two degrees. I took some medicine my mother had at home.\nA: I see. Open your mouth, please. Your throat is quite red, but your lungs sound clear. It is probably a virus, so antibiotics will not help.\nB: Do I need to stay home from school?\nA: Rest for two days, drink warm water, and wear a mask when you go back. If the fever lasts more than three days, come and see me again.",
+  "group_id": "JR1-LG04",
+  "stem": "What is happening in this conversation?",
+  "options": [
+   "A student is buying medicine at a shop.",
+   "A teacher is calling a student's mother.",
+   "A nurse is teaching a first aid class.",
+   "A patient is seeing a doctor about being ill."
+  ],
+  "answer": 3,
+  "explain_zh": "醫生問症狀、檢查喉嚨、給休息建議，是看診的場景。這不是買藥或上課。聽到 What seems to be the problem? 幾乎都是診間對話。",
+  "vocab": [
+   {
+    "w": "sore throat",
+    "zh": "喉嚨痛",
+    "pos": "n."
+   },
+   {
+    "w": "cough",
+    "zh": "咳嗽",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0077",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Good morning. What seems to be the problem?\nB: I have had a sore throat since Sunday, and last night I started coughing a lot.\nA: Any fever?\nB: This morning it was thirty-eight point two degrees. I took some medicine my mother had at home.\nA: I see. Open your mouth, please. Your throat is quite red, but your lungs sound clear. It is probably a virus, so antibiotics will not help.\nB: Do I need to stay home from school?\nA: Rest for two days, drink warm water, and wear a mask when you go back. If the fever lasts more than three days, come and see me again.",
+  "group_id": "JR1-LG04",
+  "stem": "What was the patient's temperature this morning?",
+  "options": [
+   "Thirty-eight point two degrees",
+   "Thirty-nine degrees",
+   "Thirty-six point five degrees",
+   "Forty degrees"
+  ],
+  "answer": 0,
+  "explain_zh": "病人說今天早上量到攝氏三十八點二度。三十九度是醫生提到「要再回診」的門檻，不是今天的體溫。數字題要分清楚「現在的數字」和「警戒的數字」。",
+  "vocab": [
+   {
+    "w": "fever",
+    "zh": "發燒",
+    "pos": "n."
+   },
+   {
+    "w": "degree",
+    "zh": "度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0078",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "A: Good morning. What seems to be the problem?\nB: I have had a sore throat since Sunday, and last night I started coughing a lot.\nA: Any fever?\nB: This morning it was thirty-eight point two degrees. I took some medicine my mother had at home.\nA: I see. Open your mouth, please. Your throat is quite red, but your lungs sound clear. It is probably a virus, so antibiotics will not help.\nB: Do I need to stay home from school?\nA: Rest for two days, drink warm water, and wear a mask when you go back. If the fever lasts more than three days, come and see me again.",
+  "group_id": "JR1-LG04",
+  "stem": "What does the doctor say about the patient's lungs?",
+  "options": [
+   "They are badly infected.",
+   "They sound normal.",
+   "They need an X-ray today.",
+   "They make a loud noise."
+  ],
+  "answer": 1,
+  "explain_zh": "醫生說 your lungs sound clear，也就是肺部聽起來正常，紅的是喉嚨。他沒有安排 X 光。clear 在醫療對話中常表示「沒有異常」。",
+  "vocab": [
+   {
+    "w": "lung",
+    "zh": "肺",
+    "pos": "n."
+   },
+   {
+    "w": "clear",
+    "zh": "清澈的；正常的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0079",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "聽力推論",
+  "passage": "A: Good morning. What seems to be the problem?\nB: I have had a sore throat since Sunday, and last night I started coughing a lot.\nA: Any fever?\nB: This morning it was thirty-eight point two degrees. I took some medicine my mother had at home.\nA: I see. Open your mouth, please. Your throat is quite red, but your lungs sound clear. It is probably a virus, so antibiotics will not help.\nB: Do I need to stay home from school?\nA: Rest for two days, drink warm water, and wear a mask when you go back. If the fever lasts more than three days, come and see me again.",
+  "group_id": "JR1-LG04",
+  "stem": "Why will the doctor not give antibiotics?",
+  "options": [
+   "The patient is too young for them.",
+   "The shop has run out of them.",
+   "The illness is probably caused by a virus.",
+   "The patient's mother does not allow them."
+  ],
+  "answer": 2,
+  "explain_zh": "醫生說很可能是病毒引起的，抗生素沒有幫助，所以不開。這與年齡或缺貨無關。聽到 so 後面往往就是結論與理由的連接。",
+  "vocab": [
+   {
+    "w": "virus",
+    "zh": "病毒",
+    "pos": "n."
+   },
+   {
+    "w": "antibiotics",
+    "zh": "抗生素",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0080",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "A: Good morning. What seems to be the problem?\nB: I have had a sore throat since Sunday, and last night I started coughing a lot.\nA: Any fever?\nB: This morning it was thirty-eight point two degrees. I took some medicine my mother had at home.\nA: I see. Open your mouth, please. Your throat is quite red, but your lungs sound clear. It is probably a virus, so antibiotics will not help.\nB: Do I need to stay home from school?\nA: Rest for two days, drink warm water, and wear a mask when you go back. If the fever lasts more than three days, come and see me again.",
+  "group_id": "JR1-LG04",
+  "stem": "When should the patient see the doctor again?",
+  "options": [
+   "Tomorrow morning at nine.",
+   "After finishing all the medicine.",
+   "Before going back to school.",
+   "If the fever lasts more than three days."
+  ],
+  "answer": 3,
+  "explain_zh": "醫生說如果燒超過三天就要回診。他要求的是休息兩天、戴口罩，不是明天一定回來。條件句 If... 後面常是複診或注意事項的關鍵。",
+  "vocab": [
+   {
+    "w": "mask",
+    "zh": "口罩",
+    "pos": "n."
+   },
+   {
+    "w": "rest",
+    "zh": "休息",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0081",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "聽力主旨",
+  "passage": "Good morning, everyone. This is the student office with three announcements.\nFirst, because of the typhoon warning, this afternoon's sports day practice is cancelled. Homeroom teachers will use that time for a safety class instead.\nSecond, the lost and found box is now outside the health centre. We have four umbrellas, two water bottles, and one pair of glasses. Please come before Friday; after that, everything will be given away.\nThird, the class photos arrived this morning. Class leaders may pick them up during the lunch break.\nOne last reminder: the north gate will be closed from three o'clock today because workers are painting the wall. Please use the east gate. Thank you.",
+  "group_id": "JR1-LG05",
+  "stem": "What is the speaker mainly doing in this announcement?",
+  "options": [
+   "Giving several school announcements.",
+   "Teaching a lesson about typhoons.",
+   "Introducing a new student to the class.",
+   "Asking students to buy sports clothes."
+  ],
+  "answer": 0,
+  "explain_zh": "廣播一開始就說有三項通知，接著講練習取消、失物招領和照片領取，是校園公告。它不是上課或介紹新同學。聽到 announcements 就知道是通知類型。",
+  "vocab": [
+   {
+    "w": "announcement",
+    "zh": "公告",
+    "pos": "n."
+   },
+   {
+    "w": "office",
+    "zh": "辦公室",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0082",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "Good morning, everyone. This is the student office with three announcements.\nFirst, because of the typhoon warning, this afternoon's sports day practice is cancelled. Homeroom teachers will use that time for a safety class instead.\nSecond, the lost and found box is now outside the health centre. We have four umbrellas, two water bottles, and one pair of glasses. Please come before Friday; after that, everything will be given away.\nThird, the class photos arrived this morning. Class leaders may pick them up during the lunch break.\nOne last reminder: the north gate will be closed from three o'clock today because workers are painting the wall. Please use the east gate. Thank you.",
+  "group_id": "JR1-LG05",
+  "stem": "Why is the sports day practice cancelled?",
+  "options": [
+   "The playground is being painted.",
+   "A typhoon warning has been issued.",
+   "Too many students are ill.",
+   "The teachers are in a meeting."
+  ],
+  "answer": 1,
+  "explain_zh": "廣播說因為颱風警報，下午的運動會練習取消。油漆是北門關閉的原因，不是取消練習的原因。同一段廣播有多個原因時要對準各自的事件。",
+  "vocab": [
+   {
+    "w": "cancel",
+    "zh": "取消",
+    "pos": "v."
+   },
+   {
+    "w": "warning",
+    "zh": "警報",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0083",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Good morning, everyone. This is the student office with three announcements.\nFirst, because of the typhoon warning, this afternoon's sports day practice is cancelled. Homeroom teachers will use that time for a safety class instead.\nSecond, the lost and found box is now outside the health centre. We have four umbrellas, two water bottles, and one pair of glasses. Please come before Friday; after that, everything will be given away.\nThird, the class photos arrived this morning. Class leaders may pick them up during the lunch break.\nOne last reminder: the north gate will be closed from three o'clock today because workers are painting the wall. Please use the east gate. Thank you.",
+  "group_id": "JR1-LG05",
+  "stem": "By when should students collect their lost things?",
+  "options": [
+   "Before three o'clock today",
+   "Before the lunch break",
+   "Before Friday",
+   "Before the end of the month"
+  ],
+  "answer": 2,
+  "explain_zh": "廣播說星期五之前要去領，之後東西就會捐出去。三點是北門關閉的時間，午休是領照片的時間。時間題要注意每個時間點屬於哪一則通知。",
+  "vocab": [
+   {
+    "w": "lost and found",
+    "zh": "失物招領",
+    "pos": "n."
+   },
+   {
+    "w": "give away",
+    "zh": "送出",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0084",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:directions",
+  "tag_zh": "方向指引",
+  "passage": "Good morning, everyone. This is the student office with three announcements.\nFirst, because of the typhoon warning, this afternoon's sports day practice is cancelled. Homeroom teachers will use that time for a safety class instead.\nSecond, the lost and found box is now outside the health centre. We have four umbrellas, two water bottles, and one pair of glasses. Please come before Friday; after that, everything will be given away.\nThird, the class photos arrived this morning. Class leaders may pick them up during the lunch break.\nOne last reminder: the north gate will be closed from three o'clock today because workers are painting the wall. Please use the east gate. Thank you.",
+  "group_id": "JR1-LG05",
+  "stem": "Which gate should students use after three o'clock?",
+  "options": [
+   "The north gate",
+   "The south gate",
+   "The west gate",
+   "The east gate"
+  ],
+  "answer": 3,
+  "explain_zh": "因為工人在粉刷牆面，北門三點起關閉，學生要改走東門。南門和西門都沒有被提到。方向題要聽清楚「哪個門關」和「改走哪個門」。",
+  "vocab": [
+   {
+    "w": "gate",
+    "zh": "大門",
+    "pos": "n."
+   },
+   {
+    "w": "paint",
+    "zh": "粉刷",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0085",
+  "level": "J2",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "聽力推論",
+  "passage": "Good morning, everyone. This is the student office with three announcements.\nFirst, because of the typhoon warning, this afternoon's sports day practice is cancelled. Homeroom teachers will use that time for a safety class instead.\nSecond, the lost and found box is now outside the health centre. We have four umbrellas, two water bottles, and one pair of glasses. Please come before Friday; after that, everything will be given away.\nThird, the class photos arrived this morning. Class leaders may pick them up during the lunch break.\nOne last reminder: the north gate will be closed from three o'clock today because workers are painting the wall. Please use the east gate. Thank you.",
+  "group_id": "JR1-LG05",
+  "stem": "What will students most likely do this afternoon?",
+  "options": [
+   "Take a safety class with their homeroom teacher.",
+   "Practise running on the playground.",
+   "Go home right after lunch.",
+   "Clean the health centre together."
+  ],
+  "answer": 0,
+  "explain_zh": "練習取消後，導師會用那段時間上安全課程，所以下午最可能是上課。廣播沒有說提早放學或打掃。instead 後面通常就是替代的安排。",
+  "vocab": [
+   {
+    "w": "homeroom teacher",
+    "zh": "導師",
+    "pos": "n."
+   },
+   {
+    "w": "safety",
+    "zh": "安全",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0086",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "聽力主旨",
+  "passage": "A: Hi, Pei-shan. Are you free this Saturday? I want to practise the piano duet before the concert.\nB: On Saturday morning I have cram school until eleven thirty, but the afternoon is fine.\nA: How about two o'clock at the school music room?\nB: The music room is only open to teachers at weekends. What about my place? We have an old piano.\nA: Sure. Is three o'clock better for you? My bus from Banqiao takes almost an hour.\nB: Three works for me. Come to the front door of the yellow building next to the police station.\nA: Got it. Should I bring the new score?\nB: Yes, please. Mine has too many pencil marks on it.",
+  "group_id": "JR1-LG06",
+  "stem": "What are the two students mainly doing?",
+  "options": [
+   "Choosing a song for a concert.",
+   "Arranging a time and place to practise.",
+   "Asking a teacher for extra lessons.",
+   "Buying a new piano together."
+  ],
+  "answer": 1,
+  "explain_zh": "兩人討論星期六哪個時段有空、在哪裡練琴，主要是在約時間和地點。曲目早就決定了，也沒有要買鋼琴。主旨題看整段在「解決什麼問題」。",
+  "vocab": [
+   {
+    "w": "practise",
+    "zh": "練習",
+    "pos": "v."
+   },
+   {
+    "w": "duet",
+    "zh": "二重奏",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0087",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "A: Hi, Pei-shan. Are you free this Saturday? I want to practise the piano duet before the concert.\nB: On Saturday morning I have cram school until eleven thirty, but the afternoon is fine.\nA: How about two o'clock at the school music room?\nB: The music room is only open to teachers at weekends. What about my place? We have an old piano.\nA: Sure. Is three o'clock better for you? My bus from Banqiao takes almost an hour.\nB: Three works for me. Come to the front door of the yellow building next to the police station.\nA: Got it. Should I bring the new score?\nB: Yes, please. Mine has too many pencil marks on it.",
+  "group_id": "JR1-LG06",
+  "stem": "What time will they finally meet?",
+  "options": [
+   "Eleven thirty",
+   "Two o'clock",
+   "Three o'clock",
+   "Four o'clock"
+  ],
+  "answer": 2,
+  "explain_zh": "男生先提議兩點，後來因為搭車要一小時而改成三點，女生也同意。十一點半是補習班下課的時間。約時間題要聽到最後確認的那一個時間。",
+  "vocab": [
+   {
+    "w": "cram school",
+    "zh": "補習班",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0088",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "A: Hi, Pei-shan. Are you free this Saturday? I want to practise the piano duet before the concert.\nB: On Saturday morning I have cram school until eleven thirty, but the afternoon is fine.\nA: How about two o'clock at the school music room?\nB: The music room is only open to teachers at weekends. What about my place? We have an old piano.\nA: Sure. Is three o'clock better for you? My bus from Banqiao takes almost an hour.\nB: Three works for me. Come to the front door of the yellow building next to the police station.\nA: Got it. Should I bring the new score?\nB: Yes, please. Mine has too many pencil marks on it.",
+  "group_id": "JR1-LG06",
+  "stem": "Where will the two students practise the piano duet?",
+  "options": [
+   "In the school music room",
+   "At the concert hall",
+   "In a classroom after school",
+   "At Pei-shan's home"
+  ],
+  "answer": 3,
+  "explain_zh": "因為音樂教室週末只開放給老師，女生提議去她家，那裡有一台舊鋼琴。音樂教室正是被排除的選項。地點題要注意被否定掉的地方。",
+  "vocab": [
+   {
+    "w": "weekend",
+    "zh": "週末",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0089",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "聽力推論",
+  "passage": "A: Hi, Pei-shan. Are you free this Saturday? I want to practise the piano duet before the concert.\nB: On Saturday morning I have cram school until eleven thirty, but the afternoon is fine.\nA: How about two o'clock at the school music room?\nB: The music room is only open to teachers at weekends. What about my place? We have an old piano.\nA: Sure. Is three o'clock better for you? My bus from Banqiao takes almost an hour.\nB: Three works for me. Come to the front door of the yellow building next to the police station.\nA: Got it. Should I bring the new score?\nB: Yes, please. Mine has too many pencil marks on it.",
+  "group_id": "JR1-LG06",
+  "stem": "Why can't they use the school music room?",
+  "options": [
+   "It is only open to teachers at weekends.",
+   "It is being repaired this month.",
+   "The piano there is broken.",
+   "It costs too much money to book."
+  ],
+  "answer": 0,
+  "explain_zh": "女生說週末音樂教室只開放給老師，所以學生不能用。文中沒有提到維修、壞掉或費用。聽到 only 就要注意限制對象。",
+  "vocab": [
+   {
+    "w": "open to",
+    "zh": "開放給",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0090",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:directions",
+  "tag_zh": "方向指引",
+  "passage": "A: Hi, Pei-shan. Are you free this Saturday? I want to practise the piano duet before the concert.\nB: On Saturday morning I have cram school until eleven thirty, but the afternoon is fine.\nA: How about two o'clock at the school music room?\nB: The music room is only open to teachers at weekends. What about my place? We have an old piano.\nA: Sure. Is three o'clock better for you? My bus from Banqiao takes almost an hour.\nB: Three works for me. Come to the front door of the yellow building next to the police station.\nA: Got it. Should I bring the new score?\nB: Yes, please. Mine has too many pencil marks on it.",
+  "group_id": "JR1-LG06",
+  "stem": "Where should the boy go when he arrives?",
+  "options": [
+   "To the back door of the police station",
+   "To the front door of the yellow building",
+   "To the bus stop in Banqiao",
+   "To the gate of the concert hall"
+  ],
+  "answer": 1,
+  "explain_zh": "女生請他到警察局旁那棟黃色建築的大門口，警察局只是地標。板橋是他上車的地方，不是目的地。方向題要分清楚「地標」和「真正要去的地點」。",
+  "vocab": [
+   {
+    "w": "score",
+    "zh": "樂譜",
+    "pos": "n."
+   },
+   {
+    "w": "next to",
+    "zh": "在…旁邊",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0091",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "聽力主旨",
+  "passage": "Hello, this is a message for Mr. Huang from Ocean Bike Shop. You brought in your black mountain bike last Thursday for a new back tyre and a brake check.\nThe tyre is done, but we found that the chain is badly worn. Changing it costs six hundred and fifty dollars extra. We will not touch it until you call us back and say yes.\nIf you agree, the bike will be ready by Wednesday afternoon. If you only want the tyre, you may pick it up today before we close at eight.\nOur number is 02-2345-6789. Please note that we are closed on Sunday and Monday this week because of staff training. Thank you.",
+  "group_id": "JR1-LG07",
+  "stem": "What is the main purpose of this phone message?",
+  "options": [
+   "To ask Mr. Huang to pay a bill at once.",
+   "To tell Mr. Huang that his bike was stolen.",
+   "To tell a customer about extra repair work.",
+   "To invite a customer to a training class."
+  ],
+  "answer": 2,
+  "explain_zh": "留言說輪胎換好了，但發現鏈條磨損，需要多花錢，目的是告知這項額外維修。腳踏車沒有被偷，員工訓練只是店休的原因。留言題主旨常在第二段。",
+  "vocab": [
+   {
+    "w": "message",
+    "zh": "留言",
+    "pos": "n."
+   },
+   {
+    "w": "repair",
+    "zh": "維修",
+    "pos": "n./v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0092",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Hello, this is a message for Mr. Huang from Ocean Bike Shop. You brought in your black mountain bike last Thursday for a new back tyre and a brake check.\nThe tyre is done, but we found that the chain is badly worn. Changing it costs six hundred and fifty dollars extra. We will not touch it until you call us back and say yes.\nIf you agree, the bike will be ready by Wednesday afternoon. If you only want the tyre, you may pick it up today before we close at eight.\nOur number is 02-2345-6789. Please note that we are closed on Sunday and Monday this week because of staff training. Thank you.",
+  "group_id": "JR1-LG07",
+  "stem": "How much extra will the new chain cost?",
+  "options": [
+   "Two hundred dollars",
+   "Four hundred dollars",
+   "Eight hundred dollars",
+   "Six hundred and fifty dollars"
+  ],
+  "answer": 3,
+  "explain_zh": "留言說換鏈條要額外六百五十元。其他數字並沒有出現在留言中。聽到 extra 要記下後面的金額。",
+  "vocab": [
+   {
+    "w": "chain",
+    "zh": "鏈條",
+    "pos": "n."
+   },
+   {
+    "w": "extra",
+    "zh": "額外的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0093",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "Hello, this is a message for Mr. Huang from Ocean Bike Shop. You brought in your black mountain bike last Thursday for a new back tyre and a brake check.\nThe tyre is done, but we found that the chain is badly worn. Changing it costs six hundred and fifty dollars extra. We will not touch it until you call us back and say yes.\nIf you agree, the bike will be ready by Wednesday afternoon. If you only want the tyre, you may pick it up today before we close at eight.\nOur number is 02-2345-6789. Please note that we are closed on Sunday and Monday this week because of staff training. Thank you.",
+  "group_id": "JR1-LG07",
+  "stem": "What has the shop already finished?",
+  "options": [
+   "Changing the back tyre",
+   "Changing the chain",
+   "Painting the bike black",
+   "Washing the whole bike"
+  ],
+  "answer": 0,
+  "explain_zh": "留言說 The tyre is done，後輪胎已經換好，鏈條則還在等顧客同意。油漆和洗車都沒有提到。done 表示已經完成的項目。",
+  "vocab": [
+   {
+    "w": "tyre",
+    "zh": "輪胎",
+    "pos": "n."
+   },
+   {
+    "w": "worn",
+    "zh": "磨損的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0094",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "聽力推論",
+  "passage": "Hello, this is a message for Mr. Huang from Ocean Bike Shop. You brought in your black mountain bike last Thursday for a new back tyre and a brake check.\nThe tyre is done, but we found that the chain is badly worn. Changing it costs six hundred and fifty dollars extra. We will not touch it until you call us back and say yes.\nIf you agree, the bike will be ready by Wednesday afternoon. If you only want the tyre, you may pick it up today before we close at eight.\nOur number is 02-2345-6789. Please note that we are closed on Sunday and Monday this week because of staff training. Thank you.",
+  "group_id": "JR1-LG07",
+  "stem": "What must Mr. Huang do before the chain is changed?",
+  "options": [
+   "Bring the bike to the shop again.",
+   "Phone the shop and agree to it.",
+   "Pay the whole price in advance.",
+   "Send an email to the manager."
+  ],
+  "answer": 1,
+  "explain_zh": "店家說在顧客回電同意之前不會動工，所以必須先打電話。他們沒有要求先付款或再送車來。until 引導的條件就是必要的動作。",
+  "vocab": [
+   {
+    "w": "agree",
+    "zh": "同意",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0095",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "Hello, this is a message for Mr. Huang from Ocean Bike Shop. You brought in your black mountain bike last Thursday for a new back tyre and a brake check.\nThe tyre is done, but we found that the chain is badly worn. Changing it costs six hundred and fifty dollars extra. We will not touch it until you call us back and say yes.\nIf you agree, the bike will be ready by Wednesday afternoon. If you only want the tyre, you may pick it up today before we close at eight.\nOur number is 02-2345-6789. Please note that we are closed on Sunday and Monday this week because of staff training. Thank you.",
+  "group_id": "JR1-LG07",
+  "stem": "When is the shop closed this week?",
+  "options": [
+   "On Wednesday afternoon",
+   "On Thursday evening",
+   "On Sunday and Monday",
+   "Every day after eight"
+  ],
+  "answer": 2,
+  "explain_zh": "留言最後說本週日和週一因員工訓練而休息。週三下午是車可以取回的時間，八點是當天的關門時間。聽到 closed on 要立刻記下星期。",
+  "vocab": [
+   {
+    "w": "staff",
+    "zh": "員工",
+    "pos": "n."
+   },
+   {
+    "w": "training",
+    "zh": "訓練",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0096",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:main-idea",
+  "tag_zh": "聽力主旨",
+  "passage": "Welcome aboard the Alishan forest train. Our trip to Fenqihu takes about two hours and twenty minutes. We will stop at three small stations on the way, but passengers may not get off until Fenqihu.\nThe weather in the mountains changes quickly. It is twenty-six degrees here, but only sixteen degrees at the top, so please keep a jacket with you.\nAt Fenqihu you will have one and a half hours of free time. The famous lunch boxes are sold at the shop across from the station exit. Please come back to platform two by four fifteen. The last train down leaves at four thirty, and we cannot wait for late passengers.",
+  "group_id": "JR1-LG08",
+  "stem": "Who is most likely speaking to the listeners here?",
+  "options": [
+   "A shop owner at a night market",
+   "A student giving a class report",
+   "A doctor talking to a patient",
+   "A guide on a tourist train"
+  ],
+  "answer": 3,
+  "explain_zh": "說話者歡迎大家上車、說明車程、自由時間和集合時間，是導覽人員在火車上解說。攤商和醫生都不會說 Welcome aboard。主旨題可從場景用語判斷身分。",
+  "vocab": [
+   {
+    "w": "aboard",
+    "zh": "在車（船）上",
+    "pos": "adv."
+   },
+   {
+    "w": "guide",
+    "zh": "導遊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0097",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:number-time",
+  "tag_zh": "數字與時間",
+  "passage": "Welcome aboard the Alishan forest train. Our trip to Fenqihu takes about two hours and twenty minutes. We will stop at three small stations on the way, but passengers may not get off until Fenqihu.\nThe weather in the mountains changes quickly. It is twenty-six degrees here, but only sixteen degrees at the top, so please keep a jacket with you.\nAt Fenqihu you will have one and a half hours of free time. The famous lunch boxes are sold at the shop across from the station exit. Please come back to platform two by four fifteen. The last train down leaves at four thirty, and we cannot wait for late passengers.",
+  "group_id": "JR1-LG08",
+  "stem": "How long does the train ride take?",
+  "options": [
+   "About two hours and twenty minutes",
+   "About one and a half hours",
+   "About three hours",
+   "About twenty minutes"
+  ],
+  "answer": 0,
+  "explain_zh": "導覽說到奮起湖大約要兩小時二十分。一個半小時是到站後的自由活動時間。時間題要分清楚「車程」和「停留時間」。",
+  "vocab": [
+   {
+    "w": "forest",
+    "zh": "森林",
+    "pos": "n."
+   },
+   {
+    "w": "passenger",
+    "zh": "乘客",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0098",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:detail",
+  "tag_zh": "聽力細節",
+  "passage": "Welcome aboard the Alishan forest train. Our trip to Fenqihu takes about two hours and twenty minutes. We will stop at three small stations on the way, but passengers may not get off until Fenqihu.\nThe weather in the mountains changes quickly. It is twenty-six degrees here, but only sixteen degrees at the top, so please keep a jacket with you.\nAt Fenqihu you will have one and a half hours of free time. The famous lunch boxes are sold at the shop across from the station exit. Please come back to platform two by four fifteen. The last train down leaves at four thirty, and we cannot wait for late passengers.",
+  "group_id": "JR1-LG08",
+  "stem": "Why should passengers take a jacket?",
+  "options": [
+   "The train has strong air conditioning.",
+   "It is much colder in the mountains.",
+   "It will probably rain all day.",
+   "The jacket is needed to enter the shop."
+  ],
+  "answer": 1,
+  "explain_zh": "導覽說山下二十六度、山上只有十六度，所以要帶外套保暖。他沒有提到冷氣或下雨。比較兩個溫度時，要注意地點的差別。",
+  "vocab": [
+   {
+    "w": "quickly",
+    "zh": "迅速地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0099",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:directions",
+  "tag_zh": "方向指引",
+  "passage": "Welcome aboard the Alishan forest train. Our trip to Fenqihu takes about two hours and twenty minutes. We will stop at three small stations on the way, but passengers may not get off until Fenqihu.\nThe weather in the mountains changes quickly. It is twenty-six degrees here, but only sixteen degrees at the top, so please keep a jacket with you.\nAt Fenqihu you will have one and a half hours of free time. The famous lunch boxes are sold at the shop across from the station exit. Please come back to platform two by four fifteen. The last train down leaves at four thirty, and we cannot wait for late passengers.",
+  "group_id": "JR1-LG08",
+  "stem": "Where are the famous lunch boxes sold?",
+  "options": [
+   "Inside the train's last carriage",
+   "At the top of the mountain path",
+   "At the shop across from the station exit",
+   "Next to platform two"
+  ],
+  "answer": 2,
+  "explain_zh": "導覽說便當在車站出口對面的店販售。第二月台是集合地點，不是買便當的地方。opposite 或 across from 都是「在…對面」。",
+  "vocab": [
+   {
+    "w": "exit",
+    "zh": "出口",
+    "pos": "n."
+   },
+   {
+    "w": "across from",
+    "zh": "在…對面",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "JR1-0100",
+  "level": "J3",
+  "cefr": "A2",
+  "skill": "listening",
+  "tag": "listening:inference",
+  "tag_zh": "聽力推論",
+  "passage": "Welcome aboard the Alishan forest train. Our trip to Fenqihu takes about two hours and twenty minutes. We will stop at three small stations on the way, but passengers may not get off until Fenqihu.\nThe weather in the mountains changes quickly. It is twenty-six degrees here, but only sixteen degrees at the top, so please keep a jacket with you.\nAt Fenqihu you will have one and a half hours of free time. The famous lunch boxes are sold at the shop across from the station exit. Please come back to platform two by four fifteen. The last train down leaves at four thirty, and we cannot wait for late passengers.",
+  "group_id": "JR1-LG08",
+  "stem": "What will happen to a passenger who comes back at four thirty-five?",
+  "options": [
+   "He will get a free lunch box.",
+   "He will have to pay a small fine.",
+   "He can take the next train in ten minutes.",
+   "He will miss the last train down."
+  ],
+  "answer": 3,
+  "explain_zh": "最後一班下山的火車四點半開，而且不等遲到的乘客，四點三十五分回來就趕不上了。導覽沒有提到罰款或加班車。推論題要把時間和 cannot wait 的警告連起來。",
+  "vocab": [
+   {
+    "w": "platform",
+    "zh": "月台",
+    "pos": "n."
+   },
+   {
+    "w": "miss",
+    "zh": "錯過",
+    "pos": "v."
+   }
+  ]
+ }
+]

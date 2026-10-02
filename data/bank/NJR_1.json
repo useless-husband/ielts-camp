@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "NJR-0001",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "NOTICE: Change to Sports Day Schedule\nBecause of the heavy rain forecast for this Friday, our school's annual Sports Day will be moved to next Tuesday, October 14. All events will stay the same, including the relay race, the tug of war, and the long jump competition. Students should still wear their house color T-shirt and bring a water bottle and a hat.\nClasses will follow the normal Friday timetable instead, so please bring your usual textbooks that day. If Tuesday is also rainy, Sports Day will be held indoors in the gym with a shorter program, focusing only on the relay race and tug of war. Parents who planned to visit on Friday are welcome to come on Tuesday instead. Please check the school website on Monday evening for the final decision. Thank you for your understanding, and let's hope for good weather!",
+    "group_id": "NJR-G01",
+    "stem": "What is this notice mainly about?",
+    "options": [
+      "A change in the date of Sports Day.",
+      "A change in the school lunch menu.",
+      "A cancellation of all sports events this year.",
+      "A new school uniform policy."
+    ],
+    "answer": 0,
+    "explain_zh": "公告一開始就說因為下雨要把運動會延到下週二，所以主旨是運動會日期更動。公告沒有提到午餐菜單、取消所有活動或新的制服規定。看公告先看標題和第一句，通常就是主旨所在。",
+    "vocab": [
+      {
+        "w": "notice",
+        "zh": "公告",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0002",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "NOTICE: Change to Sports Day Schedule\nBecause of the heavy rain forecast for this Friday, our school's annual Sports Day will be moved to next Tuesday, October 14. All events will stay the same, including the relay race, the tug of war, and the long jump competition. Students should still wear their house color T-shirt and bring a water bottle and a hat.\nClasses will follow the normal Friday timetable instead, so please bring your usual textbooks that day. If Tuesday is also rainy, Sports Day will be held indoors in the gym with a shorter program, focusing only on the relay race and tug of war. Parents who planned to visit on Friday are welcome to come on Tuesday instead. Please check the school website on Monday evening for the final decision. Thank you for your understanding, and let's hope for good weather!",
+    "group_id": "NJR-G01",
+    "stem": "What should students bring on Sports Day?",
+    "options": [
+      "Their swimsuits.",
+      "A water bottle and a hat.",
+      "Extra house color flags.",
+      "A packed lunch box only."
+    ],
+    "answer": 1,
+    "explain_zh": "公告寫著學生要「bring a water bottle and a hat」，所以答案是水壺和帽子。公告沒有提到泳裝、旗幟或午餐盒。細節題要回到原文找對應的關鍵字句。",
+    "vocab": [
+      {
+        "w": "bottle",
+        "zh": "瓶子",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0003",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "NOTICE: Change to Sports Day Schedule\nBecause of the heavy rain forecast for this Friday, our school's annual Sports Day will be moved to next Tuesday, October 14. All events will stay the same, including the relay race, the tug of war, and the long jump competition. Students should still wear their house color T-shirt and bring a water bottle and a hat.\nClasses will follow the normal Friday timetable instead, so please bring your usual textbooks that day. If Tuesday is also rainy, Sports Day will be held indoors in the gym with a shorter program, focusing only on the relay race and tug of war. Parents who planned to visit on Friday are welcome to come on Tuesday instead. Please check the school website on Monday evening for the final decision. Thank you for your understanding, and let's hope for good weather!",
+    "group_id": "NJR-G01",
+    "stem": "What day is Sports Day moved to?",
+    "options": [
+      "This Friday.",
+      "Next Monday.",
+      "Next Tuesday, October 14.",
+      "The following Friday."
+    ],
+    "answer": 2,
+    "explain_zh": "公告說運動會「moved to next Tuesday, October 14」，所以新日期是下週二十月十四日。星期五是原本被取消的日期，容易混淆。細節題要注意「原定」與「更改後」日期的差別。",
+    "vocab": [
+      {
+        "w": "moved",
+        "zh": "被移動",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0004",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "NOTICE: Change to Sports Day Schedule\nBecause of the heavy rain forecast for this Friday, our school's annual Sports Day will be moved to next Tuesday, October 14. All events will stay the same, including the relay race, the tug of war, and the long jump competition. Students should still wear their house color T-shirt and bring a water bottle and a hat.\nClasses will follow the normal Friday timetable instead, so please bring your usual textbooks that day. If Tuesday is also rainy, Sports Day will be held indoors in the gym with a shorter program, focusing only on the relay race and tug of war. Parents who planned to visit on Friday are welcome to come on Tuesday instead. Please check the school website on Monday evening for the final decision. Thank you for your understanding, and let's hope for good weather!",
+    "group_id": "NJR-G01",
+    "stem": "If Tuesday is also rainy, what will happen?",
+    "options": [
+      "Sports Day will be cancelled completely.",
+      "Sports Day will move to next month.",
+      "Students will vote on a new date.",
+      "Sports Day will be held indoors with a shorter program."
+    ],
+    "answer": 3,
+    "explain_zh": "公告寫「Sports Day will be held indoors in the gym with a shorter program」，可推論如果週二也下雨就改到室內舉辦。公告沒有提到完全取消、延到下個月或投票決定新日期。推論題要注意 if 條件句後面接的結果。",
+    "vocab": [
+      {
+        "w": "indoors",
+        "zh": "在室內",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0005",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "NOTICE: Change to Sports Day Schedule\nBecause of the heavy rain forecast for this Friday, our school's annual Sports Day will be moved to next Tuesday, October 14. All events will stay the same, including the relay race, the tug of war, and the long jump competition. Students should still wear their house color T-shirt and bring a water bottle and a hat.\nClasses will follow the normal Friday timetable instead, so please bring your usual textbooks that day. If Tuesday is also rainy, Sports Day will be held indoors in the gym with a shorter program, focusing only on the relay race and tug of war. Parents who planned to visit on Friday are welcome to come on Tuesday instead. Please check the school website on Monday evening for the final decision. Thank you for your understanding, and let's hope for good weather!",
+    "group_id": "NJR-G01",
+    "stem": "As used in the notice, what does \"forecast\" mean?",
+    "options": [
+      "A prediction about future weather.",
+      "A written record of past weather.",
+      "A type of rain coat.",
+      "A weather warning siren."
+    ],
+    "answer": 0,
+    "explain_zh": "文中「the heavy rain forecast for this Friday」是指對星期五天氣的預測，所以forecast是「預測」的意思。它不是過去的紀錄、雨衣或警報器。上下文猜字義題要看前後文在描述未來還是過去的事。",
+    "vocab": [
+      {
+        "w": "forecast",
+        "zh": "預測",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0006",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "To: mr.tsai@greenhill.edu.tw\nFrom: lin.chia-wei@mail.greenhill.tw\nSubject: Missing Today's Math Quiz\n\nDear Mr. Tsai,\n\nI am sorry that I could not attend school today because I had a high fever last night and my parents took me to see a doctor this morning. I know our class had the chapter three math quiz today, and I am worried about missing it.\n\nThe doctor said I should rest at home for two more days, but I already reviewed chapter three before I got sick, so I don't think I need extra time to study. Would it be possible for me to take the quiz on Thursday, when I plan to return to school? If that is not convenient, I am also free to take it after school on Friday.\n\nThank you for understanding, and I'm sorry for the trouble this causes.\n\nBest regards,\nChia-Wei",
+    "group_id": "NJR-G02",
+    "stem": "What is this email mainly about?",
+    "options": [
+      "A student is asking for extra homework.",
+      "A student is asking to take a missed quiz on another day.",
+      "A student is complaining about a quiz being too hard.",
+      "A student is asking to change math classes."
+    ],
+    "answer": 1,
+    "explain_zh": "信件說明自己因病缺席錯過小考，並詢問能否改天補考，所以主旨是請求補考。信中沒有要求額外功課、抱怨考試太難或換班。看信件開頭的原因和最後的請求就能抓住主旨。",
+    "vocab": [
+      {
+        "w": "quiz",
+        "zh": "小考",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0007",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "To: mr.tsai@greenhill.edu.tw\nFrom: lin.chia-wei@mail.greenhill.tw\nSubject: Missing Today's Math Quiz\n\nDear Mr. Tsai,\n\nI am sorry that I could not attend school today because I had a high fever last night and my parents took me to see a doctor this morning. I know our class had the chapter three math quiz today, and I am worried about missing it.\n\nThe doctor said I should rest at home for two more days, but I already reviewed chapter three before I got sick, so I don't think I need extra time to study. Would it be possible for me to take the quiz on Thursday, when I plan to return to school? If that is not convenient, I am also free to take it after school on Friday.\n\nThank you for understanding, and I'm sorry for the trouble this causes.\n\nBest regards,\nChia-Wei",
+    "group_id": "NJR-G02",
+    "stem": "Why couldn't Chia-Wei go to school today?",
+    "options": [
+      "He had a family trip.",
+      "He overslept.",
+      "He had a high fever and saw a doctor.",
+      "He had a dentist appointment."
+    ],
+    "answer": 2,
+    "explain_zh": "信中寫「I had a high fever last night and my parents took me to see a doctor」，所以原因是發高燒看醫生。信中沒有提到家族旅行、睡過頭或看牙醫。細節題要回到原文找到明確的原因句。",
+    "vocab": [
+      {
+        "w": "fever",
+        "zh": "發燒",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0008",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "To: mr.tsai@greenhill.edu.tw\nFrom: lin.chia-wei@mail.greenhill.tw\nSubject: Missing Today's Math Quiz\n\nDear Mr. Tsai,\n\nI am sorry that I could not attend school today because I had a high fever last night and my parents took me to see a doctor this morning. I know our class had the chapter three math quiz today, and I am worried about missing it.\n\nThe doctor said I should rest at home for two more days, but I already reviewed chapter three before I got sick, so I don't think I need extra time to study. Would it be possible for me to take the quiz on Thursday, when I plan to return to school? If that is not convenient, I am also free to take it after school on Friday.\n\nThank you for understanding, and I'm sorry for the trouble this causes.\n\nBest regards,\nChia-Wei",
+    "group_id": "NJR-G02",
+    "stem": "How many more days did the doctor say to rest?",
+    "options": [
+      "One more day.",
+      "A whole week.",
+      "Until next Monday.",
+      "Two more days."
+    ],
+    "answer": 3,
+    "explain_zh": "信中寫「The doctor said I should rest at home for two more days」，所以答案是再休息兩天。其他選項的天數都沒有出現在信中。細節題要抓住數字和單位的正確搭配。",
+    "vocab": [
+      {
+        "w": "rest",
+        "zh": "休息",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0009",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "To: mr.tsai@greenhill.edu.tw\nFrom: lin.chia-wei@mail.greenhill.tw\nSubject: Missing Today's Math Quiz\n\nDear Mr. Tsai,\n\nI am sorry that I could not attend school today because I had a high fever last night and my parents took me to see a doctor this morning. I know our class had the chapter three math quiz today, and I am worried about missing it.\n\nThe doctor said I should rest at home for two more days, but I already reviewed chapter three before I got sick, so I don't think I need extra time to study. Would it be possible for me to take the quiz on Thursday, when I plan to return to school? If that is not convenient, I am also free to take it after school on Friday.\n\nThank you for understanding, and I'm sorry for the trouble this causes.\n\nBest regards,\nChia-Wei",
+    "group_id": "NJR-G02",
+    "stem": "Why does Chia-Wei think he doesn't need extra study time?",
+    "options": [
+      "Because he already reviewed chapter three before getting sick.",
+      "Because the quiz was cancelled.",
+      "Because he plans to skip the quiz.",
+      "Because his teacher said the chapter is easy."
+    ],
+    "answer": 0,
+    "explain_zh": "信中寫「I already reviewed chapter three before I got sick, so I don't think I need extra time」，可推論他有把握是因為生病前就已經複習過。信中沒有提到考試取消、想放棄考試或老師說章節簡單。推論題要連結前後兩句的因果關係。",
+    "vocab": [
+      {
+        "w": "review",
+        "zh": "複習",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0010",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "指代對象",
+    "passage": "To: mr.tsai@greenhill.edu.tw\nFrom: lin.chia-wei@mail.greenhill.tw\nSubject: Missing Today's Math Quiz\n\nDear Mr. Tsai,\n\nI am sorry that I could not attend school today because I had a high fever last night and my parents took me to see a doctor this morning. I know our class had the chapter three math quiz today, and I am worried about missing it.\n\nThe doctor said I should rest at home for two more days, but I already reviewed chapter three before I got sick, so I don't think I need extra time to study. Would it be possible for me to take the quiz on Thursday, when I plan to return to school? If that is not convenient, I am also free to take it after school on Friday.\n\nThank you for understanding, and I'm sorry for the trouble this causes.\n\nBest regards,\nChia-Wei",
+    "group_id": "NJR-G02",
+    "stem": "In the email, what does \"this\" refer to in \"the trouble this causes\"?",
+    "options": [
+      "The doctor's visit.",
+      "Chia-Wei missing the quiz and asking to reschedule it.",
+      "The chapter three lesson.",
+      "Mr. Tsai's teaching schedule."
+    ],
+    "answer": 1,
+    "explain_zh": "「this」指的是前面整段所描述的事情，也就是缺考並要求改期的整件事，而不是單指看醫生或某個章節。信中沒有提到老師的教學計畫。指代對象題要往前找代名詞所指的完整事件，而不是單一名詞。",
+    "vocab": [
+      {
+        "w": "cause",
+        "zh": "造成",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0011",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Tuesday, September 9\nToday was my first day at Bright Future Cram School. I felt nervous on the way there because I didn't know anyone in the class. When I walked in, a teacher named Miss Wu smiled and showed me to a seat near the window.\nThe English class was about two hours long, from six to eight in the evening. We reviewed grammar for the first hour, and then played a vocabulary game in teams for the second hour. My team lost, but it was still fun because everyone was laughing a lot.\nDuring the ten-minute break, a girl named Pei-Ru talked to me and shared her snacks. She said she also goes to my school, but she's in a different class. I was happy to make a new friend on my first day! I hope tomorrow's math class is just as good.",
+    "group_id": "NJR-G03",
+    "stem": "What is this diary entry mainly about?",
+    "options": [
+      "The writer describes a school trip.",
+      "The writer describes a birthday party.",
+      "The writer describes her first day at cram school.",
+      "The writer describes moving to a new school."
+    ],
+    "answer": 2,
+    "explain_zh": "整篇日記都在描述去補習班上第一堂課的經過，所以主旨是第一天上補習班。日記沒有提到校外教學、生日派對或轉學。看日記標題後的第一句通常就能抓到主旨。",
+    "vocab": [
+      {
+        "w": "nervous",
+        "zh": "緊張的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0012",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Tuesday, September 9\nToday was my first day at Bright Future Cram School. I felt nervous on the way there because I didn't know anyone in the class. When I walked in, a teacher named Miss Wu smiled and showed me to a seat near the window.\nThe English class was about two hours long, from six to eight in the evening. We reviewed grammar for the first hour, and then played a vocabulary game in teams for the second hour. My team lost, but it was still fun because everyone was laughing a lot.\nDuring the ten-minute break, a girl named Pei-Ru talked to me and shared her snacks. She said she also goes to my school, but she's in a different class. I was happy to make a new friend on my first day! I hope tomorrow's math class is just as good.",
+    "group_id": "NJR-G03",
+    "stem": "What did the class do during the second hour?",
+    "options": [
+      "Reviewed grammar.",
+      "Took a big test.",
+      "Watched a movie.",
+      "Played a vocabulary game in teams."
+    ],
+    "answer": 3,
+    "explain_zh": "日記寫「played a vocabulary game in teams」是第二小時的活動，複習文法則是第一小時做的事，容易混淆。文中沒有提到考試或看電影。細節題要注意時間順序對應的活動。",
+    "vocab": [
+      {
+        "w": "vocabulary",
+        "zh": "字彙",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0013",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Tuesday, September 9\nToday was my first day at Bright Future Cram School. I felt nervous on the way there because I didn't know anyone in the class. When I walked in, a teacher named Miss Wu smiled and showed me to a seat near the window.\nThe English class was about two hours long, from six to eight in the evening. We reviewed grammar for the first hour, and then played a vocabulary game in teams for the second hour. My team lost, but it was still fun because everyone was laughing a lot.\nDuring the ten-minute break, a girl named Pei-Ru talked to me and shared her snacks. She said she also goes to my school, but she's in a different class. I was happy to make a new friend on my first day! I hope tomorrow's math class is just as good.",
+    "group_id": "NJR-G03",
+    "stem": "How did the writer meet Pei-Ru?",
+    "options": [
+      "Pei-Ru talked to her and shared snacks during the break.",
+      "They were already old friends.",
+      "A teacher introduced them formally.",
+      "They met on the school bus."
+    ],
+    "answer": 0,
+    "explain_zh": "日記寫「a girl named Pei-Ru talked to me and shared her snacks」，所以是下課時間認識的。文中沒有提到她們本來就認識、老師介紹或校車上認識。細節題要抓住事件發生的具體場景。",
+    "vocab": [
+      {
+        "w": "share",
+        "zh": "分享",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0014",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "Tuesday, September 9\nToday was my first day at Bright Future Cram School. I felt nervous on the way there because I didn't know anyone in the class. When I walked in, a teacher named Miss Wu smiled and showed me to a seat near the window.\nThe English class was about two hours long, from six to eight in the evening. We reviewed grammar for the first hour, and then played a vocabulary game in teams for the second hour. My team lost, but it was still fun because everyone was laughing a lot.\nDuring the ten-minute break, a girl named Pei-Ru talked to me and shared her snacks. She said she also goes to my school, but she's in a different class. I was happy to make a new friend on my first day! I hope tomorrow's math class is just as good.",
+    "group_id": "NJR-G03",
+    "stem": "How did the writer probably feel by the end of the diary entry?",
+    "options": [
+      "Angry about losing the game.",
+      "Happy and hopeful about the cram school.",
+      "Bored with the whole class.",
+      "Afraid to go back tomorrow."
+    ],
+    "answer": 1,
+    "explain_zh": "日記結尾寫「I was happy to make a new friend... I hope tomorrow's math class is just as good」，可推論她心情是開心又期待。日記沒有表現出生氣輸掉遊戲、覺得無聊或害怕再去。推論題要看結尾的情緒用詞。",
+    "vocab": [
+      {
+        "w": "hope",
+        "zh": "希望",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0015",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "Tuesday, September 9\nToday was my first day at Bright Future Cram School. I felt nervous on the way there because I didn't know anyone in the class. When I walked in, a teacher named Miss Wu smiled and showed me to a seat near the window.\nThe English class was about two hours long, from six to eight in the evening. We reviewed grammar for the first hour, and then played a vocabulary game in teams for the second hour. My team lost, but it was still fun because everyone was laughing a lot.\nDuring the ten-minute break, a girl named Pei-Ru talked to me and shared her snacks. She said she also goes to my school, but she's in a different class. I was happy to make a new friend on my first day! I hope tomorrow's math class is just as good.",
+    "group_id": "NJR-G03",
+    "stem": "In the diary, what does \"nervous\" mean?",
+    "options": [
+      "Very excited and happy.",
+      "Extremely tired.",
+      "Worried or a little afraid.",
+      "Angry about something."
+    ],
+    "answer": 2,
+    "explain_zh": "文中寫「I felt nervous... because I didn't know anyone in the class」，可知是因為不認識任何人而感到擔心不安，所以 nervous 是「緊張、不安」的意思。它不是指開心、疲累或生氣。上下文猜字義題要看原因子句透露的情緒方向。",
+    "vocab": [
+      {
+        "w": "nervous",
+        "zh": "緊張的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0016",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "SWEET CLOUD TEA HOUSE — New Menu This Month!\nWe are excited to introduce three new drinks this month. First, our Taro Milk Tea is made with real taro, not powder, so it has a natural purple color and a creamy taste — a large cup is 65 dollars. Second, the Honey Lemon Green Tea is perfect for hot days, made with real lemon slices and a touch of honey instead of sugar syrup, priced at 55 dollars.\nOur most popular new drink is the Brown Sugar Fresh Milk with handmade boba, cooked fresh every morning so it never gets hard. Because it takes longer to prepare, please allow an extra five minutes for this drink. It costs 70 dollars for a large cup.\nAll drinks can be made with less sugar or less ice at no extra cost. However, toppings like pudding or grass jelly cost 10 dollars more. Try one today and tell us what you think!",
+    "group_id": "NJR-G04",
+    "stem": "What is this passage mainly about?",
+    "options": [
+      "A complaint about slow service at a tea shop.",
+      "An advertisement for a new tea shop opening.",
+      "Instructions for making bubble tea at home.",
+      "An introduction to three new drinks at a tea shop."
+    ],
+    "answer": 3,
+    "explain_zh": "文章一開始就介紹本月推出的三款新飲料，所以主旨是介紹新飲品。文章沒有抱怨服務慢、宣傳新店開幕或教人自製手搖飲。看標題「New Menu This Month」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "introduce",
+        "zh": "介紹",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0017",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "SWEET CLOUD TEA HOUSE — New Menu This Month!\nWe are excited to introduce three new drinks this month. First, our Taro Milk Tea is made with real taro, not powder, so it has a natural purple color and a creamy taste — a large cup is 65 dollars. Second, the Honey Lemon Green Tea is perfect for hot days, made with real lemon slices and a touch of honey instead of sugar syrup, priced at 55 dollars.\nOur most popular new drink is the Brown Sugar Fresh Milk with handmade boba, cooked fresh every morning so it never gets hard. Because it takes longer to prepare, please allow an extra five minutes for this drink. It costs 70 dollars for a large cup.\nAll drinks can be made with less sugar or less ice at no extra cost. However, toppings like pudding or grass jelly cost 10 dollars more. Try one today and tell us what you think!",
+    "group_id": "NJR-G04",
+    "stem": "What makes the Taro Milk Tea special?",
+    "options": [
+      "It is made with real taro, not powder.",
+      "It has no sugar at all.",
+      "It is the cheapest drink on the menu.",
+      "It comes with free boba."
+    ],
+    "answer": 0,
+    "explain_zh": "文中寫「made with real taro, not powder」，所以特別之處是用真芋頭而非芋頭粉。文章沒有說完全無糖、是最便宜的飲料或附送免費珍珠。細節題要回到描述該項飲料的句子找答案。",
+    "vocab": [
+      {
+        "w": "taro",
+        "zh": "芋頭",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0018",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "SWEET CLOUD TEA HOUSE — New Menu This Month!\nWe are excited to introduce three new drinks this month. First, our Taro Milk Tea is made with real taro, not powder, so it has a natural purple color and a creamy taste — a large cup is 65 dollars. Second, the Honey Lemon Green Tea is perfect for hot days, made with real lemon slices and a touch of honey instead of sugar syrup, priced at 55 dollars.\nOur most popular new drink is the Brown Sugar Fresh Milk with handmade boba, cooked fresh every morning so it never gets hard. Because it takes longer to prepare, please allow an extra five minutes for this drink. It costs 70 dollars for a large cup.\nAll drinks can be made with less sugar or less ice at no extra cost. However, toppings like pudding or grass jelly cost 10 dollars more. Try one today and tell us what you think!",
+    "group_id": "NJR-G04",
+    "stem": "Why should customers wait extra time for the Brown Sugar Fresh Milk?",
+    "options": [
+      "Because the shop is often very busy.",
+      "Because the boba is handmade fresh every morning.",
+      "Because it needs to be delivered from another store.",
+      "Because it must be served very cold."
+    ],
+    "answer": 1,
+    "explain_zh": "文中寫「handmade boba, cooked fresh every morning... Because it takes longer to prepare」，所以原因是珍珠是每天現煮手工製作。文章沒有提到店裡很忙、需要從別家店運送或一定要很冰。細節題要抓住 because 前後的因果句。",
+    "vocab": [
+      {
+        "w": "handmade",
+        "zh": "手工製的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0019",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "SWEET CLOUD TEA HOUSE — New Menu This Month!\nWe are excited to introduce three new drinks this month. First, our Taro Milk Tea is made with real taro, not powder, so it has a natural purple color and a creamy taste — a large cup is 65 dollars. Second, the Honey Lemon Green Tea is perfect for hot days, made with real lemon slices and a touch of honey instead of sugar syrup, priced at 55 dollars.\nOur most popular new drink is the Brown Sugar Fresh Milk with handmade boba, cooked fresh every morning so it never gets hard. Because it takes longer to prepare, please allow an extra five minutes for this drink. It costs 70 dollars for a large cup.\nAll drinks can be made with less sugar or less ice at no extra cost. However, toppings like pudding or grass jelly cost 10 dollars more. Try one today and tell us what you think!",
+    "group_id": "NJR-G04",
+    "stem": "What can be inferred about toppings like pudding?",
+    "options": [
+      "They are free with every drink.",
+      "They are only available in winter.",
+      "They are not included in the drink's original price.",
+      "They cannot be added to any drink."
+    ],
+    "answer": 2,
+    "explain_zh": "文中寫「toppings like pudding or grass jelly cost 10 dollars more」，可推論加料需要額外付費，不含在原價中。文章沒有說加料免費、只在冬天供應或不能加。推論題要注意 more、extra 這類額外費用的用詞。",
+    "vocab": [
+      {
+        "w": "topping",
+        "zh": "配料",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0020",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "SWEET CLOUD TEA HOUSE — New Menu This Month!\nWe are excited to introduce three new drinks this month. First, our Taro Milk Tea is made with real taro, not powder, so it has a natural purple color and a creamy taste — a large cup is 65 dollars. Second, the Honey Lemon Green Tea is perfect for hot days, made with real lemon slices and a touch of honey instead of sugar syrup, priced at 55 dollars.\nOur most popular new drink is the Brown Sugar Fresh Milk with handmade boba, cooked fresh every morning so it never gets hard. Because it takes longer to prepare, please allow an extra five minutes for this drink. It costs 70 dollars for a large cup.\nAll drinks can be made with less sugar or less ice at no extra cost. However, toppings like pudding or grass jelly cost 10 dollars more. Try one today and tell us what you think!",
+    "group_id": "NJR-G04",
+    "stem": "In the passage, what does \"priced at\" mean?",
+    "options": [
+      "Given away for free at.",
+      "Advertised only during.",
+      "Delivered directly to.",
+      "Sold for a cost of."
+    ],
+    "answer": 3,
+    "explain_zh": "文中「priced at 55 dollars」是在說明這杯飲料的售價是55元，所以 priced at 意思是「訂價為」。它不是指免費贈送、限定宣傳期間或直接送達。上下文猜字義題要看後面接的是不是金額。",
+    "vocab": [
+      {
+        "w": "priced",
+        "zh": "訂價",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0021",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "GREENHILL JUNIOR HIGH TALENT SHOW — AUDITIONS OPEN!\nDo you love to sing, dance, do magic tricks, or tell jokes? Come show us your talent! Auditions will be held in the auditorium every day after school from October 6 to October 8, starting at 4:00 p.m.\nEach student or group has three minutes to perform. Please sign up at the student affairs office before October 5 and choose a time slot. You may bring your own music on a USB drive, but please arrive fifteen minutes early to test the sound system.\nThe final show will take place on October 20 in the evening, and winners will receive a trophy and a gift voucher. Last year's show had over twenty acts and more than three hundred people in the audience, so don't miss this chance to shine! For questions, please ask Mr. Lai in the music room.",
+    "group_id": "NJR-G05",
+    "stem": "What is this poster mainly about?",
+    "options": [
+      "An announcement inviting students to audition for a talent show.",
+      "An announcement about a new music class.",
+      "A report on last year's talent show winners.",
+      "An advertisement for a school concert ticket sale."
+    ],
+    "answer": 0,
+    "explain_zh": "海報一開始就寫「AUDITIONS OPEN!」，內容都在說明如何報名試演，所以主旨是邀請學生參加才藝表演甄選。海報沒有介紹新的音樂課、公布去年的得獎名單或賣音樂會門票。看標題就能快速掌握主旨。",
+    "vocab": [
+      {
+        "w": "audition",
+        "zh": "試演",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0022",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "GREENHILL JUNIOR HIGH TALENT SHOW — AUDITIONS OPEN!\nDo you love to sing, dance, do magic tricks, or tell jokes? Come show us your talent! Auditions will be held in the auditorium every day after school from October 6 to October 8, starting at 4:00 p.m.\nEach student or group has three minutes to perform. Please sign up at the student affairs office before October 5 and choose a time slot. You may bring your own music on a USB drive, but please arrive fifteen minutes early to test the sound system.\nThe final show will take place on October 20 in the evening, and winners will receive a trophy and a gift voucher. Last year's show had over twenty acts and more than three hundred people in the audience, so don't miss this chance to shine! For questions, please ask Mr. Lai in the music room.",
+    "group_id": "NJR-G05",
+    "stem": "How long does each performance get during auditions?",
+    "options": [
+      "Thirty minutes.",
+      "Three minutes.",
+      "Thirteen minutes.",
+      "One minute."
+    ],
+    "answer": 1,
+    "explain_zh": "海報寫「Each student or group has three minutes to perform」，所以每個表演有三分鐘。其他選項是數字聽讀錯誤的常見混淆。細節題要看清楚數字對應的單位。",
+    "vocab": [
+      {
+        "w": "perform",
+        "zh": "表演",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0023",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "GREENHILL JUNIOR HIGH TALENT SHOW — AUDITIONS OPEN!\nDo you love to sing, dance, do magic tricks, or tell jokes? Come show us your talent! Auditions will be held in the auditorium every day after school from October 6 to October 8, starting at 4:00 p.m.\nEach student or group has three minutes to perform. Please sign up at the student affairs office before October 5 and choose a time slot. You may bring your own music on a USB drive, but please arrive fifteen minutes early to test the sound system.\nThe final show will take place on October 20 in the evening, and winners will receive a trophy and a gift voucher. Last year's show had over twenty acts and more than three hundred people in the audience, so don't miss this chance to shine! For questions, please ask Mr. Lai in the music room.",
+    "group_id": "NJR-G05",
+    "stem": "What should students do before October 5?",
+    "options": [
+      "Buy a ticket online.",
+      "Practice in the auditorium.",
+      "Sign up at the student affairs office.",
+      "Submit a video recording."
+    ],
+    "answer": 2,
+    "explain_zh": "海報寫「Please sign up at the student affairs office before October 5」，所以要在10月5日前到學務處報名。海報沒有提到線上買票、去禮堂練習或交影片。細節題要抓住 before 前面的期限動作。",
+    "vocab": [
+      {
+        "w": "sign up",
+        "zh": "報名",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0024",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "GREENHILL JUNIOR HIGH TALENT SHOW — AUDITIONS OPEN!\nDo you love to sing, dance, do magic tricks, or tell jokes? Come show us your talent! Auditions will be held in the auditorium every day after school from October 6 to October 8, starting at 4:00 p.m.\nEach student or group has three minutes to perform. Please sign up at the student affairs office before October 5 and choose a time slot. You may bring your own music on a USB drive, but please arrive fifteen minutes early to test the sound system.\nThe final show will take place on October 20 in the evening, and winners will receive a trophy and a gift voucher. Last year's show had over twenty acts and more than three hundred people in the audience, so don't miss this chance to shine! For questions, please ask Mr. Lai in the music room.",
+    "group_id": "NJR-G05",
+    "stem": "Why should students arrive fifteen minutes early to auditions?",
+    "options": [
+      "To warm up with a school coach.",
+      "To meet the judges personally.",
+      "To get a better seat in the audience.",
+      "To test the sound system before performing."
+    ],
+    "answer": 3,
+    "explain_zh": "海報寫「please arrive fifteen minutes early to test the sound system」，可推論提早到是為了先測試音響設備。海報沒有提到要暖身、私下見評審或搶座位。推論題要抓住句子裡的目的用詞。",
+    "vocab": [
+      {
+        "w": "sound system",
+        "zh": "音響系統",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0025",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "指代對象",
+    "passage": "GREENHILL JUNIOR HIGH TALENT SHOW — AUDITIONS OPEN!\nDo you love to sing, dance, do magic tricks, or tell jokes? Come show us your talent! Auditions will be held in the auditorium every day after school from October 6 to October 8, starting at 4:00 p.m.\nEach student or group has three minutes to perform. Please sign up at the student affairs office before October 5 and choose a time slot. You may bring your own music on a USB drive, but please arrive fifteen minutes early to test the sound system.\nThe final show will take place on October 20 in the evening, and winners will receive a trophy and a gift voucher. Last year's show had over twenty acts and more than three hundred people in the audience, so don't miss this chance to shine! For questions, please ask Mr. Lai in the music room.",
+    "group_id": "NJR-G05",
+    "stem": "In the poster, what does \"this chance\" refer to?",
+    "options": [
+      "The opportunity to perform in the talent show.",
+      "The chance to become a music teacher.",
+      "The opportunity to buy a trophy.",
+      "The chance to skip class for practice."
+    ],
+    "answer": 0,
+    "explain_zh": "「this chance」指的是前面提到的整個才藝表演參與機會，不是單指某個獎項或職位。海報沒有提到當音樂老師、買獎盃或請假練習。指代對象題要往前找完整的事件而非單一名詞。",
+    "vocab": [
+      {
+        "w": "chance",
+        "zh": "機會",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0026",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Kevin ran out of his house so fast that morning that he forgot his math homework on the kitchen table. He didn't notice until he sat down in class and Mr. Huang asked everyone to pass their homework forward.\nKevin's stomach dropped. He thought about telling a lie, saying his dog had eaten it, but he knew that wouldn't help and might make things worse. Instead, he raised his hand and told Mr. Huang the truth: he had finished the homework last night but forgot to bring it.\nMr. Huang looked at him for a moment and said, \"Thank you for being honest, Kevin. You can bring it tomorrow, but there will be a small point deduction for being late.\" Kevin nodded, relieved that he wasn't in bigger trouble.\nThat evening, Kevin put his homework inside his backpack right after finishing it, instead of leaving it on the table. He also asked his mom to help him check his bag before leaving for school every morning.",
+    "group_id": "NJR-G06",
+    "stem": "What is this story mainly about?",
+    "options": [
+      "A boy gets in trouble for cheating on homework.",
+      "A boy learns a lesson about being honest and organized.",
+      "A boy loses his backpack on the way to school.",
+      "A boy argues with his teacher about a grade."
+    ],
+    "answer": 1,
+    "explain_zh": "故事講述凱文忘記帶作業後選擇誠實面對，並學會事後把作業放進書包，所以主旨是誠實與做事有條理的教訓。故事沒有提到作弊、弄丟書包或跟老師爭吵分數。看故事的起承轉合就能抓住主旨。",
+    "vocab": [
+      {
+        "w": "honest",
+        "zh": "誠實的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0027",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Kevin ran out of his house so fast that morning that he forgot his math homework on the kitchen table. He didn't notice until he sat down in class and Mr. Huang asked everyone to pass their homework forward.\nKevin's stomach dropped. He thought about telling a lie, saying his dog had eaten it, but he knew that wouldn't help and might make things worse. Instead, he raised his hand and told Mr. Huang the truth: he had finished the homework last night but forgot to bring it.\nMr. Huang looked at him for a moment and said, \"Thank you for being honest, Kevin. You can bring it tomorrow, but there will be a small point deduction for being late.\" Kevin nodded, relieved that he wasn't in bigger trouble.\nThat evening, Kevin put his homework inside his backpack right after finishing it, instead of leaving it on the table. He also asked his mom to help him check his bag before leaving for school every morning.",
+    "group_id": "NJR-G06",
+    "stem": "What did Kevin consider doing but decided against?",
+    "options": [
+      "Asking a friend to copy their homework.",
+      "Skipping school for the day.",
+      "Telling a lie about his dog eating the homework.",
+      "Arguing with his teacher."
+    ],
+    "answer": 2,
+    "explain_zh": "故事寫「He thought about telling a lie, saying his dog had eaten it」，所以他曾考慮說謊但沒有這麼做。故事沒有提到抄同學作業、翹課或跟老師吵架。細節題要抓住 considered but did not do 的那個選項。",
+    "vocab": [
+      {
+        "w": "lie",
+        "zh": "謊言",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0028",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Kevin ran out of his house so fast that morning that he forgot his math homework on the kitchen table. He didn't notice until he sat down in class and Mr. Huang asked everyone to pass their homework forward.\nKevin's stomach dropped. He thought about telling a lie, saying his dog had eaten it, but he knew that wouldn't help and might make things worse. Instead, he raised his hand and told Mr. Huang the truth: he had finished the homework last night but forgot to bring it.\nMr. Huang looked at him for a moment and said, \"Thank you for being honest, Kevin. You can bring it tomorrow, but there will be a small point deduction for being late.\" Kevin nodded, relieved that he wasn't in bigger trouble.\nThat evening, Kevin put his homework inside his backpack right after finishing it, instead of leaving it on the table. He also asked his mom to help him check his bag before leaving for school every morning.",
+    "group_id": "NJR-G06",
+    "stem": "What happened because Kevin was honest?",
+    "options": [
+      "He received a perfect score anyway.",
+      "He was sent to the principal's office.",
+      "He had to redo the whole assignment.",
+      "He could bring the homework tomorrow with a small point deduction."
+    ],
+    "answer": 3,
+    "explain_zh": "老師說「You can bring it tomorrow, but there will be a small point deduction」，所以結果是隔天補交但扣一點小分數。故事沒有提到滿分、被送去校長室或重做整份作業。細節題要回到老師的回應找答案。",
+    "vocab": [
+      {
+        "w": "deduction",
+        "zh": "扣分",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0029",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "Kevin ran out of his house so fast that morning that he forgot his math homework on the kitchen table. He didn't notice until he sat down in class and Mr. Huang asked everyone to pass their homework forward.\nKevin's stomach dropped. He thought about telling a lie, saying his dog had eaten it, but he knew that wouldn't help and might make things worse. Instead, he raised his hand and told Mr. Huang the truth: he had finished the homework last night but forgot to bring it.\nMr. Huang looked at him for a moment and said, \"Thank you for being honest, Kevin. You can bring it tomorrow, but there will be a small point deduction for being late.\" Kevin nodded, relieved that he wasn't in bigger trouble.\nThat evening, Kevin put his homework inside his backpack right after finishing it, instead of leaving it on the table. He also asked his mom to help him check his bag before leaving for school every morning.",
+    "group_id": "NJR-G06",
+    "stem": "What can be inferred about Kevin by the end of the story?",
+    "options": [
+      "He decided to be more careful about his homework in the future.",
+      "He decided homework doesn't really matter.",
+      "He decided to stop doing homework at night.",
+      "He decided to blame his mom next time."
+    ],
+    "answer": 0,
+    "explain_zh": "故事結尾寫他開始把作業直接放進書包，並請媽媽幫忙檢查書包，可推論他變得更小心謹慎。故事沒有暗示他覺得作業不重要、不想在晚上寫作業或想怪罪媽媽。推論題要看結尾行動透露的改變。",
+    "vocab": [
+      {
+        "w": "careful",
+        "zh": "小心的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0030",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "Kevin ran out of his house so fast that morning that he forgot his math homework on the kitchen table. He didn't notice until he sat down in class and Mr. Huang asked everyone to pass their homework forward.\nKevin's stomach dropped. He thought about telling a lie, saying his dog had eaten it, but he knew that wouldn't help and might make things worse. Instead, he raised his hand and told Mr. Huang the truth: he had finished the homework last night but forgot to bring it.\nMr. Huang looked at him for a moment and said, \"Thank you for being honest, Kevin. You can bring it tomorrow, but there will be a small point deduction for being late.\" Kevin nodded, relieved that he wasn't in bigger trouble.\nThat evening, Kevin put his homework inside his backpack right after finishing it, instead of leaving it on the table. He also asked his mom to help him check his bag before leaving for school every morning.",
+    "group_id": "NJR-G06",
+    "stem": "In the story, what does \"relieved\" mean?",
+    "options": [
+      "Feeling extremely angry.",
+      "Feeling less worried after something stressful.",
+      "Feeling very proud of an achievement.",
+      "Feeling confused about what happened."
+    ],
+    "answer": 1,
+    "explain_zh": "文中寫「Kevin nodded, relieved that he wasn't in bigger trouble」，表示他原本擔心會有更大的麻煩，結果沒有，所以 relieved 是「鬆一口氣、安心」的意思。它不是生氣、驕傲或困惑。上下文猜字義題要看緊張情緒解除後的狀態。",
+    "vocab": [
+      {
+        "w": "relieved",
+        "zh": "鬆了一口氣的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0031",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "HOW TO SORT RECYCLING AT OUR SCHOOL\nOur school has four bins near the cafeteria for different kinds of waste. Please look carefully before you throw anything away.\nThe blue bin is for paper only — this means worksheets, notebooks, and cardboard boxes, but not paper with food on it, like a greasy pizza box. The green bin is for plastic bottles and cups; please empty any liquid first and remove the cap before putting it in.\nThe yellow bin is for food waste, such as fruit peels and leftover rice, which will later be used to make compost for the school garden. Finally, the grey bin is for general trash that cannot be recycled, like used tissues or broken pens.\nIf you are not sure where something goes, ask a teacher or check the picture chart above each bin. Sorting correctly helps our school reduce waste and take better care of the environment.",
+    "group_id": "NJR-G07",
+    "stem": "What is this passage mainly about?",
+    "options": [
+      "A warning about littering on campus.",
+      "A schedule for cleaning the cafeteria.",
+      "Instructions for sorting recycling correctly at school.",
+      "A report on how much trash the school produces."
+    ],
+    "answer": 2,
+    "explain_zh": "文章從標題開始就在說明四個垃圾桶各自該放什麼，所以主旨是教大家如何正確分類回收。文章沒有警告亂丟垃圾、排定打掃時間或報告垃圾產量。看標題「HOW TO SORT RECYCLING」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "sort",
+        "zh": "分類",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0032",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "HOW TO SORT RECYCLING AT OUR SCHOOL\nOur school has four bins near the cafeteria for different kinds of waste. Please look carefully before you throw anything away.\nThe blue bin is for paper only — this means worksheets, notebooks, and cardboard boxes, but not paper with food on it, like a greasy pizza box. The green bin is for plastic bottles and cups; please empty any liquid first and remove the cap before putting it in.\nThe yellow bin is for food waste, such as fruit peels and leftover rice, which will later be used to make compost for the school garden. Finally, the grey bin is for general trash that cannot be recycled, like used tissues or broken pens.\nIf you are not sure where something goes, ask a teacher or check the picture chart above each bin. Sorting correctly helps our school reduce waste and take better care of the environment.",
+    "group_id": "NJR-G07",
+    "stem": "What should students do before putting a bottle in the green bin?",
+    "options": [
+      "Wash it with soap.",
+      "Crush it flat.",
+      "Peel off the label.",
+      "Empty any liquid and remove the cap."
+    ],
+    "answer": 3,
+    "explain_zh": "文章寫「please empty any liquid first and remove the cap before putting it in」，所以要先倒掉液體並拔掉瓶蓋。文章沒有要求用肥皂清洗、壓扁或撕掉標籤。細節題要回到綠色桶子那段找具體步驟。",
+    "vocab": [
+      {
+        "w": "liquid",
+        "zh": "液體",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0033",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "HOW TO SORT RECYCLING AT OUR SCHOOL\nOur school has four bins near the cafeteria for different kinds of waste. Please look carefully before you throw anything away.\nThe blue bin is for paper only — this means worksheets, notebooks, and cardboard boxes, but not paper with food on it, like a greasy pizza box. The green bin is for plastic bottles and cups; please empty any liquid first and remove the cap before putting it in.\nThe yellow bin is for food waste, such as fruit peels and leftover rice, which will later be used to make compost for the school garden. Finally, the grey bin is for general trash that cannot be recycled, like used tissues or broken pens.\nIf you are not sure where something goes, ask a teacher or check the picture chart above each bin. Sorting correctly helps our school reduce waste and take better care of the environment.",
+    "group_id": "NJR-G07",
+    "stem": "What happens to food waste from the yellow bin?",
+    "options": [
+      "It is used to make compost for the school garden.",
+      "It is sent to a factory to make fertilizer for sale.",
+      "It is burned to create electricity.",
+      "It is given to a local farm."
+    ],
+    "answer": 0,
+    "explain_zh": "文章寫廚餘「will later be used to make compost for the school garden」，所以是拿來當校園花圃的堆肥。文章沒有提到送工廠製肥料出售、燒來發電或送給農場。細節題要抓住 will be used to 後面的用途。",
+    "vocab": [
+      {
+        "w": "compost",
+        "zh": "堆肥",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0034",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "HOW TO SORT RECYCLING AT OUR SCHOOL\nOur school has four bins near the cafeteria for different kinds of waste. Please look carefully before you throw anything away.\nThe blue bin is for paper only — this means worksheets, notebooks, and cardboard boxes, but not paper with food on it, like a greasy pizza box. The green bin is for plastic bottles and cups; please empty any liquid first and remove the cap before putting it in.\nThe yellow bin is for food waste, such as fruit peels and leftover rice, which will later be used to make compost for the school garden. Finally, the grey bin is for general trash that cannot be recycled, like used tissues or broken pens.\nIf you are not sure where something goes, ask a teacher or check the picture chart above each bin. Sorting correctly helps our school reduce waste and take better care of the environment.",
+    "group_id": "NJR-G07",
+    "stem": "Why can't a greasy pizza box go in the blue bin?",
+    "options": [
+      "Because cardboard boxes are too big for the bin.",
+      "Because paper with food on it cannot be recycled the same way as clean paper.",
+      "Because pizza boxes are always thrown in the yellow bin instead.",
+      "Because the blue bin is only for worksheets."
+    ],
+    "answer": 1,
+    "explain_zh": "文章寫藍色桶子「for paper only... but not paper with food on it, like a greasy pizza box」，可推論沾油的紙類不能像乾淨紙張一樣回收。文章沒有說紙箱太大、披薩盒要丟黃色桶子或藍色桶子只收學習單。推論題要抓住 but not 後面的排除條件。",
+    "vocab": [
+      {
+        "w": "greasy",
+        "zh": "油膩的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0035",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "指代對象",
+    "passage": "HOW TO SORT RECYCLING AT OUR SCHOOL\nOur school has four bins near the cafeteria for different kinds of waste. Please look carefully before you throw anything away.\nThe blue bin is for paper only — this means worksheets, notebooks, and cardboard boxes, but not paper with food on it, like a greasy pizza box. The green bin is for plastic bottles and cups; please empty any liquid first and remove the cap before putting it in.\nThe yellow bin is for food waste, such as fruit peels and leftover rice, which will later be used to make compost for the school garden. Finally, the grey bin is for general trash that cannot be recycled, like used tissues or broken pens.\nIf you are not sure where something goes, ask a teacher or check the picture chart above each bin. Sorting correctly helps our school reduce waste and take better care of the environment.",
+    "group_id": "NJR-G07",
+    "stem": "In the passage, what does \"this\" refer to in \"this means worksheets, notebooks, and cardboard boxes\"?",
+    "options": [
+      "What kind of plastic belongs in the green bin.",
+      "How to clean a recycling bin.",
+      "What kind of paper belongs in the blue bin.",
+      "Where the compost is used."
+    ],
+    "answer": 2,
+    "explain_zh": "「this」承接前一句「The blue bin is for paper only」，是在具體說明藍色桶子可以放的紙類項目，而不是塑膠、清潔方式或堆肥用途。指代對象題要往前一句找代名詞所指的內容。",
+    "vocab": [
+      {
+        "w": "cardboard",
+        "zh": "紙板",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0036",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "[Chat record — Class 903 Group]\nHui-Fang: Hey everyone, did you hear that Miss Chen is leaving our school at the end of this semester? She's moving to Taichung.\nBo-Yu: What? No way, she's the best homeroom teacher we've ever had!\nHui-Fang: I know! I think we should do something special for her last day, like a class party.\nMing-Zhe: Great idea. I can bring a cake if everyone chips in five dollars each for it.\nHui-Fang: Perfect. I'll make a card and ask everyone to write a short message inside.\nBo-Yu: I can bring my speaker so we can play her favorite songs during the party.\nMing-Zhe: Should we also get her a gift? Maybe a photo album of our class over the past year?\nHui-Fang: That's a lovely idea! Let's ask Pei-Chun to help collect photos since she has the most on her phone.\nBo-Yu: Sounds like a plan. Let's meet Monday at lunch to organize everything.",
+    "group_id": "NJR-G08",
+    "stem": "What is this chat record mainly about?",
+    "options": [
+      "Classmates are arguing about a class project.",
+      "Classmates are planning a birthday party for a friend.",
+      "Classmates are complaining about a new teacher.",
+      "Classmates are planning a surprise party for their teacher's last day."
+    ],
+    "answer": 3,
+    "explain_zh": "整段對話都在討論如何為即將離職的老師辦一場歡送派對，所以主旨是籌辦老師的歡送會。對話沒有在爭吵班級專案、辦同學生日派對或抱怨新老師。看對話開頭的消息句就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "surprise",
+        "zh": "驚喜",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0037",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "[Chat record — Class 903 Group]\nHui-Fang: Hey everyone, did you hear that Miss Chen is leaving our school at the end of this semester? She's moving to Taichung.\nBo-Yu: What? No way, she's the best homeroom teacher we've ever had!\nHui-Fang: I know! I think we should do something special for her last day, like a class party.\nMing-Zhe: Great idea. I can bring a cake if everyone chips in five dollars each for it.\nHui-Fang: Perfect. I'll make a card and ask everyone to write a short message inside.\nBo-Yu: I can bring my speaker so we can play her favorite songs during the party.\nMing-Zhe: Should we also get her a gift? Maybe a photo album of our class over the past year?\nHui-Fang: That's a lovely idea! Let's ask Pei-Chun to help collect photos since she has the most on her phone.\nBo-Yu: Sounds like a plan. Let's meet Monday at lunch to organize everything.",
+    "group_id": "NJR-G08",
+    "stem": "What will Ming-Zhe bring to the party?",
+    "options": [
+      "A cake.",
+      "A speaker.",
+      "A card.",
+      "A photo album."
+    ],
+    "answer": 0,
+    "explain_zh": "Ming-Zhe說「I can bring a cake if everyone chips in five dollars each」，所以他要帶蛋糕。喇叭是Bo-Yu要帶的，卡片是Hui-Fang要做的，容易混淆。細節題要把每個人負責的東西分清楚。",
+    "vocab": [
+      {
+        "w": "chip in",
+        "zh": "湊錢",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0038",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "[Chat record — Class 903 Group]\nHui-Fang: Hey everyone, did you hear that Miss Chen is leaving our school at the end of this semester? She's moving to Taichung.\nBo-Yu: What? No way, she's the best homeroom teacher we've ever had!\nHui-Fang: I know! I think we should do something special for her last day, like a class party.\nMing-Zhe: Great idea. I can bring a cake if everyone chips in five dollars each for it.\nHui-Fang: Perfect. I'll make a card and ask everyone to write a short message inside.\nBo-Yu: I can bring my speaker so we can play her favorite songs during the party.\nMing-Zhe: Should we also get her a gift? Maybe a photo album of our class over the past year?\nHui-Fang: That's a lovely idea! Let's ask Pei-Chun to help collect photos since she has the most on her phone.\nBo-Yu: Sounds like a plan. Let's meet Monday at lunch to organize everything.",
+    "group_id": "NJR-G08",
+    "stem": "What does Hui-Fang plan to make?",
+    "options": [
+      "A cake.",
+      "A card with everyone's messages.",
+      "A photo album.",
+      "A playlist of songs."
+    ],
+    "answer": 1,
+    "explain_zh": "Hui-Fang說「I'll make a card and ask everyone to write a short message inside」，所以她要做卡片。蛋糕是Ming-Zhe要帶的，相簿是後來討論的禮物，容易混淆。細節題要抓住每句話的主詞和動作。",
+    "vocab": [
+      {
+        "w": "message",
+        "zh": "訊息；留言",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0039",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "[Chat record — Class 903 Group]\nHui-Fang: Hey everyone, did you hear that Miss Chen is leaving our school at the end of this semester? She's moving to Taichung.\nBo-Yu: What? No way, she's the best homeroom teacher we've ever had!\nHui-Fang: I know! I think we should do something special for her last day, like a class party.\nMing-Zhe: Great idea. I can bring a cake if everyone chips in five dollars each for it.\nHui-Fang: Perfect. I'll make a card and ask everyone to write a short message inside.\nBo-Yu: I can bring my speaker so we can play her favorite songs during the party.\nMing-Zhe: Should we also get her a gift? Maybe a photo album of our class over the past year?\nHui-Fang: That's a lovely idea! Let's ask Pei-Chun to help collect photos since she has the most on her phone.\nBo-Yu: Sounds like a plan. Let's meet Monday at lunch to organize everything.",
+    "group_id": "NJR-G08",
+    "stem": "Why do they ask Pei-Chun to help with the gift?",
+    "options": [
+      "Because she is the class leader.",
+      "Because she is good at drawing.",
+      "Because she has the most photos of the class.",
+      "Because she is closest to the teacher."
+    ],
+    "answer": 2,
+    "explain_zh": "Hui-Fang說「Let's ask Pei-Chun to help collect photos since she has the most on her phone」，所以原因是她手機裡照片最多。對話沒有提到她是班長、很會畫畫或跟老師感情最好。推論題要抓住 since 後面的原因子句。",
+    "vocab": [
+      {
+        "w": "collect",
+        "zh": "收集",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0040",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "指代對象",
+    "passage": "[Chat record — Class 903 Group]\nHui-Fang: Hey everyone, did you hear that Miss Chen is leaving our school at the end of this semester? She's moving to Taichung.\nBo-Yu: What? No way, she's the best homeroom teacher we've ever had!\nHui-Fang: I know! I think we should do something special for her last day, like a class party.\nMing-Zhe: Great idea. I can bring a cake if everyone chips in five dollars each for it.\nHui-Fang: Perfect. I'll make a card and ask everyone to write a short message inside.\nBo-Yu: I can bring my speaker so we can play her favorite songs during the party.\nMing-Zhe: Should we also get her a gift? Maybe a photo album of our class over the past year?\nHui-Fang: That's a lovely idea! Let's ask Pei-Chun to help collect photos since she has the most on her phone.\nBo-Yu: Sounds like a plan. Let's meet Monday at lunch to organize everything.",
+    "group_id": "NJR-G08",
+    "stem": "In the chat, what does \"it\" refer to in \"if everyone chips in five dollars each for it\"?",
+    "options": [
+      "The card.",
+      "The gift album.",
+      "The party location.",
+      "The cake."
+    ],
+    "answer": 3,
+    "explain_zh": "「it」指的是同一句話前面提到的「a cake」，也就是每人出五塊錢一起合買蛋糕，而不是卡片、相簿或場地。指代對象題要在同一句話裡往前找代名詞所指的名詞。",
+    "vocab": [
+      {
+        "w": "cake",
+        "zh": "蛋糕",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0041",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "My Rainy Hike on Yangmingshan\nPosted by Ting-Yu, March 3\n\nLast Saturday, my dad and I decided to hike the Qingtiangang trail on Yangmingshan, even though the weather app said it might rain. We packed raincoats just in case, which turned out to be a smart choice!\nThe first part of the trail was easy, walking through a wide grassy field with cows resting nearby. About halfway through, it started to drizzle, so we put on our raincoats and kept walking slowly on the wet path. The mist over the mountains actually made the view look magical, like a scene from a movie.\nWe stopped at a small pavilion to eat the sandwiches we had brought, watching the clouds move quickly across the hills. By the time we finished the trail, the rain had stopped completely, and there was a beautiful rainbow over the valley. It was tiring, but definitely one of my favorite hikes ever.",
+    "group_id": "NJR-G09",
+    "stem": "What is this blog post mainly about?",
+    "options": [
+      "The writer describes a rainy but enjoyable hike with his dad.",
+      "The writer describes getting lost on a mountain trail.",
+      "The writer describes a hiking competition.",
+      "The writer describes buying new hiking gear."
+    ],
+    "answer": 0,
+    "explain_zh": "整篇部落格都在描述跟爸爸雨中健行陽明山的經過與感受，所以主旨是這趟雨中健行。文章沒有提到迷路、比賽或買新裝備。看標題「My Rainy Hike」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "hike",
+        "zh": "健行",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0042",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "My Rainy Hike on Yangmingshan\nPosted by Ting-Yu, March 3\n\nLast Saturday, my dad and I decided to hike the Qingtiangang trail on Yangmingshan, even though the weather app said it might rain. We packed raincoats just in case, which turned out to be a smart choice!\nThe first part of the trail was easy, walking through a wide grassy field with cows resting nearby. About halfway through, it started to drizzle, so we put on our raincoats and kept walking slowly on the wet path. The mist over the mountains actually made the view look magical, like a scene from a movie.\nWe stopped at a small pavilion to eat the sandwiches we had brought, watching the clouds move quickly across the hills. By the time we finished the trail, the rain had stopped completely, and there was a beautiful rainbow over the valley. It was tiring, but definitely one of my favorite hikes ever.",
+    "group_id": "NJR-G09",
+    "stem": "What did they see in the grassy field at the start?",
+    "options": [
+      "A waterfall.",
+      "Cows resting nearby.",
+      "Other hikers camping.",
+      "Wild monkeys."
+    ],
+    "answer": 1,
+    "explain_zh": "文章寫「walking through a wide grassy field with cows resting nearby」，所以看到的是在草原上休息的牛。文章沒有提到瀑布、露營的登山客或猴子。細節題要回到描述路段開頭的那句話。",
+    "vocab": [
+      {
+        "w": "grassy",
+        "zh": "多草的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0043",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "My Rainy Hike on Yangmingshan\nPosted by Ting-Yu, March 3\n\nLast Saturday, my dad and I decided to hike the Qingtiangang trail on Yangmingshan, even though the weather app said it might rain. We packed raincoats just in case, which turned out to be a smart choice!\nThe first part of the trail was easy, walking through a wide grassy field with cows resting nearby. About halfway through, it started to drizzle, so we put on our raincoats and kept walking slowly on the wet path. The mist over the mountains actually made the view look magical, like a scene from a movie.\nWe stopped at a small pavilion to eat the sandwiches we had brought, watching the clouds move quickly across the hills. By the time we finished the trail, the rain had stopped completely, and there was a beautiful rainbow over the valley. It was tiring, but definitely one of my favorite hikes ever.",
+    "group_id": "NJR-G09",
+    "stem": "What did they do when it started to drizzle?",
+    "options": [
+      "Turned back immediately.",
+      "Waited under a tree for the rain to stop.",
+      "Put on their raincoats and kept walking.",
+      "Called for a ride home."
+    ],
+    "answer": 2,
+    "explain_zh": "文章寫「it started to drizzle, so we put on our raincoats and kept walking slowly」，所以他們是穿雨衣繼續走。文章沒有提到馬上折返、在樹下等雨停或叫車回家。細節題要抓住 so 後面接的實際行動。",
+    "vocab": [
+      {
+        "w": "drizzle",
+        "zh": "毛毛雨",
+        "pos": "v./n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0044",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "My Rainy Hike on Yangmingshan\nPosted by Ting-Yu, March 3\n\nLast Saturday, my dad and I decided to hike the Qingtiangang trail on Yangmingshan, even though the weather app said it might rain. We packed raincoats just in case, which turned out to be a smart choice!\nThe first part of the trail was easy, walking through a wide grassy field with cows resting nearby. About halfway through, it started to drizzle, so we put on our raincoats and kept walking slowly on the wet path. The mist over the mountains actually made the view look magical, like a scene from a movie.\nWe stopped at a small pavilion to eat the sandwiches we had brought, watching the clouds move quickly across the hills. By the time we finished the trail, the rain had stopped completely, and there was a beautiful rainbow over the valley. It was tiring, but definitely one of my favorite hikes ever.",
+    "group_id": "NJR-G09",
+    "stem": "How did the writer likely feel at the end of the hike?",
+    "options": [
+      "Angry about the bad weather.",
+      "Disappointed with the whole trip.",
+      "Bored throughout the hike.",
+      "Tired but happy about the experience."
+    ],
+    "answer": 3,
+    "explain_zh": "文章結尾寫「It was tiring, but definitely one of my favorite hikes ever」，可推論作者雖然累但很滿足開心。文章沒有表現出生氣天氣不好、對整趟旅程失望或全程無聊。推論題要看結尾的情緒用詞和轉折語氣。",
+    "vocab": [
+      {
+        "w": "tiring",
+        "zh": "累人的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0045",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "My Rainy Hike on Yangmingshan\nPosted by Ting-Yu, March 3\n\nLast Saturday, my dad and I decided to hike the Qingtiangang trail on Yangmingshan, even though the weather app said it might rain. We packed raincoats just in case, which turned out to be a smart choice!\nThe first part of the trail was easy, walking through a wide grassy field with cows resting nearby. About halfway through, it started to drizzle, so we put on our raincoats and kept walking slowly on the wet path. The mist over the mountains actually made the view look magical, like a scene from a movie.\nWe stopped at a small pavilion to eat the sandwiches we had brought, watching the clouds move quickly across the hills. By the time we finished the trail, the rain had stopped completely, and there was a beautiful rainbow over the valley. It was tiring, but definitely one of my favorite hikes ever.",
+    "group_id": "NJR-G09",
+    "stem": "In the blog, what does \"drizzle\" mean?",
+    "options": [
+      "Light rain.",
+      "Strong wind.",
+      "Heavy thunder and lightning.",
+      "Thick fog with no rain."
+    ],
+    "answer": 0,
+    "explain_zh": "文中寫下雨後兩人「put on our raincoats and kept walking slowly on the wet path」，可知 drizzle 只是讓路變濕的小雨，程度不算太大，所以是「毛毛雨、小雨」的意思。它不是強風、雷電或無雨的濃霧。上下文猜字義題要看後續描述的雨量大小。",
+    "vocab": [
+      {
+        "w": "mist",
+        "zh": "薄霧",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0046",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Dear Mom and Dad,\n\nGreetings from Sun Moon Lake Summer Camp! I've only been here for three days, but I already feel like a different person. Yesterday, our group learned how to paddle a canoe, and I almost fell into the lake twice before I got the balance right!\n\nThe food here is simpler than at home, but I don't mind — we even cooked our own dinner over a campfire last night, which was surprisingly fun. My cabin has five other campers, and we stay up a little too late every night talking and laughing.\n\nTomorrow, we're going on a night hike to look for fireflies, and I'm a little nervous but mostly excited. I miss you both, and I miss my own bed, but I'm really glad you signed me up for this. I'll call you when the camp ends on Friday.\n\nLove,\nYu-Xuan",
+    "group_id": "NJR-G10",
+    "stem": "What is this postcard mainly about?",
+    "options": [
+      "A camper is asking her parents to pick her up early.",
+      "A camper is telling her parents about her experiences at summer camp.",
+      "A camper is complaining about the camp food.",
+      "A camper is describing a school field trip."
+    ],
+    "answer": 1,
+    "explain_zh": "整張明信片都在分享夏令營這幾天發生的事和心情，所以主旨是分享營隊生活點滴。明信片沒有要求提早接回家、抱怨食物或描述校外教學。看整體語氣和內容就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "camper",
+        "zh": "露營者；營隊學員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0047",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Dear Mom and Dad,\n\nGreetings from Sun Moon Lake Summer Camp! I've only been here for three days, but I already feel like a different person. Yesterday, our group learned how to paddle a canoe, and I almost fell into the lake twice before I got the balance right!\n\nThe food here is simpler than at home, but I don't mind — we even cooked our own dinner over a campfire last night, which was surprisingly fun. My cabin has five other campers, and we stay up a little too late every night talking and laughing.\n\nTomorrow, we're going on a night hike to look for fireflies, and I'm a little nervous but mostly excited. I miss you both, and I miss my own bed, but I'm really glad you signed me up for this. I'll call you when the camp ends on Friday.\n\nLove,\nYu-Xuan",
+    "group_id": "NJR-G10",
+    "stem": "What activity did Yu-Xuan do yesterday?",
+    "options": [
+      "She went on a night hike.",
+      "She learned to cook over a campfire only.",
+      "She learned how to paddle a canoe.",
+      "She visited a nearby town."
+    ],
+    "answer": 2,
+    "explain_zh": "明信片寫「Yesterday, our group learned how to paddle a canoe」，所以昨天的活動是學划獨木舟。夜間健行是明天要做的事，容易混淆。細節題要注意 yesterday 和 tomorrow 對應的不同活動。",
+    "vocab": [
+      {
+        "w": "paddle",
+        "zh": "划（船）",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0048",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Dear Mom and Dad,\n\nGreetings from Sun Moon Lake Summer Camp! I've only been here for three days, but I already feel like a different person. Yesterday, our group learned how to paddle a canoe, and I almost fell into the lake twice before I got the balance right!\n\nThe food here is simpler than at home, but I don't mind — we even cooked our own dinner over a campfire last night, which was surprisingly fun. My cabin has five other campers, and we stay up a little too late every night talking and laughing.\n\nTomorrow, we're going on a night hike to look for fireflies, and I'm a little nervous but mostly excited. I miss you both, and I miss my own bed, but I'm really glad you signed me up for this. I'll call you when the camp ends on Friday.\n\nLove,\nYu-Xuan",
+    "group_id": "NJR-G10",
+    "stem": "What is planned for tomorrow?",
+    "options": [
+      "A canoe race.",
+      "A campfire dinner.",
+      "A trip home.",
+      "A night hike to look for fireflies."
+    ],
+    "answer": 3,
+    "explain_zh": "明信片寫「Tomorrow, we're going on a night hike to look for fireflies」，所以明天的活動是找螢火蟲的夜間健行。划獨木舟是昨天的活動，容易混淆。細節題要抓住時間副詞對應的活動內容。",
+    "vocab": [
+      {
+        "w": "firefly",
+        "zh": "螢火蟲",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0049",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "Dear Mom and Dad,\n\nGreetings from Sun Moon Lake Summer Camp! I've only been here for three days, but I already feel like a different person. Yesterday, our group learned how to paddle a canoe, and I almost fell into the lake twice before I got the balance right!\n\nThe food here is simpler than at home, but I don't mind — we even cooked our own dinner over a campfire last night, which was surprisingly fun. My cabin has five other campers, and we stay up a little too late every night talking and laughing.\n\nTomorrow, we're going on a night hike to look for fireflies, and I'm a little nervous but mostly excited. I miss you both, and I miss my own bed, but I'm really glad you signed me up for this. I'll call you when the camp ends on Friday.\n\nLove,\nYu-Xuan",
+    "group_id": "NJR-G10",
+    "stem": "How does Yu-Xuan feel about the camp overall?",
+    "options": [
+      "She is enjoying it, even though she misses home a little.",
+      "She regrets coming to camp.",
+      "She feels bored most of the time.",
+      "She wants to leave immediately."
+    ],
+    "answer": 0,
+    "explain_zh": "明信片寫「I'm really glad you signed me up for this」，同時也提到想家，可推論她整體很享受營隊生活，只是偶爾想家。明信片沒有表現出後悔、無聊或想馬上離開。推論題要綜合正面與負面的描述來判斷整體感受。",
+    "vocab": [
+      {
+        "w": "glad",
+        "zh": "高興的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0050",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "指代對象",
+    "passage": "Dear Mom and Dad,\n\nGreetings from Sun Moon Lake Summer Camp! I've only been here for three days, but I already feel like a different person. Yesterday, our group learned how to paddle a canoe, and I almost fell into the lake twice before I got the balance right!\n\nThe food here is simpler than at home, but I don't mind — we even cooked our own dinner over a campfire last night, which was surprisingly fun. My cabin has five other campers, and we stay up a little too late every night talking and laughing.\n\nTomorrow, we're going on a night hike to look for fireflies, and I'm a little nervous but mostly excited. I miss you both, and I miss my own bed, but I'm really glad you signed me up for this. I'll call you when the camp ends on Friday.\n\nLove,\nYu-Xuan",
+    "group_id": "NJR-G10",
+    "stem": "In the postcard, what does \"I'll call you\" refer to Yu-Xuan doing?",
+    "options": [
+      "Calling her parents every night during camp.",
+      "Calling her parents when the camp ends on Friday.",
+      "Calling her friends back home.",
+      "Calling the camp office to complain."
+    ],
+    "answer": 1,
+    "explain_zh": "「I'll call you」緊接在「I miss you both」之後，並在同一句提到「when the camp ends on Friday」，所以指的是營隊結束星期五那天打給爸媽，而不是每天晚上、打給朋友或向營隊辦公室抱怨。指代對象題要看同一句話裡的時間線索。",
+    "vocab": [
+      {
+        "w": "call",
+        "zh": "打電話",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0051",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "COMMUNITY POOL — SAFETY RULES FOR ALL SWIMMERS\nWelcome to Sunview Community Pool! Please follow these rules to keep everyone safe. Children under 10 years old must be with an adult at all times, even in the shallow end. Running, pushing, and diving in the shallow end are strictly not allowed.\nThe pool is open from 8:00 a.m. to 9:00 p.m. every day, but it closes for fifteen minutes every hour for a safety check by the lifeguard. Please shower before entering the pool, and please do not bring any glass bottles or food near the water.\nIf you feel tired or see someone in trouble in the water, please tell the lifeguard immediately — do not try to help by yourself unless you are trained. Swimming caps are required for anyone with long hair. Thank you for helping us keep the pool a safe and fun place for everyone.",
+    "group_id": "NJR-G11",
+    "stem": "What is this notice mainly about?",
+    "options": [
+      "An advertisement for swimming lessons.",
+      "A schedule of pool cleaning days.",
+      "Safety rules that swimmers must follow at the community pool.",
+      "A list of prices for pool memberships."
+    ],
+    "answer": 2,
+    "explain_zh": "公告從標題到內文都在條列各種安全規定，所以主旨是泳客須知的安全規則。公告沒有廣告游泳課、公布清潔日程或列出會員價格。看標題「SAFETY RULES」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "safety",
+        "zh": "安全",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0052",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "COMMUNITY POOL — SAFETY RULES FOR ALL SWIMMERS\nWelcome to Sunview Community Pool! Please follow these rules to keep everyone safe. Children under 10 years old must be with an adult at all times, even in the shallow end. Running, pushing, and diving in the shallow end are strictly not allowed.\nThe pool is open from 8:00 a.m. to 9:00 p.m. every day, but it closes for fifteen minutes every hour for a safety check by the lifeguard. Please shower before entering the pool, and please do not bring any glass bottles or food near the water.\nIf you feel tired or see someone in trouble in the water, please tell the lifeguard immediately — do not try to help by yourself unless you are trained. Swimming caps are required for anyone with long hair. Thank you for helping us keep the pool a safe and fun place for everyone.",
+    "group_id": "NJR-G11",
+    "stem": "What must children under 10 have with them at all times?",
+    "options": [
+      "A swimming cap only.",
+      "A life jacket.",
+      "A pool pass.",
+      "An adult."
+    ],
+    "answer": 3,
+    "explain_zh": "公告寫「Children under 10 years old must be with an adult at all times」，所以十歲以下兒童一定要有大人陪同。公告沒有說只需要泳帽、救生衣或門票。細節題要回到規定條文找明確要求。",
+    "vocab": [
+      {
+        "w": "adult",
+        "zh": "成人",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0053",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "COMMUNITY POOL — SAFETY RULES FOR ALL SWIMMERS\nWelcome to Sunview Community Pool! Please follow these rules to keep everyone safe. Children under 10 years old must be with an adult at all times, even in the shallow end. Running, pushing, and diving in the shallow end are strictly not allowed.\nThe pool is open from 8:00 a.m. to 9:00 p.m. every day, but it closes for fifteen minutes every hour for a safety check by the lifeguard. Please shower before entering the pool, and please do not bring any glass bottles or food near the water.\nIf you feel tired or see someone in trouble in the water, please tell the lifeguard immediately — do not try to help by yourself unless you are trained. Swimming caps are required for anyone with long hair. Thank you for helping us keep the pool a safe and fun place for everyone.",
+    "group_id": "NJR-G11",
+    "stem": "Why does the pool close for fifteen minutes every hour?",
+    "options": [
+      "For a safety check by the lifeguard.",
+      "For cleaning the changing rooms.",
+      "For lunch break.",
+      "For adding more water."
+    ],
+    "answer": 0,
+    "explain_zh": "公告寫「it closes for fifteen minutes every hour for a safety check by the lifeguard」，所以原因是救生員的安全檢查。公告沒有提到清潔更衣室、午休或加水。細節題要抓住 for 後面說明的目的。",
+    "vocab": [
+      {
+        "w": "lifeguard",
+        "zh": "救生員",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0054",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "COMMUNITY POOL — SAFETY RULES FOR ALL SWIMMERS\nWelcome to Sunview Community Pool! Please follow these rules to keep everyone safe. Children under 10 years old must be with an adult at all times, even in the shallow end. Running, pushing, and diving in the shallow end are strictly not allowed.\nThe pool is open from 8:00 a.m. to 9:00 p.m. every day, but it closes for fifteen minutes every hour for a safety check by the lifeguard. Please shower before entering the pool, and please do not bring any glass bottles or food near the water.\nIf you feel tired or see someone in trouble in the water, please tell the lifeguard immediately — do not try to help by yourself unless you are trained. Swimming caps are required for anyone with long hair. Thank you for helping us keep the pool a safe and fun place for everyone.",
+    "group_id": "NJR-G11",
+    "stem": "What should you do if you see someone in trouble in the water?",
+    "options": [
+      "Jump in and try to save them yourself.",
+      "Tell the lifeguard immediately instead of helping alone.",
+      "Wait to see if they are okay first.",
+      "Call your parents right away."
+    ],
+    "answer": 1,
+    "explain_zh": "公告寫「please tell the lifeguard immediately... do not try to help by yourself unless you are trained」，可推論正確做法是立刻通知救生員而不是自己下水救人。公告沒有建議自行跳下去救人、先觀望或打給家長。推論題要抓住規則裡的禁止與建議用語。",
+    "vocab": [
+      {
+        "w": "immediately",
+        "zh": "立刻",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0055",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "COMMUNITY POOL — SAFETY RULES FOR ALL SWIMMERS\nWelcome to Sunview Community Pool! Please follow these rules to keep everyone safe. Children under 10 years old must be with an adult at all times, even in the shallow end. Running, pushing, and diving in the shallow end are strictly not allowed.\nThe pool is open from 8:00 a.m. to 9:00 p.m. every day, but it closes for fifteen minutes every hour for a safety check by the lifeguard. Please shower before entering the pool, and please do not bring any glass bottles or food near the water.\nIf you feel tired or see someone in trouble in the water, please tell the lifeguard immediately — do not try to help by yourself unless you are trained. Swimming caps are required for anyone with long hair. Thank you for helping us keep the pool a safe and fun place for everyone.",
+    "group_id": "NJR-G11",
+    "stem": "In the notice, what does \"strictly not allowed\" mean?",
+    "options": [
+      "Allowed with permission.",
+      "Encouraged for safety.",
+      "Completely forbidden.",
+      "Allowed only for adults."
+    ],
+    "answer": 2,
+    "explain_zh": "文中「Running, pushing, and diving in the shallow end are strictly not allowed」是在禁止這些危險動作，所以 strictly not allowed 是「完全禁止」的意思。它不是需要許可才能做、鼓勵的行為或只限成人能做。上下文猜字義題要看該詞前後描述的是禁止還是允許的行為。",
+    "vocab": [
+      {
+        "w": "allowed",
+        "zh": "被允許的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0056",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "To: All Grade 7 Parents\nFrom: Grade 7 Office\nSubject: Field Trip to the National Science Museum\n\nDear Parents,\n\nWe are pleased to inform you that Grade 7 students will visit the National Science Museum on October 22. Students should arrive at school by 7:30 a.m., as the bus will leave at 7:45 sharp. We expect to return to school by 4:30 p.m., a little later than usual because of possible traffic.\n\nPlease prepare a packed lunch for your child, since the museum cafeteria is expensive and often crowded. Students should also bring a water bottle, comfortable shoes, and 100 dollars in case they want to buy something from the gift shop. The trip fee of 250 dollars, which covers the bus and entrance ticket, is already included in this semester's school fees.\n\nIf your child has any health conditions we should know about, please inform the homeroom teacher by October 15. Thank you for your continued support.\n\nGrade 7 Office",
+    "group_id": "NJR-G12",
+    "stem": "What is this email mainly about?",
+    "options": [
+      "An email asking parents to pay an extra trip fee.",
+      "An email cancelling a field trip due to weather.",
+      "An email inviting parents to join the trip as helpers.",
+      "An email informing parents about the details of a science museum trip."
+    ],
+    "answer": 3,
+    "explain_zh": "信件詳細說明校外教學的時間、費用與注意事項，所以主旨是通知家長校外教學細節。信中沒有要求額外付費、因天氣取消行程或邀請家長當隨行志工。看主旨欄「Field Trip to the National Science Museum」就能判斷內容。",
+    "vocab": [
+      {
+        "w": "inform",
+        "zh": "通知",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0057",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "To: All Grade 7 Parents\nFrom: Grade 7 Office\nSubject: Field Trip to the National Science Museum\n\nDear Parents,\n\nWe are pleased to inform you that Grade 7 students will visit the National Science Museum on October 22. Students should arrive at school by 7:30 a.m., as the bus will leave at 7:45 sharp. We expect to return to school by 4:30 p.m., a little later than usual because of possible traffic.\n\nPlease prepare a packed lunch for your child, since the museum cafeteria is expensive and often crowded. Students should also bring a water bottle, comfortable shoes, and 100 dollars in case they want to buy something from the gift shop. The trip fee of 250 dollars, which covers the bus and entrance ticket, is already included in this semester's school fees.\n\nIf your child has any health conditions we should know about, please inform the homeroom teacher by October 15. Thank you for your continued support.\n\nGrade 7 Office",
+    "group_id": "NJR-G12",
+    "stem": "What time will the bus leave?",
+    "options": [
+      "7:45 a.m.",
+      "7:30 a.m.",
+      "8:00 a.m.",
+      "4:30 p.m."
+    ],
+    "answer": 0,
+    "explain_zh": "信中寫「the bus will leave at 7:45 sharp」，所以巴士出發時間是7點45分。7點30分是學生要到校的時間，容易混淆。細節題要分清楚「到校時間」和「發車時間」。",
+    "vocab": [
+      {
+        "w": "sharp",
+        "zh": "整（準時）",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0058",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "To: All Grade 7 Parents\nFrom: Grade 7 Office\nSubject: Field Trip to the National Science Museum\n\nDear Parents,\n\nWe are pleased to inform you that Grade 7 students will visit the National Science Museum on October 22. Students should arrive at school by 7:30 a.m., as the bus will leave at 7:45 sharp. We expect to return to school by 4:30 p.m., a little later than usual because of possible traffic.\n\nPlease prepare a packed lunch for your child, since the museum cafeteria is expensive and often crowded. Students should also bring a water bottle, comfortable shoes, and 100 dollars in case they want to buy something from the gift shop. The trip fee of 250 dollars, which covers the bus and entrance ticket, is already included in this semester's school fees.\n\nIf your child has any health conditions we should know about, please inform the homeroom teacher by October 15. Thank you for your continued support.\n\nGrade 7 Office",
+    "group_id": "NJR-G12",
+    "stem": "Why should students bring a packed lunch?",
+    "options": [
+      "Because the museum does not allow outside food.",
+      "Because the museum cafeteria is expensive and often crowded.",
+      "Because lunch is not included in the trip fee.",
+      "Because there is no cafeteria at the museum."
+    ],
+    "answer": 1,
+    "explain_zh": "信中寫「since the museum cafeteria is expensive and often crowded」，所以原因是餐廳貴又常常人多。信中沒有說禁止帶外食、午餐費用另計或沒有餐廳。細節題要抓住 since 後面的原因子句。",
+    "vocab": [
+      {
+        "w": "crowded",
+        "zh": "擁擠的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0059",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "To: All Grade 7 Parents\nFrom: Grade 7 Office\nSubject: Field Trip to the National Science Museum\n\nDear Parents,\n\nWe are pleased to inform you that Grade 7 students will visit the National Science Museum on October 22. Students should arrive at school by 7:30 a.m., as the bus will leave at 7:45 sharp. We expect to return to school by 4:30 p.m., a little later than usual because of possible traffic.\n\nPlease prepare a packed lunch for your child, since the museum cafeteria is expensive and often crowded. Students should also bring a water bottle, comfortable shoes, and 100 dollars in case they want to buy something from the gift shop. The trip fee of 250 dollars, which covers the bus and entrance ticket, is already included in this semester's school fees.\n\nIf your child has any health conditions we should know about, please inform the homeroom teacher by October 15. Thank you for your continued support.\n\nGrade 7 Office",
+    "group_id": "NJR-G12",
+    "stem": "Why might the school return later than usual?",
+    "options": [
+      "Because the museum closes late.",
+      "Because students will eat dinner there.",
+      "Because of possible traffic.",
+      "Because the bus will take a longer route on purpose."
+    ],
+    "answer": 2,
+    "explain_zh": "信中寫「a little later than usual because of possible traffic」，所以原因是可能塞車。信中沒有提到博物館晚關門、要在那裡吃晚餐或刻意繞遠路。推論題要抓住 because of 後面的具體原因。",
+    "vocab": [
+      {
+        "w": "traffic",
+        "zh": "交通；車流量",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0060",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "To: All Grade 7 Parents\nFrom: Grade 7 Office\nSubject: Field Trip to the National Science Museum\n\nDear Parents,\n\nWe are pleased to inform you that Grade 7 students will visit the National Science Museum on October 22. Students should arrive at school by 7:30 a.m., as the bus will leave at 7:45 sharp. We expect to return to school by 4:30 p.m., a little later than usual because of possible traffic.\n\nPlease prepare a packed lunch for your child, since the museum cafeteria is expensive and often crowded. Students should also bring a water bottle, comfortable shoes, and 100 dollars in case they want to buy something from the gift shop. The trip fee of 250 dollars, which covers the bus and entrance ticket, is already included in this semester's school fees.\n\nIf your child has any health conditions we should know about, please inform the homeroom teacher by October 15. Thank you for your continued support.\n\nGrade 7 Office",
+    "group_id": "NJR-G12",
+    "stem": "What is included in the 250 dollar trip fee?",
+    "options": [
+      "The bus, entrance ticket, and lunch.",
+      "Only the entrance ticket.",
+      "The gift shop shopping budget.",
+      "The bus and entrance ticket."
+    ],
+    "answer": 3,
+    "explain_zh": "信中寫「The trip fee of 250 dollars, which covers the bus and entrance ticket」，所以只包含車資和門票。信中沒有說包含午餐或紀念品購物金。細節題要抓住 covers 後面列出的完整項目。",
+    "vocab": [
+      {
+        "w": "cover",
+        "zh": "包含；涵蓋",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0061",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Saturday, April 12\nToday I finally got my very own pet — a small golden hamster! I named him Mochi because his fur looks soft and round like a rice cake. Dad and I set up his cage in the corner of my room, with a wheel, a little house, and soft bedding for him to dig into.\nAt first, Mochi hid inside his little house and wouldn't come out, even when I offered him a piece of carrot. Mom said hamsters are shy at first and need a few days to feel safe in a new home, so I shouldn't worry too much.\nBy the evening, Mochi finally came out to explore his cage while I sat quietly nearby. He even ran on his wheel for almost ten minutes! I can't wait to see him grow more comfortable with me over the next few days.",
+    "group_id": "NJR-G13",
+    "stem": "What is this diary entry mainly about?",
+    "options": [
+      "The writer describes getting a new pet hamster and its first day home.",
+      "The writer describes losing a pet.",
+      "The writer describes visiting a pet store.",
+      "The writer describes training a dog."
+    ],
+    "answer": 0,
+    "explain_zh": "整篇日記都在描述新養的黃金鼠第一天到家的情形，所以主旨是新寵物到家的第一天。日記沒有提到走失寵物、逛寵物店或訓練狗。看日記開頭「Today I finally got my very own pet」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "hamster",
+        "zh": "倉鼠",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0062",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Saturday, April 12\nToday I finally got my very own pet — a small golden hamster! I named him Mochi because his fur looks soft and round like a rice cake. Dad and I set up his cage in the corner of my room, with a wheel, a little house, and soft bedding for him to dig into.\nAt first, Mochi hid inside his little house and wouldn't come out, even when I offered him a piece of carrot. Mom said hamsters are shy at first and need a few days to feel safe in a new home, so I shouldn't worry too much.\nBy the evening, Mochi finally came out to explore his cage while I sat quietly nearby. He even ran on his wheel for almost ten minutes! I can't wait to see him grow more comfortable with me over the next few days.",
+    "group_id": "NJR-G13",
+    "stem": "Why did the writer name the hamster Mochi?",
+    "options": [
+      "Because Mochi is a color, not a food.",
+      "Because his fur looks soft and round like a rice cake.",
+      "Because it was the hamster's name at the store.",
+      "Because his sister suggested the name."
+    ],
+    "answer": 1,
+    "explain_zh": "日記寫「I named him Mochi because his fur looks soft and round like a rice cake」，所以命名原因是毛色和外型像麻糬。日記沒有提到那是店裡原本的名字或姊姊建議的。細節題要抓住 because 後面的原因句。",
+    "vocab": [
+      {
+        "w": "fur",
+        "zh": "毛皮",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0063",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Saturday, April 12\nToday I finally got my very own pet — a small golden hamster! I named him Mochi because his fur looks soft and round like a rice cake. Dad and I set up his cage in the corner of my room, with a wheel, a little house, and soft bedding for him to dig into.\nAt first, Mochi hid inside his little house and wouldn't come out, even when I offered him a piece of carrot. Mom said hamsters are shy at first and need a few days to feel safe in a new home, so I shouldn't worry too much.\nBy the evening, Mochi finally came out to explore his cage while I sat quietly nearby. He even ran on his wheel for almost ten minutes! I can't wait to see him grow more comfortable with me over the next few days.",
+    "group_id": "NJR-G13",
+    "stem": "What did Mochi do at first?",
+    "options": [
+      "Ran on the wheel right away.",
+      "Ate the carrot immediately.",
+      "Hid inside his little house.",
+      "Tried to escape the cage."
+    ],
+    "answer": 2,
+    "explain_zh": "日記寫「At first, Mochi hid inside his little house and wouldn't come out」，所以一開始牠躲在小屋裡。日記沒有說牠馬上跑滾輪、馬上吃紅蘿蔔或想逃出籠子。細節題要注意 at first 對應的具體行為。",
+    "vocab": [
+      {
+        "w": "hide",
+        "zh": "躲藏",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0064",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "Saturday, April 12\nToday I finally got my very own pet — a small golden hamster! I named him Mochi because his fur looks soft and round like a rice cake. Dad and I set up his cage in the corner of my room, with a wheel, a little house, and soft bedding for him to dig into.\nAt first, Mochi hid inside his little house and wouldn't come out, even when I offered him a piece of carrot. Mom said hamsters are shy at first and need a few days to feel safe in a new home, so I shouldn't worry too much.\nBy the evening, Mochi finally came out to explore his cage while I sat quietly nearby. He even ran on his wheel for almost ten minutes! I can't wait to see him grow more comfortable with me over the next few days.",
+    "group_id": "NJR-G13",
+    "stem": "Why does Mom tell the writer not to worry?",
+    "options": [
+      "Because the hamster is sick and needs rest.",
+      "Because the cage is too small.",
+      "Because hamsters usually run away.",
+      "Because hamsters are naturally shy in a new home at first."
+    ],
+    "answer": 3,
+    "explain_zh": "日記寫「Mom said hamsters are shy at first and need a few days to feel safe in a new home」，可推論媽媽是想安慰他這是正常現象。日記沒有提到倉鼠生病、籠子太小或倉鼠容易逃跑。推論題要抓住媽媽說明的原因。",
+    "vocab": [
+      {
+        "w": "shy",
+        "zh": "害羞的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0065",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "Saturday, April 12\nToday I finally got my very own pet — a small golden hamster! I named him Mochi because his fur looks soft and round like a rice cake. Dad and I set up his cage in the corner of my room, with a wheel, a little house, and soft bedding for him to dig into.\nAt first, Mochi hid inside his little house and wouldn't come out, even when I offered him a piece of carrot. Mom said hamsters are shy at first and need a few days to feel safe in a new home, so I shouldn't worry too much.\nBy the evening, Mochi finally came out to explore his cage while I sat quietly nearby. He even ran on his wheel for almost ten minutes! I can't wait to see him grow more comfortable with me over the next few days.",
+    "group_id": "NJR-G13",
+    "stem": "In the diary, what does \"explore\" mean?",
+    "options": [
+      "To look around a new place.",
+      "To sleep deeply.",
+      "To hide from danger.",
+      "To eat quickly."
+    ],
+    "answer": 0,
+    "explain_zh": "文中寫「Mochi finally came out to explore his cage」，是指牠出來到處看看新環境，所以 explore 是「探索」的意思。它不是睡覺、躲避危險或快速進食。上下文猜字義題要看動作發生的情境是安靜好奇還是緊張逃避。",
+    "vocab": [
+      {
+        "w": "explore",
+        "zh": "探索",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0066",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "MORNING SUNSHINE BREAKFAST — WEEKDAY SPECIALS\nStart your day right with our weekday specials, available Monday to Friday from 6:00 a.m. to 10:30 a.m. only. Our Classic Set includes a fried egg sandwich, a hash brown, and a small drink of your choice for just 75 dollars, which is 15 dollars cheaper than ordering each item separately.\nFor a healthier option, try our Veggie Wrap Set, with a whole wheat wrap filled with egg, lettuce, and tomato, paired with a cup of unsweetened soy milk, for 80 dollars. Both sets can be upgraded with a hot coffee for an extra 20 dollars.\nPlease note that we no longer accept phone orders due to how busy the morning rush gets; all orders must be placed in person or through our delivery app. On weekends, the full menu is available, but the special set prices do not apply, so please check the regular price list instead.",
+    "group_id": "NJR-G14",
+    "stem": "What is this passage mainly about?",
+    "options": [
+      "An announcement that the breakfast shop is closing.",
+      "An introduction to the breakfast shop's weekday special sets.",
+      "A complaint about breakfast shop prices.",
+      "A recipe for making breakfast sandwiches at home."
+    ],
+    "answer": 1,
+    "explain_zh": "文章從標題到內容都在介紹平日限定的早餐套餐組合，所以主旨是介紹平日特餐。文章沒有宣布店家歇業、抱怨價格或教人在家做三明治。看標題「WEEKDAY SPECIALS」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "special",
+        "zh": "特餐",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0067",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "MORNING SUNSHINE BREAKFAST — WEEKDAY SPECIALS\nStart your day right with our weekday specials, available Monday to Friday from 6:00 a.m. to 10:30 a.m. only. Our Classic Set includes a fried egg sandwich, a hash brown, and a small drink of your choice for just 75 dollars, which is 15 dollars cheaper than ordering each item separately.\nFor a healthier option, try our Veggie Wrap Set, with a whole wheat wrap filled with egg, lettuce, and tomato, paired with a cup of unsweetened soy milk, for 80 dollars. Both sets can be upgraded with a hot coffee for an extra 20 dollars.\nPlease note that we no longer accept phone orders due to how busy the morning rush gets; all orders must be placed in person or through our delivery app. On weekends, the full menu is available, but the special set prices do not apply, so please check the regular price list instead.",
+    "group_id": "NJR-G14",
+    "stem": "How much cheaper is the Classic Set than ordering items separately?",
+    "options": [
+      "20 dollars.",
+      "75 dollars.",
+      "15 dollars.",
+      "80 dollars."
+    ],
+    "answer": 2,
+    "explain_zh": "文章寫經典套餐「75 dollars, which is 15 dollars cheaper than ordering each item separately」，所以便宜15元。75元是套餐本身的價格，不是差額，容易混淆。細節題要分清楚「售價」和「省下的金額」。",
+    "vocab": [
+      {
+        "w": "separately",
+        "zh": "分開地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0068",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "MORNING SUNSHINE BREAKFAST — WEEKDAY SPECIALS\nStart your day right with our weekday specials, available Monday to Friday from 6:00 a.m. to 10:30 a.m. only. Our Classic Set includes a fried egg sandwich, a hash brown, and a small drink of your choice for just 75 dollars, which is 15 dollars cheaper than ordering each item separately.\nFor a healthier option, try our Veggie Wrap Set, with a whole wheat wrap filled with egg, lettuce, and tomato, paired with a cup of unsweetened soy milk, for 80 dollars. Both sets can be upgraded with a hot coffee for an extra 20 dollars.\nPlease note that we no longer accept phone orders due to how busy the morning rush gets; all orders must be placed in person or through our delivery app. On weekends, the full menu is available, but the special set prices do not apply, so please check the regular price list instead.",
+    "group_id": "NJR-G14",
+    "stem": "What comes with the Veggie Wrap Set?",
+    "options": [
+      "A fried egg sandwich and coffee.",
+      "A hash brown and orange juice.",
+      "Only the wrap, no drink.",
+      "A whole wheat wrap and unsweetened soy milk."
+    ],
+    "answer": 3,
+    "explain_zh": "文章寫蔬菜捲餐是「a whole wheat wrap filled with egg, lettuce, and tomato, paired with a cup of unsweetened soy milk」，所以包含全麥捲餅和無糖豆漿。經典套餐才有蛋餅三明治和薯餅，容易混淆。細節題要把兩種套餐的內容分開記住。",
+    "vocab": [
+      {
+        "w": "wrap",
+        "zh": "捲餅",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0069",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "MORNING SUNSHINE BREAKFAST — WEEKDAY SPECIALS\nStart your day right with our weekday specials, available Monday to Friday from 6:00 a.m. to 10:30 a.m. only. Our Classic Set includes a fried egg sandwich, a hash brown, and a small drink of your choice for just 75 dollars, which is 15 dollars cheaper than ordering each item separately.\nFor a healthier option, try our Veggie Wrap Set, with a whole wheat wrap filled with egg, lettuce, and tomato, paired with a cup of unsweetened soy milk, for 80 dollars. Both sets can be upgraded with a hot coffee for an extra 20 dollars.\nPlease note that we no longer accept phone orders due to how busy the morning rush gets; all orders must be placed in person or through our delivery app. On weekends, the full menu is available, but the special set prices do not apply, so please check the regular price list instead.",
+    "group_id": "NJR-G14",
+    "stem": "Why doesn't the shop accept phone orders anymore?",
+    "options": [
+      "Because the morning rush is too busy to manage phone calls.",
+      "Because the shop has closed its phone line permanently.",
+      "Because customers complained about phone orders.",
+      "Because the shop only serves dine-in customers."
+    ],
+    "answer": 0,
+    "explain_zh": "文章寫「we no longer accept phone orders due to how busy the morning rush gets」，可推論是因為早上太忙無法應付電話點餐。文章沒有說電話永久停用、顧客抱怨電話點餐，或只做內用生意。推論題要抓住 due to 後面的原因。",
+    "vocab": [
+      {
+        "w": "rush",
+        "zh": "尖峰時段；匆忙",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0070",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "MORNING SUNSHINE BREAKFAST — WEEKDAY SPECIALS\nStart your day right with our weekday specials, available Monday to Friday from 6:00 a.m. to 10:30 a.m. only. Our Classic Set includes a fried egg sandwich, a hash brown, and a small drink of your choice for just 75 dollars, which is 15 dollars cheaper than ordering each item separately.\nFor a healthier option, try our Veggie Wrap Set, with a whole wheat wrap filled with egg, lettuce, and tomato, paired with a cup of unsweetened soy milk, for 80 dollars. Both sets can be upgraded with a hot coffee for an extra 20 dollars.\nPlease note that we no longer accept phone orders due to how busy the morning rush gets; all orders must be placed in person or through our delivery app. On weekends, the full menu is available, but the special set prices do not apply, so please check the regular price list instead.",
+    "group_id": "NJR-G14",
+    "stem": "When do the special set prices NOT apply?",
+    "options": [
+      "On weekday mornings before 10:30.",
+      "On weekends.",
+      "During the lunch hour on weekdays.",
+      "On public holidays only, not weekends."
+    ],
+    "answer": 1,
+    "explain_zh": "文章寫「On weekends, the full menu is available, but the special set prices do not apply」，所以週末不適用特餐價格。文章沒有說平日早上10:30前或午餐時段不適用。細節題要抓住 do not apply 對應的時間範圍。",
+    "vocab": [
+      {
+        "w": "apply",
+        "zh": "適用",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0071",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "GREENHILL JUNIOR HIGH BOOK FAIR — COME AND EXPLORE!\nOur annual Book Fair is coming to the school gym from November 3 to November 7! Come browse hundreds of books, from comics and novels to science and history books, all at special discount prices for students.\nOpening hours are 8:00 a.m. to 4:00 p.m. every day, and the gym will stay open an extra hour on Thursday evening for parents who want to shop after work. Each class will have one scheduled visit time during school hours, but students are also welcome to return during lunch break with their own money.\nSpend over 500 dollars and receive a free bookmark set as a gift! On the last day, there will be a lucky draw for students who filled out a short book review form, with the top prize being a 1000 dollar bookstore gift card. Don't miss this chance to find your next favorite book!",
+    "group_id": "NJR-G15",
+    "stem": "What is this poster mainly about?",
+    "options": [
+      "An announcement about a new school library opening.",
+      "A report on the results of last year's book fair.",
+      "An announcement inviting students to the school book fair.",
+      "An advertisement for a writing competition."
+    ],
+    "answer": 2,
+    "explain_zh": "海報從標題到內容都在介紹書展的時間、活動與獎品，所以主旨是邀請學生參加書展。海報沒有宣布新圖書館開幕、公布去年書展成果或宣傳寫作比賽。看標題「BOOK FAIR」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "fair",
+        "zh": "展覽；市集",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0072",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "GREENHILL JUNIOR HIGH BOOK FAIR — COME AND EXPLORE!\nOur annual Book Fair is coming to the school gym from November 3 to November 7! Come browse hundreds of books, from comics and novels to science and history books, all at special discount prices for students.\nOpening hours are 8:00 a.m. to 4:00 p.m. every day, and the gym will stay open an extra hour on Thursday evening for parents who want to shop after work. Each class will have one scheduled visit time during school hours, but students are also welcome to return during lunch break with their own money.\nSpend over 500 dollars and receive a free bookmark set as a gift! On the last day, there will be a lucky draw for students who filled out a short book review form, with the top prize being a 1000 dollar bookstore gift card. Don't miss this chance to find your next favorite book!",
+    "group_id": "NJR-G15",
+    "stem": "When will the gym stay open an extra hour?",
+    "options": [
+      "Friday evening.",
+      "Monday morning.",
+      "Every evening during the fair.",
+      "Thursday evening."
+    ],
+    "answer": 3,
+    "explain_zh": "海報寫「the gym will stay open an extra hour on Thursday evening for parents」，所以是星期四晚上延長開放。其他選項的時間都沒有出現在海報中。細節題要抓住 extra hour 對應的確切日子。",
+    "vocab": [
+      {
+        "w": "extra",
+        "zh": "額外的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0073",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "GREENHILL JUNIOR HIGH BOOK FAIR — COME AND EXPLORE!\nOur annual Book Fair is coming to the school gym from November 3 to November 7! Come browse hundreds of books, from comics and novels to science and history books, all at special discount prices for students.\nOpening hours are 8:00 a.m. to 4:00 p.m. every day, and the gym will stay open an extra hour on Thursday evening for parents who want to shop after work. Each class will have one scheduled visit time during school hours, but students are also welcome to return during lunch break with their own money.\nSpend over 500 dollars and receive a free bookmark set as a gift! On the last day, there will be a lucky draw for students who filled out a short book review form, with the top prize being a 1000 dollar bookstore gift card. Don't miss this chance to find your next favorite book!",
+    "group_id": "NJR-G15",
+    "stem": "What do students get for spending over 500 dollars?",
+    "options": [
+      "A free bookmark set.",
+      "A free book.",
+      "A discount coupon for next year.",
+      "A gift card."
+    ],
+    "answer": 0,
+    "explain_zh": "海報寫「Spend over 500 dollars and receive a free bookmark set as a gift」，所以贈品是書籤組。禮物卡是抽獎的獎品，不是消費滿額禮，容易混淆。細節題要分清楚不同活動對應的獎勵。",
+    "vocab": [
+      {
+        "w": "bookmark",
+        "zh": "書籤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0074",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "GREENHILL JUNIOR HIGH BOOK FAIR — COME AND EXPLORE!\nOur annual Book Fair is coming to the school gym from November 3 to November 7! Come browse hundreds of books, from comics and novels to science and history books, all at special discount prices for students.\nOpening hours are 8:00 a.m. to 4:00 p.m. every day, and the gym will stay open an extra hour on Thursday evening for parents who want to shop after work. Each class will have one scheduled visit time during school hours, but students are also welcome to return during lunch break with their own money.\nSpend over 500 dollars and receive a free bookmark set as a gift! On the last day, there will be a lucky draw for students who filled out a short book review form, with the top prize being a 1000 dollar bookstore gift card. Don't miss this chance to find your next favorite book!",
+    "group_id": "NJR-G15",
+    "stem": "How can a student enter the lucky draw?",
+    "options": [
+      "By spending over 1000 dollars.",
+      "By filling out a short book review form.",
+      "By visiting the fair every day.",
+      "By buying a comic book."
+    ],
+    "answer": 1,
+    "explain_zh": "海報寫抽獎資格是「students who filled out a short book review form」，可推論要先填寫讀書心得表單才能參加抽獎。海報沒有說要花超過1000元、每天都要來或買漫畫才能參加。推論題要抓住 for 後面列出的參加條件。",
+    "vocab": [
+      {
+        "w": "review",
+        "zh": "心得；評論",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0075",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "GREENHILL JUNIOR HIGH BOOK FAIR — COME AND EXPLORE!\nOur annual Book Fair is coming to the school gym from November 3 to November 7! Come browse hundreds of books, from comics and novels to science and history books, all at special discount prices for students.\nOpening hours are 8:00 a.m. to 4:00 p.m. every day, and the gym will stay open an extra hour on Thursday evening for parents who want to shop after work. Each class will have one scheduled visit time during school hours, but students are also welcome to return during lunch break with their own money.\nSpend over 500 dollars and receive a free bookmark set as a gift! On the last day, there will be a lucky draw for students who filled out a short book review form, with the top prize being a 1000 dollar bookstore gift card. Don't miss this chance to find your next favorite book!",
+    "group_id": "NJR-G15",
+    "stem": "In the poster, what does \"browse\" mean?",
+    "options": [
+      "To buy something quickly without looking.",
+      "To return an item for a refund.",
+      "To look through things casually, without a fixed plan.",
+      "To wait in a long line."
+    ],
+    "answer": 2,
+    "explain_zh": "文中「Come browse hundreds of books, from comics and novels to science and history books」是邀請大家隨意瀏覽各類書籍，所以 browse 是「隨意瀏覽、翻閱」的意思。它不是快速購買、退貨或排隊等候。上下文猜字義題要看動詞後面接的是輕鬆逛書的情境。",
+    "vocab": [
+      {
+        "w": "browse",
+        "zh": "瀏覽",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0076",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Xin-Yi reached into her backpack for her house key, but her hand only found pencils and a half-eaten granola bar. Her stomach tightened — the key was gone, and both of her parents were at work until six.\nShe sat down on the front steps and tried to think calmly instead of panicking. She remembered that she had used the key that morning to lock the door before school, so it had to be somewhere between home and school. Rather than walking the whole route alone, she decided to call her best friend, Amber, who lived two streets away.\nAmber suggested that Xin-Yi wait at her house instead of sitting outside in the heat, and together they retraced Xin-Yi's morning path after school. Near the bus stop, they finally spotted the key, half-hidden under a bench where it must have fallen out of her pocket. Xin-Yi was so relieved that she promised herself she would clip her key to her bag from then on.",
+    "group_id": "NJR-G16",
+    "stem": "What is this story mainly about?",
+    "options": [
+      "A girl gets locked out and calls the police for help.",
+      "A girl argues with her parents about being careless.",
+      "A girl buys a new house key from a shop.",
+      "A girl loses her house key and works with a friend to find it."
+    ],
+    "answer": 3,
+    "explain_zh": "故事描述欣怡發現鑰匙不見後冷靜思考，並找朋友一起沿路尋回鑰匙，所以主旨是遺失鑰匙並找回的過程。故事沒有提到報警、跟父母吵架或買新鑰匙。看故事開頭和發展就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "panic",
+        "zh": "驚慌",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0077",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Xin-Yi reached into her backpack for her house key, but her hand only found pencils and a half-eaten granola bar. Her stomach tightened — the key was gone, and both of her parents were at work until six.\nShe sat down on the front steps and tried to think calmly instead of panicking. She remembered that she had used the key that morning to lock the door before school, so it had to be somewhere between home and school. Rather than walking the whole route alone, she decided to call her best friend, Amber, who lived two streets away.\nAmber suggested that Xin-Yi wait at her house instead of sitting outside in the heat, and together they retraced Xin-Yi's morning path after school. Near the bus stop, they finally spotted the key, half-hidden under a bench where it must have fallen out of her pocket. Xin-Yi was so relieved that she promised herself she would clip her key to her bag from then on.",
+    "group_id": "NJR-G16",
+    "stem": "Where did Xin-Yi wait instead of sitting outside?",
+    "options": [
+      "At Amber's house.",
+      "At the bus stop.",
+      "At her own front steps.",
+      "At school."
+    ],
+    "answer": 0,
+    "explain_zh": "故事寫「Amber suggested that Xin-Yi wait at her house instead of sitting outside in the heat」，所以是在Amber家裡等。前面提到她原本坐在自家門口台階，後來才改到Amber家，容易混淆。細節題要注意事情發展的先後順序。",
+    "vocab": [
+      {
+        "w": "suggest",
+        "zh": "建議",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0078",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Xin-Yi reached into her backpack for her house key, but her hand only found pencils and a half-eaten granola bar. Her stomach tightened — the key was gone, and both of her parents were at work until six.\nShe sat down on the front steps and tried to think calmly instead of panicking. She remembered that she had used the key that morning to lock the door before school, so it had to be somewhere between home and school. Rather than walking the whole route alone, she decided to call her best friend, Amber, who lived two streets away.\nAmber suggested that Xin-Yi wait at her house instead of sitting outside in the heat, and together they retraced Xin-Yi's morning path after school. Near the bus stop, they finally spotted the key, half-hidden under a bench where it must have fallen out of her pocket. Xin-Yi was so relieved that she promised herself she would clip her key to her bag from then on.",
+    "group_id": "NJR-G16",
+    "stem": "Where did they finally find the key?",
+    "options": [
+      "Inside her backpack.",
+      "Under a bench near the bus stop.",
+      "In the school office.",
+      "On the front steps of her house."
+    ],
+    "answer": 1,
+    "explain_zh": "故事寫「Near the bus stop, they finally spotted the key, half-hidden under a bench」，所以鑰匙是在公車站附近的長椅下找到的。故事沒有說鑰匙在書包裡、學校辦公室或自家台階上找到。細節題要抓住 finally spotted 後面的地點。",
+    "vocab": [
+      {
+        "w": "spot",
+        "zh": "發現；看見",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0079",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "Xin-Yi reached into her backpack for her house key, but her hand only found pencils and a half-eaten granola bar. Her stomach tightened — the key was gone, and both of her parents were at work until six.\nShe sat down on the front steps and tried to think calmly instead of panicking. She remembered that she had used the key that morning to lock the door before school, so it had to be somewhere between home and school. Rather than walking the whole route alone, she decided to call her best friend, Amber, who lived two streets away.\nAmber suggested that Xin-Yi wait at her house instead of sitting outside in the heat, and together they retraced Xin-Yi's morning path after school. Near the bus stop, they finally spotted the key, half-hidden under a bench where it must have fallen out of her pocket. Xin-Yi was so relieved that she promised herself she would clip her key to her bag from then on.",
+    "group_id": "NJR-G16",
+    "stem": "What did Xin-Yi decide to do differently in the future?",
+    "options": [
+      "Never carry her key to school again.",
+      "Ask her parents to come home earlier.",
+      "Clip her key to her bag so it won't fall out.",
+      "Leave a spare key under the doormat."
+    ],
+    "answer": 2,
+    "explain_zh": "故事結尾寫「she promised herself she would clip her key to her bag from then on」，可推論她決定以後把鑰匙扣在書包上避免再弄丟。故事沒有提到以後不帶鑰匙、要求爸媽提早回家或在門墊下藏備用鑰匙。推論題要看結尾她做出的具體決定。",
+    "vocab": [
+      {
+        "w": "clip",
+        "zh": "夾住；扣住",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0080",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "Xin-Yi reached into her backpack for her house key, but her hand only found pencils and a half-eaten granola bar. Her stomach tightened — the key was gone, and both of her parents were at work until six.\nShe sat down on the front steps and tried to think calmly instead of panicking. She remembered that she had used the key that morning to lock the door before school, so it had to be somewhere between home and school. Rather than walking the whole route alone, she decided to call her best friend, Amber, who lived two streets away.\nAmber suggested that Xin-Yi wait at her house instead of sitting outside in the heat, and together they retraced Xin-Yi's morning path after school. Near the bus stop, they finally spotted the key, half-hidden under a bench where it must have fallen out of her pocket. Xin-Yi was so relieved that she promised herself she would clip her key to her bag from then on.",
+    "group_id": "NJR-G16",
+    "stem": "In the story, what does \"retraced\" mean?",
+    "options": [
+      "Drew a new map.",
+      "Walked in a completely different direction.",
+      "Ran as fast as possible.",
+      "Followed the same path again."
+    ],
+    "answer": 3,
+    "explain_zh": "文中寫「they retraced Xin-Yi's morning path after school」，是指沿著早上走過的路線再走一次去找鑰匙，所以 retraced 是「循原路走一遍」的意思。它不是畫新地圖、走完全不同的方向或用跑的。上下文猜字義題要注意受詞是 path（路線）。",
+    "vocab": [
+      {
+        "w": "path",
+        "zh": "路徑",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0081",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "HOW TO USE THE LIBRARY SELF-CHECKOUT MACHINE\nBorrowing books is now faster with our new self-checkout machine! First, tap your student card on the screen to log in. Next, place your books one at a time on the flat scanner area — wait for the beep before adding the next book.\nOnce all your books are scanned, check the screen to make sure the number of books matches what you are borrowing. If everything looks correct, press the green \"Confirm\" button, and a receipt will print showing the return date for each book.\nIf the machine shows an error message, or if a book does not scan after three tries, please bring your books to the front desk for help instead of trying again and again. Remember, the self-checkout machine can only be used for borrowing, not for returning books — please use the blue return box near the entrance for that.",
+    "group_id": "NJR-G17",
+    "stem": "What is this passage mainly about?",
+    "options": [
+      "Instructions for using the library's new self-checkout machine.",
+      "Instructions for returning overdue books.",
+      "A notice about the library closing for repairs.",
+      "A comparison between two different libraries."
+    ],
+    "answer": 0,
+    "explain_zh": "文章從標題到內容都是一步步說明如何操作自助借書機，所以主旨是自助借書機的使用說明。文章沒有教人怎麼還逾期書、宣布圖書館整修關閉或比較不同圖書館。看標題「HOW TO USE」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "self-checkout",
+        "zh": "自助結帳（借書）",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0082",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "HOW TO USE THE LIBRARY SELF-CHECKOUT MACHINE\nBorrowing books is now faster with our new self-checkout machine! First, tap your student card on the screen to log in. Next, place your books one at a time on the flat scanner area — wait for the beep before adding the next book.\nOnce all your books are scanned, check the screen to make sure the number of books matches what you are borrowing. If everything looks correct, press the green \"Confirm\" button, and a receipt will print showing the return date for each book.\nIf the machine shows an error message, or if a book does not scan after three tries, please bring your books to the front desk for help instead of trying again and again. Remember, the self-checkout machine can only be used for borrowing, not for returning books — please use the blue return box near the entrance for that.",
+    "group_id": "NJR-G17",
+    "stem": "What should you do before adding the next book to the scanner?",
+    "options": [
+      "Tap your student card again.",
+      "Wait for the beep.",
+      "Press the green button.",
+      "Wait for a printed receipt."
+    ],
+    "answer": 1,
+    "explain_zh": "文章寫「wait for the beep before adding the next book」，所以加下一本書前要先等嗶聲。文章沒有說每次都要重新刷卡、先按確認鈕或等收據印出來。細節題要抓住 before 前後的正確操作順序。",
+    "vocab": [
+      {
+        "w": "scan",
+        "zh": "掃描",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0083",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "HOW TO USE THE LIBRARY SELF-CHECKOUT MACHINE\nBorrowing books is now faster with our new self-checkout machine! First, tap your student card on the screen to log in. Next, place your books one at a time on the flat scanner area — wait for the beep before adding the next book.\nOnce all your books are scanned, check the screen to make sure the number of books matches what you are borrowing. If everything looks correct, press the green \"Confirm\" button, and a receipt will print showing the return date for each book.\nIf the machine shows an error message, or if a book does not scan after three tries, please bring your books to the front desk for help instead of trying again and again. Remember, the self-checkout machine can only be used for borrowing, not for returning books — please use the blue return box near the entrance for that.",
+    "group_id": "NJR-G17",
+    "stem": "What does the receipt show?",
+    "options": [
+      "The price of each book.",
+      "The name of the librarian.",
+      "The return date for each book.",
+      "The total number of books in the library."
+    ],
+    "answer": 2,
+    "explain_zh": "文章寫「a receipt will print showing the return date for each book」，所以收據上顯示的是每本書的還書日期。文章沒有提到書的價格、館員姓名或館藏總數。細節題要抓住 showing 後面的具體內容。",
+    "vocab": [
+      {
+        "w": "receipt",
+        "zh": "收據",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0084",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "HOW TO USE THE LIBRARY SELF-CHECKOUT MACHINE\nBorrowing books is now faster with our new self-checkout machine! First, tap your student card on the screen to log in. Next, place your books one at a time on the flat scanner area — wait for the beep before adding the next book.\nOnce all your books are scanned, check the screen to make sure the number of books matches what you are borrowing. If everything looks correct, press the green \"Confirm\" button, and a receipt will print showing the return date for each book.\nIf the machine shows an error message, or if a book does not scan after three tries, please bring your books to the front desk for help instead of trying again and again. Remember, the self-checkout machine can only be used for borrowing, not for returning books — please use the blue return box near the entrance for that.",
+    "group_id": "NJR-G17",
+    "stem": "What should you do if a book fails to scan three times?",
+    "options": [
+      "Keep trying until it works.",
+      "Put the book back on the shelf.",
+      "Use the blue return box instead.",
+      "Bring it to the front desk for help."
+    ],
+    "answer": 3,
+    "explain_zh": "文章寫「if a book does not scan after three tries, please bring your books to the front desk for help instead of trying again and again」，可推論正確做法是找櫃檯協助而不是一直嘗試。文章沒有建議把書放回架上或用還書箱處理借書的問題。推論題要抓住 instead of 前後的對比。",
+    "vocab": [
+      {
+        "w": "error",
+        "zh": "錯誤",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0085",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "HOW TO USE THE LIBRARY SELF-CHECKOUT MACHINE\nBorrowing books is now faster with our new self-checkout machine! First, tap your student card on the screen to log in. Next, place your books one at a time on the flat scanner area — wait for the beep before adding the next book.\nOnce all your books are scanned, check the screen to make sure the number of books matches what you are borrowing. If everything looks correct, press the green \"Confirm\" button, and a receipt will print showing the return date for each book.\nIf the machine shows an error message, or if a book does not scan after three tries, please bring your books to the front desk for help instead of trying again and again. Remember, the self-checkout machine can only be used for borrowing, not for returning books — please use the blue return box near the entrance for that.",
+    "group_id": "NJR-G17",
+    "stem": "What is the self-checkout machine NOT used for?",
+    "options": [
+      "Returning books.",
+      "Borrowing books.",
+      "Checking the return date.",
+      "Logging in with a student card."
+    ],
+    "answer": 0,
+    "explain_zh": "文章寫「the self-checkout machine can only be used for borrowing, not for returning books」，所以還書不能用這台機器。文章沒有說不能借書、看還書日期或刷卡登入。細節題要抓住 not for 後面明確排除的功能。",
+    "vocab": [
+      {
+        "w": "return",
+        "zh": "歸還",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0086",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "[Chat record — Class 805 Beach Cleanup Group]\nTeacher Lin: Hi everyone! As a reminder, our class beach cleanup is this Saturday morning at Baisha Beach. Please arrive at the school gate by 8:00 a.m. to catch the bus together.\nJun-Wei: Got it! Should we bring our own gloves and trash bags, or will they be provided?\nTeacher Lin: Good question — the environmental group is providing gloves and bags, so you don't need to bring those. Just bring sunscreen, a hat, and a water bottle.\nXiao-Fan: Can we bring our own reusable bags for any snacks we bring?\nTeacher Lin: Yes, that would be great since we want to reduce our own trash too!\nJun-Wei: What time will we finish and come back to school?\nTeacher Lin: We should be done cleaning by 11:00, and the bus will bring us back to school by noon.\nXiao-Fan: Sounds good. Should we wear our PE clothes?\nTeacher Lin: Yes, PE clothes and comfortable shoes are best for this activity.",
+    "group_id": "NJR-G18",
+    "stem": "What is this chat record mainly about?",
+    "options": [
+      "A teacher is planning a class trip to the beach for fun.",
+      "A teacher is giving students information about a class beach cleanup.",
+      "Students are arguing about who has to join the cleanup.",
+      "A teacher is cancelling the beach cleanup due to weather."
+    ],
+    "answer": 1,
+    "explain_zh": "整段對話都是老師在說明淨灘活動的時間、裝備與注意事項，所以主旨是告知淨灘活動細節。對話沒有在規劃玩樂性質的海邊旅遊、爭吵誰該參加或取消活動。看對話開頭的提醒句就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "cleanup",
+        "zh": "清潔活動",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0087",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "[Chat record — Class 805 Beach Cleanup Group]\nTeacher Lin: Hi everyone! As a reminder, our class beach cleanup is this Saturday morning at Baisha Beach. Please arrive at the school gate by 8:00 a.m. to catch the bus together.\nJun-Wei: Got it! Should we bring our own gloves and trash bags, or will they be provided?\nTeacher Lin: Good question — the environmental group is providing gloves and bags, so you don't need to bring those. Just bring sunscreen, a hat, and a water bottle.\nXiao-Fan: Can we bring our own reusable bags for any snacks we bring?\nTeacher Lin: Yes, that would be great since we want to reduce our own trash too!\nJun-Wei: What time will we finish and come back to school?\nTeacher Lin: We should be done cleaning by 11:00, and the bus will bring us back to school by noon.\nXiao-Fan: Sounds good. Should we wear our PE clothes?\nTeacher Lin: Yes, PE clothes and comfortable shoes are best for this activity.",
+    "group_id": "NJR-G18",
+    "stem": "What will the environmental group provide?",
+    "options": [
+      "Sunscreen and hats.",
+      "Water bottles and snacks.",
+      "Gloves and trash bags.",
+      "Bus transportation only."
+    ],
+    "answer": 2,
+    "explain_zh": "老師說「the environmental group is providing gloves and bags」，所以環保團體會提供手套和垃圾袋。防曬乳、帽子和水壺是學生自己要帶的，容易混淆。細節題要分清楚誰負責準備什麼。",
+    "vocab": [
+      {
+        "w": "provide",
+        "zh": "提供",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0088",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "[Chat record — Class 805 Beach Cleanup Group]\nTeacher Lin: Hi everyone! As a reminder, our class beach cleanup is this Saturday morning at Baisha Beach. Please arrive at the school gate by 8:00 a.m. to catch the bus together.\nJun-Wei: Got it! Should we bring our own gloves and trash bags, or will they be provided?\nTeacher Lin: Good question — the environmental group is providing gloves and bags, so you don't need to bring those. Just bring sunscreen, a hat, and a water bottle.\nXiao-Fan: Can we bring our own reusable bags for any snacks we bring?\nTeacher Lin: Yes, that would be great since we want to reduce our own trash too!\nJun-Wei: What time will we finish and come back to school?\nTeacher Lin: We should be done cleaning by 11:00, and the bus will bring us back to school by noon.\nXiao-Fan: Sounds good. Should we wear our PE clothes?\nTeacher Lin: Yes, PE clothes and comfortable shoes are best for this activity.",
+    "group_id": "NJR-G18",
+    "stem": "What time should students arrive at the school gate?",
+    "options": [
+      "11:00 a.m.",
+      "Noon.",
+      "9:00 a.m.",
+      "8:00 a.m."
+    ],
+    "answer": 3,
+    "explain_zh": "老師說「Please arrive at the school gate by 8:00 a.m. to catch the bus together」，所以集合時間是早上八點。十一點是預計清潔完成的時間，容易混淆。細節題要分清楚「集合時間」和「結束時間」。",
+    "vocab": [
+      {
+        "w": "arrive",
+        "zh": "到達",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0089",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "[Chat record — Class 805 Beach Cleanup Group]\nTeacher Lin: Hi everyone! As a reminder, our class beach cleanup is this Saturday morning at Baisha Beach. Please arrive at the school gate by 8:00 a.m. to catch the bus together.\nJun-Wei: Got it! Should we bring our own gloves and trash bags, or will they be provided?\nTeacher Lin: Good question — the environmental group is providing gloves and bags, so you don't need to bring those. Just bring sunscreen, a hat, and a water bottle.\nXiao-Fan: Can we bring our own reusable bags for any snacks we bring?\nTeacher Lin: Yes, that would be great since we want to reduce our own trash too!\nJun-Wei: What time will we finish and come back to school?\nTeacher Lin: We should be done cleaning by 11:00, and the bus will bring us back to school by noon.\nXiao-Fan: Sounds good. Should we wear our PE clothes?\nTeacher Lin: Yes, PE clothes and comfortable shoes are best for this activity.",
+    "group_id": "NJR-G18",
+    "stem": "Why does the teacher agree with bringing reusable bags for snacks?",
+    "options": [
+      "Because they want to reduce their own trash too.",
+      "Because plastic bags are not allowed on the bus.",
+      "Because reusable bags are required by the beach rules.",
+      "Because the school is out of plastic bags."
+    ],
+    "answer": 0,
+    "explain_zh": "老師回應「that would be great since we want to reduce our own trash too」，可推論同意的原因是希望減少自己製造的垃圾。對話沒有提到公車禁止塑膠袋、海灘規定強制使用環保袋或學校塑膠袋用完。推論題要抓住 since 後面的原因子句。",
+    "vocab": [
+      {
+        "w": "reusable",
+        "zh": "可重複使用的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0090",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "[Chat record — Class 805 Beach Cleanup Group]\nTeacher Lin: Hi everyone! As a reminder, our class beach cleanup is this Saturday morning at Baisha Beach. Please arrive at the school gate by 8:00 a.m. to catch the bus together.\nJun-Wei: Got it! Should we bring our own gloves and trash bags, or will they be provided?\nTeacher Lin: Good question — the environmental group is providing gloves and bags, so you don't need to bring those. Just bring sunscreen, a hat, and a water bottle.\nXiao-Fan: Can we bring our own reusable bags for any snacks we bring?\nTeacher Lin: Yes, that would be great since we want to reduce our own trash too!\nJun-Wei: What time will we finish and come back to school?\nTeacher Lin: We should be done cleaning by 11:00, and the bus will bring us back to school by noon.\nXiao-Fan: Sounds good. Should we wear our PE clothes?\nTeacher Lin: Yes, PE clothes and comfortable shoes are best for this activity.",
+    "group_id": "NJR-G18",
+    "stem": "What should students wear for the cleanup?",
+    "options": [
+      "School uniforms.",
+      "PE clothes and comfortable shoes.",
+      "Swimsuits.",
+      "Any casual clothes."
+    ],
+    "answer": 1,
+    "explain_zh": "老師說「PE clothes and comfortable shoes are best for this activity」，所以要穿體育服和舒適的鞋子。對話沒有提到制服、泳裝或隨便穿便服。細節題要回到最後一句找明確的服裝要求。",
+    "vocab": [
+      {
+        "w": "comfortable",
+        "zh": "舒適的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0091",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Learning to Skateboard: My First Month\nPosted by Zhi-Hao, June 15\n\nI got my first skateboard as a birthday gift last month, and wow, it has been harder than I expected! In the first week, I couldn't even stand on the board without holding onto a wall. My ankles felt wobbly, and I fell down more times than I can count.\n\nBy the second week, I could finally push off and roll a short distance without falling, which felt like a huge win. I watched a lot of videos online to learn the right way to turn and stop safely, since I really didn't want to get hurt.\n\nNow, after a full month of practice almost every day after school, I can ride around the park without holding onto anything, and I'm even starting to learn small jumps called ollies. My knees are covered in small bruises, but I'm honestly proud of how far I've come. Next month, I want to try skating with my friends at the new skate park downtown.",
+    "group_id": "NJR-G19",
+    "stem": "What is this blog post mainly about?",
+    "options": [
+      "The writer complains about getting injured while skateboarding.",
+      "The writer reviews different types of skateboards to buy.",
+      "The writer shares his progress learning to skateboard over a month.",
+      "The writer describes a skateboarding competition he watched."
+    ],
+    "answer": 2,
+    "explain_zh": "整篇部落格都在描述作者一個月來學滑板從跌倒到進步的過程，所以主旨是分享學滑板的進度。文章沒有在抱怨受傷、評比滑板產品或描述看比賽。看標題「My First Month」就能掌握主旨。",
+    "vocab": [
+      {
+        "w": "skateboard",
+        "zh": "滑板",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0092",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Learning to Skateboard: My First Month\nPosted by Zhi-Hao, June 15\n\nI got my first skateboard as a birthday gift last month, and wow, it has been harder than I expected! In the first week, I couldn't even stand on the board without holding onto a wall. My ankles felt wobbly, and I fell down more times than I can count.\n\nBy the second week, I could finally push off and roll a short distance without falling, which felt like a huge win. I watched a lot of videos online to learn the right way to turn and stop safely, since I really didn't want to get hurt.\n\nNow, after a full month of practice almost every day after school, I can ride around the park without holding onto anything, and I'm even starting to learn small jumps called ollies. My knees are covered in small bruises, but I'm honestly proud of how far I've come. Next month, I want to try skating with my friends at the new skate park downtown.",
+    "group_id": "NJR-G19",
+    "stem": "What happened in the writer's first week of skateboarding?",
+    "options": [
+      "He could already ride around the park.",
+      "He learned to do an ollie.",
+      "He gave up skateboarding completely.",
+      "He couldn't stand on the board without holding a wall."
+    ],
+    "answer": 3,
+    "explain_zh": "文章寫「In the first week, I couldn't even stand on the board without holding onto a wall」，所以第一週連站都站不穩。文章沒有說第一週就能繞公園騎、學會跳躍或放棄滑板。細節題要注意 first week 對應的具體描述。",
+    "vocab": [
+      {
+        "w": "wall",
+        "zh": "牆壁",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0093",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Learning to Skateboard: My First Month\nPosted by Zhi-Hao, June 15\n\nI got my first skateboard as a birthday gift last month, and wow, it has been harder than I expected! In the first week, I couldn't even stand on the board without holding onto a wall. My ankles felt wobbly, and I fell down more times than I can count.\n\nBy the second week, I could finally push off and roll a short distance without falling, which felt like a huge win. I watched a lot of videos online to learn the right way to turn and stop safely, since I really didn't want to get hurt.\n\nNow, after a full month of practice almost every day after school, I can ride around the park without holding onto anything, and I'm even starting to learn small jumps called ollies. My knees are covered in small bruises, but I'm honestly proud of how far I've come. Next month, I want to try skating with my friends at the new skate park downtown.",
+    "group_id": "NJR-G19",
+    "stem": "How did the writer learn to turn and stop safely?",
+    "options": [
+      "By watching videos online.",
+      "By taking lessons from a coach.",
+      "By asking his friends to teach him.",
+      "By reading a skateboarding book."
+    ],
+    "answer": 0,
+    "explain_zh": "文章寫「I watched a lot of videos online to learn the right way to turn and stop safely」，所以是靠看網路影片學習。文章沒有提到上教練課、找朋友教或看書。細節題要抓住 to learn 前面的方法句。",
+    "vocab": [
+      {
+        "w": "turn",
+        "zh": "轉彎",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0094",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "Learning to Skateboard: My First Month\nPosted by Zhi-Hao, June 15\n\nI got my first skateboard as a birthday gift last month, and wow, it has been harder than I expected! In the first week, I couldn't even stand on the board without holding onto a wall. My ankles felt wobbly, and I fell down more times than I can count.\n\nBy the second week, I could finally push off and roll a short distance without falling, which felt like a huge win. I watched a lot of videos online to learn the right way to turn and stop safely, since I really didn't want to get hurt.\n\nNow, after a full month of practice almost every day after school, I can ride around the park without holding onto anything, and I'm even starting to learn small jumps called ollies. My knees are covered in small bruises, but I'm honestly proud of how far I've come. Next month, I want to try skating with my friends at the new skate park downtown.",
+    "group_id": "NJR-G19",
+    "stem": "What does the writer plan to do next month?",
+    "options": [
+      "Stop skateboarding because of his bruises.",
+      "Try skating with friends at a new skate park.",
+      "Buy a new and more expensive skateboard.",
+      "Join a skateboarding competition."
+    ],
+    "answer": 1,
+    "explain_zh": "文章結尾寫「Next month, I want to try skating with my friends at the new skate park downtown」，所以下個月計畫和朋友去新滑板場玩。文章沒有說因為瘀青想放棄、要買更貴的滑板或參加比賽。推論題要看文章最後透露的未來計畫。",
+    "vocab": [
+      {
+        "w": "downtown",
+        "zh": "市中心",
+        "pos": "adv./n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0095",
+    "level": "J2",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "上下文猜字義",
+    "passage": "Learning to Skateboard: My First Month\nPosted by Zhi-Hao, June 15\n\nI got my first skateboard as a birthday gift last month, and wow, it has been harder than I expected! In the first week, I couldn't even stand on the board without holding onto a wall. My ankles felt wobbly, and I fell down more times than I can count.\n\nBy the second week, I could finally push off and roll a short distance without falling, which felt like a huge win. I watched a lot of videos online to learn the right way to turn and stop safely, since I really didn't want to get hurt.\n\nNow, after a full month of practice almost every day after school, I can ride around the park without holding onto anything, and I'm even starting to learn small jumps called ollies. My knees are covered in small bruises, but I'm honestly proud of how far I've come. Next month, I want to try skating with my friends at the new skate park downtown.",
+    "group_id": "NJR-G19",
+    "stem": "In the blog, what does \"wobbly\" mean?",
+    "options": [
+      "Strong and stable.",
+      "Fast and smooth.",
+      "Shaky and unsteady.",
+      "Painful and sore."
+    ],
+    "answer": 2,
+    "explain_zh": "文中寫「My ankles felt wobbly, and I fell down more times than I can count」，可知因為腳踝不穩才會一直跌倒，所以 wobbly 是「搖晃不穩的」意思。它不是強壯穩固、快速平順或痠痛的意思。上下文猜字義題要看後面描述的結果是跌倒還是其他狀態。",
+    "vocab": [
+      {
+        "w": "wobbly",
+        "zh": "搖晃不穩的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0096",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "passage": "Dear Wei-Ting,\n\nGreetings from Green Island! My family and I arrived two days ago, and I wish you could see how clear the ocean water is here — you can see fish swimming even from the boat. Yesterday, we went snorkeling near a place called Chaikou, and I saw a small sea turtle swimming right below me. I was so surprised that I forgot to breathe through my snorkel for a second!\n\nThis morning, we rented bikes and rode around the whole island, which only took about two hours since the island is quite small. We stopped at a hot spring by the sea, which is apparently one of very few saltwater hot springs in the world. Tonight, we're going to try the local flying fish dishes at a night market near our hotel.\n\nWe're heading back to Taitung tomorrow afternoon, and then home the next day. I'll show you all my underwater photos when I get back!\n\nMiss you,\nJia-Yun",
+    "group_id": "NJR-G20",
+    "stem": "What is this postcard mainly about?",
+    "options": [
+      "The writer describes a difficult flight to Green Island.",
+      "The writer asks her friend to join her next year.",
+      "The writer complains about the weather on the trip.",
+      "The writer describes her exciting activities during a trip to Green Island."
+    ],
+    "answer": 3,
+    "explain_zh": "整張明信片都在分享在綠島浮潛、騎車環島、泡溫泉等活動，所以主旨是分享綠島旅行的體驗。明信片沒有描述搭飛機的困難、邀請朋友明年同行或抱怨天氣。看整體內容就能判斷主旨。",
+    "vocab": [
+      {
+        "w": "snorkel",
+        "zh": "浮潛（呼吸管）",
+        "pos": "n./v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0097",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Dear Wei-Ting,\n\nGreetings from Green Island! My family and I arrived two days ago, and I wish you could see how clear the ocean water is here — you can see fish swimming even from the boat. Yesterday, we went snorkeling near a place called Chaikou, and I saw a small sea turtle swimming right below me. I was so surprised that I forgot to breathe through my snorkel for a second!\n\nThis morning, we rented bikes and rode around the whole island, which only took about two hours since the island is quite small. We stopped at a hot spring by the sea, which is apparently one of very few saltwater hot springs in the world. Tonight, we're going to try the local flying fish dishes at a night market near our hotel.\n\nWe're heading back to Taitung tomorrow afternoon, and then home the next day. I'll show you all my underwater photos when I get back!\n\nMiss you,\nJia-Yun",
+    "group_id": "NJR-G20",
+    "stem": "What did Jia-Yun see while snorkeling?",
+    "options": [
+      "A small sea turtle.",
+      "A shark.",
+      "A dolphin.",
+      "Colorful coral only."
+    ],
+    "answer": 0,
+    "explain_zh": "明信片寫「we went snorkeling... and I saw a small sea turtle swimming right below me」，所以看到的是小海龜。明信片沒有提到鯊魚、海豚或只有珊瑚。細節題要抓住 saw 後面的具體受詞。",
+    "vocab": [
+      {
+        "w": "turtle",
+        "zh": "海龜",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0098",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Dear Wei-Ting,\n\nGreetings from Green Island! My family and I arrived two days ago, and I wish you could see how clear the ocean water is here — you can see fish swimming even from the boat. Yesterday, we went snorkeling near a place called Chaikou, and I saw a small sea turtle swimming right below me. I was so surprised that I forgot to breathe through my snorkel for a second!\n\nThis morning, we rented bikes and rode around the whole island, which only took about two hours since the island is quite small. We stopped at a hot spring by the sea, which is apparently one of very few saltwater hot springs in the world. Tonight, we're going to try the local flying fish dishes at a night market near our hotel.\n\nWe're heading back to Taitung tomorrow afternoon, and then home the next day. I'll show you all my underwater photos when I get back!\n\nMiss you,\nJia-Yun",
+    "group_id": "NJR-G20",
+    "stem": "How did the family get around the island this morning?",
+    "options": [
+      "They rented a car.",
+      "They rented bikes.",
+      "They walked the whole way.",
+      "They took a bus tour."
+    ],
+    "answer": 1,
+    "explain_zh": "明信片寫「we rented bikes and rode around the whole island」，所以是租腳踏車環島。明信片沒有提到租車、徒步或搭巴士旅遊。細節題要抓住 this morning 對應的交通方式。",
+    "vocab": [
+      {
+        "w": "rent",
+        "zh": "租借",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0099",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論",
+    "passage": "Dear Wei-Ting,\n\nGreetings from Green Island! My family and I arrived two days ago, and I wish you could see how clear the ocean water is here — you can see fish swimming even from the boat. Yesterday, we went snorkeling near a place called Chaikou, and I saw a small sea turtle swimming right below me. I was so surprised that I forgot to breathe through my snorkel for a second!\n\nThis morning, we rented bikes and rode around the whole island, which only took about two hours since the island is quite small. We stopped at a hot spring by the sea, which is apparently one of very few saltwater hot springs in the world. Tonight, we're going to try the local flying fish dishes at a night market near our hotel.\n\nWe're heading back to Taitung tomorrow afternoon, and then home the next day. I'll show you all my underwater photos when I get back!\n\nMiss you,\nJia-Yun",
+    "group_id": "NJR-G20",
+    "stem": "What is special about the hot spring they visited?",
+    "options": [
+      "It is the biggest hot spring in Taiwan.",
+      "It is only open at night.",
+      "It is one of very few saltwater hot springs in the world.",
+      "It is free for all visitors."
+    ],
+    "answer": 2,
+    "explain_zh": "明信片寫「which is apparently one of very few saltwater hot springs in the world」，可推論這個溫泉特別之處在於是世界少見的海水溫泉。明信片沒有說是台灣最大、只在晚上開放或完全免費。推論題要抓住 apparently 後面補充說明的資訊。",
+    "vocab": [
+      {
+        "w": "hot spring",
+        "zh": "溫泉",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NJR-0100",
+    "level": "J3",
+    "cefr": "A2",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "passage": "Dear Wei-Ting,\n\nGreetings from Green Island! My family and I arrived two days ago, and I wish you could see how clear the ocean water is here — you can see fish swimming even from the boat. Yesterday, we went snorkeling near a place called Chaikou, and I saw a small sea turtle swimming right below me. I was so surprised that I forgot to breathe through my snorkel for a second!\n\nThis morning, we rented bikes and rode around the whole island, which only took about two hours since the island is quite small. We stopped at a hot spring by the sea, which is apparently one of very few saltwater hot springs in the world. Tonight, we're going to try the local flying fish dishes at a night market near our hotel.\n\nWe're heading back to Taitung tomorrow afternoon, and then home the next day. I'll show you all my underwater photos when I get back!\n\nMiss you,\nJia-Yun",
+    "group_id": "NJR-G20",
+    "stem": "When will the family arrive back home?",
+    "options": [
+      "The same day they leave Green Island.",
+      "In one week.",
+      "They are not sure yet.",
+      "The day after they return to Taitung."
+    ],
+    "answer": 3,
+    "explain_zh": "明信片寫「We're heading back to Taitung tomorrow afternoon, and then home the next day」，所以回到台東後隔天才會到家。明信片沒有說當天就到家、要花一週或還不確定。細節題要把兩段行程的時間順序理清楚。",
+    "vocab": [
+      {
+        "w": "head back",
+        "zh": "返回",
+        "pos": "phr."
+      }
+    ]
+  }
+]

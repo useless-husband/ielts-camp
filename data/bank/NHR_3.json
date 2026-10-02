@@ -1,0 +1,1362 @@
+[
+{
+"id": "NHR-0101",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "SHOULD THE GOVERNMENT KEEP SUBSIDISING ELECTRIC SCOOTERS?\n\nFor nearly a decade, Taiwan's government has offered cash subsidies to residents who trade a petrol scooter for an electric one, part of a broader push to cut urban air pollution. The program has clearly changed the streets: electric scooters, once a rare sight, now make up a significant share of new scooter sales each year.\n\nSupporters argue the subsidy has been a clear success. Electric scooters produce no tailpipe emissions, and studies link the program to measurable improvements in air quality in dense urban areas where scooters are common. Manufacturers also credit the subsidy with helping Taiwan's battery-swap infrastructure expand faster than it otherwise would have.\n\nCritics, however, question whether taxpayer money should keep funding what has become a mature, self-sustaining market. Electric scooters are now competitively priced even without subsidies, they argue, meaning continued payments mostly benefit buyers who would have switched anyway. Some economists suggest redirecting the funds toward public transportation instead, since buses and trains reduce congestion in ways that individual scooters, electric or not, cannot.\n\nThere is also a fairness concern. Rural residents, who often rely on scooters for longer daily commutes but have fewer battery-swap stations nearby, benefit less from the subsidy than urban residents do.\n\nAs the program comes up for renewal this year, lawmakers face a genuine question: has the subsidy done its job, or does the market still need support to keep improving?",
+"group_id": "NHR-G21",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Electric scooter subsidies have been completely cancelled due to widespread public opposition",
+"Taiwan's electric scooter subsidy has succeeded in some ways, but its future is now genuinely debated",
+"Rural residents receive far more subsidy money than urban residents currently do",
+"Public transportation has already replaced scooters as the main way Taiwanese commuters travel"
+],
+"answer": 1,
+"explain_zh": "文章說明補助帶來的成效，也提出批評者的質疑（市場已成熟、城鄉不公平），最後以「這個計畫是否還需要支持」作結，B 最能涵蓋全文重點。A、C、D 都與文章內容不符。主旨題要注意文章結尾提出的開放性問題。",
+"vocab": [
+{
+"w": "subsidy",
+"zh": "補助金",
+"pos": "n."
+},
+{
+"w": "emission",
+"zh": "排放",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0102",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "SHOULD THE GOVERNMENT KEEP SUBSIDISING ELECTRIC SCOOTERS?\n\nFor nearly a decade, Taiwan's government has offered cash subsidies to residents who trade a petrol scooter for an electric one, part of a broader push to cut urban air pollution. The program has clearly changed the streets: electric scooters, once a rare sight, now make up a significant share of new scooter sales each year.\n\nSupporters argue the subsidy has been a clear success. Electric scooters produce no tailpipe emissions, and studies link the program to measurable improvements in air quality in dense urban areas where scooters are common. Manufacturers also credit the subsidy with helping Taiwan's battery-swap infrastructure expand faster than it otherwise would have.\n\nCritics, however, question whether taxpayer money should keep funding what has become a mature, self-sustaining market. Electric scooters are now competitively priced even without subsidies, they argue, meaning continued payments mostly benefit buyers who would have switched anyway. Some economists suggest redirecting the funds toward public transportation instead, since buses and trains reduce congestion in ways that individual scooters, electric or not, cannot.\n\nThere is also a fairness concern. Rural residents, who often rely on scooters for longer daily commutes but have fewer battery-swap stations nearby, benefit less from the subsidy than urban residents do.\n\nAs the program comes up for renewal this year, lawmakers face a genuine question: has the subsidy done its job, or does the market still need support to keep improving?",
+"group_id": "NHR-G21",
+"stem": "According to the passage, what fairness concern do critics raise about the subsidy?",
+"options": [
+"Urban residents pay more taxes than rural residents do each year",
+"Rural residents are not allowed to apply for the scooter subsidy at all",
+"Rural residents benefit less because they have fewer nearby battery-swap stations",
+"Rural residents already own more electric scooters than urban residents do"
+],
+"answer": 2,
+"explain_zh": "文中提到鄉村居民「have fewer battery-swap stations nearby, benefit less from the subsidy than urban residents do」，故選C。A、B、D 文章都沒有提到，屬於捏造的細節。細節題直接對照原文描述的公平性疑慮即可判斷。",
+"vocab": [
+{
+"w": "commute",
+"zh": "通勤",
+"pos": "n./v."
+}
+]
+},
+{
+"id": "NHR-0103",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "SHOULD THE GOVERNMENT KEEP SUBSIDISING ELECTRIC SCOOTERS?\n\nFor nearly a decade, Taiwan's government has offered cash subsidies to residents who trade a petrol scooter for an electric one, part of a broader push to cut urban air pollution. The program has clearly changed the streets: electric scooters, once a rare sight, now make up a significant share of new scooter sales each year.\n\nSupporters argue the subsidy has been a clear success. Electric scooters produce no tailpipe emissions, and studies link the program to measurable improvements in air quality in dense urban areas where scooters are common. Manufacturers also credit the subsidy with helping Taiwan's battery-swap infrastructure expand faster than it otherwise would have.\n\nCritics, however, question whether taxpayer money should keep funding what has become a mature, self-sustaining market. Electric scooters are now competitively priced even without subsidies, they argue, meaning continued payments mostly benefit buyers who would have switched anyway. Some economists suggest redirecting the funds toward public transportation instead, since buses and trains reduce congestion in ways that individual scooters, electric or not, cannot.\n\nThere is also a fairness concern. Rural residents, who often rely on scooters for longer daily commutes but have fewer battery-swap stations nearby, benefit less from the subsidy than urban residents do.\n\nAs the program comes up for renewal this year, lawmakers face a genuine question: has the subsidy done its job, or does the market still need support to keep improving?",
+"group_id": "NHR-G21",
+"stem": "The word \"redirecting\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"Sending something to a different destination or purpose than originally planned",
+"Completely stopping the payment of any government funds",
+"Increasing the total amount of money available for a program",
+"Calculating the exact cost of a government subsidy program"
+],
+"answer": 0,
+"explain_zh": "redirecting the funds 指「把資金轉向」，文中建議把補助經費轉去支持大眾運輸，指的是改變資金的用途或方向，故選A。B、C、D 都不是 redirect 的意思。字義題可從後句「toward public transportation instead」判斷語意方向。",
+"vocab": [
+{
+"w": "redirect",
+"zh": "轉向",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0104",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "SHOULD THE GOVERNMENT KEEP SUBSIDISING ELECTRIC SCOOTERS?\n\nFor nearly a decade, Taiwan's government has offered cash subsidies to residents who trade a petrol scooter for an electric one, part of a broader push to cut urban air pollution. The program has clearly changed the streets: electric scooters, once a rare sight, now make up a significant share of new scooter sales each year.\n\nSupporters argue the subsidy has been a clear success. Electric scooters produce no tailpipe emissions, and studies link the program to measurable improvements in air quality in dense urban areas where scooters are common. Manufacturers also credit the subsidy with helping Taiwan's battery-swap infrastructure expand faster than it otherwise would have.\n\nCritics, however, question whether taxpayer money should keep funding what has become a mature, self-sustaining market. Electric scooters are now competitively priced even without subsidies, they argue, meaning continued payments mostly benefit buyers who would have switched anyway. Some economists suggest redirecting the funds toward public transportation instead, since buses and trains reduce congestion in ways that individual scooters, electric or not, cannot.\n\nThere is also a fairness concern. Rural residents, who often rely on scooters for longer daily commutes but have fewer battery-swap stations nearby, benefit less from the subsidy than urban residents do.\n\nAs the program comes up for renewal this year, lawmakers face a genuine question: has the subsidy done its job, or does the market still need support to keep improving?",
+"group_id": "NHR-G21",
+"stem": "What is the writer's attitude toward the electric scooter subsidy debate, based on the passage?",
+"options": [
+"Strongly in favour of ending the subsidy immediately without further discussion",
+"Strongly in favour of keeping the subsidy exactly as it currently is",
+"Dismissive, treating the debate as unimportant compared to other policy issues",
+"Balanced, presenting supporters' and critics' arguments without stating a personal conclusion"
+],
+"answer": 3,
+"explain_zh": "文章分別列出支持者與批評者的論點，最後以問句作結，沒有明確表態支持哪一方，顯示作者態度是持平呈現、不下定論，故選D。A、B、C 都與文章語氣不符。態度題要看文章結尾是否有明確立場。",
+"vocab": [
+{
+"w": "renewal",
+"zh": "續約、更新",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0105",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "SHOULD THE GOVERNMENT KEEP SUBSIDISING ELECTRIC SCOOTERS?\n\nFor nearly a decade, Taiwan's government has offered cash subsidies to residents who trade a petrol scooter for an electric one, part of a broader push to cut urban air pollution. The program has clearly changed the streets: electric scooters, once a rare sight, now make up a significant share of new scooter sales each year.\n\nSupporters argue the subsidy has been a clear success. Electric scooters produce no tailpipe emissions, and studies link the program to measurable improvements in air quality in dense urban areas where scooters are common. Manufacturers also credit the subsidy with helping Taiwan's battery-swap infrastructure expand faster than it otherwise would have.\n\nCritics, however, question whether taxpayer money should keep funding what has become a mature, self-sustaining market. Electric scooters are now competitively priced even without subsidies, they argue, meaning continued payments mostly benefit buyers who would have switched anyway. Some economists suggest redirecting the funds toward public transportation instead, since buses and trains reduce congestion in ways that individual scooters, electric or not, cannot.\n\nThere is also a fairness concern. Rural residents, who often rely on scooters for longer daily commutes but have fewer battery-swap stations nearby, benefit less from the subsidy than urban residents do.\n\nAs the program comes up for renewal this year, lawmakers face a genuine question: has the subsidy done its job, or does the market still need support to keep improving?",
+"group_id": "NHR-G21",
+"stem": "In the sentence \"Manufacturers also credit the subsidy with helping Taiwan's battery-swap infrastructure expand faster than it otherwise would have,\" what does \"it\" refer to?",
+"options": [
+"The subsidy program that the government offers to scooter buyers",
+"Taiwan's battery-swap infrastructure mentioned earlier in the sentence",
+"The electric scooter market as a whole, including all manufacturers",
+"Air quality levels measured in dense urban areas of Taiwan"
+],
+"answer": 1,
+"explain_zh": "\"it\" 指的是前面提到的 \"Taiwan's battery-swap infrastructure\"，意思是若沒有補助，換電站基礎建設擴張的速度會比現在慢，故選B。A、C、D 都不是這裡的主詞。指代題要往前找句子中最直接對應的名詞。",
+"vocab": [
+{
+"w": "infrastructure",
+"zh": "基礎建設",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0106",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "DO MODERN ZOOS STILL SERVE A PURPOSE?\n\nZoos have existed in some form for centuries, but the argument for keeping them has shifted dramatically. Early zoos existed mainly for entertainment, displaying exotic animals in small cages for curious visitors. Today, most major zoos describe their mission differently, emphasising conservation, education, and scientific research over simple spectacle.\n\nSupporters point to real conservation successes. Several species that were once nearly extinct in the wild, including certain condors and specific breeds of horses, have been brought back through breeding programs run largely by zoos and connected research institutions. Zoos also fund field conservation work in the animals' natural habitats, using ticket revenue that would not otherwise exist.\n\nCritics remain unconvinced that this justifies keeping animals in captivity. They argue that most zoo animals will never be released into the wild, meaning conservation breeding programs benefit only a small fraction of captive species. Animal welfare researchers have also documented signs of psychological distress in some zoo animals, particularly large mammals that would naturally travel long distances in the wild but are confined to comparatively small enclosures.\n\nSome zoos have responded by redesigning enclosures to better match natural habitats and by ending exhibits for species known to suffer most in captivity, such as orcas and elephants in poorly suited climates. Whether these changes go far enough remains a matter of ongoing disagreement among scientists, zoo directors, and animal rights advocates.",
+"group_id": "NHR-G22",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"All zoos have stopped keeping large mammals such as elephants and orcas entirely",
+"Zoos have proven that captivity causes no psychological harm to any animal",
+"Zoos' shift toward conservation has real successes, but debate over animal welfare continues",
+"Critics agree that zoo breeding programs have completely failed to help any species"
+],
+"answer": 2,
+"explain_zh": "文章說明動物園從純娛樂轉向保育使命的成果，也呈現批評者對動物福祉的質疑，C 最能涵蓋全文重點。A、B、D 都與文章內容不符或過度誇大。主旨題要平衡文章中「保育成果」與「福祉爭議」兩個面向。",
+"vocab": [
+{
+"w": "captivity",
+"zh": "圈養",
+"pos": "n."
+},
+{
+"w": "conservation",
+"zh": "保育",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0107",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "DO MODERN ZOOS STILL SERVE A PURPOSE?\n\nZoos have existed in some form for centuries, but the argument for keeping them has shifted dramatically. Early zoos existed mainly for entertainment, displaying exotic animals in small cages for curious visitors. Today, most major zoos describe their mission differently, emphasising conservation, education, and scientific research over simple spectacle.\n\nSupporters point to real conservation successes. Several species that were once nearly extinct in the wild, including certain condors and specific breeds of horses, have been brought back through breeding programs run largely by zoos and connected research institutions. Zoos also fund field conservation work in the animals' natural habitats, using ticket revenue that would not otherwise exist.\n\nCritics remain unconvinced that this justifies keeping animals in captivity. They argue that most zoo animals will never be released into the wild, meaning conservation breeding programs benefit only a small fraction of captive species. Animal welfare researchers have also documented signs of psychological distress in some zoo animals, particularly large mammals that would naturally travel long distances in the wild but are confined to comparatively small enclosures.\n\nSome zoos have responded by redesigning enclosures to better match natural habitats and by ending exhibits for species known to suffer most in captivity, such as orcas and elephants in poorly suited climates. Whether these changes go far enough remains a matter of ongoing disagreement among scientists, zoo directors, and animal rights advocates.",
+"group_id": "NHR-G22",
+"stem": "According to the passage, what have animal welfare researchers documented in some zoo animals?",
+"options": [
+"Signs of psychological distress, especially in large mammals kept in small enclosures",
+"A complete absence of any stress among animals housed in modern zoos",
+"Evidence that all zoo animals prefer captivity to life in the wild",
+"Proof that breeding programs have caused physical injuries in most species"
+],
+"answer": 0,
+"explain_zh": "文中提到「Animal welfare researchers have also documented signs of psychological distress in some zoo animals, particularly large mammals」，故選A。B、C、D 文章都沒有提到，甚至與文意相反。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "distress",
+"zh": "痛苦、憂傷",
+"pos": "n."
+},
+{
+"w": "enclosure",
+"zh": "圍欄",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0108",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "DO MODERN ZOOS STILL SERVE A PURPOSE?\n\nZoos have existed in some form for centuries, but the argument for keeping them has shifted dramatically. Early zoos existed mainly for entertainment, displaying exotic animals in small cages for curious visitors. Today, most major zoos describe their mission differently, emphasising conservation, education, and scientific research over simple spectacle.\n\nSupporters point to real conservation successes. Several species that were once nearly extinct in the wild, including certain condors and specific breeds of horses, have been brought back through breeding programs run largely by zoos and connected research institutions. Zoos also fund field conservation work in the animals' natural habitats, using ticket revenue that would not otherwise exist.\n\nCritics remain unconvinced that this justifies keeping animals in captivity. They argue that most zoo animals will never be released into the wild, meaning conservation breeding programs benefit only a small fraction of captive species. Animal welfare researchers have also documented signs of psychological distress in some zoo animals, particularly large mammals that would naturally travel long distances in the wild but are confined to comparatively small enclosures.\n\nSome zoos have responded by redesigning enclosures to better match natural habitats and by ending exhibits for species known to suffer most in captivity, such as orcas and elephants in poorly suited climates. Whether these changes go far enough remains a matter of ongoing disagreement among scientists, zoo directors, and animal rights advocates.",
+"group_id": "NHR-G22",
+"stem": "What can be inferred about why critics say conservation breeding programs help only a small number of animals?",
+"options": [
+"Zoos have completely stopped running any breeding programs in recent years",
+"Most zoo animals bred in captivity are never actually released into the wild",
+"Breeding programs are illegal in most countries where zoos operate",
+"Zoos only breed animals that are already common in the wild"
+],
+"answer": 1,
+"explain_zh": "文中提到批評者認為「most zoo animals will never be released into the wild, meaning conservation breeding programs benefit only a small fraction of captive species」，可推論這是因為多數動物終究不會被野放，故選B。A、C、D 文章都沒有根據。推論題要抓住這句話的因果關係。",
+"vocab": [
+{
+"w": "release",
+"zh": "野放、釋放",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0109",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "DO MODERN ZOOS STILL SERVE A PURPOSE?\n\nZoos have existed in some form for centuries, but the argument for keeping them has shifted dramatically. Early zoos existed mainly for entertainment, displaying exotic animals in small cages for curious visitors. Today, most major zoos describe their mission differently, emphasising conservation, education, and scientific research over simple spectacle.\n\nSupporters point to real conservation successes. Several species that were once nearly extinct in the wild, including certain condors and specific breeds of horses, have been brought back through breeding programs run largely by zoos and connected research institutions. Zoos also fund field conservation work in the animals' natural habitats, using ticket revenue that would not otherwise exist.\n\nCritics remain unconvinced that this justifies keeping animals in captivity. They argue that most zoo animals will never be released into the wild, meaning conservation breeding programs benefit only a small fraction of captive species. Animal welfare researchers have also documented signs of psychological distress in some zoo animals, particularly large mammals that would naturally travel long distances in the wild but are confined to comparatively small enclosures.\n\nSome zoos have responded by redesigning enclosures to better match natural habitats and by ending exhibits for species known to suffer most in captivity, such as orcas and elephants in poorly suited climates. Whether these changes go far enough remains a matter of ongoing disagreement among scientists, zoo directors, and animal rights advocates.",
+"group_id": "NHR-G22",
+"stem": "What is the writer's purpose in the final paragraph?",
+"options": [
+"To argue that all zoo reforms mentioned so far have been meaningless failures",
+"To prove that orcas and elephants have never been kept in any zoo",
+"To claim that every scientist now agrees zoos should be closed entirely",
+"To show that some zoos are changing, while acknowledging disagreement over whether it is enough"
+],
+"answer": 3,
+"explain_zh": "最後一段說明部分動物園重新設計圍欄、停止展示某些物種，但也指出這些改變是否足夠仍有爭議，目的是呈現改變與持續存在的分歧，故選D。A、B、C 都與段落內容不符或過度延伸。目的題要看該段落如何收束整篇文章的爭論。",
+"vocab": [
+{
+"w": "advocate",
+"zh": "倡議者",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0110",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "DO MODERN ZOOS STILL SERVE A PURPOSE?\n\nZoos have existed in some form for centuries, but the argument for keeping them has shifted dramatically. Early zoos existed mainly for entertainment, displaying exotic animals in small cages for curious visitors. Today, most major zoos describe their mission differently, emphasising conservation, education, and scientific research over simple spectacle.\n\nSupporters point to real conservation successes. Several species that were once nearly extinct in the wild, including certain condors and specific breeds of horses, have been brought back through breeding programs run largely by zoos and connected research institutions. Zoos also fund field conservation work in the animals' natural habitats, using ticket revenue that would not otherwise exist.\n\nCritics remain unconvinced that this justifies keeping animals in captivity. They argue that most zoo animals will never be released into the wild, meaning conservation breeding programs benefit only a small fraction of captive species. Animal welfare researchers have also documented signs of psychological distress in some zoo animals, particularly large mammals that would naturally travel long distances in the wild but are confined to comparatively small enclosures.\n\nSome zoos have responded by redesigning enclosures to better match natural habitats and by ending exhibits for species known to suffer most in captivity, such as orcas and elephants in poorly suited climates. Whether these changes go far enough remains a matter of ongoing disagreement among scientists, zoo directors, and animal rights advocates.",
+"group_id": "NHR-G22",
+"stem": "In the sentence \"Zoos also fund field conservation work in the animals' natural habitats, using ticket revenue that would not otherwise exist,\" what does \"ticket revenue\" refer to?",
+"options": [
+"Money that governments pay directly to breeding research institutions",
+"Donations collected specifically for endangered condors and horse breeds",
+"Money earned by zoos from visitors who pay to enter and view animals",
+"Grants awarded to universities studying animal psychological welfare"
+],
+"answer": 2,
+"explain_zh": "\"ticket revenue\" 指動物園靠門票收入賺取的資金，文章說這筆錢被用來資助野外保育工作，若沒有動物園的門票收入，這筆錢就不會存在，故選C。A、B、D 文章都沒有提到這些資金來源。指代題要理解該詞彙的字面意義即可判斷。",
+"vocab": [
+{
+"w": "revenue",
+"zh": "收入",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0111",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "SURVEY FINDS TEENS READING LESS FOR PLEASURE, BUT NOT LESS OVERALL\n\nA new survey of Taiwanese high school students has found that the amount of time teens spend reading purely for enjoyment has fallen by nearly a third over the past five years. Researchers who conducted the survey, however, caution against a simple explanation of \"teens don't read anymore.\"\n\nThe survey measured several categories of reading separately: assigned schoolwork, news articles, social media captions and posts, and books read voluntarily for pleasure. While voluntary book reading declined, total reading time across all categories actually increased slightly, driven largely by time spent reading on phones.\n\nResearchers say the shift reflects changing formats rather than a simple decline in literacy engagement. \"Students are reading constantly, just not always in the form parents recognise as reading,\" said Professor Chen Hui-ling, who led the study. She noted that many students read serialised web novels and fan fiction, categories the survey initially struggled to classify.\n\nStill, some findings concerned educators. Students who read novels regularly scored noticeably higher on reading comprehension tests than students whose reading consisted mainly of short social media posts, suggesting that format may matter for certain reading skills even if overall reading time has not dropped.\n\nThe survey's authors recommend that schools introduce more diverse reading formats, including web novels and graphic novels, rather than treating traditional books as the only valid form of reading.",
+"group_id": "NHR-G23",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Teen reading habits have shifted in format, and this shift may affect certain reading skills",
+"Taiwanese teenagers have almost completely stopped reading anything at all",
+"Total reading time among Taiwanese teens has sharply declined over five years",
+"Schools have already replaced all books with web novels and graphic novels"
+],
+"answer": 0,
+"explain_zh": "文章說明青少年閱讀形式改變（紙本書減少、手機閱讀增加），且格式可能影響閱讀理解能力，最後建議學校引入多元閱讀形式，A 最能涵蓋全文重點。B、C 與文章「total reading time actually increased slightly」相反；D 只是建議，尚未發生。主旨題要注意「形式改變」而非「閱讀減少」才是重點。",
+"vocab": [
+{
+"w": "voluntary",
+"zh": "自願的",
+"pos": "adj."
+},
+{
+"w": "literacy",
+"zh": "讀寫能力",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0112",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "SURVEY FINDS TEENS READING LESS FOR PLEASURE, BUT NOT LESS OVERALL\n\nA new survey of Taiwanese high school students has found that the amount of time teens spend reading purely for enjoyment has fallen by nearly a third over the past five years. Researchers who conducted the survey, however, caution against a simple explanation of \"teens don't read anymore.\"\n\nThe survey measured several categories of reading separately: assigned schoolwork, news articles, social media captions and posts, and books read voluntarily for pleasure. While voluntary book reading declined, total reading time across all categories actually increased slightly, driven largely by time spent reading on phones.\n\nResearchers say the shift reflects changing formats rather than a simple decline in literacy engagement. \"Students are reading constantly, just not always in the form parents recognise as reading,\" said Professor Chen Hui-ling, who led the study. She noted that many students read serialised web novels and fan fiction, categories the survey initially struggled to classify.\n\nStill, some findings concerned educators. Students who read novels regularly scored noticeably higher on reading comprehension tests than students whose reading consisted mainly of short social media posts, suggesting that format may matter for certain reading skills even if overall reading time has not dropped.\n\nThe survey's authors recommend that schools introduce more diverse reading formats, including web novels and graphic novels, rather than treating traditional books as the only valid form of reading.",
+"group_id": "NHR-G23",
+"stem": "According to the passage, what did the survey find about total reading time across all categories?",
+"options": [
+"It decreased significantly because students stopped reading books entirely",
+"It remained exactly the same as it was five years ago",
+"It actually increased slightly, driven largely by reading on phones",
+"It could not be measured because students refused to participate"
+],
+"answer": 2,
+"explain_zh": "文中明確提到「total reading time across all categories actually increased slightly, driven largely by time spent reading on phones」，故選C。A、B、D 文章都沒有提到或與文意相反。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "category",
+"zh": "類別",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0113",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "SURVEY FINDS TEENS READING LESS FOR PLEASURE, BUT NOT LESS OVERALL\n\nA new survey of Taiwanese high school students has found that the amount of time teens spend reading purely for enjoyment has fallen by nearly a third over the past five years. Researchers who conducted the survey, however, caution against a simple explanation of \"teens don't read anymore.\"\n\nThe survey measured several categories of reading separately: assigned schoolwork, news articles, social media captions and posts, and books read voluntarily for pleasure. While voluntary book reading declined, total reading time across all categories actually increased slightly, driven largely by time spent reading on phones.\n\nResearchers say the shift reflects changing formats rather than a simple decline in literacy engagement. \"Students are reading constantly, just not always in the form parents recognise as reading,\" said Professor Chen Hui-ling, who led the study. She noted that many students read serialised web novels and fan fiction, categories the survey initially struggled to classify.\n\nStill, some findings concerned educators. Students who read novels regularly scored noticeably higher on reading comprehension tests than students whose reading consisted mainly of short social media posts, suggesting that format may matter for certain reading skills even if overall reading time has not dropped.\n\nThe survey's authors recommend that schools introduce more diverse reading formats, including web novels and graphic novels, rather than treating traditional books as the only valid form of reading.",
+"group_id": "NHR-G23",
+"stem": "What can be inferred about why the survey initially struggled to classify web novels and fan fiction?",
+"options": [
+"Students refused to admit that they read these types of content",
+"These reading formats did not fit neatly into the survey's original reading categories",
+"Web novels and fan fiction are illegal to distribute in Taiwan",
+"Professor Chen Hui-ling had never heard of these reading formats before"
+],
+"answer": 1,
+"explain_zh": "文中提到教授說學生閱讀的網路小說與同人小說是「categories the survey initially struggled to classify」，可推論這些新興閱讀形式不容易歸入原本設計的分類，故選B。A、C、D 文章都沒有根據。推論題要抓住句子中隱含的原因。",
+"vocab": [
+{
+"w": "classify",
+"zh": "分類",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0114",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "SURVEY FINDS TEENS READING LESS FOR PLEASURE, BUT NOT LESS OVERALL\n\nA new survey of Taiwanese high school students has found that the amount of time teens spend reading purely for enjoyment has fallen by nearly a third over the past five years. Researchers who conducted the survey, however, caution against a simple explanation of \"teens don't read anymore.\"\n\nThe survey measured several categories of reading separately: assigned schoolwork, news articles, social media captions and posts, and books read voluntarily for pleasure. While voluntary book reading declined, total reading time across all categories actually increased slightly, driven largely by time spent reading on phones.\n\nResearchers say the shift reflects changing formats rather than a simple decline in literacy engagement. \"Students are reading constantly, just not always in the form parents recognise as reading,\" said Professor Chen Hui-ling, who led the study. She noted that many students read serialised web novels and fan fiction, categories the survey initially struggled to classify.\n\nStill, some findings concerned educators. Students who read novels regularly scored noticeably higher on reading comprehension tests than students whose reading consisted mainly of short social media posts, suggesting that format may matter for certain reading skills even if overall reading time has not dropped.\n\nThe survey's authors recommend that schools introduce more diverse reading formats, including web novels and graphic novels, rather than treating traditional books as the only valid form of reading.",
+"group_id": "NHR-G23",
+"stem": "The word \"engagement\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"A formal agreement to marry another person",
+"A scheduled appointment with a teacher or researcher",
+"The total number of books owned by a student",
+"The act of being involved with or interested in something"
+],
+"answer": 3,
+"explain_zh": "engagement 指「投入、參與」，文中說這反映的是閱讀形式改變而非「literacy engagement」的簡單下降，也就是與讀寫能力的投入程度有關，故選D。A、B、C 都不是這裡的意思。字義題可從「literacy engagement」這個複合詞去判斷語意。",
+"vocab": [
+{
+"w": "engagement",
+"zh": "投入、參與",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0115",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "SURVEY FINDS TEENS READING LESS FOR PLEASURE, BUT NOT LESS OVERALL\n\nA new survey of Taiwanese high school students has found that the amount of time teens spend reading purely for enjoyment has fallen by nearly a third over the past five years. Researchers who conducted the survey, however, caution against a simple explanation of \"teens don't read anymore.\"\n\nThe survey measured several categories of reading separately: assigned schoolwork, news articles, social media captions and posts, and books read voluntarily for pleasure. While voluntary book reading declined, total reading time across all categories actually increased slightly, driven largely by time spent reading on phones.\n\nResearchers say the shift reflects changing formats rather than a simple decline in literacy engagement. \"Students are reading constantly, just not always in the form parents recognise as reading,\" said Professor Chen Hui-ling, who led the study. She noted that many students read serialised web novels and fan fiction, categories the survey initially struggled to classify.\n\nStill, some findings concerned educators. Students who read novels regularly scored noticeably higher on reading comprehension tests than students whose reading consisted mainly of short social media posts, suggesting that format may matter for certain reading skills even if overall reading time has not dropped.\n\nThe survey's authors recommend that schools introduce more diverse reading formats, including web novels and graphic novels, rather than treating traditional books as the only valid form of reading.",
+"group_id": "NHR-G23",
+"stem": "In the sentence \"Students who read novels regularly scored noticeably higher on reading comprehension tests than students whose reading consisted mainly of short social media posts,\" what does \"students whose reading consisted mainly of short social media posts\" refer to?",
+"options": [
+"A group of students being compared to those who read novels regularly",
+"Professor Chen Hui-ling and the other researchers who led the study",
+"Educators who expressed concern about the survey's overall findings",
+"Authors who write serialised web novels and fan fiction"
+],
+"answer": 0,
+"explain_zh": "這句話是在比較兩組學生：常讀小說的學生 vs. 主要閱讀社群媒體短文的學生，\"students whose reading consisted mainly of short social media posts\" 指的就是後者這組學生，用來與前者做對照，故選A。B、C、D 都不是句中被比較的對象。指代題要看清楚句子的比較結構。",
+"vocab": [
+{
+"w": "comprehension",
+"zh": "理解",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0116",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "FROM YEARS TO MONTHS: HOW VACCINE DEVELOPMENT SPED UP\n\nHistorically, developing a new vaccine took an average of ten to fifteen years, moving slowly through laboratory research, animal testing, and three separate phases of human trials before regulators would approve it for public use. When a new virus caused a global health emergency, this timeline was widely seen as too slow to prevent the disease from spreading further.\n\nRecent vaccine development for that emergency, however, was completed and approved within roughly a year, a pace that surprised even experienced researchers. Several factors made this possible without skipping essential safety checks. First, scientists were able to build on decades of earlier research into similar viruses, meaning they did not start from zero. Second, instead of running trial phases one after another, researchers ran several phases at the same time, with government regulators reviewing data as it became available rather than waiting for a final report.\n\nFunding also played a major role. Governments and private companies invested enormous sums upfront, allowing manufacturers to begin producing vaccine doses before trials had even finished, accepting the financial risk that some doses might later be discarded if trials failed.\n\nPublic health experts caution that this speed should not be treated as the new normal for every vaccine. The scale of funding and global cooperation required was extraordinary and difficult to repeat for diseases that attract less public attention or funding.",
+"group_id": "NHR-G24",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Vaccine development has always taken less than one year to complete safely",
+"A combination of prior research, parallel trials, and heavy funding allowed one vaccine to be developed unusually fast, without becoming the standard for all vaccines",
+"Regulators approved the vaccine without conducting any human trials at all",
+"Public health experts believe every future vaccine should now take exactly one year"
+],
+"answer": 1,
+"explain_zh": "文章解釋這次疫苗研發加速的原因（先前研究基礎、平行試驗、龐大資金），最後提醒這樣的速度難以成為常態，B 最能涵蓋全文重點。A、C 與文章內容相反；D 與文章結尾的提醒相反。主旨題要注意文章結尾對「特殊性」的強調。",
+"vocab": [
+{
+"w": "regulator",
+"zh": "監管機關",
+"pos": "n."
+},
+{
+"w": "trial",
+"zh": "試驗",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0117",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "FROM YEARS TO MONTHS: HOW VACCINE DEVELOPMENT SPED UP\n\nHistorically, developing a new vaccine took an average of ten to fifteen years, moving slowly through laboratory research, animal testing, and three separate phases of human trials before regulators would approve it for public use. When a new virus caused a global health emergency, this timeline was widely seen as too slow to prevent the disease from spreading further.\n\nRecent vaccine development for that emergency, however, was completed and approved within roughly a year, a pace that surprised even experienced researchers. Several factors made this possible without skipping essential safety checks. First, scientists were able to build on decades of earlier research into similar viruses, meaning they did not start from zero. Second, instead of running trial phases one after another, researchers ran several phases at the same time, with government regulators reviewing data as it became available rather than waiting for a final report.\n\nFunding also played a major role. Governments and private companies invested enormous sums upfront, allowing manufacturers to begin producing vaccine doses before trials had even finished, accepting the financial risk that some doses might later be discarded if trials failed.\n\nPublic health experts caution that this speed should not be treated as the new normal for every vaccine. The scale of funding and global cooperation required was extraordinary and difficult to repeat for diseases that attract less public attention or funding.",
+"group_id": "NHR-G24",
+"stem": "According to the passage, how did researchers change the way trial phases were run?",
+"options": [
+"They completely skipped the second and third phases of human trials",
+"They asked regulators to stop reviewing data until trials were finished",
+"They ran several phases at the same time instead of one after another",
+"They repeated each trial phase multiple times before moving forward"
+],
+"answer": 2,
+"explain_zh": "文中提到「instead of running trial phases one after another, researchers ran several phases at the same time」，故選C。A、B、D 文章都沒有提到，甚至與文意相反。細節題直接對照原文描述的做法即可判斷。",
+"vocab": [
+{
+"w": "phase",
+"zh": "階段",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0118",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "FROM YEARS TO MONTHS: HOW VACCINE DEVELOPMENT SPED UP\n\nHistorically, developing a new vaccine took an average of ten to fifteen years, moving slowly through laboratory research, animal testing, and three separate phases of human trials before regulators would approve it for public use. When a new virus caused a global health emergency, this timeline was widely seen as too slow to prevent the disease from spreading further.\n\nRecent vaccine development for that emergency, however, was completed and approved within roughly a year, a pace that surprised even experienced researchers. Several factors made this possible without skipping essential safety checks. First, scientists were able to build on decades of earlier research into similar viruses, meaning they did not start from zero. Second, instead of running trial phases one after another, researchers ran several phases at the same time, with government regulators reviewing data as it became available rather than waiting for a final report.\n\nFunding also played a major role. Governments and private companies invested enormous sums upfront, allowing manufacturers to begin producing vaccine doses before trials had even finished, accepting the financial risk that some doses might later be discarded if trials failed.\n\nPublic health experts caution that this speed should not be treated as the new normal for every vaccine. The scale of funding and global cooperation required was extraordinary and difficult to repeat for diseases that attract less public attention or funding.",
+"group_id": "NHR-G24",
+"stem": "What can be inferred about the financial risk taken by manufacturers during this process?",
+"options": [
+"They began producing doses before trials finished, risking wasted production if trials failed",
+"They refused to produce any doses until every trial had been completed",
+"They earned guaranteed profits regardless of whether the trials succeeded or failed",
+"They received no funding at all from governments or private companies"
+],
+"answer": 0,
+"explain_zh": "文中提到廠商「begin producing vaccine doses before trials had even finished, accepting the financial risk that some doses might later be discarded if trials failed」，可推論這是提早生產帶來的財務風險，故選A。B、C、D 都與文章描述相反。推論題要抓住這句話的因果與風險意涵。",
+"vocab": [
+{
+"w": "discard",
+"zh": "廢棄、丟棄",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0119",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "FROM YEARS TO MONTHS: HOW VACCINE DEVELOPMENT SPED UP\n\nHistorically, developing a new vaccine took an average of ten to fifteen years, moving slowly through laboratory research, animal testing, and three separate phases of human trials before regulators would approve it for public use. When a new virus caused a global health emergency, this timeline was widely seen as too slow to prevent the disease from spreading further.\n\nRecent vaccine development for that emergency, however, was completed and approved within roughly a year, a pace that surprised even experienced researchers. Several factors made this possible without skipping essential safety checks. First, scientists were able to build on decades of earlier research into similar viruses, meaning they did not start from zero. Second, instead of running trial phases one after another, researchers ran several phases at the same time, with government regulators reviewing data as it became available rather than waiting for a final report.\n\nFunding also played a major role. Governments and private companies invested enormous sums upfront, allowing manufacturers to begin producing vaccine doses before trials had even finished, accepting the financial risk that some doses might later be discarded if trials failed.\n\nPublic health experts caution that this speed should not be treated as the new normal for every vaccine. The scale of funding and global cooperation required was extraordinary and difficult to repeat for diseases that attract less public attention or funding.",
+"group_id": "NHR-G24",
+"stem": "The word \"extraordinary\" in the last paragraph is closest in meaning to which of the following?",
+"options": [
+"Common and easily repeated for any future vaccine project",
+"Slightly slower than the usual pace of vaccine development",
+"Limited to only one specific country's health system",
+"Remarkably unusual and beyond what is normally expected"
+],
+"answer": 3,
+"explain_zh": "extraordinary 指「非比尋常的」，文中形容這次動員的資金與國際合作規模「extraordinary and difficult to repeat」，也就是超乎尋常、難以再現，故選D。A、B、C 都不是這個字的意思。字義題可從「difficult to repeat」這個線索判斷語意。",
+"vocab": [
+{
+"w": "extraordinary",
+"zh": "非比尋常的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0120",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "FROM YEARS TO MONTHS: HOW VACCINE DEVELOPMENT SPED UP\n\nHistorically, developing a new vaccine took an average of ten to fifteen years, moving slowly through laboratory research, animal testing, and three separate phases of human trials before regulators would approve it for public use. When a new virus caused a global health emergency, this timeline was widely seen as too slow to prevent the disease from spreading further.\n\nRecent vaccine development for that emergency, however, was completed and approved within roughly a year, a pace that surprised even experienced researchers. Several factors made this possible without skipping essential safety checks. First, scientists were able to build on decades of earlier research into similar viruses, meaning they did not start from zero. Second, instead of running trial phases one after another, researchers ran several phases at the same time, with government regulators reviewing data as it became available rather than waiting for a final report.\n\nFunding also played a major role. Governments and private companies invested enormous sums upfront, allowing manufacturers to begin producing vaccine doses before trials had even finished, accepting the financial risk that some doses might later be discarded if trials failed.\n\nPublic health experts caution that this speed should not be treated as the new normal for every vaccine. The scale of funding and global cooperation required was extraordinary and difficult to repeat for diseases that attract less public attention or funding.",
+"group_id": "NHR-G24",
+"stem": "What is the writer's purpose in the final paragraph?",
+"options": [
+"To argue that vaccine development will always take at least ten years from now on",
+"To caution readers against expecting this unusually fast pace for every future vaccine",
+"To criticize public health experts for exaggerating the risks of fast vaccine development",
+"To prove that government funding played no meaningful role in speeding up development"
+],
+"answer": 1,
+"explain_zh": "最後一段提醒讀者，這次速度不應被當作「新常態」，因為所需的資金與合作規模難以複製，目的是提醒讀者理性看待這個特例，故選B。A、C、D 都與段落內容不符。目的題要看該段落如何為前文的「加速原因」加上但書。",
+"vocab": [
+{
+"w": "caution",
+"zh": "提醒、告誡",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0121",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "THE BLACK-FACED SPOONBILL'S REMARKABLE COMEBACK\n\nEvery autumn, thousands of black-faced spoonbills arrive at wetlands along Taiwan's southwestern coast, having flown thousands of kilometres from breeding grounds near the Korean peninsula. Recognisable by their distinctive flat, spoon-shaped bills, these birds spend the winter feeding in shallow coastal waters before making the long return journey north each spring.\n\nIn the early 1990s, the global population of black-faced spoonbills had fallen to fewer than three hundred birds, placing the species firmly among the world's most endangered waterbirds. Habitat destruction, particularly the loss of coastal wetlands to industrial development, was identified as the primary cause of the decline.\n\nConservationists responded with an international effort spanning several countries along the birds' migration route. In Taiwan, a major wetland near Tainan was designated a protected reserve after local conservation groups successfully campaigned against a planned industrial project on the site. Similar protections followed in other countries where the birds stop during migration or breed in summer.\n\nAnnual population counts, coordinated by researchers across multiple countries, now record more than six thousand birds, a twentyfold increase from the population low. Researchers credit the recovery to coordinated habitat protection rather than any single country's efforts alone, since the birds depend on a chain of safe wetlands stretching across their entire migration route.\n\nDespite this progress, experts warn that continued coastal development in the region means the species' recovery remains fragile rather than fully secured.",
+"group_id": "NHR-G25",
+"stem": "According to the passage, what was identified as the primary cause of the spoonbill's decline in the early 1990s?",
+"options": [
+"Habitat destruction, particularly the loss of coastal wetlands to industrial development",
+"Overhunting by fishermen along the birds' migration route",
+"A disease that spread quickly among wild bird populations",
+"Competition with other bird species for limited food sources"
+],
+"answer": 0,
+"explain_zh": "文中明確指出「Habitat destruction, particularly the loss of coastal wetlands to industrial development, was identified as the primary cause of the decline」，故選A。B、C、D 文章都沒有提到，屬於捏造的細節。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "decline",
+"zh": "衰退、減少",
+"pos": "n."
+},
+{
+"w": "habitat",
+"zh": "棲地",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0122",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "THE BLACK-FACED SPOONBILL'S REMARKABLE COMEBACK\n\nEvery autumn, thousands of black-faced spoonbills arrive at wetlands along Taiwan's southwestern coast, having flown thousands of kilometres from breeding grounds near the Korean peninsula. Recognisable by their distinctive flat, spoon-shaped bills, these birds spend the winter feeding in shallow coastal waters before making the long return journey north each spring.\n\nIn the early 1990s, the global population of black-faced spoonbills had fallen to fewer than three hundred birds, placing the species firmly among the world's most endangered waterbirds. Habitat destruction, particularly the loss of coastal wetlands to industrial development, was identified as the primary cause of the decline.\n\nConservationists responded with an international effort spanning several countries along the birds' migration route. In Taiwan, a major wetland near Tainan was designated a protected reserve after local conservation groups successfully campaigned against a planned industrial project on the site. Similar protections followed in other countries where the birds stop during migration or breed in summer.\n\nAnnual population counts, coordinated by researchers across multiple countries, now record more than six thousand birds, a twentyfold increase from the population low. Researchers credit the recovery to coordinated habitat protection rather than any single country's efforts alone, since the birds depend on a chain of safe wetlands stretching across their entire migration route.\n\nDespite this progress, experts warn that continued coastal development in the region means the species' recovery remains fragile rather than fully secured.",
+"group_id": "NHR-G25",
+"stem": "What can be inferred about why researchers credit the recovery to coordinated international effort rather than one country alone?",
+"options": [
+"Taiwan's conservation reserve was later cancelled due to lack of funding",
+"Other countries refused to take part in any conservation efforts at all",
+"The birds depend on a chain of safe wetlands across their entire migration route",
+"Black-faced spoonbills no longer migrate between different countries each year"
+],
+"answer": 2,
+"explain_zh": "文中提到「the birds depend on a chain of safe wetlands stretching across their entire migration route」，可推論單一國家的保育無法確保候鳥安全，需要整條遷徙路線上多國合作，故選C。A、B、D 文章都沒有根據。推論題要抓住這句話說明的因果關係。",
+"vocab": [
+{
+"w": "coordinated",
+"zh": "協調的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0123",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "THE BLACK-FACED SPOONBILL'S REMARKABLE COMEBACK\n\nEvery autumn, thousands of black-faced spoonbills arrive at wetlands along Taiwan's southwestern coast, having flown thousands of kilometres from breeding grounds near the Korean peninsula. Recognisable by their distinctive flat, spoon-shaped bills, these birds spend the winter feeding in shallow coastal waters before making the long return journey north each spring.\n\nIn the early 1990s, the global population of black-faced spoonbills had fallen to fewer than three hundred birds, placing the species firmly among the world's most endangered waterbirds. Habitat destruction, particularly the loss of coastal wetlands to industrial development, was identified as the primary cause of the decline.\n\nConservationists responded with an international effort spanning several countries along the birds' migration route. In Taiwan, a major wetland near Tainan was designated a protected reserve after local conservation groups successfully campaigned against a planned industrial project on the site. Similar protections followed in other countries where the birds stop during migration or breed in summer.\n\nAnnual population counts, coordinated by researchers across multiple countries, now record more than six thousand birds, a twentyfold increase from the population low. Researchers credit the recovery to coordinated habitat protection rather than any single country's efforts alone, since the birds depend on a chain of safe wetlands stretching across their entire migration route.\n\nDespite this progress, experts warn that continued coastal development in the region means the species' recovery remains fragile rather than fully secured.",
+"group_id": "NHR-G25",
+"stem": "The word \"designated\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"Discovered accidentally by a group of tourists visiting the area",
+"Officially declared or chosen for a specific purpose",
+"Sold to a private company for industrial development",
+"Studied extensively over many years by international scientists"
+],
+"answer": 1,
+"explain_zh": "designated a protected reserve 指「被正式指定為保護區」，文中說台南的濕地經過保育團體的努力後被正式劃設為保護區，故選B。A、C、D 都不是 designated 的意思。字義題可從「after local conservation groups successfully campaigned」判斷這是正式的行政決定。",
+"vocab": [
+{
+"w": "designate",
+"zh": "指定",
+"pos": "v."
+},
+{
+"w": "reserve",
+"zh": "保護區",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0124",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "THE BLACK-FACED SPOONBILL'S REMARKABLE COMEBACK\n\nEvery autumn, thousands of black-faced spoonbills arrive at wetlands along Taiwan's southwestern coast, having flown thousands of kilometres from breeding grounds near the Korean peninsula. Recognisable by their distinctive flat, spoon-shaped bills, these birds spend the winter feeding in shallow coastal waters before making the long return journey north each spring.\n\nIn the early 1990s, the global population of black-faced spoonbills had fallen to fewer than three hundred birds, placing the species firmly among the world's most endangered waterbirds. Habitat destruction, particularly the loss of coastal wetlands to industrial development, was identified as the primary cause of the decline.\n\nConservationists responded with an international effort spanning several countries along the birds' migration route. In Taiwan, a major wetland near Tainan was designated a protected reserve after local conservation groups successfully campaigned against a planned industrial project on the site. Similar protections followed in other countries where the birds stop during migration or breed in summer.\n\nAnnual population counts, coordinated by researchers across multiple countries, now record more than six thousand birds, a twentyfold increase from the population low. Researchers credit the recovery to coordinated habitat protection rather than any single country's efforts alone, since the birds depend on a chain of safe wetlands stretching across their entire migration route.\n\nDespite this progress, experts warn that continued coastal development in the region means the species' recovery remains fragile rather than fully secured.",
+"group_id": "NHR-G25",
+"stem": "What is the writer's purpose in the final paragraph?",
+"options": [
+"To argue that black-faced spoonbills are no longer endangered in any way",
+"To criticize conservationists for failing to protect the species at all",
+"To prove that coastal development has already been completely stopped",
+"To remind readers that the species' recovery is still fragile despite real progress"
+],
+"answer": 3,
+"explain_zh": "最後一段承認族群數量成長二十倍的進展，但也提醒沿海開發持續進行，讓復育成果仍不穩固，目的是提供平衡的結尾，避免讀者過度樂觀，故選D。A、B、C 都與段落內容不符。目的題要看文章如何在肯定成果的同時保留警示。",
+"vocab": [
+{
+"w": "fragile",
+"zh": "脆弱的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0125",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "THE BLACK-FACED SPOONBILL'S REMARKABLE COMEBACK\n\nEvery autumn, thousands of black-faced spoonbills arrive at wetlands along Taiwan's southwestern coast, having flown thousands of kilometres from breeding grounds near the Korean peninsula. Recognisable by their distinctive flat, spoon-shaped bills, these birds spend the winter feeding in shallow coastal waters before making the long return journey north each spring.\n\nIn the early 1990s, the global population of black-faced spoonbills had fallen to fewer than three hundred birds, placing the species firmly among the world's most endangered waterbirds. Habitat destruction, particularly the loss of coastal wetlands to industrial development, was identified as the primary cause of the decline.\n\nConservationists responded with an international effort spanning several countries along the birds' migration route. In Taiwan, a major wetland near Tainan was designated a protected reserve after local conservation groups successfully campaigned against a planned industrial project on the site. Similar protections followed in other countries where the birds stop during migration or breed in summer.\n\nAnnual population counts, coordinated by researchers across multiple countries, now record more than six thousand birds, a twentyfold increase from the population low. Researchers credit the recovery to coordinated habitat protection rather than any single country's efforts alone, since the birds depend on a chain of safe wetlands stretching across their entire migration route.\n\nDespite this progress, experts warn that continued coastal development in the region means the species' recovery remains fragile rather than fully secured.",
+"group_id": "NHR-G25",
+"stem": "In the sentence \"Similar protections followed in other countries where the birds stop during migration or breed in summer,\" what does \"the birds\" refer to?",
+"options": [
+"The black-faced spoonbills discussed throughout the passage",
+"Conservationists who campaigned against industrial development in Tainan",
+"Researchers who conduct annual population counts across countries",
+"Fishermen who work along the coastal wetlands of Taiwan"
+],
+"answer": 0,
+"explain_zh": "全文主角是黑面琵鷺，\"the birds\" 指的就是這些候鳥，牠們遷徙或繁殖的其他國家也跟進設立保護措施，故選A。B、C、D 都不是文章中「the birds」所指的對象。指代題要注意全文主要討論的主體是誰。",
+"vocab": [
+{
+"w": "breed",
+"zh": "繁殖",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0126",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "Dear Wei-Chen,\n\nI hope this letter finds you well. I know it has been a while since I last wrote, but so much has changed since I switched to working remotely last year that I wanted to share my experience, especially since you mentioned considering a similar move at your own company.\n\nAt first, working from my apartment felt like a dream. No more crowded commute, no more rushing out the door at seven in the morning. I could start work whenever I wanted, as long as I finished my tasks by the end of the day. For the first few months, I genuinely believed I had found the perfect way to work.\n\nLately, though, I have noticed some downsides I did not expect. Without colleagues around me, I sometimes go an entire day speaking to almost no one, and I miss the small conversations that used to happen naturally in the office. My manager also seems to expect me to reply to messages almost instantly, since she assumes I am always available now that I am home. The line between \"at work\" and \"off work\" has become blurrier than I ever imagined.\n\nI am not saying remote work was a mistake. I still prefer it overall, but I have learned that freedom comes with its own kind of discipline. I now block off specific hours for focused work and make a point of calling a friend or two during the week just to stay connected.\n\nIf you do make the switch, my advice is simple: set clear boundaries from the very beginning, before old habits from office life quietly disappear.\n\nWarmly,\nMei-Ling",
+"group_id": "NHR-G26",
+"stem": "Which of the following best expresses the main idea of the letter?",
+"options": [
+"Mei-Ling regrets switching to remote work and plans to return to the office soon",
+"Remote work has brought both freedom and new challenges, teaching Mei-Ling the importance of setting boundaries",
+"Mei-Ling's manager has completely stopped contacting her since she began working remotely",
+"Wei-Chen has already switched to remote work and is writing to describe his experience"
+],
+"answer": 1,
+"explain_zh": "這封信描述遠距工作帶來的自由與後來發現的孤立、界線模糊等問題，最後建議提早設立界線，B 最能涵蓋全文重點。A 與信末「still prefer it overall」相反；C 與文章相反（經理反而期待秒回訊息）；D 寫信的人是美玲，不是薇真。主旨題要留意書信開頭與結尾透露的整體態度轉折。",
+"vocab": [
+{
+"w": "boundary",
+"zh": "界線",
+"pos": "n."
+},
+{
+"w": "discipline",
+"zh": "自律",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0127",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "Dear Wei-Chen,\n\nI hope this letter finds you well. I know it has been a while since I last wrote, but so much has changed since I switched to working remotely last year that I wanted to share my experience, especially since you mentioned considering a similar move at your own company.\n\nAt first, working from my apartment felt like a dream. No more crowded commute, no more rushing out the door at seven in the morning. I could start work whenever I wanted, as long as I finished my tasks by the end of the day. For the first few months, I genuinely believed I had found the perfect way to work.\n\nLately, though, I have noticed some downsides I did not expect. Without colleagues around me, I sometimes go an entire day speaking to almost no one, and I miss the small conversations that used to happen naturally in the office. My manager also seems to expect me to reply to messages almost instantly, since she assumes I am always available now that I am home. The line between \"at work\" and \"off work\" has become blurrier than I ever imagined.\n\nI am not saying remote work was a mistake. I still prefer it overall, but I have learned that freedom comes with its own kind of discipline. I now block off specific hours for focused work and make a point of calling a friend or two during the week just to stay connected.\n\nIf you do make the switch, my advice is simple: set clear boundaries from the very beginning, before old habits from office life quietly disappear.\n\nWarmly,\nMei-Ling",
+"group_id": "NHR-G26",
+"stem": "What can be inferred about why Mei-Ling's manager expects instant replies to messages?",
+"options": [
+"Company policy officially requires all employees to reply within one minute",
+"Mei-Ling's manager does not trust her to complete her work on time",
+"The manager assumes Mei-Ling is always available since she now works from home",
+"Mei-Ling agreed in writing to answer every message immediately when she started"
+],
+"answer": 2,
+"explain_zh": "信中提到「she assumes I am always available now that I am home」，可推論經理期待秒回是因為認為在家工作等於隨時有空，故選C。A、B、D 文章都沒有根據。推論題要抓住信中明確給出的原因。",
+"vocab": [
+{
+"w": "assume",
+"zh": "假設",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0128",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "Dear Wei-Chen,\n\nI hope this letter finds you well. I know it has been a while since I last wrote, but so much has changed since I switched to working remotely last year that I wanted to share my experience, especially since you mentioned considering a similar move at your own company.\n\nAt first, working from my apartment felt like a dream. No more crowded commute, no more rushing out the door at seven in the morning. I could start work whenever I wanted, as long as I finished my tasks by the end of the day. For the first few months, I genuinely believed I had found the perfect way to work.\n\nLately, though, I have noticed some downsides I did not expect. Without colleagues around me, I sometimes go an entire day speaking to almost no one, and I miss the small conversations that used to happen naturally in the office. My manager also seems to expect me to reply to messages almost instantly, since she assumes I am always available now that I am home. The line between \"at work\" and \"off work\" has become blurrier than I ever imagined.\n\nI am not saying remote work was a mistake. I still prefer it overall, but I have learned that freedom comes with its own kind of discipline. I now block off specific hours for focused work and make a point of calling a friend or two during the week just to stay connected.\n\nIf you do make the switch, my advice is simple: set clear boundaries from the very beginning, before old habits from office life quietly disappear.\n\nWarmly,\nMei-Ling",
+"group_id": "NHR-G26",
+"stem": "The word \"blurrier\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"Less clear or well-defined than before",
+"More strictly enforced by company policy",
+"Easier to explain to friends and family",
+"Shorter in length than it used to be"
+],
+"answer": 0,
+"explain_zh": "blurrier 是 blurry（模糊的）的比較級，文中形容「上班」與「下班」之間的界線變得更模糊、不清楚，故選A。B、C、D 都不是這個字的意思。字義題可從「The line between... has become blurrier」這個比喻去判斷語意。",
+"vocab": [
+{
+"w": "blurry",
+"zh": "模糊的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0129",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "Dear Wei-Chen,\n\nI hope this letter finds you well. I know it has been a while since I last wrote, but so much has changed since I switched to working remotely last year that I wanted to share my experience, especially since you mentioned considering a similar move at your own company.\n\nAt first, working from my apartment felt like a dream. No more crowded commute, no more rushing out the door at seven in the morning. I could start work whenever I wanted, as long as I finished my tasks by the end of the day. For the first few months, I genuinely believed I had found the perfect way to work.\n\nLately, though, I have noticed some downsides I did not expect. Without colleagues around me, I sometimes go an entire day speaking to almost no one, and I miss the small conversations that used to happen naturally in the office. My manager also seems to expect me to reply to messages almost instantly, since she assumes I am always available now that I am home. The line between \"at work\" and \"off work\" has become blurrier than I ever imagined.\n\nI am not saying remote work was a mistake. I still prefer it overall, but I have learned that freedom comes with its own kind of discipline. I now block off specific hours for focused work and make a point of calling a friend or two during the week just to stay connected.\n\nIf you do make the switch, my advice is simple: set clear boundaries from the very beginning, before old habits from office life quietly disappear.\n\nWarmly,\nMei-Ling",
+"group_id": "NHR-G26",
+"stem": "What is Mei-Ling's overall attitude toward remote work by the end of the letter?",
+"options": [
+"Completely negative, believing remote work should never be attempted by anyone",
+"Completely positive, believing remote work has no drawbacks whatsoever",
+"Indifferent, showing no strong feeling about remote work either way",
+"Generally positive, but aware that it requires deliberate self-discipline and boundaries"
+],
+"answer": 3,
+"explain_zh": "美玲說「I am not saying remote work was a mistake... I still prefer it overall」，但也提到需要自律與界線，顯示整體正面但務實看待挑戰，故選D。A、B、C 都與信中內容不符。態度題要注意信件結尾段落透露的整體結論。",
+"vocab": [
+{
+"w": "drawback",
+"zh": "缺點",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0130",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "Dear Wei-Chen,\n\nI hope this letter finds you well. I know it has been a while since I last wrote, but so much has changed since I switched to working remotely last year that I wanted to share my experience, especially since you mentioned considering a similar move at your own company.\n\nAt first, working from my apartment felt like a dream. No more crowded commute, no more rushing out the door at seven in the morning. I could start work whenever I wanted, as long as I finished my tasks by the end of the day. For the first few months, I genuinely believed I had found the perfect way to work.\n\nLately, though, I have noticed some downsides I did not expect. Without colleagues around me, I sometimes go an entire day speaking to almost no one, and I miss the small conversations that used to happen naturally in the office. My manager also seems to expect me to reply to messages almost instantly, since she assumes I am always available now that I am home. The line between \"at work\" and \"off work\" has become blurrier than I ever imagined.\n\nI am not saying remote work was a mistake. I still prefer it overall, but I have learned that freedom comes with its own kind of discipline. I now block off specific hours for focused work and make a point of calling a friend or two during the week just to stay connected.\n\nIf you do make the switch, my advice is simple: set clear boundaries from the very beginning, before old habits from office life quietly disappear.\n\nWarmly,\nMei-Ling",
+"group_id": "NHR-G26",
+"stem": "In the sentence \"I now block off specific hours for focused work and make a point of calling a friend or two during the week just to stay connected,\" what does \"stay connected\" refer to?",
+"options": [
+"Keeping a stable internet connection while working from home",
+"Maintaining social contact with other people despite working alone",
+"Staying logged into the company's messaging app at all times",
+"Remaining in touch with her manager about ongoing work tasks"
+],
+"answer": 1,
+"explain_zh": "前文提到美玲因為缺少同事互動而感到孤立，這裡的 \"stay connected\" 指的是透過打電話給朋友來維持人際互動，避免孤獨，故選B。A、C、D 都不是這句話真正的意思。指代題要回到前文找出她感到缺乏的具體事物。",
+"vocab": [
+{
+"w": "connected",
+"zh": "有連結的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0131",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "WHY TEENAGERS NATURALLY WANT TO STAY UP LATE\n\nParents often blame smartphones entirely when their teenage children resist going to bed early, but sleep researchers say the biology of adolescence itself plays a major role. During puberty, the body's internal clock, which controls when a person naturally feels sleepy, shifts later by roughly two hours compared to childhood.\n\nThis shift means that a fifteen-year-old may not feel genuinely tired until around eleven at night, even without any screen use beforehand. The hormone melatonin, which signals to the brain that it is time to sleep, is released later in teenagers than in younger children or adults, making an early bedtime biologically difficult rather than simply a matter of willpower.\n\nThe trouble is that school start times rarely adjust to match this shifted clock. Many Taiwanese high schools begin classes around seven-thirty in the morning, meaning students who naturally cannot fall asleep until eleven get, at best, seven to eight hours of sleep, and often considerably less once homework and commuting are factored in.\n\nSome schools abroad have experimented with delaying start times by even thirty to sixty minutes, reporting improvements in student attention, mood, and even traffic accident rates among teen drivers. Adopting similar changes in Taiwan would require rethinking bus schedules, after-school activities, and parents' own work hours, making reform politically difficult even when the science is clear.\n\nFor now, sleep experts recommend that families focus on what they can control: consistent sleep schedules, dim lighting before bed, and reduced screen use in the final hour before sleep.",
+"group_id": "NHR-G27",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Teenagers stay up late purely because of excessive smartphone and screen use",
+"School start times in Taiwan have already been delayed to match teenagers' natural sleep needs",
+"Teenagers' biological sleep clock shifts later naturally, creating a mismatch with early school start times",
+"Sleep researchers recommend that all teenagers should sleep less than seven hours per night"
+],
+"answer": 2,
+"explain_zh": "文章說明青少年生理時鐘天生延後，導致與早上學時間產生落差，最後提出可行的因應建議，C 最能涵蓋全文重點。A 與文章開頭「researchers say the biology... plays a major role」相反（並非純粹是手機造成）；B、D 都與文章內容不符。主旨題要留意文章強調「生理因素」而非單純歸咎手機。",
+"vocab": [
+{
+"w": "adolescence",
+"zh": "青春期",
+"pos": "n."
+},
+{
+"w": "melatonin",
+"zh": "褪黑激素",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0132",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "WHY TEENAGERS NATURALLY WANT TO STAY UP LATE\n\nParents often blame smartphones entirely when their teenage children resist going to bed early, but sleep researchers say the biology of adolescence itself plays a major role. During puberty, the body's internal clock, which controls when a person naturally feels sleepy, shifts later by roughly two hours compared to childhood.\n\nThis shift means that a fifteen-year-old may not feel genuinely tired until around eleven at night, even without any screen use beforehand. The hormone melatonin, which signals to the brain that it is time to sleep, is released later in teenagers than in younger children or adults, making an early bedtime biologically difficult rather than simply a matter of willpower.\n\nThe trouble is that school start times rarely adjust to match this shifted clock. Many Taiwanese high schools begin classes around seven-thirty in the morning, meaning students who naturally cannot fall asleep until eleven get, at best, seven to eight hours of sleep, and often considerably less once homework and commuting are factored in.\n\nSome schools abroad have experimented with delaying start times by even thirty to sixty minutes, reporting improvements in student attention, mood, and even traffic accident rates among teen drivers. Adopting similar changes in Taiwan would require rethinking bus schedules, after-school activities, and parents' own work hours, making reform politically difficult even when the science is clear.\n\nFor now, sleep experts recommend that families focus on what they can control: consistent sleep schedules, dim lighting before bed, and reduced screen use in the final hour before sleep.",
+"group_id": "NHR-G27",
+"stem": "According to the passage, what happens to melatonin release during puberty?",
+"options": [
+"It is released later in teenagers than in younger children or adults",
+"It stops being released completely once puberty begins",
+"It is released earlier in teenagers than in adults",
+"It has no connection to when a person feels sleepy"
+],
+"answer": 0,
+"explain_zh": "文中明確提到「melatonin, which signals to the brain that it is time to sleep, is released later in teenagers than in younger children or adults」，故選A。B、C、D 文章都沒有提到或與文意相反。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "hormone",
+"zh": "荷爾蒙",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0133",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "WHY TEENAGERS NATURALLY WANT TO STAY UP LATE\n\nParents often blame smartphones entirely when their teenage children resist going to bed early, but sleep researchers say the biology of adolescence itself plays a major role. During puberty, the body's internal clock, which controls when a person naturally feels sleepy, shifts later by roughly two hours compared to childhood.\n\nThis shift means that a fifteen-year-old may not feel genuinely tired until around eleven at night, even without any screen use beforehand. The hormone melatonin, which signals to the brain that it is time to sleep, is released later in teenagers than in younger children or adults, making an early bedtime biologically difficult rather than simply a matter of willpower.\n\nThe trouble is that school start times rarely adjust to match this shifted clock. Many Taiwanese high schools begin classes around seven-thirty in the morning, meaning students who naturally cannot fall asleep until eleven get, at best, seven to eight hours of sleep, and often considerably less once homework and commuting are factored in.\n\nSome schools abroad have experimented with delaying start times by even thirty to sixty minutes, reporting improvements in student attention, mood, and even traffic accident rates among teen drivers. Adopting similar changes in Taiwan would require rethinking bus schedules, after-school activities, and parents' own work hours, making reform politically difficult even when the science is clear.\n\nFor now, sleep experts recommend that families focus on what they can control: consistent sleep schedules, dim lighting before bed, and reduced screen use in the final hour before sleep.",
+"group_id": "NHR-G27",
+"stem": "The word \"willpower\" in the second paragraph is closest in meaning to which of the following?",
+"options": [
+"A medical condition that affects how the body produces hormones",
+"The mental strength to control one's own behaviour and decisions",
+"A type of clock used to measure a person's sleep cycle",
+"A rule set by parents about when children must go to bed"
+],
+"answer": 1,
+"explain_zh": "willpower 指「意志力」，文中說早睡困難是生理因素造成，而「rather than simply a matter of willpower」，也就是不只是意志力能不能控制的問題，故選B。A、C、D 都不是 willpower 的意思。字義題可從「biologically difficult rather than simply a matter of willpower」這個對比去判斷語意。",
+"vocab": [
+{
+"w": "willpower",
+"zh": "意志力",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0134",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "WHY TEENAGERS NATURALLY WANT TO STAY UP LATE\n\nParents often blame smartphones entirely when their teenage children resist going to bed early, but sleep researchers say the biology of adolescence itself plays a major role. During puberty, the body's internal clock, which controls when a person naturally feels sleepy, shifts later by roughly two hours compared to childhood.\n\nThis shift means that a fifteen-year-old may not feel genuinely tired until around eleven at night, even without any screen use beforehand. The hormone melatonin, which signals to the brain that it is time to sleep, is released later in teenagers than in younger children or adults, making an early bedtime biologically difficult rather than simply a matter of willpower.\n\nThe trouble is that school start times rarely adjust to match this shifted clock. Many Taiwanese high schools begin classes around seven-thirty in the morning, meaning students who naturally cannot fall asleep until eleven get, at best, seven to eight hours of sleep, and often considerably less once homework and commuting are factored in.\n\nSome schools abroad have experimented with delaying start times by even thirty to sixty minutes, reporting improvements in student attention, mood, and even traffic accident rates among teen drivers. Adopting similar changes in Taiwan would require rethinking bus schedules, after-school activities, and parents' own work hours, making reform politically difficult even when the science is clear.\n\nFor now, sleep experts recommend that families focus on what they can control: consistent sleep schedules, dim lighting before bed, and reduced screen use in the final hour before sleep.",
+"group_id": "NHR-G27",
+"stem": "What is the writer's purpose in mentioning schools abroad that delayed start times?",
+"options": [
+"To prove that Taiwan has already adopted the same policy successfully",
+"To argue that delaying school start times causes more traffic accidents",
+"To provide evidence that adjusting school schedules could improve student outcomes",
+"To criticize teenagers in other countries for staying up later than Taiwanese teens"
+],
+"answer": 2,
+"explain_zh": "該段提到國外學校延後上課時間後，學生專注力、情緒、交通事故率都有改善，目的是提供實證支持調整作息時間表的可能好處，故選C。A、B、D 都與段落內容不符。目的題要看這個例子在文章論證中的作用。",
+"vocab": [
+{
+"w": "attendance",
+"zh": "出席",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0135",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "WHY TEENAGERS NATURALLY WANT TO STAY UP LATE\n\nParents often blame smartphones entirely when their teenage children resist going to bed early, but sleep researchers say the biology of adolescence itself plays a major role. During puberty, the body's internal clock, which controls when a person naturally feels sleepy, shifts later by roughly two hours compared to childhood.\n\nThis shift means that a fifteen-year-old may not feel genuinely tired until around eleven at night, even without any screen use beforehand. The hormone melatonin, which signals to the brain that it is time to sleep, is released later in teenagers than in younger children or adults, making an early bedtime biologically difficult rather than simply a matter of willpower.\n\nThe trouble is that school start times rarely adjust to match this shifted clock. Many Taiwanese high schools begin classes around seven-thirty in the morning, meaning students who naturally cannot fall asleep until eleven get, at best, seven to eight hours of sleep, and often considerably less once homework and commuting are factored in.\n\nSome schools abroad have experimented with delaying start times by even thirty to sixty minutes, reporting improvements in student attention, mood, and even traffic accident rates among teen drivers. Adopting similar changes in Taiwan would require rethinking bus schedules, after-school activities, and parents' own work hours, making reform politically difficult even when the science is clear.\n\nFor now, sleep experts recommend that families focus on what they can control: consistent sleep schedules, dim lighting before bed, and reduced screen use in the final hour before sleep.",
+"group_id": "NHR-G27",
+"stem": "In the sentence \"Adopting similar changes in Taiwan would require rethinking bus schedules, after-school activities, and parents' own work hours, making reform politically difficult even when the science is clear,\" what does \"similar changes\" refer to?",
+"options": [
+"Reducing the amount of homework given to Taiwanese high school students",
+"Increasing the amount of melatonin naturally produced by teenagers' bodies",
+"Encouraging parents to reduce their own children's screen time before bed",
+"Delaying school start times, as some schools abroad have already done"
+],
+"answer": 3,
+"explain_zh": "前一句提到國外學校延後上課時間三十到六十分鐘，這裡的 \"similar changes\" 指的就是台灣若要跟進採取的相同做法，也就是延後上課時間，故選D。A、B、C 都不是這裡所指的改變。指代題要往前找最直接對應的具體措施。",
+"vocab": [
+{
+"w": "reform",
+"zh": "改革",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0136",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "CASH BECOMES OPTIONAL AT MORE TAIWANESE BUSINESSES\n\nFive years ago, most small shops and traditional markets in Taiwan dealt almost exclusively in cash. Today, mobile payment apps have become common enough that some newly opened cafés in Taipei no longer accept cash at all, requiring customers to pay entirely through a smartphone app or contactless card.\n\nCentral bank data shows mobile and contactless payments now account for a growing share of daily transactions nationwide, with adoption rising fastest among shoppers under thirty-five. Convenience stores, which process an enormous volume of small daily purchases, have been especially quick to promote mobile payment options, often offering small discounts to customers who use a particular app.\n\nNot everyone has welcomed the shift equally. Elderly customers, who make up a significant portion of shoppers at traditional wet markets, report frustration when vendors expect payment through apps they find confusing or do not own a suitable smartphone to use. Consumer advocacy groups have raised concerns that a fully cashless economy could effectively exclude elderly and low-income residents who rely on cash for budgeting or lack access to a bank account.\n\nIn response, several city governments have introduced programs teaching elderly residents how to use mobile payment apps, while consumer protection regulators have signalled they may require businesses to continue accepting cash as a backup option.\n\nFor now, cash and mobile payments coexist across most of Taiwan, though the balance between them continues to shift generation by generation.",
+"group_id": "NHR-G28",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Mobile payments are spreading quickly in Taiwan, but the shift raises concerns for some groups, including the elderly",
+"All businesses in Taiwan have completely stopped accepting cash as of this year",
+"Elderly Taiwanese residents have fully embraced mobile payment apps without any difficulty",
+"Consumer advocacy groups strongly support removing cash entirely from Taiwan's economy"
+],
+"answer": 0,
+"explain_zh": "文章描述行動支付快速普及，也提到長者與低收入族群面臨的困難以及政府因應措施，A 最能涵蓋全文重點。B、C、D 都與文章內容不符。主旨題要平衡文章中「普及趨勢」與「排除疑慮」兩個面向。",
+"vocab": [
+{
+"w": "contactless",
+"zh": "感應式的",
+"pos": "adj."
+},
+{
+"w": "adoption",
+"zh": "採用",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0137",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "CASH BECOMES OPTIONAL AT MORE TAIWANESE BUSINESSES\n\nFive years ago, most small shops and traditional markets in Taiwan dealt almost exclusively in cash. Today, mobile payment apps have become common enough that some newly opened cafés in Taipei no longer accept cash at all, requiring customers to pay entirely through a smartphone app or contactless card.\n\nCentral bank data shows mobile and contactless payments now account for a growing share of daily transactions nationwide, with adoption rising fastest among shoppers under thirty-five. Convenience stores, which process an enormous volume of small daily purchases, have been especially quick to promote mobile payment options, often offering small discounts to customers who use a particular app.\n\nNot everyone has welcomed the shift equally. Elderly customers, who make up a significant portion of shoppers at traditional wet markets, report frustration when vendors expect payment through apps they find confusing or do not own a suitable smartphone to use. Consumer advocacy groups have raised concerns that a fully cashless economy could effectively exclude elderly and low-income residents who rely on cash for budgeting or lack access to a bank account.\n\nIn response, several city governments have introduced programs teaching elderly residents how to use mobile payment apps, while consumer protection regulators have signalled they may require businesses to continue accepting cash as a backup option.\n\nFor now, cash and mobile payments coexist across most of Taiwan, though the balance between them continues to shift generation by generation.",
+"group_id": "NHR-G28",
+"stem": "According to the passage, what have several city governments done in response to elderly customers' difficulties?",
+"options": [
+"They have banned mobile payment apps from being used in wet markets",
+"They have introduced programs teaching elderly residents how to use mobile payment apps",
+"They have required all elderly residents to open a bank account immediately",
+"They have given free smartphones to every elderly resident in the city"
+],
+"answer": 1,
+"explain_zh": "文中提到「several city governments have introduced programs teaching elderly residents how to use mobile payment apps」，故選B。A、C、D 文章都沒有提到，屬於捏造的細節。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "advocacy",
+"zh": "倡議",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0138",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "CASH BECOMES OPTIONAL AT MORE TAIWANESE BUSINESSES\n\nFive years ago, most small shops and traditional markets in Taiwan dealt almost exclusively in cash. Today, mobile payment apps have become common enough that some newly opened cafés in Taipei no longer accept cash at all, requiring customers to pay entirely through a smartphone app or contactless card.\n\nCentral bank data shows mobile and contactless payments now account for a growing share of daily transactions nationwide, with adoption rising fastest among shoppers under thirty-five. Convenience stores, which process an enormous volume of small daily purchases, have been especially quick to promote mobile payment options, often offering small discounts to customers who use a particular app.\n\nNot everyone has welcomed the shift equally. Elderly customers, who make up a significant portion of shoppers at traditional wet markets, report frustration when vendors expect payment through apps they find confusing or do not own a suitable smartphone to use. Consumer advocacy groups have raised concerns that a fully cashless economy could effectively exclude elderly and low-income residents who rely on cash for budgeting or lack access to a bank account.\n\nIn response, several city governments have introduced programs teaching elderly residents how to use mobile payment apps, while consumer protection regulators have signalled they may require businesses to continue accepting cash as a backup option.\n\nFor now, cash and mobile payments coexist across most of Taiwan, though the balance between them continues to shift generation by generation.",
+"group_id": "NHR-G28",
+"stem": "What can be inferred about why convenience stores have been especially quick to promote mobile payments?",
+"options": [
+"Convenience stores are legally required to accept only mobile payments now",
+"Convenience stores receive no benefit from encouraging mobile payment use",
+"Convenience stores handle a huge volume of small transactions, which mobile payments may process efficiently",
+"Convenience stores have completely stopped selling products to customers who use cash"
+],
+"answer": 2,
+"explain_zh": "文中提到超商「process an enormous volume of small daily purchases」，因此積極推廣行動支付，並提供折扣鼓勵使用，可推論這與處理大量小額交易的效率有關，故選C。A、B、D 文章都沒有根據。推論題要抓住句子中給出的商業脈絡。",
+"vocab": [
+{
+"w": "transaction",
+"zh": "交易",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0139",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "CASH BECOMES OPTIONAL AT MORE TAIWANESE BUSINESSES\n\nFive years ago, most small shops and traditional markets in Taiwan dealt almost exclusively in cash. Today, mobile payment apps have become common enough that some newly opened cafés in Taipei no longer accept cash at all, requiring customers to pay entirely through a smartphone app or contactless card.\n\nCentral bank data shows mobile and contactless payments now account for a growing share of daily transactions nationwide, with adoption rising fastest among shoppers under thirty-five. Convenience stores, which process an enormous volume of small daily purchases, have been especially quick to promote mobile payment options, often offering small discounts to customers who use a particular app.\n\nNot everyone has welcomed the shift equally. Elderly customers, who make up a significant portion of shoppers at traditional wet markets, report frustration when vendors expect payment through apps they find confusing or do not own a suitable smartphone to use. Consumer advocacy groups have raised concerns that a fully cashless economy could effectively exclude elderly and low-income residents who rely on cash for budgeting or lack access to a bank account.\n\nIn response, several city governments have introduced programs teaching elderly residents how to use mobile payment apps, while consumer protection regulators have signalled they may require businesses to continue accepting cash as a backup option.\n\nFor now, cash and mobile payments coexist across most of Taiwan, though the balance between them continues to shift generation by generation.",
+"group_id": "NHR-G28",
+"stem": "What is the writer's attitude toward the shift to mobile payments, based on the passage?",
+"options": [
+"Entirely negative, believing mobile payments should be banned to protect the elderly",
+"Entirely positive, believing the shift has caused no problems for any group",
+"Dismissive, treating the concerns of elderly residents as unimportant",
+"Balanced, acknowledging the convenience of mobile payments alongside genuine concerns for excluded groups"
+],
+"answer": 3,
+"explain_zh": "文章一方面說明行動支付帶來的便利與成長，另一方面也詳細描述長者面臨的困難與政府的因應措施，顯示作者態度是兼顧兩面、持平呈現，故選D。A、B、C 都與文章語氣不符。態度題要看文章是否公平處理正反兩面的內容。",
+"vocab": [
+{
+"w": "coexist",
+"zh": "並存",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0140",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "CASH BECOMES OPTIONAL AT MORE TAIWANESE BUSINESSES\n\nFive years ago, most small shops and traditional markets in Taiwan dealt almost exclusively in cash. Today, mobile payment apps have become common enough that some newly opened cafés in Taipei no longer accept cash at all, requiring customers to pay entirely through a smartphone app or contactless card.\n\nCentral bank data shows mobile and contactless payments now account for a growing share of daily transactions nationwide, with adoption rising fastest among shoppers under thirty-five. Convenience stores, which process an enormous volume of small daily purchases, have been especially quick to promote mobile payment options, often offering small discounts to customers who use a particular app.\n\nNot everyone has welcomed the shift equally. Elderly customers, who make up a significant portion of shoppers at traditional wet markets, report frustration when vendors expect payment through apps they find confusing or do not own a suitable smartphone to use. Consumer advocacy groups have raised concerns that a fully cashless economy could effectively exclude elderly and low-income residents who rely on cash for budgeting or lack access to a bank account.\n\nIn response, several city governments have introduced programs teaching elderly residents how to use mobile payment apps, while consumer protection regulators have signalled they may require businesses to continue accepting cash as a backup option.\n\nFor now, cash and mobile payments coexist across most of Taiwan, though the balance between them continues to shift generation by generation.",
+"group_id": "NHR-G28",
+"stem": "In the sentence \"Consumer protection regulators have signalled they may require businesses to continue accepting cash as a backup option,\" what does \"a backup option\" refer to?",
+"options": [
+"Cash payment, offered alongside mobile payment rather than replacing it",
+"A new mobile payment app developed by the central bank",
+"A government subsidy program for elderly smartphone users",
+"A discount offered to customers who use contactless cards"
+],
+"answer": 0,
+"explain_zh": "這句話說監管機關可能要求企業「continue accepting cash」作為「a backup option」，指的就是現金作為行動支付以外的備用付款方式，故選A。B、C、D 都不是句中所指的內容。指代題要往前找出句子中真正被要求保留的付款方式。",
+"vocab": [
+{
+"w": "backup",
+"zh": "備用的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0141",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "SHOULD TAIWAN REQUIRE A PERMIT FOR EVERY MOUNTAIN TRAIL?\n\nTaiwan's mountains attract growing numbers of hikers each year, drawn by scenery that ranges from subtropical forest to alpine peaks within a few hours' drive of major cities. This growing popularity, however, has come with a rise in rescue operations, some involving hikers who were poorly prepared for sudden weather changes or trails more difficult than they expected.\n\nCurrently, permits are required only for certain high-altitude or ecologically sensitive trails, while thousands of other routes remain freely accessible without any registration. Some rescue workers and park officials argue this system should expand, requiring permits and basic safety briefings for a much wider range of trails, similar to systems used in several other mountainous countries.\n\nSupporters of expanded permits argue that mandatory registration would let rescue teams know exactly where missing hikers likely are, dramatically speeding up search efforts. Briefings could also ensure hikers understand specific trail risks, such as sudden fog or unstable rock sections, before setting out.\n\nOpponents counter that Taiwan's mountains are a public resource that should remain freely accessible, and that permit systems tend to burden responsible hikers while doing little to stop the small minority who ignore warnings regardless of regulation. They also point out that Taiwan's rescue teams are often volunteers whose limited capacity would be strained further by processing permits for thousands of additional trails.\n\nA compromise proposal, still under discussion, would require permits only for trails with the highest historical rescue rates, leaving the vast majority of routes unregulated.",
+"group_id": "NHR-G29",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"Taiwan has already required permits for every single mountain trail in the country",
+"Whether to expand Taiwan's mountain permit system is a debated issue with real arguments on both sides",
+"Rescue operations in Taiwan's mountains have decreased sharply over the past few years",
+"All rescue teams in Taiwan are professional and receive full government funding"
+],
+"answer": 1,
+"explain_zh": "文章呈現支持與反對擴大登山證制度的論點，並提到折衷方案仍在討論，B 最能涵蓋全文重點。A、D 與文章內容不符；C 文章說救援案件「a rise in rescue operations」，是上升而非下降。主旨題要能同時涵蓋正反雙方的論點。",
+"vocab": [
+{
+"w": "permit",
+"zh": "許可證",
+"pos": "n."
+},
+{
+"w": "altitude",
+"zh": "海拔",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0142",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "SHOULD TAIWAN REQUIRE A PERMIT FOR EVERY MOUNTAIN TRAIL?\n\nTaiwan's mountains attract growing numbers of hikers each year, drawn by scenery that ranges from subtropical forest to alpine peaks within a few hours' drive of major cities. This growing popularity, however, has come with a rise in rescue operations, some involving hikers who were poorly prepared for sudden weather changes or trails more difficult than they expected.\n\nCurrently, permits are required only for certain high-altitude or ecologically sensitive trails, while thousands of other routes remain freely accessible without any registration. Some rescue workers and park officials argue this system should expand, requiring permits and basic safety briefings for a much wider range of trails, similar to systems used in several other mountainous countries.\n\nSupporters of expanded permits argue that mandatory registration would let rescue teams know exactly where missing hikers likely are, dramatically speeding up search efforts. Briefings could also ensure hikers understand specific trail risks, such as sudden fog or unstable rock sections, before setting out.\n\nOpponents counter that Taiwan's mountains are a public resource that should remain freely accessible, and that permit systems tend to burden responsible hikers while doing little to stop the small minority who ignore warnings regardless of regulation. They also point out that Taiwan's rescue teams are often volunteers whose limited capacity would be strained further by processing permits for thousands of additional trails.\n\nA compromise proposal, still under discussion, would require permits only for trails with the highest historical rescue rates, leaving the vast majority of routes unregulated.",
+"group_id": "NHR-G29",
+"stem": "According to the passage, for which trails are permits currently required?",
+"options": [
+"Every trail located within two hours' drive of a major city",
+"Only trails that have never had any rescue operations before",
+"Certain high-altitude or ecologically sensitive trails",
+"Trails that are shorter than five kilometres in total length"
+],
+"answer": 2,
+"explain_zh": "文中明確提到「permits are required only for certain high-altitude or ecologically sensitive trails」，故選C。A、B、D 文章都沒有提到，屬於捏造的細節。細節題直接對照原文敘述即可判斷。",
+"vocab": [
+{
+"w": "ecologically sensitive",
+"zh": "生態敏感的",
+"pos": "adj. phr."
+}
+]
+},
+{
+"id": "NHR-0143",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "SHOULD TAIWAN REQUIRE A PERMIT FOR EVERY MOUNTAIN TRAIL?\n\nTaiwan's mountains attract growing numbers of hikers each year, drawn by scenery that ranges from subtropical forest to alpine peaks within a few hours' drive of major cities. This growing popularity, however, has come with a rise in rescue operations, some involving hikers who were poorly prepared for sudden weather changes or trails more difficult than they expected.\n\nCurrently, permits are required only for certain high-altitude or ecologically sensitive trails, while thousands of other routes remain freely accessible without any registration. Some rescue workers and park officials argue this system should expand, requiring permits and basic safety briefings for a much wider range of trails, similar to systems used in several other mountainous countries.\n\nSupporters of expanded permits argue that mandatory registration would let rescue teams know exactly where missing hikers likely are, dramatically speeding up search efforts. Briefings could also ensure hikers understand specific trail risks, such as sudden fog or unstable rock sections, before setting out.\n\nOpponents counter that Taiwan's mountains are a public resource that should remain freely accessible, and that permit systems tend to burden responsible hikers while doing little to stop the small minority who ignore warnings regardless of regulation. They also point out that Taiwan's rescue teams are often volunteers whose limited capacity would be strained further by processing permits for thousands of additional trails.\n\nA compromise proposal, still under discussion, would require permits only for trails with the highest historical rescue rates, leaving the vast majority of routes unregulated.",
+"group_id": "NHR-G29",
+"stem": "What can be inferred about why opponents worry about volunteer rescue teams?",
+"options": [
+"Processing permits for many more trails could strain their already limited capacity",
+"Volunteer rescue teams have already been replaced entirely by paid professionals",
+"Volunteer rescue teams refuse to help hikers who did not register for a permit",
+"Volunteer rescue teams are no longer needed once a permit system is expanded"
+],
+"answer": 0,
+"explain_zh": "文中提到反對者認為「Taiwan's rescue teams are often volunteers whose limited capacity would be strained further by processing permits for thousands of additional trails」，可推論這是他們擔憂志工人力負擔加重的原因，故選A。B、C、D 文章都沒有根據。推論題要抓住這句話的因果關係。",
+"vocab": [
+{
+"w": "strain",
+"zh": "使緊張、使負擔過重",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0144",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "SHOULD TAIWAN REQUIRE A PERMIT FOR EVERY MOUNTAIN TRAIL?\n\nTaiwan's mountains attract growing numbers of hikers each year, drawn by scenery that ranges from subtropical forest to alpine peaks within a few hours' drive of major cities. This growing popularity, however, has come with a rise in rescue operations, some involving hikers who were poorly prepared for sudden weather changes or trails more difficult than they expected.\n\nCurrently, permits are required only for certain high-altitude or ecologically sensitive trails, while thousands of other routes remain freely accessible without any registration. Some rescue workers and park officials argue this system should expand, requiring permits and basic safety briefings for a much wider range of trails, similar to systems used in several other mountainous countries.\n\nSupporters of expanded permits argue that mandatory registration would let rescue teams know exactly where missing hikers likely are, dramatically speeding up search efforts. Briefings could also ensure hikers understand specific trail risks, such as sudden fog or unstable rock sections, before setting out.\n\nOpponents counter that Taiwan's mountains are a public resource that should remain freely accessible, and that permit systems tend to burden responsible hikers while doing little to stop the small minority who ignore warnings regardless of regulation. They also point out that Taiwan's rescue teams are often volunteers whose limited capacity would be strained further by processing permits for thousands of additional trails.\n\nA compromise proposal, still under discussion, would require permits only for trails with the highest historical rescue rates, leaving the vast majority of routes unregulated.",
+"group_id": "NHR-G29",
+"stem": "The word \"briefings\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"Official documents that hikers must sign before entering a national park",
+"Short informational sessions given to explain something before an activity begins",
+"Long training courses that last several weeks before certification",
+"Written warnings printed directly on trail maps and signs"
+],
+"answer": 1,
+"explain_zh": "briefings 指「簡報、行前說明」，文中說登山證制度可能包含 safety briefings，確保登山客了解特定路線的風險，指的是活動前的簡短說明，故選B。A、C、D 都不是 briefings 的意思。字義題可從「ensure hikers understand specific trail risks... before setting out」判斷語意。",
+"vocab": [
+{
+"w": "briefing",
+"zh": "簡報、說明會",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0145",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:reference",
+"tag_zh": "指代",
+"passage": "SHOULD TAIWAN REQUIRE A PERMIT FOR EVERY MOUNTAIN TRAIL?\n\nTaiwan's mountains attract growing numbers of hikers each year, drawn by scenery that ranges from subtropical forest to alpine peaks within a few hours' drive of major cities. This growing popularity, however, has come with a rise in rescue operations, some involving hikers who were poorly prepared for sudden weather changes or trails more difficult than they expected.\n\nCurrently, permits are required only for certain high-altitude or ecologically sensitive trails, while thousands of other routes remain freely accessible without any registration. Some rescue workers and park officials argue this system should expand, requiring permits and basic safety briefings for a much wider range of trails, similar to systems used in several other mountainous countries.\n\nSupporters of expanded permits argue that mandatory registration would let rescue teams know exactly where missing hikers likely are, dramatically speeding up search efforts. Briefings could also ensure hikers understand specific trail risks, such as sudden fog or unstable rock sections, before setting out.\n\nOpponents counter that Taiwan's mountains are a public resource that should remain freely accessible, and that permit systems tend to burden responsible hikers while doing little to stop the small minority who ignore warnings regardless of regulation. They also point out that Taiwan's rescue teams are often volunteers whose limited capacity would be strained further by processing permits for thousands of additional trails.\n\nA compromise proposal, still under discussion, would require permits only for trails with the highest historical rescue rates, leaving the vast majority of routes unregulated.",
+"group_id": "NHR-G29",
+"stem": "In the sentence \"A compromise proposal, still under discussion, would require permits only for trails with the highest historical rescue rates, leaving the vast majority of routes unregulated,\" what does \"the vast majority of routes\" refer to?",
+"options": [
+"Trails that are already restricted to certified professional guides only",
+"Trails that have never recorded a single rescue operation in history",
+"Trails located specifically within Taiwan's alpine, high-altitude regions",
+"Most mountain trails in Taiwan, aside from those with the highest rescue rates"
+],
+"answer": 3,
+"explain_zh": "這句話說折衷方案只會對「救援率最高的路線」要求登山證，其餘「the vast majority of routes」則維持不受規範，指的就是台灣絕大多數的登山步道，故選D。A、B、C 都不是這裡所指的對象。指代題要理解「除了...以外」這種對比句的邏輯。",
+"vocab": [
+{
+"w": "compromise",
+"zh": "折衷方案",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0146",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:main-idea",
+"tag_zh": "主旨",
+"passage": "THE LANGUAGE THAT ONLY NINE PEOPLE STILL SPEAK FLUENTLY\n\nLinguists estimate that roughly half of the world's approximately seven thousand languages will likely disappear by the end of this century, most without ever being fully documented. In Taiwan, several indigenous languages face a similarly urgent situation, with some spoken fluently by only a handful of elderly speakers.\n\nLanguage loss typically follows a predictable pattern. Younger generations, often under economic or social pressure to speak a dominant national language for education and employment, gradually use their heritage language less, first at school, then at work, and eventually even at home. Within two or three generations, a language once spoken by thousands can be reduced to a small number of elderly fluent speakers, with children understanding only fragments.\n\nOnce a language disappears, linguists argue that more than words are lost. Each language encodes a unique way of categorising the world, including specialised vocabulary for local plants, farming techniques, or traditional navigation methods that may have no exact equivalent in other languages.\n\nEfforts to slow this decline include community language nests, where young children are cared for entirely in the heritage language, and documentation projects that record elderly speakers before their knowledge disappears entirely. Digital tools have also helped; smartphone apps now allow younger community members to learn basic vocabulary and grammar at their own pace.\n\nSuccess remains uneven. Some communities have seen a genuine revival among younger speakers, while others continue losing fluent speakers faster than new ones can be trained.",
+"group_id": "NHR-G30",
+"stem": "Which of the following best expresses the main idea of the passage?",
+"options": [
+"All of the world's endangered languages have already disappeared completely",
+"Taiwan's indigenous languages are the only languages currently at risk of disappearing",
+"Many languages, including some in Taiwan, face extinction, though various efforts aim to slow the loss",
+"Digital apps have already fully solved the problem of language loss worldwide"
+],
+"answer": 2,
+"explain_zh": "文章說明語言消失的普遍現象與原因，也提到語言巢、記錄計畫、App 等挽救努力，成效不一，C 最能涵蓋全文重點。A、D 過度誇大；B 與文章開頭全球語言消失的敘述不符。主旨題要平衡文章中「消失危機」與「挽救努力」兩個面向。",
+"vocab": [
+{
+"w": "linguist",
+"zh": "語言學家",
+"pos": "n."
+},
+{
+"w": "fluent",
+"zh": "流利的",
+"pos": "adj."
+}
+]
+},
+{
+"id": "NHR-0147",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:detail",
+"tag_zh": "細節",
+"passage": "THE LANGUAGE THAT ONLY NINE PEOPLE STILL SPEAK FLUENTLY\n\nLinguists estimate that roughly half of the world's approximately seven thousand languages will likely disappear by the end of this century, most without ever being fully documented. In Taiwan, several indigenous languages face a similarly urgent situation, with some spoken fluently by only a handful of elderly speakers.\n\nLanguage loss typically follows a predictable pattern. Younger generations, often under economic or social pressure to speak a dominant national language for education and employment, gradually use their heritage language less, first at school, then at work, and eventually even at home. Within two or three generations, a language once spoken by thousands can be reduced to a small number of elderly fluent speakers, with children understanding only fragments.\n\nOnce a language disappears, linguists argue that more than words are lost. Each language encodes a unique way of categorising the world, including specialised vocabulary for local plants, farming techniques, or traditional navigation methods that may have no exact equivalent in other languages.\n\nEfforts to slow this decline include community language nests, where young children are cared for entirely in the heritage language, and documentation projects that record elderly speakers before their knowledge disappears entirely. Digital tools have also helped; smartphone apps now allow younger community members to learn basic vocabulary and grammar at their own pace.\n\nSuccess remains uneven. Some communities have seen a genuine revival among younger speakers, while others continue losing fluent speakers faster than new ones can be trained.",
+"group_id": "NHR-G30",
+"stem": "According to the passage, what is a \"language nest\"?",
+"options": [
+"A written record of a language's grammar and vocabulary rules",
+"A place where young children are cared for entirely in the heritage language",
+"A government office that manages funding for endangered languages",
+"A smartphone app used to teach adults a new heritage language"
+],
+"answer": 1,
+"explain_zh": "文中明確定義「community language nests, where young children are cared for entirely in the heritage language」，故選B。A、C、D 文章都沒有這樣的定義。細節題要找到定義句直接對應。",
+"vocab": [
+{
+"w": "heritage language",
+"zh": "傳承語言",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0148",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:inference",
+"tag_zh": "推論",
+"passage": "THE LANGUAGE THAT ONLY NINE PEOPLE STILL SPEAK FLUENTLY\n\nLinguists estimate that roughly half of the world's approximately seven thousand languages will likely disappear by the end of this century, most without ever being fully documented. In Taiwan, several indigenous languages face a similarly urgent situation, with some spoken fluently by only a handful of elderly speakers.\n\nLanguage loss typically follows a predictable pattern. Younger generations, often under economic or social pressure to speak a dominant national language for education and employment, gradually use their heritage language less, first at school, then at work, and eventually even at home. Within two or three generations, a language once spoken by thousands can be reduced to a small number of elderly fluent speakers, with children understanding only fragments.\n\nOnce a language disappears, linguists argue that more than words are lost. Each language encodes a unique way of categorising the world, including specialised vocabulary for local plants, farming techniques, or traditional navigation methods that may have no exact equivalent in other languages.\n\nEfforts to slow this decline include community language nests, where young children are cared for entirely in the heritage language, and documentation projects that record elderly speakers before their knowledge disappears entirely. Digital tools have also helped; smartphone apps now allow younger community members to learn basic vocabulary and grammar at their own pace.\n\nSuccess remains uneven. Some communities have seen a genuine revival among younger speakers, while others continue losing fluent speakers faster than new ones can be trained.",
+"group_id": "NHR-G30",
+"stem": "What can be inferred about why children in later generations often understand only fragments of a heritage language?",
+"options": [
+"Social and economic pressure gradually reduces heritage language use across generations",
+"Heritage languages are legally banned from being taught in most schools",
+"Children today are naturally less capable of learning multiple languages",
+"Heritage languages are considered too difficult for young children to learn"
+],
+"answer": 0,
+"explain_zh": "文中描述語言流失的典型模式，是年輕世代因經濟或社會壓力逐漸減少使用傳承語言，最終導致下一代只剩片段的理解，故選A。B、C、D 文章都沒有根據。推論題要抓住文章描述的因果過程。",
+"vocab": [
+{
+"w": "fragment",
+"zh": "片段",
+"pos": "n."
+}
+]
+},
+{
+"id": "NHR-0149",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:vocabulary-in-context",
+"tag_zh": "文意字彙",
+"passage": "THE LANGUAGE THAT ONLY NINE PEOPLE STILL SPEAK FLUENTLY\n\nLinguists estimate that roughly half of the world's approximately seven thousand languages will likely disappear by the end of this century, most without ever being fully documented. In Taiwan, several indigenous languages face a similarly urgent situation, with some spoken fluently by only a handful of elderly speakers.\n\nLanguage loss typically follows a predictable pattern. Younger generations, often under economic or social pressure to speak a dominant national language for education and employment, gradually use their heritage language less, first at school, then at work, and eventually even at home. Within two or three generations, a language once spoken by thousands can be reduced to a small number of elderly fluent speakers, with children understanding only fragments.\n\nOnce a language disappears, linguists argue that more than words are lost. Each language encodes a unique way of categorising the world, including specialised vocabulary for local plants, farming techniques, or traditional navigation methods that may have no exact equivalent in other languages.\n\nEfforts to slow this decline include community language nests, where young children are cared for entirely in the heritage language, and documentation projects that record elderly speakers before their knowledge disappears entirely. Digital tools have also helped; smartphone apps now allow younger community members to learn basic vocabulary and grammar at their own pace.\n\nSuccess remains uneven. Some communities have seen a genuine revival among younger speakers, while others continue losing fluent speakers faster than new ones can be trained.",
+"group_id": "NHR-G30",
+"stem": "The word \"encodes\" in the third paragraph is closest in meaning to which of the following?",
+"options": [
+"Translates directly and exactly into any other world language",
+"Erases completely once a language stops being spoken",
+"Records officially in a government language database",
+"Contains or represents information in a particular structured way"
+],
+"answer": 3,
+"explain_zh": "encodes 指「蘊含、編碼呈現」，文中說每種語言 encodes 一種獨特看待世界的方式，也就是語言本身以特定方式承載並呈現這些知識與分類方式，故選D。A、B、C 都不是 encodes 的意思。字義題可從「a unique way of categorising the world」推斷語意。",
+"vocab": [
+{
+"w": "encode",
+"zh": "蘊含、編碼",
+"pos": "v."
+}
+]
+},
+{
+"id": "NHR-0150",
+"level": "H2",
+"cefr": "B2",
+"skill": "reading",
+"tag": "reading:attitude-purpose",
+"tag_zh": "態度目的",
+"passage": "THE LANGUAGE THAT ONLY NINE PEOPLE STILL SPEAK FLUENTLY\n\nLinguists estimate that roughly half of the world's approximately seven thousand languages will likely disappear by the end of this century, most without ever being fully documented. In Taiwan, several indigenous languages face a similarly urgent situation, with some spoken fluently by only a handful of elderly speakers.\n\nLanguage loss typically follows a predictable pattern. Younger generations, often under economic or social pressure to speak a dominant national language for education and employment, gradually use their heritage language less, first at school, then at work, and eventually even at home. Within two or three generations, a language once spoken by thousands can be reduced to a small number of elderly fluent speakers, with children understanding only fragments.\n\nOnce a language disappears, linguists argue that more than words are lost. Each language encodes a unique way of categorising the world, including specialised vocabulary for local plants, farming techniques, or traditional navigation methods that may have no exact equivalent in other languages.\n\nEfforts to slow this decline include community language nests, where young children are cared for entirely in the heritage language, and documentation projects that record elderly speakers before their knowledge disappears entirely. Digital tools have also helped; smartphone apps now allow younger community members to learn basic vocabulary and grammar at their own pace.\n\nSuccess remains uneven. Some communities have seen a genuine revival among younger speakers, while others continue losing fluent speakers faster than new ones can be trained.",
+"group_id": "NHR-G30",
+"stem": "What is the writer's purpose in mentioning specialised vocabulary for local plants and traditional navigation methods?",
+"options": [
+"To argue that these topics have no real value outside of academic research",
+"To illustrate what kind of unique knowledge is lost when a language disappears",
+"To prove that all indigenous languages share exactly the same vocabulary",
+"To criticize younger generations for not learning these specific skills"
+],
+"answer": 1,
+"explain_zh": "這段舉例說明語言中蘊含的特殊詞彙（在地植物、傳統航行方法等），目的是具體呈現語言消失時所流失的獨特知識，讓讀者理解「不只是詞彙消失」的意涵，故選B。A、C、D 都與段落內容不符。目的題要看舉例句子在論證中扮演的角色。",
+"vocab": [
+{
+"w": "navigation",
+"zh": "航行、導航",
+"pos": "n."
+}
+]
+}
+]

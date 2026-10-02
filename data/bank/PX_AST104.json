@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "PX-AST104-001",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒態度",
+    "source": "104指考",
+    "stem": "John is very close to his family. Whenever he feels depressed, he returns to the warm, ______, and comfortable atmosphere of his home.",
+    "options": [
+      "crucial",
+      "sloppy",
+      "secure",
+      "cautious"
+    ],
+    "answer": 2,
+    "explain_zh": "家中氛圍溫暖、舒適又「有安全感」，故選 secure；sloppy（邋遢的）、cautious（謹慎的）、crucial（關鍵的）皆與家庭氛圍的描寫不合。secure 常用來形容讓人感到安心的環境。",
+    "vocab": [
+      {
+        "w": "secure",
+        "zh": "有安全感的",
+        "pos": "adj."
+      },
+      {
+        "w": "sloppy",
+        "zh": "邋遢的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-002",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:description",
+    "tag_zh": "描述用語",
+    "source": "104指考",
+    "stem": "Tom ______ something before he left the room, but I couldn't figure out exactly what he said.",
+    "options": [
+      "mumbled",
+      "perceived",
+      "summoned",
+      "trampled"
+    ],
+    "answer": 0,
+    "explain_zh": "敘述者聽不清楚 Tom 說了什麼，表示他是「喃喃自語」，故選 mumbled；perceived（察覺）、summoned（召喚）、trampled（踐踏）皆與說話含糊不清的情境不符。mumble 常用來描述講話含糊、聽不清楚。",
+    "vocab": [
+      {
+        "w": "mumble",
+        "zh": "喃喃自語",
+        "pos": "v."
+      },
+      {
+        "w": "perceive",
+        "zh": "察覺",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-003",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "source": "104指考",
+    "stem": "The content of the book is very much technical and specialized; it is too difficult for a ______ to understand.",
+    "options": [
+      "patriot",
+      "hacker",
+      "layman",
+      "tenant"
+    ],
+    "answer": 2,
+    "explain_zh": "書的內容太專業，一般「外行人」難以理解，故選 layman；patriot（愛國者）、hacker（駭客）、tenant（房客）皆與專業知識的語境無關。layman 常與 expert（專家）相對，指非專業人士。",
+    "vocab": [
+      {
+        "w": "layman",
+        "zh": "外行人",
+        "pos": "n."
+      },
+      {
+        "w": "patriot",
+        "zh": "愛國者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-004",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康身體",
+    "source": "104指考",
+    "stem": "Food shortages are one of the main causes of ______ nutrition among children in developing countries.",
+    "options": [
+      "distinctive",
+      "vigorous",
+      "inadequate",
+      "abundant"
+    ],
+    "answer": 2,
+    "explain_zh": "糧食短缺是造成開發中國家兒童「營養不足」的主因之一，故選 inadequate；abundant（豐富的）語意相反，distinctive（獨特的）、vigorous（充沛的）皆不合語境。inadequate nutrition 是常見的健康類搭配詞。",
+    "vocab": [
+      {
+        "w": "inadequate",
+        "zh": "不足的",
+        "pos": "adj."
+      },
+      {
+        "w": "abundant",
+        "zh": "豐富的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-005",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:description",
+    "tag_zh": "描述用語",
+    "source": "104指考",
+    "stem": "Good writers do not always write ______; on the contrary, they often express what they really mean in an indirect way.",
+    "options": [
+      "explicitly",
+      "ironically",
+      "persistently",
+      "selectively"
+    ],
+    "answer": 0,
+    "explain_zh": "句子以 on the contrary（相反地）與間接表達對比，故前半應選「明確地」explicitly；ironically（諷刺地）、persistently（持續地）、selectively（選擇性地）皆與此對比邏輯不合。留意 on the contrary 前後語意常成對比關係。",
+    "vocab": [
+      {
+        "w": "explicitly",
+        "zh": "明確地",
+        "pos": "adv."
+      },
+      {
+        "w": "ironically",
+        "zh": "諷刺地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-006",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:weather",
+    "tag_zh": "天氣氣候",
+    "source": "104指考",
+    "stem": "According to the weather report, some light rain or ______ is expected today. You may need to take an umbrella with you when you go out.",
+    "options": [
+      "hail",
+      "breeze",
+      "tornado",
+      "drizzle"
+    ],
+    "answer": 3,
+    "explain_zh": "需要帶傘防範的應是「小雨」，故選 drizzle；breeze（微風）不需帶傘，tornado（龍捲風）、hail（冰雹）程度過於劇烈，與「light rain or ____」的輕微語氣不搭。drizzle 專指細小綿密的雨。",
+    "vocab": [
+      {
+        "w": "drizzle",
+        "zh": "細雨",
+        "pos": "n."
+      },
+      {
+        "w": "breeze",
+        "zh": "微風",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-007",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒態度",
+    "source": "104指考",
+    "stem": "The movie was so popular that many people came to the ______ conclusion that it must be good; however, many professional critics thought otherwise.",
+    "options": [
+      "acute",
+      "naive",
+      "confidential",
+      "skeptical"
+    ],
+    "answer": 1,
+    "explain_zh": "只因電影熱門就斷定它一定好看，這樣的想法過於「天真」，故選 naive；句尾 however 帶出影評人看法不同的轉折，證實前述判斷確實不夠周全。skeptical（懷疑的）與句意矛盾，故不合。",
+    "vocab": [
+      {
+        "w": "naive",
+        "zh": "天真的",
+        "pos": "adj."
+      },
+      {
+        "w": "skeptical",
+        "zh": "懷疑的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-008",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "source": "104指考",
+    "stem": "In ancient times, people used large shells to ______ voices in open-air ceremonies so that their tribal members near and far could hear what was said.",
+    "options": [
+      "amplify",
+      "mobilize",
+      "penetrate",
+      "undermine"
+    ],
+    "answer": 0,
+    "explain_zh": "古人用大貝殼「放大」聲音，讓遠近的族人都能聽見，故選 amplify；mobilize（動員）、penetrate（穿透）、undermine（破壞）皆與擴音的語意不合。amplify voices 是常見的科學類搭配詞。",
+    "vocab": [
+      {
+        "w": "amplify",
+        "zh": "放大,擴大",
+        "pos": "v."
+      },
+      {
+        "w": "mobilize",
+        "zh": "動員",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-009",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:describing-change",
+    "tag_zh": "變化描述",
+    "source": "104指考",
+    "stem": "The audience held their breath and sat motionless in the theater as they watched the tragic historical event ______ in front of their eyes.",
+    "options": [
+      "ascending",
+      "elaborating",
+      "illustrating",
+      "unfolding"
+    ],
+    "answer": 3,
+    "explain_zh": "觀眾屏息看著悲劇性的歷史事件在眼前「逐漸展開」，故選 unfolding；ascending（上升）、elaborating（詳述）、illustrating（說明）皆與畫面在眼前展開的語意不合。unfold 常用來描述事件逐漸呈現的過程。",
+    "vocab": [
+      {
+        "w": "unfold",
+        "zh": "展開,呈現",
+        "pos": "v."
+      },
+      {
+        "w": "ascend",
+        "zh": "上升",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-010",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:workplace",
+    "tag_zh": "職場用語",
+    "source": "104指考",
+    "stem": "According to government regulations, if employees are unable to work because of a serious illness, they are ______ to take an extended sick leave.",
+    "options": [
+      "adapted",
+      "entitled",
+      "oriented",
+      "intimidated"
+    ],
+    "answer": 1,
+    "explain_zh": "依政府規定，員工因重病無法工作時「有權」請長病假，故選 entitled；adapted（適應的）、oriented（導向的）、intimidated（被恐嚇的）皆與享有權利的語意不合。be entitled to 是常考的固定搭配，表示「有資格/權利」。",
+    "vocab": [
+      {
+        "w": "entitled",
+        "zh": "有權利的",
+        "pos": "adj."
+      },
+      {
+        "w": "regulation",
+        "zh": "規定",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-011",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "104指考",
+    "passage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as (11) his life of adventure. Hemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to (12) such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been (13).\nHemingway liked to portray soldiers, hunters, bull fighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this (14) lose hope and faith. His straightforward prose is particularly effective in his short stories, some of (15) are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
+    "group_id": "PX-AST104-G01",
+    "stem": "(11) 應填入：His writing style influenced modern fiction, as ____ his life of adventure.",
+    "options": [
+      "was",
+      "being",
+      "did",
+      "doing"
+    ],
+    "answer": 2,
+    "explain_zh": "as 引導的倒裝子句用助動詞代替前面提到的動作(influenced)，故選 did；was、being、doing在文法結構或時態上都不正確。此為「as＋助動詞＋主詞」倒裝句型，是文法常考重點。",
+    "vocab": [
+      {
+        "w": "as did",
+        "zh": "(倒裝句)也是如此",
+        "pos": "phr."
+      },
+      {
+        "w": "adventure",
+        "zh": "冒險",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-012",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "104指考",
+    "passage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as (11) his life of adventure. Hemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to (12) such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been (13).\nHemingway liked to portray soldiers, hunters, bull fighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this (14) lose hope and faith. His straightforward prose is particularly effective in his short stories, some of (15) are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
+    "group_id": "PX-AST104-G01",
+    "stem": "(12) 應填入：He was sent to Europe as a newspaper correspondent to ____ such events as the Greek Revolution.",
+    "options": [
+      "cover",
+      "approve",
+      "predict",
+      "escape"
+    ],
+    "answer": 0,
+    "explain_zh": "海明威被派駐歐洲擔任特派記者，目的是去「報導」希臘革命等事件，故選 cover；approve（核准）、predict（預測）、escape（逃離）皆與記者工作的語意不合。cover an event 是新聞英文常見用法，指「報導某事件」。",
+    "vocab": [
+      {
+        "w": "cover",
+        "zh": "報導",
+        "pos": "v."
+      },
+      {
+        "w": "correspondent",
+        "zh": "特派記者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-013",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "104指考",
+    "passage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as (11) his life of adventure. Hemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to (12) such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been (13).\nHemingway liked to portray soldiers, hunters, bull fighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this (14) lose hope and faith. His straightforward prose is particularly effective in his short stories, some of (15) are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
+    "group_id": "PX-AST104-G01",
+    "stem": "(13) 應填入：The Old Man and the Sea finally won him the Pulitzer Prize he had long been ____.",
+    "options": [
+      "planned",
+      "achieved",
+      "examined",
+      "denied"
+    ],
+    "answer": 3,
+    "explain_zh": "《老人與海》終於讓他獲得長年一直被「拒絕」的普立茲獎，故選 denied；planned（被計劃）、achieved（被達成）、examined（被檢驗）皆與「渴望已久卻未獲得」的語意不合。had long been denied 表示過去長期未能得到。",
+    "vocab": [
+      {
+        "w": "deny",
+        "zh": "拒絕,不給予",
+        "pos": "v."
+      },
+      {
+        "w": "achieve",
+        "zh": "達成",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-014",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "104指考",
+    "passage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as (11) his life of adventure. Hemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to (12) such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been (13).\nHemingway liked to portray soldiers, hunters, bull fighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this (14) lose hope and faith. His straightforward prose is particularly effective in his short stories, some of (15) are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
+    "group_id": "PX-AST104-G01",
+    "stem": "(14) 應填入：Tough people whose courage is set against the brutal ways of modern society, who in this ____ lose hope and faith.",
+    "options": [
+      "limitation",
+      "classification",
+      "confrontation",
+      "modification"
+    ],
+    "answer": 2,
+    "explain_zh": "這些堅毅的角色在與殘酷現代社會「對抗」的過程中逐漸失去希望與信念，故選 confrontation；limitation（限制）、classification（分類）、modification（修改）皆與對抗的語意不合。confrontation 常與 conflict、struggle 同類語意。",
+    "vocab": [
+      {
+        "w": "confrontation",
+        "zh": "對抗",
+        "pos": "n."
+      },
+      {
+        "w": "brutal",
+        "zh": "殘酷的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-015",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:reference",
+    "tag_zh": "克漏字：代名詞指涉",
+    "source": "104指考",
+    "passage": "Ernest Hemingway (1899-1961) was an American author and journalist. His writing style, characterized by simplicity and understatement, influenced modern fiction, as (11) his life of adventure. Hemingway started his career as a journalist at 17. In the 1920s, he was sent to Europe as a newspaper correspondent to (12) such events as the Greek Revolution. During this period, he produced his early important works, including The Sun Also Rises. Among his later works, the most outstanding is The Old Man and the Sea (1952), which became perhaps his most famous book, finally winning him the Pulitzer Prize he had long been (13).\nHemingway liked to portray soldiers, hunters, bull fighters—tough, at times primitive people whose courage and honesty are set against the brutal ways of modern society, and who in this (14) lose hope and faith. His straightforward prose is particularly effective in his short stories, some of (15) are collected in Men Without Women (1927). In 1954, Hemingway was awarded the Nobel Prize in Literature. He died in Idaho in 1961.",
+    "group_id": "PX-AST104-G01",
+    "stem": "(15) 應填入：His prose is effective in his short stories, some of ____ are collected in Men Without Women.",
+    "options": [
+      "what",
+      "which",
+      "them",
+      "these"
+    ],
+    "answer": 1,
+    "explain_zh": "some of which 是「介系詞＋關係代名詞」的固定用法，代替前面的 short stories，故選 which；them 是人稱代名詞，不能接在介系詞後面代替關係子句，what、these 也不符合文法。",
+    "vocab": [
+      {
+        "w": "relative pronoun",
+        "zh": "關係代名詞",
+        "pos": "n."
+      },
+      {
+        "w": "collect",
+        "zh": "收錄,收集",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-016",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "104指考",
+    "passage": "Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common (16) for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).\nRoad running is unique among athletic events because it (17) all ages and abilities. In many cases first time amateurs are welcome to participate in the same event as running club members and even current world-class (18). Sometimes it may also include wheelchair entrants.\nRoad running often offers those (19) a range of challenges such as dealing with hills, sharp bends, rough weather, and so on. Runners are advised to train prior to participating in a race. Another important factor contributing to success is a suitable pair of running shoes.\nRoad running is often a community-wide event that highlights or raises money for an issue or project. (20), Race for the Cure is held throughout the U.S. to raise breast cancer awareness. This race is also run in Germany, Italy, and Puerto Rico.",
+    "group_id": "PX-AST104-G02",
+    "stem": "(16) 應填入：The three most common ____ for road running events are 10K runs, half marathons, and marathons.",
+    "options": [
+      "journeys",
+      "distances",
+      "destinations",
+      "measurements"
+    ],
+    "answer": 1,
+    "explain_zh": "10K、半馬(21.1K)、全馬(42.2K)三種都是依「距離」分類的路跑賽事，故選 distances；journeys（旅程）、destinations（目的地）、measurements（測量）皆與比賽類型的分類方式不合。",
+    "vocab": [
+      {
+        "w": "distance",
+        "zh": "距離",
+        "pos": "n."
+      },
+      {
+        "w": "destination",
+        "zh": "目的地",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-017",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "source": "104指考",
+    "passage": "Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common (16) for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).\nRoad running is unique among athletic events because it (17) all ages and abilities. In many cases first time amateurs are welcome to participate in the same event as running club members and even current world-class (18). Sometimes it may also include wheelchair entrants.\nRoad running often offers those (19) a range of challenges such as dealing with hills, sharp bends, rough weather, and so on. Runners are advised to train prior to participating in a race. Another important factor contributing to success is a suitable pair of running shoes.\nRoad running is often a community-wide event that highlights or raises money for an issue or project. (20), Race for the Cure is held throughout the U.S. to raise breast cancer awareness. This race is also run in Germany, Italy, and Puerto Rico.",
+    "group_id": "PX-AST104-G02",
+    "stem": "(17) 應填入：Road running is unique because it ____ all ages and abilities.",
+    "options": [
+      "caters to",
+      "depends on",
+      "goes after",
+      "identifies with"
+    ],
+    "answer": 0,
+    "explain_zh": "路跑之所以特別，是因為它「迎合、適合」各種年齡與能力的人參與，故選 caters to；depends on（取決於）、goes after（追求）、identifies with（認同）皆與語意不合。cater to 是常見片語，指滿足特定對象的需求。",
+    "vocab": [
+      {
+        "w": "cater to",
+        "zh": "迎合,適合",
+        "pos": "phr."
+      },
+      {
+        "w": "amateur",
+        "zh": "業餘者",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-018",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "104指考",
+    "passage": "Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common (16) for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).\nRoad running is unique among athletic events because it (17) all ages and abilities. In many cases first time amateurs are welcome to participate in the same event as running club members and even current world-class (18). Sometimes it may also include wheelchair entrants.\nRoad running often offers those (19) a range of challenges such as dealing with hills, sharp bends, rough weather, and so on. Runners are advised to train prior to participating in a race. Another important factor contributing to success is a suitable pair of running shoes.\nRoad running is often a community-wide event that highlights or raises money for an issue or project. (20), Race for the Cure is held throughout the U.S. to raise breast cancer awareness. This race is also run in Germany, Italy, and Puerto Rico.",
+    "group_id": "PX-AST104-G02",
+    "stem": "(18) 應填入：Amateurs may participate in the same event as club members and even current world-class ____.",
+    "options": [
+      "matches",
+      "civilians",
+      "associations",
+      "champions"
+    ],
+    "answer": 3,
+    "explain_zh": "業餘跑者甚至能與世界級「冠軍」選手同場競賽，故選 champions；matches（比賽）、civilians（平民）、associations（協會）皆與此語境不合。world-class champions 是常見的體育類搭配。",
+    "vocab": [
+      {
+        "w": "champion",
+        "zh": "冠軍",
+        "pos": "n."
+      },
+      {
+        "w": "civilian",
+        "zh": "平民",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-019",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "104指考",
+    "passage": "Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common (16) for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).\nRoad running is unique among athletic events because it (17) all ages and abilities. In many cases first time amateurs are welcome to participate in the same event as running club members and even current world-class (18). Sometimes it may also include wheelchair entrants.\nRoad running often offers those (19) a range of challenges such as dealing with hills, sharp bends, rough weather, and so on. Runners are advised to train prior to participating in a race. Another important factor contributing to success is a suitable pair of running shoes.\nRoad running is often a community-wide event that highlights or raises money for an issue or project. (20), Race for the Cure is held throughout the U.S. to raise breast cancer awareness. This race is also run in Germany, Italy, and Puerto Rico.",
+    "group_id": "PX-AST104-G02",
+    "stem": "(19) 應填入：Road running often offers those ____ a range of challenges such as dealing with hills and rough weather.",
+    "options": [
+      "involving",
+      "involved",
+      "to involve",
+      "are involved"
+    ],
+    "answer": 1,
+    "explain_zh": "those (who are) involved 為省略關代與 be 動詞的用法，過去分詞 involved 作形容詞修飾「參與其中的人」，故選 involved；involving 帶有主動意涵，與被牽涉其中的語意不合，to involve、are involved 則不符文法結構。",
+    "vocab": [
+      {
+        "w": "involved",
+        "zh": "涉及其中的",
+        "pos": "adj."
+      },
+      {
+        "w": "participate",
+        "zh": "參與",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-020",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "104指考",
+    "passage": "Road running is one of the most popular and accessible athletic activities in the world. It refers to the sport of running on paved roads or established paths as opposed to track and field, or cross country running. The three most common (16) for road running events are 10K runs, half marathons (21.1K), and marathons (42.2K).\nRoad running is unique among athletic events because it (17) all ages and abilities. In many cases first time amateurs are welcome to participate in the same event as running club members and even current world-class (18). Sometimes it may also include wheelchair entrants.\nRoad running often offers those (19) a range of challenges such as dealing with hills, sharp bends, rough weather, and so on. Runners are advised to train prior to participating in a race. Another important factor contributing to success is a suitable pair of running shoes.\nRoad running is often a community-wide event that highlights or raises money for an issue or project. (20), Race for the Cure is held throughout the U.S. to raise breast cancer awareness. This race is also run in Germany, Italy, and Puerto Rico.",
+    "group_id": "PX-AST104-G02",
+    "stem": "(20) 應填入：____, Race for the Cure is held throughout the U.S. to raise breast cancer awareness.",
+    "options": [
+      "Above all",
+      "For example",
+      "As it appears",
+      "To some extent"
+    ],
+    "answer": 1,
+    "explain_zh": "此句接著舉出 Race for the Cure 作為社區路跑活動的具體實例，屬於「舉例」關係，故選 For example；Above all（最重要的是）、As it appears（看來)、To some extent（在某種程度上）皆不符合前後文的舉例邏輯。",
+    "vocab": [
+      {
+        "w": "for example",
+        "zh": "舉例來說",
+        "pos": "phr."
+      },
+      {
+        "w": "awareness",
+        "zh": "意識,認知",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-021",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "104指考",
+    "passage": "Fabergé eggs are jeweled eggs that were made by the famous Russian jeweler, the House of Fabergé, from 1885 to 1917. The eggs were made of valuable metals or stones coated with beautiful colors and decorated with precious jewels.\nThe first Fabergé egg was crafted for Tsar Alexander III, who gave his wife, the Empress Maria Fedorovna, an Easter egg to celebrate their 20th wedding anniversary. He placed an order with a young jeweler, Peter Carl Fabergé, whose beautiful creations had caught Maria's eye earlier. On Easter morning of 1885, what appeared to be a simple enameled egg was delivered to the palace. But to the delight of the Empress, the egg opened to a golden yolk; within the yolk was a golden hen; and concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg. Unfortunately, the last two surprises are now lost to history.\nEmpress Maria was so delighted by this gift that Alexander appointed Fabergé a \"goldsmith by special appointment to the Imperial Crown.\" The Tsar also asked Fabergé to make an Easter egg every year. The requirements were straightforward: Each egg must be unique, and each must contain a pleasant surprise. With excellent craftsmanship and an inventive spirit, Peter Fabergé and his successors repeatedly met the challenge. The House of Fabergé made approximately 50 Imperial Easter Eggs for Tsar Alexander III and his son Nicholas II until 1917, when the Russian revolution broke out.\nToday, the term \"Fabergé eggs\" has become a synonym of luxury and the eggs are regarded as masterpieces of the jeweler's art. More significantly, perhaps, they serve as reminders of the last Russian imperial family.",
+    "group_id": "PX-AST104-G03",
+    "stem": "Why did Tsar Alexander III choose Peter Fabergé to make the first Easter egg?",
+    "options": [
+      "Peter Fabergé was the goldsmith for the royal family.",
+      "Empress Maria was impressed by Peter Fabergé's work.",
+      "Tsar Alexander III received an order from Empress Maria.",
+      "Peter Fabergé owned the most famous Russian jewelry house."
+    ],
+    "answer": 1,
+    "explain_zh": "答案線索在第二段：Fabergé的作品「先前」就已令瑪麗亞皇后驚豔(caught Maria's eye earlier)，因此沙皇才委託他製作彩蛋，故選 B；A「他是皇室御用金匠」其實是接到訂單、蛋大獲好評「之後」才被封的頭銜，屬於結果而非原因。",
+    "vocab": [
+      {
+        "w": "jeweler",
+        "zh": "珠寶匠",
+        "pos": "n."
+      },
+      {
+        "w": "impress",
+        "zh": "使印象深刻",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-022",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "104指考",
+    "passage": "Fabergé eggs are jeweled eggs that were made by the famous Russian jeweler, the House of Fabergé, from 1885 to 1917. The eggs were made of valuable metals or stones coated with beautiful colors and decorated with precious jewels.\nThe first Fabergé egg was crafted for Tsar Alexander III, who gave his wife, the Empress Maria Fedorovna, an Easter egg to celebrate their 20th wedding anniversary. He placed an order with a young jeweler, Peter Carl Fabergé, whose beautiful creations had caught Maria's eye earlier. On Easter morning of 1885, what appeared to be a simple enameled egg was delivered to the palace. But to the delight of the Empress, the egg opened to a golden yolk; within the yolk was a golden hen; and concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg. Unfortunately, the last two surprises are now lost to history.\nEmpress Maria was so delighted by this gift that Alexander appointed Fabergé a \"goldsmith by special appointment to the Imperial Crown.\" The Tsar also asked Fabergé to make an Easter egg every year. The requirements were straightforward: Each egg must be unique, and each must contain a pleasant surprise. With excellent craftsmanship and an inventive spirit, Peter Fabergé and his successors repeatedly met the challenge. The House of Fabergé made approximately 50 Imperial Easter Eggs for Tsar Alexander III and his son Nicholas II until 1917, when the Russian revolution broke out.\nToday, the term \"Fabergé eggs\" has become a synonym of luxury and the eggs are regarded as masterpieces of the jeweler's art. More significantly, perhaps, they serve as reminders of the last Russian imperial family.",
+    "group_id": "PX-AST104-G03",
+    "stem": "What went missing from the first Fabergé egg?",
+    "options": [
+      "A golden hen and a ruby egg.",
+      "A golden hen and a golden yolk.",
+      "A ruby egg and a diamond crown.",
+      "A golden yolk and a diamond crown."
+    ],
+    "answer": 2,
+    "explain_zh": "第二段描述蛋中依序藏有金蛋黃、金母雞、鑽石皇冠縮影與紅寶石小蛋，並說明「最後兩個驚喜(鑽石皇冠與紅寶石蛋)如今已失傳」，故選 C；金蛋黃與金母雞至今仍存在，並未遺失。",
+    "vocab": [
+      {
+        "w": "conceal",
+        "zh": "隱藏",
+        "pos": "v."
+      },
+      {
+        "w": "miniature",
+        "zh": "縮小模型",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-023",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "文意猜字",
+    "source": "104指考",
+    "passage": "Fabergé eggs are jeweled eggs that were made by the famous Russian jeweler, the House of Fabergé, from 1885 to 1917. The eggs were made of valuable metals or stones coated with beautiful colors and decorated with precious jewels.\nThe first Fabergé egg was crafted for Tsar Alexander III, who gave his wife, the Empress Maria Fedorovna, an Easter egg to celebrate their 20th wedding anniversary. He placed an order with a young jeweler, Peter Carl Fabergé, whose beautiful creations had caught Maria's eye earlier. On Easter morning of 1885, what appeared to be a simple enameled egg was delivered to the palace. But to the delight of the Empress, the egg opened to a golden yolk; within the yolk was a golden hen; and concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg. Unfortunately, the last two surprises are now lost to history.\nEmpress Maria was so delighted by this gift that Alexander appointed Fabergé a \"goldsmith by special appointment to the Imperial Crown.\" The Tsar also asked Fabergé to make an Easter egg every year. The requirements were straightforward: Each egg must be unique, and each must contain a pleasant surprise. With excellent craftsmanship and an inventive spirit, Peter Fabergé and his successors repeatedly met the challenge. The House of Fabergé made approximately 50 Imperial Easter Eggs for Tsar Alexander III and his son Nicholas II until 1917, when the Russian revolution broke out.\nToday, the term \"Fabergé eggs\" has become a synonym of luxury and the eggs are regarded as masterpieces of the jeweler's art. More significantly, perhaps, they serve as reminders of the last Russian imperial family.",
+    "group_id": "PX-AST104-G03",
+    "stem": "What does it mean by \"Peter Fabergé and his successors repeatedly met the challenge\" in the third paragraph?",
+    "options": [
+      "They repeated their designs over and over.",
+      "They fulfilled the Tsar's requirements each time.",
+      "They challenged the Tsar's expectations every year.",
+      "They were faced with unexpected difficulties time and again."
+    ],
+    "answer": 1,
+    "explain_zh": "第三段說明沙皇的要求是「每顆蛋都要獨特，且都要有驚喜」，Fabergé父子每年都達成這項要求，故 met the challenge 應理解為「每次都滿足了沙皇的要求」，選 B；並非重複相同設計(A)，也不是挑戰沙皇的期望(C)。",
+    "vocab": [
+      {
+        "w": "fulfill",
+        "zh": "達成,滿足",
+        "pos": "v."
+      },
+      {
+        "w": "requirement",
+        "zh": "要求,條件",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-024",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "104指考",
+    "passage": "Fabergé eggs are jeweled eggs that were made by the famous Russian jeweler, the House of Fabergé, from 1885 to 1917. The eggs were made of valuable metals or stones coated with beautiful colors and decorated with precious jewels.\nThe first Fabergé egg was crafted for Tsar Alexander III, who gave his wife, the Empress Maria Fedorovna, an Easter egg to celebrate their 20th wedding anniversary. He placed an order with a young jeweler, Peter Carl Fabergé, whose beautiful creations had caught Maria's eye earlier. On Easter morning of 1885, what appeared to be a simple enameled egg was delivered to the palace. But to the delight of the Empress, the egg opened to a golden yolk; within the yolk was a golden hen; and concealed within the hen was a diamond miniature of the royal crown and a tiny ruby egg. Unfortunately, the last two surprises are now lost to history.\nEmpress Maria was so delighted by this gift that Alexander appointed Fabergé a \"goldsmith by special appointment to the Imperial Crown.\" The Tsar also asked Fabergé to make an Easter egg every year. The requirements were straightforward: Each egg must be unique, and each must contain a pleasant surprise. With excellent craftsmanship and an inventive spirit, Peter Fabergé and his successors repeatedly met the challenge. The House of Fabergé made approximately 50 Imperial Easter Eggs for Tsar Alexander III and his son Nicholas II until 1917, when the Russian revolution broke out.\nToday, the term \"Fabergé eggs\" has become a synonym of luxury and the eggs are regarded as masterpieces of the jeweler's art. More significantly, perhaps, they serve as reminders of the last Russian imperial family.",
+    "group_id": "PX-AST104-G03",
+    "stem": "Which of the following statements about the Fabergé eggs is true, according to the passage?",
+    "options": [
+      "They were all genuine creations of the jeweler, Peter Fabergé.",
+      "They were created to represent Russian emperors and their dynasty.",
+      "They were made for annual Easter parties in the Russian imperial court.",
+      "They were connected to the last two Russian emperors and their families."
+    ],
+    "answer": 3,
+    "explain_zh": "文章第三段提到法貝熱蛋是為亞歷山大三世及其子尼古拉二世兩代沙皇皇室所製作，直到1917年俄國革命爆發才停止，故選 D，這兩位正是俄國最後的沙皇；文中並未說明所有蛋都出自Fabergé本人親手製作(A可能包含其後繼者)。",
+    "vocab": [
+      {
+        "w": "dynasty",
+        "zh": "王朝",
+        "pos": "n."
+      },
+      {
+        "w": "imperial",
+        "zh": "帝王的,皇室的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-025",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "104指考",
+    "passage": "Six Sigma is a highly disciplined process that helps companies focus on developing and delivering near-perfect products and services. The word \"sigma\" is a statistical term that measures how far a given process falls short of perfection. The central idea behind Six Sigma is that if a company can measure how many \"defects\" they have in a commercial production process, they can systematically figure out how to eliminate the problems and get as close to \"zero defects\" as possible.\nTraining and teamwork are essential elements of the Six Sigma methodology. In other words, companies need to have their team leaders and team members trained to implement the Six Sigma processes. They must learn to use the measurement and improvement tools. They also need to learn communication skills necessary for them to involve customers and suppliers and to serve their needs.\nSix Sigma was developed in 1986 by Motorola, an American telecommunications company. Engineers in Motorola used it as an informal name for a plan to reduce faults in production processes. A few years later, Motorola extended the name \"Six Sigma\" to mean a general performance improvement method, beyond purely \"defect reduction\" in the production process. In 1995, Jack Welch, CEO of General Electrics (GE), decided to implement Six Sigma in GE; and by 1998 GE claimed that Six Sigma had generated over three-quarters of a billion dollars of cost savings.\nBy 2000, Six Sigma was effectively established as an industry in its own right, involving the training, consultancy and implementation of Six Sigma methodology in all sorts of organizations around the world. Organizations as diverse as local governments, prisons, hospitals, the armed forces, banks, and multi-national corporations have been adopting Six Sigma for quality and process improvement.",
+    "group_id": "PX-AST104-G04",
+    "stem": "According to the passage, what is \"Six Sigma\"?",
+    "options": [
+      "A digital device to speed up production processes.",
+      "A near-perfect process in business communication.",
+      "A statistical term that measures a company's budgets and profits.",
+      "A quality measure that detects problems to improve products and services."
+    ],
+    "answer": 3,
+    "explain_zh": "第一段定義 Six Sigma 是一套幫助企業偵測「缺陷」、藉此改善產品與服務品質的高度紀律化流程，故選 D；A「加速生產的數位裝置」與文意不符，C 把 sigma 誤解為衡量公司預算獲利的統計名詞，並非原文定義。",
+    "vocab": [
+      {
+        "w": "defect",
+        "zh": "缺陷",
+        "pos": "n."
+      },
+      {
+        "w": "statistical",
+        "zh": "統計的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-026",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "104指考",
+    "passage": "Six Sigma is a highly disciplined process that helps companies focus on developing and delivering near-perfect products and services. The word \"sigma\" is a statistical term that measures how far a given process falls short of perfection. The central idea behind Six Sigma is that if a company can measure how many \"defects\" they have in a commercial production process, they can systematically figure out how to eliminate the problems and get as close to \"zero defects\" as possible.\nTraining and teamwork are essential elements of the Six Sigma methodology. In other words, companies need to have their team leaders and team members trained to implement the Six Sigma processes. They must learn to use the measurement and improvement tools. They also need to learn communication skills necessary for them to involve customers and suppliers and to serve their needs.\nSix Sigma was developed in 1986 by Motorola, an American telecommunications company. Engineers in Motorola used it as an informal name for a plan to reduce faults in production processes. A few years later, Motorola extended the name \"Six Sigma\" to mean a general performance improvement method, beyond purely \"defect reduction\" in the production process. In 1995, Jack Welch, CEO of General Electrics (GE), decided to implement Six Sigma in GE; and by 1998 GE claimed that Six Sigma had generated over three-quarters of a billion dollars of cost savings.\nBy 2000, Six Sigma was effectively established as an industry in its own right, involving the training, consultancy and implementation of Six Sigma methodology in all sorts of organizations around the world. Organizations as diverse as local governments, prisons, hospitals, the armed forces, banks, and multi-national corporations have been adopting Six Sigma for quality and process improvement.",
+    "group_id": "PX-AST104-G04",
+    "stem": "For Six Sigma to be applied successfully, which of the following are the most crucial factors?",
+    "options": [
+      "Customers and suppliers' needs.",
+      "Tools in statistics and marketing.",
+      "Strong teamwork and proper training.",
+      "Good leadership and sufficient budget."
+    ],
+    "answer": 2,
+    "explain_zh": "第二段開頭明確指出「訓練與團隊合作」是實施 Six Sigma 的核心要素，故選 C；顧客與供應商需求、量測工具都只是訓練內容的一部分，並非文中所指最關鍵的成功因素。",
+    "vocab": [
+      {
+        "w": "teamwork",
+        "zh": "團隊合作",
+        "pos": "n."
+      },
+      {
+        "w": "implement",
+        "zh": "實施",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-027",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "篇章結構理解",
+    "source": "104指考",
+    "passage": "Six Sigma is a highly disciplined process that helps companies focus on developing and delivering near-perfect products and services. The word \"sigma\" is a statistical term that measures how far a given process falls short of perfection. The central idea behind Six Sigma is that if a company can measure how many \"defects\" they have in a commercial production process, they can systematically figure out how to eliminate the problems and get as close to \"zero defects\" as possible.\nTraining and teamwork are essential elements of the Six Sigma methodology. In other words, companies need to have their team leaders and team members trained to implement the Six Sigma processes. They must learn to use the measurement and improvement tools. They also need to learn communication skills necessary for them to involve customers and suppliers and to serve their needs.\nSix Sigma was developed in 1986 by Motorola, an American telecommunications company. Engineers in Motorola used it as an informal name for a plan to reduce faults in production processes. A few years later, Motorola extended the name \"Six Sigma\" to mean a general performance improvement method, beyond purely \"defect reduction\" in the production process. In 1995, Jack Welch, CEO of General Electrics (GE), decided to implement Six Sigma in GE; and by 1998 GE claimed that Six Sigma had generated over three-quarters of a billion dollars of cost savings.\nBy 2000, Six Sigma was effectively established as an industry in its own right, involving the training, consultancy and implementation of Six Sigma methodology in all sorts of organizations around the world. Organizations as diverse as local governments, prisons, hospitals, the armed forces, banks, and multi-national corporations have been adopting Six Sigma for quality and process improvement.",
+    "group_id": "PX-AST104-G04",
+    "stem": "How are the author's ideas developed in the last two paragraphs?",
+    "options": [
+      "By definition.",
+      "By comparison.",
+      "In time order.",
+      "In space order."
+    ],
+    "answer": 2,
+    "explain_zh": "第三、四段依序敘述 1986 年摩托羅拉創立、1995 年奇異(GE)導入、2000 年發展成全球產業的時間脈絡，屬於「按時間順序」鋪陳，故選 C；並非以定義、比較或空間順序展開論述。",
+    "vocab": [
+      {
+        "w": "chronological",
+        "zh": "按時間順序的",
+        "pos": "adj."
+      },
+      {
+        "w": "methodology",
+        "zh": "方法論",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-028",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "104指考",
+    "passage": "Six Sigma is a highly disciplined process that helps companies focus on developing and delivering near-perfect products and services. The word \"sigma\" is a statistical term that measures how far a given process falls short of perfection. The central idea behind Six Sigma is that if a company can measure how many \"defects\" they have in a commercial production process, they can systematically figure out how to eliminate the problems and get as close to \"zero defects\" as possible.\nTraining and teamwork are essential elements of the Six Sigma methodology. In other words, companies need to have their team leaders and team members trained to implement the Six Sigma processes. They must learn to use the measurement and improvement tools. They also need to learn communication skills necessary for them to involve customers and suppliers and to serve their needs.\nSix Sigma was developed in 1986 by Motorola, an American telecommunications company. Engineers in Motorola used it as an informal name for a plan to reduce faults in production processes. A few years later, Motorola extended the name \"Six Sigma\" to mean a general performance improvement method, beyond purely \"defect reduction\" in the production process. In 1995, Jack Welch, CEO of General Electrics (GE), decided to implement Six Sigma in GE; and by 1998 GE claimed that Six Sigma had generated over three-quarters of a billion dollars of cost savings.\nBy 2000, Six Sigma was effectively established as an industry in its own right, involving the training, consultancy and implementation of Six Sigma methodology in all sorts of organizations around the world. Organizations as diverse as local governments, prisons, hospitals, the armed forces, banks, and multi-national corporations have been adopting Six Sigma for quality and process improvement.",
+    "group_id": "PX-AST104-G04",
+    "stem": "According to the passage, which of the following is true regarding Six Sigma?",
+    "options": [
+      "It helped Motorola and General Motors to promote sales.",
+      "It requires multi-national efforts to generate satisfactory results.",
+      "It has gained popularity mostly among large telecommunications companies.",
+      "It has become a business model which provides services to organizations worldwide."
+    ],
+    "answer": 3,
+    "explain_zh": "第四段說明到了2000年，Six Sigma已發展成涵蓋訓練、顧問服務、並在全球各類組織中實施的獨立產業，故選 D；文中提到的是奇異(GE)而非通用汽車(General Motors)，A的敘述與原文不符。",
+    "vocab": [
+      {
+        "w": "consultancy",
+        "zh": "顧問業",
+        "pos": "n."
+      },
+      {
+        "w": "adopt",
+        "zh": "採用",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-029",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "104指考",
+    "passage": "Imagine two bottlenose dolphins swimming in the Gulf of Mexico. You hear a series of clicks, whistles, and whines coming from each, much like a conversation. We can't be sure what they are discussing, but scientists do believe dolphins call each other by \"name.\"\nA recent study suggests the marine mammals not only produce their own unique \"signature whistles,\" but they also recognize and mimic whistles of other dolphins they are close to and want to see again. It seems that dolphins can call those they know by mimicking their distinct whistles. \"They're abstract names,\" said Randall Wells, one of the authors of the study.\nTo conduct the study, the researchers listened to recordings of about 250 wild bottlenose dolphins made around Florida's Sarasota Bay from 1984 to 2009, and four captive dolphins at a nearby aquarium. Some wild dolphins were briefly captured and held in separate nets by the research team, allowing them to hear but not see each other. Researchers found that dolphins familiar with each other would mimic the whistle of another in that group when they were separated. Most of this took place among mothers and calves, or among males who were close associates, suggesting it was affiliative and not aggressive—somewhat like calling out the name of a missing child or friend. Whistle copying of this sort was not found in dolphins that happened to cross paths in the wild.\nThis use of vocal copying is similar to its use in human language, where the maintenance of social bonds appears to be more important than the immediate defense of resources. This helps differentiate dolphins' vocal learning from that of birds, which tend to address one another in a more \"aggressive context.\"\nIf confirmed, this would be a level of communication rarely found in nature. If dolphins can identify themselves and address friends with just a few squeaks, it's easy to imagine what else they're saying. However, as the authors of the study point out, all we can do right now is still imagine.",
+    "group_id": "PX-AST104-G05",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+      "Bottlenose dolphins show strong ties to their family members.",
+      "Bottlenose dolphins recognize their friends' voices in the wild.",
+      "Bottlenose dolphins produce whistles that distinguish themselves.",
+      "Bottlenose dolphins demonstrate a unique type of animal communication."
+    ],
+    "answer": 3,
+    "explain_zh": "全文描述海豚會模仿彼此獨特的哨聲來呼喚熟識的同伴，如同互相稱呼「名字」，展現出動物界罕見的獨特溝通方式，故選 D；A、B、C 都只是文章的部分細節，未能涵蓋全文重點所在的「獨特溝通方式」。",
+    "vocab": [
+      {
+        "w": "mimic",
+        "zh": "模仿",
+        "pos": "v."
+      },
+      {
+        "w": "whistle",
+        "zh": "哨聲",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-030",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "104指考",
+    "passage": "Imagine two bottlenose dolphins swimming in the Gulf of Mexico. You hear a series of clicks, whistles, and whines coming from each, much like a conversation. We can't be sure what they are discussing, but scientists do believe dolphins call each other by \"name.\"\nA recent study suggests the marine mammals not only produce their own unique \"signature whistles,\" but they also recognize and mimic whistles of other dolphins they are close to and want to see again. It seems that dolphins can call those they know by mimicking their distinct whistles. \"They're abstract names,\" said Randall Wells, one of the authors of the study.\nTo conduct the study, the researchers listened to recordings of about 250 wild bottlenose dolphins made around Florida's Sarasota Bay from 1984 to 2009, and four captive dolphins at a nearby aquarium. Some wild dolphins were briefly captured and held in separate nets by the research team, allowing them to hear but not see each other. Researchers found that dolphins familiar with each other would mimic the whistle of another in that group when they were separated. Most of this took place among mothers and calves, or among males who were close associates, suggesting it was affiliative and not aggressive—somewhat like calling out the name of a missing child or friend. Whistle copying of this sort was not found in dolphins that happened to cross paths in the wild.\nThis use of vocal copying is similar to its use in human language, where the maintenance of social bonds appears to be more important than the immediate defense of resources. This helps differentiate dolphins' vocal learning from that of birds, which tend to address one another in a more \"aggressive context.\"\nIf confirmed, this would be a level of communication rarely found in nature. If dolphins can identify themselves and address friends with just a few squeaks, it's easy to imagine what else they're saying. However, as the authors of the study point out, all we can do right now is still imagine.",
+    "group_id": "PX-AST104-G05",
+    "stem": "Which of the following statements is true about Wells's research team?",
+    "options": [
+      "Their data were collected over two decades.",
+      "They recorded the calls of dolphins and birds.",
+      "Their major research base was in Mexico.",
+      "They trained 250 wild dolphins for observation."
+    ],
+    "answer": 0,
+    "explain_zh": "第三段提到研究團隊的錄音資料橫跨 1984 年至 2009 年，長達二十多年，故選 A；研究地點是在佛羅里達州的Sarasota灣，並非墨西哥，故 C 錯誤，文中也未提及對鳥類聲音的錄音。",
+    "vocab": [
+      {
+        "w": "decade",
+        "zh": "十年",
+        "pos": "n."
+      },
+      {
+        "w": "captive",
+        "zh": "被圈養的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-031",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "代名詞指涉",
+    "source": "104指考",
+    "passage": "Imagine two bottlenose dolphins swimming in the Gulf of Mexico. You hear a series of clicks, whistles, and whines coming from each, much like a conversation. We can't be sure what they are discussing, but scientists do believe dolphins call each other by \"name.\"\nA recent study suggests the marine mammals not only produce their own unique \"signature whistles,\" but they also recognize and mimic whistles of other dolphins they are close to and want to see again. It seems that dolphins can call those they know by mimicking their distinct whistles. \"They're abstract names,\" said Randall Wells, one of the authors of the study.\nTo conduct the study, the researchers listened to recordings of about 250 wild bottlenose dolphins made around Florida's Sarasota Bay from 1984 to 2009, and four captive dolphins at a nearby aquarium. Some wild dolphins were briefly captured and held in separate nets by the research team, allowing them to hear but not see each other. Researchers found that dolphins familiar with each other would mimic the whistle of another in that group when they were separated. Most of this took place among mothers and calves, or among males who were close associates, suggesting it was affiliative and not aggressive—somewhat like calling out the name of a missing child or friend. Whistle copying of this sort was not found in dolphins that happened to cross paths in the wild.\nThis use of vocal copying is similar to its use in human language, where the maintenance of social bonds appears to be more important than the immediate defense of resources. This helps differentiate dolphins' vocal learning from that of birds, which tend to address one another in a more \"aggressive context.\"\nIf confirmed, this would be a level of communication rarely found in nature. If dolphins can identify themselves and address friends with just a few squeaks, it's easy to imagine what else they're saying. However, as the authors of the study point out, all we can do right now is still imagine.",
+    "group_id": "PX-AST104-G05",
+    "stem": "What does \"this\" in the third paragraph refer to?",
+    "options": [
+      "Recording messages.",
+      "Conducting research.",
+      "Behavior learning.",
+      "Whistle copying."
+    ],
+    "answer": 3,
+    "explain_zh": "第三段前一句描述彼此熟識的海豚被分開時，會模仿對方的哨聲，this 即指這種「模仿哨聲」的行為，故選 D；並非泛指錄音、進行研究或行為學習本身。",
+    "vocab": [
+      {
+        "w": "refer to",
+        "zh": "指涉",
+        "pos": "phr."
+      },
+      {
+        "w": "copy",
+        "zh": "模仿,複製",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-032",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "104指考",
+    "passage": "Imagine two bottlenose dolphins swimming in the Gulf of Mexico. You hear a series of clicks, whistles, and whines coming from each, much like a conversation. We can't be sure what they are discussing, but scientists do believe dolphins call each other by \"name.\"\nA recent study suggests the marine mammals not only produce their own unique \"signature whistles,\" but they also recognize and mimic whistles of other dolphins they are close to and want to see again. It seems that dolphins can call those they know by mimicking their distinct whistles. \"They're abstract names,\" said Randall Wells, one of the authors of the study.\nTo conduct the study, the researchers listened to recordings of about 250 wild bottlenose dolphins made around Florida's Sarasota Bay from 1984 to 2009, and four captive dolphins at a nearby aquarium. Some wild dolphins were briefly captured and held in separate nets by the research team, allowing them to hear but not see each other. Researchers found that dolphins familiar with each other would mimic the whistle of another in that group when they were separated. Most of this took place among mothers and calves, or among males who were close associates, suggesting it was affiliative and not aggressive—somewhat like calling out the name of a missing child or friend. Whistle copying of this sort was not found in dolphins that happened to cross paths in the wild.\nThis use of vocal copying is similar to its use in human language, where the maintenance of social bonds appears to be more important than the immediate defense of resources. This helps differentiate dolphins' vocal learning from that of birds, which tend to address one another in a more \"aggressive context.\"\nIf confirmed, this would be a level of communication rarely found in nature. If dolphins can identify themselves and address friends with just a few squeaks, it's easy to imagine what else they're saying. However, as the authors of the study point out, all we can do right now is still imagine.",
+    "group_id": "PX-AST104-G05",
+    "stem": "Which of the following can be inferred from the passage?",
+    "options": [
+      "Birds may use their calls to claim territory.",
+      "Male dolphins whistle when fighting for mates.",
+      "Dolphins make harsh squeaks when hunting for food.",
+      "Both dolphins and birds tend to mimic their enemies' whistles."
+    ],
+    "answer": 0,
+    "explain_zh": "第四段提到鳥類的聲音模仿較常出現在「較具攻擊性的情境」，與海豚用於維繫情誼的用法不同，由此可推論鳥類的鳴叫可能與宣示地盤等攻擊性行為有關，故選 A；文中並未提及海豚打鬥求偶或獵食發出粗啞叫聲。",
+    "vocab": [
+      {
+        "w": "aggressive",
+        "zh": "攻擊性的",
+        "pos": "adj."
+      },
+      {
+        "w": "territory",
+        "zh": "領地",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-033",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "104指考",
+    "passage": "With soaring rock formations, uniquely-rippled landscapes, and mysterious underground cities, the Goreme National Park is an incredible tourist attraction in central Turkey.\nThousands of years ago a group of ancient volcanoes spewed out layer upon layer of thick ash and lava which formed the Cappadocia region, where the Goreme National Park is now located. Over the centuries the wind and rain worked their magic on this land, carving out spectacular gorges and leaving behind the dramatic towering formations of rock pillars that reach heights of 40 meters. These amazing structures are usually called \"fairy chimneys.\" They come in an extraordinary range of shapes and sizes, but most are tall and resemble king trumpet mushrooms with a cap on top. The top stone is the hardest part of each formation and protects the softer rock underneath from erosion. Eventually, however, these caps fall off, whereupon the wind and rain start to cut away the cone until it, too, collapses. The unique landforms of the Goreme valley have created its lunar-like landscape, also known as a moonscape.\nBut the Goreme National Park has always been much more than its dramatic scenery. Humans, too, have left their unique mark on the region. The Byzantine Christians inhabited the area in the fourth century. They carved thousands of cave churches, chapels, and monasteries out of rock. Many of these churches were decorated with beautiful wall paintings whose colors still retain all their original freshness. The Byzantine Christians even carved out entire underground villages in an effort to hide from the Romans and later, the Muslims. To this day, many of these villages are still inhabited and many of the rock-cut storerooms are still stuffed with grapes, lemons, potatoes and flat bread waiting for the winter.",
+    "group_id": "PX-AST104-G06",
+    "stem": "How is the landscape of the Goreme National Park formed?",
+    "options": [
+      "It is the effect of erosions of volcanic rocks by wind and water.",
+      "It is the outcome of cumulative ash and lava from volcanoes.",
+      "It is the creation of some mysterious forces from the moon.",
+      "It is the result of rock cutting by the Byzantine Christians."
+    ],
+    "answer": 0,
+    "explain_zh": "第二段說明數千年前火山噴發堆積出厚厚的火山灰與熔岩，之後經過長時間風雨侵蝕，才雕刻出精靈煙囪等奇特地貌，故選 A，兼含堆積與侵蝕兩階段；B 只提到火山灰與熔岩的堆積，未包含後續塑造地景的侵蝕過程。",
+    "vocab": [
+      {
+        "w": "erosion",
+        "zh": "侵蝕",
+        "pos": "n."
+      },
+      {
+        "w": "volcanic",
+        "zh": "火山的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-034",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "104指考",
+    "passage": "With soaring rock formations, uniquely-rippled landscapes, and mysterious underground cities, the Goreme National Park is an incredible tourist attraction in central Turkey.\nThousands of years ago a group of ancient volcanoes spewed out layer upon layer of thick ash and lava which formed the Cappadocia region, where the Goreme National Park is now located. Over the centuries the wind and rain worked their magic on this land, carving out spectacular gorges and leaving behind the dramatic towering formations of rock pillars that reach heights of 40 meters. These amazing structures are usually called \"fairy chimneys.\" They come in an extraordinary range of shapes and sizes, but most are tall and resemble king trumpet mushrooms with a cap on top. The top stone is the hardest part of each formation and protects the softer rock underneath from erosion. Eventually, however, these caps fall off, whereupon the wind and rain start to cut away the cone until it, too, collapses. The unique landforms of the Goreme valley have created its lunar-like landscape, also known as a moonscape.\nBut the Goreme National Park has always been much more than its dramatic scenery. Humans, too, have left their unique mark on the region. The Byzantine Christians inhabited the area in the fourth century. They carved thousands of cave churches, chapels, and monasteries out of rock. Many of these churches were decorated with beautiful wall paintings whose colors still retain all their original freshness. The Byzantine Christians even carved out entire underground villages in an effort to hide from the Romans and later, the Muslims. To this day, many of these villages are still inhabited and many of the rock-cut storerooms are still stuffed with grapes, lemons, potatoes and flat bread waiting for the winter.",
+    "group_id": "PX-AST104-G06",
+    "stem": "Which of the following descriptions of the \"fairy chimneys\" is true?",
+    "options": [
+      "They are almost identical in size and shape.",
+      "They have mushrooms growing on the top.",
+      "They are formed by rocks of different hardness.",
+      "They have strong bottoms to support their 40-meter height."
+    ],
+    "answer": 2,
+    "explain_zh": "第二段說明精靈煙囪頂端是最堅硬的岩石，保護下方較軟的岩層不被侵蝕，也就是說整體結構由軟硬不同的岩石組成，故選 C；煙囪形狀差異極大，並非幾乎一致(A)，頂端菌狀岩帽並非真的長出蘑菇(B)。",
+    "vocab": [
+      {
+        "w": "hardness",
+        "zh": "硬度",
+        "pos": "n."
+      },
+      {
+        "w": "formation",
+        "zh": "地層構造",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-035",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "104指考",
+    "passage": "With soaring rock formations, uniquely-rippled landscapes, and mysterious underground cities, the Goreme National Park is an incredible tourist attraction in central Turkey.\nThousands of years ago a group of ancient volcanoes spewed out layer upon layer of thick ash and lava which formed the Cappadocia region, where the Goreme National Park is now located. Over the centuries the wind and rain worked their magic on this land, carving out spectacular gorges and leaving behind the dramatic towering formations of rock pillars that reach heights of 40 meters. These amazing structures are usually called \"fairy chimneys.\" They come in an extraordinary range of shapes and sizes, but most are tall and resemble king trumpet mushrooms with a cap on top. The top stone is the hardest part of each formation and protects the softer rock underneath from erosion. Eventually, however, these caps fall off, whereupon the wind and rain start to cut away the cone until it, too, collapses. The unique landforms of the Goreme valley have created its lunar-like landscape, also known as a moonscape.\nBut the Goreme National Park has always been much more than its dramatic scenery. Humans, too, have left their unique mark on the region. The Byzantine Christians inhabited the area in the fourth century. They carved thousands of cave churches, chapels, and monasteries out of rock. Many of these churches were decorated with beautiful wall paintings whose colors still retain all their original freshness. The Byzantine Christians even carved out entire underground villages in an effort to hide from the Romans and later, the Muslims. To this day, many of these villages are still inhabited and many of the rock-cut storerooms are still stuffed with grapes, lemons, potatoes and flat bread waiting for the winter.",
+    "group_id": "PX-AST104-G06",
+    "stem": "Which of the following has NOT been a function served by the carved rocks in the Goreme National Park?",
+    "options": [
+      "Refuge.",
+      "Gallery.",
+      "Residence.",
+      "Place of worship."
+    ],
+    "answer": 1,
+    "explain_zh": "第三段提到拜占庭基督徒鑿刻了避難用的地下村落(refuge)、居住的洞穴村莊(residence)，以及教堂與禮拜堂(place of worship)，唯獨沒有提到作為畫廊、藝廊(gallery)的用途，故選 B。",
+    "vocab": [
+      {
+        "w": "refuge",
+        "zh": "避難所",
+        "pos": "n."
+      },
+      {
+        "w": "gallery",
+        "zh": "畫廊",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST104-036",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "104指考",
+    "passage": "With soaring rock formations, uniquely-rippled landscapes, and mysterious underground cities, the Goreme National Park is an incredible tourist attraction in central Turkey.\nThousands of years ago a group of ancient volcanoes spewed out layer upon layer of thick ash and lava which formed the Cappadocia region, where the Goreme National Park is now located. Over the centuries the wind and rain worked their magic on this land, carving out spectacular gorges and leaving behind the dramatic towering formations of rock pillars that reach heights of 40 meters. These amazing structures are usually called \"fairy chimneys.\" They come in an extraordinary range of shapes and sizes, but most are tall and resemble king trumpet mushrooms with a cap on top. The top stone is the hardest part of each formation and protects the softer rock underneath from erosion. Eventually, however, these caps fall off, whereupon the wind and rain start to cut away the cone until it, too, collapses. The unique landforms of the Goreme valley have created its lunar-like landscape, also known as a moonscape.\nBut the Goreme National Park has always been much more than its dramatic scenery. Humans, too, have left their unique mark on the region. The Byzantine Christians inhabited the area in the fourth century. They carved thousands of cave churches, chapels, and monasteries out of rock. Many of these churches were decorated with beautiful wall paintings whose colors still retain all their original freshness. The Byzantine Christians even carved out entire underground villages in an effort to hide from the Romans and later, the Muslims. To this day, many of these villages are still inhabited and many of the rock-cut storerooms are still stuffed with grapes, lemons, potatoes and flat bread waiting for the winter.",
+    "group_id": "PX-AST104-G06",
+    "stem": "Which of the following sentences best states the main idea of the passage?",
+    "options": [
+      "Goreme is a wonder where nature meets man.",
+      "Goreme is a representation of ancient Turkish life.",
+      "Goreme is a living example of the power of nature.",
+      "Goreme is an attraction that mixes the new and the old."
+    ],
+    "answer": 0,
+    "explain_zh": "全文兼述火山與風雨塑造的自然地貌(第二段)，以及拜占庭基督徒鑿刻教堂、村落所留下的人文歷史(第三段)，最適合的主旨是「自然與人文相遇的奇景」，故選 A；C 只強調自然力量，忽略了人文歷史的部分。",
+    "vocab": [
+      {
+        "w": "attraction",
+        "zh": "景點,吸引力",
+        "pos": "n."
+      },
+      {
+        "w": "mysterious",
+        "zh": "神秘的",
+        "pos": "adj."
+      }
+    ]
+  }
+]

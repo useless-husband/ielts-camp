@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "NPH-0201",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Researchers believe the sudden rise in allergy cases ____ changes in urban air quality.",
+    "options": [
+      "stems from",
+      "results in",
+      "hinges on",
+      "gives way to"
+    ],
+    "answer": 0,
+    "explain_zh": "stem from 意思是「源自於」，用來表達某現象的根源，符合過敏病例激增的原因來自空氣品質變化的情境。results in 是「導致」，方向相反；hinges on 是「取決於」，give way to 是「讓位給」，皆不符合句意。記憶重點：stem from = 源自於。",
+    "vocab": [
+      {
+        "w": "stem from",
+        "zh": "源自於",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0202",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Prolonged exposure to loud noise can eventually ____ permanent hearing damage.",
+    "options": [
+      "stem from",
+      "result in",
+      "coincide with",
+      "tie in with"
+    ],
+    "answer": 1,
+    "explain_zh": "result in 意思是「導致、造成」，符合長期暴露於噪音最終會導致永久性聽力損傷的情境。stem from 是「源自於」，方向相反；coincide with 是「與…同時發生」，tie in with 是「與…相關聯」，皆不符合句意。記憶重點：result in = 導致。",
+    "vocab": [
+      {
+        "w": "result in",
+        "zh": "導致",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0203",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Whether the merger succeeds will largely ____ how well the two companies integrate their systems.",
+    "options": [
+      "revolve around",
+      "phase out",
+      "hinge on",
+      "weed out"
+    ],
+    "answer": 2,
+    "explain_zh": "hinge on 意思是「取決於」，符合合併能否成功很大程度取決於兩家公司系統整合成效的情境。revolve around 是「圍繞…展開」，語意較接近核心主題而非決定因素；phase out 是「逐步淘汰」，weed out 是「淘汰、剔除」，皆不符合句意。記憶重點：hinge on = 取決於。",
+    "vocab": [
+      {
+        "w": "hinge on",
+        "zh": "取決於",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0204",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The entire documentary ____ one family's struggle to rebuild after the earthquake.",
+    "options": [
+      "hinges on",
+      "boils down to",
+      "gives way to",
+      "revolves around"
+    ],
+    "answer": 3,
+    "explain_zh": "revolve around 意思是「以…為核心、圍繞…展開」，符合整部紀錄片圍繞一個家庭震後重建的奮鬥故事展開的情境。hinges on 是「取決於」，boils down to 是「歸結為」，gives way to 是「讓位給」，皆不符合句意。記憶重點：revolve around = 圍繞…展開。",
+    "vocab": [
+      {
+        "w": "revolve around",
+        "zh": "圍繞…展開",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0205",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "After hours of debate, the disagreement really ____ who should pay for the repairs.",
+    "options": [
+      "boiled down to",
+      "stemmed from",
+      "resulted in",
+      "phased out"
+    ],
+    "answer": 0,
+    "explain_zh": "boil down to 意思是「歸結為、說穿了就是」，符合爭論了好幾個小時，分歧說穿了就是該由誰付修理費的情境。stemmed from 是「源自於」，語氣較著重起因而非核心結論；resulted in 是「導致」，phased out 是「逐步淘汰」，皆不符合句意。記憶重點：boil down to = 歸結為。",
+    "vocab": [
+      {
+        "w": "boil down to",
+        "zh": "歸結為",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0206",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "As online shopping expands, small neighbourhood stores are gradually ____ larger retail chains.",
+    "options": [
+      "contributing to",
+      "giving way to",
+      "correlating with",
+      "weeding out"
+    ],
+    "answer": 1,
+    "explain_zh": "give way to 意思是「讓位給、被…取代」，符合網購興起使得社區小店逐漸被大型連鎖零售取代的情境。contributing to 是「促成」，correlating with 是「與…相關」，weeding out 是「淘汰」，皆不符合句意。記憶重點：give way to = 讓位給、被取代。",
+    "vocab": [
+      {
+        "w": "give way to",
+        "zh": "讓位給、被取代",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0207",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The invention of the printing press ____ the widespread sharing of knowledge across Europe.",
+    "options": [
+      "phased out",
+      "weeded out",
+      "paved the way for",
+      "homed in on"
+    ],
+    "answer": 2,
+    "explain_zh": "pave the way for 意思是「為…鋪路、促成」，符合印刷術的發明為歐洲知識廣泛傳播鋪路的情境。phased out 是「逐步淘汰」，weeded out 是「淘汰」，homed in on 是「鎖定、聚焦於」，皆不符合句意。記憶重點：pave the way for = 為…鋪路。",
+    "vocab": [
+      {
+        "w": "pave the way for",
+        "zh": "為…鋪路",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0208",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Regular volunteering can ____ a stronger sense of belonging within the community.",
+    "options": [
+      "coincide with",
+      "tie in with",
+      "factor in",
+      "contribute to"
+    ],
+    "answer": 3,
+    "explain_zh": "contribute to 意思是「促成、有助於」，符合定期擔任志工有助於培養社區歸屬感的情境。coincide with 是「與…同時發生」，tie in with 是「與…相關聯」，factor in 是「將…納入考量」，皆不符合句意。記憶重點：contribute to = 促成、有助於。",
+    "vocab": [
+      {
+        "w": "contribute to",
+        "zh": "促成、有助於",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0209",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "A small increase in the interest rate could quickly ____ a significant rise in monthly payments.",
+    "options": [
+      "translate into",
+      "correlate with",
+      "coincide with",
+      "tie in with"
+    ],
+    "answer": 0,
+    "explain_zh": "translate into 意思是「轉化為、意味著」，符合利率小幅上升可能很快轉化為月付金額大幅增加的情境。correlate with 是「與…有相關性」，coincide with 是「與…同時發生」，tie in with 是「與…相符、配合」，皆不符合句意。記憶重點：translate into = 轉化為。",
+    "vocab": [
+      {
+        "w": "translate into",
+        "zh": "轉化為",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0210",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Studies show that screen time before bed tends to ____ poorer sleep quality among teenagers.",
+    "options": [
+      "translate into",
+      "correlate with",
+      "give way to",
+      "pave the way for"
+    ],
+    "answer": 1,
+    "explain_zh": "correlate with 意思是「與…有相關性」，符合研究顯示睡前使用螢幕與青少年睡眠品質較差有關聯的情境。translate into 是「轉化為」（較強因果關係），give way to 是「讓位給」，pave the way for 是「為…鋪路」，皆不符合句意。記憶重點：correlate with = 與…相關。",
+    "vocab": [
+      {
+        "w": "correlate with",
+        "zh": "與…相關",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0211",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The festival's opening ceremony happened to ____ the mayor's official visit to the city.",
+    "options": [
+      "correlate with",
+      "factor in",
+      "coincide with",
+      "weed out"
+    ],
+    "answer": 2,
+    "explain_zh": "coincide with 意思是「與…同時發生、恰逢」，符合慶典開幕典禮恰好與市長正式訪市的時間重疊的情境。correlate with 強調統計上的相關性而非時間巧合，factor in 是「納入考量」，weed out 是「淘汰」，皆不符合句意。記憶重點：coincide with = 恰逢、同時發生。",
+    "vocab": [
+      {
+        "w": "coincide with",
+        "zh": "恰逢、同時發生",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0212",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The committee's new proposal doesn't quite ____ the concerns raised by local residents.",
+    "options": [
+      "phase out",
+      "weed out",
+      "home in on",
+      "tie in with"
+    ],
+    "answer": 3,
+    "explain_zh": "tie in with 意思是「與…相符、相關聯」，符合委員會新提案未能充分呼應當地居民疑慮的情境。phase out 是「逐步淘汰」，weed out 是「淘汰、剔除」，home in on 是「鎖定、聚焦」，皆不符合句意。記憶重點：tie in with = 與…相符。",
+    "vocab": [
+      {
+        "w": "tie in with",
+        "zh": "與…相符、相關聯",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0213",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "When planning the budget, the committee failed to ____ the rising cost of raw materials.",
+    "options": [
+      "factor in",
+      "phase out",
+      "spell out",
+      "capitalize on"
+    ],
+    "answer": 0,
+    "explain_zh": "factor in 意思是「將…納入考量」，符合編列預算時委員會未能將原物料成本上升納入考量的情境。phase out 是「逐步淘汰」，spell out 是「明確說明」，capitalize on 是「利用（機會）」，皆不符合句意。記憶重點：factor in sth = 將…納入考量。",
+    "vocab": [
+      {
+        "w": "factor in",
+        "zh": "將…納入考量",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0214",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The scholarship committee decided to ____ applicants who failed to meet the minimum requirements.",
+    "options": [
+      "phase out",
+      "weed out",
+      "pave the way for",
+      "home in on"
+    ],
+    "answer": 1,
+    "explain_zh": "weed out 意思是「淘汰、剔除（不合格者）」，符合獎學金委員會淘汰未達最低門檻申請者的情境。phase out 通常指逐步淘汰制度或產品而非人，pave the way for 是「為…鋪路」，home in on 是「鎖定」，皆不符合句意。記憶重點：weed out = 淘汰、剔除。",
+    "vocab": [
+      {
+        "w": "weed out",
+        "zh": "淘汰、剔除",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0215",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many countries have committed to gradually ____ single-use plastic bags over the next decade.",
+    "options": [
+      "weeding out",
+      "spelling out",
+      "phasing out",
+      "homing in on"
+    ],
+    "answer": 2,
+    "explain_zh": "phase out 意思是「逐步淘汰（制度、產品）」，符合許多國家承諾在未來十年逐步淘汰一次性塑膠袋的情境。weeding out 通常用於淘汰不合格的人或項目，spelling out 是「明確說明」，homing in on 是「鎖定」，皆不符合句意。記憶重點：phase out = 逐步淘汰。",
+    "vocab": [
+      {
+        "w": "phase out",
+        "zh": "逐步淘汰",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0216",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The documentary crew spent months trying to ____ the causes behind the coral reef's decline.",
+    "options": [
+      "spell out",
+      "capitalize on",
+      "give way to",
+      "delve into"
+    ],
+    "answer": 3,
+    "explain_zh": "delve into 意思是「深入探究」，符合紀錄片團隊花數月深入探究珊瑚礁衰退背後原因的情境。spell out 是「明確說明」，capitalize on 是「利用」，give way to 是「讓位給」，皆不符合句意。記憶重點：delve into sth = 深入探究。",
+    "vocab": [
+      {
+        "w": "delve into",
+        "zh": "深入探究",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0217",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The investigation began to ____ irregularities in the company's financial records.",
+    "options": [
+      "home in on",
+      "give way to",
+      "pave the way for",
+      "coincide with"
+    ],
+    "answer": 0,
+    "explain_zh": "home in on 意思是「鎖定、聚焦於」，符合調查開始鎖定公司財務紀錄中的異常之處的情境。give way to 是「讓位給」，pave the way for 是「為…鋪路」，coincide with 是「恰逢」，皆不符合句意。記憶重點：home in on sth = 鎖定、聚焦於。",
+    "vocab": [
+      {
+        "w": "home in on",
+        "zh": "鎖定、聚焦於",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0218",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The contract clearly ____ each party's responsibilities in case of a dispute.",
+    "options": [
+      "factors in",
+      "spells out",
+      "weeds out",
+      "capitalizes on"
+    ],
+    "answer": 1,
+    "explain_zh": "spell out 意思是「明確說明、詳細列出」，符合合約清楚列出萬一發生爭議時各方責任的情境。factors in 是「納入考量」，weeds out 是「淘汰」，capitalizes on 是「利用」，皆不符合句意。記憶重點：spell out sth = 明確說明。",
+    "vocab": [
+      {
+        "w": "spell out",
+        "zh": "明確說明",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0219",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The start-up managed to ____ growing public interest in sustainable fashion.",
+    "options": [
+      "delve into",
+      "spell out",
+      "capitalize on",
+      "home in on"
+    ],
+    "answer": 2,
+    "explain_zh": "capitalize on 意思是「利用（機會、趨勢）」，符合新創公司善用大眾對永續時尚日益增長的興趣的情境。delve into 是「深入探究」，spell out 是「明確說明」，home in on 是「鎖定」，皆不符合句意。記憶重點：capitalize on sth = 利用。",
+    "vocab": [
+      {
+        "w": "capitalize on",
+        "zh": "利用（機會）",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0220",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:phrasal-verb",
+    "tag_zh": "片語動詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The professor argued that the current housing crisis ultimately ____ a decades-long shortage of urban planning.",
+    "options": [
+      "phases out",
+      "spells out",
+      "homes in on",
+      "stems from"
+    ],
+    "answer": 3,
+    "explain_zh": "stem from 意思是「源自於」，符合教授主張目前的住房危機最終源自數十年來都市規劃不足的情境。phases out 是「逐步淘汰」，spells out 是「明確說明」，homes in on 是「鎖定」，皆不符合句意。記憶重點：stem from = 源自於。",
+    "vocab": [
+      {
+        "w": "stem from",
+        "zh": "源自於",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0221",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The new mentorship programme is designed to ____ between recent graduates and experienced professionals.",
+    "options": [
+      "bridge the gap",
+      "shed light on",
+      "give rise to",
+      "hold true"
+    ],
+    "answer": 0,
+    "explain_zh": "bridge the gap 意思是「彌補差距、搭起橋樑」，符合新的師徒制計畫旨在彌補應屆畢業生與資深專業人士之間差距的情境。shed light on 是「闡明」，give rise to 是「引發」，hold true 是「（說法）依然成立」，皆不符合句意。記憶重點：bridge the gap = 彌補差距。",
+    "vocab": [
+      {
+        "w": "bridge the gap",
+        "zh": "彌補差距",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0222",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The newly released documents ____ the government's decision-making process during the crisis.",
+    "options": [
+      "bridge the gap",
+      "shed light on",
+      "come at a cost",
+      "tip the balance"
+    ],
+    "answer": 1,
+    "explain_zh": "shed light on 意思是「闡明、使…更清楚」，符合新公開的文件讓政府危機期間的決策過程更加清楚的情境。bridge the gap 是「彌補差距」，come at a cost 是「須付出代價」，tip the balance 是「使天平傾斜、扭轉局勢」，皆不符合句意。記憶重點：shed light on sth = 闡明。",
+    "vocab": [
+      {
+        "w": "shed light on",
+        "zh": "闡明",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0223",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The factory's closure is expected to ____ serious unemployment problems in the town.",
+    "options": [
+      "shed light on",
+      "hold true",
+      "give rise to",
+      "stand the test of time"
+    ],
+    "answer": 2,
+    "explain_zh": "give rise to 意思是「引發、導致」，符合工廠關閉預期將引發小鎮嚴重失業問題的情境。shed light on 是「闡明」，hold true 是「依然成立」，stand the test of time 是「經得起時間考驗」，皆不符合句意。記憶重點：give rise to sth = 引發。",
+    "vocab": [
+      {
+        "w": "give rise to",
+        "zh": "引發",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0224",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "In an emergency, saving lives must always ____ over protecting property.",
+    "options": [
+      "come into play",
+      "come into effect",
+      "bear the brunt",
+      "take precedence"
+    ],
+    "answer": 3,
+    "explain_zh": "take precedence over 意思是「優先於」，符合緊急情況下拯救生命必須優先於保護財產的情境。come into play 是「發揮作用、開始起作用」，come into effect 是「（法規）開始生效」，bear the brunt 是「首當其衝」，皆不符合句意。記憶重點：take precedence over = 優先於。",
+    "vocab": [
+      {
+        "w": "take precedence over",
+        "zh": "優先於",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0225",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Excessive screen time is believed to ____ children's ability to concentrate for long periods.",
+    "options": [
+      "have a detrimental effect on",
+      "have a profound impact on",
+      "come at a cost",
+      "hold true for"
+    ],
+    "answer": 0,
+    "explain_zh": "have a detrimental effect on 意思是「對…有負面影響」，符合過度使用螢幕被認為對兒童長時間專注的能力有害的情境。have a profound impact on 語意偏中性（可正可負，較不精準），come at a cost 是「須付出代價」，hold true for 是「對…依然成立」，皆不如原句精準或不符合句意。記憶重點：have a detrimental effect on = 有負面影響。",
+    "vocab": [
+      {
+        "w": "have a detrimental effect on",
+        "zh": "有負面影響",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0226",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The discovery of ancient tools at the site is said to ____ our understanding of early human migration.",
+    "options": [
+      "have a detrimental effect on",
+      "have a profound impact on",
+      "bear the brunt of",
+      "take a toll on"
+    ],
+    "answer": 1,
+    "explain_zh": "have a profound impact on 意思是「對…有深遠影響」，符合該遺址發現的古老工具據說對人類早期遷徙的理解有深遠影響的情境（此處為正面且深遠的學術貢獻）。have a detrimental effect on 專指負面影響，bear the brunt of 是「首當其衝承受」，take a toll on 是「對…造成損害」，皆不符合句意。記憶重點：have a profound impact on = 有深遠影響。",
+    "vocab": [
+      {
+        "w": "have a profound impact on",
+        "zh": "有深遠影響",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0227",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Balancing full-time work with night classes is bound to ____ for most students.",
+    "options": [
+      "give rise to",
+      "shed light on",
+      "present a challenge",
+      "hold true"
+    ],
+    "answer": 2,
+    "explain_zh": "present a challenge 意思是「造成挑戰」，符合兼顧全職工作與夜間課程必然對多數學生造成挑戰的情境。give rise to 通常接引發的具體事物而非單獨表示挑戰本身的固定搭配，shed light on 是「闡明」，hold true 是「依然成立」，皆不符合句意。記憶重點：present a challenge = 造成挑戰。",
+    "vocab": [
+      {
+        "w": "present a challenge",
+        "zh": "造成挑戰",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0228",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Scientists have struggled to ____ between the chemical and the reported rise in allergies.",
+    "options": [
+      "draw a parallel",
+      "reach a compromise",
+      "gain momentum",
+      "establish a link"
+    ],
+    "answer": 3,
+    "explain_zh": "establish a link 意思是「建立關聯」，符合科學家難以在該化學物質與過敏率上升之間建立關聯的情境。draw a parallel 是「做類比、找出相似之處」，reach a compromise 是「達成妥協」，gain momentum 是「獲得動力、逐漸壯大」，皆不符合句意。記憶重點：establish a link between A and B = 建立關聯。",
+    "vocab": [
+      {
+        "w": "establish a link between",
+        "zh": "在…之間建立關聯",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0229",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The historian tried to ____ between the two revolutions, despite their very different origins.",
+    "options": [
+      "draw a parallel",
+      "establish a link",
+      "reach a compromise",
+      "come into play"
+    ],
+    "answer": 0,
+    "explain_zh": "draw a parallel 意思是「做類比、找出相似之處」，符合史學家儘管兩場革命起源不同，仍試圖比較兩者相似之處的情境。establish a link 較著重因果或關聯性而非單純比較相似點，reach a compromise 是「達成妥協」，come into play 是「開始發揮作用」，皆不符合句意。記憶重點：draw a parallel between A and B = 做類比。",
+    "vocab": [
+      {
+        "w": "draw a parallel between",
+        "zh": "在…之間做類比",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0230",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "After weeks of negotiation, the two nations finally managed to ____ over the trade dispute.",
+    "options": [
+      "establish a link",
+      "reach a compromise",
+      "draw a parallel",
+      "gain traction"
+    ],
+    "answer": 1,
+    "explain_zh": "reach a compromise 意思是「達成妥協」，符合兩國歷經數週談判終於就貿易爭端達成妥協的情境。establish a link 是「建立關聯」，draw a parallel 是「做類比」，gain traction 是「逐漸獲得支持」，皆不符合句意。記憶重點：reach a compromise = 達成妥協。",
+    "vocab": [
+      {
+        "w": "reach a compromise",
+        "zh": "達成妥協",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0231",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Support for the recycling initiative began to ____ once local celebrities endorsed it.",
+    "options": [
+      "reach a compromise",
+      "come at a cost",
+      "gain momentum",
+      "bear the brunt"
+    ],
+    "answer": 2,
+    "explain_zh": "gain momentum 意思是「逐漸獲得動力、聲勢漸長」，符合當地名人代言後回收計畫的支持度逐漸增加的情境。reach a compromise 是「達成妥協」，come at a cost 是「須付出代價」，bear the brunt 是「首當其衝」，皆不符合句意。記憶重點：gain momentum = 聲勢漸長。",
+    "vocab": [
+      {
+        "w": "gain momentum",
+        "zh": "聲勢漸長",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0232",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The idea of a four-day workweek has started to ____ among younger employees.",
+    "options": [
+      "gain momentum",
+      "come into effect",
+      "hold true",
+      "gain traction"
+    ],
+    "answer": 3,
+    "explain_zh": "gain traction 意思是「（想法、政策）逐漸獲得支持、站穩腳步」，符合週休三日的構想開始在年輕員工間逐漸受到支持的情境。gain momentum 較偏向「聲勢、動力持續增強」，此處強調「開始獲得認同」用 traction 更貼切；come into effect 是「開始生效」，hold true 是「依然成立」，皆不符合句意。記憶重點：gain traction = 逐漸獲得支持。",
+    "vocab": [
+      {
+        "w": "gain traction",
+        "zh": "逐漸獲得支持",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0233",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Improved public transportation often ____ higher taxes to fund its construction and upkeep.",
+    "options": [
+      "comes at a cost of",
+      "comes into play",
+      "comes into effect",
+      "takes a toll on"
+    ],
+    "answer": 0,
+    "explain_zh": "come at a cost of 意思是「以…為代價」，符合改善的大眾運輸系統往往需要更高的稅收來支應興建與維護的情境。comes into play 是「開始發揮作用」，comes into effect 是「開始生效」，takes a toll on 是「對…造成損害」，皆不符合句意。記憶重點：come at a cost of = 以…為代價。",
+    "vocab": [
+      {
+        "w": "come at a cost of",
+        "zh": "以…為代價",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0234",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Personal bias can sometimes ____ even when judges try their best to remain neutral.",
+    "options": [
+      "come at a cost",
+      "come into play",
+      "come into effect",
+      "hold true"
+    ],
+    "answer": 1,
+    "explain_zh": "come into play 意思是「開始發揮作用、產生影響」，符合即使法官盡力保持中立，個人偏見有時仍會產生影響的情境。come at a cost 是「須付出代價」，come into effect 是「（法規）開始生效」，hold true 是「依然成立」，皆不符合句意。記憶重點：come into play = 開始發揮作用。",
+    "vocab": [
+      {
+        "w": "come into play",
+        "zh": "開始發揮作用",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0235",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The new recycling regulation will ____ starting from the first of next month.",
+    "options": [
+      "come into play",
+      "gain traction",
+      "come into effect",
+      "tip the balance"
+    ],
+    "answer": 2,
+    "explain_zh": "come into effect 意思是「（法規、政策）開始生效」，符合新的回收法規將於下個月一號開始實施的情境。come into play 通常指抽象因素開始產生影響而非法規生效，gain traction 是「逐漸獲得支持」，tip the balance 是「扭轉局勢」，皆不符合句意。記憶重點：come into effect = 開始生效。",
+    "vocab": [
+      {
+        "w": "come into effect",
+        "zh": "開始生效",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0236",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Even after decades of research, the professor's original theory still seems to ____.",
+    "options": [
+      "come into effect",
+      "bear the brunt",
+      "tip the balance",
+      "hold true"
+    ],
+    "answer": 3,
+    "explain_zh": "hold true 意思是「（說法、理論）依然成立、站得住腳」，符合經過數十年研究，教授原本的理論似乎依然成立的情境。come into effect 是「開始生效」，bear the brunt 是「首當其衝」，tip the balance 是「扭轉局勢」，皆不符合句意。記憶重點：hold true = 依然成立。",
+    "vocab": [
+      {
+        "w": "hold true",
+        "zh": "依然成立",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0237",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Despite countless new inventions, the humble bicycle has managed to ____ as an efficient form of transport.",
+    "options": [
+      "stand the test of time",
+      "come into effect",
+      "gain traction",
+      "come at a cost"
+    ],
+    "answer": 0,
+    "explain_zh": "stand the test of time 意思是「經得起時間考驗」，符合儘管有無數新發明，簡樸的腳踏車仍證明自己是有效率的交通工具的情境。come into effect 是「開始生效」，gain traction 是「逐漸獲得支持」，come at a cost 是「須付出代價」，皆不符合句意。記憶重點：stand the test of time = 經得起時間考驗。",
+    "vocab": [
+      {
+        "w": "stand the test of time",
+        "zh": "經得起時間考驗",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0238",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "One last piece of unexpected evidence was enough to ____ in the jury's decision.",
+    "options": [
+      "hold true",
+      "tip the balance",
+      "gain traction",
+      "come at a cost"
+    ],
+    "answer": 1,
+    "explain_zh": "tip the balance 意思是「扭轉局勢、成為決定性因素」，符合最後一項意外證據足以扭轉陪審團的決定的情境。hold true 是「依然成立」，gain traction 是「逐漸獲得支持」，come at a cost 是「須付出代價」，皆不符合句意。記憶重點：tip the balance = 扭轉局勢。",
+    "vocab": [
+      {
+        "w": "tip the balance",
+        "zh": "扭轉局勢",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0239",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Frontline nurses often ____ the emotional strain of working through a public health crisis.",
+    "options": [
+      "come at a cost of",
+      "hold true for",
+      "bear the brunt of",
+      "tip the balance of"
+    ],
+    "answer": 2,
+    "explain_zh": "bear the brunt of 意思是「首當其衝承受（負面影響）」，符合第一線護理人員常常首當其衝承受公衛危機期間的情緒壓力的情境。come at a cost of 是「以…為代價」，hold true for 是「對…依然成立」，tip the balance of 是「扭轉…的局勢」，皆不符合句意。記憶重點：bear the brunt of sth = 首當其衝承受。",
+    "vocab": [
+      {
+        "w": "bear the brunt of",
+        "zh": "首當其衝承受",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0240",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:collocation",
+    "tag_zh": "搭配詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Years of commuting long distances every day finally began to ____ his health.",
+    "options": [
+      "bear the brunt of",
+      "come into play with",
+      "gain traction with",
+      "take a toll on"
+    ],
+    "answer": 3,
+    "explain_zh": "take a toll on 意思是「對…造成損害、帶來負面影響」，符合多年每天長途通勤終於開始損害他的健康的情境。bear the brunt of 主詞通常是承受負面影響的人而非造成損害的原因，come into play with、gain traction with 都不是正確搭配。記憶重點：take a toll on sb/sth = 對…造成損害。",
+    "vocab": [
+      {
+        "w": "take a toll on",
+        "zh": "對…造成損害",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0241",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Whether the festival goes ahead this year is entirely ____ securing enough sponsorship.",
+    "options": [
+      "contingent on",
+      "indicative of",
+      "conducive to",
+      "inherent in"
+    ],
+    "answer": 0,
+    "explain_zh": "be contingent on 意思是「取決於、以…為條件」，符合今年慶典能否舉行完全取決於能否募得足夠贊助的情境。indicative of 是「顯示出」，conducive to 是「有助於」，inherent in 是「存在於…之中、與生俱來的」，皆不符合句意。記憶重點：be contingent on = 取決於。",
+    "vocab": [
+      {
+        "w": "be contingent on",
+        "zh": "取決於",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0242",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "A sudden drop in attendance is often ____ deeper problems within an organisation.",
+    "options": [
+      "contingent on",
+      "indicative of",
+      "susceptible to",
+      "attributable to"
+    ],
+    "answer": 1,
+    "explain_zh": "be indicative of 意思是「顯示出、是…的跡象」，符合出席人數突然下降往往顯示組織內部有更深層的問題的情境。contingent on 是「取決於」，susceptible to 是「易受…影響的」，attributable to 是「歸因於」，皆不符合句意。記憶重點：be indicative of = 顯示出、是…的跡象。",
+    "vocab": [
+      {
+        "w": "be indicative of",
+        "zh": "顯示出、是…的跡象",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0243",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "A quiet, well-lit workspace is generally ____ better concentration and productivity.",
+    "options": [
+      "contingent on",
+      "indicative of",
+      "conducive to",
+      "prone to"
+    ],
+    "answer": 2,
+    "explain_zh": "be conducive to 意思是「有助於、促進」，符合安靜且採光良好的工作空間通常有助於專注與生產力的情境。contingent on 是「取決於」，indicative of 是「顯示出」，prone to 是「容易發生…的」，皆不符合句意。記憶重點：be conducive to = 有助於。",
+    "vocab": [
+      {
+        "w": "be conducive to",
+        "zh": "有助於、促進",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0244",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "A certain degree of risk is ____ any long-term investment strategy.",
+    "options": [
+      "conducive to",
+      "attributable to",
+      "exempt from",
+      "inherent in"
+    ],
+    "answer": 3,
+    "explain_zh": "be inherent in 意思是「存在於…之中、與…密不可分」，符合任何長期投資策略中都存在一定程度的風險的情境。conducive to 是「有助於」，attributable to 是「歸因於」，exempt from 是「免除」，皆不符合句意。記憶重點：be inherent in = 存在於…之中。",
+    "vocab": [
+      {
+        "w": "be inherent in",
+        "zh": "存在於…之中",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0245",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Coastal cities are particularly ____ the effects of rising sea levels.",
+    "options": [
+      "prone to",
+      "conducive to",
+      "exempt from",
+      "synonymous with"
+    ],
+    "answer": 0,
+    "explain_zh": "be prone to 意思是「容易受到、易發生」，符合沿海城市特別容易受到海平面上升影響的情境。conducive to 是「有助於」，exempt from 是「免除」，synonymous with 是「與…同義」，皆不符合句意。記憶重點：be prone to = 容易受到。",
+    "vocab": [
+      {
+        "w": "be prone to",
+        "zh": "容易受到、易發生",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0246",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Young children are generally more ____ infections than healthy adults.",
+    "options": [
+      "attributable to",
+      "susceptible to",
+      "consistent with",
+      "compatible with"
+    ],
+    "answer": 1,
+    "explain_zh": "be susceptible to 意思是「易受…感染或影響的」，符合幼童通常比健康成人更容易受到感染的情境。attributable to 是「歸因於」，consistent with 是「與…一致」，compatible with 是「與…相容」，皆不符合句意。記憶重點：be susceptible to = 易受…影響。",
+    "vocab": [
+      {
+        "w": "be susceptible to",
+        "zh": "易受…影響",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0247",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The recent decline in bee populations is largely ____ the loss of natural habitats.",
+    "options": [
+      "susceptible to",
+      "comparable to",
+      "attributable to",
+      "analogous to"
+    ],
+    "answer": 2,
+    "explain_zh": "be attributable to 意思是「歸因於」，符合近期蜜蜂數量下降主要歸因於自然棲地喪失的情境。susceptible to 是「易受…影響」，comparable to 是「可與…相比」，analogous to 是「與…類似」，皆不符合句意。記憶重點：be attributable to = 歸因於。",
+    "vocab": [
+      {
+        "w": "be attributable to",
+        "zh": "歸因於",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0248",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "In many cultures, sharing a meal is almost ____ showing hospitality.",
+    "options": [
+      "consistent with",
+      "compatible with",
+      "comparable to",
+      "synonymous with"
+    ],
+    "answer": 3,
+    "explain_zh": "be synonymous with 意思是「幾乎等同於、與…畫上等號」，符合在許多文化中共進一餐幾乎等同於展現好客之意的情境。consistent with 是「與…一致」，compatible with 是「與…相容」，comparable to 是「可與…相比」，皆不符合句意。記憶重點：be synonymous with = 與…畫上等號。",
+    "vocab": [
+      {
+        "w": "be synonymous with",
+        "zh": "與…畫上等號",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0249",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The final report's conclusions were largely ____ what earlier studies had already suggested.",
+    "options": [
+      "consistent with",
+      "synonymous with",
+      "exempt from",
+      "distinct from"
+    ],
+    "answer": 0,
+    "explain_zh": "be consistent with 意思是「與…一致」，符合最終報告的結論大致與先前研究已提出的看法一致的情境。synonymous with 是「與…同義」（強調幾乎等同，語氣過強），exempt from 是「免除」，distinct from 是「與…不同」，皆不符合句意。記憶重點：be consistent with = 與…一致。",
+    "vocab": [
+      {
+        "w": "be consistent with",
+        "zh": "與…一致",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0250",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The new software update is not ____ older versions of the operating system.",
+    "options": [
+      "consistent with",
+      "compatible with",
+      "comparable to",
+      "analogous to"
+    ],
+    "answer": 1,
+    "explain_zh": "be compatible with 意思是「與…相容」，符合新的軟體更新與較舊版本的作業系統不相容的情境。consistent with 是「與…一致」（用於論點或結論），comparable to 是「可與…相比」，analogous to 是「與…類似」，皆不符合句意。記憶重點：be compatible with = 與…相容。",
+    "vocab": [
+      {
+        "w": "be compatible with",
+        "zh": "與…相容",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0251",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "In terms of population density, the city is roughly ____ Tokyo.",
+    "options": [
+      "compatible with",
+      "consistent with",
+      "comparable to",
+      "exempt from"
+    ],
+    "answer": 2,
+    "explain_zh": "be comparable to 意思是「可與…相比、相當於」，符合就人口密度而言，這座城市大致與東京相當的情境。compatible with 是「相容」，consistent with 是「一致」，exempt from 是「免除」，皆不符合句意。記憶重點：be comparable to = 可與…相比。",
+    "vocab": [
+      {
+        "w": "be comparable to",
+        "zh": "可與…相比",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0252",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The way a beehive is organised is often described as ____ a well-run factory.",
+    "options": [
+      "comparable to",
+      "distinct from",
+      "exempt from",
+      "analogous to"
+    ],
+    "answer": 3,
+    "explain_zh": "be analogous to 意思是「與…類似、可類比為」，符合蜂巢的組織方式常被形容為類似一座運作良好的工廠的情境。comparable to 較偏向「規模或程度上可相比」，此處強調結構上的類比更適合用analogous；distinct from 是「與…不同」，exempt from 是「免除」，皆不符合句意。記憶重點：be analogous to = 可類比為。",
+    "vocab": [
+      {
+        "w": "be analogous to",
+        "zh": "可類比為",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0253",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The findings of this small-scale survey are ____ the results of the nationwide census.",
+    "options": [
+      "distinct from",
+      "consistent with",
+      "compatible with",
+      "synonymous with"
+    ],
+    "answer": 0,
+    "explain_zh": "be distinct from 意思是「與…不同、有明顯區別」，符合這項小型調查的結果與全國普查結果有明顯區別的情境。consistent with 是「一致」，compatible with 是「相容」，synonymous with 是「同義」，皆與句意相反或不符。記憶重點：be distinct from = 與…不同。",
+    "vocab": [
+      {
+        "w": "be distinct from",
+        "zh": "與…不同",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0254",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Charities registered under this scheme are ____ paying certain administrative fees.",
+    "options": [
+      "liable for",
+      "exempt from",
+      "applicable to",
+      "integral to"
+    ],
+    "answer": 1,
+    "explain_zh": "be exempt from 意思是「被免除、不受…約束」，符合根據此方案登記的慈善機構可免繳某些行政費用的情境。liable for 是「須負責任的」，applicable to 是「適用於」，integral to 是「不可或缺的」，皆不符合句意。記憶重點：be exempt from = 被免除。",
+    "vocab": [
+      {
+        "w": "be exempt from",
+        "zh": "被免除",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0255",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Under the new contract, the landlord is ____ any repairs caused by normal wear and tear.",
+    "options": [
+      "exempt from",
+      "applicable to",
+      "liable for",
+      "relevant to"
+    ],
+    "answer": 2,
+    "explain_zh": "be liable for 意思是「須對…負責」，符合根據新合約，房東須對正常耗損造成的維修負責的情境。exempt from 是「被免除」，applicable to 是「適用於」，relevant to 是「與…有關」，皆不符合句意。記憶重點：be liable for = 須對…負責。",
+    "vocab": [
+      {
+        "w": "be liable for",
+        "zh": "須對…負責",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0256",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "This safety regulation is ____ all vehicles manufactured after 2020.",
+    "options": [
+      "liable for",
+      "exempt from",
+      "integral to",
+      "applicable to"
+    ],
+    "answer": 3,
+    "explain_zh": "be applicable to 意思是「適用於」，符合此項安全規定適用於2020年後製造的所有車輛的情境。liable for 是「須負責任的」，exempt from 是「被免除」，integral to 是「不可或缺的」，皆不符合句意。記憶重點：be applicable to = 適用於。",
+    "vocab": [
+      {
+        "w": "be applicable to",
+        "zh": "適用於",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0257",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The committee decided that the survey results were not ____ this year's budget discussion.",
+    "options": [
+      "relevant to",
+      "applicable to",
+      "liable for",
+      "skeptical of"
+    ],
+    "answer": 0,
+    "explain_zh": "be relevant to 意思是「與…有關、切合」，符合委員會認為調查結果與今年的預算討論無關的情境。applicable to 是「適用於」（規則、規定），liable for 是「須負責任的」，skeptical of 是「對…懷疑的」，皆不符合句意。記憶重點：be relevant to = 與…有關。",
+    "vocab": [
+      {
+        "w": "be relevant to",
+        "zh": "與…有關",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0258",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Reliable public transportation is widely considered ____ a city's overall quality of life.",
+    "options": [
+      "relevant to",
+      "integral to",
+      "exempt from",
+      "liable for"
+    ],
+    "answer": 1,
+    "explain_zh": "be integral to 意思是「對…不可或缺的」，符合可靠的大眾運輸普遍被認為對城市整體生活品質不可或缺的情境。relevant to 是「與…有關」（語氣較弱），exempt from 是「被免除」，liable for 是「須負責任的」，皆不符合句意。記憶重點：be integral to = 不可或缺。",
+    "vocab": [
+      {
+        "w": "be integral to",
+        "zh": "對…不可或缺",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0259",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many economists remain ____ claims that the new policy will boost employment quickly.",
+    "options": [
+      "integral to",
+      "relevant to",
+      "skeptical of",
+      "deprived of"
+    ],
+    "answer": 2,
+    "explain_zh": "be skeptical of 意思是「對…抱持懷疑」，符合許多經濟學家對新政策能迅速提振就業的說法仍持懷疑態度的情境。integral to 是「不可或缺」，relevant to 是「與…有關」，deprived of 是「被剝奪」，皆不符合句意。記憶重點：be skeptical of = 對…懷疑。",
+    "vocab": [
+      {
+        "w": "be skeptical of",
+        "zh": "對…懷疑",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0260",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:prepositional-phrase",
+    "tag_zh": "介系詞片語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Children growing up in extreme poverty are often ____ basic educational resources.",
+    "options": [
+      "skeptical of",
+      "exempt from",
+      "liable for",
+      "deprived of"
+    ],
+    "answer": 3,
+    "explain_zh": "be deprived of 意思是「被剝奪」，符合在極度貧窮中成長的孩子往往被剝奪基本教育資源的情境。skeptical of 是「對…懷疑」，exempt from 是「被免除」，liable for 是「須負責任的」，皆不符合句意。記憶重點：be deprived of = 被剝奪。",
+    "vocab": [
+      {
+        "w": "be deprived of",
+        "zh": "被剝奪",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0261",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ these new findings, the research team decided to revise their original hypothesis.",
+    "options": [
+      "In light of",
+      "In the wake of",
+      "By and large",
+      "Once and for all"
+    ],
+    "answer": 0,
+    "explain_zh": "in light of 意思是「鑑於、考量到」，符合研究團隊鑑於這些新發現而決定修改原本假設的情境。in the wake of 是「在…之後（尤指負面事件後）」，by and large 是「大體上」，once and for all 是「一勞永逸地」，皆不符合句意。記憶重點：in light of = 鑑於。",
+    "vocab": [
+      {
+        "w": "in light of",
+        "zh": "鑑於",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0262",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the factory explosion, the government tightened safety regulations across the industry.",
+    "options": [
+      "In light of",
+      "In the wake of",
+      "First and foremost",
+      "With the exception of"
+    ],
+    "answer": 1,
+    "explain_zh": "in the wake of 意思是「緊接在…之後（尤指負面事件）」，符合工廠爆炸事件後政府收緊全產業的安全規範的情境。in light of 是「鑑於」（較中性），first and foremost 是「首先」，with the exception of 是「除了…之外」，皆不符合句意。記憶重點：in the wake of = 在…之後（負面事件）。",
+    "vocab": [
+      {
+        "w": "in the wake of",
+        "zh": "在…之後（負面事件）",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0263",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The judge dismissed the case ____ that the evidence had been collected illegally.",
+    "options": [
+      "in light of",
+      "by and large",
+      "on the grounds",
+      "at the heart of"
+    ],
+    "answer": 2,
+    "explain_zh": "on the grounds that 意思是「以…為理由」，符合法官以證據取得方式違法為由駁回此案的情境。in light of 後方通常接名詞而非that子句，by and large 是「大體上」，at the heart of 是「…的核心」，皆不符合句意或文法。記憶重點：on the grounds that + 子句 = 以…為理由。",
+    "vocab": [
+      {
+        "w": "on the grounds that",
+        "zh": "以…為理由",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0264",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "____, the new policy has been well received, despite a few minor complaints.",
+    "options": [
+      "In the wake of",
+      "On the grounds that",
+      "In due course",
+      "By and large"
+    ],
+    "answer": 3,
+    "explain_zh": "by and large 意思是「大體上、整體而言」，符合儘管有些小抱怨，新政策整體而言受到好評的情境。in the wake of 是「在…之後」，on the grounds that 是「以…為理由」，in due course 是「到時候、適時」，皆不符合句意。記憶重點：by and large = 大體上。",
+    "vocab": [
+      {
+        "w": "by and large",
+        "zh": "大體上",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0265",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "____, safety must come before speed when operating heavy machinery.",
+    "options": [
+      "First and foremost",
+      "By and large",
+      "In due course",
+      "Once and for all"
+    ],
+    "answer": 0,
+    "explain_zh": "first and foremost 意思是「首先、最重要的是」，符合操作重型機械時安全必須優先於速度的情境。by and large 是「大體上」，in due course 是「到時候」，once and for all 是「一勞永逸地」，皆不符合句意。記憶重點：first and foremost = 首先、最重要的是。",
+    "vocab": [
+      {
+        "w": "first and foremost",
+        "zh": "首先、最重要的是",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0266",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Students who skip breakfast are ____ to lose focus by mid-morning.",
+    "options": [
+      "by and large",
+      "more often than not",
+      "first and foremost",
+      "once and for all"
+    ],
+    "answer": 1,
+    "explain_zh": "more often than not 意思是「多半、通常」，符合不吃早餐的學生多半會在上午中段失去專注力的情境。by and large 是「大體上」（語氣稍不同，較少直接接to不定詞這種頻率描述），first and foremost 是「首先」，once and for all 是「一勞永逸地」，皆不符合句意。記憶重點：more often than not = 多半、通常。",
+    "vocab": [
+      {
+        "w": "more often than not",
+        "zh": "多半、通常",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0267",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Fair access to clean water lies ____ the organisation's entire mission.",
+    "options": [
+      "at the forefront of",
+      "in the face of",
+      "at the heart of",
+      "on the basis of"
+    ],
+    "answer": 2,
+    "explain_zh": "at the heart of 意思是「…的核心」，符合公平取得乾淨水源正是該組織整個使命的核心的情境。at the forefront of 是「站在…的最前線」，in the face of 是「面對」，on the basis of 是「基於」，皆不符合句意。記憶重點：at the heart of = …的核心。",
+    "vocab": [
+      {
+        "w": "at the heart of",
+        "zh": "…的核心",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0268",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "This laboratory has remained ____ genetic research for more than two decades.",
+    "options": [
+      "at the heart of",
+      "in the face of",
+      "in the interest of",
+      "at the forefront of"
+    ],
+    "answer": 3,
+    "explain_zh": "at the forefront of 意思是「站在…的最前線、居於領先地位」，符合這間實驗室二十多年來始終走在基因研究的最前線的情境。at the heart of 是「…的核心」，in the face of 是「面對」，in the interest of 是「為了…的利益」，皆不符合句意。記憶重點：at the forefront of = 走在…的最前線。",
+    "vocab": [
+      {
+        "w": "at the forefront of",
+        "zh": "走在…的最前線",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0269",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ overwhelming criticism, the director refused to change the ending of the film.",
+    "options": [
+      "In the face of",
+      "At the heart of",
+      "On the basis of",
+      "In due course"
+    ],
+    "answer": 0,
+    "explain_zh": "in the face of 意思是「面對（困難、反對等）」，符合面對排山倒海的批評，導演仍拒絕更改電影結局的情境。at the heart of 是「…的核心」，on the basis of 是「基於」，in due course 是「到時候」，皆不符合句意。記憶重點：in the face of = 面對（困難）。",
+    "vocab": [
+      {
+        "w": "in the face of",
+        "zh": "面對（困難）",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0270",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The novel is set ____ a country recovering from decades of civil war.",
+    "options": [
+      "at the forefront of",
+      "against the backdrop of",
+      "on the basis of",
+      "with the exception of"
+    ],
+    "answer": 1,
+    "explain_zh": "against the backdrop of 意思是「以…為背景」，符合這部小說是以一個從數十年內戰中復原的國家為背景的情境。at the forefront of 是「走在最前線」，on the basis of 是「基於」，with the exception of 是「除了…之外」，皆不符合句意。記憶重點：against the backdrop of = 以…為背景。",
+    "vocab": [
+      {
+        "w": "against the backdrop of",
+        "zh": "以…為背景",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0271",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The committee awarded the scholarship ____ academic merit alone, ignoring family income.",
+    "options": [
+      "against the backdrop of",
+      "in the face of",
+      "on the basis of",
+      "in due course"
+    ],
+    "answer": 2,
+    "explain_zh": "on the basis of 意思是「基於」，符合委員會純粹基於學業表現頒發獎學金，不考慮家庭收入的情境。against the backdrop of 是「以…為背景」，in the face of 是「面對」，in due course 是「到時候」，皆不符合句意。記憶重點：on the basis of = 基於。",
+    "vocab": [
+      {
+        "w": "on the basis of",
+        "zh": "基於",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0272",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "All the museum's exhibits are free to view, ____ a few special temporary shows.",
+    "options": [
+      "on the basis of",
+      "in the interest of",
+      "in due course",
+      "with the exception of"
+    ],
+    "answer": 3,
+    "explain_zh": "with the exception of 意思是「除了…之外」，符合博物館展品皆免費參觀，除了少數特展之外的情境。on the basis of 是「基於」，in the interest of 是「為了…的利益」，in due course 是「到時候」，皆不符合句意。記憶重點：with the exception of = 除了…之外。",
+    "vocab": [
+      {
+        "w": "with the exception of",
+        "zh": "除了…之外",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0273",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company shortened the meeting ____ everyone's time and energy.",
+    "options": [
+      "in the interest of",
+      "with the exception of",
+      "against the backdrop of",
+      "on the basis of"
+    ],
+    "answer": 0,
+    "explain_zh": "in the interest of 意思是「為了…的利益、為了…著想」，符合公司為了大家的時間與精力著想而縮短會議的情境。with the exception of 是「除了…之外」，against the backdrop of 是「以…為背景」，on the basis of 是「基於」，皆不符合句意。記憶重點：in the interest of = 為了…著想。",
+    "vocab": [
+      {
+        "w": "in the interest of",
+        "zh": "為了…著想",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0274",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The committee promised that a formal response would be issued ____.",
+    "options": [
+      "in the interest of",
+      "in due course",
+      "on the basis of",
+      "by and large"
+    ],
+    "answer": 1,
+    "explain_zh": "in due course 意思是「到時候、於適當時機」，符合委員會承諾正式回覆將在適當時機發布的情境。in the interest of 是「為了…著想」，on the basis of 是「基於」，by and large 是「大體上」，皆不符合句意。記憶重點：in due course = 於適當時機。",
+    "vocab": [
+      {
+        "w": "in due course",
+        "zh": "於適當時機",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0275",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The two neighbours decided to settle the boundary dispute ____ by hiring a professional surveyor.",
+    "options": [
+      "in due course",
+      "by and large",
+      "once and for all",
+      "first and foremost"
+    ],
+    "answer": 2,
+    "explain_zh": "once and for all 意思是「一勞永逸地、徹底地」，符合兩位鄰居決定請專業測量師徹底解決邊界糾紛的情境。in due course 是「於適當時機」，by and large 是「大體上」，first and foremost 是「首先」，皆不符合句意。記憶重點：once and for all = 一勞永逸地。",
+    "vocab": [
+      {
+        "w": "once and for all",
+        "zh": "一勞永逸地",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0276",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The evidence presented in court left ____ that the defendant had been present at the scene.",
+    "options": [
+      "in due course",
+      "once and for all",
+      "at a crossroads",
+      "without a doubt"
+    ],
+    "answer": 3,
+    "explain_zh": "without a doubt 意思是「無庸置疑地」，符合法庭上提出的證據無庸置疑地證明被告當時在場的情境。in due course 是「於適當時機」，once and for all 是「一勞永逸地」，at a crossroads 是「處於十字路口、面臨抉擇」，皆不符合句意。記憶重點：without a doubt = 無庸置疑地。",
+    "vocab": [
+      {
+        "w": "without a doubt",
+        "zh": "無庸置疑地",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0277",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Having lost its main export market, the country's economy now stands ____.",
+    "options": [
+      "at a crossroads",
+      "without a doubt",
+      "in due course",
+      "once and for all"
+    ],
+    "answer": 0,
+    "explain_zh": "at a crossroads 意思是「處於十字路口、面臨重大抉擇」，符合失去主要出口市場後，這個國家的經濟正面臨重大抉擇的情境。without a doubt 是「無庸置疑地」，in due course 是「於適當時機」，once and for all 是「一勞永逸地」，皆不符合句意。記憶重點：at a crossroads = 面臨重大抉擇。",
+    "vocab": [
+      {
+        "w": "at a crossroads",
+        "zh": "面臨重大抉擇",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0278",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Artificial intelligence has been described as ____, capable of great benefit and great harm alike.",
+    "options": [
+      "food for thought",
+      "a double-edged sword",
+      "a vicious cycle",
+      "at a crossroads"
+    ],
+    "answer": 1,
+    "explain_zh": "a double-edged sword 意思是「雙面刃」，符合人工智慧被形容為雙面刃，能帶來極大好處也能造成極大傷害的情境。food for thought 是「值得深思的事」，a vicious cycle 是「惡性循環」，at a crossroads 是「面臨重大抉擇」，皆不符合句意。記憶重點：a double-edged sword = 雙面刃。",
+    "vocab": [
+      {
+        "w": "a double-edged sword",
+        "zh": "雙面刃",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0279",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "The speaker's closing remarks offered the audience some genuine ____.",
+    "options": [
+      "a double-edged sword",
+      "a vicious cycle",
+      "food for thought",
+      "at a crossroads"
+    ],
+    "answer": 2,
+    "explain_zh": "food for thought 意思是「值得深思的事」，符合講者的結語為觀眾提供了值得深思的想法的情境。a double-edged sword 是「雙面刃」，a vicious cycle 是「惡性循環」，at a crossroads 是「面臨重大抉擇」，皆不符合句意。記憶重點：food for thought = 值得深思的事。",
+    "vocab": [
+      {
+        "w": "food for thought",
+        "zh": "值得深思的事",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0280",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:fixed-expression",
+    "tag_zh": "固定用語",
+    "passage": null,
+    "group_id": null,
+    "stem": "Low wages lead to low morale, which in turn lowers productivity, creating ____ that is hard to escape.",
+    "options": [
+      "a double-edged sword",
+      "food for thought",
+      "at a crossroads",
+      "a vicious cycle"
+    ],
+    "answer": 3,
+    "explain_zh": "a vicious cycle 意思是「惡性循環」，符合低薪導致低士氣，進而降低生產力，形成難以脫離的惡性循環的情境。a double-edged sword 是「雙面刃」，food for thought 是「值得深思的事」，at a crossroads 是「面臨重大抉擇」，皆不符合句意。記憶重點：a vicious cycle = 惡性循環。",
+    "vocab": [
+      {
+        "w": "a vicious cycle",
+        "zh": "惡性循環",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0281",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Demand for the product fell sharply; ____, the factory was forced to cut production.",
+    "options": [
+      "consequently",
+      "notwithstanding",
+      "that being said",
+      "in any case"
+    ],
+    "answer": 0,
+    "explain_zh": "consequently 意思是「因此」，用來表達直接的因果結果，符合產品需求驟降，工廠因此被迫削減產量的情境。notwithstanding 是「儘管如此」，that being said 是「話雖如此」，in any case 是「無論如何」，皆不符合這裡直接因果的語意。記憶重點：consequently = 因此（表結果）。",
+    "vocab": [
+      {
+        "w": "consequently",
+        "zh": "因此",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0282",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The committee approved the initial budget; a more detailed spending plan was ____ submitted for review.",
+    "options": [
+      "notwithstanding",
+      "subsequently",
+      "conversely",
+      "likewise"
+    ],
+    "answer": 1,
+    "explain_zh": "subsequently 意思是「隨後、其後」，用來表達時間先後順序，符合委員會先核准初步預算，隨後才提交更詳細的支出計畫審查的情境。notwithstanding 是「儘管如此」，conversely 是「相反地」，likewise 是「同樣地」，皆不符合這裡時間順序的語意。記憶重點：subsequently = 隨後（表時間順序）。",
+    "vocab": [
+      {
+        "w": "subsequently",
+        "zh": "隨後",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0283",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The plan carried real financial risk; ____, the board decided to proceed.",
+    "options": [
+      "consequently",
+      "subsequently",
+      "notwithstanding this",
+      "given that"
+    ],
+    "answer": 2,
+    "explain_zh": "notwithstanding this 意思是「儘管如此」，用來表達不受前述因素影響仍做出決定，符合計畫雖有財務風險，董事會仍決定推行的情境。consequently 是「因此」，subsequently 是「隨後」，given that 是「鑑於」，皆不符合這裡讓步轉折的語意。記憶重點：notwithstanding = 儘管如此。",
+    "vocab": [
+      {
+        "w": "notwithstanding",
+        "zh": "儘管如此",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0284",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Sales figures for the quarter were disappointing; management ____ decided to revise the marketing strategy.",
+    "options": [
+      "notwithstanding",
+      "that being said",
+      "in this regard",
+      "accordingly"
+    ],
+    "answer": 3,
+    "explain_zh": "accordingly 意思是「因此、相應地」，用來表達根據前述情況採取對應行動，符合本季銷售數字令人失望，管理層因此決定修改行銷策略的情境。notwithstanding 是「儘管如此」，that being said 是「話雖如此」，in this regard 是「在這方面」，皆不符合句意。記憶重點：accordingly = 因此、相應地。",
+    "vocab": [
+      {
+        "w": "accordingly",
+        "zh": "因此、相應地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0285",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The results were disappointing overall. ____, a few individual schools showed remarkable improvement.",
+    "options": [
+      "That being said",
+      "Consequently",
+      "Subsequently",
+      "Accordingly"
+    ],
+    "answer": 0,
+    "explain_zh": "that being said 意思是「話雖如此」，用來在承認前述論點後提出對比或例外，符合結果整體令人失望，話雖如此少數學校卻表現亮眼的情境。consequently、subsequently、accordingly 都表達因果或時間順序而非轉折語氣，皆不符合句意。記憶重點：that being said = 話雖如此。",
+    "vocab": [
+      {
+        "w": "that being said",
+        "zh": "話雖如此",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0286",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Housing prices remain a major concern for young families. ____, several new policies are being drafted to address affordability.",
+    "options": [
+      "Notwithstanding",
+      "In this regard",
+      "Conversely",
+      "Likewise"
+    ],
+    "answer": 1,
+    "explain_zh": "in this regard 意思是「在這方面、就此而言」，用來承接前述議題並延伸相關說明，符合房價仍是年輕家庭一大隱憂，就此而言政府正擬定多項新政策解決負擔能力問題的情境。notwithstanding 是「儘管如此」，conversely 是「相反地」，likewise 是「同樣地」，皆不符合句意。記憶重點：in this regard = 在這方面。",
+    "vocab": [
+      {
+        "w": "in this regard",
+        "zh": "在這方面",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0287",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The city hopes to reduce traffic congestion by twenty percent. ____, it plans to expand the bus network significantly.",
+    "options": [
+      "That being said",
+      "Conversely",
+      "To that end",
+      "Insofar as"
+    ],
+    "answer": 2,
+    "explain_zh": "to that end 意思是「為達此目的」，用來說明為達成前述目標而採取的行動，符合城市希望降低兩成塞車，為達此目的計畫大幅擴充公車路網的情境。that being said 是「話雖如此」，conversely 是「相反地」，insofar as 是「就…範圍而言」，皆不符合句意。記憶重點：to that end = 為達此目的。",
+    "vocab": [
+      {
+        "w": "to that end",
+        "zh": "為達此目的",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0288",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____, the design team began sketching several alternative layouts for the new library.",
+    "options": [
+      "Notwithstanding",
+      "Conversely",
+      "By the same token",
+      "With this in mind"
+    ],
+    "answer": 3,
+    "explain_zh": "with this in mind 意思是「考量到這一點」，用來承接前述考量並說明後續行動，符合考量到這一點，設計團隊開始草擬新圖書館的幾種替代配置的情境。notwithstanding 是「儘管如此」，conversely 是「相反地」，by the same token 是「同理」，皆不符合句意。記憶重點：with this in mind = 考量到這一點。",
+    "vocab": [
+      {
+        "w": "with this in mind",
+        "zh": "考量到這一點",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0289",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The proposal has both strong supporters and firm opponents. ____, the mayor decided to hold a public referendum.",
+    "options": [
+      "All things considered",
+      "Conversely",
+      "Insofar as",
+      "By the same token"
+    ],
+    "answer": 0,
+    "explain_zh": "all things considered 意思是「綜合考量之下」，用來在權衡各方因素後做出結論，符合此提案有堅定支持者與反對者，綜合考量之下市長決定舉行公投的情境。conversely 是「相反地」，insofar as 是「就…範圍而言」，by the same token 是「同理」，皆不符合句意。記憶重點：all things considered = 綜合考量之下。",
+    "vocab": [
+      {
+        "w": "all things considered",
+        "zh": "綜合考量之下",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0290",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The new policy has raised costs for some businesses, but ____, it has created far more jobs than it eliminated.",
+    "options": [
+      "conversely",
+      "on balance",
+      "insofar as",
+      "notwithstanding"
+    ],
+    "answer": 1,
+    "explain_zh": "on balance 意思是「權衡之下、整體而言」，用來在比較正負面後得出整體評價，符合新政策雖提高部分企業成本，但整體而言創造的就業機會遠多於消滅的情境。conversely 是「相反地」，insofar as 是「就…範圍而言」，notwithstanding 是「儘管如此」，皆不符合句意。記憶重點：on balance = 權衡之下。",
+    "vocab": [
+      {
+        "w": "on balance",
+        "zh": "權衡之下",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0291",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The bridge was in urgent need of repair. ____, the city council approved emergency funding within a week.",
+    "options": [
+      "Conversely",
+      "Insofar as",
+      "For this reason",
+      "By the same token"
+    ],
+    "answer": 2,
+    "explain_zh": "for this reason 意思是「因為這個原因」，用來說明前述情況導致的具體結果，符合橋梁急需維修，因此市議會一週內就核准了緊急經費的情境。conversely 是「相反地」，insofar as 是「就…範圍而言」，by the same token 是「同理」，皆不符合句意。記憶重點：for this reason = 因為這個原因。",
+    "vocab": [
+      {
+        "w": "for this reason",
+        "zh": "因為這個原因",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0292",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "A forest recovers slowly after a wildfire, ____ a community rebuilds gradually after a disaster.",
+    "options": [
+      "on balance",
+      "for this reason",
+      "conversely",
+      "in much the same way"
+    ],
+    "answer": 3,
+    "explain_zh": "in much the same way 意思是「以幾乎相同的方式」，用來將兩個相似的過程做比較，符合森林在野火後緩慢恢復，正如社區在災難後也逐漸重建的情境。on balance 是「權衡之下」，for this reason 是「因為這個原因」，conversely 是「相反地」，皆不符合這裡強調相似性的語意。記憶重點：in much the same way = 以幾乎相同的方式。",
+    "vocab": [
+      {
+        "w": "in much the same way",
+        "zh": "以幾乎相同的方式",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0293",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Just as a student must practise daily to master a language, ____, an athlete must train daily to master a sport.",
+    "options": [
+      "by the same token",
+      "on balance",
+      "conversely",
+      "insofar as"
+    ],
+    "answer": 0,
+    "explain_zh": "by the same token 意思是「同理、依相同道理」，用來延伸前述邏輯至另一個相似情況，符合學生必須每天練習才能精通語言，同理運動員也必須每天訓練才能精通運動的情境。on balance 是「權衡之下」，conversely 是「相反地」，insofar as 是「就…範圍而言」，皆不符合句意。記憶重點：by the same token = 同理。",
+    "vocab": [
+      {
+        "w": "by the same token",
+        "zh": "同理",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0294",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Rural hospitals often lack specialist doctors; urban hospitals, ____, tend to be overcrowded and understaffed.",
+    "options": [
+      "likewise",
+      "conversely",
+      "by the same token",
+      "in much the same way"
+    ],
+    "answer": 1,
+    "explain_zh": "conversely 意思是「相反地」，用來表達與前述情況相反的對比，符合鄉村醫院常缺乏專科醫師，都市醫院則相反，往往人滿為患又人手不足的情境。likewise、by the same token、in much the same way 都表示「同樣地、相似地」而非對比，皆不符合句意。記憶重點：conversely = 相反地。",
+    "vocab": [
+      {
+        "w": "conversely",
+        "zh": "相反地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0295",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The museum extended its opening hours during the summer break; ____, several local attractions did the same.",
+    "options": [
+      "conversely",
+      "insofar as",
+      "likewise",
+      "notwithstanding"
+    ],
+    "answer": 2,
+    "explain_zh": "likewise 意思是「同樣地」，用來表達與前述情況相似的做法，符合博物館暑假延長開放時間，附近幾個景點同樣也這麼做的情境。conversely 是「相反地」，insofar as 是「就…範圍而言」，notwithstanding 是「儘管如此」，皆不符合句意。記憶重點：likewise = 同樣地。",
+    "vocab": [
+      {
+        "w": "likewise",
+        "zh": "同樣地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0296",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "Some critics judge the film ____ its box office earnings rather than its artistic merit.",
+    "options": [
+      "given that",
+      "insofar as",
+      "to the extent that",
+      "as opposed to"
+    ],
+    "answer": 3,
+    "explain_zh": "as opposed to 意思是「而非、相對於」，用來明確對比兩個選項，符合有些評論家以票房收入而非藝術價值評判這部電影的情境。given that 是「鑑於」，insofar as 是「就…範圍而言」，to the extent that 是「在…的程度上」，皆不符合句意。記憶重點：as opposed to = 而非、相對於。",
+    "vocab": [
+      {
+        "w": "as opposed to",
+        "zh": "而非、相對於",
+        "pos": "prep."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0297",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ the airline had already cancelled dozens of flights that week, few passengers were surprised by the delay.",
+    "options": [
+      "Given that",
+      "As opposed to",
+      "Likewise",
+      "By the same token"
+    ],
+    "answer": 0,
+    "explain_zh": "given that 意思是「鑑於、既然」，用來引出已知事實作為理由，符合鑑於該航空公司當週已取消數十架班機，多數乘客對延誤並不意外的情境。as opposed to 是「而非」，likewise 是「同樣地」，by the same token 是「同理」，皆不符合句意。記憶重點：given that + 子句 = 鑑於、既然。",
+    "vocab": [
+      {
+        "w": "given that",
+        "zh": "鑑於、既然",
+        "pos": "conj."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0298",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The volunteer programme is open to all residents ____ they can commit to at least four hours a month.",
+    "options": [
+      "given that",
+      "insofar as",
+      "as opposed to",
+      "consequently"
+    ],
+    "answer": 1,
+    "explain_zh": "insofar as 意思是「就…範圍而言、只要」，用來限定條件成立的範圍，符合志工計畫開放給所有居民參加，只要他們能承諾每月至少四小時的情境。given that 是「鑑於」（陳述已知事實而非條件限定），as opposed to 是「而非」，consequently 是「因此」，皆不符合句意。記憶重點：insofar as + 子句 = 就…範圍而言。",
+    "vocab": [
+      {
+        "w": "insofar as",
+        "zh": "就…範圍而言",
+        "pos": "conj."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0299",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The new regulation is effective only ____ it applies to vehicles registered after 2022.",
+    "options": [
+      "given that",
+      "as opposed to",
+      "to the extent that",
+      "notwithstanding"
+    ],
+    "answer": 2,
+    "explain_zh": "to the extent that 意思是「在…的程度上、僅限於」，用來限定某項陳述成立的範圍，符合新法規僅在適用於2022年後登記車輛的範圍內才有效的情境。given that 是「鑑於」，as opposed to 是「而非」，notwithstanding 是「儘管如此」，皆不符合句意。記憶重點：to the extent that + 子句 = 僅限於…的程度。",
+    "vocab": [
+      {
+        "w": "to the extent that",
+        "zh": "僅限於…的程度",
+        "pos": "conj."
+      }
+    ]
+  },
+  {
+    "id": "NPH-0300",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "phrase",
+    "tag": "phrase:academic-connector",
+    "tag_zh": "學術連接詞",
+    "passage": null,
+    "group_id": null,
+    "stem": "The negotiations failed to produce an agreement; ____, both sides agreed to meet again next month.",
+    "options": [
+      "conversely",
+      "likewise",
+      "by the same token",
+      "in any case"
+    ],
+    "answer": 3,
+    "explain_zh": "in any case 意思是「無論如何」，用來表達不論前述結果如何都會採取的行動，符合談判雖未達成協議，但無論如何雙方仍同意下個月再會談的情境。conversely 是「相反地」，likewise 是「同樣地」，by the same token 是「同理」，皆不符合句意。記憶重點：in any case = 無論如何。",
+    "vocab": [
+      {
+        "w": "in any case",
+        "zh": "無論如何",
+        "pos": "phr."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "PX-AST106-001",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:social-behavior",
+    "tag_zh": "社交態度",
+    "source": "106指考",
+    "stem": "Martha has been trying to ______ her roommate since their quarrel last week, as she doesn't want to continue the argument.",
+    "options": [
+      "overgrow",
+      "bother",
+      "pursue",
+      "avoid"
+    ],
+    "answer": 3,
+    "explain_zh": "Martha 吵架後不想繼續衝突，想「避開」室友，故選 avoid；pursue（追求）、bother（打擾）、overgrow（過度生長）皆與避不見面的語意不合。avoid＋人/事是常見的迴避行為表達方式。",
+    "vocab": [
+      {
+        "w": "avoid",
+        "zh": "避開",
+        "pos": "v."
+      },
+      {
+        "w": "pursue",
+        "zh": "追求",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-002",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒態度",
+    "source": "106指考",
+    "stem": "As David finished the last drop of the delicious chicken soup, he licked his lips and gave out sounds of ______.",
+    "options": [
+      "contentment",
+      "dominance",
+      "explosion",
+      "affection"
+    ],
+    "answer": 0,
+    "explain_zh": "David 喝完美味的雞湯後舔嘴唇，並發出「滿足的」聲音，故選 contentment；dominance（支配）、explosion（爆炸）、affection（喜愛）皆與享受美食後的滿足感不合。contentment 常用來描述心滿意足的狀態。",
+    "vocab": [
+      {
+        "w": "contentment",
+        "zh": "滿足",
+        "pos": "n."
+      },
+      {
+        "w": "dominance",
+        "zh": "支配",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-003",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:sports",
+    "tag_zh": "運動競技",
+    "source": "106指考",
+    "stem": "After several rounds of intense fighting, the boxer punched his ______ right in the face, knocked him out, and won the match.",
+    "options": [
+      "performer",
+      "attendant",
+      "opponent",
+      "messenger"
+    ],
+    "answer": 2,
+    "explain_zh": "拳擊手擊倒了場上的「對手」而贏得比賽，故選 opponent；performer（表演者）、attendant（服務人員）、messenger（信差）皆與比賽對戰的語境不合。opponent 是體育競技類常見詞彙。",
+    "vocab": [
+      {
+        "w": "opponent",
+        "zh": "對手",
+        "pos": "n."
+      },
+      {
+        "w": "knock out",
+        "zh": "擊倒",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-004",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "source": "106指考",
+    "stem": "Watch out! The bench has just been painted. You can fan the wet paint if you want to ______ its drying.",
+    "options": [
+      "fasten",
+      "hasten",
+      "lengthen",
+      "strengthen"
+    ],
+    "answer": 1,
+    "explain_zh": "搧風是為了讓濕油漆「加速」變乾，故選 hasten；fasten（繫緊）、lengthen（延長）、strengthen（加強）皆與加速乾燥的語意不合。hasten 常用於表示使某過程加快進行。",
+    "vocab": [
+      {
+        "w": "hasten",
+        "zh": "使加速",
+        "pos": "v."
+      },
+      {
+        "w": "fasten",
+        "zh": "繫緊",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-005",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康身體",
+    "source": "106指考",
+    "stem": "Warm milk ______ sleepiness. So if you have trouble falling asleep, try drinking some warm milk before going to bed.",
+    "options": [
+      "conceals",
+      "recruits",
+      "absorbs",
+      "induces"
+    ],
+    "answer": 3,
+    "explain_zh": "睡前喝溫牛奶有助入睡，表示溫牛奶會「引發」睡意，故選 induces；conceals（隱藏）、recruits（招募）、absorbs（吸收）皆與引發睡意的語意不合。induce sleepiness 是常見的健康類搭配詞。",
+    "vocab": [
+      {
+        "w": "induce",
+        "zh": "引發",
+        "pos": "v."
+      },
+      {
+        "w": "conceal",
+        "zh": "隱藏",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-006",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒態度",
+    "source": "106指考",
+    "stem": "Having worked five years as a data processor in a small town, Alice is tired of the routine of her job and the ______ of her life.",
+    "options": [
+      "disturbance",
+      "salvation",
+      "remainder",
+      "monotony"
+    ],
+    "answer": 3,
+    "explain_zh": "Alice 厭倦了例行工作，也厭倦了生活的「單調」，故選 monotony；disturbance（干擾）、salvation（拯救）、remainder（剩餘部分）皆與生活枯燥乏味的語意不合。monotony 常與 routine（例行公事）搭配出現。",
+    "vocab": [
+      {
+        "w": "monotony",
+        "zh": "單調",
+        "pos": "n."
+      },
+      {
+        "w": "routine",
+        "zh": "例行公事",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-007",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:description",
+    "tag_zh": "描述用語",
+    "source": "106指考",
+    "stem": "Peter has never been on time to meetings or appointments. It would be interesting to look into reasons why he is ______ late.",
+    "options": [
+      "chronically",
+      "hysterically",
+      "simultaneously",
+      "resistantly"
+    ],
+    "answer": 0,
+    "explain_zh": "Peter 從來沒有準時過，暗示他是「長期性」遲到，故選 chronically；hysterically（歇斯底里地）、simultaneously（同時地）、resistantly（抵抗地）皆與描述長期慣性行為的語意不合。chronically late 表示習慣性、長期性遲到。",
+    "vocab": [
+      {
+        "w": "chronically",
+        "zh": "長期性地",
+        "pos": "adv."
+      },
+      {
+        "w": "simultaneously",
+        "zh": "同時地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-008",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "source": "106指考",
+    "stem": "The film Life of Pi won Ang Lee an Oscar in 2013 for Best Director—one of the most ______ awards in the movie industry.",
+    "options": [
+      "populated",
+      "surpassed",
+      "coveted",
+      "rotated"
+    ],
+    "answer": 2,
+    "explain_zh": "奧斯卡最佳導演獎是電影界人人「垂涎渴望」的獎項之一，故選 coveted；populated（人口稠密的）、surpassed（被超越的）、rotated（被輪替的）皆與令人夢寐以求的語意不合。most coveted awards 是常見的固定搭配。",
+    "vocab": [
+      {
+        "w": "coveted",
+        "zh": "令人垂涎的",
+        "pos": "adj."
+      },
+      {
+        "w": "surpass",
+        "zh": "超越",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-009",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "source": "106指考",
+    "stem": "According to environmental scientists, the earth is likely to experience significant ______ changes within the next century.",
+    "options": [
+      "provincial",
+      "ecological",
+      "authentic",
+      "redundant"
+    ],
+    "answer": 1,
+    "explain_zh": "環境科學家談論的變化屬於「生態方面」的變化，故選 ecological；provincial（地方性的）、authentic（真實的）、redundant（多餘的）皆與環境生態的語境不合。ecological changes 是環境類考題常見搭配。",
+    "vocab": [
+      {
+        "w": "ecological",
+        "zh": "生態的",
+        "pos": "adj."
+      },
+      {
+        "w": "provincial",
+        "zh": "地方性的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-010",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康身體",
+    "source": "106指考",
+    "stem": "Traditional Chinese medical practices include ______ remedies, which use plants, plant parts, or a mixture of these to prevent or cure diseases.",
+    "options": [
+      "herbal",
+      "frantic",
+      "magnetic",
+      "descriptive"
+    ],
+    "answer": 0,
+    "explain_zh": "中醫療法包含用植物或其部位防治疾病的「草藥」療法，故選 herbal；frantic（瘋狂的）、magnetic（磁性的）、descriptive（描述性的）皆與植物入藥的語意不合。herbal remedies 是健康類常見固定搭配。",
+    "vocab": [
+      {
+        "w": "herbal",
+        "zh": "草藥的",
+        "pos": "adj."
+      },
+      {
+        "w": "remedy",
+        "zh": "療法",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-011",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "106指考",
+    "passage": "France, home to such major fashion houses as Chanel, Dior, and Yves Saint Laurent, has joined Italy, Spain, and Israel in adopting laws against super-skinny models on catwalks or in ads.\nThe French government has passed a bill that will (11) the use of excessively skinny models. Modeling agencies violating the law can receive a fine of up to US$81,000, with up to six months in jail for staff involved. According to French officials, the measure aims to (12) the glorification of dangerously thin models.\nUnder the approved legislation, models will have to present a medical (13) that proves they are healthy before being allowed to work in the fashion industry. Moreover, they will be (14) regular weight checks. Modeling agencies will have to produce a medical report showing that their models have maintained a (15) body mass-to-height ratio. This bill is expected to change young women's view on the ideal female form.",
+    "group_id": "PX-AST106-G01",
+    "stem": "(11) 應填入：The French government has passed a bill that will ____ the use of excessively skinny models.",
+    "options": [
+      "forecast",
+      "represent",
+      "criminalize",
+      "distinguish"
+    ],
+    "answer": 2,
+    "explain_zh": "法國政府通過法案，將使用過瘦模特兒的行為「定為犯罪」，故選 criminalize；forecast（預測）、represent（代表）、distinguish（區分）皆與立法禁止的語意不合。criminalize 常見於法律新聞類文章，表示將某行為列為刑事罪。",
+    "vocab": [
+      {
+        "w": "criminalize",
+        "zh": "將…定為犯罪",
+        "pos": "v."
+      },
+      {
+        "w": "forecast",
+        "zh": "預測",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-012",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "source": "106指考",
+    "passage": "France, home to such major fashion houses as Chanel, Dior, and Yves Saint Laurent, has joined Italy, Spain, and Israel in adopting laws against super-skinny models on catwalks or in ads.\nThe French government has passed a bill that will (11) the use of excessively skinny models. Modeling agencies violating the law can receive a fine of up to US$81,000, with up to six months in jail for staff involved. According to French officials, the measure aims to (12) the glorification of dangerously thin models.\nUnder the approved legislation, models will have to present a medical (13) that proves they are healthy before being allowed to work in the fashion industry. Moreover, they will be (14) regular weight checks. Modeling agencies will have to produce a medical report showing that their models have maintained a (15) body mass-to-height ratio. This bill is expected to change young women's view on the ideal female form.",
+    "group_id": "PX-AST106-G01",
+    "stem": "(12) 應填入：The measure aims to ____ the glorification of dangerously thin models.",
+    "options": [
+      "put up with",
+      "crack down on",
+      "give in to",
+      "look out for"
+    ],
+    "answer": 1,
+    "explain_zh": "此措施目的是要「取締」過瘦崇拜的風氣，故選 crack down on；put up with（忍受）、give in to（屈服於）、look out for（留意）皆與嚴格取締的語意不合。crack down on 是常見的執法類片語。",
+    "vocab": [
+      {
+        "w": "crack down on",
+        "zh": "嚴厲取締",
+        "pos": "phr."
+      },
+      {
+        "w": "put up with",
+        "zh": "忍受",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-013",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "106指考",
+    "passage": "France, home to such major fashion houses as Chanel, Dior, and Yves Saint Laurent, has joined Italy, Spain, and Israel in adopting laws against super-skinny models on catwalks or in ads.\nThe French government has passed a bill that will (11) the use of excessively skinny models. Modeling agencies violating the law can receive a fine of up to US$81,000, with up to six months in jail for staff involved. According to French officials, the measure aims to (12) the glorification of dangerously thin models.\nUnder the approved legislation, models will have to present a medical (13) that proves they are healthy before being allowed to work in the fashion industry. Moreover, they will be (14) regular weight checks. Modeling agencies will have to produce a medical report showing that their models have maintained a (15) body mass-to-height ratio. This bill is expected to change young women's view on the ideal female form.",
+    "group_id": "PX-AST106-G01",
+    "stem": "(13) 應填入：Models will have to present a medical ____ that proves they are healthy.",
+    "options": [
+      "coverage",
+      "certificate",
+      "operation",
+      "prescription"
+    ],
+    "answer": 1,
+    "explain_zh": "模特兒需出示證明健康的醫療「證明書」，故選 certificate；coverage（保險範圍）、operation（手術,運作）、prescription（處方箋）皆與健康證明的語意不合。medical certificate 是常見的固定搭配。",
+    "vocab": [
+      {
+        "w": "certificate",
+        "zh": "證明書",
+        "pos": "n."
+      },
+      {
+        "w": "prescription",
+        "zh": "處方箋",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-014",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "source": "106指考",
+    "passage": "France, home to such major fashion houses as Chanel, Dior, and Yves Saint Laurent, has joined Italy, Spain, and Israel in adopting laws against super-skinny models on catwalks or in ads.\nThe French government has passed a bill that will (11) the use of excessively skinny models. Modeling agencies violating the law can receive a fine of up to US$81,000, with up to six months in jail for staff involved. According to French officials, the measure aims to (12) the glorification of dangerously thin models.\nUnder the approved legislation, models will have to present a medical (13) that proves they are healthy before being allowed to work in the fashion industry. Moreover, they will be (14) regular weight checks. Modeling agencies will have to produce a medical report showing that their models have maintained a (15) body mass-to-height ratio. This bill is expected to change young women's view on the ideal female form.",
+    "group_id": "PX-AST106-G01",
+    "stem": "(14) 應填入：Moreover, they will be ____ regular weight checks.",
+    "options": [
+      "subject to",
+      "accustomed to",
+      "blessed with",
+      "familiar with"
+    ],
+    "answer": 0,
+    "explain_zh": "be subject to 是固定搭配，表示「須接受」定期體重檢查，故選 subject to；accustomed to（習慣於）、blessed with（有幸擁有）、familiar with（熟悉）皆與被要求接受檢查的語意不合。",
+    "vocab": [
+      {
+        "w": "subject to",
+        "zh": "須接受...的",
+        "pos": "phr."
+      },
+      {
+        "w": "accustomed to",
+        "zh": "習慣於",
+        "pos": "phr."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-015",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "106指考",
+    "passage": "France, home to such major fashion houses as Chanel, Dior, and Yves Saint Laurent, has joined Italy, Spain, and Israel in adopting laws against super-skinny models on catwalks or in ads.\nThe French government has passed a bill that will (11) the use of excessively skinny models. Modeling agencies violating the law can receive a fine of up to US$81,000, with up to six months in jail for staff involved. According to French officials, the measure aims to (12) the glorification of dangerously thin models.\nUnder the approved legislation, models will have to present a medical (13) that proves they are healthy before being allowed to work in the fashion industry. Moreover, they will be (14) regular weight checks. Modeling agencies will have to produce a medical report showing that their models have maintained a (15) body mass-to-height ratio. This bill is expected to change young women's view on the ideal female form.",
+    "group_id": "PX-AST106-G01",
+    "stem": "(15) 應填入：Modeling agencies will have to produce a medical report showing that their models have maintained a ____ body mass-to-height ratio.",
+    "options": [
+      "healthy",
+      "pleasant",
+      "frequent",
+      "distinctive"
+    ],
+    "answer": 0,
+    "explain_zh": "報告須證明模特兒維持「健康」的身高體重比，故選 healthy；pleasant（愉快的）、frequent（頻繁的）、distinctive（獨特的）皆與健康比例的語意不合。healthy body mass-to-height ratio 呼應全文對抗過瘦文化的主旨。",
+    "vocab": [
+      {
+        "w": "healthy",
+        "zh": "健康的",
+        "pos": "adj."
+      },
+      {
+        "w": "ratio",
+        "zh": "比例",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-016",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "106指考",
+    "passage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. (16) of these reactions are possible without enzymes.\nEnzymes consist of various types of proteins that work to drive the chemical reactions (17) for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so (18). This is why enzymes are crucial in the sustenance of life on earth.\nEnzymes, (19), do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a (20) to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
+    "group_id": "PX-AST106-G02",
+    "stem": "(16) 應填入：Imagine the infinite amount of reactions carried out every day. ____ of these reactions are possible without enzymes.",
+    "options": [
+      "Any",
+      "All",
+      "None",
+      "More"
+    ],
+    "answer": 2,
+    "explain_zh": "此句強調沒有酵素，這些反應「一個都不」可能發生，故選 None；Any、All、More 在邏輯上都無法呼應後文強調酵素不可或缺的語氣。None of these reactions are possible 是強烈的全面否定句型。",
+    "vocab": [
+      {
+        "w": "none",
+        "zh": "一個也沒有",
+        "pos": "pron."
+      },
+      {
+        "w": "enzyme",
+        "zh": "酵素",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-017",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "106指考",
+    "passage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. (16) of these reactions are possible without enzymes.\nEnzymes consist of various types of proteins that work to drive the chemical reactions (17) for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so (18). This is why enzymes are crucial in the sustenance of life on earth.\nEnzymes, (19), do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a (20) to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
+    "group_id": "PX-AST106-G02",
+    "stem": "(17) 應填入：Enzymes drive the chemical reactions ____ for certain types of nutrients to take effect.",
+    "options": [
+      "requires",
+      "required",
+      "requiring",
+      "to require"
+    ],
+    "answer": 1,
+    "explain_zh": "reactions（反應）是被「需要」的，過去分詞 required 作形容詞修飾 reactions，故選 required；requires 是限定動詞，不能直接修飾名詞，requiring 帶主動意涵，to require 也不符合文法結構。",
+    "vocab": [
+      {
+        "w": "required",
+        "zh": "被需要的",
+        "pos": "adj."
+      },
+      {
+        "w": "nutrient",
+        "zh": "營養素",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-018",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "source": "106指考",
+    "passage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. (16) of these reactions are possible without enzymes.\nEnzymes consist of various types of proteins that work to drive the chemical reactions (17) for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so (18). This is why enzymes are crucial in the sustenance of life on earth.\nEnzymes, (19), do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a (20) to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
+    "group_id": "PX-AST106-G02",
+    "stem": "(18) 應填入：Reactants may take hundreds of years to convert into a usable product, if they are able to do so ____.",
+    "options": [
+      "at all",
+      "at hand",
+      "at first",
+      "at ease"
+    ],
+    "answer": 0,
+    "explain_zh": "if...at all 是固定用語，強調「究竟能不能發生」的懷疑語氣，故選 at all；at hand（在手邊）、at first（起初）、at ease（自在地）皆不符合這個表達「是否真的可能」的固定片語用法。",
+    "vocab": [
+      {
+        "w": "at all",
+        "zh": "究竟,到底",
+        "pos": "phr."
+      },
+      {
+        "w": "reactant",
+        "zh": "反應物",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-019",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "106指考",
+    "passage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. (16) of these reactions are possible without enzymes.\nEnzymes consist of various types of proteins that work to drive the chemical reactions (17) for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so (18). This is why enzymes are crucial in the sustenance of life on earth.\nEnzymes, (19), do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a (20) to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
+    "group_id": "PX-AST106-G02",
+    "stem": "(19) 應填入：Enzymes, ____, do not always function perfectly.",
+    "options": [
+      "hereafter",
+      "instead",
+      "likewise",
+      "however"
+    ],
+    "answer": 3,
+    "explain_zh": "前文強調酵素對生命至關重要，此句卻轉折說明酵素「並非」總是完美運作，故選 however；hereafter（此後）、instead（取而代之）、likewise（同樣地）皆無法表達這種語意上的轉折。",
+    "vocab": [
+      {
+        "w": "however",
+        "zh": "然而",
+        "pos": "adv."
+      },
+      {
+        "w": "likewise",
+        "zh": "同樣地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-020",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "106指考",
+    "passage": "One factor that separates a living thing from an inanimate object is the organism's ability to carry out chemical reactions that are crucial for its survival. Imagine the infinite amount of reactions that a large organism such as human carries out every single day. (16) of these reactions are possible without enzymes.\nEnzymes consist of various types of proteins that work to drive the chemical reactions (17) for certain types of nutrients to take effect. Enzymes can either launch a reaction or speed it up. In the absence of enzymes, reactants may take hundreds of years to convert into a usable product, if they are able to do so (18). This is why enzymes are crucial in the sustenance of life on earth.\nEnzymes, (19), do not always function perfectly. In 1902 Sir Archibald Garrod was the first to attribute a (20) to an enzyme defect, which he later referred to as an \"inborn error of metabolism.\" Today, newborns are routinely screened for certain enzyme defects such as PKU (phenylketonuria) and galactosemia, an error in the handling of the sugar galactose.",
+    "group_id": "PX-AST106-G02",
+    "stem": "(20) 應填入：Sir Archibald Garrod was the first to attribute a ____ to an enzyme defect.",
+    "options": [
+      "disease",
+      "balance",
+      "measure",
+      "statement"
+    ],
+    "answer": 0,
+    "explain_zh": "Garrod 是第一個將某種「疾病」歸因於酵素缺陷的人，故選 disease；balance（平衡）、measure（措施）、statement（聲明）皆與「先天代謝異常」這種疾病概念的語意不合。",
+    "vocab": [
+      {
+        "w": "disease",
+        "zh": "疾病",
+        "pos": "n."
+      },
+      {
+        "w": "defect",
+        "zh": "缺陷",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-021",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "106指考",
+    "passage": "Often named as the most prominent contemporary female architect, Zaha Hadid, an Iraqi-born British woman, is significant for her intellectual toughness and her refusal to compromise on her artistic ideas. For many years, her designs filled the pages of architecture journals but were dismissed as impractical or too radical. Also, being female in a male-dominated field didn't help her succeed.\nDespite these setbacks, her star began to rise when her design for Cincinnati's new Center for Contemporary Art was selected and built, earning her worldwide acclaim. The New York Times described the building as \"the most important new building in America since the Cold War.\" Once her talent was recognized, commissions started coming in to design a variety of projects, including public transportation, libraries, and opera houses. In 2004, Hadid became the first woman to win the prestigious Pritzker Prize. She also won the Stirling Prize in 2010 and 2011.\nHadid's interest in architecture had roots in a trip her family took to the ancient Sumer region in southern Iraq, the site of one of the world's oldest civilizations, when she was a teenager. She recalled: \"The beauty of the landscape—where sand, water, reeds, birds, buildings, and people all somehow flowed together—has never left me. I'm trying to discover—invent, I suppose—an architecture, and forms of urban planning, that do something of the same thing in a contemporary way.\"\nNature's forms appear as a recurrent source of inspiration for Hadid's architecture. Her designs are daring and visionary experiments with space and with the relationships of buildings to their urban surroundings. She consistently pushes the boundaries of architecture and urban design in the pursuit of a visionary aesthetic that expresses her ideals.",
+    "group_id": "PX-AST106-G03",
+    "stem": "According to the passage, what is a major factor in Hadid's success?",
+    "options": [
+      "Her family support.",
+      "Her ethnic origin.",
+      "Her gender and education.",
+      "Her vision and talent."
+    ],
+    "answer": 3,
+    "explain_zh": "全文從她的作品獲獎、屢屢突破傳統、以及她自陳的建築理念，都在強調其「才華與願景」推動了她的成功，故選 D；文中並未提到家庭支持是她成功的關鍵因素，反而多次強調她身為女性在男性主導領域中遭遇的阻力。",
+    "vocab": [
+      {
+        "w": "intellectual",
+        "zh": "智識上的",
+        "pos": "adj."
+      },
+      {
+        "w": "visionary",
+        "zh": "有遠見的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-022",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "文意猜字",
+    "source": "106指考",
+    "passage": "Often named as the most prominent contemporary female architect, Zaha Hadid, an Iraqi-born British woman, is significant for her intellectual toughness and her refusal to compromise on her artistic ideas. For many years, her designs filled the pages of architecture journals but were dismissed as impractical or too radical. Also, being female in a male-dominated field didn't help her succeed.\nDespite these setbacks, her star began to rise when her design for Cincinnati's new Center for Contemporary Art was selected and built, earning her worldwide acclaim. The New York Times described the building as \"the most important new building in America since the Cold War.\" Once her talent was recognized, commissions started coming in to design a variety of projects, including public transportation, libraries, and opera houses. In 2004, Hadid became the first woman to win the prestigious Pritzker Prize. She also won the Stirling Prize in 2010 and 2011.\nHadid's interest in architecture had roots in a trip her family took to the ancient Sumer region in southern Iraq, the site of one of the world's oldest civilizations, when she was a teenager. She recalled: \"The beauty of the landscape—where sand, water, reeds, birds, buildings, and people all somehow flowed together—has never left me. I'm trying to discover—invent, I suppose—an architecture, and forms of urban planning, that do something of the same thing in a contemporary way.\"\nNature's forms appear as a recurrent source of inspiration for Hadid's architecture. Her designs are daring and visionary experiments with space and with the relationships of buildings to their urban surroundings. She consistently pushes the boundaries of architecture and urban design in the pursuit of a visionary aesthetic that expresses her ideals.",
+    "group_id": "PX-AST106-G03",
+    "stem": "What does the author mean by \"…her star began to rise…\" in the second paragraph?",
+    "options": [
+      "She started to make a fortune.",
+      "She became more recognized.",
+      "Her designs became classical.",
+      "Her ideas started to take shape."
+    ],
+    "answer": 1,
+    "explain_zh": "此句描述她的辛辛那提當代藝術中心設計作品獲選並建成，因而贏得全球讚譽，可知「her star began to rise」是比喻她開始「受到更多肯定」，故選 B；並非指她開始賺大錢或作品變得「經典」，這些都超出原句的字面語意。",
+    "vocab": [
+      {
+        "w": "acclaim",
+        "zh": "讚譽",
+        "pos": "n."
+      },
+      {
+        "w": "recognize",
+        "zh": "認可,肯定",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-023",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "106指考",
+    "passage": "Often named as the most prominent contemporary female architect, Zaha Hadid, an Iraqi-born British woman, is significant for her intellectual toughness and her refusal to compromise on her artistic ideas. For many years, her designs filled the pages of architecture journals but were dismissed as impractical or too radical. Also, being female in a male-dominated field didn't help her succeed.\nDespite these setbacks, her star began to rise when her design for Cincinnati's new Center for Contemporary Art was selected and built, earning her worldwide acclaim. The New York Times described the building as \"the most important new building in America since the Cold War.\" Once her talent was recognized, commissions started coming in to design a variety of projects, including public transportation, libraries, and opera houses. In 2004, Hadid became the first woman to win the prestigious Pritzker Prize. She also won the Stirling Prize in 2010 and 2011.\nHadid's interest in architecture had roots in a trip her family took to the ancient Sumer region in southern Iraq, the site of one of the world's oldest civilizations, when she was a teenager. She recalled: \"The beauty of the landscape—where sand, water, reeds, birds, buildings, and people all somehow flowed together—has never left me. I'm trying to discover—invent, I suppose—an architecture, and forms of urban planning, that do something of the same thing in a contemporary way.\"\nNature's forms appear as a recurrent source of inspiration for Hadid's architecture. Her designs are daring and visionary experiments with space and with the relationships of buildings to their urban surroundings. She consistently pushes the boundaries of architecture and urban design in the pursuit of a visionary aesthetic that expresses her ideals.",
+    "group_id": "PX-AST106-G03",
+    "stem": "What is the third paragraph mainly about?",
+    "options": [
+      "The cultural background of Hadid's family.",
+      "The beautiful landscape of Hadid's hometown.",
+      "A vivid recollection of Hadid's life as a teenager.",
+      "A fundamental source of Hadid's architectural philosophy."
+    ],
+    "answer": 3,
+    "explain_zh": "第三段描述她少年時期造訪伊拉克南部蘇美地區的經驗，成為她建築理念的根本靈感來源，故選 D；此段重點在於揭示其建築哲學的根源，而非單純懷舊回憶少年生活或描寫家鄉地貌本身。",
+    "vocab": [
+      {
+        "w": "recurrent",
+        "zh": "反覆出現的",
+        "pos": "adj."
+      },
+      {
+        "w": "inspiration",
+        "zh": "靈感",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-024",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "106指考",
+    "passage": "Often named as the most prominent contemporary female architect, Zaha Hadid, an Iraqi-born British woman, is significant for her intellectual toughness and her refusal to compromise on her artistic ideas. For many years, her designs filled the pages of architecture journals but were dismissed as impractical or too radical. Also, being female in a male-dominated field didn't help her succeed.\nDespite these setbacks, her star began to rise when her design for Cincinnati's new Center for Contemporary Art was selected and built, earning her worldwide acclaim. The New York Times described the building as \"the most important new building in America since the Cold War.\" Once her talent was recognized, commissions started coming in to design a variety of projects, including public transportation, libraries, and opera houses. In 2004, Hadid became the first woman to win the prestigious Pritzker Prize. She also won the Stirling Prize in 2010 and 2011.\nHadid's interest in architecture had roots in a trip her family took to the ancient Sumer region in southern Iraq, the site of one of the world's oldest civilizations, when she was a teenager. She recalled: \"The beauty of the landscape—where sand, water, reeds, birds, buildings, and people all somehow flowed together—has never left me. I'm trying to discover—invent, I suppose—an architecture, and forms of urban planning, that do something of the same thing in a contemporary way.\"\nNature's forms appear as a recurrent source of inspiration for Hadid's architecture. Her designs are daring and visionary experiments with space and with the relationships of buildings to their urban surroundings. She consistently pushes the boundaries of architecture and urban design in the pursuit of a visionary aesthetic that expresses her ideals.",
+    "group_id": "PX-AST106-G03",
+    "stem": "According to the passage, which of the following is true about Hadid's career in architecture?",
+    "options": [
+      "She built the first Center for Contemporary Art in New York.",
+      "Her architecture projects mainly involve museums in urban areas.",
+      "Her works can be characterized as boldly contemporary and innovative.",
+      "Her early designs were often rejected because of her political background."
+    ],
+    "answer": 2,
+    "explain_zh": "末段指出她的設計是大膽前衛、勇於在空間與都市關係上實驗創新的作品，故選 C；辛辛那提當代藝術中心並非蓋在紐約，A 錯誤；文中也未提及她的早期設計因政治背景而遭拒，是因為被認為「不切實際或太激進」。",
+    "vocab": [
+      {
+        "w": "daring",
+        "zh": "大膽的",
+        "pos": "adj."
+      },
+      {
+        "w": "boundary",
+        "zh": "界線",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-025",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "106指考",
+    "passage": "Todd Bol, a retired businessman, could never have expected that a wooden container he built on his deck one day in 2009 would have the global impact it does today.\nBol built a dollhouse-size structure that looked like a schoolhouse on a post, and he put it on his lawn as a free community library to commemorate his mother, who was a book lover and school teacher. Bol's prototype gave birth to Little Free Library (LFL), a nonprofit organization that seeks to place small, accessible book exchange boxes in neighborhoods around the world. The concept is simple: Neighbors are invited to share a book, leave a book, or both. Today, there are over 50,000 of these libraries registered in 70 countries.\nAlmost everyone can register with LFL and start a library as long as the person keeps it in good shape and makes sure that book materials are appropriate for his/her neighborhood. Library owners can create their own library boxes; therefore, the libraries are usually unique in appearance, and there seems to be no limit to the possibilities. One library in California was built out of a used wine crate; another in Texas had tiny stairs and bright colored walls. Once registered, libraries are assigned a number at LFL's website. The LFL Index lists the locations of all libraries with GPS coordinates and other information. Owners receive a sign that reads \"Little Free Library.\"\nPeople say they have been more inclined to pick up a book when walking by a Little Free Library, out of curiosity and because it's convenient. Some sidewalk librarians say they have met more neighbors since having a little library in their front yard. Bol is also most proud of the way Little Free Library is bringing communities together. \"It's started a neighborhood exchange. It gets people talking and more comfortable with their neighbors,\" he says. \"This leads to them helping each other.\"",
+    "group_id": "PX-AST106-G04",
+    "stem": "Which of the following statements is NOT mentioned about Todd Bol?",
+    "options": [
+      "His mother used to be a school teacher.",
+      "He was engaged in trade and commerce.",
+      "He provided a great service to his neighborhood.",
+      "He built a schoolhouse to pay tribute to his mother."
+    ],
+    "answer": 3,
+    "explain_zh": "文中提到 Bol 造的是一座「外觀像校舍」的娃娃屋大小建物，用來紀念曾任教師的母親，並非真正蓋了一座校舍，故 D 的敘述不準確；他的母親曾任教師(A)、他曾經商(B)、以及他為社區帶來的貢獻(C)則都有在文中被提及。",
+    "vocab": [
+      {
+        "w": "commemorate",
+        "zh": "紀念",
+        "pos": "v."
+      },
+      {
+        "w": "retired",
+        "zh": "退休的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-026",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "代名詞指涉",
+    "source": "106指考",
+    "passage": "Todd Bol, a retired businessman, could never have expected that a wooden container he built on his deck one day in 2009 would have the global impact it does today.\nBol built a dollhouse-size structure that looked like a schoolhouse on a post, and he put it on his lawn as a free community library to commemorate his mother, who was a book lover and school teacher. Bol's prototype gave birth to Little Free Library (LFL), a nonprofit organization that seeks to place small, accessible book exchange boxes in neighborhoods around the world. The concept is simple: Neighbors are invited to share a book, leave a book, or both. Today, there are over 50,000 of these libraries registered in 70 countries.\nAlmost everyone can register with LFL and start a library as long as the person keeps it in good shape and makes sure that book materials are appropriate for his/her neighborhood. Library owners can create their own library boxes; therefore, the libraries are usually unique in appearance, and there seems to be no limit to the possibilities. One library in California was built out of a used wine crate; another in Texas had tiny stairs and bright colored walls. Once registered, libraries are assigned a number at LFL's website. The LFL Index lists the locations of all libraries with GPS coordinates and other information. Owners receive a sign that reads \"Little Free Library.\"\nPeople say they have been more inclined to pick up a book when walking by a Little Free Library, out of curiosity and because it's convenient. Some sidewalk librarians say they have met more neighbors since having a little library in their front yard. Bol is also most proud of the way Little Free Library is bringing communities together. \"It's started a neighborhood exchange. It gets people talking and more comfortable with their neighbors,\" he says. \"This leads to them helping each other.\"",
+    "group_id": "PX-AST106-G04",
+    "stem": "What does \"prototype\" refer to in the second paragraph?",
+    "options": [
+      "A community center.",
+      "A book exchange box.",
+      "A dollhouse on a post.",
+      "A nonprofit organization."
+    ],
+    "answer": 1,
+    "explain_zh": "prototype 指 Bol 最初打造的那個書箱原型，後來發展成 Little Free Library 這種「書籍交換箱」的概念，故選 B；並非指社區中心、娃娃屋本身，或是非營利組織這個機構名稱。",
+    "vocab": [
+      {
+        "w": "prototype",
+        "zh": "原型",
+        "pos": "n."
+      },
+      {
+        "w": "exchange",
+        "zh": "交換",
+        "pos": "n./v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-027",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "106指考",
+    "passage": "Todd Bol, a retired businessman, could never have expected that a wooden container he built on his deck one day in 2009 would have the global impact it does today.\nBol built a dollhouse-size structure that looked like a schoolhouse on a post, and he put it on his lawn as a free community library to commemorate his mother, who was a book lover and school teacher. Bol's prototype gave birth to Little Free Library (LFL), a nonprofit organization that seeks to place small, accessible book exchange boxes in neighborhoods around the world. The concept is simple: Neighbors are invited to share a book, leave a book, or both. Today, there are over 50,000 of these libraries registered in 70 countries.\nAlmost everyone can register with LFL and start a library as long as the person keeps it in good shape and makes sure that book materials are appropriate for his/her neighborhood. Library owners can create their own library boxes; therefore, the libraries are usually unique in appearance, and there seems to be no limit to the possibilities. One library in California was built out of a used wine crate; another in Texas had tiny stairs and bright colored walls. Once registered, libraries are assigned a number at LFL's website. The LFL Index lists the locations of all libraries with GPS coordinates and other information. Owners receive a sign that reads \"Little Free Library.\"\nPeople say they have been more inclined to pick up a book when walking by a Little Free Library, out of curiosity and because it's convenient. Some sidewalk librarians say they have met more neighbors since having a little library in their front yard. Bol is also most proud of the way Little Free Library is bringing communities together. \"It's started a neighborhood exchange. It gets people talking and more comfortable with their neighbors,\" he says. \"This leads to them helping each other.\"",
+    "group_id": "PX-AST106-G04",
+    "stem": "Which of the following is true about the operation of a Little Free Library?",
+    "options": [
+      "The library can come in any shape and color.",
+      "There is no limit to the selection of its materials.",
+      "The owner must first be assigned a number from the LFL website.",
+      "The librarian is in charge of checking the books in and out of the library."
+    ],
+    "answer": 0,
+    "explain_zh": "文中說明書箱擁有者可自行打造專屬的書箱外觀（create their own library boxes），因此箱體造型「沒有限制的可能性」（no limit to the possibilities），例如有人用舊酒箱、有人做成彩色小樓梯，符合 A「造型與顏色不受限」；書籍內容其實須符合當地社區（appropriate for his/her neighborhood），並非「材質選擇沒有限制」，故 B 錯誤；C、D 文中皆未提及。",
+    "vocab": [
+      {
+        "w": "register",
+        "zh": "登記",
+        "pos": "v."
+      },
+      {
+        "w": "appropriate",
+        "zh": "合適的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-028",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "106指考",
+    "passage": "Todd Bol, a retired businessman, could never have expected that a wooden container he built on his deck one day in 2009 would have the global impact it does today.\nBol built a dollhouse-size structure that looked like a schoolhouse on a post, and he put it on his lawn as a free community library to commemorate his mother, who was a book lover and school teacher. Bol's prototype gave birth to Little Free Library (LFL), a nonprofit organization that seeks to place small, accessible book exchange boxes in neighborhoods around the world. The concept is simple: Neighbors are invited to share a book, leave a book, or both. Today, there are over 50,000 of these libraries registered in 70 countries.\nAlmost everyone can register with LFL and start a library as long as the person keeps it in good shape and makes sure that book materials are appropriate for his/her neighborhood. Library owners can create their own library boxes; therefore, the libraries are usually unique in appearance, and there seems to be no limit to the possibilities. One library in California was built out of a used wine crate; another in Texas had tiny stairs and bright colored walls. Once registered, libraries are assigned a number at LFL's website. The LFL Index lists the locations of all libraries with GPS coordinates and other information. Owners receive a sign that reads \"Little Free Library.\"\nPeople say they have been more inclined to pick up a book when walking by a Little Free Library, out of curiosity and because it's convenient. Some sidewalk librarians say they have met more neighbors since having a little library in their front yard. Bol is also most proud of the way Little Free Library is bringing communities together. \"It's started a neighborhood exchange. It gets people talking and more comfortable with their neighbors,\" he says. \"This leads to them helping each other.\"",
+    "group_id": "PX-AST106-G04",
+    "stem": "What is a contribution of Little Free Library?",
+    "options": [
+      "The LFL Index can improve GPS functions.",
+      "It promotes reading and literacy in a simple way.",
+      "It helps to strengthen library associations around the world.",
+      "Its location satisfies people's curiosity about their neighbors."
+    ],
+    "answer": 1,
+    "explain_zh": "文末提到路過的人更願意順手拿起書來讀，Little Free Library 以簡單的方式促進了社區閱讀風氣，故選 B；GPS索引只是登記管理功能，並非其對社會的實質貢獻，A 的敘述搞錯重點。",
+    "vocab": [
+      {
+        "w": "literacy",
+        "zh": "讀寫能力,識字率",
+        "pos": "n."
+      },
+      {
+        "w": "contribution",
+        "zh": "貢獻",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-029",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "106指考",
+    "passage": "The term \"forensic linguistics,\" in its broadest sense, covers all areas of study where language and law intersect. A famous example of its application is the case of Chris Coleman, who was suspected of killing his family in 2009. Robert Leonard, the head of the forensic linguistics program at Hofstra University, presented some important linguistic evidence in the trial against Coleman. Relying heavily on word choice and spelling, Leonard suggested that the same person had written the threatening e-mails and sprayed the graffiti, and that those samples bore similarities to Coleman's writing style. Coleman was later found guilty of the murder.\nRobert Leonard was not the first one who resorted to linguistic evidence in criminal investigation. The field of forensic linguistics was brought to prominence by his colleague James Fitzgerald in 1996 with his work in the case of the Unabomber, who had sent a series of letter bombs to college professors over several years, causing serious casualties. Working for the FBI, Fitzgerald urged the publication of the Unabomber's letter—a lengthy declaration of the criminal's philosophy.\nAfter the letter was published, many people called the FBI to say they recognized the writing style. By analyzing sentence structure, word choice, and other linguistic patterns, Fitzgerald narrowed down the range of possible authors and finally linked the letter to the writings of Ted Kaczynski, a solitary former mathematician. For instance, Kaczynski tended to use extensive parallel phrases, which were frequently found in the bomber's letter. Both Kaczynski and the bomber also showed a preference for dozens of unusual words, such as \"chimerical\" and \"anomic.\" The bomber's use of the terms \"broad\" for women and \"negro\" for African Americans also enabled Fitzgerald to roughly calculate the suspect's age. The linguistic evidence was strong enough for the judge to search Kaczynski's isolated cabin in Montana; what was found there put him in prison for life.\nOn some level, finding hidden meanings from linguistic evidence is what we all do intuitively in our daily language interaction. This is exactly the same work forensic professionals do. As one forensic-linguistics firm, Testipro, puts it in its online promotional ad, the field can be regarded as \"the basis of the entire legal system.\"",
+    "group_id": "PX-AST106-G05",
+    "stem": "What is the main idea of the passage?",
+    "options": [
+      "Robert Leonard has provided linguistic evidence in court cases.",
+      "The FBI relies mainly on language experts to solve its crime cases.",
+      "Studying texts can provide critical evidence in criminal investigations.",
+      "Finding hidden meanings in language use is important for daily interactions."
+    ],
+    "answer": 2,
+    "explain_zh": "全文以 Coleman 命案與 Unabomber 案兩個實例，說明語言分析(forensic linguistics)如何在刑事偵查中提供關鍵證據，故選 C；A 只提到 Robert Leonard 一人的貢獻，範圍過於狹隘，未能涵蓋全文兩個案例的重點。",
+    "vocab": [
+      {
+        "w": "forensic",
+        "zh": "鑑識的,法庭的",
+        "pos": "adj."
+      },
+      {
+        "w": "evidence",
+        "zh": "證據",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-030",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "106指考",
+    "passage": "The term \"forensic linguistics,\" in its broadest sense, covers all areas of study where language and law intersect. A famous example of its application is the case of Chris Coleman, who was suspected of killing his family in 2009. Robert Leonard, the head of the forensic linguistics program at Hofstra University, presented some important linguistic evidence in the trial against Coleman. Relying heavily on word choice and spelling, Leonard suggested that the same person had written the threatening e-mails and sprayed the graffiti, and that those samples bore similarities to Coleman's writing style. Coleman was later found guilty of the murder.\nRobert Leonard was not the first one who resorted to linguistic evidence in criminal investigation. The field of forensic linguistics was brought to prominence by his colleague James Fitzgerald in 1996 with his work in the case of the Unabomber, who had sent a series of letter bombs to college professors over several years, causing serious casualties. Working for the FBI, Fitzgerald urged the publication of the Unabomber's letter—a lengthy declaration of the criminal's philosophy.\nAfter the letter was published, many people called the FBI to say they recognized the writing style. By analyzing sentence structure, word choice, and other linguistic patterns, Fitzgerald narrowed down the range of possible authors and finally linked the letter to the writings of Ted Kaczynski, a solitary former mathematician. For instance, Kaczynski tended to use extensive parallel phrases, which were frequently found in the bomber's letter. Both Kaczynski and the bomber also showed a preference for dozens of unusual words, such as \"chimerical\" and \"anomic.\" The bomber's use of the terms \"broad\" for women and \"negro\" for African Americans also enabled Fitzgerald to roughly calculate the suspect's age. The linguistic evidence was strong enough for the judge to search Kaczynski's isolated cabin in Montana; what was found there put him in prison for life.\nOn some level, finding hidden meanings from linguistic evidence is what we all do intuitively in our daily language interaction. This is exactly the same work forensic professionals do. As one forensic-linguistics firm, Testipro, puts it in its online promotional ad, the field can be regarded as \"the basis of the entire legal system.\"",
+    "group_id": "PX-AST106-G05",
+    "stem": "Which of the following is true about the Unabomber?",
+    "options": [
+      "He didn't like to be called negro.",
+      "He was good at analyzing the use of language.",
+      "He declared his philosophy in a written statement.",
+      "He was a professor of mathematics living on Hofstra campus."
+    ],
+    "answer": 2,
+    "explain_zh": "第二段提到 Unabomber 寄出的信是一份闡述其思想的「長篇聲明」(lengthy declaration of the criminal's philosophy)，故選 C；他其實是一位前數學家、獨居於蒙大拿州偏遠小屋，並非住在Hofstra大學校園任教，D 錯誤。",
+    "vocab": [
+      {
+        "w": "declaration",
+        "zh": "聲明,宣言",
+        "pos": "n."
+      },
+      {
+        "w": "casualty",
+        "zh": "傷亡",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-031",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "106指考",
+    "passage": "The term \"forensic linguistics,\" in its broadest sense, covers all areas of study where language and law intersect. A famous example of its application is the case of Chris Coleman, who was suspected of killing his family in 2009. Robert Leonard, the head of the forensic linguistics program at Hofstra University, presented some important linguistic evidence in the trial against Coleman. Relying heavily on word choice and spelling, Leonard suggested that the same person had written the threatening e-mails and sprayed the graffiti, and that those samples bore similarities to Coleman's writing style. Coleman was later found guilty of the murder.\nRobert Leonard was not the first one who resorted to linguistic evidence in criminal investigation. The field of forensic linguistics was brought to prominence by his colleague James Fitzgerald in 1996 with his work in the case of the Unabomber, who had sent a series of letter bombs to college professors over several years, causing serious casualties. Working for the FBI, Fitzgerald urged the publication of the Unabomber's letter—a lengthy declaration of the criminal's philosophy.\nAfter the letter was published, many people called the FBI to say they recognized the writing style. By analyzing sentence structure, word choice, and other linguistic patterns, Fitzgerald narrowed down the range of possible authors and finally linked the letter to the writings of Ted Kaczynski, a solitary former mathematician. For instance, Kaczynski tended to use extensive parallel phrases, which were frequently found in the bomber's letter. Both Kaczynski and the bomber also showed a preference for dozens of unusual words, such as \"chimerical\" and \"anomic.\" The bomber's use of the terms \"broad\" for women and \"negro\" for African Americans also enabled Fitzgerald to roughly calculate the suspect's age. The linguistic evidence was strong enough for the judge to search Kaczynski's isolated cabin in Montana; what was found there put him in prison for life.\nOn some level, finding hidden meanings from linguistic evidence is what we all do intuitively in our daily language interaction. This is exactly the same work forensic professionals do. As one forensic-linguistics firm, Testipro, puts it in its online promotional ad, the field can be regarded as \"the basis of the entire legal system.\"",
+    "group_id": "PX-AST106-G05",
+    "stem": "What type of language feature is NOT mentioned in the passage?",
+    "options": [
+      "Sound pattern.",
+      "Spelling of words.",
+      "Selection of words.",
+      "Grammatical pattern."
+    ],
+    "answer": 0,
+    "explain_zh": "文中提到分析拼字(spelling)、用詞(word choice)、句構(sentence structure)等語言特徵，卻始終沒有提到「聲音特徵」，故選 A；因為書面語言分析本來就無法涉及聲音，這點也是判斷本題的重要邏輯線索。",
+    "vocab": [
+      {
+        "w": "sound pattern",
+        "zh": "聲音特徵",
+        "pos": "n."
+      },
+      {
+        "w": "spelling",
+        "zh": "拼字",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-032",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "106指考",
+    "passage": "The term \"forensic linguistics,\" in its broadest sense, covers all areas of study where language and law intersect. A famous example of its application is the case of Chris Coleman, who was suspected of killing his family in 2009. Robert Leonard, the head of the forensic linguistics program at Hofstra University, presented some important linguistic evidence in the trial against Coleman. Relying heavily on word choice and spelling, Leonard suggested that the same person had written the threatening e-mails and sprayed the graffiti, and that those samples bore similarities to Coleman's writing style. Coleman was later found guilty of the murder.\nRobert Leonard was not the first one who resorted to linguistic evidence in criminal investigation. The field of forensic linguistics was brought to prominence by his colleague James Fitzgerald in 1996 with his work in the case of the Unabomber, who had sent a series of letter bombs to college professors over several years, causing serious casualties. Working for the FBI, Fitzgerald urged the publication of the Unabomber's letter—a lengthy declaration of the criminal's philosophy.\nAfter the letter was published, many people called the FBI to say they recognized the writing style. By analyzing sentence structure, word choice, and other linguistic patterns, Fitzgerald narrowed down the range of possible authors and finally linked the letter to the writings of Ted Kaczynski, a solitary former mathematician. For instance, Kaczynski tended to use extensive parallel phrases, which were frequently found in the bomber's letter. Both Kaczynski and the bomber also showed a preference for dozens of unusual words, such as \"chimerical\" and \"anomic.\" The bomber's use of the terms \"broad\" for women and \"negro\" for African Americans also enabled Fitzgerald to roughly calculate the suspect's age. The linguistic evidence was strong enough for the judge to search Kaczynski's isolated cabin in Montana; what was found there put him in prison for life.\nOn some level, finding hidden meanings from linguistic evidence is what we all do intuitively in our daily language interaction. This is exactly the same work forensic professionals do. As one forensic-linguistics firm, Testipro, puts it in its online promotional ad, the field can be regarded as \"the basis of the entire legal system.\"",
+    "group_id": "PX-AST106-G05",
+    "stem": "What can be inferred from the passage?",
+    "options": [
+      "Meaning can be distorted in the process of writing.",
+      "Some features in language use are shared by everyone.",
+      "Crimes are usually committed by people who are highly educated.",
+      "People tend to stick to certain habitual patterns in their use of language."
+    ],
+    "answer": 3,
+    "explain_zh": "兩起案件都是靠比對嫌犯慣用的字詞、句型與寫作風格才鎖定真兇，顯示每個人在語言使用上存在穩定不變的「習慣模式」，故選 D；文中並未指出犯罪者通常學歷很高，也沒提到書寫過程會扭曲原意。",
+    "vocab": [
+      {
+        "w": "habitual",
+        "zh": "習慣性的",
+        "pos": "adj."
+      },
+      {
+        "w": "pattern",
+        "zh": "模式",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-033",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "106指考",
+    "passage": "During the past three hundred years, when a country gains its freedom or independence, one of the first things established is a national anthem. National anthems are generally played and sung at formal state occasions and other events which celebrate or support the country's national identity.\nHolland's 16th-century hymn \"Het Wilhelmus\" is widely considered the world's oldest national anthem, followed by the U.K.'s \"God Save the King/Queen\"—also a hymn, popularized in the 1740s. As nationalism spread throughout Europe in the 18th and 19th centuries, so did anthems. Many countries, such as the independent states that are today part of Germany, took \"God Save the King/Queen\" as a model and adopted hymns (songs of prayer typically addressed to a deity or VIP). Others, notably Spain and France, chose marches (songs with a strong, regular rhythm often performed by military bands)—which expressed a martial rather than monarchic spirit. With imperialism, Europeans spread their musical taste. Even when former colonies gained independence, they often imitated the traditions of their former rulers. The result is that most anthems are either hymns or marches, played on European instruments.\nJapan's anthem makes for a good case study of European influence. In the 1860s a British bandmaster living in Japan, John William Fenton, noted that the country did not have a national anthem. A local military officer, Ōyama Iwao, selected the lyrics from a Heian era poem and Fenton wrote the melody. About a decade later, a Japanese committee chose a replacement melody by a court musician—one that had been composed for traditional Japanese instruments, but in a mixed style influenced by Fenton's arrangement. The version in use today was also altered by German Franz Eckert to fit a Western scale.\nIn addition to hymns and marches, British composer Michael Bristow identifies a couple of more minor categories. National anthems in South and Central America are often operatic, with long, elaborate orchestral introductions. These were influenced by 19th-century Italian opera. Burma and Sri Lanka are both in a folk group, as they rely more on indigenous instruments.",
+    "group_id": "PX-AST106-G06",
+    "stem": "Which of the following is NOT mentioned as a basis to compose national anthems?",
+    "options": [
+      "Prayer songs.",
+      "Marching songs.",
+      "Italian opera music.",
+      "Movie theme music."
+    ],
+    "answer": 3,
+    "explain_zh": "文中提到國歌的曲風基礎包括聖歌(prayer songs)、進行曲(marching songs)、以及深受19世紀義大利歌劇影響的歌劇風格，唯獨沒有提到「電影配樂」，故選 D。",
+    "vocab": [
+      {
+        "w": "hymn",
+        "zh": "聖歌",
+        "pos": "n."
+      },
+      {
+        "w": "march",
+        "zh": "進行曲",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-034",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "106指考",
+    "passage": "During the past three hundred years, when a country gains its freedom or independence, one of the first things established is a national anthem. National anthems are generally played and sung at formal state occasions and other events which celebrate or support the country's national identity.\nHolland's 16th-century hymn \"Het Wilhelmus\" is widely considered the world's oldest national anthem, followed by the U.K.'s \"God Save the King/Queen\"—also a hymn, popularized in the 1740s. As nationalism spread throughout Europe in the 18th and 19th centuries, so did anthems. Many countries, such as the independent states that are today part of Germany, took \"God Save the King/Queen\" as a model and adopted hymns (songs of prayer typically addressed to a deity or VIP). Others, notably Spain and France, chose marches (songs with a strong, regular rhythm often performed by military bands)—which expressed a martial rather than monarchic spirit. With imperialism, Europeans spread their musical taste. Even when former colonies gained independence, they often imitated the traditions of their former rulers. The result is that most anthems are either hymns or marches, played on European instruments.\nJapan's anthem makes for a good case study of European influence. In the 1860s a British bandmaster living in Japan, John William Fenton, noted that the country did not have a national anthem. A local military officer, Ōyama Iwao, selected the lyrics from a Heian era poem and Fenton wrote the melody. About a decade later, a Japanese committee chose a replacement melody by a court musician—one that had been composed for traditional Japanese instruments, but in a mixed style influenced by Fenton's arrangement. The version in use today was also altered by German Franz Eckert to fit a Western scale.\nIn addition to hymns and marches, British composer Michael Bristow identifies a couple of more minor categories. National anthems in South and Central America are often operatic, with long, elaborate orchestral introductions. These were influenced by 19th-century Italian opera. Burma and Sri Lanka are both in a folk group, as they rely more on indigenous instruments.",
+    "group_id": "PX-AST106-G06",
+    "stem": "What is the second paragraph mainly about?",
+    "options": [
+      "The function of national anthems.",
+      "The world's oldest national anthem.",
+      "The origin and spread of national anthems.",
+      "Reasons why many countries have national anthems."
+    ],
+    "answer": 2,
+    "explain_zh": "第二段敘述荷蘭最古老的國歌「Het Wilhelmus」，以及國歌隨18、19世紀民族主義在歐洲擴散的過程，主題是國歌的「起源與傳播」，故選 C；並非泛論國歌的功能或列舉各國擁有國歌的原因。",
+    "vocab": [
+      {
+        "w": "nationalism",
+        "zh": "民族主義",
+        "pos": "n."
+      },
+      {
+        "w": "anthem",
+        "zh": "國歌,頌歌",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-035",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "106指考",
+    "passage": "During the past three hundred years, when a country gains its freedom or independence, one of the first things established is a national anthem. National anthems are generally played and sung at formal state occasions and other events which celebrate or support the country's national identity.\nHolland's 16th-century hymn \"Het Wilhelmus\" is widely considered the world's oldest national anthem, followed by the U.K.'s \"God Save the King/Queen\"—also a hymn, popularized in the 1740s. As nationalism spread throughout Europe in the 18th and 19th centuries, so did anthems. Many countries, such as the independent states that are today part of Germany, took \"God Save the King/Queen\" as a model and adopted hymns (songs of prayer typically addressed to a deity or VIP). Others, notably Spain and France, chose marches (songs with a strong, regular rhythm often performed by military bands)—which expressed a martial rather than monarchic spirit. With imperialism, Europeans spread their musical taste. Even when former colonies gained independence, they often imitated the traditions of their former rulers. The result is that most anthems are either hymns or marches, played on European instruments.\nJapan's anthem makes for a good case study of European influence. In the 1860s a British bandmaster living in Japan, John William Fenton, noted that the country did not have a national anthem. A local military officer, Ōyama Iwao, selected the lyrics from a Heian era poem and Fenton wrote the melody. About a decade later, a Japanese committee chose a replacement melody by a court musician—one that had been composed for traditional Japanese instruments, but in a mixed style influenced by Fenton's arrangement. The version in use today was also altered by German Franz Eckert to fit a Western scale.\nIn addition to hymns and marches, British composer Michael Bristow identifies a couple of more minor categories. National anthems in South and Central America are often operatic, with long, elaborate orchestral introductions. These were influenced by 19th-century Italian opera. Burma and Sri Lanka are both in a folk group, as they rely more on indigenous instruments.",
+    "group_id": "PX-AST106-G06",
+    "stem": "Which of the following is true regarding Japan's national anthem?",
+    "options": [
+      "It was not written until the 20th century.",
+      "The lyrics was written by a Japanese officer.",
+      "The melody was first composed by a British musician.",
+      "The current version is barely influenced by western music."
+    ],
+    "answer": 2,
+    "explain_zh": "第三段提到日本國歌最初的旋律是由英籍樂隊指揮 Fenton 譜寫，故選 C；日本國歌早在19世紀（1860年代之後不久）便已制定，並非直到20世紀才寫成，A 錯誤，歌詞則是由日本軍官選自平安時代詩作，並非該軍官原創，B 亦不準確。",
+    "vocab": [
+      {
+        "w": "melody",
+        "zh": "旋律",
+        "pos": "n."
+      },
+      {
+        "w": "alter",
+        "zh": "更改",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST106-036",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "106指考",
+    "passage": "During the past three hundred years, when a country gains its freedom or independence, one of the first things established is a national anthem. National anthems are generally played and sung at formal state occasions and other events which celebrate or support the country's national identity.\nHolland's 16th-century hymn \"Het Wilhelmus\" is widely considered the world's oldest national anthem, followed by the U.K.'s \"God Save the King/Queen\"—also a hymn, popularized in the 1740s. As nationalism spread throughout Europe in the 18th and 19th centuries, so did anthems. Many countries, such as the independent states that are today part of Germany, took \"God Save the King/Queen\" as a model and adopted hymns (songs of prayer typically addressed to a deity or VIP). Others, notably Spain and France, chose marches (songs with a strong, regular rhythm often performed by military bands)—which expressed a martial rather than monarchic spirit. With imperialism, Europeans spread their musical taste. Even when former colonies gained independence, they often imitated the traditions of their former rulers. The result is that most anthems are either hymns or marches, played on European instruments.\nJapan's anthem makes for a good case study of European influence. In the 1860s a British bandmaster living in Japan, John William Fenton, noted that the country did not have a national anthem. A local military officer, Ōyama Iwao, selected the lyrics from a Heian era poem and Fenton wrote the melody. About a decade later, a Japanese committee chose a replacement melody by a court musician—one that had been composed for traditional Japanese instruments, but in a mixed style influenced by Fenton's arrangement. The version in use today was also altered by German Franz Eckert to fit a Western scale.\nIn addition to hymns and marches, British composer Michael Bristow identifies a couple of more minor categories. National anthems in South and Central America are often operatic, with long, elaborate orchestral introductions. These were influenced by 19th-century Italian opera. Burma and Sri Lanka are both in a folk group, as they rely more on indigenous instruments.",
+    "group_id": "PX-AST106-G06",
+    "stem": "What can be inferred about the influence of European imperialism on national anthems?",
+    "options": [
+      "Human rights are a common theme in national anthems.",
+      "National anthems of some countries share similar musical features.",
+      "Many national anthems were chosen by ruling European countries.",
+      "Local traditions were excluded in the composition of national anthems."
+    ],
+    "answer": 1,
+    "explain_zh": "文中說明許多前殖民地即使獨立後，仍沿襲歐洲統治者的聖歌或進行曲曲風，導致許多國家的國歌在音樂特徵上相似，故選 B；文章並未提及國歌普遍以人權為主題，也沒有說地方傳統完全被排除在國歌創作之外。",
+    "vocab": [
+      {
+        "w": "imperialism",
+        "zh": "帝國主義",
+        "pos": "n."
+      },
+      {
+        "w": "imitate",
+        "zh": "模仿",
+        "pos": "v."
+      }
+    ]
+  }
+]

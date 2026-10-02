@@ -1,0 +1,1134 @@
+[
+  {
+    "id": "PX-AST103-001",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:social-behavior",
+    "tag_zh": "社交態度",
+    "source": "103指考",
+    "stem": "When dining at a restaurant, we need to be ______ of other customers and keep our conversations at an appropriate noise level.",
+    "options": [
+      "peculiar",
+      "defensive",
+      "noticeable",
+      "considerate"
+    ],
+    "answer": 3,
+    "explain_zh": "在餐廳用餐時應考量鄰座感受、壓低音量，符合 considerate（體貼的）的語意；peculiar（古怪的）、defensive（防衛性的）、noticeable（顯眼的）皆與語境不合。記憶時可聯想 consider（考量）＋ate，體貼別人的感受。",
+    "vocab": [
+      {
+        "w": "considerate",
+        "zh": "體貼的",
+        "pos": "adj."
+      },
+      {
+        "w": "peculiar",
+        "zh": "古怪的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-002",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒態度",
+    "source": "103指考",
+    "stem": "John shows ______ towards his classmates. He doesn't take part in any of the class activities and doesn't even bother talking to other students in his class.",
+    "options": [
+      "indifference",
+      "sympathy",
+      "ambiguity",
+      "desperation"
+    ],
+    "answer": 0,
+    "explain_zh": "題目描述 John 不參與班級活動、也不理睬同學，符合 indifference（冷漠）的語意；sympathy（同情）、ambiguity（模稜兩可）、desperation（絕望）皆不符合上下文。indifference 常與人際疏離的情境連用，是記憶重點。",
+    "vocab": [
+      {
+        "w": "indifference",
+        "zh": "冷漠",
+        "pos": "n."
+      },
+      {
+        "w": "sympathy",
+        "zh": "同情",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-003",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:description",
+    "tag_zh": "描述用語",
+    "source": "103指考",
+    "stem": "To meet the unique needs of the elderly, the company designed a cell phone ______ for seniors, which has big buttons and large color displays.",
+    "options": [
+      "necessarily",
+      "relatively",
+      "specifically",
+      "voluntarily"
+    ],
+    "answer": 2,
+    "explain_zh": "手機是「專門」為長者設計，故選 specifically（專門地）；necessarily（必然地）、relatively（相對地）、voluntarily（自願地）在語意上都不通順。design...specifically for＋對象是常見搭配，可整組記憶。",
+    "vocab": [
+      {
+        "w": "specifically",
+        "zh": "專門地",
+        "pos": "adv."
+      },
+      {
+        "w": "necessarily",
+        "zh": "必然地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-004",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:academic-verbs",
+    "tag_zh": "學術動詞",
+    "source": "103指考",
+    "stem": "A well-constructed building has a better chance of ______ natural disasters such as typhoons, tornadoes, and earthquakes.",
+    "options": [
+      "undertaking",
+      "conceiving",
+      "executing",
+      "withstanding"
+    ],
+    "answer": 3,
+    "explain_zh": "建築物能「抵擋」颱風、龍捲風、地震等天災，故選 withstanding（抵擋）；undertaking（承接）、conceiving（構想）、executing（執行）語意皆不合。withstand 常與 natural disasters 等搭配，表示「撐過、承受住」。",
+    "vocab": [
+      {
+        "w": "withstand",
+        "zh": "抵擋,承受",
+        "pos": "v."
+      },
+      {
+        "w": "undertake",
+        "zh": "承接,著手做",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-005",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:health",
+    "tag_zh": "健康身體",
+    "source": "103指考",
+    "stem": "Our family doctor has repeatedly warned me that spicy food may ______ my stomach, so I'd better stay away from it.",
+    "options": [
+      "irritate",
+      "liberate",
+      "kidnap",
+      "override"
+    ],
+    "answer": 0,
+    "explain_zh": "辣食物會「刺激」腸胃，故選 irritate；liberate（解放）、kidnap（綁架）、override（否決,凌駕）皆與腸胃無關。irritate 常用於描述身體部位受刺激而不適，是醫療情境常考詞。",
+    "vocab": [
+      {
+        "w": "irritate",
+        "zh": "刺激,使不適",
+        "pos": "v."
+      },
+      {
+        "w": "liberate",
+        "zh": "解放",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-006",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:emotion-attitude",
+    "tag_zh": "情緒態度",
+    "source": "103指考",
+    "stem": "Because the new principal is young and inexperienced, the teachers are ______ about whether he can run the school well.",
+    "options": [
+      "passionate",
+      "impressive",
+      "arrogant",
+      "skeptical"
+    ],
+    "answer": 3,
+    "explain_zh": "新校長年輕又沒經驗，老師對他能否辦好學校「存疑」，故選 skeptical（懷疑的）；passionate（熱情的）、impressive（令人印象深刻的）、arrogant（自大的）皆與存疑的語意不符。be skeptical about/of 是常見搭配。",
+    "vocab": [
+      {
+        "w": "skeptical",
+        "zh": "懷疑的",
+        "pos": "adj."
+      },
+      {
+        "w": "arrogant",
+        "zh": "自大的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-007",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:education",
+    "tag_zh": "教育學習",
+    "source": "103指考",
+    "stem": "Many universities offer a large number of scholarships as an ______ to attract outstanding students to enroll in their schools.",
+    "options": [
+      "ornament",
+      "incentive",
+      "emphasis",
+      "application"
+    ],
+    "answer": 1,
+    "explain_zh": "大學提供大量獎學金，作為吸引優秀學生的「誘因」，故選 incentive；ornament（裝飾品）、emphasis（強調）、application（申請）皆語意不合。as an incentive to V 是常見搭配，表示「作為做某事的誘因」。",
+    "vocab": [
+      {
+        "w": "incentive",
+        "zh": "誘因,激勵",
+        "pos": "n."
+      },
+      {
+        "w": "enroll",
+        "zh": "註冊,入學",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-008",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:describing-people",
+    "tag_zh": "人物描述",
+    "source": "103指考",
+    "stem": "Since Diana is such an ______ speaker, she has won several medals for her school in national speech contests.",
+    "options": [
+      "authentic",
+      "imperative",
+      "eloquent",
+      "optional"
+    ],
+    "answer": 2,
+    "explain_zh": "Diana 在全國演講比賽屢獲獎牌，顯示她是位「雄辯的」演講者，故選 eloquent；authentic（真實的）、imperative（必要的）、optional（可選的）皆與演說能力無關。eloquent speaker 是固定搭配，形容口才流利、有說服力。",
+    "vocab": [
+      {
+        "w": "eloquent",
+        "zh": "雄辯的,口才好的",
+        "pos": "adj."
+      },
+      {
+        "w": "authentic",
+        "zh": "真實的,道地的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-009",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:environment",
+    "tag_zh": "環境議題",
+    "source": "103指考",
+    "stem": "The candidate made energy ______ the central theme of his campaign, calling for a greater reduction in oil consumption.",
+    "options": [
+      "evolution",
+      "conservation",
+      "donation",
+      "opposition"
+    ],
+    "answer": 1,
+    "explain_zh": "候選人以減少石油消耗為訴求，主打能源「節約」議題，故選 conservation；evolution（演化）、donation（捐贈）、opposition（反對）皆語意不合。energy conservation（節能）是環境類考題常見搭配詞。",
+    "vocab": [
+      {
+        "w": "conservation",
+        "zh": "節約,保育",
+        "pos": "n."
+      },
+      {
+        "w": "consumption",
+        "zh": "消耗,消費",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-010",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:disaster",
+    "tag_zh": "災害應對",
+    "source": "103指考",
+    "stem": "Concerned about mudslides, the local government quickly ______ the villagers from their homes before the typhoon hit the mountain area.",
+    "options": [
+      "evacuated",
+      "suffocated",
+      "humiliated",
+      "accommodated"
+    ],
+    "answer": 0,
+    "explain_zh": "因擔心土石流，地方政府在颱風侵襲山區前將居民「撤離」，故選 evacuated；suffocated（使窒息）、humiliated（羞辱）、accommodated（容納,提供住宿）皆與撤離語意不符。evacuate 常與居民、災害情境連用。",
+    "vocab": [
+      {
+        "w": "evacuate",
+        "zh": "撤離",
+        "pos": "v."
+      },
+      {
+        "w": "mudslide",
+        "zh": "土石流",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-011",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "103指考",
+    "passage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can (11) in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends (12) a new toothbrush every three to four months. Children's toothbrushes may need to be changed more (13).\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. (14), rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let (15) air dry. Most importantly, do not share toothbrushes.",
+    "group_id": "PX-AST103-G01",
+    "stem": "(11) 應填入：These germs come from the mouth and can ____ in toothbrushes over time.",
+    "options": [
+      "accumulate",
+      "crumble",
+      "establish",
+      "radiate"
+    ],
+    "answer": 0,
+    "explain_zh": "細菌會隨著時間在牙刷上「累積」，故選 accumulate；crumble（崩解）、establish（建立）、radiate（散發）皆與細菌堆積的語意不符。accumulate in＋物品，描述累積於某處，是常見搭配。",
+    "vocab": [
+      {
+        "w": "accumulate",
+        "zh": "累積",
+        "pos": "v."
+      },
+      {
+        "w": "bacteria",
+        "zh": "細菌",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-012",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "103指考",
+    "passage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can (11) in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends (12) a new toothbrush every three to four months. Children's toothbrushes may need to be changed more (13).\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. (14), rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let (15) air dry. Most importantly, do not share toothbrushes.",
+    "group_id": "PX-AST103-G01",
+    "stem": "(12) 應填入：The ADA recommends ____ a new toothbrush every three to four months.",
+    "options": [
+      "use",
+      "to use",
+      "using",
+      "used"
+    ],
+    "answer": 2,
+    "explain_zh": "recommend 之後應接動名詞作受詞，故選 using；recommend to use 為文法錯誤，recommend used、recommend use 亦不符文法。recommend V-ing 是必背固定用法，不能接不定詞。",
+    "vocab": [
+      {
+        "w": "recommend",
+        "zh": "建議(後接 V-ing)",
+        "pos": "v."
+      },
+      {
+        "w": "gerund",
+        "zh": "動名詞(文法概念)",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-013",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "103指考",
+    "passage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can (11) in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends (12) a new toothbrush every three to four months. Children's toothbrushes may need to be changed more (13).\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. (14), rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let (15) air dry. Most importantly, do not share toothbrushes.",
+    "group_id": "PX-AST103-G01",
+    "stem": "(13) 應填入：Children's toothbrushes may need to be changed more ____.",
+    "options": [
+      "essentially",
+      "frequently",
+      "typically",
+      "objectively"
+    ],
+    "answer": 1,
+    "explain_zh": "兒童牙刷需要「更常」更換，故選 frequently；essentially（本質上）、typically（通常）、objectively（客觀地）皆與更換頻率無關。more frequently 用來表達頻率增加，是本題關鍵語意。",
+    "vocab": [
+      {
+        "w": "frequently",
+        "zh": "頻繁地",
+        "pos": "adv."
+      },
+      {
+        "w": "essentially",
+        "zh": "本質上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-014",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:connector",
+    "tag_zh": "克漏字：連接詞",
+    "source": "103指考",
+    "passage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can (11) in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends (12) a new toothbrush every three to four months. Children's toothbrushes may need to be changed more (13).\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. (14), rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let (15) air dry. Most importantly, do not share toothbrushes.",
+    "group_id": "PX-AST103-G01",
+    "stem": "(14) 應填入：____, rinse your toothbrush thoroughly with tap water after use.",
+    "options": [
+      "In short",
+      "Otherwise",
+      "Nevertheless",
+      "For example"
+    ],
+    "answer": 3,
+    "explain_zh": "此句接著舉出保養牙刷的具體做法(用清水沖洗)，屬於「舉例」的邏輯關係，故選 For example；Otherwise（否則）、Nevertheless（然而）、In short（簡言之）皆不符前後文的舉例關係。判斷連接詞須看上下句的邏輯。",
+    "vocab": [
+      {
+        "w": "for example",
+        "zh": "舉例來說",
+        "pos": "phr."
+      },
+      {
+        "w": "otherwise",
+        "zh": "否則",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-015",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:reference",
+    "tag_zh": "克漏字：代名詞指涉",
+    "source": "103指考",
+    "passage": "Brushing your teeth regularly will help you maintain a healthy smile. But that smile won't last long if you don't take proper care of your toothbrush and switch to a new one often. According to the American Dental Association (ADA), toothbrushes can harbor bacteria. These germs come from the mouth and can (11) in toothbrushes over time.\nMany Americans replace their toothbrushes only once or twice a year. The ADA, however, recommends (12) a new toothbrush every three to four months. Children's toothbrushes may need to be changed more (13).\nDuring those three to four months of use, there are several ways to keep a toothbrush clean. (14), rinse your toothbrush thoroughly with tap water after use, making sure to remove any toothpaste and debris. Store your toothbrush in an upright position, and let (15) air dry. Most importantly, do not share toothbrushes.",
+    "group_id": "PX-AST103-G01",
+    "stem": "(15) 應填入：Store your toothbrush in an upright position, and let ____ air dry.",
+    "options": [
+      "it",
+      "one",
+      "the",
+      "which"
+    ],
+    "answer": 0,
+    "explain_zh": "此處 it 代替前面提到的特定物品(那支牙刷)，故選 it；one 是泛指代名詞，不能替代已明確提及的特定物品；the 和 which 在文法上不能單獨作受詞代名詞使用。代名詞指涉須先判斷先行詞是特定還是泛指。",
+    "vocab": [
+      {
+        "w": "pronoun",
+        "zh": "代名詞(文法概念)",
+        "pos": "n."
+      },
+      {
+        "w": "toothbrush",
+        "zh": "牙刷",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-016",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "103指考",
+    "passage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is (16)! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred (17) generations.\nLonsdorf has always been interested in animal learning and tool use, (18) the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very (19) to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors (20) like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
+    "group_id": "PX-AST103-G02",
+    "stem": "(16) 應填入：The chimpanzee digs out tiny insects from a hole. Dinner is ____!",
+    "options": [
+      "proposed",
+      "ordered",
+      "digested",
+      "served"
+    ],
+    "answer": 3,
+    "explain_zh": "黑猩猩挖出昆蟲，等於晚餐已經「端上桌」，故選 served；proposed（被提議）、ordered（被下令）、digested（被消化）皆與情境不符。Dinner is served. 是生活中常見的慣用表達。",
+    "vocab": [
+      {
+        "w": "serve",
+        "zh": "端上(食物)",
+        "pos": "v."
+      },
+      {
+        "w": "digest",
+        "zh": "消化",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-017",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:collocation",
+    "tag_zh": "克漏字：搭配詞",
+    "source": "103指考",
+    "passage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is (16)! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred (17) generations.\nLonsdorf has always been interested in animal learning and tool use, (18) the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very (19) to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors (20) like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
+    "group_id": "PX-AST103-G02",
+    "stem": "(17) 應填入：Lonsdorf is trying to discover how learning is transferred ____ generations.",
+    "options": [
+      "across",
+      "beside",
+      "upon",
+      "within"
+    ],
+    "answer": 0,
+    "explain_zh": "transferred across generations 為固定搭配，指知識、技能「代代相傳」，故選 across；beside（在旁邊）、upon、within 皆不符這組搭配用法。片語搭配需整組記憶，不能單看單字意思推敲。",
+    "vocab": [
+      {
+        "w": "across",
+        "zh": "橫跨,遍及",
+        "pos": "prep."
+      },
+      {
+        "w": "generation",
+        "zh": "世代",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-018",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "103指考",
+    "passage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is (16)! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred (17) generations.\nLonsdorf has always been interested in animal learning and tool use, (18) the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very (19) to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors (20) like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
+    "group_id": "PX-AST103-G02",
+    "stem": "(18) 應填入：Lonsdorf has always been interested in animal learning and tool use, ____ the way young animals grow up and learn their way in the world.",
+    "options": [
+      "especially",
+      "originally",
+      "consequently",
+      "fortunately"
+    ],
+    "answer": 0,
+    "explain_zh": "Lonsdorf「特別」對幼年動物的成長方式感興趣，故選 especially；originally（起初）、consequently（因此）、fortunately（幸運地）皆與語意不合。especially 常用於強調前述內容中的特定部分。",
+    "vocab": [
+      {
+        "w": "especially",
+        "zh": "特別地",
+        "pos": "adv."
+      },
+      {
+        "w": "originally",
+        "zh": "起初",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-019",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:context-word",
+    "tag_zh": "克漏字：文意選詞",
+    "source": "103指考",
+    "passage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is (16)! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred (17) generations.\nLonsdorf has always been interested in animal learning and tool use, (18) the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very (19) to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors (20) like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
+    "group_id": "PX-AST103-G02",
+    "stem": "(19) 應填入：The chimps have mother-child relationships very ____ to those of humans.",
+    "options": [
+      "casual",
+      "similar",
+      "direct",
+      "grateful"
+    ],
+    "answer": 1,
+    "explain_zh": "similar to 為固定搭配，指黑猩猩的母子關係與人類「相似」，故選 similar；casual（隨意的）、direct（直接的）、grateful（感激的）皆語意不合。similar to 是常考的固定介系詞搭配，考生容易誤用 similar with。",
+    "vocab": [
+      {
+        "w": "similar",
+        "zh": "相似的(similar to)",
+        "pos": "adj."
+      },
+      {
+        "w": "casual",
+        "zh": "隨意的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-020",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "cloze",
+    "tag": "cloze:tense-voice",
+    "tag_zh": "克漏字：時態語態",
+    "source": "103指考",
+    "passage": "Hiding herself among the trees near a chimpanzee habitat, Elizabeth Lonsdorf is using her camera to explore mysteries of learning. The chimpanzee she records picks up a thin flat piece of grass and then digs out tiny insects from a hole. Dinner is (16)! But how did the chimp develop this ingenious skill with tools? Do the chimp babies copy their parents in using tools? Do the mothers most skilled with tools have offspring who are also good at using tools? Here in Africa, Lonsdorf is conducting one of the world's longest wildlife studies, trying to discover how learning is transferred (17) generations.\nLonsdorf has always been interested in animal learning and tool use, (18) the way young animals grow up and learn their way in the world. Her chimpanzee study shows a clear link between humans and the rest of the animal kingdom. The chimps make and use tools and have mother-child relationships very (19) to those of humans. Through observing chimpanzees' learning process, researchers hope to gain insight into what the development of our earliest ancestors (20) like.\nLonsdorf hopes that by understanding the complexity of animal behavior, we can better appreciate and protect the diversity of life on this planet.",
+    "group_id": "PX-AST103-G02",
+    "stem": "(20) 應填入：Researchers hope to gain insight into what the development of our earliest ancestors ____ like.",
+    "options": [
+      "is to be",
+      "was to be",
+      "might have been",
+      "will have been"
+    ],
+    "answer": 2,
+    "explain_zh": "此句推測遠古祖先的發展樣貌，屬於對過去不確定事實的推測語氣，故選 might have been；is to be、was to be、will have been 在時態邏輯上皆不合理。might have + p.p. 表示「對過去的推測」，是重要文法點。",
+    "vocab": [
+      {
+        "w": "might have been",
+        "zh": "對過去的推測",
+        "pos": "phr."
+      },
+      {
+        "w": "ancestor",
+        "zh": "祖先",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-021",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "103指考",
+    "passage": "Opened in 1883, the Brooklyn Bridge was the first long-span suspension bridge to carry motor traffic, and it quickly became the model for the great suspension bridges of the following century. Spanning New York's East River, it provided the first traffic artery between Manhattan Island and Brooklyn. Before that, the only transportation was by ferries, which were slow and could be dangerous in winter.\nThe construction of a bridge over the East River had been discussed since the early 19th century, but the outbreak of the Civil War in 1861 deflected all consideration of the project. When the war ended in 1865, the bridge became an important issue once more. In 1867, the New York State legislature passed an act incorporating the New York Bridge Company for the purpose of constructing and maintaining a bridge between Manhattan Island and Brooklyn.\nJohn Augustus Roebling was chosen to design the bridge. Born in Germany in 1806, he held radical views as a student and was listed by the German police as a dangerous liberal. He emigrated to America in 1830 to escape political discrimination.\nRoebling proposed a bridge with a span of 1,500 feet (465 m), with two masonry towers in the East River serving as the main piers. The bridge that was actually built is longer—1,597 feet (486 m), the longest suspension bridge at that time.",
+    "group_id": "PX-AST103-G03",
+    "stem": "What was the purpose of building the Brooklyn Bridge?",
+    "options": [
+      "To replace an old bridge.",
+      "To set up a model for bridge construction.",
+      "To build a suspension bridge for the Civil War.",
+      "To provide faster and safer transportation than boats."
+    ],
+    "answer": 3,
+    "explain_zh": "答案在第一段末：渡輪速度慢，冬天航行更危險，因此建橋是為了提供比船更快、更安全的交通方式，故選 D。A「取代舊橋」、B「立下典範」都只是結果而非目的，C 建橋與南北戰爭無關，戰爭反而使計畫延宕。",
+    "vocab": [
+      {
+        "w": "suspension bridge",
+        "zh": "吊橋",
+        "pos": "n."
+      },
+      {
+        "w": "ferry",
+        "zh": "渡輪",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-022",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:vocabulary-in-context",
+    "tag_zh": "文意猜字",
+    "source": "103指考",
+    "passage": "Opened in 1883, the Brooklyn Bridge was the first long-span suspension bridge to carry motor traffic, and it quickly became the model for the great suspension bridges of the following century. Spanning New York's East River, it provided the first traffic artery between Manhattan Island and Brooklyn. Before that, the only transportation was by ferries, which were slow and could be dangerous in winter.\nThe construction of a bridge over the East River had been discussed since the early 19th century, but the outbreak of the Civil War in 1861 deflected all consideration of the project. When the war ended in 1865, the bridge became an important issue once more. In 1867, the New York State legislature passed an act incorporating the New York Bridge Company for the purpose of constructing and maintaining a bridge between Manhattan Island and Brooklyn.\nJohn Augustus Roebling was chosen to design the bridge. Born in Germany in 1806, he held radical views as a student and was listed by the German police as a dangerous liberal. He emigrated to America in 1830 to escape political discrimination.\nRoebling proposed a bridge with a span of 1,500 feet (465 m), with two masonry towers in the East River serving as the main piers. The bridge that was actually built is longer—1,597 feet (486 m), the longest suspension bridge at that time.",
+    "group_id": "PX-AST103-G03",
+    "stem": "Which of the following is closest in meaning to \"deflected\" in the second paragraph?",
+    "options": [
+      "Blocked.",
+      "Detected.",
+      "Engaged.",
+      "Indicated."
+    ],
+    "answer": 0,
+    "explain_zh": "答案線索在第二段開頭：內戰爆發使建橋計畫的一切考量「受阻擱置」，deflected 在此表示「使轉向、阻擋」，與 Blocked 意思最接近；Detected（偵測到）、Engaged（使參與）、Indicated（指出）皆語意不符。",
+    "vocab": [
+      {
+        "w": "deflect",
+        "zh": "使轉向,阻擋",
+        "pos": "v."
+      },
+      {
+        "w": "outbreak",
+        "zh": "爆發",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-023",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "103指考",
+    "passage": "Opened in 1883, the Brooklyn Bridge was the first long-span suspension bridge to carry motor traffic, and it quickly became the model for the great suspension bridges of the following century. Spanning New York's East River, it provided the first traffic artery between Manhattan Island and Brooklyn. Before that, the only transportation was by ferries, which were slow and could be dangerous in winter.\nThe construction of a bridge over the East River had been discussed since the early 19th century, but the outbreak of the Civil War in 1861 deflected all consideration of the project. When the war ended in 1865, the bridge became an important issue once more. In 1867, the New York State legislature passed an act incorporating the New York Bridge Company for the purpose of constructing and maintaining a bridge between Manhattan Island and Brooklyn.\nJohn Augustus Roebling was chosen to design the bridge. Born in Germany in 1806, he held radical views as a student and was listed by the German police as a dangerous liberal. He emigrated to America in 1830 to escape political discrimination.\nRoebling proposed a bridge with a span of 1,500 feet (465 m), with two masonry towers in the East River serving as the main piers. The bridge that was actually built is longer—1,597 feet (486 m), the longest suspension bridge at that time.",
+    "group_id": "PX-AST103-G03",
+    "stem": "Which of the following is true about the Brooklyn Bridge?",
+    "options": [
+      "It was built in 1865.",
+      "It is shorter than originally planned.",
+      "It was first proposed after the Civil War.",
+      "It was built by the New York Bridge Company."
+    ],
+    "answer": 3,
+    "explain_zh": "文章第二段提到 1867 年紐約州議會通過法案，成立 New York Bridge Company 負責建造並維護此橋，故選 D；第四段說明實際橋長(1,597 英尺)比原規劃(1,500 英尺)更長，所以 B「比原規劃短」的敘述錯誤。",
+    "vocab": [
+      {
+        "w": "legislature",
+        "zh": "立法機關",
+        "pos": "n."
+      },
+      {
+        "w": "incorporate",
+        "zh": "設立(公司)",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-024",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "103指考",
+    "passage": "Opened in 1883, the Brooklyn Bridge was the first long-span suspension bridge to carry motor traffic, and it quickly became the model for the great suspension bridges of the following century. Spanning New York's East River, it provided the first traffic artery between Manhattan Island and Brooklyn. Before that, the only transportation was by ferries, which were slow and could be dangerous in winter.\nThe construction of a bridge over the East River had been discussed since the early 19th century, but the outbreak of the Civil War in 1861 deflected all consideration of the project. When the war ended in 1865, the bridge became an important issue once more. In 1867, the New York State legislature passed an act incorporating the New York Bridge Company for the purpose of constructing and maintaining a bridge between Manhattan Island and Brooklyn.\nJohn Augustus Roebling was chosen to design the bridge. Born in Germany in 1806, he held radical views as a student and was listed by the German police as a dangerous liberal. He emigrated to America in 1830 to escape political discrimination.\nRoebling proposed a bridge with a span of 1,500 feet (465 m), with two masonry towers in the East River serving as the main piers. The bridge that was actually built is longer—1,597 feet (486 m), the longest suspension bridge at that time.",
+    "group_id": "PX-AST103-G03",
+    "stem": "According to the passage, which of the following correctly describes John Augustus Roebling?",
+    "options": [
+      "He participated in the Civil War and was seriously wounded.",
+      "He was chosen to design the bridge because of his radical views.",
+      "He was the first person to propose the construction of the bridge.",
+      "He moved to America because he was discriminated against in his home country."
+    ],
+    "answer": 3,
+    "explain_zh": "文章第三段說明 Roebling 因政治迫害而移民美國，故選 D；文中並未提到他參與南北戰爭受傷(A)，也沒說他是因激進思想才被選為設計者(B)，更沒提到他是第一位提議建橋的人(C)。",
+    "vocab": [
+      {
+        "w": "discrimination",
+        "zh": "歧視,迫害",
+        "pos": "n."
+      },
+      {
+        "w": "emigrate",
+        "zh": "移居國外",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-025",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "103指考",
+    "passage": "The Japanese have long puzzled public health researchers because they are such an apparent paradox: They have the world's lowest rates of heart disease and the largest number of people that live to or beyond 100 years despite the fact that most Japanese men smoke—and smoking counts as one of the strongest risk factors for heart disease. So what's protecting Japanese men?\nTwo professors at the University of California at Berkeley hoped to find out the answer. They investigated a pool of 12,000 Japanese men equally divided into three groups: One group had lived in Japan for all their lives, and the other two groups had emigrated to Hawaii or Northern California. It was found that the rate of heart disease among Japanese men increased five times in California and about half of that for those in Hawaii.\nThe differences could not be explained by any of the usual risk factors for heart disease, such as smoking, high blood pressure, or cholesterol counts. The change in diet, from sushi to hamburgers and fries, was also not related to the rise in heart disease. However, the kind of society they had created for themselves in their new home country was. The most traditional group of Japanese Americans, who maintained tight-knit and mutually supportive social groups, had a heart-attack rate as low as their fellow Japanese back home. But those who had adopted the more isolated Western lifestyle increased their heart-attack incidence by three to five times.\nThe study shows that the need to bond with a social group is so fundamental to humans that it remains the key determinant of whether we stay healthy or get ill, even whether we live or die. We need to feel part of something bigger to thrive. We need to belong, not online, but in the real world of hugs, handshakes, and pats on the back.",
+    "group_id": "PX-AST103-G04",
+    "stem": "What is the best title of this passage?",
+    "options": [
+      "Heart Diseases and Their Causes",
+      "The Power of Social Connection",
+      "Differences in Japanese Americans",
+      "The Sense of Belonging vs. Isolation"
+    ],
+    "answer": 1,
+    "explain_zh": "全文透過日裔移民的心臟病研究，說明社會連結(緊密人際關係)對健康的重要性，最適合的標題是 B「社會連結的力量」；A 僅涵蓋心臟病成因，範圍過窄，未點出「社會連結」這個核心概念，C、D 也不夠涵蓋全文主旨。",
+    "vocab": [
+      {
+        "w": "paradox",
+        "zh": "矛盾,似非而是的事",
+        "pos": "n."
+      },
+      {
+        "w": "bond",
+        "zh": "連結,結合",
+        "pos": "v./n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-026",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "103指考",
+    "passage": "The Japanese have long puzzled public health researchers because they are such an apparent paradox: They have the world's lowest rates of heart disease and the largest number of people that live to or beyond 100 years despite the fact that most Japanese men smoke—and smoking counts as one of the strongest risk factors for heart disease. So what's protecting Japanese men?\nTwo professors at the University of California at Berkeley hoped to find out the answer. They investigated a pool of 12,000 Japanese men equally divided into three groups: One group had lived in Japan for all their lives, and the other two groups had emigrated to Hawaii or Northern California. It was found that the rate of heart disease among Japanese men increased five times in California and about half of that for those in Hawaii.\nThe differences could not be explained by any of the usual risk factors for heart disease, such as smoking, high blood pressure, or cholesterol counts. The change in diet, from sushi to hamburgers and fries, was also not related to the rise in heart disease. However, the kind of society they had created for themselves in their new home country was. The most traditional group of Japanese Americans, who maintained tight-knit and mutually supportive social groups, had a heart-attack rate as low as their fellow Japanese back home. But those who had adopted the more isolated Western lifestyle increased their heart-attack incidence by three to five times.\nThe study shows that the need to bond with a social group is so fundamental to humans that it remains the key determinant of whether we stay healthy or get ill, even whether we live or die. We need to feel part of something bigger to thrive. We need to belong, not online, but in the real world of hugs, handshakes, and pats on the back.",
+    "group_id": "PX-AST103-G04",
+    "stem": "Which of the following is a finding of the two American professors' study?",
+    "options": [
+      "Many Japanese men that lived up to 100 years were smokers.",
+      "Those who often ate hamburgers and fries were more likely to fall sick.",
+      "Japanese immigrants to America usually formed a tight-knit community.",
+      "Westernized social life was related to the heart-attack rate of Japanese Americans."
+    ],
+    "answer": 3,
+    "explain_zh": "文章第三段指出採取西化孤立生活型態的日裔美國人，心臟病發生率明顯升高三到五倍，故選 D；研究已排除吸菸、血壓、膽固醇等常見風險因子，飲食改變(從壽司變成漢堡薯條)也被證實與心臟病上升無關，故 B 錯誤。",
+    "vocab": [
+      {
+        "w": "heart attack",
+        "zh": "心臟病發作",
+        "pos": "n."
+      },
+      {
+        "w": "isolated",
+        "zh": "孤立的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-027",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "103指考",
+    "passage": "The Japanese have long puzzled public health researchers because they are such an apparent paradox: They have the world's lowest rates of heart disease and the largest number of people that live to or beyond 100 years despite the fact that most Japanese men smoke—and smoking counts as one of the strongest risk factors for heart disease. So what's protecting Japanese men?\nTwo professors at the University of California at Berkeley hoped to find out the answer. They investigated a pool of 12,000 Japanese men equally divided into three groups: One group had lived in Japan for all their lives, and the other two groups had emigrated to Hawaii or Northern California. It was found that the rate of heart disease among Japanese men increased five times in California and about half of that for those in Hawaii.\nThe differences could not be explained by any of the usual risk factors for heart disease, such as smoking, high blood pressure, or cholesterol counts. The change in diet, from sushi to hamburgers and fries, was also not related to the rise in heart disease. However, the kind of society they had created for themselves in their new home country was. The most traditional group of Japanese Americans, who maintained tight-knit and mutually supportive social groups, had a heart-attack rate as low as their fellow Japanese back home. But those who had adopted the more isolated Western lifestyle increased their heart-attack incidence by three to five times.\nThe study shows that the need to bond with a social group is so fundamental to humans that it remains the key determinant of whether we stay healthy or get ill, even whether we live or die. We need to feel part of something bigger to thrive. We need to belong, not online, but in the real world of hugs, handshakes, and pats on the back.",
+    "group_id": "PX-AST103-G04",
+    "stem": "Which of the following is an example of \"something bigger\" in the last paragraph?",
+    "options": [
+      "A family.",
+      "A stadium.",
+      "The universe.",
+      "The digital world."
+    ],
+    "answer": 0,
+    "explain_zh": "末段「something bigger」指能帶來歸屬感、支持感的社會群體，家庭正是這樣的例子，故選 A；stadium（體育場）只是一個場所，本身不具有歸屬感的意義，universe 和 digital world 更與此語意不合。",
+    "vocab": [
+      {
+        "w": "belong",
+        "zh": "歸屬",
+        "pos": "v."
+      },
+      {
+        "w": "stadium",
+        "zh": "體育場",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-028",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "103指考",
+    "passage": "The Japanese have long puzzled public health researchers because they are such an apparent paradox: They have the world's lowest rates of heart disease and the largest number of people that live to or beyond 100 years despite the fact that most Japanese men smoke—and smoking counts as one of the strongest risk factors for heart disease. So what's protecting Japanese men?\nTwo professors at the University of California at Berkeley hoped to find out the answer. They investigated a pool of 12,000 Japanese men equally divided into three groups: One group had lived in Japan for all their lives, and the other two groups had emigrated to Hawaii or Northern California. It was found that the rate of heart disease among Japanese men increased five times in California and about half of that for those in Hawaii.\nThe differences could not be explained by any of the usual risk factors for heart disease, such as smoking, high blood pressure, or cholesterol counts. The change in diet, from sushi to hamburgers and fries, was also not related to the rise in heart disease. However, the kind of society they had created for themselves in their new home country was. The most traditional group of Japanese Americans, who maintained tight-knit and mutually supportive social groups, had a heart-attack rate as low as their fellow Japanese back home. But those who had adopted the more isolated Western lifestyle increased their heart-attack incidence by three to five times.\nThe study shows that the need to bond with a social group is so fundamental to humans that it remains the key determinant of whether we stay healthy or get ill, even whether we live or die. We need to feel part of something bigger to thrive. We need to belong, not online, but in the real world of hugs, handshakes, and pats on the back.",
+    "group_id": "PX-AST103-G04",
+    "stem": "What is the ratio of heart disease between Japanese living in Japan and Japanese Americans in Hawaii?",
+    "options": [
+      "1 to 2.5",
+      "1 to 5",
+      "3 to 5",
+      "1.5 to 5"
+    ],
+    "answer": 0,
+    "explain_zh": "答案在第二段：加州日裔的心臟病罹患率是日本本土的五倍，夏威夷組約為加州組的一半，換算下來即為本土的 2.5 倍，因此比例是 1 比 2.5，故選 A。",
+    "vocab": [
+      {
+        "w": "ratio",
+        "zh": "比例",
+        "pos": "n."
+      },
+      {
+        "w": "increase",
+        "zh": "增加",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-029",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "103指考",
+    "passage": "Bitcoin is an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority; that is, managing transactions and issuing money are carried out collectively through the network.\nAny transaction issued with Bitcoin cannot be reversed; it can only be refunded by the person receiving the funds. That means you should do business with people and organizations you know and trust, or who have an established reputation. Bitcoin can detect typos and usually won't let you send money to an invalid address by mistake.\nAll Bitcoin transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any Bitcoin address. However, the identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances.\nThe price of a bitcoin can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with Bitcoin is not recommended at this point. Bitcoin should be seen like a high risk asset, and you should never store money that you cannot afford to lose with Bitcoin. If you receive payments with Bitcoin, many service providers can convert them to your local currency.\nBitcoin is an experimental new currency that is in active development. Although it becomes less experimental as usage grows, you should keep in mind that Bitcoin is a new invention that is exploring ideas that have never been attempted before. As such, its future cannot be predicted by anyone.",
+    "group_id": "PX-AST103-G05",
+    "stem": "What is the purpose of this article?",
+    "options": [
+      "To introduce a new currency.",
+      "To prove the value of a young economy.",
+      "To explore ways to do online transactions.",
+      "To explain how to build up a business network."
+    ],
+    "answer": 0,
+    "explain_zh": "全文從第一段起持續介紹比特幣這種去中心化的新型數位貨幣的特性、交易方式與風險，目的在於「介紹一種新貨幣」，故選 A；文章並非在論證年輕經濟的價值(B)，也沒有教學如何建立商業網絡(D)。",
+    "vocab": [
+      {
+        "w": "decentralized",
+        "zh": "去中心化的",
+        "pos": "adj."
+      },
+      {
+        "w": "currency",
+        "zh": "貨幣",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-030",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "103指考",
+    "passage": "Bitcoin is an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority; that is, managing transactions and issuing money are carried out collectively through the network.\nAny transaction issued with Bitcoin cannot be reversed; it can only be refunded by the person receiving the funds. That means you should do business with people and organizations you know and trust, or who have an established reputation. Bitcoin can detect typos and usually won't let you send money to an invalid address by mistake.\nAll Bitcoin transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any Bitcoin address. However, the identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances.\nThe price of a bitcoin can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with Bitcoin is not recommended at this point. Bitcoin should be seen like a high risk asset, and you should never store money that you cannot afford to lose with Bitcoin. If you receive payments with Bitcoin, many service providers can convert them to your local currency.\nBitcoin is an experimental new currency that is in active development. Although it becomes less experimental as usage grows, you should keep in mind that Bitcoin is a new invention that is exploring ideas that have never been attempted before. As such, its future cannot be predicted by anyone.",
+    "group_id": "PX-AST103-G05",
+    "stem": "Why is the value of Bitcoin not stable?",
+    "options": [
+      "Because its use is illegal.",
+      "Because it is not a valid investment.",
+      "Because it is still developing.",
+      "Because its circulation is limited to the youth."
+    ],
+    "answer": 2,
+    "explain_zh": "文章第四段提到比特幣因其年輕的經濟體、新穎性質及市場流動性不足，導致價格短期內難以預測地漲跌，本質上是仍在「發展中」的貨幣，故選 C；文中並未提到使用比特幣是違法的(A)，也沒有限制使用族群(D)。",
+    "vocab": [
+      {
+        "w": "unpredictably",
+        "zh": "難以預測地",
+        "pos": "adv."
+      },
+      {
+        "w": "illiquid",
+        "zh": "(市場)流動性不足的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-031",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "103指考",
+    "passage": "Bitcoin is an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority; that is, managing transactions and issuing money are carried out collectively through the network.\nAny transaction issued with Bitcoin cannot be reversed; it can only be refunded by the person receiving the funds. That means you should do business with people and organizations you know and trust, or who have an established reputation. Bitcoin can detect typos and usually won't let you send money to an invalid address by mistake.\nAll Bitcoin transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any Bitcoin address. However, the identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances.\nThe price of a bitcoin can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with Bitcoin is not recommended at this point. Bitcoin should be seen like a high risk asset, and you should never store money that you cannot afford to lose with Bitcoin. If you receive payments with Bitcoin, many service providers can convert them to your local currency.\nBitcoin is an experimental new currency that is in active development. Although it becomes less experimental as usage grows, you should keep in mind that Bitcoin is a new invention that is exploring ideas that have never been attempted before. As such, its future cannot be predicted by anyone.",
+    "group_id": "PX-AST103-G05",
+    "stem": "Which of the following is true about Bitcoin?",
+    "options": [
+      "Bitcoin addresses are known only to their owners.",
+      "Once a transaction is made, the Bitcoin cannot be refunded.",
+      "Bitcoin user's identity is always open to the general public.",
+      "When a payment is received, the Bitcoin can be turned into local currency."
+    ],
+    "answer": 3,
+    "explain_zh": "文章第四段提到收到比特幣付款後，許多服務商可將其兌換為當地貨幣，故選 D；文章第二段說明交易一旦發出無法逆轉，只能由收款方主動退款，故 B「無法退款」的說法錯誤，A、C 也與內容不符。",
+    "vocab": [
+      {
+        "w": "convert",
+        "zh": "轉換",
+        "pos": "v."
+      },
+      {
+        "w": "refund",
+        "zh": "退款",
+        "pos": "v./n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-032",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:inference",
+    "tag_zh": "推論理解",
+    "source": "103指考",
+    "passage": "Bitcoin is an experimental, decentralized digital currency that enables instant payments to anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate with no central authority; that is, managing transactions and issuing money are carried out collectively through the network.\nAny transaction issued with Bitcoin cannot be reversed; it can only be refunded by the person receiving the funds. That means you should do business with people and organizations you know and trust, or who have an established reputation. Bitcoin can detect typos and usually won't let you send money to an invalid address by mistake.\nAll Bitcoin transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any Bitcoin address. However, the identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances.\nThe price of a bitcoin can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with Bitcoin is not recommended at this point. Bitcoin should be seen like a high risk asset, and you should never store money that you cannot afford to lose with Bitcoin. If you receive payments with Bitcoin, many service providers can convert them to your local currency.\nBitcoin is an experimental new currency that is in active development. Although it becomes less experimental as usage grows, you should keep in mind that Bitcoin is a new invention that is exploring ideas that have never been attempted before. As such, its future cannot be predicted by anyone.",
+    "group_id": "PX-AST103-G05",
+    "stem": "What advice would the author give to those who are interested in keeping money in Bitcoin?",
+    "options": [
+      "Better late than never.",
+      "Look before you leap.",
+      "Make hay while the sun shines.",
+      "No pain, no gain."
+    ],
+    "answer": 1,
+    "explain_zh": "作者在文末提醒比特幣價格波動大、屬於高風險資產，建議謹慎行事、三思而後行，符合諺語 Look before you leap（三思而後行）的意涵；Make hay while the sun shines（把握時機）語意甚至相反，不符合作者提醒風險的用意。",
+    "vocab": [
+      {
+        "w": "look before you leap",
+        "zh": "三思而後行",
+        "pos": "phr."
+      },
+      {
+        "w": "high risk asset",
+        "zh": "高風險資產",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-033",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:main-idea",
+    "tag_zh": "主旨大意",
+    "source": "103指考",
+    "passage": "Scientists are trying to genetically modify the world in which we live. They are even trying to wipe out diseases via genetic modification. For example, researchers have tried to engineer mosquitoes to kill malaria parasites. The malaria parasite is carried by the female Anopheles mosquito. When transmitted to a human, the parasite travels first to the liver and then on to the bloodstream, where it reproduces and destroys red blood cells. An estimated 250 million people suffer from malaria each year, and about one million die—many of them children. There are currently no effective or approved malaria vaccines.\nTo \"kill\" malaria, scientists are genetically modifying a bacterium in mosquitoes so that it releases toxic compounds. These compounds are not harmful to humans or the mosquito itself, but they do kill off the malaria parasite, making the mosquito incapable of infecting humans with malaria.\nDespite this achievement, scientists are faced with the challenge of giving the modified mosquitoes a competitive advantage so that they can eventually replace the wild population. Complete blockage of the malaria parasite is very important. If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it. And if that happens, the scientists are back where they started.\nAnother challenge for scientists is to gain public approval for this genetic modification regarding mosquitoes and malaria control. Environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health. There is still a long way to go before genetic modification techniques are put to use in disease control.",
+    "group_id": "PX-AST103-G06",
+    "stem": "What is the main idea of this passage?",
+    "options": [
+      "Researchers have found an effective way to halt the spread of insect-borne diseases around the world.",
+      "Many people are worried about the effects of genetically modified organisms on the environment.",
+      "It takes time to gain public support for the application of genetic modification to disease control.",
+      "Genetic engineering looks promising in reducing malaria, though there may be unknown consequences."
+    ],
+    "answer": 3,
+    "explain_zh": "全文說明科學家利用基因改造蚊子對抗瘧疾的潛力(第一、二段)，同時也點出仍需克服的挑戰與環境疑慮(第三、四段)，故選 D，兼顧正反兩面較符合全文語氣；A「已找到有效方法」過於武斷樂觀，與文末保留的態度不符。",
+    "vocab": [
+      {
+        "w": "genetically modify",
+        "zh": "基因改造",
+        "pos": "phr."
+      },
+      {
+        "w": "malaria",
+        "zh": "瘧疾",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-034",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "篇章結構理解",
+    "source": "103指考",
+    "passage": "Scientists are trying to genetically modify the world in which we live. They are even trying to wipe out diseases via genetic modification. For example, researchers have tried to engineer mosquitoes to kill malaria parasites. The malaria parasite is carried by the female Anopheles mosquito. When transmitted to a human, the parasite travels first to the liver and then on to the bloodstream, where it reproduces and destroys red blood cells. An estimated 250 million people suffer from malaria each year, and about one million die—many of them children. There are currently no effective or approved malaria vaccines.\nTo \"kill\" malaria, scientists are genetically modifying a bacterium in mosquitoes so that it releases toxic compounds. These compounds are not harmful to humans or the mosquito itself, but they do kill off the malaria parasite, making the mosquito incapable of infecting humans with malaria.\nDespite this achievement, scientists are faced with the challenge of giving the modified mosquitoes a competitive advantage so that they can eventually replace the wild population. Complete blockage of the malaria parasite is very important. If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it. And if that happens, the scientists are back where they started.\nAnother challenge for scientists is to gain public approval for this genetic modification regarding mosquitoes and malaria control. Environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health. There is still a long way to go before genetic modification techniques are put to use in disease control.",
+    "group_id": "PX-AST103-G06",
+    "stem": "Which of the following best shows the organization of this passage?",
+    "options": [
+      "Introduction → Comparison → Contrast",
+      "Problem → Solution → Potential difficulties",
+      "Proposal → Arguments → Counter-arguments",
+      "Definition → Examples → Tentative conclusions"
+    ],
+    "answer": 1,
+    "explain_zh": "文章先描述瘧疾造成的問題(第一段)，接著介紹基改蚊子的解決方案(第二段)，最後討論可能面臨的挑戰與疑慮(第三、四段)，符合 Problem → Solution → Potential difficulties 的結構，故選 B。",
+    "vocab": [
+      {
+        "w": "organization",
+        "zh": "(文章)架構",
+        "pos": "n."
+      },
+      {
+        "w": "challenge",
+        "zh": "挑戰",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-035",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:detail",
+    "tag_zh": "細節理解",
+    "source": "103指考",
+    "passage": "Scientists are trying to genetically modify the world in which we live. They are even trying to wipe out diseases via genetic modification. For example, researchers have tried to engineer mosquitoes to kill malaria parasites. The malaria parasite is carried by the female Anopheles mosquito. When transmitted to a human, the parasite travels first to the liver and then on to the bloodstream, where it reproduces and destroys red blood cells. An estimated 250 million people suffer from malaria each year, and about one million die—many of them children. There are currently no effective or approved malaria vaccines.\nTo \"kill\" malaria, scientists are genetically modifying a bacterium in mosquitoes so that it releases toxic compounds. These compounds are not harmful to humans or the mosquito itself, but they do kill off the malaria parasite, making the mosquito incapable of infecting humans with malaria.\nDespite this achievement, scientists are faced with the challenge of giving the modified mosquitoes a competitive advantage so that they can eventually replace the wild population. Complete blockage of the malaria parasite is very important. If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it. And if that happens, the scientists are back where they started.\nAnother challenge for scientists is to gain public approval for this genetic modification regarding mosquitoes and malaria control. Environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health. There is still a long way to go before genetic modification techniques are put to use in disease control.",
+    "group_id": "PX-AST103-G06",
+    "stem": "According to the passage, which of the following is true about malaria parasites?",
+    "options": [
+      "They are resistant to genetic modification and vaccines.",
+      "They reproduce in the human liver and grow stronger there.",
+      "They can be found in only one gender of a class of mosquitoes.",
+      "They are transmitted to around one million children each year."
+    ],
+    "answer": 2,
+    "explain_zh": "文章第一段提到瘧原蟲是由雌性瘧蚊(female Anopheles mosquito)攜帶傳播，即只存在於該類蚊子的一種性別中，故選 C；瘧原蟲是先到肝臟，再進入血液中繁殖並破壞紅血球，並非在肝臟裡繁殖增強，故 B 錯誤。",
+    "vocab": [
+      {
+        "w": "parasite",
+        "zh": "寄生蟲",
+        "pos": "n."
+      },
+      {
+        "w": "transmit",
+        "zh": "傳播,傳染",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "PX-AST103-036",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "reading",
+    "tag": "reading:reference",
+    "tag_zh": "代名詞指涉",
+    "source": "103指考",
+    "passage": "Scientists are trying to genetically modify the world in which we live. They are even trying to wipe out diseases via genetic modification. For example, researchers have tried to engineer mosquitoes to kill malaria parasites. The malaria parasite is carried by the female Anopheles mosquito. When transmitted to a human, the parasite travels first to the liver and then on to the bloodstream, where it reproduces and destroys red blood cells. An estimated 250 million people suffer from malaria each year, and about one million die—many of them children. There are currently no effective or approved malaria vaccines.\nTo \"kill\" malaria, scientists are genetically modifying a bacterium in mosquitoes so that it releases toxic compounds. These compounds are not harmful to humans or the mosquito itself, but they do kill off the malaria parasite, making the mosquito incapable of infecting humans with malaria.\nDespite this achievement, scientists are faced with the challenge of giving the modified mosquitoes a competitive advantage so that they can eventually replace the wild population. Complete blockage of the malaria parasite is very important. If some of the parasites slip through the mechanism, then the next generation will likely become resistant to it. And if that happens, the scientists are back where they started.\nAnother challenge for scientists is to gain public approval for this genetic modification regarding mosquitoes and malaria control. Environmental activists have raised concerns about the release of genetically engineered organisms without any clear knowledge of their long-term effect on ecosystems and human health. There is still a long way to go before genetic modification techniques are put to use in disease control.",
+    "group_id": "PX-AST103-G06",
+    "stem": "What does \"that\" in the third paragraph refer to?",
+    "options": [
+      "Some malaria parasites escaping from the ecosystems.",
+      "Malaria parasites becoming immune to the engineered bacterium.",
+      "Modified mosquitoes becoming more competitive than the wild ones.",
+      "Transmission of malaria being blocked from mosquitoes to humans."
+    ],
+    "answer": 1,
+    "explain_zh": "前句提到若部分瘧原蟲逃過基改細菌的阻斷機制，下一代瘧原蟲很可能對此產生「抗性」，that 即指此事(寄生蟲對阻斷機制產生抗性)，故選 B；其餘選項所描述的情境皆未在該句中被提及。",
+    "vocab": [
+      {
+        "w": "immune",
+        "zh": "免疫的,具抗性的",
+        "pos": "adj."
+      },
+      {
+        "w": "resistant",
+        "zh": "抗...的",
+        "pos": "adj."
+      }
+    ]
+  }
+]

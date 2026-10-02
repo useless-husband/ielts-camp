@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% set req='report' %}
+{% block body %}
+<h1>弱點分析</h1>
+<p class="sub">左邊是系統自動統計（離線、即時）；按右邊按鈕才會叫 AI 幫你寫診斷報告。
+  「不會」那欄是你按過「我不會」的次數，數字大代表這個觀念還沒建立起來，比猜錯更值得優先補。</p>
+
+<div class="card">
+  <div class="row">
+    <span>累積 {{ st.total }} 題，正確率 {{ st.acc }}%</span>
+    <span class="spacer"></span>
+    <button class="btn" id="go" onclick="run()" {{ 'disabled' if not ai_ok }}>
+      {{ '產生 AI 診斷報告' if ai_ok else '找不到 claude 指令' }}</button>
+  </div>
+  <div id="out"></div>
+</div>
+
+{% if last %}
+<div class="card" id="last">
+  <h2 style="margin-top:0">最新 AI 診斷</h2>
+  <p>{{ last.summary_zh }}</p>
+  {% if last.estimated_band %}<p class="pill">AI 推估目前約 {{ last.estimated_band }} 分</p>{% endif %}
+  {% for w in last.weak_points %}
+  <div style="border-top:1px solid var(--line);padding:12px 0">
+    <b style="color:var(--warn)">{{ w.tag_zh }}</b>
+    <div class="muted">{{ w.why_zh }}</div>
+    <div style="margin-top:6px">📘 {{ w.rule_zh }}</div>
+    {% if w.example_en %}<div class="passage" style="margin:8px 0">{{ w.example_en }}</div>{% endif %}
+    <div style="color:var(--ok)">👉 {{ w.drill_zh }}</div>
+  </div>
+  {% endfor %}
+  <h2>接下來 7 天</h2>
+  <table>{% for d in last.next_7_days %}
+  <tr><td style="width:70px">{{ d.day }}</td><td><b>{{ d.focus_zh }}</b><br>
+    <span class="muted">{{ d.tasks_zh|join('　·　') }}</span></td></tr>
+  {% endfor %}</table>
+</div>
+{% endif %}
+
+<h2>全部標籤統計（弱點分數越高越該練）</h2>
+<div class="card">
+{% if tags %}
+<table><tr><th>弱點標籤</th><th>技能</th><th>題數</th><th>不會</th><th>正確率</th><th>弱點分數</th><th></th></tr>
+{% for t in tags %}
+<tr><td>{{ t.tag_zh }}<br><span class="muted" style="font-size:12px">{{ t.tag }}</span></td>
+  <td class="muted">{{ t.skill }}</td><td>{{ t.n }}</td>
+  <td>{% if t.dk %}<span class="tag warn">{{ t.dk }}</span>{% else %}<span class="muted">—</span>{% endif %}</td>
+  <td style="width:120px"><div class="bar"><i class="{{ 'ok' if t.acc>=80 else 'bad' if t.acc<60 else '' }}" style="width:{{ t.acc }}%"></i></div>{{ t.acc }}%</td>
+  <td><b style="color:{{ 'var(--bad)' if t.score>8 else 'var(--dim)' }}">{{ t.score }}</b></td>
+  <td><a class="btn sm ghost" href="/drill?tag={{ t.tag }}&n=10">專練</a></td></tr>
+{% endfor %}</table>
+{% else %}<p class="muted">還沒有資料，先去刷題吧。</p>{% endif %}
+</div>
+
+<script>
+async function run(){
+  go.disabled=true;go.innerHTML='<span class="spin"></span>AI 分析中（約 1 分鐘）…';
+  try{
+    const r=await fetch('/api/report',{method:'POST'});
+    const d=await r.json();
+    if(d.error){out.innerHTML='<div class="err">'+d.error+'</div>';go.disabled=false;
+      go.textContent='產生 AI 診斷報告';return}
+    location.reload();
+  }catch(e){out.innerHTML='<div class="err">'+e.message+'</div>';go.disabled=false;
+    go.textContent='產生 AI 診斷報告';}
+}
+</script>
+{% endblock %}

@@ -1,0 +1,1552 @@
+[
+ {
+  "id": "NIR-0101",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A. Memories formed during the day appear to be strengthened during sleep, but researchers disagree about which sleep stage does most of the work. Tanaka and colleagues tracked 60 volunteers learning a word-pairing task, then monitored their brain activity overnight to compare the roles of slow-wave sleep, the deep sleep dominant early in the night, and REM sleep, associated with dreaming and more common later in the night.\n\nB. Volunteers who were woken repeatedly to prevent slow-wave sleep, while REM sleep was left undisturbed, showed a 20 percent drop in next-day recall of the word pairs compared with volunteers whose sleep was undisturbed. Volunteers who instead had their REM sleep selectively disrupted showed a smaller, though still measurable, decline of around 8 percent.\n\nC. Tanaka's team argues this supports slow-wave sleep as the primary stage for consolidating this particular type of factual memory, with REM sleep playing a secondary or possibly different role, perhaps more relevant to emotional or procedural memories such as physical skills rather than word pairs. Other researchers caution that disrupting one sleep stage often also shortens or alters nearby stages, making it hard to attribute effects to a single stage in complete isolation.\n\nD. Tanaka accepts this measurement problem but notes that the size of the difference between the two disruption conditions, more than double, is larger than would be expected from disruption side-effects alone. She suggests that different types of memory likely rely on different sleep stages to different degrees, rather than there being one single sleep stage responsible for all memory consolidation.",
+  "group_id": "NIR-G21",
+  "stem": "What does Tanaka's research suggest about the roles of slow-wave and REM sleep in memory?",
+  "options": [
+   "Slow-wave sleep appears more important for this type of factual memory, though different memory types may depend on different stages",
+   "REM sleep is the only sleep stage relevant to any type of memory",
+   "Slow-wave sleep and REM sleep produce identical effects on word-pair recall",
+   "Neither slow-wave nor REM sleep has any measurable effect on memory"
+  ],
+  "answer": 0,
+  "explain_zh": "段落 C、D 說明慢波睡眠對這類詞彙配對記憶的鞏固作用較大，且不同類型記憶可能依賴不同睡眠階段，對應選項 A，故選 A。B 與段落 B 的數據（剝奪慢波睡眠影響達20%，遠大於REM的8%）矛盾，並非REM才是唯一相關階段；C 與段落 B 明確給出 20% 與 8% 兩個不同數字矛盾，並非相同效果；D 與段落 B 兩組都出現明顯下降矛盾，並非毫無影響。技巧：主旨題若文章比較兩個變因，答案要精準反映「哪一個影響較大」，而不是含糊地說兩者一樣重要或毫無效果。",
+  "vocab": [
+   {
+    "w": "consolidate",
+    "zh": "鞏固",
+    "pos": "v."
+   },
+   {
+    "w": "procedural memory",
+    "zh": "程序性記憶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0102",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節查找",
+  "passage": "A. Memories formed during the day appear to be strengthened during sleep, but researchers disagree about which sleep stage does most of the work. Tanaka and colleagues tracked 60 volunteers learning a word-pairing task, then monitored their brain activity overnight to compare the roles of slow-wave sleep, the deep sleep dominant early in the night, and REM sleep, associated with dreaming and more common later in the night.\n\nB. Volunteers who were woken repeatedly to prevent slow-wave sleep, while REM sleep was left undisturbed, showed a 20 percent drop in next-day recall of the word pairs compared with volunteers whose sleep was undisturbed. Volunteers who instead had their REM sleep selectively disrupted showed a smaller, though still measurable, decline of around 8 percent.\n\nC. Tanaka's team argues this supports slow-wave sleep as the primary stage for consolidating this particular type of factual memory, with REM sleep playing a secondary or possibly different role, perhaps more relevant to emotional or procedural memories such as physical skills rather than word pairs. Other researchers caution that disrupting one sleep stage often also shortens or alters nearby stages, making it hard to attribute effects to a single stage in complete isolation.\n\nD. Tanaka accepts this measurement problem but notes that the size of the difference between the two disruption conditions, more than double, is larger than would be expected from disruption side-effects alone. She suggests that different types of memory likely rely on different sleep stages to different degrees, rather than there being one single sleep stage responsible for all memory consolidation.",
+  "group_id": "NIR-G21",
+  "stem": "According to the passage, volunteers who had their slow-wave sleep prevented showed what percentage drop in next-day recall?",
+  "options": [
+   "A 20 percent drop",
+   "A 60 percent drop",
+   "An 8 percent drop",
+   "No drop was recorded for this group"
+  ],
+  "answer": 0,
+  "explain_zh": "段落 B 寫 showed a 20 percent drop in next-day recall of the word pairs，選 A。8 percent 是 REM 睡眠被剝奪那組的數字，容易混淆；60 percent 其實是研究招募的受試者人數；文章確實記錄了明顯下降。技巧：文章同時比較兩組數據時（20% vs 8%），一定要對應清楚「哪一組睡眠階段被剝奪」搭配「哪一個百分比」。",
+  "vocab": [
+   {
+    "w": "recall",
+    "zh": "回想；記憶提取",
+    "pos": "n./v."
+   },
+   {
+    "w": "disrupt",
+    "zh": "打斷；擾亂",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0103",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "語境詞義",
+  "passage": "A. Memories formed during the day appear to be strengthened during sleep, but researchers disagree about which sleep stage does most of the work. Tanaka and colleagues tracked 60 volunteers learning a word-pairing task, then monitored their brain activity overnight to compare the roles of slow-wave sleep, the deep sleep dominant early in the night, and REM sleep, associated with dreaming and more common later in the night.\n\nB. Volunteers who were woken repeatedly to prevent slow-wave sleep, while REM sleep was left undisturbed, showed a 20 percent drop in next-day recall of the word pairs compared with volunteers whose sleep was undisturbed. Volunteers who instead had their REM sleep selectively disrupted showed a smaller, though still measurable, decline of around 8 percent.\n\nC. Tanaka's team argues this supports slow-wave sleep as the primary stage for consolidating this particular type of factual memory, with REM sleep playing a secondary or possibly different role, perhaps more relevant to emotional or procedural memories such as physical skills rather than word pairs. Other researchers caution that disrupting one sleep stage often also shortens or alters nearby stages, making it hard to attribute effects to a single stage in complete isolation.\n\nD. Tanaka accepts this measurement problem but notes that the size of the difference between the two disruption conditions, more than double, is larger than would be expected from disruption side-effects alone. She suggests that different types of memory likely rely on different sleep stages to different degrees, rather than there being one single sleep stage responsible for all memory consolidation.",
+  "group_id": "NIR-G21",
+  "stem": "In paragraph C, the word 'isolation' is closest in meaning to which of the following?",
+  "options": [
+   "being considered separately from other factors",
+   "being measured with complete scientific certainty",
+   "being combined together with every other factor",
+   "being ignored entirely by all researchers"
+  ],
+  "answer": 0,
+  "explain_zh": "isolation 指「隔離、單獨分開」，段落 C 說很難把效果 attribute...to a single stage in complete isolation，也就是難以將效果完全歸因於單一階段而不受其他因素影響，對應選項 A：單獨考量、不受其他因素干擾，故選 A。C「與每個其他因素結合在一起」與「單獨」意思相反；B、D 都偏離了原文語意。技巧：in isolation 是學術文章常見片語，表示「排除其他變因，單獨看待」。",
+  "vocab": [
+   {
+    "w": "isolation",
+    "zh": "隔離；單獨",
+    "pos": "n."
+   },
+   {
+    "w": "attribute to",
+    "zh": "將…歸因於",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0104",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:true-false-notgiven",
+  "tag_zh": "是非未提及",
+  "passage": "A. Memories formed during the day appear to be strengthened during sleep, but researchers disagree about which sleep stage does most of the work. Tanaka and colleagues tracked 60 volunteers learning a word-pairing task, then monitored their brain activity overnight to compare the roles of slow-wave sleep, the deep sleep dominant early in the night, and REM sleep, associated with dreaming and more common later in the night.\n\nB. Volunteers who were woken repeatedly to prevent slow-wave sleep, while REM sleep was left undisturbed, showed a 20 percent drop in next-day recall of the word pairs compared with volunteers whose sleep was undisturbed. Volunteers who instead had their REM sleep selectively disrupted showed a smaller, though still measurable, decline of around 8 percent.\n\nC. Tanaka's team argues this supports slow-wave sleep as the primary stage for consolidating this particular type of factual memory, with REM sleep playing a secondary or possibly different role, perhaps more relevant to emotional or procedural memories such as physical skills rather than word pairs. Other researchers caution that disrupting one sleep stage often also shortens or alters nearby stages, making it hard to attribute effects to a single stage in complete isolation.\n\nD. Tanaka accepts this measurement problem but notes that the size of the difference between the two disruption conditions, more than double, is larger than would be expected from disruption side-effects alone. She suggests that different types of memory likely rely on different sleep stages to different degrees, rather than there being one single sleep stage responsible for all memory consolidation.",
+  "group_id": "NIR-G21",
+  "stem": "Statement: Tanaka's team found that REM sleep disruption had absolutely no effect on next-day recall.",
+  "options": [
+   "True（文章支持）",
+   "False（文章反駁）",
+   "Not Given（文章沒提到）",
+   "文章自相矛盾"
+  ],
+  "answer": 1,
+  "explain_zh": "答案是 False。段落 B 明確寫 REM 睡眠被剝奪的組別 showed a smaller, though still measurable, decline of around 8 percent，代表確實有影響，只是幅度較小，題幹的「完全沒有影響」與原文矛盾，選 False。技巧：題幹使用 absolutely no effect 這類絕對否定詞時，要檢查原文是否明確給出「較小但仍存在」的數據，若有，就是 False 而非 Not Given。",
+  "vocab": [
+   {
+    "w": "decline",
+    "zh": "下降",
+    "pos": "n."
+   },
+   {
+    "w": "selectively",
+    "zh": "選擇性地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0105",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:matching-information",
+  "tag_zh": "段落定位",
+  "passage": "A. Memories formed during the day appear to be strengthened during sleep, but researchers disagree about which sleep stage does most of the work. Tanaka and colleagues tracked 60 volunteers learning a word-pairing task, then monitored their brain activity overnight to compare the roles of slow-wave sleep, the deep sleep dominant early in the night, and REM sleep, associated with dreaming and more common later in the night.\n\nB. Volunteers who were woken repeatedly to prevent slow-wave sleep, while REM sleep was left undisturbed, showed a 20 percent drop in next-day recall of the word pairs compared with volunteers whose sleep was undisturbed. Volunteers who instead had their REM sleep selectively disrupted showed a smaller, though still measurable, decline of around 8 percent.\n\nC. Tanaka's team argues this supports slow-wave sleep as the primary stage for consolidating this particular type of factual memory, with REM sleep playing a secondary or possibly different role, perhaps more relevant to emotional or procedural memories such as physical skills rather than word pairs. Other researchers caution that disrupting one sleep stage often also shortens or alters nearby stages, making it hard to attribute effects to a single stage in complete isolation.\n\nD. Tanaka accepts this measurement problem but notes that the size of the difference between the two disruption conditions, more than double, is larger than would be expected from disruption side-effects alone. She suggests that different types of memory likely rely on different sleep stages to different degrees, rather than there being one single sleep stage responsible for all memory consolidation.",
+  "group_id": "NIR-G21",
+  "stem": "Which paragraph raises a methodological caution about attributing effects to a single sleep stage?",
+  "options": [
+   "Paragraph A",
+   "Paragraph B",
+   "Paragraph C",
+   "Paragraph D"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 C 後半段寫 Other researchers caution that disrupting one sleep stage often also shortens or alters nearby stages, making it hard to attribute effects to a single stage，正是提出方法論上的疑慮，答案是 Paragraph C。段落 A 介紹研究設計；段落 B 呈現實驗數據；段落 D 是 Tanaka 對此疑慮的回應。技巧：找「研究限制、方法論疑慮」類段落，留意 caution、hard to、makes it difficult 這類提示語。",
+  "vocab": [
+   {
+    "w": "methodological",
+    "zh": "方法論上的",
+    "pos": "adj."
+   },
+   {
+    "w": "side-effect",
+    "zh": "副作用",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0106",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節查找",
+  "passage": "A. As ocean temperatures rise, coral reefs increasingly suffer bleaching events, in which corals expel the symbiotic algae that supply most of their energy and colour, often leading to death if warm conditions persist. Osei and colleagues have been testing whether selectively breeding corals from unusually heat-tolerant colonies can produce offspring better able to survive future warming, an approach sometimes called assisted evolution.\n\nB. In a four-year trial, coral fragments bred from parents that had survived a previous severe bleaching event showed a survival rate of 68 percent when exposed to an experimental heat stress test, compared with 41 percent for fragments from a general, unselected population exposed to the same test. The heat-tolerant lineage also grew at a similar rate to ordinary corals, addressing an earlier concern that resilience might come at the cost of slower growth.\n\nC. Osei is cautious about extrapolating too quickly from tank-based trials to reef-scale outcomes. Coral reefs are complex ecosystems, and heat tolerance bred under controlled laboratory conditions may not fully translate to the more variable stresses corals face in the wild, including disease, changing water chemistry, and competition with other reef organisms. Some marine biologists have also questioned whether large-scale planting of a genetically narrower set of heat-tolerant corals could reduce a reef's overall genetic diversity, potentially making it more vulnerable to other, unrelated threats.\n\nD. Osei argues that assisted evolution should be treated as one tool among several rather than a substitute for reducing the greenhouse gas emissions driving ocean warming in the first place. Pilot plantings on a small number of reef sections are now under way to test whether the laboratory survival advantage persists once corals are exposed to full reef conditions over several years.",
+  "group_id": "NIR-G22",
+  "stem": "In Osei's four-year trial, what survival rate did coral fragments from heat-tolerant parents show under the experimental heat stress test?",
+  "options": [
+   "The passage does not report a survival rate",
+   "41 percent",
+   "68 percent",
+   "Both groups showed exactly 50 percent"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 B 寫 showed a survival rate of 68 percent when exposed to an experimental heat stress test，對應選項 C，故選 C。B「41 percent」是一般未篩選族群的存活率，容易與耐熱品系混淆；D「兩組都是50%」與原文的兩個明確不同數字矛盾；A 文章確實有報告存活率數據。技巧：文章比較兩組數據時，務必對應清楚「哪一組（耐熱 vs 一般）」搭配「哪一個百分比」。",
+  "vocab": [
+   {
+    "w": "bleaching",
+    "zh": "（珊瑚）白化",
+    "pos": "n."
+   },
+   {
+    "w": "symbiotic",
+    "zh": "共生的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0107",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A. As ocean temperatures rise, coral reefs increasingly suffer bleaching events, in which corals expel the symbiotic algae that supply most of their energy and colour, often leading to death if warm conditions persist. Osei and colleagues have been testing whether selectively breeding corals from unusually heat-tolerant colonies can produce offspring better able to survive future warming, an approach sometimes called assisted evolution.\n\nB. In a four-year trial, coral fragments bred from parents that had survived a previous severe bleaching event showed a survival rate of 68 percent when exposed to an experimental heat stress test, compared with 41 percent for fragments from a general, unselected population exposed to the same test. The heat-tolerant lineage also grew at a similar rate to ordinary corals, addressing an earlier concern that resilience might come at the cost of slower growth.\n\nC. Osei is cautious about extrapolating too quickly from tank-based trials to reef-scale outcomes. Coral reefs are complex ecosystems, and heat tolerance bred under controlled laboratory conditions may not fully translate to the more variable stresses corals face in the wild, including disease, changing water chemistry, and competition with other reef organisms. Some marine biologists have also questioned whether large-scale planting of a genetically narrower set of heat-tolerant corals could reduce a reef's overall genetic diversity, potentially making it more vulnerable to other, unrelated threats.\n\nD. Osei argues that assisted evolution should be treated as one tool among several rather than a substitute for reducing the greenhouse gas emissions driving ocean warming in the first place. Pilot plantings on a small number of reef sections are now under way to test whether the laboratory survival advantage persists once corals are exposed to full reef conditions over several years.",
+  "group_id": "NIR-G22",
+  "stem": "What can be inferred about the earlier concern mentioned regarding heat-tolerant coral lineages?",
+  "options": [
+   "The heat-tolerant lineage was found to grow much more slowly than ordinary corals.",
+   "Growth rate was never measured in Osei's trial.",
+   "No one had ever considered breeding corals for heat tolerance before Osei's study.",
+   "Some researchers had worried that greater heat resilience might come with slower growth."
+  ],
+  "answer": 3,
+  "explain_zh": "段落 B 提到耐熱品系 grew at a similar rate to ordinary corals, addressing an earlier concern that resilience might come at the cost of slower growth，可推知先前確實有人擔心耐熱性與生長速度之間可能有取捨，對應選項 D，故選 D。A 與段落 B「生長速率相近」矛盾；B 原文明確提到有測量生長速率；C 與段落 A 描述 Osei 團隊「一直在測試」這個方法矛盾，暗示這並非全新想法。技巧：推論題常考「原文提到某個『先前疑慮』被解決了，代表這個疑慮原本是什麼」，答案通常就是把「解決了的內容」倒過來描述。",
+  "vocab": [
+   {
+    "w": "lineage",
+    "zh": "品系；血統",
+    "pos": "n."
+   },
+   {
+    "w": "resilience",
+    "zh": "韌性；恢復力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0108",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:true-false-notgiven",
+  "tag_zh": "是非未提及",
+  "passage": "A. As ocean temperatures rise, coral reefs increasingly suffer bleaching events, in which corals expel the symbiotic algae that supply most of their energy and colour, often leading to death if warm conditions persist. Osei and colleagues have been testing whether selectively breeding corals from unusually heat-tolerant colonies can produce offspring better able to survive future warming, an approach sometimes called assisted evolution.\n\nB. In a four-year trial, coral fragments bred from parents that had survived a previous severe bleaching event showed a survival rate of 68 percent when exposed to an experimental heat stress test, compared with 41 percent for fragments from a general, unselected population exposed to the same test. The heat-tolerant lineage also grew at a similar rate to ordinary corals, addressing an earlier concern that resilience might come at the cost of slower growth.\n\nC. Osei is cautious about extrapolating too quickly from tank-based trials to reef-scale outcomes. Coral reefs are complex ecosystems, and heat tolerance bred under controlled laboratory conditions may not fully translate to the more variable stresses corals face in the wild, including disease, changing water chemistry, and competition with other reef organisms. Some marine biologists have also questioned whether large-scale planting of a genetically narrower set of heat-tolerant corals could reduce a reef's overall genetic diversity, potentially making it more vulnerable to other, unrelated threats.\n\nD. Osei argues that assisted evolution should be treated as one tool among several rather than a substitute for reducing the greenhouse gas emissions driving ocean warming in the first place. Pilot plantings on a small number of reef sections are now under way to test whether the laboratory survival advantage persists once corals are exposed to full reef conditions over several years.",
+  "group_id": "NIR-G22",
+  "stem": "Statement: Osei believes assisted evolution should completely replace efforts to reduce greenhouse gas emissions.",
+  "options": [
+   "True（文章支持）",
+   "False（文章反駁）",
+   "Not Given（文章沒提到）",
+   "文章自相矛盾"
+  ],
+  "answer": 1,
+  "explain_zh": "答案是 False。段落 D 明確寫 assisted evolution should be treated as one tool among several rather than a substitute for reducing the greenhouse gas emissions，直接反駁題幹「完全取代減少溫室氣體排放的努力」，選 False。技巧：題幹的 completely replace 與原文的 rather than a substitute for 意思正好相反，是明確的 False 判斷依據。",
+  "vocab": [
+   {
+    "w": "substitute",
+    "zh": "替代品",
+    "pos": "n."
+   },
+   {
+    "w": "greenhouse gas",
+    "zh": "溫室氣體",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0109",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:matching-information",
+  "tag_zh": "段落定位",
+  "passage": "A. As ocean temperatures rise, coral reefs increasingly suffer bleaching events, in which corals expel the symbiotic algae that supply most of their energy and colour, often leading to death if warm conditions persist. Osei and colleagues have been testing whether selectively breeding corals from unusually heat-tolerant colonies can produce offspring better able to survive future warming, an approach sometimes called assisted evolution.\n\nB. In a four-year trial, coral fragments bred from parents that had survived a previous severe bleaching event showed a survival rate of 68 percent when exposed to an experimental heat stress test, compared with 41 percent for fragments from a general, unselected population exposed to the same test. The heat-tolerant lineage also grew at a similar rate to ordinary corals, addressing an earlier concern that resilience might come at the cost of slower growth.\n\nC. Osei is cautious about extrapolating too quickly from tank-based trials to reef-scale outcomes. Coral reefs are complex ecosystems, and heat tolerance bred under controlled laboratory conditions may not fully translate to the more variable stresses corals face in the wild, including disease, changing water chemistry, and competition with other reef organisms. Some marine biologists have also questioned whether large-scale planting of a genetically narrower set of heat-tolerant corals could reduce a reef's overall genetic diversity, potentially making it more vulnerable to other, unrelated threats.\n\nD. Osei argues that assisted evolution should be treated as one tool among several rather than a substitute for reducing the greenhouse gas emissions driving ocean warming in the first place. Pilot plantings on a small number of reef sections are now under way to test whether the laboratory survival advantage persists once corals are exposed to full reef conditions over several years.",
+  "group_id": "NIR-G22",
+  "stem": "Which paragraph raises concerns about reduced genetic diversity from large-scale planting of heat-tolerant corals?",
+  "options": [
+   "Paragraph A",
+   "Paragraph B",
+   "Paragraph C",
+   "Paragraph D"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 C 提到 Some marine biologists have also questioned whether large-scale planting of a genetically narrower set of heat-tolerant corals could reduce a reef's overall genetic diversity，正是討論這項疑慮的段落，答案是 Paragraph C。段落 A 介紹輔助演化的概念；段落 B 呈現實驗數據；段落 D 說明 Osei 的整體立場與後續試驗計畫。技巧：找「基因多樣性」相關疑慮的段落，先鎖定題幹關鍵詞（genetic diversity），再掃描各段落是否有同義描述。",
+  "vocab": [
+   {
+    "w": "genetic diversity",
+    "zh": "基因多樣性",
+    "pos": "n."
+   },
+   {
+    "w": "vulnerable",
+    "zh": "易受傷害的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0110",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:writer-view",
+  "tag_zh": "作者觀點",
+  "passage": "A. As ocean temperatures rise, coral reefs increasingly suffer bleaching events, in which corals expel the symbiotic algae that supply most of their energy and colour, often leading to death if warm conditions persist. Osei and colleagues have been testing whether selectively breeding corals from unusually heat-tolerant colonies can produce offspring better able to survive future warming, an approach sometimes called assisted evolution.\n\nB. In a four-year trial, coral fragments bred from parents that had survived a previous severe bleaching event showed a survival rate of 68 percent when exposed to an experimental heat stress test, compared with 41 percent for fragments from a general, unselected population exposed to the same test. The heat-tolerant lineage also grew at a similar rate to ordinary corals, addressing an earlier concern that resilience might come at the cost of slower growth.\n\nC. Osei is cautious about extrapolating too quickly from tank-based trials to reef-scale outcomes. Coral reefs are complex ecosystems, and heat tolerance bred under controlled laboratory conditions may not fully translate to the more variable stresses corals face in the wild, including disease, changing water chemistry, and competition with other reef organisms. Some marine biologists have also questioned whether large-scale planting of a genetically narrower set of heat-tolerant corals could reduce a reef's overall genetic diversity, potentially making it more vulnerable to other, unrelated threats.\n\nD. Osei argues that assisted evolution should be treated as one tool among several rather than a substitute for reducing the greenhouse gas emissions driving ocean warming in the first place. Pilot plantings on a small number of reef sections are now under way to test whether the laboratory survival advantage persists once corals are exposed to full reef conditions over several years.",
+  "group_id": "NIR-G22",
+  "stem": "What is Osei's overall attitude towards assisted evolution as a solution for coral reefs?",
+  "options": [
+   "Indifferent, since she believes reef survival is already guaranteed",
+   "Fully convinced it will single-handedly save all coral reefs from warming",
+   "Cautiously supportive, viewing it as one useful tool rather than a complete solution on its own",
+   "Entirely dismissive, considering the approach a waste of research resources"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 C 顯示她對從實驗室推論到整個珊瑚礁生態系持謹慎態度，段落 D 又明確表示這只是「眾多工具之一」，整體是「支持但保留」，對應選項 C，故選 C。A、B、D 都走向極端，與原文的謹慎、務實立場不符。技巧：作者觀點題常見正解是「支持但非萬靈丹」這種折衷立場，留意 one tool among several、cautious about 這類用語。",
+  "vocab": [
+   {
+    "w": "cautiously",
+    "zh": "謹慎地",
+    "pos": "adv."
+   },
+   {
+    "w": "pilot planting",
+    "zh": "試驗性種植",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0111",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A. Traditional accounts credit Cai Lun, a court official in Han dynasty China, with inventing paper in 105 AD, based on a historical record praising him for presenting the technique to the emperor. Feng and colleagues, examining archaeological finds of paper fragments from sites dated earlier than 105 AD, argue that paper-like material existed in China for at least two centuries before Cai Lun's presentation.\n\nB. The fragments Feng's team studied, recovered from tombs and border postal relay stations, are made from macerated plant fibre pressed into thin sheets, chemically and structurally similar to later, more refined Han-dynasty paper. Some fragments even carry faint traces of writing, suggesting they were used for recording information rather than purely as packaging or wrapping material, which some earlier scholars had proposed as their function.\n\nC. Feng argues that Cai Lun's true contribution was likely standardising and improving an existing craft, perhaps introducing a more reliable formula of fibre sources such as bark, hemp waste, and old fishing nets, rather than inventing paper from nothing. This would make Cai Lun analogous to an improver credited, through historical record-keeping bias, with a wholesale invention.\n\nD. Not all specialists accept this reading. A few argue that the earlier fragments may represent a more limited, localised technique that did not spread widely, and that Cai Lun's genuine achievement was making paper cheap and reliable enough for mass adoption across the empire, a distinct kind of contribution from either inventing or merely refining the material. Feng agrees this remains an open question, noting that surviving fragments from before 105 AD are too few to establish how widely the earlier technique was used.",
+  "group_id": "NIR-G23",
+  "stem": "What is Feng's main argument regarding the traditional story of Cai Lun inventing paper?",
+  "options": [
+   "Cai Lun never existed and the historical record about him is entirely fabricated",
+   "No paper fragments have ever been found dating from before 105 AD",
+   "Paper was definitely invented outside China and later brought in by traders",
+   "Archaeological evidence suggests paper-like material existed before Cai Lun, so his role was likely improving rather than inventing it"
+  ],
+  "answer": 3,
+  "explain_zh": "段落 A、C 說明考古證據顯示紙狀材料早於 105 年就存在，Feng 認為 Cai Lun 的真正貢獻可能是標準化與改良，而非從零發明，對應選項 D，故選 D。A 原文沒有質疑 Cai Lun 的存在，只是質疑「發明」這個定位；B 與段落 A、B 描述的早期紙片發現直接矛盾；C 文章討論的都是中國境內的考古發現，沒有談論外地傳入。技巧：主旨題遇到「修正歷史定位」類文章，答案要精準對應「從發明者改為改良者」這個具體修正，不能誇大或改變方向。",
+  "vocab": [
+   {
+    "w": "macerate",
+    "zh": "（將纖維）浸軟搗碎",
+    "pos": "v."
+   },
+   {
+    "w": "analogous",
+    "zh": "類似的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0112",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節查找",
+  "passage": "A. Traditional accounts credit Cai Lun, a court official in Han dynasty China, with inventing paper in 105 AD, based on a historical record praising him for presenting the technique to the emperor. Feng and colleagues, examining archaeological finds of paper fragments from sites dated earlier than 105 AD, argue that paper-like material existed in China for at least two centuries before Cai Lun's presentation.\n\nB. The fragments Feng's team studied, recovered from tombs and border postal relay stations, are made from macerated plant fibre pressed into thin sheets, chemically and structurally similar to later, more refined Han-dynasty paper. Some fragments even carry faint traces of writing, suggesting they were used for recording information rather than purely as packaging or wrapping material, which some earlier scholars had proposed as their function.\n\nC. Feng argues that Cai Lun's true contribution was likely standardising and improving an existing craft, perhaps introducing a more reliable formula of fibre sources such as bark, hemp waste, and old fishing nets, rather than inventing paper from nothing. This would make Cai Lun analogous to an improver credited, through historical record-keeping bias, with a wholesale invention.\n\nD. Not all specialists accept this reading. A few argue that the earlier fragments may represent a more limited, localised technique that did not spread widely, and that Cai Lun's genuine achievement was making paper cheap and reliable enough for mass adoption across the empire, a distinct kind of contribution from either inventing or merely refining the material. Feng agrees this remains an open question, noting that surviving fragments from before 105 AD are too few to establish how widely the earlier technique was used.",
+  "group_id": "NIR-G23",
+  "stem": "According to the passage, roughly how much earlier than 105 AD does Feng's team believe paper-like material existed in China?",
+  "options": [
+   "The passage does not give a time frame",
+   "At least two centuries earlier",
+   "Exactly one century earlier",
+   "At least two decades earlier"
+  ],
+  "answer": 1,
+  "explain_zh": "段落 A 寫 paper-like material existed in China for at least two centuries before Cai Lun's presentation，對應選項 B，故選 B。D「two decades」（二十年）把時間長度大幅縮小；C「exactly one century」是猜測性的誘答；A 文章確實有給出明確的時間範圍。技巧：two centuries 與 two decades 這類單位相似但數量級差十倍的誘答，是雅思閱讀常見陷阱，作答時要仔細核對單位。",
+  "vocab": [
+   {
+    "w": "fragment",
+    "zh": "碎片",
+    "pos": "n."
+   },
+   {
+    "w": "relay station",
+    "zh": "驛站",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0113",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "語境詞義",
+  "passage": "A. Traditional accounts credit Cai Lun, a court official in Han dynasty China, with inventing paper in 105 AD, based on a historical record praising him for presenting the technique to the emperor. Feng and colleagues, examining archaeological finds of paper fragments from sites dated earlier than 105 AD, argue that paper-like material existed in China for at least two centuries before Cai Lun's presentation.\n\nB. The fragments Feng's team studied, recovered from tombs and border postal relay stations, are made from macerated plant fibre pressed into thin sheets, chemically and structurally similar to later, more refined Han-dynasty paper. Some fragments even carry faint traces of writing, suggesting they were used for recording information rather than purely as packaging or wrapping material, which some earlier scholars had proposed as their function.\n\nC. Feng argues that Cai Lun's true contribution was likely standardising and improving an existing craft, perhaps introducing a more reliable formula of fibre sources such as bark, hemp waste, and old fishing nets, rather than inventing paper from nothing. This would make Cai Lun analogous to an improver credited, through historical record-keeping bias, with a wholesale invention.\n\nD. Not all specialists accept this reading. A few argue that the earlier fragments may represent a more limited, localised technique that did not spread widely, and that Cai Lun's genuine achievement was making paper cheap and reliable enough for mass adoption across the empire, a distinct kind of contribution from either inventing or merely refining the material. Feng agrees this remains an open question, noting that surviving fragments from before 105 AD are too few to establish how widely the earlier technique was used.",
+  "group_id": "NIR-G23",
+  "stem": "In paragraph C, the word 'wholesale' as used in 'a wholesale invention' is closest in meaning to which of the following?",
+  "options": [
+   "sold commercially at a low price",
+   "conducted only on a small, limited scale",
+   "borrowed entirely from a foreign source",
+   "complete and total, from nothing"
+  ],
+  "answer": 3,
+  "explain_zh": "wholesale 在此作形容詞，指「全面的、徹底的」，段落 C 說 Cai Lun 被歸功於 a wholesale invention（一項從無到有的完整發明），對應選項 D，故選 D。B「僅限小規模」與「全面、徹底」意思相反；A 是 wholesale 的另一個常見商業用法（批發、低價出售），但不符合此處語境；C 原文沒有提到紙的技術是從外國借用而來。技巧：wholesale 除了「批發」的商業意思，作形容詞修飾抽象名詞時，常表示「全面、徹底」，要依上下文判斷。",
+  "vocab": [
+   {
+    "w": "wholesale",
+    "zh": "全面的；徹底的",
+    "pos": "adj."
+   },
+   {
+    "w": "standardise",
+    "zh": "標準化",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0114",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:true-false-notgiven",
+  "tag_zh": "是非未提及",
+  "passage": "A. Traditional accounts credit Cai Lun, a court official in Han dynasty China, with inventing paper in 105 AD, based on a historical record praising him for presenting the technique to the emperor. Feng and colleagues, examining archaeological finds of paper fragments from sites dated earlier than 105 AD, argue that paper-like material existed in China for at least two centuries before Cai Lun's presentation.\n\nB. The fragments Feng's team studied, recovered from tombs and border postal relay stations, are made from macerated plant fibre pressed into thin sheets, chemically and structurally similar to later, more refined Han-dynasty paper. Some fragments even carry faint traces of writing, suggesting they were used for recording information rather than purely as packaging or wrapping material, which some earlier scholars had proposed as their function.\n\nC. Feng argues that Cai Lun's true contribution was likely standardising and improving an existing craft, perhaps introducing a more reliable formula of fibre sources such as bark, hemp waste, and old fishing nets, rather than inventing paper from nothing. This would make Cai Lun analogous to an improver credited, through historical record-keeping bias, with a wholesale invention.\n\nD. Not all specialists accept this reading. A few argue that the earlier fragments may represent a more limited, localised technique that did not spread widely, and that Cai Lun's genuine achievement was making paper cheap and reliable enough for mass adoption across the empire, a distinct kind of contribution from either inventing or merely refining the material. Feng agrees this remains an open question, noting that surviving fragments from before 105 AD are too few to establish how widely the earlier technique was used.",
+  "group_id": "NIR-G23",
+  "stem": "Statement: All specialists agree with Feng that Cai Lun's true contribution was standardising an existing technique rather than inventing paper.",
+  "options": [
+   "True（文章支持）",
+   "False（文章反駁）",
+   "Not Given（文章沒提到）",
+   "文章自相矛盾"
+  ],
+  "answer": 1,
+  "explain_zh": "答案是 False。段落 D 明確寫 Not all specialists accept this reading，直接反駁題幹「所有專家都同意」的說法，選 False。技巧：題幹的 all specialists agree 這類全稱肯定句，只要原文出現 not all...accept 這種反例，就能直接判定為 False。",
+  "vocab": [
+   {
+    "w": "specialist",
+    "zh": "專家",
+    "pos": "n."
+   },
+   {
+    "w": "localised",
+    "zh": "地域性的；侷限的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0115",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:writer-view",
+  "tag_zh": "作者觀點",
+  "passage": "A. Traditional accounts credit Cai Lun, a court official in Han dynasty China, with inventing paper in 105 AD, based on a historical record praising him for presenting the technique to the emperor. Feng and colleagues, examining archaeological finds of paper fragments from sites dated earlier than 105 AD, argue that paper-like material existed in China for at least two centuries before Cai Lun's presentation.\n\nB. The fragments Feng's team studied, recovered from tombs and border postal relay stations, are made from macerated plant fibre pressed into thin sheets, chemically and structurally similar to later, more refined Han-dynasty paper. Some fragments even carry faint traces of writing, suggesting they were used for recording information rather than purely as packaging or wrapping material, which some earlier scholars had proposed as their function.\n\nC. Feng argues that Cai Lun's true contribution was likely standardising and improving an existing craft, perhaps introducing a more reliable formula of fibre sources such as bark, hemp waste, and old fishing nets, rather than inventing paper from nothing. This would make Cai Lun analogous to an improver credited, through historical record-keeping bias, with a wholesale invention.\n\nD. Not all specialists accept this reading. A few argue that the earlier fragments may represent a more limited, localised technique that did not spread widely, and that Cai Lun's genuine achievement was making paper cheap and reliable enough for mass adoption across the empire, a distinct kind of contribution from either inventing or merely refining the material. Feng agrees this remains an open question, noting that surviving fragments from before 105 AD are too few to establish how widely the earlier technique was used.",
+  "group_id": "NIR-G23",
+  "stem": "How does the writer treat the question of how widely the pre-105 AD paper technique was used?",
+  "options": [
+   "As a fully resolved matter with clear consensus among all specialists",
+   "As an irrelevant detail with no bearing on Cai Lun's historical reputation",
+   "As proof that the earlier technique spread across the entire empire",
+   "As an open question that current archaeological evidence cannot yet settle"
+  ],
+  "answer": 3,
+  "explain_zh": "段落 D 寫 Feng agrees this remains an open question, noting that surviving fragments from before 105 AD are too few to establish how widely the earlier technique was used，對應選項 D，故選 D。A 與「尚未定論」矛盾；B 與整段圍繞這個問題展開的討論份量不符，並非無關緊要的細節；C 段落 D 明確說證據「太少，無法確立」流傳範圍，並非已證明廣泛流傳。技巧：結尾段落常是作者對「尚待解決的問題」給出評價的地方，留意 remains an open question、too few to establish 這類保留語氣。",
+  "vocab": [
+   {
+    "w": "establish",
+    "zh": "確立；證實",
+    "pos": "v."
+   },
+   {
+    "w": "empire",
+    "zh": "帝國",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0116",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A. Online citizen-science projects invite volunteers with no formal training to classify large volumes of data, such as sorting images of galaxies by shape, a task that would take professional astronomers many years to complete alone. Nilsson and colleagues evaluated one such project by comparing volunteer classifications of 50,000 galaxy images against classifications independently produced by a small team of expert astronomers for the same images.\n\nB. Agreement between volunteers and experts was high for straightforward categories: volunteers correctly identified clearly spiral or clearly elliptical galaxies about 93 percent of the time. Agreement dropped considerably for ambiguous or unusual cases, such as galaxies caught in the process of merging, where volunteer classifications matched expert judgement only around 55 percent of the time.\n\nC. Nilsson's team found that combining multiple independent volunteer classifications of the same image, rather than relying on any single volunteer, substantially closed this gap; when at least 20 volunteers classified the same ambiguous image and the most common answer was taken, agreement with experts rose to roughly 80 percent. This suggests that aggregating many non-expert judgements can approximate expert-level accuracy even where individual volunteers frequently disagree with specialists.\n\nD. Nilsson cautions that this aggregation approach works best for perceptual classification tasks with a visible, if sometimes ambiguous, correct answer, and may not transfer to tasks requiring specialised background knowledge to interpret correctly. She argues that crowdsourced science is best understood as a tool suited to specific kinds of large-scale pattern recognition, rather than a general substitute for expert judgement across all scientific tasks.",
+  "group_id": "NIR-G24",
+  "stem": "What is the main finding of Nilsson's evaluation of citizen-science galaxy classification?",
+  "options": [
+   "Citizen science has been proven suitable for every kind of scientific task",
+   "Aggregating many volunteer judgements can approach expert-level accuracy, though the method has limits",
+   "Volunteer classifications are always completely accurate, even for the most ambiguous cases",
+   "Volunteers were found to be less accurate than experts in every single case"
+  ],
+  "answer": 1,
+  "explain_zh": "全文顯示明確案例準確率高，模糊案例單一志工準確率較低，但彙整多人意見後準確率大幅提升，最後 Nilsson 指出此方法有其適用範圍，對應選項 B，故選 B。A 與段落 D 明確說此方法「未必適用於需要專業背景知識」的任務矛盾；C 與段落 B 明確案例準確率僅約 93%、模糊案例更只有約 55% 矛盾，並非「always completely accurate」；D 與段落 B 明確案例準確率高達 93% 矛盾，並非每個案例都比專家差。技巧：主旨題要能同時反映「方法有效」與「方法有限制」兩個層面。",
+  "vocab": [
+   {
+    "w": "aggregate",
+    "zh": "彙整；聚合",
+    "pos": "v."
+   },
+   {
+    "w": "ambiguous",
+    "zh": "模糊不清的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0117",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A. Online citizen-science projects invite volunteers with no formal training to classify large volumes of data, such as sorting images of galaxies by shape, a task that would take professional astronomers many years to complete alone. Nilsson and colleagues evaluated one such project by comparing volunteer classifications of 50,000 galaxy images against classifications independently produced by a small team of expert astronomers for the same images.\n\nB. Agreement between volunteers and experts was high for straightforward categories: volunteers correctly identified clearly spiral or clearly elliptical galaxies about 93 percent of the time. Agreement dropped considerably for ambiguous or unusual cases, such as galaxies caught in the process of merging, where volunteer classifications matched expert judgement only around 55 percent of the time.\n\nC. Nilsson's team found that combining multiple independent volunteer classifications of the same image, rather than relying on any single volunteer, substantially closed this gap; when at least 20 volunteers classified the same ambiguous image and the most common answer was taken, agreement with experts rose to roughly 80 percent. This suggests that aggregating many non-expert judgements can approximate expert-level accuracy even where individual volunteers frequently disagree with specialists.\n\nD. Nilsson cautions that this aggregation approach works best for perceptual classification tasks with a visible, if sometimes ambiguous, correct answer, and may not transfer to tasks requiring specialised background knowledge to interpret correctly. She argues that crowdsourced science is best understood as a tool suited to specific kinds of large-scale pattern recognition, rather than a general substitute for expert judgement across all scientific tasks.",
+  "group_id": "NIR-G24",
+  "stem": "What can be inferred about why combining multiple volunteer classifications improved accuracy for ambiguous images?",
+  "options": [
+   "Individual errors and disagreements may cancel out when many independent judgements are combined.",
+   "Ambiguous images were removed from the dataset entirely.",
+   "Every individual volunteer became more accurate after seeing other volunteers' answers.",
+   "Experts changed their own classifications to match the volunteers."
+  ],
+  "answer": 0,
+  "explain_zh": "段落 C 說明彙整至少 20 位志工的判斷、取最多數答案後，準確率大幅提升，暗示個別的錯誤或分歧在大量獨立判斷彙整後可能互相抵銷，趨近專家水準，對應選項 A，故選 A。C 原文說的是「彙整多人答案」而非「志工看了別人答案後變準」；B、D 原文都沒有提及移除模糊圖片或專家改變分類。技巧：推論題常考「群體彙整為何比個人準確」，核心概念通常是「獨立判斷的隨機誤差會互相抵銷」。",
+  "vocab": [
+   {
+    "w": "perceptual",
+    "zh": "知覺的",
+    "pos": "adj."
+   },
+   {
+    "w": "approximate",
+    "zh": "近似於",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0118",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "語境詞義",
+  "passage": "A. Online citizen-science projects invite volunteers with no formal training to classify large volumes of data, such as sorting images of galaxies by shape, a task that would take professional astronomers many years to complete alone. Nilsson and colleagues evaluated one such project by comparing volunteer classifications of 50,000 galaxy images against classifications independently produced by a small team of expert astronomers for the same images.\n\nB. Agreement between volunteers and experts was high for straightforward categories: volunteers correctly identified clearly spiral or clearly elliptical galaxies about 93 percent of the time. Agreement dropped considerably for ambiguous or unusual cases, such as galaxies caught in the process of merging, where volunteer classifications matched expert judgement only around 55 percent of the time.\n\nC. Nilsson's team found that combining multiple independent volunteer classifications of the same image, rather than relying on any single volunteer, substantially closed this gap; when at least 20 volunteers classified the same ambiguous image and the most common answer was taken, agreement with experts rose to roughly 80 percent. This suggests that aggregating many non-expert judgements can approximate expert-level accuracy even where individual volunteers frequently disagree with specialists.\n\nD. Nilsson cautions that this aggregation approach works best for perceptual classification tasks with a visible, if sometimes ambiguous, correct answer, and may not transfer to tasks requiring specialised background knowledge to interpret correctly. She argues that crowdsourced science is best understood as a tool suited to specific kinds of large-scale pattern recognition, rather than a general substitute for expert judgement across all scientific tasks.",
+  "group_id": "NIR-G24",
+  "stem": "In paragraph D, the word 'transfer' is closest in meaning to which of the following?",
+  "options": [
+   "apply successfully to a different situation or task",
+   "physically move data from one computer to another",
+   "financially compensate volunteers for their work",
+   "completely disappear from use over time"
+  ],
+  "answer": 0,
+  "explain_zh": "transfer 在此指「（方法、效果）套用到其他情境」，段落 D 說彙整法 may not transfer to tasks requiring specialised background knowledge，也就是這個方法未必能套用到需要專業知識的任務上，最接近 A。B、C、D 都偏離了「方法套用到其他任務」這個核心意思。技巧：transfer 在描述「技能、方法、效果」時，常表示「從一個情境套用到另一個情境」，與 apply to 意思相近。",
+  "vocab": [
+   {
+    "w": "transfer",
+    "zh": "轉移；套用",
+    "pos": "v."
+   },
+   {
+    "w": "specialised",
+    "zh": "專業的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0119",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:matching-information",
+  "tag_zh": "段落定位",
+  "passage": "A. Online citizen-science projects invite volunteers with no formal training to classify large volumes of data, such as sorting images of galaxies by shape, a task that would take professional astronomers many years to complete alone. Nilsson and colleagues evaluated one such project by comparing volunteer classifications of 50,000 galaxy images against classifications independently produced by a small team of expert astronomers for the same images.\n\nB. Agreement between volunteers and experts was high for straightforward categories: volunteers correctly identified clearly spiral or clearly elliptical galaxies about 93 percent of the time. Agreement dropped considerably for ambiguous or unusual cases, such as galaxies caught in the process of merging, where volunteer classifications matched expert judgement only around 55 percent of the time.\n\nC. Nilsson's team found that combining multiple independent volunteer classifications of the same image, rather than relying on any single volunteer, substantially closed this gap; when at least 20 volunteers classified the same ambiguous image and the most common answer was taken, agreement with experts rose to roughly 80 percent. This suggests that aggregating many non-expert judgements can approximate expert-level accuracy even where individual volunteers frequently disagree with specialists.\n\nD. Nilsson cautions that this aggregation approach works best for perceptual classification tasks with a visible, if sometimes ambiguous, correct answer, and may not transfer to tasks requiring specialised background knowledge to interpret correctly. She argues that crowdsourced science is best understood as a tool suited to specific kinds of large-scale pattern recognition, rather than a general substitute for expert judgement across all scientific tasks.",
+  "group_id": "NIR-G24",
+  "stem": "Which paragraph describes the process of aggregating multiple volunteer classifications to improve accuracy?",
+  "options": [
+   "Paragraph A",
+   "Paragraph B",
+   "Paragraph C",
+   "Paragraph D"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 C 描述 combining multiple independent volunteer classifications of the same image... when at least 20 volunteers classified the same ambiguous image and the most common answer was taken, agreement with experts rose to roughly 80 percent，正是描述彙整流程的段落，答案是 Paragraph C。段落 A 介紹研究設計；段落 B 呈現單一志工的準確率數據；段落 D 討論此方法的適用範圍。技巧：找「方法／流程說明」類段落，留意描述具體操作步驟的句子，如 combining、when...classified、the most common answer was taken。",
+  "vocab": [
+   {
+    "w": "independent",
+    "zh": "獨立的",
+    "pos": "adj."
+   },
+   {
+    "w": "classification",
+    "zh": "分類",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0120",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:writer-view",
+  "tag_zh": "作者觀點",
+  "passage": "A. Online citizen-science projects invite volunteers with no formal training to classify large volumes of data, such as sorting images of galaxies by shape, a task that would take professional astronomers many years to complete alone. Nilsson and colleagues evaluated one such project by comparing volunteer classifications of 50,000 galaxy images against classifications independently produced by a small team of expert astronomers for the same images.\n\nB. Agreement between volunteers and experts was high for straightforward categories: volunteers correctly identified clearly spiral or clearly elliptical galaxies about 93 percent of the time. Agreement dropped considerably for ambiguous or unusual cases, such as galaxies caught in the process of merging, where volunteer classifications matched expert judgement only around 55 percent of the time.\n\nC. Nilsson's team found that combining multiple independent volunteer classifications of the same image, rather than relying on any single volunteer, substantially closed this gap; when at least 20 volunteers classified the same ambiguous image and the most common answer was taken, agreement with experts rose to roughly 80 percent. This suggests that aggregating many non-expert judgements can approximate expert-level accuracy even where individual volunteers frequently disagree with specialists.\n\nD. Nilsson cautions that this aggregation approach works best for perceptual classification tasks with a visible, if sometimes ambiguous, correct answer, and may not transfer to tasks requiring specialised background knowledge to interpret correctly. She argues that crowdsourced science is best understood as a tool suited to specific kinds of large-scale pattern recognition, rather than a general substitute for expert judgement across all scientific tasks.",
+  "group_id": "NIR-G24",
+  "stem": "How does Nilsson view the general applicability of crowdsourced science?",
+  "options": [
+   "As entirely unreliable and not worth pursuing further",
+   "As a method that should replace all professional astronomers immediately",
+   "As equally effective for every possible scientific task without exception",
+   "As well suited to certain large-scale pattern-recognition tasks, but not a general substitute for expert judgement"
+  ],
+  "answer": 3,
+  "explain_zh": "段落 D 明確寫 crowdsourced science is best understood as a tool suited to specific kinds of large-scale pattern recognition, rather than a general substitute for expert judgement across all scientific tasks，對應選項 D，故選 D。A 與整篇文章呈現的正面數據（93%、80%準確率）矛盾，並非完全不可靠；B、C 都過度誇大其適用範圍，原文並未主張取代所有專業判斷或適用於每一種任務。技巧：作者觀點題常見正解是「適用於特定情境，但非萬用工具」，留意 suited to、rather than a general substitute 這類限定語。",
+  "vocab": [
+   {
+    "w": "applicability",
+    "zh": "適用性",
+    "pos": "n."
+   },
+   {
+    "w": "substitute for",
+    "zh": "…的替代品",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0121",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A. Forecasting volcanic eruptions remains far less precise than forecasting weather, but monitoring networks have improved considerably. Villareal and colleagues examined records from 45 eruptions worldwide to assess how reliably common warning signs, including ground deformation, increased seismic activity, and changes in gas emissions, preceded actual eruptions.\n\nB. Ground deformation, measured by GPS sensors detecting the swelling of a volcano as magma accumulates beneath it, preceded eruption in 78 percent of the cases studied, typically appearing weeks to months in advance. Increased seismic activity was an even more consistent signal, present before 91 percent of eruptions, though the lead time varied enormously, from several months down to only a few hours in some cases.\n\nC. Gas emissions proved the least reliable single indicator: sulfur dioxide levels rose noticeably before only about 50 percent of the eruptions in the sample, and in several cases rose and then fell again without any eruption following at all, producing false alarms that Villareal notes can undermine public trust in evacuation warnings if repeated too often. Combining all three signals, rather than relying on any one alone, correctly anticipated 85 percent of the eruptions studied, with a false alarm rate considerably lower than for gas emissions used alone.\n\nD. Villareal argues that the greatest remaining obstacle is not the signals themselves but the wide variation in lead time, since a monitoring system that reliably detects unrest weeks in advance still cannot promise how much warning residents will actually receive in a specific case. She recommends that evacuation planning treat forecasts as probabilistic guidance rather than precise predictions, building in contingency plans for both very short and comparatively long warning periods.",
+  "group_id": "NIR-G25",
+  "stem": "What does Villareal's research indicate about volcanic eruption forecasting?",
+  "options": [
+   "Combining several warning signs improves forecasting accuracy, though lead time remains highly unpredictable",
+   "No warning signs have ever been found to precede volcanic eruptions",
+   "Ground deformation is completely useless as a forecasting signal",
+   "Gas emissions alone provide a perfectly reliable forecast of eruptions"
+  ],
+  "answer": 0,
+  "explain_zh": "全文比較三種警訊的可靠度，指出綜合使用能提升準確率至85%，但預警時間長短差異極大，對應選項 A，故選 A。B 與段落 B、C 分別列出地表變形（78%）、地震活動（91%）、氣體排放（50%）三種訊號數據矛盾，代表警訊確實存在；C 與段落 B 顯示地表變形在 78% 案例中出現矛盾，並非無用；D 與段落 C 說氣體排放是「最不可靠的單一指標」且常有假警報矛盾。技巧：主旨題要能同時涵蓋「整體結論（綜合預測較準）」與「仍存在的限制（預警時間不定）」。",
+  "vocab": [
+   {
+    "w": "deformation",
+    "zh": "（地表）變形",
+    "pos": "n."
+   },
+   {
+    "w": "seismic",
+    "zh": "地震的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0122",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節查找",
+  "passage": "A. Forecasting volcanic eruptions remains far less precise than forecasting weather, but monitoring networks have improved considerably. Villareal and colleagues examined records from 45 eruptions worldwide to assess how reliably common warning signs, including ground deformation, increased seismic activity, and changes in gas emissions, preceded actual eruptions.\n\nB. Ground deformation, measured by GPS sensors detecting the swelling of a volcano as magma accumulates beneath it, preceded eruption in 78 percent of the cases studied, typically appearing weeks to months in advance. Increased seismic activity was an even more consistent signal, present before 91 percent of eruptions, though the lead time varied enormously, from several months down to only a few hours in some cases.\n\nC. Gas emissions proved the least reliable single indicator: sulfur dioxide levels rose noticeably before only about 50 percent of the eruptions in the sample, and in several cases rose and then fell again without any eruption following at all, producing false alarms that Villareal notes can undermine public trust in evacuation warnings if repeated too often. Combining all three signals, rather than relying on any one alone, correctly anticipated 85 percent of the eruptions studied, with a false alarm rate considerably lower than for gas emissions used alone.\n\nD. Villareal argues that the greatest remaining obstacle is not the signals themselves but the wide variation in lead time, since a monitoring system that reliably detects unrest weeks in advance still cannot promise how much warning residents will actually receive in a specific case. She recommends that evacuation planning treat forecasts as probabilistic guidance rather than precise predictions, building in contingency plans for both very short and comparatively long warning periods.",
+  "group_id": "NIR-G25",
+  "stem": "According to the passage, increased seismic activity was present before what percentage of the eruptions studied?",
+  "options": [
+   "78 percent",
+   "85 percent",
+   "91 percent",
+   "50 percent"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 B 寫 Increased seismic activity was an even more consistent signal, present before 91 percent of eruptions，對應選項 C，故選 C。A「78 percent」是地表變形的數字；D「50 percent」是氣體排放的數字；B「85 percent」是綜合三種訊號後的準確率；四個數字都出現在文章中，必須精準對應各自代表的指標。技巧：這類「多重數據比對」題型，建議先在草稿紙上列出每個指標對應的百分比，再回頭選答案。",
+  "vocab": [
+   {
+    "w": "consistent",
+    "zh": "一致的；穩定的",
+    "pos": "adj."
+   },
+   {
+    "w": "lead time",
+    "zh": "預警時間；前置時間",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0123",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A. Forecasting volcanic eruptions remains far less precise than forecasting weather, but monitoring networks have improved considerably. Villareal and colleagues examined records from 45 eruptions worldwide to assess how reliably common warning signs, including ground deformation, increased seismic activity, and changes in gas emissions, preceded actual eruptions.\n\nB. Ground deformation, measured by GPS sensors detecting the swelling of a volcano as magma accumulates beneath it, preceded eruption in 78 percent of the cases studied, typically appearing weeks to months in advance. Increased seismic activity was an even more consistent signal, present before 91 percent of eruptions, though the lead time varied enormously, from several months down to only a few hours in some cases.\n\nC. Gas emissions proved the least reliable single indicator: sulfur dioxide levels rose noticeably before only about 50 percent of the eruptions in the sample, and in several cases rose and then fell again without any eruption following at all, producing false alarms that Villareal notes can undermine public trust in evacuation warnings if repeated too often. Combining all three signals, rather than relying on any one alone, correctly anticipated 85 percent of the eruptions studied, with a false alarm rate considerably lower than for gas emissions used alone.\n\nD. Villareal argues that the greatest remaining obstacle is not the signals themselves but the wide variation in lead time, since a monitoring system that reliably detects unrest weeks in advance still cannot promise how much warning residents will actually receive in a specific case. She recommends that evacuation planning treat forecasts as probabilistic guidance rather than precise predictions, building in contingency plans for both very short and comparatively long warning periods.",
+  "group_id": "NIR-G25",
+  "stem": "What can be inferred about why Villareal is concerned about false alarms from gas emission signals?",
+  "options": [
+   "Villareal believes gas emissions should be the only signal used in forecasting.",
+   "Gas emissions have never once been followed by an actual eruption.",
+   "False alarms have already caused every volcano monitoring programme to be shut down.",
+   "Repeated false alarms could undermine public trust in future evacuation warnings."
+  ],
+  "answer": 3,
+  "explain_zh": "段落 C 明確寫 false alarms that Villareal notes can undermine public trust in evacuation warnings if repeated too often，可推知她擔心的是公眾信任度下降，對應選項 D，故選 D。B 與段落 C 說「約 50% 案例中確實上升」矛盾，並非從未跟隨噴發；A、C 原文都沒有提及她認為氣體排放應是唯一訊號，或監測計畫已被關閉。技巧：推論題常考「某個現象反覆發生後，可能造成什麼後果」，答案通常直接對應原文明確指出的後果子句。",
+  "vocab": [
+   {
+    "w": "undermine",
+    "zh": "削弱",
+    "pos": "v."
+   },
+   {
+    "w": "false alarm",
+    "zh": "假警報",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0124",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:true-false-notgiven",
+  "tag_zh": "是非未提及",
+  "passage": "A. Forecasting volcanic eruptions remains far less precise than forecasting weather, but monitoring networks have improved considerably. Villareal and colleagues examined records from 45 eruptions worldwide to assess how reliably common warning signs, including ground deformation, increased seismic activity, and changes in gas emissions, preceded actual eruptions.\n\nB. Ground deformation, measured by GPS sensors detecting the swelling of a volcano as magma accumulates beneath it, preceded eruption in 78 percent of the cases studied, typically appearing weeks to months in advance. Increased seismic activity was an even more consistent signal, present before 91 percent of eruptions, though the lead time varied enormously, from several months down to only a few hours in some cases.\n\nC. Gas emissions proved the least reliable single indicator: sulfur dioxide levels rose noticeably before only about 50 percent of the eruptions in the sample, and in several cases rose and then fell again without any eruption following at all, producing false alarms that Villareal notes can undermine public trust in evacuation warnings if repeated too often. Combining all three signals, rather than relying on any one alone, correctly anticipated 85 percent of the eruptions studied, with a false alarm rate considerably lower than for gas emissions used alone.\n\nD. Villareal argues that the greatest remaining obstacle is not the signals themselves but the wide variation in lead time, since a monitoring system that reliably detects unrest weeks in advance still cannot promise how much warning residents will actually receive in a specific case. She recommends that evacuation planning treat forecasts as probabilistic guidance rather than precise predictions, building in contingency plans for both very short and comparatively long warning periods.",
+  "group_id": "NIR-G25",
+  "stem": "Statement: Villareal recommends that evacuation planning should rely on forecasts as precise, guaranteed predictions of exactly when an eruption will occur.",
+  "options": [
+   "True（文章支持）",
+   "False（文章反駁）",
+   "Not Given（文章沒提到）",
+   "文章自相矛盾"
+  ],
+  "answer": 1,
+  "explain_zh": "答案是 False。段落 D 明確寫 she recommends that evacuation planning treat forecasts as probabilistic guidance rather than precise predictions，直接反駁題幹「視為精確、保證的預測」的說法，選 False。技巧：題幹的 precise, guaranteed predictions 與原文的 probabilistic guidance rather than precise predictions 恰好相反，是清楚的 False 線索。",
+  "vocab": [
+   {
+    "w": "probabilistic",
+    "zh": "機率性的",
+    "pos": "adj."
+   },
+   {
+    "w": "contingency plan",
+    "zh": "應變計畫",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0125",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:matching-information",
+  "tag_zh": "段落定位",
+  "passage": "A. Forecasting volcanic eruptions remains far less precise than forecasting weather, but monitoring networks have improved considerably. Villareal and colleagues examined records from 45 eruptions worldwide to assess how reliably common warning signs, including ground deformation, increased seismic activity, and changes in gas emissions, preceded actual eruptions.\n\nB. Ground deformation, measured by GPS sensors detecting the swelling of a volcano as magma accumulates beneath it, preceded eruption in 78 percent of the cases studied, typically appearing weeks to months in advance. Increased seismic activity was an even more consistent signal, present before 91 percent of eruptions, though the lead time varied enormously, from several months down to only a few hours in some cases.\n\nC. Gas emissions proved the least reliable single indicator: sulfur dioxide levels rose noticeably before only about 50 percent of the eruptions in the sample, and in several cases rose and then fell again without any eruption following at all, producing false alarms that Villareal notes can undermine public trust in evacuation warnings if repeated too often. Combining all three signals, rather than relying on any one alone, correctly anticipated 85 percent of the eruptions studied, with a false alarm rate considerably lower than for gas emissions used alone.\n\nD. Villareal argues that the greatest remaining obstacle is not the signals themselves but the wide variation in lead time, since a monitoring system that reliably detects unrest weeks in advance still cannot promise how much warning residents will actually receive in a specific case. She recommends that evacuation planning treat forecasts as probabilistic guidance rather than precise predictions, building in contingency plans for both very short and comparatively long warning periods.",
+  "group_id": "NIR-G25",
+  "stem": "Which paragraph reports the accuracy rate achieved when all three warning signals were combined?",
+  "options": [
+   "Paragraph A",
+   "Paragraph B",
+   "Paragraph C",
+   "Paragraph D"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 C 提到 Combining all three signals... correctly anticipated 85 percent of the eruptions studied，正是報告綜合訊號準確率的段落，答案是 Paragraph C。段落 A 介紹研究範圍；段落 B 分別報告地表變形與地震活動的數據；段落 D 討論預警時間的限制與建議。技巧：找特定數據出現的段落時，先鎖定題幹的關鍵詞（combined、all three signals），再掃描各段落。",
+  "vocab": [
+   {
+    "w": "anticipate",
+    "zh": "預期；預先察覺",
+    "pos": "v."
+   },
+   {
+    "w": "obstacle",
+    "zh": "障礙",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0126",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節查找",
+  "passage": "A. Groundwater, stored in underground rock and soil layers, supplies drinking water and irrigation for a substantial share of the world's population, yet it has historically been far harder to monitor than surface water such as rivers and lakes. Okonkwo and colleagues used satellite measurements of subtle variations in Earth's gravitational field, which shift slightly as underground water mass changes, to track groundwater depletion across 37 major aquifers between 2003 and 2020.\n\nB. The satellite data revealed that roughly a third of the aquifers studied were being depleted at rates that, if sustained, would exhaust economically accessible reserves within this century, with the most severe depletion concentrated in regions combining intensive irrigation with low annual rainfall. Notably, several of the most rapidly depleting aquifers straddle international borders, meaning depletion in one country can be driven partly by extraction occurring in a neighbouring one.\n\nC. Okonkwo cautions that the satellite method estimates total water mass change rather than measuring water levels directly, so results can be skewed by unrelated factors such as large-scale surface flooding or extended drought affecting soil moisture, and must be cross-checked against ground-based well measurements where available. In regions with reliable well data, the two methods generally agreed closely, lending confidence to the satellite estimates in areas lacking such ground monitoring.\n\nD. Okonkwo argues that the cross-border pattern of depletion poses a particular policy challenge, since managing a shared aquifer sustainably typically requires coordinated agreements between countries that may have little other incentive to cooperate. She suggests that satellite monitoring, by providing a neutral, independently verifiable measure of depletion, could help establish a shared factual basis for such negotiations, even though it cannot itself resolve the underlying political disagreements.",
+  "group_id": "NIR-G26",
+  "stem": "According to Okonkwo's satellite study, roughly what proportion of the 37 aquifers studied were being depleted at unsustainable rates?",
+  "options": [
+   "Roughly a third",
+   "Roughly a tenth",
+   "Roughly two-thirds",
+   "None of the aquifers showed depletion"
+  ],
+  "answer": 0,
+  "explain_zh": "段落 B 寫 roughly a third of the aquifers studied were being depleted at rates that... would exhaust economically accessible reserves within this century，選 A。a tenth 縮小了原文比例；two-thirds 誇大了原文比例；文章明確指出確實有相當比例的含水層正在枯竭。技巧：分數類的細節題（a third、two-thirds）容易在快速閱讀時看反，作答前務必回原文逐字確認。",
+  "vocab": [
+   {
+    "w": "aquifer",
+    "zh": "含水層",
+    "pos": "n."
+   },
+   {
+    "w": "deplete",
+    "zh": "耗盡；枯竭",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0127",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A. Groundwater, stored in underground rock and soil layers, supplies drinking water and irrigation for a substantial share of the world's population, yet it has historically been far harder to monitor than surface water such as rivers and lakes. Okonkwo and colleagues used satellite measurements of subtle variations in Earth's gravitational field, which shift slightly as underground water mass changes, to track groundwater depletion across 37 major aquifers between 2003 and 2020.\n\nB. The satellite data revealed that roughly a third of the aquifers studied were being depleted at rates that, if sustained, would exhaust economically accessible reserves within this century, with the most severe depletion concentrated in regions combining intensive irrigation with low annual rainfall. Notably, several of the most rapidly depleting aquifers straddle international borders, meaning depletion in one country can be driven partly by extraction occurring in a neighbouring one.\n\nC. Okonkwo cautions that the satellite method estimates total water mass change rather than measuring water levels directly, so results can be skewed by unrelated factors such as large-scale surface flooding or extended drought affecting soil moisture, and must be cross-checked against ground-based well measurements where available. In regions with reliable well data, the two methods generally agreed closely, lending confidence to the satellite estimates in areas lacking such ground monitoring.\n\nD. Okonkwo argues that the cross-border pattern of depletion poses a particular policy challenge, since managing a shared aquifer sustainably typically requires coordinated agreements between countries that may have little other incentive to cooperate. She suggests that satellite monitoring, by providing a neutral, independently verifiable measure of depletion, could help establish a shared factual basis for such negotiations, even though it cannot itself resolve the underlying political disagreements.",
+  "group_id": "NIR-G26",
+  "stem": "What can be inferred about aquifers that straddle international borders?",
+  "options": [
+   "They are always managed through effective international agreements.",
+   "They were excluded entirely from Okonkwo's satellite study.",
+   "They show no measurable depletion compared with aquifers within a single country.",
+   "Depletion in one country may be partly caused by extraction happening in a neighbouring country."
+  ],
+  "answer": 3,
+  "explain_zh": "段落 B 說 several of the most rapidly depleting aquifers straddle international borders, meaning depletion in one country can be driven partly by extraction occurring in a neighbouring one，可推知跨國含水層的枯竭可能受鄰國抽取地下水影響，對應選項 D，故選 D。A 與段落 D 說明「合作誘因不足」的政策挑戰矛盾，並非總是能有效合作管理；B 段落 B 明確將這類含水層納入討論，並未被排除；C 段落 B 特別指出這類含水層「枯竭最嚴重」，並非沒有明顯枯竭。技巧：推論題常考「meaning」這個字後面的子句，通常就是原文希望讀者理解的推論結果。",
+  "vocab": [
+   {
+    "w": "straddle",
+    "zh": "橫跨",
+    "pos": "v."
+   },
+   {
+    "w": "extraction",
+    "zh": "抽取；開採",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0128",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "語境詞義",
+  "passage": "A. Groundwater, stored in underground rock and soil layers, supplies drinking water and irrigation for a substantial share of the world's population, yet it has historically been far harder to monitor than surface water such as rivers and lakes. Okonkwo and colleagues used satellite measurements of subtle variations in Earth's gravitational field, which shift slightly as underground water mass changes, to track groundwater depletion across 37 major aquifers between 2003 and 2020.\n\nB. The satellite data revealed that roughly a third of the aquifers studied were being depleted at rates that, if sustained, would exhaust economically accessible reserves within this century, with the most severe depletion concentrated in regions combining intensive irrigation with low annual rainfall. Notably, several of the most rapidly depleting aquifers straddle international borders, meaning depletion in one country can be driven partly by extraction occurring in a neighbouring one.\n\nC. Okonkwo cautions that the satellite method estimates total water mass change rather than measuring water levels directly, so results can be skewed by unrelated factors such as large-scale surface flooding or extended drought affecting soil moisture, and must be cross-checked against ground-based well measurements where available. In regions with reliable well data, the two methods generally agreed closely, lending confidence to the satellite estimates in areas lacking such ground monitoring.\n\nD. Okonkwo argues that the cross-border pattern of depletion poses a particular policy challenge, since managing a shared aquifer sustainably typically requires coordinated agreements between countries that may have little other incentive to cooperate. She suggests that satellite monitoring, by providing a neutral, independently verifiable measure of depletion, could help establish a shared factual basis for such negotiations, even though it cannot itself resolve the underlying political disagreements.",
+  "group_id": "NIR-G26",
+  "stem": "In paragraph C, the word 'skewed' is closest in meaning to which of the following?",
+  "options": [
+   "distorted away from an accurate result",
+   "completely unrelated to the topic",
+   "made perfectly precise and accurate",
+   "published openly for public review"
+  ],
+  "answer": 0,
+  "explain_zh": "skewed 指「被扭曲、偏離真實情況」，段落 C 說衛星估計值 can be skewed by unrelated factors such as large-scale surface flooding，也就是可能因為其他因素而失真，對應選項 A，故選 A。C「使其變得完全精確準確」與「失真」意思相反；B、D 都偏離了原文語意。技巧：skew／skewed 常用來描述「數據因某些干擾因素而偏離真實值」，是統計與科學文章的常見詞彙。",
+  "vocab": [
+   {
+    "w": "skew",
+    "zh": "使偏斜；扭曲",
+    "pos": "v."
+   },
+   {
+    "w": "cross-check",
+    "zh": "交叉核對",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0129",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:matching-information",
+  "tag_zh": "段落定位",
+  "passage": "A. Groundwater, stored in underground rock and soil layers, supplies drinking water and irrigation for a substantial share of the world's population, yet it has historically been far harder to monitor than surface water such as rivers and lakes. Okonkwo and colleagues used satellite measurements of subtle variations in Earth's gravitational field, which shift slightly as underground water mass changes, to track groundwater depletion across 37 major aquifers between 2003 and 2020.\n\nB. The satellite data revealed that roughly a third of the aquifers studied were being depleted at rates that, if sustained, would exhaust economically accessible reserves within this century, with the most severe depletion concentrated in regions combining intensive irrigation with low annual rainfall. Notably, several of the most rapidly depleting aquifers straddle international borders, meaning depletion in one country can be driven partly by extraction occurring in a neighbouring one.\n\nC. Okonkwo cautions that the satellite method estimates total water mass change rather than measuring water levels directly, so results can be skewed by unrelated factors such as large-scale surface flooding or extended drought affecting soil moisture, and must be cross-checked against ground-based well measurements where available. In regions with reliable well data, the two methods generally agreed closely, lending confidence to the satellite estimates in areas lacking such ground monitoring.\n\nD. Okonkwo argues that the cross-border pattern of depletion poses a particular policy challenge, since managing a shared aquifer sustainably typically requires coordinated agreements between countries that may have little other incentive to cooperate. She suggests that satellite monitoring, by providing a neutral, independently verifiable measure of depletion, could help establish a shared factual basis for such negotiations, even though it cannot itself resolve the underlying political disagreements.",
+  "group_id": "NIR-G26",
+  "stem": "Which paragraph explains a limitation of the satellite method and how it can be cross-checked?",
+  "options": [
+   "Paragraph A",
+   "Paragraph B",
+   "Paragraph C",
+   "Paragraph D"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 C 描述衛星方法的侷限（估計總水量變化而非直接測量水位，可能被其他因素干擾）以及與地面井水數據交叉核對的做法，答案是 Paragraph C。段落 A 介紹研究方法背景；段落 B 呈現枯竭數據結果；段落 D 討論跨國政策意涵。技巧：找「方法侷限＋驗證方式」類段落，留意 cautions that、must be cross-checked 這類提示語。",
+  "vocab": [
+   {
+    "w": "soil moisture",
+    "zh": "土壤濕度",
+    "pos": "n."
+   },
+   {
+    "w": "verifiable",
+    "zh": "可驗證的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0130",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:writer-view",
+  "tag_zh": "作者觀點",
+  "passage": "A. Groundwater, stored in underground rock and soil layers, supplies drinking water and irrigation for a substantial share of the world's population, yet it has historically been far harder to monitor than surface water such as rivers and lakes. Okonkwo and colleagues used satellite measurements of subtle variations in Earth's gravitational field, which shift slightly as underground water mass changes, to track groundwater depletion across 37 major aquifers between 2003 and 2020.\n\nB. The satellite data revealed that roughly a third of the aquifers studied were being depleted at rates that, if sustained, would exhaust economically accessible reserves within this century, with the most severe depletion concentrated in regions combining intensive irrigation with low annual rainfall. Notably, several of the most rapidly depleting aquifers straddle international borders, meaning depletion in one country can be driven partly by extraction occurring in a neighbouring one.\n\nC. Okonkwo cautions that the satellite method estimates total water mass change rather than measuring water levels directly, so results can be skewed by unrelated factors such as large-scale surface flooding or extended drought affecting soil moisture, and must be cross-checked against ground-based well measurements where available. In regions with reliable well data, the two methods generally agreed closely, lending confidence to the satellite estimates in areas lacking such ground monitoring.\n\nD. Okonkwo argues that the cross-border pattern of depletion poses a particular policy challenge, since managing a shared aquifer sustainably typically requires coordinated agreements between countries that may have little other incentive to cooperate. She suggests that satellite monitoring, by providing a neutral, independently verifiable measure of depletion, could help establish a shared factual basis for such negotiations, even though it cannot itself resolve the underlying political disagreements.",
+  "group_id": "NIR-G26",
+  "stem": "How does the writer present the potential value of satellite monitoring for cross-border aquifer disputes?",
+  "options": [
+   "As a method that has already ended every cross-border water dispute worldwide",
+   "As entirely irrelevant to policy negotiations between countries",
+   "As a complete solution that will automatically resolve all international water disputes",
+   "As a way to provide a neutral factual basis for negotiation, though it cannot resolve political disagreements alone"
+  ],
+  "answer": 3,
+  "explain_zh": "段落 D 寫 satellite monitoring... could help establish a shared factual basis for such negotiations, even though it cannot itself resolve the underlying political disagreements，對應選項 D，故選 D。A、C 都過度誇大衛星監測的政策效果，原文並未說它已解決或能自動解決所有爭端；B 與段落 D 整段討論其政策價值矛盾，並非毫無關聯。技巧：作者觀點題常見正解是「工具能提供基礎，但無法單獨解決根本問題」，留意 could help、even though it cannot itself 這類限定語氣。",
+  "vocab": [
+   {
+    "w": "neutral",
+    "zh": "中立的",
+    "pos": "adj."
+   },
+   {
+    "w": "incentive",
+    "zh": "誘因",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0131",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A. Requests for museums to return artefacts to the countries or communities where they originated, often referred to as repatriation, have grown more frequent and more publicly visible over the past two decades. Lindgren, who studies museum policy, surveyed the stated repatriation policies of 80 major museums across Europe and North America and found considerable inconsistency in how similar requests were handled.\n\nB. Roughly 40 percent of the surveyed museums had a formal, published process for evaluating repatriation claims, while the remainder handled requests on an ad hoc basis, without a consistent public procedure, which Lindgren argues makes outcomes harder to predict and can leave claimant communities uncertain about what evidence or arguments are likely to succeed. Museums with formal processes were also more likely to have returned at least one contested item within the study period.\n\nC. Museums that resist repatriation requests typically cite several justifications: legal ownership established under laws in force at the time of acquisition, concerns about the receiving institution's capacity to conserve the object adequately, and the argument that an object's presence in a major museum allows it to be seen by a far larger and more diverse audience than it would reach in its place of origin. Lindgren notes that these arguments are increasingly being challenged by claimant communities and, in some cases, by museum professionals themselves.\n\nD. Lindgren does not argue that every claim should automatically succeed, noting that questions of clear ownership history are sometimes genuinely unresolved. Her central recommendation is procedural rather than substantive: that museums adopt transparent, published criteria for evaluating claims, whatever those criteria turn out to be, since consistent process, she argues, tends to produce outcomes that both museums and claimant communities are more likely to regard as legitimate.",
+  "group_id": "NIR-G27",
+  "stem": "What is Lindgren's central recommendation regarding museum repatriation policy?",
+  "options": [
+   "Museums should never return any artefacts under any circumstances",
+   "Museums should adopt transparent, published criteria for evaluating repatriation claims, regardless of what those criteria are",
+   "Every repatriation claim should be automatically approved without any evaluation",
+   "Legal ownership from the time of acquisition should be the only factor considered"
+  ],
+  "answer": 1,
+  "explain_zh": "段落 D 明確寫 Her central recommendation is procedural rather than substantive: that museums adopt transparent, published criteria for evaluating claims，對應選項 B，故選 B。A 與段落 B 提到「已有博物館歸還過至少一件爭議物品」矛盾；C 與段落 D「並非主張每個訴求都該自動成功」矛盾；D 段落 C 只列出博物館常用的多個理由之一，並非 Lindgren 認為唯一該考量的因素。技巧：主旨題若文章明確區分「程序性建議」與「實質結果」，答案要精準對應「程序」這個層面，不要誤讀成對「該不該歸還」的具體立場。",
+  "vocab": [
+   {
+    "w": "repatriation",
+    "zh": "（文物）歸還原屬地",
+    "pos": "n."
+   },
+   {
+    "w": "claimant",
+    "zh": "提出訴求者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0132",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節查找",
+  "passage": "A. Requests for museums to return artefacts to the countries or communities where they originated, often referred to as repatriation, have grown more frequent and more publicly visible over the past two decades. Lindgren, who studies museum policy, surveyed the stated repatriation policies of 80 major museums across Europe and North America and found considerable inconsistency in how similar requests were handled.\n\nB. Roughly 40 percent of the surveyed museums had a formal, published process for evaluating repatriation claims, while the remainder handled requests on an ad hoc basis, without a consistent public procedure, which Lindgren argues makes outcomes harder to predict and can leave claimant communities uncertain about what evidence or arguments are likely to succeed. Museums with formal processes were also more likely to have returned at least one contested item within the study period.\n\nC. Museums that resist repatriation requests typically cite several justifications: legal ownership established under laws in force at the time of acquisition, concerns about the receiving institution's capacity to conserve the object adequately, and the argument that an object's presence in a major museum allows it to be seen by a far larger and more diverse audience than it would reach in its place of origin. Lindgren notes that these arguments are increasingly being challenged by claimant communities and, in some cases, by museum professionals themselves.\n\nD. Lindgren does not argue that every claim should automatically succeed, noting that questions of clear ownership history are sometimes genuinely unresolved. Her central recommendation is procedural rather than substantive: that museums adopt transparent, published criteria for evaluating claims, whatever those criteria turn out to be, since consistent process, she argues, tends to produce outcomes that both museums and claimant communities are more likely to regard as legitimate.",
+  "group_id": "NIR-G27",
+  "stem": "According to Lindgren's survey, roughly what percentage of the museums had a formal, published process for evaluating repatriation claims?",
+  "options": [
+   "None of the museums had any process at all",
+   "Roughly 60 percent",
+   "Roughly 40 percent",
+   "Roughly 80 percent"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 B 寫 Roughly 40 percent of the surveyed museums had a formal, published process，對應選項 C，故選 C。D「80 percent」其實是調查的博物館總數，容易與百分比混淆；B「60 percent」是猜測性誘答；A 文章明確指出確實有博物館具備正式流程。技巧：注意區分「調查對象總數（80 家）」與「其中具有某特徵的比例（40%）」，兩者是不同性質的數字。",
+  "vocab": [
+   {
+    "w": "ad hoc",
+    "zh": "臨時的；個案處理的",
+    "pos": "adj."
+   },
+   {
+    "w": "contested",
+    "zh": "有爭議的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0133",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "語境詞義",
+  "passage": "A. Requests for museums to return artefacts to the countries or communities where they originated, often referred to as repatriation, have grown more frequent and more publicly visible over the past two decades. Lindgren, who studies museum policy, surveyed the stated repatriation policies of 80 major museums across Europe and North America and found considerable inconsistency in how similar requests were handled.\n\nB. Roughly 40 percent of the surveyed museums had a formal, published process for evaluating repatriation claims, while the remainder handled requests on an ad hoc basis, without a consistent public procedure, which Lindgren argues makes outcomes harder to predict and can leave claimant communities uncertain about what evidence or arguments are likely to succeed. Museums with formal processes were also more likely to have returned at least one contested item within the study period.\n\nC. Museums that resist repatriation requests typically cite several justifications: legal ownership established under laws in force at the time of acquisition, concerns about the receiving institution's capacity to conserve the object adequately, and the argument that an object's presence in a major museum allows it to be seen by a far larger and more diverse audience than it would reach in its place of origin. Lindgren notes that these arguments are increasingly being challenged by claimant communities and, in some cases, by museum professionals themselves.\n\nD. Lindgren does not argue that every claim should automatically succeed, noting that questions of clear ownership history are sometimes genuinely unresolved. Her central recommendation is procedural rather than substantive: that museums adopt transparent, published criteria for evaluating claims, whatever those criteria turn out to be, since consistent process, she argues, tends to produce outcomes that both museums and claimant communities are more likely to regard as legitimate.",
+  "group_id": "NIR-G27",
+  "stem": "In paragraph D, the word 'substantive' is closest in meaning to which of the following?",
+  "options": [
+   "concerning the actual content or outcome of a decision",
+   "concerning the physical transportation of artefacts",
+   "concerning only the paperwork required to file a claim",
+   "concerning the financial cost of returning an object"
+  ],
+  "answer": 0,
+  "explain_zh": "substantive 指「實質的、關乎內容本身」，段落 D 把 Lindgren 的建議定位為 procedural rather than substantive，也就是關於「流程」而非「該不該歸還這個實質結果」，substantive 最接近 A：關乎決定的實際內容或結果。B、C、D 都偏離了這個核心意思。技巧：procedural（程序上的）與 substantive（實質上的）是學術文章中常見的一組對比詞，掌握這組詞有助於快速定位論點的性質。",
+  "vocab": [
+   {
+    "w": "substantive",
+    "zh": "實質的",
+    "pos": "adj."
+   },
+   {
+    "w": "legitimate",
+    "zh": "正當的；合法的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0134",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:true-false-notgiven",
+  "tag_zh": "是非未提及",
+  "passage": "A. Requests for museums to return artefacts to the countries or communities where they originated, often referred to as repatriation, have grown more frequent and more publicly visible over the past two decades. Lindgren, who studies museum policy, surveyed the stated repatriation policies of 80 major museums across Europe and North America and found considerable inconsistency in how similar requests were handled.\n\nB. Roughly 40 percent of the surveyed museums had a formal, published process for evaluating repatriation claims, while the remainder handled requests on an ad hoc basis, without a consistent public procedure, which Lindgren argues makes outcomes harder to predict and can leave claimant communities uncertain about what evidence or arguments are likely to succeed. Museums with formal processes were also more likely to have returned at least one contested item within the study period.\n\nC. Museums that resist repatriation requests typically cite several justifications: legal ownership established under laws in force at the time of acquisition, concerns about the receiving institution's capacity to conserve the object adequately, and the argument that an object's presence in a major museum allows it to be seen by a far larger and more diverse audience than it would reach in its place of origin. Lindgren notes that these arguments are increasingly being challenged by claimant communities and, in some cases, by museum professionals themselves.\n\nD. Lindgren does not argue that every claim should automatically succeed, noting that questions of clear ownership history are sometimes genuinely unresolved. Her central recommendation is procedural rather than substantive: that museums adopt transparent, published criteria for evaluating claims, whatever those criteria turn out to be, since consistent process, she argues, tends to produce outcomes that both museums and claimant communities are more likely to regard as legitimate.",
+  "group_id": "NIR-G27",
+  "stem": "Statement: Lindgren argues that every repatriation claim should automatically be approved regardless of the evidence.",
+  "options": [
+   "True（文章支持）",
+   "False（文章反駁）",
+   "Not Given（文章沒提到）",
+   "文章自相矛盾"
+  ],
+  "answer": 1,
+  "explain_zh": "答案是 False。段落 D 明確寫 Lindgren does not argue that every claim should automatically succeed，直接反駁題幹的說法，選 False。技巧：題幹的 automatically be approved regardless of the evidence 與原文的 does not argue that every claim should automatically succeed 意思相反，是清楚的 False 判斷依據。",
+  "vocab": [
+   {
+    "w": "automatically",
+    "zh": "自動地",
+    "pos": "adv."
+   },
+   {
+    "w": "ownership",
+    "zh": "所有權",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0135",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:matching-information",
+  "tag_zh": "段落定位",
+  "passage": "A. Requests for museums to return artefacts to the countries or communities where they originated, often referred to as repatriation, have grown more frequent and more publicly visible over the past two decades. Lindgren, who studies museum policy, surveyed the stated repatriation policies of 80 major museums across Europe and North America and found considerable inconsistency in how similar requests were handled.\n\nB. Roughly 40 percent of the surveyed museums had a formal, published process for evaluating repatriation claims, while the remainder handled requests on an ad hoc basis, without a consistent public procedure, which Lindgren argues makes outcomes harder to predict and can leave claimant communities uncertain about what evidence or arguments are likely to succeed. Museums with formal processes were also more likely to have returned at least one contested item within the study period.\n\nC. Museums that resist repatriation requests typically cite several justifications: legal ownership established under laws in force at the time of acquisition, concerns about the receiving institution's capacity to conserve the object adequately, and the argument that an object's presence in a major museum allows it to be seen by a far larger and more diverse audience than it would reach in its place of origin. Lindgren notes that these arguments are increasingly being challenged by claimant communities and, in some cases, by museum professionals themselves.\n\nD. Lindgren does not argue that every claim should automatically succeed, noting that questions of clear ownership history are sometimes genuinely unresolved. Her central recommendation is procedural rather than substantive: that museums adopt transparent, published criteria for evaluating claims, whatever those criteria turn out to be, since consistent process, she argues, tends to produce outcomes that both museums and claimant communities are more likely to regard as legitimate.",
+  "group_id": "NIR-G27",
+  "stem": "Which paragraph lists the justifications museums typically give for resisting repatriation requests?",
+  "options": [
+   "Paragraph A",
+   "Paragraph B",
+   "Paragraph C",
+   "Paragraph D"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 C 開頭寫 Museums that resist repatriation requests typically cite several justifications，接著列出法律所有權、保存能力、觸及更多觀眾等理由，答案是 Paragraph C。段落 A 介紹調查背景；段落 B 呈現正式流程的數據；段落 D 是 Lindgren 的核心建議。技巧：找「列出理由、論點」類段落，留意 typically cite、several justifications 這類提示語。",
+  "vocab": [
+   {
+    "w": "justification",
+    "zh": "理由；正當化",
+    "pos": "n."
+   },
+   {
+    "w": "conserve",
+    "zh": "保存",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0136",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節查找",
+  "passage": "A. The bar-tailed godwit, a medium-sized shorebird, holds the record for the longest known non-stop migratory flight of any bird, with satellite-tagged individuals recorded flying from breeding grounds in Alaska to non-breeding grounds in New Zealand, a distance of over 11,000 kilometres, without landing to rest or feed. Petit and colleagues have investigated the physiological adjustments that make such a flight possible.\n\nB. Before departure, tagged godwits were found to roughly double their body mass, storing fat as fuel for the journey while simultaneously shrinking several internal organs, including the gizzard and intestines, that are not needed during a fasting flight but that add weight the bird cannot afford to carry. Petit's team measured reductions of up to 25 percent in the mass of these digestive organs in the weeks before departure.\n\nC. During the flight itself, godwits appear to rely partly on unihemispheric sleep, in which one half of the brain rests while the other remains alert, a strategy also documented in some marine mammals, allowing the bird to maintain some degree of rest without fully losing awareness of its surroundings or interrupting continuous flight. Petit cautions that direct evidence for this during the godwits' longest flights remains indirect, based on brain-activity patterns recorded during shorter captive trials rather than during the actual transoceanic crossing.\n\nD. What remains only partly understood is how godwits navigate with such precision over open ocean with no visual landmarks for days at a time. Petit's working hypothesis, still being tested, is that the birds combine an internal magnetic sense with learned information about prevailing wind patterns, adjusting their heading over the course of the flight rather than following a single fixed compass bearing from departure to arrival.",
+  "group_id": "NIR-G28",
+  "stem": "According to Petit's research, by up to what percentage did the mass of digestive organs such as the gizzard and intestines decrease before departure?",
+  "options": [
+   "Up to 11 percent",
+   "Up to 50 percent",
+   "The passage does not report a percentage",
+   "Up to 25 percent"
+  ],
+  "answer": 3,
+  "explain_zh": "段落 B 寫 Petit's team measured reductions of up to 25 percent in the mass of these digestive organs，對應選項 D，故選 D。B「50 percent」誇大了原文比例；A「11 percent」其實是段落 A 提到的飛行距離（11,000 公里）的數字片段，容易造成混淆；C 文章確實有明確給出百分比。技巧：文章中若同時出現「距離（公里）」與「比例（百分比）」等不同性質的數字，作答時要看清楚單位與對應的對象。",
+  "vocab": [
+   {
+    "w": "gizzard",
+    "zh": "砂囊",
+    "pos": "n."
+   },
+   {
+    "w": "fasting",
+    "zh": "禁食的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0137",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A. The bar-tailed godwit, a medium-sized shorebird, holds the record for the longest known non-stop migratory flight of any bird, with satellite-tagged individuals recorded flying from breeding grounds in Alaska to non-breeding grounds in New Zealand, a distance of over 11,000 kilometres, without landing to rest or feed. Petit and colleagues have investigated the physiological adjustments that make such a flight possible.\n\nB. Before departure, tagged godwits were found to roughly double their body mass, storing fat as fuel for the journey while simultaneously shrinking several internal organs, including the gizzard and intestines, that are not needed during a fasting flight but that add weight the bird cannot afford to carry. Petit's team measured reductions of up to 25 percent in the mass of these digestive organs in the weeks before departure.\n\nC. During the flight itself, godwits appear to rely partly on unihemispheric sleep, in which one half of the brain rests while the other remains alert, a strategy also documented in some marine mammals, allowing the bird to maintain some degree of rest without fully losing awareness of its surroundings or interrupting continuous flight. Petit cautions that direct evidence for this during the godwits' longest flights remains indirect, based on brain-activity patterns recorded during shorter captive trials rather than during the actual transoceanic crossing.\n\nD. What remains only partly understood is how godwits navigate with such precision over open ocean with no visual landmarks for days at a time. Petit's working hypothesis, still being tested, is that the birds combine an internal magnetic sense with learned information about prevailing wind patterns, adjusting their heading over the course of the flight rather than following a single fixed compass bearing from departure to arrival.",
+  "group_id": "NIR-G28",
+  "stem": "What can be inferred about the strength of the evidence for unihemispheric sleep during the godwits' longest migratory flights?",
+  "options": [
+   "It has been directly and conclusively observed during the birds' full transoceanic crossing.",
+   "Petit has abandoned the hypothesis entirely due to lack of any supporting evidence.",
+   "Unihemispheric sleep has been ruled out completely as a possibility for godwits.",
+   "It remains indirect, since it is based on captive trials rather than direct observation during the actual long flight."
+  ],
+  "answer": 3,
+  "explain_zh": "段落 C 明確寫 Petit cautions that direct evidence for this during the godwits' longest flights remains indirect, based on brain-activity patterns recorded during shorter captive trials rather than during the actual transoceanic crossing，對應選項 D，故選 D。A 與「證據仍是間接的」矛盾；B、C 原文都沒有提及放棄或完全排除這個假說，段落 C 仍在正面描述這個策略的可能性。技巧：推論題常考「證據強度」，留意 indirect、based on...rather than 這類限定語，代表結論尚未被直接證實。",
+  "vocab": [
+   {
+    "w": "unihemispheric",
+    "zh": "單側腦半球的",
+    "pos": "adj."
+   },
+   {
+    "w": "transoceanic",
+    "zh": "跨洋的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0138",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:true-false-notgiven",
+  "tag_zh": "是非未提及",
+  "passage": "A. The bar-tailed godwit, a medium-sized shorebird, holds the record for the longest known non-stop migratory flight of any bird, with satellite-tagged individuals recorded flying from breeding grounds in Alaska to non-breeding grounds in New Zealand, a distance of over 11,000 kilometres, without landing to rest or feed. Petit and colleagues have investigated the physiological adjustments that make such a flight possible.\n\nB. Before departure, tagged godwits were found to roughly double their body mass, storing fat as fuel for the journey while simultaneously shrinking several internal organs, including the gizzard and intestines, that are not needed during a fasting flight but that add weight the bird cannot afford to carry. Petit's team measured reductions of up to 25 percent in the mass of these digestive organs in the weeks before departure.\n\nC. During the flight itself, godwits appear to rely partly on unihemispheric sleep, in which one half of the brain rests while the other remains alert, a strategy also documented in some marine mammals, allowing the bird to maintain some degree of rest without fully losing awareness of its surroundings or interrupting continuous flight. Petit cautions that direct evidence for this during the godwits' longest flights remains indirect, based on brain-activity patterns recorded during shorter captive trials rather than during the actual transoceanic crossing.\n\nD. What remains only partly understood is how godwits navigate with such precision over open ocean with no visual landmarks for days at a time. Petit's working hypothesis, still being tested, is that the birds combine an internal magnetic sense with learned information about prevailing wind patterns, adjusting their heading over the course of the flight rather than following a single fixed compass bearing from departure to arrival.",
+  "group_id": "NIR-G28",
+  "stem": "Statement: Petit's working hypothesis is that godwits follow a single fixed compass bearing from departure to arrival without adjusting course.",
+  "options": [
+   "True（文章支持）",
+   "False（文章反駁）",
+   "Not Given（文章沒提到）",
+   "文章自相矛盾"
+  ],
+  "answer": 1,
+  "explain_zh": "答案是 False。段落 D 明確寫 godwits...adjusting their heading over the course of the flight rather than following a single fixed compass bearing from departure to arrival，直接反駁題幹的說法，選 False。技巧：題幹的 a single fixed compass bearing without adjusting course 與原文的 adjusting their heading...rather than following a single fixed compass bearing 恰好相反，是明確的 False 判斷依據。",
+  "vocab": [
+   {
+    "w": "heading",
+    "zh": "（飛行）航向",
+    "pos": "n."
+   },
+   {
+    "w": "prevailing wind",
+    "zh": "盛行風",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0139",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:matching-information",
+  "tag_zh": "段落定位",
+  "passage": "A. The bar-tailed godwit, a medium-sized shorebird, holds the record for the longest known non-stop migratory flight of any bird, with satellite-tagged individuals recorded flying from breeding grounds in Alaska to non-breeding grounds in New Zealand, a distance of over 11,000 kilometres, without landing to rest or feed. Petit and colleagues have investigated the physiological adjustments that make such a flight possible.\n\nB. Before departure, tagged godwits were found to roughly double their body mass, storing fat as fuel for the journey while simultaneously shrinking several internal organs, including the gizzard and intestines, that are not needed during a fasting flight but that add weight the bird cannot afford to carry. Petit's team measured reductions of up to 25 percent in the mass of these digestive organs in the weeks before departure.\n\nC. During the flight itself, godwits appear to rely partly on unihemispheric sleep, in which one half of the brain rests while the other remains alert, a strategy also documented in some marine mammals, allowing the bird to maintain some degree of rest without fully losing awareness of its surroundings or interrupting continuous flight. Petit cautions that direct evidence for this during the godwits' longest flights remains indirect, based on brain-activity patterns recorded during shorter captive trials rather than during the actual transoceanic crossing.\n\nD. What remains only partly understood is how godwits navigate with such precision over open ocean with no visual landmarks for days at a time. Petit's working hypothesis, still being tested, is that the birds combine an internal magnetic sense with learned information about prevailing wind patterns, adjusting their heading over the course of the flight rather than following a single fixed compass bearing from departure to arrival.",
+  "group_id": "NIR-G28",
+  "stem": "Which paragraph describes the shrinking of internal organs before the godwits' migratory flight?",
+  "options": [
+   "Paragraph A",
+   "Paragraph B",
+   "Paragraph C",
+   "Paragraph D"
+  ],
+  "answer": 1,
+  "explain_zh": "段落 B 描述 godwits...simultaneously shrinking several internal organs, including the gizzard and intestines...Petit's team measured reductions of up to 25 percent，正是描述器官縮小的段落，答案是 Paragraph B。段落 A 介紹飛行紀錄背景；段落 C 討論單側腦半球睡眠策略；段落 D 討論導航機制的未解之謎。技巧：找特定生理現象的段落，先鎖定題幹關鍵詞（shrinking of internal organs），再掃描各段落找同義描述。",
+  "vocab": [
+   {
+    "w": "intestine",
+    "zh": "腸",
+    "pos": "n."
+   },
+   {
+    "w": "fuel",
+    "zh": "燃料",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0140",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:writer-view",
+  "tag_zh": "作者觀點",
+  "passage": "A. The bar-tailed godwit, a medium-sized shorebird, holds the record for the longest known non-stop migratory flight of any bird, with satellite-tagged individuals recorded flying from breeding grounds in Alaska to non-breeding grounds in New Zealand, a distance of over 11,000 kilometres, without landing to rest or feed. Petit and colleagues have investigated the physiological adjustments that make such a flight possible.\n\nB. Before departure, tagged godwits were found to roughly double their body mass, storing fat as fuel for the journey while simultaneously shrinking several internal organs, including the gizzard and intestines, that are not needed during a fasting flight but that add weight the bird cannot afford to carry. Petit's team measured reductions of up to 25 percent in the mass of these digestive organs in the weeks before departure.\n\nC. During the flight itself, godwits appear to rely partly on unihemispheric sleep, in which one half of the brain rests while the other remains alert, a strategy also documented in some marine mammals, allowing the bird to maintain some degree of rest without fully losing awareness of its surroundings or interrupting continuous flight. Petit cautions that direct evidence for this during the godwits' longest flights remains indirect, based on brain-activity patterns recorded during shorter captive trials rather than during the actual transoceanic crossing.\n\nD. What remains only partly understood is how godwits navigate with such precision over open ocean with no visual landmarks for days at a time. Petit's working hypothesis, still being tested, is that the birds combine an internal magnetic sense with learned information about prevailing wind patterns, adjusting their heading over the course of the flight rather than following a single fixed compass bearing from departure to arrival.",
+  "group_id": "NIR-G28",
+  "stem": "How does the writer characterise the current state of understanding regarding godwit navigation over open ocean?",
+  "options": [
+   "As entirely unrelated to magnetic sensing of any kind",
+   "As a completely solved mystery with no remaining uncertainty",
+   "As only partly understood, with Petit's magnetic-and-wind hypothesis still being tested",
+   "As proven to rely solely on visual landmarks along the route"
+  ],
+  "answer": 2,
+  "explain_zh": "段落 D 開頭寫 What remains only partly understood is how godwits navigate...Petit's working hypothesis, still being tested，對應選項 C，故選 C。A 與段落 D 提到的「結合體內磁場感應」矛盾；B 與「尚未完全理解」矛盾；D 段落 A、D 都強調飛行途中「沒有視覺地標」，與此選項直接矛盾。技巧：作者觀點題常見正解在結尾段，留意 only partly understood、working hypothesis, still being tested 這類保留語氣的用詞。",
+  "vocab": [
+   {
+    "w": "hypothesis",
+    "zh": "假說",
+    "pos": "n."
+   },
+   {
+    "w": "precision",
+    "zh": "精準度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0141",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A. Edward Jenner is widely credited in popular accounts with inventing vaccination in 1796, after showing that exposure to cowpox, a mild disease, could protect against smallpox, a far more dangerous one. Adeyemi, a historian of medicine, argues that this account understates a much longer and more geographically distributed history of deliberate smallpox protection.\n\nB. Variolation, a practice of deliberately exposing a healthy person to material from a mild smallpox case to induce a milder, immunising infection, was documented in China and the Ottoman Empire well before Jenner's work, and Adeyemi's research traces written and oral records suggesting the practice may have circulated among healers in parts of West Africa generations before Jenner's 1796 experiment, transmitted through both trade contacts and, later, through people enslaved and transported to the Americas.\n\nC. Jenner's genuine contribution, Adeyemi argues, was not the idea of inducing protective immunity through deliberate exposure, which variolation already embodied, but the specific insight that cowpox exposure achieved a similar protective effect with substantially lower risk than variolation, which itself carried a small but real chance of causing full smallpox and, more seriously, of starting new outbreaks in others. This made Jenner's method safer to adopt at large scale, which is arguably why it, rather than variolation, became the basis for later mass vaccination campaigns.\n\nD. Adeyemi's account does not diminish Jenner's historical significance but relocates it, from originator of the underlying concept to refiner of a substantially safer method built on ideas with a longer and more geographically dispersed history than popular accounts typically acknowledge. She notes that written records from outside Europe documenting these earlier practices survive unevenly, which has made it easier for historical narratives centred on a single individual to take hold.",
+  "group_id": "NIR-G29",
+  "stem": "What correction does Adeyemi make to the popular account of Jenner and vaccination?",
+  "options": [
+   "Jenner's real contribution was making immunisation safer, not originating the underlying concept, which had a longer, wider history",
+   "Jenner never actually conducted any experiments involving cowpox",
+   "Variolation was invented by Jenner himself before his cowpox experiments",
+   "Smallpox protection methods were completely unknown anywhere before 1796"
+  ],
+  "answer": 0,
+  "explain_zh": "段落 C、D 說明 Jenner 的真正貢獻是讓免疫方法更安全，而非發明「刻意誘發保護性免疫」這個概念，該概念早已存在於人痘接種術中，選 A。B 與段落 A 描述 Jenner 進行牛痘實驗矛盾；C 與段落 B 明確說人痘接種術「早於 Jenner 的實驗」記載於中國與鄂圖曼帝國矛盾；D 段落 B 詳細描述多地早已有相關作法，並非完全未知。技巧：主旨題遇到「重新定位歷史貢獻」類文章，答案要精準對應「從發明者改為改良者」，並保留「貢獻仍然重要」這一層意思。",
+  "vocab": [
+   {
+    "w": "variolation",
+    "zh": "人痘接種術",
+    "pos": "n."
+   },
+   {
+    "w": "immunising",
+    "zh": "使免疫的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0142",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A. Edward Jenner is widely credited in popular accounts with inventing vaccination in 1796, after showing that exposure to cowpox, a mild disease, could protect against smallpox, a far more dangerous one. Adeyemi, a historian of medicine, argues that this account understates a much longer and more geographically distributed history of deliberate smallpox protection.\n\nB. Variolation, a practice of deliberately exposing a healthy person to material from a mild smallpox case to induce a milder, immunising infection, was documented in China and the Ottoman Empire well before Jenner's work, and Adeyemi's research traces written and oral records suggesting the practice may have circulated among healers in parts of West Africa generations before Jenner's 1796 experiment, transmitted through both trade contacts and, later, through people enslaved and transported to the Americas.\n\nC. Jenner's genuine contribution, Adeyemi argues, was not the idea of inducing protective immunity through deliberate exposure, which variolation already embodied, but the specific insight that cowpox exposure achieved a similar protective effect with substantially lower risk than variolation, which itself carried a small but real chance of causing full smallpox and, more seriously, of starting new outbreaks in others. This made Jenner's method safer to adopt at large scale, which is arguably why it, rather than variolation, became the basis for later mass vaccination campaigns.\n\nD. Adeyemi's account does not diminish Jenner's historical significance but relocates it, from originator of the underlying concept to refiner of a substantially safer method built on ideas with a longer and more geographically dispersed history than popular accounts typically acknowledge. She notes that written records from outside Europe documenting these earlier practices survive unevenly, which has made it easier for historical narratives centred on a single individual to take hold.",
+  "group_id": "NIR-G29",
+  "stem": "What can be inferred about why variolation, rather than being adopted for mass campaigns, was largely replaced by Jenner's method?",
+  "options": [
+   "Variolation was banned by law in every country before Jenner's work.",
+   "Variolation was completely ineffective at providing any immunity.",
+   "Jenner's method was discovered to be identical to variolation in every respect.",
+   "Variolation carried a real risk of causing full smallpox and starting new outbreaks, making it less safe for large-scale use."
+  ],
+  "answer": 3,
+  "explain_zh": "段落 C 說明人痘接種術 carried a small but real chance of causing full smallpox and, more seriously, of starting new outbreaks in others，這使得牛痘接種法因風險較低而更適合大規模採用，對應選項 D，故選 D。A 原文沒有提到法律禁止人痘接種術；B 與「誘發較輕微、具免疫力的感染」矛盾，代表確實有一定效果；C 段落 C 明確指出兩者風險程度不同。技巧：推論題常考「為什麼較舊的方法被取代」，答案通常對應原文描述舊方法「風險、成本」的具體子句。",
+  "vocab": [
+   {
+    "w": "induce",
+    "zh": "誘發",
+    "pos": "v."
+   },
+   {
+    "w": "outbreak",
+    "zh": "（疫情）爆發",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0143",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "語境詞義",
+  "passage": "A. Edward Jenner is widely credited in popular accounts with inventing vaccination in 1796, after showing that exposure to cowpox, a mild disease, could protect against smallpox, a far more dangerous one. Adeyemi, a historian of medicine, argues that this account understates a much longer and more geographically distributed history of deliberate smallpox protection.\n\nB. Variolation, a practice of deliberately exposing a healthy person to material from a mild smallpox case to induce a milder, immunising infection, was documented in China and the Ottoman Empire well before Jenner's work, and Adeyemi's research traces written and oral records suggesting the practice may have circulated among healers in parts of West Africa generations before Jenner's 1796 experiment, transmitted through both trade contacts and, later, through people enslaved and transported to the Americas.\n\nC. Jenner's genuine contribution, Adeyemi argues, was not the idea of inducing protective immunity through deliberate exposure, which variolation already embodied, but the specific insight that cowpox exposure achieved a similar protective effect with substantially lower risk than variolation, which itself carried a small but real chance of causing full smallpox and, more seriously, of starting new outbreaks in others. This made Jenner's method safer to adopt at large scale, which is arguably why it, rather than variolation, became the basis for later mass vaccination campaigns.\n\nD. Adeyemi's account does not diminish Jenner's historical significance but relocates it, from originator of the underlying concept to refiner of a substantially safer method built on ideas with a longer and more geographically dispersed history than popular accounts typically acknowledge. She notes that written records from outside Europe documenting these earlier practices survive unevenly, which has made it easier for historical narratives centred on a single individual to take hold.",
+  "group_id": "NIR-G29",
+  "stem": "In paragraph D, the word 'relocates' as used in 'relocates it' is closest in meaning to which of the following?",
+  "options": [
+   "repositions or reassigns something to a different place or role",
+   "physically transports an object to a new country",
+   "completely removes or deletes something",
+   "financially compensates someone for a loss"
+  ],
+  "answer": 0,
+  "explain_zh": "relocate 原意是「搬遷、重新定位」，段落 D 說 Adeyemi's account...relocates it（Jenner 的歷史地位），從「原創者」重新定位為「改良者」，最接近 A：將某事物重新安置到不同的位置或角色。B、C、D 都是字面上的搬遷或無關意思，不符合此處抽象用法。技巧：relocate 在描述抽象的「歷史地位、責任歸屬」時，常表示「重新定位、賦予不同角色」，而非實際的地理搬遷。",
+  "vocab": [
+   {
+    "w": "relocate",
+    "zh": "重新定位；遷移",
+    "pos": "v."
+   },
+   {
+    "w": "unevenly",
+    "zh": "不均勻地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0144",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:matching-information",
+  "tag_zh": "段落定位",
+  "passage": "A. Edward Jenner is widely credited in popular accounts with inventing vaccination in 1796, after showing that exposure to cowpox, a mild disease, could protect against smallpox, a far more dangerous one. Adeyemi, a historian of medicine, argues that this account understates a much longer and more geographically distributed history of deliberate smallpox protection.\n\nB. Variolation, a practice of deliberately exposing a healthy person to material from a mild smallpox case to induce a milder, immunising infection, was documented in China and the Ottoman Empire well before Jenner's work, and Adeyemi's research traces written and oral records suggesting the practice may have circulated among healers in parts of West Africa generations before Jenner's 1796 experiment, transmitted through both trade contacts and, later, through people enslaved and transported to the Americas.\n\nC. Jenner's genuine contribution, Adeyemi argues, was not the idea of inducing protective immunity through deliberate exposure, which variolation already embodied, but the specific insight that cowpox exposure achieved a similar protective effect with substantially lower risk than variolation, which itself carried a small but real chance of causing full smallpox and, more seriously, of starting new outbreaks in others. This made Jenner's method safer to adopt at large scale, which is arguably why it, rather than variolation, became the basis for later mass vaccination campaigns.\n\nD. Adeyemi's account does not diminish Jenner's historical significance but relocates it, from originator of the underlying concept to refiner of a substantially safer method built on ideas with a longer and more geographically dispersed history than popular accounts typically acknowledge. She notes that written records from outside Europe documenting these earlier practices survive unevenly, which has made it easier for historical narratives centred on a single individual to take hold.",
+  "group_id": "NIR-G29",
+  "stem": "Which paragraph traces evidence that variolation may have circulated in West Africa before Jenner's 1796 experiment?",
+  "options": [
+   "Paragraph A",
+   "Paragraph B",
+   "Paragraph C",
+   "Paragraph D"
+  ],
+  "answer": 1,
+  "explain_zh": "段落 B 寫 Adeyemi's research traces written and oral records suggesting the practice may have circulated among healers in parts of West Africa generations before Jenner's 1796 experiment，答案是 Paragraph B。段落 A 介紹傳統說法與 Adeyemi 的質疑；段落 C 討論 Jenner 方法相對於人痘接種術的優勢；段落 D 總結 Adeyemi 對 Jenner 歷史地位的重新定位。技巧：段落配對題找地理相關的關鍵詞（West Africa）時，先確認該地名在哪一段被完整討論，而非只是順帶一提。",
+  "vocab": [
+   {
+    "w": "trace",
+    "zh": "追溯",
+    "pos": "v."
+   },
+   {
+    "w": "oral record",
+    "zh": "口述紀錄",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0145",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:writer-view",
+  "tag_zh": "作者觀點",
+  "passage": "A. Edward Jenner is widely credited in popular accounts with inventing vaccination in 1796, after showing that exposure to cowpox, a mild disease, could protect against smallpox, a far more dangerous one. Adeyemi, a historian of medicine, argues that this account understates a much longer and more geographically distributed history of deliberate smallpox protection.\n\nB. Variolation, a practice of deliberately exposing a healthy person to material from a mild smallpox case to induce a milder, immunising infection, was documented in China and the Ottoman Empire well before Jenner's work, and Adeyemi's research traces written and oral records suggesting the practice may have circulated among healers in parts of West Africa generations before Jenner's 1796 experiment, transmitted through both trade contacts and, later, through people enslaved and transported to the Americas.\n\nC. Jenner's genuine contribution, Adeyemi argues, was not the idea of inducing protective immunity through deliberate exposure, which variolation already embodied, but the specific insight that cowpox exposure achieved a similar protective effect with substantially lower risk than variolation, which itself carried a small but real chance of causing full smallpox and, more seriously, of starting new outbreaks in others. This made Jenner's method safer to adopt at large scale, which is arguably why it, rather than variolation, became the basis for later mass vaccination campaigns.\n\nD. Adeyemi's account does not diminish Jenner's historical significance but relocates it, from originator of the underlying concept to refiner of a substantially safer method built on ideas with a longer and more geographically dispersed history than popular accounts typically acknowledge. She notes that written records from outside Europe documenting these earlier practices survive unevenly, which has made it easier for historical narratives centred on a single individual to take hold.",
+  "group_id": "NIR-G29",
+  "stem": "What is Adeyemi's overall stance towards Jenner's historical significance?",
+  "options": [
+   "She argues Jenner's work was fraudulent and never actually took place",
+   "She believes Jenner's contribution should be entirely erased from medical history",
+   "She considers Jenner's historical role completely unchanged by her research",
+   "She does not diminish it, but repositions it as refining rather than originating the concept of vaccination"
+  ],
+  "answer": 3,
+  "explain_zh": "段落 D 明確寫 Adeyemi's account does not diminish Jenner's historical significance but relocates it, from originator... to refiner of a substantially safer method，也就是「不貶低他的重要性，而是把他的角色從發明者重新定位成改良者」，對應選項 D。A「造假、從未發生」和 B「應從醫學史上抹除」都過度極端，與「不否定其重要性」矛盾；C「角色完全不受影響」也錯，因為她確實改變了 Jenner 的定位。技巧：作者觀點題常見正解是「保留原有貢獻，但修正其性質或定位」，留意 does not diminish... but relocates 這類句型。",
+  "vocab": [
+   {
+    "w": "diminish",
+    "zh": "減損",
+    "pos": "v."
+   },
+   {
+    "w": "refiner",
+    "zh": "改良者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0146",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "A. The mere-exposure effect, a well-established finding in psychology, holds that repeated exposure to a stimulus tends to increase people's liking for it, even when they cannot consciously recall having seen it before. Advertisers have long relied on repetition on this basis, but Castellanos and colleagues investigated whether the effect continues to strengthen indefinitely or eventually reverses.\n\nB. In a controlled study, participants viewed unfamiliar brand logos between 1 and 20 times before rating how much they liked each one. Liking increased steadily up to around 8 to 10 exposures, after which additional repetitions produced diminishing returns, and by 20 exposures, average liking scores for some logos had begun to decline slightly compared with their peak around 10 exposures, a pattern Castellanos terms wear-out.\n\nC. The point at which wear-out began varied considerably depending on the complexity of the logo design: simple logos reached peak liking after fewer exposures and showed earlier, more pronounced wear-out, while more visually complex logos continued to gain liking for a larger number of exposures before wear-out set in, plausibly because complex designs offer more visual detail to notice on each additional viewing.\n\nD. Castellanos cautions advertisers against assuming that more repetition is always better, noting that campaigns repeating an identical advertisement well beyond the point of diminishing returns may be wasting budget or, in the case of measurable decline, actively reducing consumer liking. She recommends varying advertisement execution, such as altering visual context or minor design elements while keeping core branding consistent, as one way to sustain the benefits of repetition while delaying the onset of wear-out.",
+  "group_id": "NIR-G30",
+  "stem": "What does Castellanos's research reveal about the mere-exposure effect in advertising?",
+  "options": [
+   "The mere-exposure effect has been completely disproven by Castellanos's study",
+   "Repeated exposure increases liking only up to a point, after which additional repetition can reduce it",
+   "Repeated exposure to a logo always increases liking indefinitely without limit",
+   "Complex logos always wear out faster than simple logos"
+  ],
+  "answer": 1,
+  "explain_zh": "段落 B 明確描述喜好度在約 8 到 10 次曝光後達到高峰，之後出現報酬遞減甚至下滑（wear-out），對應選項 B，故選 B。A 段落 A 說這是「已確立的心理學發現」，Castellanos 只是進一步研究其極限，並未推翻；C 與段落 B 描述的下滑現象矛盾；D 段落 C 明確說「複雜的標誌反而較晚出現耗損」，與題幹方向相反。技巧：主旨題遇到「效果先增後減」的研究，答案要精準反映這個轉折點，不能只描述其中一個階段。",
+  "vocab": [
+   {
+    "w": "mere-exposure effect",
+    "zh": "單純曝光效應",
+    "pos": "n."
+   },
+   {
+    "w": "diminishing returns",
+    "zh": "報酬遞減",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0147",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "A. The mere-exposure effect, a well-established finding in psychology, holds that repeated exposure to a stimulus tends to increase people's liking for it, even when they cannot consciously recall having seen it before. Advertisers have long relied on repetition on this basis, but Castellanos and colleagues investigated whether the effect continues to strengthen indefinitely or eventually reverses.\n\nB. In a controlled study, participants viewed unfamiliar brand logos between 1 and 20 times before rating how much they liked each one. Liking increased steadily up to around 8 to 10 exposures, after which additional repetitions produced diminishing returns, and by 20 exposures, average liking scores for some logos had begun to decline slightly compared with their peak around 10 exposures, a pattern Castellanos terms wear-out.\n\nC. The point at which wear-out began varied considerably depending on the complexity of the logo design: simple logos reached peak liking after fewer exposures and showed earlier, more pronounced wear-out, while more visually complex logos continued to gain liking for a larger number of exposures before wear-out set in, plausibly because complex designs offer more visual detail to notice on each additional viewing.\n\nD. Castellanos cautions advertisers against assuming that more repetition is always better, noting that campaigns repeating an identical advertisement well beyond the point of diminishing returns may be wasting budget or, in the case of measurable decline, actively reducing consumer liking. She recommends varying advertisement execution, such as altering visual context or minor design elements while keeping core branding consistent, as one way to sustain the benefits of repetition while delaying the onset of wear-out.",
+  "group_id": "NIR-G30",
+  "stem": "What can be inferred about why complex logos showed later wear-out than simple logos?",
+  "options": [
+   "Simple logos were never included in Castellanos's study at all.",
+   "Wear-out only occurs for logos rated as unattractive from the very first exposure.",
+   "Greater visual detail may give viewers something new to notice on each additional exposure.",
+   "Complex logos were shown to participants far fewer times than simple logos."
+  ],
+  "answer": 2,
+  "explain_zh": "段落 C 給出理由：complex designs offer more visual detail to notice on each additional viewing，可推知視覺細節較多，讓觀者每次觀看都能發現新東西，因此較晚出現厭倦感，對應選項 C，故選 C。A、D 與段落 B、C 描述兩種標誌都接受相同範圍的曝光次數（1 到 20 次）測試矛盾；B 原文沒有提到初始喜好度與耗損之間有這種關係。技巧：推論題常直接對應原文 plausibly because 引導的解釋子句。",
+  "vocab": [
+   {
+    "w": "pronounced",
+    "zh": "明顯的",
+    "pos": "adj."
+   },
+   {
+    "w": "plausibly",
+    "zh": "很有可能地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0148",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:vocabulary-in-context",
+  "tag_zh": "語境詞義",
+  "passage": "A. The mere-exposure effect, a well-established finding in psychology, holds that repeated exposure to a stimulus tends to increase people's liking for it, even when they cannot consciously recall having seen it before. Advertisers have long relied on repetition on this basis, but Castellanos and colleagues investigated whether the effect continues to strengthen indefinitely or eventually reverses.\n\nB. In a controlled study, participants viewed unfamiliar brand logos between 1 and 20 times before rating how much they liked each one. Liking increased steadily up to around 8 to 10 exposures, after which additional repetitions produced diminishing returns, and by 20 exposures, average liking scores for some logos had begun to decline slightly compared with their peak around 10 exposures, a pattern Castellanos terms wear-out.\n\nC. The point at which wear-out began varied considerably depending on the complexity of the logo design: simple logos reached peak liking after fewer exposures and showed earlier, more pronounced wear-out, while more visually complex logos continued to gain liking for a larger number of exposures before wear-out set in, plausibly because complex designs offer more visual detail to notice on each additional viewing.\n\nD. Castellanos cautions advertisers against assuming that more repetition is always better, noting that campaigns repeating an identical advertisement well beyond the point of diminishing returns may be wasting budget or, in the case of measurable decline, actively reducing consumer liking. She recommends varying advertisement execution, such as altering visual context or minor design elements while keeping core branding consistent, as one way to sustain the benefits of repetition while delaying the onset of wear-out.",
+  "group_id": "NIR-G30",
+  "stem": "In paragraph D, the word 'onset' is closest in meaning to which of the following?",
+  "options": [
+   "the beginning or start of something",
+   "the peak or highest point of something",
+   "the complete disappearance of something",
+   "the financial cost of something"
+  ],
+  "answer": 0,
+  "explain_zh": "onset 指「開始、起始」，段落 D 說改變廣告呈現方式能 delaying the onset of wear-out，也就是延後「開始出現耗損」的時間點，對應選項 A，故選 A。B「最高峰」、C「完全消失」都與「開始」的意思不同；D 原文沒有談論成本的起點。技巧：onset 常與疾病、現象、效應等抽象名詞搭配，表示「某個狀態開始發生的時間點」，如 the onset of a disease。",
+  "vocab": [
+   {
+    "w": "onset",
+    "zh": "開始；發作",
+    "pos": "n."
+   },
+   {
+    "w": "sustain",
+    "zh": "維持",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0149",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:true-false-notgiven",
+  "tag_zh": "是非未提及",
+  "passage": "A. The mere-exposure effect, a well-established finding in psychology, holds that repeated exposure to a stimulus tends to increase people's liking for it, even when they cannot consciously recall having seen it before. Advertisers have long relied on repetition on this basis, but Castellanos and colleagues investigated whether the effect continues to strengthen indefinitely or eventually reverses.\n\nB. In a controlled study, participants viewed unfamiliar brand logos between 1 and 20 times before rating how much they liked each one. Liking increased steadily up to around 8 to 10 exposures, after which additional repetitions produced diminishing returns, and by 20 exposures, average liking scores for some logos had begun to decline slightly compared with their peak around 10 exposures, a pattern Castellanos terms wear-out.\n\nC. The point at which wear-out began varied considerably depending on the complexity of the logo design: simple logos reached peak liking after fewer exposures and showed earlier, more pronounced wear-out, while more visually complex logos continued to gain liking for a larger number of exposures before wear-out set in, plausibly because complex designs offer more visual detail to notice on each additional viewing.\n\nD. Castellanos cautions advertisers against assuming that more repetition is always better, noting that campaigns repeating an identical advertisement well beyond the point of diminishing returns may be wasting budget or, in the case of measurable decline, actively reducing consumer liking. She recommends varying advertisement execution, such as altering visual context or minor design elements while keeping core branding consistent, as one way to sustain the benefits of repetition while delaying the onset of wear-out.",
+  "group_id": "NIR-G30",
+  "stem": "Statement: Castellanos found that wear-out began at exactly the same number of exposures for every logo tested, regardless of design complexity.",
+  "options": [
+   "True（文章支持）",
+   "False（文章反駁）",
+   "Not Given（文章沒提到）",
+   "文章自相矛盾"
+  ],
+  "answer": 1,
+  "explain_zh": "答案是 False。段落 C 明確寫 The point at which wear-out began varied considerably depending on the complexity of the logo design，直接反駁題幹「所有標誌的耗損起點完全相同」的說法，選 False。技巧：題幹的 exactly the same...regardless of 與原文的 varied considerably depending on 意思相反，是清楚的 False 判斷依據。",
+  "vocab": [
+   {
+    "w": "complexity",
+    "zh": "複雜度",
+    "pos": "n."
+   },
+   {
+    "w": "wear-out",
+    "zh": "（廣告效果）耗損",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "NIR-0150",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "reading",
+  "tag": "reading:writer-view",
+  "tag_zh": "作者觀點",
+  "passage": "A. The mere-exposure effect, a well-established finding in psychology, holds that repeated exposure to a stimulus tends to increase people's liking for it, even when they cannot consciously recall having seen it before. Advertisers have long relied on repetition on this basis, but Castellanos and colleagues investigated whether the effect continues to strengthen indefinitely or eventually reverses.\n\nB. In a controlled study, participants viewed unfamiliar brand logos between 1 and 20 times before rating how much they liked each one. Liking increased steadily up to around 8 to 10 exposures, after which additional repetitions produced diminishing returns, and by 20 exposures, average liking scores for some logos had begun to decline slightly compared with their peak around 10 exposures, a pattern Castellanos terms wear-out.\n\nC. The point at which wear-out began varied considerably depending on the complexity of the logo design: simple logos reached peak liking after fewer exposures and showed earlier, more pronounced wear-out, while more visually complex logos continued to gain liking for a larger number of exposures before wear-out set in, plausibly because complex designs offer more visual detail to notice on each additional viewing.\n\nD. Castellanos cautions advertisers against assuming that more repetition is always better, noting that campaigns repeating an identical advertisement well beyond the point of diminishing returns may be wasting budget or, in the case of measurable decline, actively reducing consumer liking. She recommends varying advertisement execution, such as altering visual context or minor design elements while keeping core branding consistent, as one way to sustain the benefits of repetition while delaying the onset of wear-out.",
+  "group_id": "NIR-G30",
+  "stem": "What is Castellanos's overall recommendation to advertisers, according to the passage?",
+  "options": [
+   "Vary advertisement execution while keeping core branding consistent, to sustain repetition's benefits and delay wear-out",
+   "Abandon repetition-based advertising strategies entirely in favour of single-exposure campaigns",
+   "Repeat the exact same advertisement as many times as the budget allows, without any variation",
+   "Use only complex logo designs, since simple designs are proven to be ineffective"
+  ],
+  "answer": 0,
+  "explain_zh": "段落 D 明確寫 She recommends varying advertisement execution, such as altering visual context or minor design elements while keeping core branding consistent, as one way to sustain the benefits of repetition while delaying the onset of wear-out，對應選項 A，故選 A。C 與她對「過度重複可能浪費預算甚至降低喜好度」的提醒矛盾；B 過度極端，原文沒有建議放棄重複策略；D 段落 C 只是描述複雜標誌耗損較晚，並非建議「只用複雜設計」。技巧：建議類題目答案通常出現在文章結尾，留意 recommends that、one way to 這類明確給出具體做法的句型。",
+  "vocab": [
+   {
+    "w": "execution",
+    "zh": "（廣告的）呈現方式",
+    "pos": "n."
+   },
+   {
+    "w": "branding",
+    "zh": "品牌識別",
+    "pos": "n."
+   }
+  ]
+ }
+]

@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% set req='speaking' %}
+{% block body %}
+<h1>口說</h1>
+<p class="sub">用 Chrome 可以直接按錄音自動轉成文字；其他瀏覽器就自己把講的內容打進去。
+{% if not ai_ok %}<span class="tag bad">目前找不到 claude 指令，批改功能不能用</span>{% endif %}</p>
+
+<div class="card">
+  <div class="row">
+    <select id="sel" onchange="pick()" style="flex:1;min-width:240px">
+      {% for s in prompts %}
+      <option value="{{ loop.index0 }}">[{{ s.part }}] {{ s.topic_zh }} — {{ s.question[:60] }}</option>
+      {% endfor %}
+    </select>
+    <button class="btn sm ghost" onclick="rand()">隨機一題</button>
+  </div>
+  <div class="passage" id="task" style="margin-top:14px"></div>
+  <div class="row">
+    <span class="pill" id="req"></span>
+    <span class="spacer"></span>
+    <span class="muted" id="timer">00:00</span>
+    <button class="btn sm ghost" onclick="hint.classList.toggle('hide')">看提示</button>
+    <button class="btn" id="rec" onclick="toggleRec()">🎙 開始錄音</button>
+  </div>
+  <div id="hint" class="hide" style="margin-top:12px;border-top:1px solid var(--line);padding-top:12px"></div>
+</div>
+
+<div class="card">
+  <textarea id="body" placeholder="你說的話會自動出現在這裡，也可以直接打字…"></textarea>
+  <div class="row" style="margin-top:10px">
+    <span class="muted" id="wc">0 字</span>
+    <span class="spacer"></span>
+    <button class="btn" id="go" onclick="grade()">AI 批改</button>
+  </div>
+</div>
+<div id="out"></div>
+
+<h2>批改紀錄</h2>
+<div class="card">
+{% if history %}
+<table><tr><th>日期</th><th>題型</th><th>字數</th><th>分數</th><th></th></tr>
+{% for h in history %}
+<tr><td class="muted">{{ h.ts[:16].replace('T',' ') }}</td><td>{{ h.kind }}</td>
+  <td>{{ h.words }}</td><td><b style="color:var(--accent)">{{ h.band }}</b></td>
+  <td><a href="/essay/{{ h.id }}">看詳解</a></td></tr>
+{% endfor %}</table>
+{% else %}<p class="muted">還沒有紀錄。</p>{% endif %}
+</div>
+
+<script>
+const P={{ prompts|tojson }};
+const body_=document.getElementById('body');
+let cur=0,tid=null,sec=0,sr=null,on=false;
+function esc(x){return String(x==null?'':x).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]))}
+function pick(){cur=+sel.value;const p=P[cur];task.textContent=p.question;
+  req.textContent=p.part+'　'+(p.topic_zh||'')+'　建議講 '+p.seconds+' 秒';
+  const o=(p.tips_zh||[]).map(x=>'<li>'+esc(x)+'</li>').join('');
+  const u=(p.useful_phrases||[]).map(x=>'<li><b>'+esc(x.en)+'</b><br><span class="muted">'+esc(x.zh)+'</span></li>').join('');
+  hint.innerHTML=(o||u)?('<div class="grid g2">'+
+    (o?'<div><b>怎麼答（中文提示）</b><ul class="clean">'+o+'</ul></div>':'')+
+    (u?'<div><b>可以用的句型</b><ul class="clean">'+u+'</ul></div>':'')+'</div>'):'';}
+function rand(){sel.value=Math.floor(Math.random()*P.length);pick();}
+body_.oninput=()=>{wc.textContent=(body_.value.trim().split(/\s+/).filter(Boolean).length)+' 字'};
+function toggleRec(){
+  const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+  if(!SR){alert('這個瀏覽器不支援語音轉文字，請用 Chrome，或直接打字。');return}
+  if(on){stopRec();return}
+  sr=new SR();sr.lang='en-US';sr.continuous=true;sr.interimResults=false;
+  sr.onresult=e=>{for(let i=e.resultIndex;i<e.results.length;i++){
+    body_.value+=(body_.value?' ':'')+e.results[i][0].transcript.trim();}
+    body_.dispatchEvent(new Event('input'));};
+  sr.onerror=e=>{alert('錄音錯誤：'+e.error);stopRec()};
+  sr.onend=()=>{if(on)sr.start()};
+  sr.start();on=true;rec.textContent='⏹ 停止錄音';sec=0;
+  tid=setInterval(()=>{sec++;timer.textContent=
+    String(Math.floor(sec/60)).padStart(2,'0')+':'+String(sec%60).padStart(2,'0')},1000);
+}
+function stopRec(){on=false;clearInterval(tid);rec.textContent='🎙 開始錄音';if(sr)sr.stop();}
+async function grade(){
+  const t=body_.value.trim();
+  if(t.split(/\s+/).length<20){alert('至少要有 20 個字');return}
+  stopRec();
+  go.disabled=true;go.innerHTML='<span class="spin"></span>AI 批改中（約 30~60 秒）…';
+  try{
+    const r=await fetch('/api/grade',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({kind:P[cur].part,task:P[cur].question,body:t})});
+    const d=await r.json();
+    if(d.error){out.innerHTML='<div class="err">'+d.error+'</div>'}else{location.href='/essay/'+d.id}
+  }catch(e){out.innerHTML='<div class="err">連線失敗：'+e.message+'</div>'}
+  go.disabled=false;go.textContent='AI 批改';
+}
+pick();
+</script>
+{% endblock %}

@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "NIV-0101",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Before publishing the report, journalists spent several weeks trying to ____ whether the leaked documents were genuine or had been fabricated.",
+    "options": [
+      "ascertain",
+      "ignore",
+      "publish",
+      "copy"
+    ],
+    "answer": 0,
+    "explain_zh": "ascertain 表示「查明、確定」（透過調查得知真相）；ignore（忽略）、publish（發表）、copy（複製）都無法表達「透過調查確認真偽」的意思。雅思閱讀學術文章常用 ascertain 描述研究者查證事實的過程。",
+    "vocab": [
+      {
+        "w": "ascertain",
+        "zh": "查明；確定",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0102",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Investigators searched for additional witnesses whose testimony could ____ the account given by the driver involved in the collision.",
+    "options": [
+      "contradict",
+      "corroborate",
+      "ignore",
+      "replace"
+    ],
+    "answer": 1,
+    "explain_zh": "corroborate 表示「（用證據）證實、支持既有說法」；contradict（反駁）語意相反，ignore（忽略）、replace（取代）都不符合「用新證據支持原本說法」。雅思閱讀學術文章常用 corroborate 描述證據互相印證。",
+    "vocab": [
+      {
+        "w": "corroborate",
+        "zh": "證實；佐證",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0103",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Based on data collected from just three cities, it would be risky to ____ conclusions about national trends without further research.",
+    "options": [
+      "summarise",
+      "ignore",
+      "extrapolate",
+      "publish"
+    ],
+    "answer": 2,
+    "explain_zh": "extrapolate 表示「（根據有限資料）推斷、外推」；summarise（總結）、ignore（忽略）、publish（發表）都無法表達「根據局部資料推論整體趨勢」，且句中 risky 暗示這種推論有風險。雅思閱讀統計類文章常用 extrapolate 描述以偏概全的推論風險。",
+    "vocab": [
+      {
+        "w": "extrapolate",
+        "zh": "推斷；外推",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0104",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Traffic from three separate motorways ____ at this single junction, which explains why congestion here is so severe every morning.",
+    "options": [
+      "divide",
+      "avoid",
+      "bypass",
+      "converge"
+    ],
+    "answer": 3,
+    "explain_zh": "converge 表示「匯聚、聚集於一點」；divide（分開）語意相反，avoid（避開）、bypass（繞道）都不符合「三條公路匯聚於同一路口」。雅思閱讀交通與都市規劃文章常用 converge 描述路線匯合。",
+    "vocab": [
+      {
+        "w": "converge",
+        "zh": "匯聚；聚集",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0105",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Pilots are trained never to ____ from the standard safety checklist, even when a flight is running behind schedule.",
+    "options": [
+      "deviate",
+      "benefit",
+      "differentiate",
+      "recover"
+    ],
+    "answer": 0,
+    "explain_zh": "deviate from 表示「偏離（既定的規則或標準）」；benefit（受益）、differentiate（區分）、recover（恢復）語意都與「偏離安全檢查清單」不符。雅思閱讀常用 deviate from the norm/standard 描述違反常規的行為。",
+    "vocab": [
+      {
+        "w": "deviate",
+        "zh": "偏離",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0106",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "The rapid rise of remote working during the pandemic perfectly ____ how quickly workplace habits can change under pressure.",
+    "options": [
+      "prevent",
+      "exemplifies",
+      "denies",
+      "avoids"
+    ],
+    "answer": 1,
+    "explain_zh": "exemplify 表示「（以實例）說明、體現」；prevent（阻止）、deny（否認）、avoid（避免）語意都與「作為具體例子來說明現象」不符。雅思寫作 Task 2 常用 this exemplifies 引出具體例證支持論點。",
+    "vocab": [
+      {
+        "w": "exemplify",
+        "zh": "例證說明",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0107",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Although the contract never states it directly, there is an ____ agreement that both parties will renew the lease automatically each year.",
+    "options": [
+      "written",
+      "formal",
+      "implicit",
+      "official"
+    ],
+    "answer": 2,
+    "explain_zh": "implicit 表示「隱含的、未明說但理解一致的」；written（書面的）、formal（正式的）、official（官方的）都與「未直接寫明卻雙方心照不宣」矛盾。雅思閱讀常考 implicit 與 explicit（明確表達的）這組反義字。",
+    "vocab": [
+      {
+        "w": "implicit",
+        "zh": "隱含的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0108",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Years of chronic stress can eventually ____ as physical symptoms such as headaches, high blood pressure and insomnia.",
+    "options": [
+      "disappear",
+      "weaken",
+      "prevent",
+      "manifest"
+    ],
+    "answer": 3,
+    "explain_zh": "manifest as 表示「顯現、表現出來」；disappear（消失）、weaken（削弱）、prevent（阻止）語意都與「壓力最終顯現為生理症狀」不符。雅思閱讀健康類文章常用 manifest as 描述某狀況最終以何種形式出現。",
+    "vocab": [
+      {
+        "w": "manifest",
+        "zh": "顯現；表現",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0109",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "The experiment produced only a small improvement in efficiency; the result was, ____ , considered a meaningful step forward by the research team.",
+    "options": [
+      "nonetheless",
+      "therefore",
+      "likewise",
+      "meanwhile"
+    ],
+    "answer": 0,
+    "explain_zh": "nonetheless 表示「儘管如此」（表轉折，承認前面的限制但仍有正面結論）；therefore（因此，表因果）、likewise（同樣地）、meanwhile（同時）語意連接邏輯都不符合「雖然改善不大，但仍算有意義」的轉折關係。雅思寫作常用 nonetheless 連接讓步與結論。",
+    "vocab": [
+      {
+        "w": "nonetheless",
+        "zh": "儘管如此",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0110",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Consumers often ____ handmade products as being of higher quality than mass-produced items, even when the materials are identical.",
+    "options": [
+      "ignore",
+      "perceive",
+      "purchase",
+      "review"
+    ],
+    "answer": 1,
+    "explain_zh": "perceive…as 表示「將…視為、認為」；ignore（忽略）、purchase（購買）、review（評論）都無法表達「消費者主觀認為某產品品質較高」。雅思閱讀行銷類文章常用 perceive…as 描述消費者的主觀認知。",
+    "vocab": [
+      {
+        "w": "perceive",
+        "zh": "認為；察覺",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0111",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "A brief safety briefing always ____ the start of the laboratory session, ensuring that every student understands the risks involved.",
+    "options": [
+      "follow",
+      "replace",
+      "precede",
+      "cancel"
+    ],
+    "answer": 2,
+    "explain_zh": "precede 表示「在…之前發生」；follow（在…之後，語意相反）、replace（取代）、cancel（取消）都不符合「安全講習在課程開始前進行」的先後順序。雅思閱讀常用 precede 描述事件發生的先後順序。",
+    "vocab": [
+      {
+        "w": "precede",
+        "zh": "先於；在…之前發生",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0112",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Obesity-related illnesses have become far more ____ in urban areas, where fast food is cheap and physical activity is limited.",
+    "options": [
+      "rare",
+      "mild",
+      "isolated",
+      "prevalent"
+    ],
+    "answer": 3,
+    "explain_zh": "prevalent 表示「普遍存在的、盛行的」；rare（罕見的）語意相反，mild（輕微的）、isolated（孤立的）都不符合「在都市地區廣泛存在」。雅思閱讀健康類文章常用 prevalent 描述疾病或現象的普及程度。",
+    "vocab": [
+      {
+        "w": "prevalent",
+        "zh": "普遍的；盛行的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0113",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Before any new drug reaches the market, it must pass through a series of extremely ____ clinical trials to prove it is safe.",
+    "options": [
+      "rigorous",
+      "casual",
+      "brief",
+      "optional"
+    ],
+    "answer": 0,
+    "explain_zh": "rigorous 表示「嚴謹、嚴格的」；casual（隨意的）、brief（簡短的）、optional（非必須的）都與「新藥上市前必須通過的嚴格試驗」矛盾。雅思閱讀學術方法論文章常用 rigorous testing/research 強調研究的嚴謹性。",
+    "vocab": [
+      {
+        "w": "rigorous",
+        "zh": "嚴謹的；嚴格的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0114",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Unlike the rapidly growing tech sector, employment levels in this particular industry have remained largely ____ for the past fifteen years.",
+    "options": [
+      "flexible",
+      "static",
+      "mobile",
+      "diverse"
+    ],
+    "answer": 1,
+    "explain_zh": "static 表示「靜止不變的」；flexible（有彈性的）、mobile（可移動的）、diverse（多樣的）都無法表達「長期維持不變」，且與句首 unlike the rapidly growing 形成對比。雅思寫作 Task 1 描述數據長期不變時可用 static 取代 stable。",
+    "vocab": [
+      {
+        "w": "static",
+        "zh": "靜止不變的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0115",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "Examiners generally reward answers that are ____ and well-organised over those that repeat the same point in different words.",
+    "options": [
+      "repetitive",
+      "vague",
+      "succinct",
+      "lengthy"
+    ],
+    "answer": 2,
+    "explain_zh": "succinct 表示「簡潔扼要的」；repetitive（重複的）、vague（模糊的）、lengthy（冗長的）都與「簡潔有條理」的正面特質相反或不符。雅思口說與寫作評分都重視答案是否 succinct 而不拖泥帶水。",
+    "vocab": [
+      {
+        "w": "succinct",
+        "zh": "簡潔扼要的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0116",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "A single one-hour visit to a country can only give a tourist a rather ____ understanding of its culture and history.",
+    "options": [
+      "thorough",
+      "detailed",
+      "genuine",
+      "superficial"
+    ],
+    "answer": 3,
+    "explain_zh": "superficial 表示「表面的、膚淺的」；thorough（徹底的）、detailed（詳細的）、genuine（真正的）都與「短暫停留只能獲得表面認識」矛盾。雅思口說旅遊話題常用 superficial understanding 描述走馬看花式的認識。",
+    "vocab": [
+      {
+        "w": "superficial",
+        "zh": "表面的；膚淺的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0117",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:awl-core",
+    "tag_zh": "學術字表核心字",
+    "passage": null,
+    "group_id": null,
+    "stem": "A shared belief in equal opportunity has long ____ the country's approach to designing its public education system.",
+    "options": [
+      "underpinned",
+      "weakened",
+      "replaced",
+      "questioned"
+    ],
+    "answer": 0,
+    "explain_zh": "underpin 表示「作為…的根基、支撐」（信念或制度背後的核心價值）；weaken（削弱）、replace（取代）、question（質疑）都無法表達「作為制度設計背後長期支撐的信念」。雅思閱讀政策類文章常用 underpin 描述某價值觀支撐整個制度。",
+    "vocab": [
+      {
+        "w": "underpin",
+        "zh": "作為…的根基；支撐",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0118",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Share prices fell in an ____ manner after the company unexpectedly announced that its chief executive would be resigning immediately.",
+    "options": [
+      "gradual",
+      "abrupt",
+      "steady",
+      "slow"
+    ],
+    "answer": 1,
+    "explain_zh": "abrupt 表示「突然的、猝不及防的」；gradual（逐漸的）、steady（穩定的）、slow（緩慢的）都與「毫無預警地驟然下跌」矛盾。雅思寫作 Task 1 描述數據毫無預警地急跌可用 abrupt。",
+    "vocab": [
+      {
+        "w": "abrupt",
+        "zh": "突然的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0119",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company reported rising profits for five ____ quarters, a run that finally ended when raw material costs increased sharply.",
+    "options": [
+      "random",
+      "separate",
+      "consecutive",
+      "occasional"
+    ],
+    "answer": 2,
+    "explain_zh": "consecutive 表示「連續不間斷的」；random（隨機的）、separate（分開的）、occasional（偶爾的）都無法表達「連續五季」的持續性。雅思寫作 Task 1 常用 for five consecutive years/quarters 描述連續發生的期間。",
+    "vocab": [
+      {
+        "w": "consecutive",
+        "zh": "連續的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0120",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The retailer's latest figures show a ____ increase of eight percent, meaning sales this year were eight percent higher than the same period last year.",
+    "options": [
+      "monthly",
+      "weekly",
+      "hourly",
+      "year-on-year"
+    ],
+    "answer": 3,
+    "explain_zh": "year-on-year 表示「年增率（與去年同期相比）」；monthly（每月的）、weekly（每週的）、hourly（每小時的）都與「和去年同期比較」的固定用法不符。雅思寫作 Task 1 常用 a year-on-year increase/decrease 描述年度成長率。",
+    "vocab": [
+      {
+        "w": "year-on-year",
+        "zh": "年增的；與去年同期比較的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0121",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "City-centre rents continued to climb throughout the decade; ____ , rents in outlying suburbs fell slightly as residents moved further out.",
+    "options": [
+      "conversely",
+      "similarly",
+      "consequently",
+      "additionally"
+    ],
+    "answer": 0,
+    "explain_zh": "conversely 表示「相反地」（用於對比兩個相反趨勢）；similarly（同樣地）、consequently（因此）、additionally（此外）語意連接邏輯都不符合「市中心租金上升，但郊區租金卻下跌」這種相反的對比關係。雅思寫作 Task 1 比較兩組相反趨勢時常用 conversely。",
+    "vocab": [
+      {
+        "w": "conversely",
+        "zh": "相反地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0122",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "As fuel prices rose sharply throughout the year, transport costs for local businesses increased ____ , squeezing their already thin profit margins.",
+    "options": [
+      "unexpectedly",
+      "correspondingly",
+      "occasionally",
+      "rarely"
+    ],
+    "answer": 1,
+    "explain_zh": "correspondingly 表示「相應地」，指一項數據變動導致另一項也跟著變動；unexpectedly（出乎意料地）、occasionally（偶爾地）、rarely（很少地）都無法表達「燃料價格上升，運輸成本也跟著相應上升」的因果對應關係。雅思寫作 Task 1 常用 correspondingly 連接兩組相關聯的數據變化。",
+    "vocab": [
+      {
+        "w": "correspondingly",
+        "zh": "相應地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0123",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Investment in renewable energy has increased ____ since 2015, rising from around ten billion dollars to over thirty billion dollars annually.",
+    "options": [
+      "slightly",
+      "gradually",
+      "threefold",
+      "marginally"
+    ],
+    "answer": 2,
+    "explain_zh": "threefold 表示「三倍地」，指數值成長為原本的三倍；slightly（些微地）、gradually（逐漸地）、marginally（些微地）都無法精確表達「成長為三倍」的具體倍數。雅思寫作 Task 1 常用 increase threefold/twofold 描述數據成長的具體倍數。",
+    "vocab": [
+      {
+        "w": "threefold",
+        "zh": "三倍地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0124",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The number of applicants to the nursing programme has risen ____ over the past three years, reflecting growing interest in healthcare careers.",
+    "options": [
+      "minimally",
+      "negligibly",
+      "slightly",
+      "twofold"
+    ],
+    "answer": 3,
+    "explain_zh": "twofold 表示「兩倍地」，指成長為原本的兩倍；minimally（極少地）、negligibly（可忽略地）、slightly（些微地）都無法表達「成長為兩倍」的具體幅度。雅思寫作 Task 1 常用 twofold 描述數據翻倍成長。",
+    "vocab": [
+      {
+        "w": "twofold",
+        "zh": "兩倍地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0125",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "If the current growth rate continues, experts predict that the city's population could ____ within the next fifty years.",
+    "options": [
+      "quadruple",
+      "stabilise",
+      "decline",
+      "plateau"
+    ],
+    "answer": 0,
+    "explain_zh": "quadruple 表示「變成四倍」；stabilise（穩定下來）、decline（下降）、plateau（持平）都與「成長為四倍」的預測不符。雅思寫作 Task 1 描述長期急遽成長的預測時可用 quadruple 表達四倍成長。",
+    "vocab": [
+      {
+        "w": "quadruple",
+        "zh": "變成四倍",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0126",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Online grocery orders ____ during the first year of the pandemic as more households avoided visiting physical supermarkets.",
+    "options": [
+      "halved",
+      "tripled",
+      "stabilised",
+      "paused"
+    ],
+    "answer": 1,
+    "explain_zh": "triple 表示「變成三倍」；halved（減半）語意相反，stabilised（穩定下來）、paused（暫停）都不符合「訂單量大幅增加為三倍」。雅思寫作 Task 1 常用 triple 描述數據成長為三倍。",
+    "vocab": [
+      {
+        "w": "triple",
+        "zh": "變成三倍",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0127",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Housing supply in the city has failed to ____ demand for over a decade, which explains why property prices keep rising.",
+    "options": [
+      "measure",
+      "satisfy",
+      "outstrip",
+      "replace"
+    ],
+    "answer": 2,
+    "explain_zh": "outstrip 表示「超越、超過」，指成長速度快過另一項；measure（測量）、satisfy（滿足，語氣較弱）、replace（取代）都無法精準表達「供給成長速度未能超過需求」。雅思寫作 Task 1 常用 demand outstrips supply 描述供不應求的現象。",
+    "vocab": [
+      {
+        "w": "outstrip",
+        "zh": "超越；超過",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0128",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "In this particular university department, female students now ____ male students by almost two to one, a striking reversal of the pattern seen a generation ago.",
+    "options": [
+      "resemble",
+      "equal",
+      "join",
+      "outnumber"
+    ],
+    "answer": 3,
+    "explain_zh": "outnumber 表示「數量超過」；resemble（相似）、equal（等於）、join（加入）都無法表達「女學生人數超過男學生」的比較關係。雅思寫作 Task 1 常用 outnumber 描述兩個群體數量上的差距。",
+    "vocab": [
+      {
+        "w": "outnumber",
+        "zh": "數量超過",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0129",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Rural broadband speeds continue to ____ those in major cities, despite government promises to close the digital divide by next year.",
+    "options": [
+      "lag behind",
+      "keep up with",
+      "surpass",
+      "mirror"
+    ],
+    "answer": 0,
+    "explain_zh": "lag behind 表示「落後於」；keep up with（跟上）、surpass（超越）、mirror（反映；相似）語意都與「鄉村網路速度落後於城市」不符。雅思寫作 Task 1 常用 lag behind 描述某項數據落後於另一項。",
+    "vocab": [
+      {
+        "w": "lag behind",
+        "zh": "落後於",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0130",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The two countries' economic growth rates began to ____ sharply after one adopted strict austerity measures while the other continued heavy public spending.",
+    "options": [
+      "align",
+      "diverge",
+      "merge",
+      "match"
+    ],
+    "answer": 1,
+    "explain_zh": "diverge 表示（趨勢）「分歧、朝不同方向發展」；align（一致）、merge（合併）、match（相符）都與「兩國經濟成長走向截然不同」相反。雅思寫作 Task 1 常用 diverge 描述兩條原本相近的趨勢線分開。",
+    "vocab": [
+      {
+        "w": "diverge",
+        "zh": "分歧；朝不同方向發展",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0131",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "House prices finally appeared to ____ in the third quarter, giving cautious buyers their first sign of stability in over a year.",
+    "options": [
+      "accelerate",
+      "climb",
+      "bottom out",
+      "surge"
+    ],
+    "answer": 2,
+    "explain_zh": "bottom out 表示（下跌後）「觸底」；accelerate（加速）、climb（攀升）、surge（激增）都與「下跌後終於觸底」不符。雅思寫作 Task 1 常用 bottom out 描述數據跌到最低點後止跌。",
+    "vocab": [
+      {
+        "w": "bottom out",
+        "zh": "觸底",
+        "pos": "phr.v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0132",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Unemployment among recent graduates reached an ____ last year, prompting the government to introduce several new job-training schemes.",
+    "options": [
+      "average level",
+      "minor drop",
+      "temporary dip",
+      "all-time high"
+    ],
+    "answer": 3,
+    "explain_zh": "all-time high 表示「史上最高點」；average level（平均水準）、minor drop（小幅下跌）、temporary dip（暫時下滑）都與「達到史上最高」的語意矛盾。雅思寫作 Task 1 常用 reach an all-time high/low 描述數據創下歷史新高或新低。",
+    "vocab": [
+      {
+        "w": "all-time high",
+        "zh": "史上最高點",
+        "pos": "n.phr."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0133",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The factory produced a ____ number of vehicles last quarter, surpassing every previous output figure in the company's forty-year history.",
+    "options": [
+      "record-breaking",
+      "disappointing",
+      "average",
+      "modest"
+    ],
+    "answer": 0,
+    "explain_zh": "record-breaking 表示「破紀錄的」；disappointing（令人失望的）、average（平均的）、modest（適度的）都與「超越歷來所有紀錄」矛盾。雅思寫作 Task 1 常用 a record-breaking figure 描述創新高的數據。",
+    "vocab": [
+      {
+        "w": "record-breaking",
+        "zh": "破紀錄的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0134",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:data-trend",
+    "tag_zh": "圖表趨勢字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Trends in this smaller regional market closely ____ those seen nationally, making it a useful indicator for predicting countrywide sales.",
+    "options": [
+      "oppose",
+      "mirror",
+      "ignore",
+      "distort"
+    ],
+    "answer": 1,
+    "explain_zh": "mirror 表示「反映、與…相似」（如鏡子般映照出相同的模式）；oppose（反對）、ignore（忽略）、distort（扭曲）都與「地區市場趨勢與全國趨勢高度相似」不符。雅思寫作 Task 1 常用 mirror 描述兩組數據走勢高度相似。",
+    "vocab": [
+      {
+        "w": "mirror",
+        "zh": "反映；與…相似",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0135",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The lawyer's closing statement was widely regarded as the most ____ part of the entire trial, swaying several jurors who had earlier seemed undecided.",
+    "options": [
+      "technical",
+      "lengthy",
+      "persuasive",
+      "formal"
+    ],
+    "answer": 2,
+    "explain_zh": "persuasive 表示「有說服力的」；technical（技術性的）、lengthy（冗長的）、formal（正式的）都無法表達「成功說服陪審團」的效果。雅思寫作 Task 2 高分文章需要提出 persuasive arguments 說服讀者。",
+    "vocab": [
+      {
+        "w": "persuasive",
+        "zh": "有說服力的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0136",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Although the salesman spoke confidently, his explanation for the sudden price increase was far from ____ and left several customers suspicious.",
+    "options": [
+      "formal",
+      "brief",
+      "technical",
+      "convincing"
+    ],
+    "answer": 3,
+    "explain_zh": "convincing 表示「令人信服的」；formal（正式的）、brief（簡短的）、technical（技術性的）都與「令人信服」不符，且句中「left customers suspicious」暗示解釋並不具說服力。雅思閱讀常考作者對某論點是否 convincing 的評價。",
+    "vocab": [
+      {
+        "w": "convincing",
+        "zh": "令人信服的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0137",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Reviewers found the company's explanation for the data breach ____ , noting that it failed to address why the security update had been delayed for months.",
+    "options": [
+      "unconvincing",
+      "thorough",
+      "detailed",
+      "transparent"
+    ],
+    "answer": 0,
+    "explain_zh": "unconvincing 表示「不具說服力的」；thorough（徹底的）、detailed（詳細的）、transparent（透明的）都與「未能說明延遲原因，缺乏說服力」的批評矛盾。雅思閱讀常考評論者是否認為某解釋 unconvincing。",
+    "vocab": [
+      {
+        "w": "unconvincing",
+        "zh": "不具說服力的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0138",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Despite its obvious flaws, the proposal does have some ____ , particularly in how it addresses the shortage of affordable housing.",
+    "options": [
+      "risk",
+      "merit",
+      "cost",
+      "delay"
+    ],
+    "answer": 1,
+    "explain_zh": "merit 表示「優點、可取之處」；risk（風險）、cost（成本）、delay（延誤）都無法表達「儘管有缺點，仍有值得肯定的優點」。雅思寫作 Task 2 常用 have merit 承認對立觀點仍有部分道理。",
+    "vocab": [
+      {
+        "w": "merit",
+        "zh": "優點；可取之處",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0139",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "One major ____ of working from home is that many employees find it harder to separate their professional and personal lives.",
+    "options": [
+      "advantage",
+      "benefit",
+      "drawback",
+      "incentive"
+    ],
+    "answer": 2,
+    "explain_zh": "drawback 表示「缺點、不利之處」；advantage（優點）、benefit（益處）語意相反，incentive（誘因）也不符合「難以區分工作與生活」這個負面影響。雅思寫作 Task 2 常用 one drawback of 引出某項政策或做法的缺點。",
+    "vocab": [
+      {
+        "w": "drawback",
+        "zh": "缺點；不利之處",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0140",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The main ____ to living in the city centre is the noise, which many residents say disturbs their sleep almost every night.",
+    "options": [
+      "appeal",
+      "attraction",
+      "benefit",
+      "downside"
+    ],
+    "answer": 3,
+    "explain_zh": "downside 表示「缺點、不利的一面」；appeal（吸引力）、attraction（吸引人之處）、benefit（好處）語意都相反或不符。雅思口說與寫作常用 the downside of 引出某件事的缺點。",
+    "vocab": [
+      {
+        "w": "downside",
+        "zh": "缺點；不利的一面",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0141",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "A strong Task 2 essay should acknowledge at least one ____ before explaining why the writer's own position is still more convincing.",
+    "options": [
+      "counterargument",
+      "summary",
+      "introduction",
+      "conclusion"
+    ],
+    "answer": 0,
+    "explain_zh": "counterargument 表示「反方論點」；summary（摘要）、introduction（引言）、conclusion（結論）都與「承認並回應對立觀點」的寫作技巧不符。雅思寫作 Task 2 高分文章常會先承認 counterargument 再加以反駁。",
+    "vocab": [
+      {
+        "w": "counterargument",
+        "zh": "反方論點",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0142",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "After the opposing team presented their evidence, the debate captain offered a sharp ____ that undermined almost every point they had made.",
+    "options": [
+      "summary",
+      "rebuttal",
+      "apology",
+      "introduction"
+    ],
+    "answer": 1,
+    "explain_zh": "rebuttal 表示「反駁（的言論）」；summary（摘要）、apology（道歉）、introduction（引言）都與「提出有力反駁削弱對方論點」不符。雅思寫作 Task 2 中提出 rebuttal 是反駁對立觀點的重要技巧。",
+    "vocab": [
+      {
+        "w": "rebuttal",
+        "zh": "反駁",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0143",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "To the argument that remote work reduces productivity, researchers offer a useful ____ : several studies show output actually rising when staff work from home.",
+    "options": [
+      "repetition",
+      "summary",
+      "counterpoint",
+      "warning"
+    ],
+    "answer": 2,
+    "explain_zh": "counterpoint 表示「反駁的論點、對立觀點」；repetition（重複）、summary（摘要）、warning（警告）都無法表達「提出相反證據來反駁某個論點」。雅思寫作 Task 2 常用 offer a counterpoint 引出對立的證據或看法。",
+    "vocab": [
+      {
+        "w": "counterpoint",
+        "zh": "反駁論點；對立觀點",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0144",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Blaming rising crime rates solely on poverty may ____ a problem that is actually shaped by many interconnected social factors.",
+    "options": [
+      "clarify",
+      "resolve",
+      "examine",
+      "oversimplify"
+    ],
+    "answer": 3,
+    "explain_zh": "oversimplify 表示「過度簡化」（忽略複雜的成因）；clarify（釐清）、resolve（解決）、examine（檢視）都無法表達「將複雜問題簡化成單一原因」的批評語意。雅思寫作 Task 2 常用 oversimplify 批評把複雜議題歸咎單一原因的論述。",
+    "vocab": [
+      {
+        "w": "oversimplify",
+        "zh": "過度簡化",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0145",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Some newspaper headlines ____ the risks of the new technology in order to attract more readers and generate stronger reactions online.",
+    "options": [
+      "exaggerate",
+      "minimise",
+      "measure",
+      "calculate"
+    ],
+    "answer": 0,
+    "explain_zh": "exaggerate 表示「誇大」；minimise（降到最低）語意相反，measure（測量）、calculate（計算）都不符合「誇大風險以吸引讀者」。雅思寫作 Task 2 常用 exaggerate 批評媒體誇大其詞的報導方式。",
+    "vocab": [
+      {
+        "w": "exaggerate",
+        "zh": "誇大",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0146",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "It would be easy to ____ how much daily commuting affects a worker's overall stress levels and long-term physical health.",
+    "options": [
+      "exaggerate",
+      "understate",
+      "calculate",
+      "publicise"
+    ],
+    "answer": 1,
+    "explain_zh": "understate 表示「輕描淡寫、低估」；exaggerate（誇大）語意相反，calculate（計算）、publicise（公開宣傳）都與「容易忽略通勤對健康的實際影響程度」不符。雅思寫作 Task 2 常用 understate 描述某項影響被低估的情況。",
+    "vocab": [
+      {
+        "w": "understate",
+        "zh": "輕描淡寫；低估",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0147",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Consumer groups warned that the advertisement's claim of being ninety percent natural was ____ , since most of that percentage came from added water.",
+    "options": [
+      "accurate",
+      "standard",
+      "misleading",
+      "typical"
+    ],
+    "answer": 2,
+    "explain_zh": "misleading 表示「誤導人的」；accurate（準確的）、standard（標準的）、typical（典型的）都與「廣告聲稱誤導消費者」的批評矛盾。雅思閱讀廣告與消費者權益文章常用 misleading claims 描述不實廣告。",
+    "vocab": [
+      {
+        "w": "misleading",
+        "zh": "誤導人的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0148",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The packaging made the snack appear far healthier than it actually was, a ____ design choice that regulators have since asked the company to change.",
+    "options": [
+      "transparent",
+      "honest",
+      "standard",
+      "deceptive"
+    ],
+    "answer": 3,
+    "explain_zh": "deceptive 表示「有欺騙性的」；transparent（透明的）、honest（誠實的）語意相反，standard（標準的）也不符合「刻意讓商品看起來比實際更健康」的批評。雅思閱讀消費者議題文章常用 deceptive packaging/advertising 描述誤導性的行銷手法。",
+    "vocab": [
+      {
+        "w": "deceptive",
+        "zh": "有欺騙性的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0149",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Without any solid data to support it, the analyst's prediction that the market would crash within a month remained purely ____ .",
+    "options": [
+      "speculative",
+      "proven",
+      "verified",
+      "confirmed"
+    ],
+    "answer": 0,
+    "explain_zh": "speculative 表示「推測性的、缺乏根據的臆測」；proven（已證明的）、verified（已驗證的）、confirmed（已確認的）都與「沒有可靠資料支持，純屬臆測」矛盾。雅思閱讀財經類文章常用 speculative 描述缺乏根據的市場預測。",
+    "vocab": [
+      {
+        "w": "speculative",
+        "zh": "推測性的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0150",
+    "level": "IB",
+    "cefr": "B2",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The tabloid's report about the celebrity's secret illness was entirely ____ , as no hospital or representative ever confirmed the story.",
+    "options": [
+      "factual",
+      "unsubstantiated",
+      "official",
+      "verified"
+    ],
+    "answer": 1,
+    "explain_zh": "unsubstantiated 表示「未經證實的」；factual（基於事實的）、official（官方的）、verified（已驗證的）都與「沒有任何醫院或代表證實此消息」矛盾。雅思閱讀媒體議題文章常用 unsubstantiated claims/reports 描述未經查證的報導。",
+    "vocab": [
+      {
+        "w": "unsubstantiated",
+        "zh": "未經證實的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0151",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:argument",
+    "tag_zh": "論證字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "At first the idea of delivering parcels by drone seemed ____ , yet within a decade several major retailers had adopted the technology.",
+    "options": [
+      "practical",
+      "common",
+      "far-fetched",
+      "standard"
+    ],
+    "answer": 2,
+    "explain_zh": "far-fetched 表示「不切實際的、難以置信的」；practical（實際的）、common（常見的）、standard（標準的）都與「起初聽起來難以置信」矛盾，且後半句「十年內卻被廣泛採用」形成轉折對比。雅思口說與寫作常用 far-fetched 描述一開始聽起來不可能的想法。",
+    "vocab": [
+      {
+        "w": "far-fetched",
+        "zh": "不切實際的；難以置信的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0152",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Local ____ have spent years campaigning to protect the wetland from being drained for a new housing development.",
+    "options": [
+      "investors",
+      "developers",
+      "contractors",
+      "conservationists"
+    ],
+    "answer": 3,
+    "explain_zh": "conservationist 表示「自然保育人士」；investors（投資者）、developers（開發商）、contractors（承包商）都與「保護濕地不被開發」的立場相反。雅思閱讀環境類文章常用 conservationists 指稱推動保育行動的人。",
+    "vocab": [
+      {
+        "w": "conservationist",
+        "zh": "自然保育人士",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0153",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Scientists discovered a growing hole in the ____ above Antarctica in the 1980s, which led to an international agreement banning certain harmful chemicals.",
+    "options": [
+      "ozone layer",
+      "water table",
+      "food chain",
+      "coral reef"
+    ],
+    "answer": 0,
+    "explain_zh": "ozone layer 表示「臭氧層」；water table（地下水位）、food chain（食物鏈）、coral reef（珊瑚礁）都與「南極上空出現破洞」的地點不符。雅思閱讀環境史文章常提到 the hole in the ozone layer 這個經典議題。",
+    "vocab": [
+      {
+        "w": "ozone layer",
+        "zh": "臭氧層",
+        "pos": "n.phr."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0154",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Emissions from coal-fired power stations were once a major cause of ____ , which damaged forests and lakes across large parts of Europe.",
+    "options": [
+      "soil erosion",
+      "acid rain",
+      "drought",
+      "desertification"
+    ],
+    "answer": 1,
+    "explain_zh": "acid rain 表示「酸雨」；soil erosion（土壤侵蝕）、drought（乾旱）、desertification（沙漠化）都與「燃煤發電廠排放物損害森林與湖泊」的具體現象不符。雅思閱讀環境史文章常提到 acid rain 這個曾經嚴重的污染問題。",
+    "vocab": [
+      {
+        "w": "acid rain",
+        "zh": "酸雨",
+        "pos": "n.phr."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0155",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Despite strict international bans, ____ remains one of the greatest threats to endangered species such as rhinos and elephants.",
+    "options": [
+      "farming",
+      "fishing",
+      "poaching",
+      "hunting"
+    ],
+    "answer": 2,
+    "explain_zh": "poaching 表示「盜獵」，即非法獵捕保育類動物；farming（農耕）、fishing（捕魚）、hunting（狩獵，未必違法）都不如 poaching 精準對應「違反國際禁令、獵捕瀕危動物」的行為。雅思閱讀野生動物保育文章常用 poaching 描述非法獵捕。",
+    "vocab": [
+      {
+        "w": "poaching",
+        "zh": "盜獵",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0156",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "As more companies move their operations online, investment in ____ has become essential to protect sensitive customer information from hackers.",
+    "options": [
+      "advertising",
+      "logistics",
+      "accounting",
+      "cybersecurity"
+    ],
+    "answer": 3,
+    "explain_zh": "cybersecurity 表示「網路資安」；advertising（廣告）、logistics（物流）、accounting（會計）都與「保護客戶資料免受駭客攻擊」無關。雅思口說 Part 3 科技話題常討論 cybersecurity 的重要性。",
+    "vocab": [
+      {
+        "w": "cybersecurity",
+        "zh": "網路資安",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0157",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The streaming service uses a complex ____ to recommend films based on what similar viewers have previously enjoyed watching.",
+    "options": [
+      "algorithm",
+      "database",
+      "browser",
+      "network"
+    ],
+    "answer": 0,
+    "explain_zh": "algorithm 表示「演算法」（一套用來處理資料、做出決策的規則）；database（資料庫）、browser（瀏覽器）、network（網路）語意都與「用來推薦內容的運算規則」不完全相符。雅思口說與閱讀科技話題常用 algorithm 描述推薦系統背後的運算邏輯。",
+    "vocab": [
+      {
+        "w": "algorithm",
+        "zh": "演算法",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0158",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Everything a person posts, likes or searches for online contributes to a permanent ____ that can be traced by future employers.",
+    "options": [
+      "credit rating",
+      "digital footprint",
+      "medical record",
+      "criminal record"
+    ],
+    "answer": 1,
+    "explain_zh": "digital footprint 表示「數位足跡」，指個人在網路上留下的所有活動紀錄；credit rating（信用評等）、medical record（病歷）、criminal record（犯罪紀錄）都與「網路上留下的個人活動痕跡」不符。雅思口說科技話題常討論 digital footprint 對隱私的影響。",
+    "vocab": [
+      {
+        "w": "digital footprint",
+        "zh": "數位足跡",
+        "pos": "n.phr."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0159",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company faced significant financial losses after a ____ exposed the personal details of millions of its customers to hackers.",
+    "options": [
+      "merger",
+      "shortage",
+      "data breach",
+      "blackout"
+    ],
+    "answer": 2,
+    "explain_zh": "data breach 表示「資料外洩事件」；merger（合併）、shortage（短缺）、blackout（停電）都與「駭客取得數百萬客戶個資」的情境不符。雅思閱讀科技與隱私文章常用 data breach 描述資安漏洞事件。",
+    "vocab": [
+      {
+        "w": "data breach",
+        "zh": "資料外洩",
+        "pos": "n.phr."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0160",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Online banking apps rely on strong ____ to prevent hackers from reading sensitive information as it travels across the internet.",
+    "options": [
+      "storage",
+      "bandwidth",
+      "connectivity",
+      "encryption"
+    ],
+    "answer": 3,
+    "explain_zh": "encryption 表示「加密技術」；storage（儲存）、bandwidth（頻寬）、connectivity（連結性）都與「防止駭客讀取敏感資訊」的具體防護手段不符。雅思口說與閱讀科技話題常用 encryption 描述保護資料安全的技術。",
+    "vocab": [
+      {
+        "w": "encryption",
+        "zh": "加密",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0161",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Manufacturers have been criticised for designing products with built-in ____ , meaning devices are made to stop working after just a few years.",
+    "options": [
+      "obsolescence",
+      "durability",
+      "warranty",
+      "efficiency"
+    ],
+    "answer": 0,
+    "explain_zh": "obsolescence 表示「淘汰、過時」（built-in obsolescence 指刻意設計成短時間內就會過時故障）；durability（耐用性）、warranty（保固）、efficiency（效率）語意都與「刻意讓產品提早故障」的批評相反或不符。雅思閱讀消費議題文章常用 built-in obsolescence 批評廠商的行銷策略。",
+    "vocab": [
+      {
+        "w": "obsolescence",
+        "zh": "淘汰；過時",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0162",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Ride-sharing apps are often described as ____ because they completely transformed the traditional taxi industry within just a few years.",
+    "options": [
+      "routine software",
+      "disruptive technology",
+      "standard equipment",
+      "basic infrastructure"
+    ],
+    "answer": 1,
+    "explain_zh": "disruptive technology 表示「顛覆性科技」（徹底改變既有產業運作方式的創新）；routine software（例行軟體）、standard equipment（標準設備）、basic infrastructure（基礎建設）都無法表達「徹底顛覆傳統產業」。雅思口說與閱讀科技話題常用 disruptive technology 描述改變市場規則的創新。",
+    "vocab": [
+      {
+        "w": "disruptive technology",
+        "zh": "顛覆性科技",
+        "pos": "n.phr."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0163",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Rather than buying physical DVDs, most households now watch films and television programmes through ____ services accessed directly over the internet.",
+    "options": [
+      "broadcasting",
+      "cable",
+      "streaming",
+      "satellite"
+    ],
+    "answer": 2,
+    "explain_zh": "streaming 表示「串流」（透過網路即時播放內容，不需下載完整檔案）；broadcasting（廣播）、cable（有線電視）、satellite（衛星）都是不同的傳輸方式，與「直接透過網路收看」的 streaming 不同。雅思口說娛樂話題常討論 streaming services 取代傳統電視的趨勢。",
+    "vocab": [
+      {
+        "w": "streaming",
+        "zh": "串流",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0164",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Some universities now use ____ headsets to let medical students practise surgical procedures safely before working on real patients.",
+    "options": [
+      "audio recording",
+      "printed material",
+      "video conferencing",
+      "virtual reality"
+    ],
+    "answer": 3,
+    "explain_zh": "virtual reality 表示「虛擬實境」；audio recording（錄音）、printed material（印刷教材）、video conferencing（視訊會議）都與「配戴頭戴式裝置模擬手術情境」的技術不符。雅思閱讀教育科技文章常用 virtual reality 描述沉浸式學習工具。",
+    "vocab": [
+      {
+        "w": "virtual reality",
+        "zh": "虛擬實境",
+        "pos": "n.phr."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0165",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Retail companies now analyse ____ generated by millions of customer transactions to predict which products will sell well next season.",
+    "options": [
+      "big data",
+      "paperwork",
+      "artwork",
+      "folklore"
+    ],
+    "answer": 0,
+    "explain_zh": "big data 表示「巨量資料」（規模龐大、須用特殊技術分析的資料集）；paperwork（文書工作）、artwork（藝術品）、folklore（民俗傳說）都與「分析數百萬筆交易紀錄」無關。雅思口說與閱讀科技話題常用 big data 描述企業用來預測趨勢的龐大資料。",
+    "vocab": [
+      {
+        "w": "big data",
+        "zh": "巨量資料",
+        "pos": "n.phr."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0166",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "Doctors warn that an increasingly ____ lifestyle, spent mostly sitting at desks or in front of screens, is contributing to rising rates of heart disease.",
+    "options": [
+      "active",
+      "sedentary",
+      "balanced",
+      "varied"
+    ],
+    "answer": 1,
+    "explain_zh": "sedentary 表示「久坐少動的」；active（活躍的）語意相反，balanced（均衡的）、varied（多樣的）都與「大部分時間坐著，缺乏活動」的生活型態不符。雅思口說健康話題常用 sedentary lifestyle 討論久坐對健康的影響。",
+    "vocab": [
+      {
+        "w": "sedentary",
+        "zh": "久坐少動的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0167",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:ielts-topics",
+    "tag_zh": "雅思主題字彙",
+    "passage": null,
+    "group_id": null,
+    "stem": "In some low-income regions, childhood ____ remains widespread despite international aid programmes designed to improve access to nutritious food.",
+    "options": [
+      "obesity",
+      "allergy",
+      "malnutrition",
+      "insomnia"
+    ],
+    "answer": 2,
+    "explain_zh": "malnutrition 表示「營養不良」；obesity（肥胖，通常指營養過剩而非不足）、allergy（過敏）、insomnia（失眠）都與「缺乏足夠營養食物」的語境不符。雅思閱讀開發中國家健康議題文章常用 malnutrition 描述營養攝取不足的問題。",
+    "vocab": [
+      {
+        "w": "malnutrition",
+        "zh": "營養不良",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0168",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "New cars typically ____ rapidly in value during their first year, which is why many buyers prefer slightly older second-hand models.",
+    "options": [
+      "appreciate",
+      "accumulate",
+      "expand",
+      "depreciate"
+    ],
+    "answer": 3,
+    "explain_zh": "depreciate 表示（資產）「貶值」；appreciate（升值）語意相反，accumulate（累積）、expand（擴張）都不符合「新車第一年價值迅速下降」。雅思閱讀財經類文章常考 depreciate 與 appreciate 這組意義相反的字。",
+    "vocab": [
+      {
+        "w": "depreciate",
+        "zh": "貶值",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0169",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "The training programme is divided into five ____ modules, each of which can be completed independently in any order the learner prefers.",
+    "options": [
+      "discrete",
+      "discreet",
+      "continuous",
+      "combined"
+    ],
+    "answer": 0,
+    "explain_zh": "discrete 指「個別分開的、獨立的」，用來形容可各自獨立完成的單元最恰當；discreet 指「謹慎、不張揚的」，拼字相近但意義完全不同；continuous（連續的）、combined（合併的）則與「獨立分開的單元」相反。雅思閱讀常考 discrete 與 discreet 這組同音異義字。",
+    "vocab": [
+      {
+        "w": "discrete",
+        "zh": "個別分開的；獨立的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0170",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Customs officers at the border seized a large shipment of ____ goods that had been smuggled in without the required import documents.",
+    "options": [
+      "surplus",
+      "illicit",
+      "imported",
+      "damaged"
+    ],
+    "answer": 1,
+    "explain_zh": "illicit 表示「非法的、違禁的」；surplus（過剩的）、imported（進口的，語意中性）、damaged（受損的）都無法表達「走私、違反法律」。雅思閱讀常考 illicit 與 elicit（引出、誘出）這組發音相近但意義不同的字。",
+    "vocab": [
+      {
+        "w": "illicit",
+        "zh": "非法的；違禁的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0171",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Before sealing the ____ , she checked twice to make sure she had included every document the university had requested.",
+    "options": [
+      "envoy",
+      "envision",
+      "envelope",
+      "environment"
+    ],
+    "answer": 2,
+    "explain_zh": "envelope 表示「信封」，符合「密封信封前檢查文件」的語境；envoy 指「使節、特使」，envision 指「想像、預想」，environment 指「環境」，語意或詞性都不符合這個情境。雅思閱讀常考 envelope 與 envelop（動詞「包住」）這組拼字相近的字。",
+    "vocab": [
+      {
+        "w": "envelope",
+        "zh": "信封",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0172",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "The building now used as a public library was ____ a textile factory, employing hundreds of local workers throughout the twentieth century.",
+    "options": [
+      "formally",
+      "briefly",
+      "rarely",
+      "formerly"
+    ],
+    "answer": 3,
+    "explain_zh": "formerly 表示「從前、以前」，用來說明建築物過去的用途；formally 指「正式地」，拼字相近但意義完全不同；briefly（短暫地）、rarely（很少地）語意也不符合「過去曾經是紡織工廠」。雅思閱讀常考 formerly 與 formally 這組拼字相近但意義不同的字。",
+    "vocab": [
+      {
+        "w": "formerly",
+        "zh": "從前；以前",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0173",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many long-term employees were ____ to accept the relocation package, fearing it would disrupt their families and children's schooling.",
+    "options": [
+      "loath",
+      "eager",
+      "willing",
+      "quick"
+    ],
+    "answer": 0,
+    "explain_zh": "loath to 表示「不情願的、勉強的」；eager（渴望的）、willing（願意的）、quick（迅速的）都與「不願意接受搬遷方案」相反。雅思閱讀常考 loath 與 loathe（動詞「厭惡」）這組拼字相近但詞性不同的字。",
+    "vocab": [
+      {
+        "w": "loath",
+        "zh": "不情願的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0174",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Before recommending the treatment, the specialist carried out an ____ review of the patient's entire medical history going back over twenty years.",
+    "options": [
+      "casual",
+      "exhaustive",
+      "brief",
+      "partial"
+    ],
+    "answer": 1,
+    "explain_zh": "exhaustive 表示「詳盡無遺的、徹底的」，用來形容仔細審查病歷二十年紀錄最恰當；casual（隨意的）、brief（簡短的）、partial（部分的）都與「徹底審查」矛盾。雅思閱讀常考 exhaustive 與 exhausting（令人筋疲力竭的）這組拼字相近但意義不同的字。",
+    "vocab": [
+      {
+        "w": "exhaustive",
+        "zh": "詳盡無遺的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0175",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Rising life expectancy brings not only medical benefits but also significant ____ challenges, such as how to fund pensions for a much older population.",
+    "options": [
+      "personal",
+      "physical",
+      "societal",
+      "seasonal"
+    ],
+    "answer": 2,
+    "explain_zh": "societal 表示「社會層面的」，用來形容整體社會面臨的挑戰最恰當；personal（個人的）、physical（身體的）、seasonal（季節性的）都與「如何為高齡人口提供年金」這個社會層面問題不符。雅思寫作 Task 2 常用 societal challenges/issues 討論社會整體面臨的問題。",
+    "vocab": [
+      {
+        "w": "societal",
+        "zh": "社會的（層面）",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0176",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Even as an adult, the artist retained a ____ sense of wonder that clearly influenced the playful, colourful style of her paintings.",
+    "options": [
+      "childish",
+      "immature",
+      "foolish",
+      "childlike"
+    ],
+    "answer": 3,
+    "explain_zh": "childlike 表示（正面意義）「孩子般天真的」，用來形容藝術家保有純真的驚奇感最恰當；childish 通常帶「幼稚、不成熟」的負面意涵，immature（不成熟的）、foolish（愚蠢的）語氣也偏負面，與句中讚賞藝術家風格的語境不符。雅思閱讀常考 childlike 與 childish 這組意義褒貶不同的近義字。",
+    "vocab": [
+      {
+        "w": "childlike",
+        "zh": "（正面）天真的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0177",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "The museum's new exhibit was designed to be a rich ____ experience, combining sound, light and touch to engage visitors of all ages.",
+    "options": [
+      "sensory",
+      "sensitive",
+      "sensible",
+      "sentimental"
+    ],
+    "answer": 0,
+    "explain_zh": "sensory 表示「感官的」，用來形容結合聲音、光線與觸覺的體驗最恰當；sensitive（敏感的）、sensible（明智的）、sentimental（多愁善感的）語意都不符合「感官體驗」。雅思閱讀常考 sensory 與 sensitive 這組字形相近但意義不同的詞。",
+    "vocab": [
+      {
+        "w": "sensory",
+        "zh": "感官的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0178",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "The critic's ____ review dismissed the entire exhibition as a shallow attempt to attract publicity rather than genuine art.",
+    "options": [
+      "respectful",
+      "contemptuous",
+      "balanced",
+      "cautious"
+    ],
+    "answer": 1,
+    "explain_zh": "contemptuous 表示「輕蔑的、鄙視的」，符合「評論家全盤否定展覽」的語氣；respectful（尊敬的）、balanced（平衡的）、cautious（謹慎的）語意都與「輕蔑地全盤否定」不符。雅思閱讀常考 contemptuous 與 contemptible（可鄙的，形容被輕視的對象）這組易混淆字。",
+    "vocab": [
+      {
+        "w": "contemptuous",
+        "zh": "輕蔑的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0179",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Signing the peace treaty was a ____ moment in the country's history, ending nearly two decades of conflict between the two regions.",
+    "options": [
+      "momentary",
+      "trivial",
+      "momentous",
+      "minor"
+    ],
+    "answer": 2,
+    "explain_zh": "momentous 表示「重大的、具有深遠意義的」，用來形容結束長年衝突的歷史時刻最恰當；momentary 指「短暫的」，拼字相近但意義完全不同，trivial（瑣碎的）、minor（次要的）也與「具有重大歷史意義」矛盾。雅思閱讀常考 momentous 與 momentary 這組拼字相近但意義不同的字。",
+    "vocab": [
+      {
+        "w": "momentous",
+        "zh": "重大的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0180",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "The abandoned garden had become almost unrecognisable, overtaken by ____ vegetation that had not been trimmed in over a decade.",
+    "options": [
+      "sparse",
+      "withered",
+      "artificial",
+      "luxuriant"
+    ],
+    "answer": 3,
+    "explain_zh": "luxuriant 表示（植物）「茂盛繁密的」，用來形容十年未修剪、長得極為茂密的植被最恰當；sparse（稀疏的）、withered（枯萎的）語意相反，artificial（人造的）也不符合。雅思閱讀常考 luxuriant 與 luxurious（奢華的，通常形容物質享受而非植物）這組易混淆字。",
+    "vocab": [
+      {
+        "w": "luxuriant",
+        "zh": "（植物）茂盛的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0181",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Once the safety inspection had been completed, engineers were finally given permission to ____ with the final stage of construction.",
+    "options": [
+      "proceed",
+      "precede",
+      "succeed",
+      "recede"
+    ],
+    "answer": 0,
+    "explain_zh": "proceed with 表示「繼續進行」；precede 指「在…之前發生」，拼字相近但意義相反；succeed 指「成功；繼承」，recede 指「後退、減弱」，語意都不符合「獲准繼續進行工程」。雅思閱讀常考 proceed 與 precede 這組拼字相近但意義不同的字。",
+    "vocab": [
+      {
+        "w": "proceed",
+        "zh": "繼續進行",
+        "pos": "v."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0182",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "The professor's lecture on supply and demand is considered a ____ example of how to explain a complex economic idea in simple terms.",
+    "options": [
+      "classified",
+      "classic",
+      "classical",
+      "classy"
+    ],
+    "answer": 1,
+    "explain_zh": "classic 表示「經典的、典型的」，用來形容一個廣為公認的最佳範例最恰當；classified 指「機密的；分類的」，classical 通常指「古典（時期）的」，classy 指「時髦優雅的」，語意都不符合「教科書式的經典範例」。雅思閱讀常考 classic 與 classical 這組拼字相近但意義不同的字。",
+    "vocab": [
+      {
+        "w": "classic",
+        "zh": "經典的；典型的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0183",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Despite years of disagreement over finances, the two business partners eventually reached an ____ settlement that allowed both to move on without further conflict.",
+    "options": [
+      "hostile",
+      "forced",
+      "amicable",
+      "delayed"
+    ],
+    "answer": 2,
+    "explain_zh": "amicable 表示「友好的、和睦的」，用來形容雙方在沒有進一步衝突下達成的和解最恰當；hostile（敵對的）語意相反，forced（被迫的）、delayed（延遲的）也不符合「友好和解」的語境。雅思閱讀常考 amicable 與 amiable（形容人「親切隨和的」，而非形容協議或關係）這組易混淆字。",
+    "vocab": [
+      {
+        "w": "amicable",
+        "zh": "友好的；和睦的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0184",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:precise-synonym",
+    "tag_zh": "近義字精準辨析",
+    "passage": null,
+    "group_id": null,
+    "stem": "Traffic on the motorway remained almost completely ____ for over an hour after the accident blocked all three lanes.",
+    "options": [
+      "flexible",
+      "portable",
+      "mobile",
+      "stationary"
+    ],
+    "answer": 3,
+    "explain_zh": "stationary 表示「靜止不動的」，用來形容車輛因事故完全動彈不得最恰當；flexible（有彈性的）、portable（可攜帶的）、mobile（可移動的）都與「完全靜止不動」相反。雅思閱讀常考 stationary 與 stationery（文具，拼字非常相近但意義完全不同）這組易混淆字。",
+    "vocab": [
+      {
+        "w": "stationary",
+        "zh": "靜止不動的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0185",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Elderly residents who live alone are often eligible for government ____ with everyday tasks such as shopping, cleaning and cooking.",
+    "options": [
+      "assistance",
+      "assistant",
+      "assisted",
+      "assist"
+    ],
+    "answer": 0,
+    "explain_zh": "空格前有 government，且介系詞 with 前需要名詞，故選 assistance（協助）；assistant 指「助理（人）」，assisted 是形容詞或過去分詞，assist 是動詞，詞性或語意都不符合句子結構。雅思閱讀社福議題文章常考同字根的詞性變化。",
+    "vocab": [
+      {
+        "w": "assistance",
+        "zh": "協助",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0186",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Researchers found little measurable ____ between the two groups' exam results, suggesting that the new teaching method had limited impact.",
+    "options": [
+      "differ",
+      "difference",
+      "different",
+      "differently"
+    ],
+    "answer": 1,
+    "explain_zh": "空格前有形容詞 measurable 修飾，需要名詞，故選 difference（差異）；differ 是動詞，different 是形容詞，differently 是副詞，詞性都不符合句子結構。雅思聽力填空題常考此類名詞化的詞性變化。",
+    "vocab": [
+      {
+        "w": "difference",
+        "zh": "差異",
+        "pos": "n."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0187",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many retired people describe gardening as an extremely ____ way to spend their free time while also staying physically active.",
+    "options": [
+      "pleasure",
+      "pleasing",
+      "pleasurable",
+      "please"
+    ],
+    "answer": 2,
+    "explain_zh": "空格後接名詞 way，前面需要形容詞修飾，故選 pleasurable（令人愉悅的）；pleasure 是名詞，pleasing 通常指「令人滿意的（較正式）」用法略有不同，please 是動詞，都不如 pleasurable 精確符合句子結構。雅思口說興趣話題常用 pleasurable 形容令人愉快的活動。",
+    "vocab": [
+      {
+        "w": "pleasurable",
+        "zh": "令人愉悅的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0188",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Volunteers with medical training proved absolutely ____ during the disaster relief effort, saving many lives in the first critical hours.",
+    "options": [
+      "valued",
+      "valuable",
+      "worthless",
+      "invaluable"
+    ],
+    "answer": 3,
+    "explain_zh": "invaluable 表示「極為寶貴、無價的」，語氣比 valuable 更強烈，符合「拯救許多生命」的重要貢獻；valued（受重視的）、valuable（有價值的）語氣較弱，worthless（毫無價值的）語意相反。雅思閱讀常考 invaluable 這個看似否定但實為「非常有價值」的正面詞。",
+    "vocab": [
+      {
+        "w": "invaluable",
+        "zh": "極為寶貴的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0189",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The government's recycling campaign was promoted ____ , reaching small rural towns as well as the country's largest cities.",
+    "options": [
+      "nationally",
+      "national",
+      "nation",
+      "nationalise"
+    ],
+    "answer": 0,
+    "explain_zh": "空格在 was promoted 之後，需要副詞修飾動詞（表示「在全國範圍內宣傳」），故選 nationally（全國性地）；national 是形容詞，nation 是名詞，nationalise 是動詞「使國有化」，詞性或語意都不符合這個句子結構。雅思閱讀政策類文章常考同字根的詞性變化。",
+    "vocab": [
+      {
+        "w": "nationally",
+        "zh": "全國性地",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0190",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Although the two neighbouring countries share a border, they are ____ quite distinct, with different languages, cuisines and traditions.",
+    "options": [
+      "culture",
+      "culturally",
+      "cultural",
+      "cultured"
+    ],
+    "answer": 1,
+    "explain_zh": "空格修飾形容詞 distinct，需要副詞，故選 culturally（在文化上）；culture 是名詞，cultural 是形容詞，cultured 指「有教養的」，詞性或語意都不符合「副詞修飾形容詞」的結構。雅思口說文化話題常用 culturally distinct/diverse 這類詞組。",
+    "vocab": [
+      {
+        "w": "culturally",
+        "zh": "在文化上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0191",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The company's claim that its skincare product reverses ageing has never been ____ tested by any independent laboratory.",
+    "options": [
+      "science",
+      "scientist",
+      "scientifically",
+      "scientific"
+    ],
+    "answer": 2,
+    "explain_zh": "空格修飾動詞 tested（被動語態），需要副詞，故選 scientifically（以科學方式）；science 是名詞，scientist 是名詞（科學家），scientific 是形容詞，詞性都不符合「副詞修飾動詞」的結構。雅思閱讀廣告不實議題文章常用 scientifically tested/proven 這類詞組。",
+    "vocab": [
+      {
+        "w": "scientifically",
+        "zh": "以科學方式",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0192",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Long-term unemployment can cause serious ____ effects, including anxiety, low self-esteem and a loss of daily structure and purpose.",
+    "options": [
+      "psychology",
+      "psychologist",
+      "psychologically",
+      "psychological"
+    ],
+    "answer": 3,
+    "explain_zh": "空格後接名詞 effects，前面需要形容詞修飾，故選 psychological（心理上的）；psychology 是名詞，psychologist 是名詞（心理學家），psychologically 是副詞，詞性都不符合「形容詞加名詞」的結構。雅思閱讀健康與工作議題文章常用 psychological effects/impact 這類詞組。",
+    "vocab": [
+      {
+        "w": "psychological",
+        "zh": "心理上的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0193",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Some remote island communities around the world remain heavily ____ dependent on a single industry such as fishing or tourism.",
+    "options": [
+      "economically",
+      "economic",
+      "economy",
+      "economise"
+    ],
+    "answer": 0,
+    "explain_zh": "空格修飾形容詞 dependent，需要副詞，故選 economically（經濟上）；economic 是形容詞，economy 是名詞，economise 是動詞「節省開支」，詞性都不符合「副詞修飾形容詞」的結構。雅思寫作 Task 2 常用 economically dependent on 討論產業結構單一的風險。",
+    "vocab": [
+      {
+        "w": "economically",
+        "zh": "經濟上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0194",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "People who work from home full time sometimes feel increasingly ____ isolated, since they miss the casual daily interaction of an office.",
+    "options": [
+      "social",
+      "socially",
+      "society",
+      "socialise"
+    ],
+    "answer": 1,
+    "explain_zh": "空格修飾形容詞 isolated，需要副詞，故選 socially（在社交上）；social 是形容詞，society 是名詞，socialise 是動詞，詞性都不符合「副詞修飾形容詞」的結構。雅思口說遠距工作話題常用 socially isolated 描述缺乏人際互動的狀態。",
+    "vocab": [
+      {
+        "w": "socially",
+        "zh": "在社交上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0195",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "____ , the region relied almost entirely on agriculture, but today most of its income comes from tourism and light manufacturing.",
+    "options": [
+      "History",
+      "Historic",
+      "Historically",
+      "Historian"
+    ],
+    "answer": 2,
+    "explain_zh": "句首需要副詞來修飾整個句子（表示「在過去」），故選 Historically；History 是名詞，Historic 是形容詞，Historian 是名詞（歷史學家），詞性都不符合句首副詞的位置。雅思閱讀常用 Historically 開頭，對比過去與現在的情況。",
+    "vocab": [
+      {
+        "w": "historically",
+        "zh": "歷史上；過去",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0196",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Twins raised in completely different households still share many ____ similarities, which researchers use to study the influence of genetics.",
+    "options": [
+      "biology",
+      "biologist",
+      "biologically",
+      "biological"
+    ],
+    "answer": 3,
+    "explain_zh": "空格後接名詞 similarities，前面需要形容詞修飾，故選 biological（生物學上的）；biology 是名詞，biologist 是名詞（生物學家），biologically 是副詞，詞性都不符合「形容詞加名詞」的結構。雅思閱讀科學類文章常用 biological similarities/differences 這類詞組。",
+    "vocab": [
+      {
+        "w": "biological",
+        "zh": "生物學上的",
+        "pos": "adj."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0197",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The invention was scientifically impressive, but it took another decade before the technology became ____ viable enough to sell to the public.",
+    "options": [
+      "commercially",
+      "commercial",
+      "commerce",
+      "commercialise"
+    ],
+    "answer": 0,
+    "explain_zh": "空格修飾形容詞 viable，需要副詞，故選 commercially（商業上）；commercial 是形容詞，commerce 是名詞，commercialise 是動詞，詞性都不符合「副詞修飾形容詞」的結構。雅思閱讀科技創新文章常用 commercially viable 這類詞組。",
+    "vocab": [
+      {
+        "w": "commercially",
+        "zh": "商業上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0198",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Many students find that living away from home for the first time is ____ challenging, especially before they learn to budget properly.",
+    "options": [
+      "finance",
+      "financially",
+      "financial",
+      "financier"
+    ],
+    "answer": 1,
+    "explain_zh": "空格修飾形容詞 challenging，需要副詞，故選 financially（財務上）；finance 是名詞或動詞，financial 是形容詞，financier 是名詞（金融家），詞性都不符合「副詞修飾形容詞」的結構。雅思口說留學話題常用 financially challenging/independent 這類詞組。",
+    "vocab": [
+      {
+        "w": "financially",
+        "zh": "財務上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0199",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "The proposed reform was widely seen as ____ risky, since it threatened to alienate voters in several traditionally loyal regions.",
+    "options": [
+      "politics",
+      "political",
+      "politically",
+      "politician"
+    ],
+    "answer": 2,
+    "explain_zh": "空格修飾形容詞 risky，需要副詞，故選 politically（政治上）；politics 是名詞，political 是形容詞，politician 是名詞（政治人物），詞性都不符合「副詞修飾形容詞」的結構。雅思閱讀政治議題文章常用 politically risky/sensitive 這類詞組。",
+    "vocab": [
+      {
+        "w": "politically",
+        "zh": "政治上",
+        "pos": "adv."
+      }
+    ]
+  },
+  {
+    "id": "NIV-0200",
+    "level": "IB",
+    "cefr": "B2+",
+    "skill": "vocab",
+    "tag": "vocab:word-form",
+    "tag_zh": "詞性變化",
+    "passage": null,
+    "group_id": null,
+    "stem": "Even within a single country, there can be significant ____ variation in dialect, cuisine and local customs from one region to another.",
+    "options": [
+      "geography",
+      "geographer",
+      "geographically",
+      "geographical"
+    ],
+    "answer": 3,
+    "explain_zh": "空格後接名詞 variation，前面需要形容詞修飾，故選 geographical（地理上的）；geography 是名詞，geographer 是名詞（地理學家），geographically 是副詞，詞性都不符合「形容詞加名詞」的結構。雅思閱讀地理與文化議題文章常用 geographical variation/diversity 這類詞組。",
+    "vocab": [
+      {
+        "w": "geographical",
+        "zh": "地理上的",
+        "pos": "adj."
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block body %}
+<h1>批改結果</h1>
+<p class="sub">{{ e.ts[:16].replace('T',' ') }}　·　{{ e.kind }}　·　{{ e.words }} 字</p>
+
+{% if fb %}
+<div class="card" style="text-align:center">
+  <div class="big" style="color:var(--accent)">{{ fb.overall_band }}</div>
+  <p class="muted">總分（僅供參考，實際以考官為準）</p>
+  <div class="grid g4" style="margin-top:10px">
+    {% for c in fb.criteria %}
+    <div><div style="font-size:24px;font-weight:700">{{ c.band }}</div>
+      <div class="muted">{{ c.name_zh }}</div></div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="card">
+  <h2 style="margin-top:0">四項評語</h2>
+  <ul class="clean">
+    {% for c in fb.criteria %}
+    <li><b>{{ c.name_zh }}（{{ c.band }}）</b><br>{{ c.comment_zh }}</li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% if fb.errors %}
+<div class="card">
+  <h2 style="margin-top:0">關鍵錯誤（{{ fb.errors|length }}）</h2>
+  {% for er in fb.errors %}
+  <div style="border-bottom:1px solid var(--line);padding:11px 0">
+    <span class="tag bad">{{ er.tag_zh }}</span>
+    <div style="margin-top:6px"><span style="color:var(--bad)">✗ {{ er.original }}</span></div>
+    <div><span style="color:var(--ok)">✓ {{ er.corrected }}</span></div>
+    <div class="muted" style="margin-top:4px">{{ er.explain_zh }}</div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
+
+{% if fb.upgrade_phrases %}
+<div class="card">
+  <h2 style="margin-top:0">把講法升級</h2>
+  <table><tr><th>你寫的</th><th>高分講法</th><th>中文</th></tr>
+  {% for u in fb.upgrade_phrases %}
+  <tr><td class="muted">{{ u.plain }}</td><td><b>{{ u.better }}</b></td><td class="muted">{{ u.zh }}</td></tr>
+  {% endfor %}</table>
+</div>
+{% endif %}
+
+{% if fb.model_paragraph or fb.model_answer %}
+<div class="card">
+  <h2 style="margin-top:0">示範寫法</h2>
+  <div class="passage">{{ fb.model_paragraph or fb.model_answer }}</div>
+</div>
+{% endif %}
+
+<div class="card">
+  <h2 style="margin-top:0">接下來練這 3 件事</h2>
+  <ul class="clean">{% for n in fb.next_focus_zh %}<li>{{ loop.index }}. {{ n }}</li>{% endfor %}</ul>
+</div>
+{% endif %}
+
+<div class="card">
+  <h2 style="margin-top:0">題目</h2><div class="passage">{{ e.task }}</div>
+  <h2>你寫的內容</h2><div class="passage">{{ e.body }}</div>
+</div>
+<a class="btn ghost" href="javascript:history.back()">← 回上一頁</a>
+{% endblock %}

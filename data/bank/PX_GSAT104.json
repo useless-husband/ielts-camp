@@ -1,0 +1,1254 @@
+[
+ {
+  "id": "PX-GSAT104-001",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "職場工作",
+  "stem": "Nowadays many companies adopt a ____ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m.",
+  "options": [
+   "relative",
+   "severe",
+   "primitive",
+   "flexible"
+  ],
+  "answer": 3,
+  "explain_zh": "彈性工時讓員工自行決定到班時間，故選 flexible（有彈性的）。relative 是相對的、severe 是嚴厲的、primitive 是原始的，皆與「工時彈性」的語意不合。flexible schedule 是常見搭配，代表制度上有彈性。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "flexible",
+    "zh": "有彈性的",
+    "pos": "adj."
+   },
+   {
+    "w": "schedule",
+    "zh": "時程表",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-002",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:family",
+  "tag_zh": "教養方式",
+  "stem": "To teach children right from wrong, some parents will ____ their children when they behave well and punish them when they misbehave.",
+  "options": [
+   "settle",
+   "declare",
+   "reward",
+   "neglect"
+  ],
+  "answer": 2,
+  "explain_zh": "表現好給予「獎勵」，並與後面的 punish 形成對比，故選 reward。settle 是解決、declare 是宣布、neglect 是忽略，皆不符合「獎懲並行」教養方式的語境。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "reward",
+    "zh": "獎勵",
+    "pos": "v."
+   },
+   {
+    "w": "punish",
+    "zh": "懲罰",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-003",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "消費理財",
+  "stem": "To stick to a tight budget, Robert bought a more ____ LED TV instead of a fancy, expensive 3D TV.",
+  "options": [
+   "technical",
+   "significant",
+   "affordable",
+   "expressive"
+  ],
+  "answer": 2,
+  "explain_zh": "緊縮預算下買一台比較「負擔得起」的電視，故選 affordable。technical 是技術上的、significant 是重大的、expressive 是富有表現力的，都無法用來形容「價格能負擔」。affordable 常與 price、cost 等字一起出現。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "affordable",
+    "zh": "負擔得起的",
+    "pos": "adj."
+   },
+   {
+    "w": "budget",
+    "zh": "預算",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-004",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:art",
+  "tag_zh": "藝文出版",
+  "stem": "David's new book made it to the best-seller list because of its beautiful ____ and amusing stories.",
+  "options": [
+   "operations",
+   "illustrations",
+   "engagements",
+   "accomplishments"
+  ],
+  "answer": 1,
+  "explain_zh": "書之所以暢銷是因為精美的「插圖」加上有趣的故事，故選 illustrations。operations 是運作、engagements 是約定或參與、accomplishments 是成就，皆與書本內容的視覺呈現無關。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "illustration",
+    "zh": "插圖",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-005",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:travel",
+  "tag_zh": "旅行交通",
+  "stem": "The airport was closed because of the snowstorm, and our ____ for Paris had to be delayed until the following day.",
+  "options": [
+   "movement",
+   "registration",
+   "tendency",
+   "departure"
+  ],
+  "answer": 3,
+  "explain_zh": "班機因暴風雪延誤，指的是「出發（班機）」被延後，故選 departure。movement 是移動、registration 是登記、tendency 是傾向，皆不符合機場、班機的語境。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "departure",
+    "zh": "出發",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-006",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:safety",
+  "tag_zh": "安全應變",
+  "stem": "The moment the students felt the earthquake, they ran ____ out of the classroom to an open area outside.",
+  "options": [
+   "swiftly",
+   "nearly",
+   "loosely",
+   "formally"
+  ],
+  "answer": 0,
+  "explain_zh": "地震發生時，學生「迅速」跑出教室到空地，故選 swiftly。nearly 是幾乎、loosely 是鬆散地、formally 是正式地，這些副詞都不符合緊急逃生時的動作描述。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "swiftly",
+    "zh": "迅速地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-007",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:safety",
+  "tag_zh": "設施安全",
+  "stem": "The ____ capacity of this elevator is 400 kilograms. For safety reasons, it shouldn't be overloaded.",
+  "options": [
+   "delicate",
+   "automatic",
+   "essential",
+   "maximum"
+  ],
+  "answer": 3,
+  "explain_zh": "電梯的「最大」載重量是 400 公斤，maximum capacity 為固定搭配，故選 maximum。delicate 是精緻的、automatic 是自動的、essential 是必要的，皆不合此處語意。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "maximum",
+    "zh": "最大的",
+    "pos": "adj."
+   },
+   {
+    "w": "capacity",
+    "zh": "容量",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-008",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "社會文化",
+  "stem": "An open display of ____ behavior between men and women, such as hugging and kissing, is not allowed in some conservative societies.",
+  "options": [
+   "intimate",
+   "ashamed",
+   "earnest",
+   "urgent"
+  ],
+  "answer": 0,
+  "explain_zh": "擁抱、親吻屬於「親密」行為的公開展現，故選 intimate。ashamed 是感到羞恥的、earnest 是認真的、urgent 是緊急的，皆不符合描述男女互動親密程度的語境。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "intimate",
+    "zh": "親密的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-009",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "藥品說明",
+  "stem": "When taking medicine, we should read the instructions on the ____ carefully because they provide important information such as how and when to take it.",
+  "options": [
+   "medals",
+   "quotes",
+   "labels",
+   "recipes"
+  ],
+  "answer": 2,
+  "explain_zh": "藥品上印有用法用量等重要資訊的是「標籤」，故選 labels。medals 是獎牌、quotes 是語錄、recipes 是食譜，皆與藥品包裝上的說明文字無關。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "label",
+    "zh": "標籤",
+    "pos": "n."
+   },
+   {
+    "w": "instructions",
+    "zh": "說明",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-010",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:travel",
+  "tag_zh": "旅行糾紛",
+  "stem": "The angry passengers argued ____ with the airline staff because their flight was cancelled without any reason.",
+  "options": [
+   "evidently",
+   "furiously",
+   "obediently",
+   "suspiciously"
+  ],
+  "answer": 1,
+  "explain_zh": "班機無故取消讓乘客「憤怒地」與航空公司人員爭吵，故選 furiously。evidently 是明顯地、obediently 是順從地、suspiciously 是可疑地，這些副詞的情緒語氣都不符合「生氣爭吵」的情境。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "furiously",
+    "zh": "憤怒地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-011",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:business",
+  "tag_zh": "行銷推廣",
+  "stem": "To ____ the new product, the company offered some free samples before they officially launched it.",
+  "options": [
+   "contribute",
+   "impress",
+   "promote",
+   "estimate"
+  ],
+  "answer": 2,
+  "explain_zh": "公司在正式上市前先提供試用品，目的是要「促銷」新產品，故選 promote。contribute 是貢獻、impress 是使印象深刻、estimate 是估計，皆不符合行銷推廣的語境。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "promote",
+    "zh": "促銷、推廣",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-012",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:family",
+  "tag_zh": "家庭關係",
+  "stem": "I was worried about my first overseas trip, but my father ____ me that he would help plan the trip so that nothing would go wrong.",
+  "options": [
+   "rescued",
+   "assured",
+   "inspired",
+   "conveyed"
+  ],
+  "answer": 1,
+  "explain_zh": "父親「向我保證」會協助規劃行程，藉此消除女兒對出國的擔憂，故選 assured。rescued 是拯救、inspired 是啟發、conveyed 是傳達，皆不符合「安撫並保證」的語意。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "assure",
+    "zh": "向…保證",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-013",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:society",
+  "tag_zh": "食安議題",
+  "stem": "The recent cooking oil scandals have led to calls for tougher ____ of sales of food products.",
+  "options": [
+   "tolerance",
+   "guarantee",
+   "regulation",
+   "distribution"
+  ],
+  "answer": 2,
+  "explain_zh": "食安醜聞促使民眾呼籲加強食品銷售的「管制」，故選 regulation。tolerance 是容忍、guarantee 是保證、distribution 是分配，皆與「管制、規範」的語意不合。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "regulation",
+    "zh": "規範、管制",
+    "pos": "n."
+   },
+   {
+    "w": "scandal",
+    "zh": "醜聞",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-014",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:daily-life",
+  "tag_zh": "人際互動",
+  "stem": "John should ____ more often with his friends and family after work, instead of staying in his room to play computer games.",
+  "options": [
+   "explore",
+   "interact",
+   "negotiate",
+   "participate"
+  ],
+  "answer": 1,
+  "explain_zh": "下班後應該多與親友「互動」，而不是待在房間打電動，故選 interact。explore 是探索、negotiate 是談判，語意不合；participate 通常接 in 而非 with，用法不同。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "interact",
+    "zh": "互動",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-015",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "vocab",
+  "tag": "vocab:health",
+  "tag_zh": "防疫措施",
+  "stem": "To prevent the spread of the Ebola virus from West Africa to the rest of the world, many airports have begun Ebola ____ for passengers from the infected areas.",
+  "options": [
+   "screenings",
+   "listings",
+   "clippings",
+   "blockings"
+  ],
+  "answer": 0,
+  "explain_zh": "機場對來自疫區的旅客進行伊波拉「篩檢」，故選 screenings。listings 是清單、clippings 是剪報、blockings 是阻擋，皆非防疫檢查的正確用詞。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "screening",
+    "zh": "篩檢",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-016",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Tai Chi Chuan is a type of ancient Chinese martial art. People (16) Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names (17) “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, (18) one to effortlessly experience the vital life force, or the Qi energy, in one's body.\nTai Chi Chuan is not only a physical but also a (19) exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It (20) stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+  "group_id": "PX-GSAT104-G01",
+  "stem": "(16) 應填入：People ____ Tai Chi mainly for its health benefits.",
+  "options": [
+   "practice",
+   "consult",
+   "display",
+   "manage"
+  ],
+  "answer": 0,
+  "explain_zh": "人們練習太極拳主要是為了健康益處，故選 practice（練習）。consult 是諮詢、display 是展示、manage 是管理，皆不符合「練太極拳」這個動作。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "practice",
+    "zh": "練習",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-017",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "舉例介系詞",
+  "passage": "Tai Chi Chuan is a type of ancient Chinese martial art. People (16) Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names (17) “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, (18) one to effortlessly experience the vital life force, or the Qi energy, in one's body.\nTai Chi Chuan is not only a physical but also a (19) exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It (20) stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+  "group_id": "PX-GSAT104-G01",
+  "stem": "(17) 應填入：...a series of slow-flowing movements with poetic names ____ “dragons stirring up the wind” and “wave hands like clouds.”",
+  "options": [
+   "from",
+   "like",
+   "between",
+   "regarding"
+  ],
+  "answer": 1,
+  "explain_zh": "like 在此作介系詞，表示「例如」，用來舉出招式的詩意名稱，故選 like。from、between、regarding 放入此處語意皆不通。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "like",
+    "zh": "例如",
+    "pos": "prep."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-018",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "主詞動詞一致",
+  "passage": "Tai Chi Chuan is a type of ancient Chinese martial art. People (16) Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names (17) “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, (18) one to effortlessly experience the vital life force, or the Qi energy, in one's body.\nTai Chi Chuan is not only a physical but also a (19) exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It (20) stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+  "group_id": "PX-GSAT104-G01",
+  "stem": "(18) 應填入：These movements, forming an exercise system, ____ one to effortlessly experience the vital life force in one's body.",
+  "options": [
+   "allow",
+   "allows",
+   "allowed",
+   "allowing"
+  ],
+  "answer": 0,
+  "explain_zh": "主詞 These movements 為複數名詞，主要動詞須用原形 allow 與其一致，故選 allow。allows 是單數動詞形式不合；allowed、allowing 皆非限定動詞，不能單獨作句子的主要動詞。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "allow",
+    "zh": "允許、使能夠",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-019",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Tai Chi Chuan is a type of ancient Chinese martial art. People (16) Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names (17) “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, (18) one to effortlessly experience the vital life force, or the Qi energy, in one's body.\nTai Chi Chuan is not only a physical but also a (19) exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It (20) stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+  "group_id": "PX-GSAT104-G01",
+  "stem": "(19) 應填入：Tai Chi Chuan is not only a physical but also a ____ exercise.",
+  "options": [
+   "formal",
+   "mental",
+   "social",
+   "global"
+  ],
+  "answer": 1,
+  "explain_zh": "與 physical（身體上的）對比，此處指心理層面的運動，故選 mental。formal 是正式的、social 是社會的、global 是全球的，皆不符合這組對比的語意。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "mental",
+    "zh": "心理的",
+    "pos": "adj."
+   },
+   {
+    "w": "physical",
+    "zh": "身體的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-020",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:collocation",
+  "tag_zh": "動詞搭配",
+  "passage": "Tai Chi Chuan is a type of ancient Chinese martial art. People (16) Tai Chi mainly for its health benefits. This centuries-old Chinese mind-body exercise is now gaining popularity in the United States.\nThe most familiar aspect of Tai Chi Chuan is the hand form, which is a series of slow-flowing movements with poetic names (17) “dragons stirring up the wind” and “wave hands like clouds.” These movements, forming an exercise system, (18) one to effortlessly experience the vital life force, or the Qi energy, in one's body.\nTai Chi Chuan is not only a physical but also a (19) exercise. Psychologically, this exercise may increase communication between the body and the mind and enable one to deal with other people more effectively. It (20) stress and creates calmness and confidence. Relaxation and a feeling of joy are among the first noticeable differences in a Tai Chi student.",
+  "group_id": "PX-GSAT104-G01",
+  "stem": "(20) 應填入：It ____ stress and creates calmness and confidence.",
+  "options": [
+   "imposes",
+   "offends",
+   "reduces",
+   "disturbs"
+  ],
+  "answer": 2,
+  "explain_zh": "太極拳能「減輕」壓力並帶來平靜與自信，reduce stress 是固定搭配，故選 reduces。imposes 是施加、offends 是冒犯、disturbs 是打擾，皆不符合 stress 的搭配語意。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "reduce",
+    "zh": "減少",
+    "pos": "v."
+   },
+   {
+    "w": "stress",
+    "zh": "壓力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-021",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:connector",
+  "tag_zh": "副詞連接",
+  "passage": "Much like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. (21), a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not (22) seen as lucky. In places like India, the peacock is considered lucky because the great many “eyes” on its feathers are said to alert it to (23) evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to (24) their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most (25) part of the bird because the eye-shaped markings on them are associated with “evil eyes.” To bring the evil eye into the home is thus believed to invite trouble and sorrow.",
+  "group_id": "PX-GSAT104-G02",
+  "stem": "(21) 應填入：____, a woodpecker, when seen near the home, is regarded as a good sign.",
+  "options": [
+   "Therefore",
+   "Nevertheless",
+   "Roughly",
+   "Similarly"
+  ],
+  "answer": 3,
+  "explain_zh": "延續前一句藍鳥被視為吉祥鳥的說法，啄木鳥「同樣」被認為是好兆頭，故選 Similarly。Therefore 是因此、Nevertheless 是然而、Roughly 是大致上，皆不符合這種「舉出類似例子」的承接語氣。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "similarly",
+    "zh": "同樣地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-022",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Much like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. (21), a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not (22) seen as lucky. In places like India, the peacock is considered lucky because the great many “eyes” on its feathers are said to alert it to (23) evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to (24) their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most (25) part of the bird because the eye-shaped markings on them are associated with “evil eyes.” To bring the evil eye into the home is thus believed to invite trouble and sorrow.",
+  "group_id": "PX-GSAT104-G02",
+  "stem": "(22) 應填入：In contrast, the peacock is not ____ seen as lucky.",
+  "options": [
+   "officially",
+   "mutually",
+   "universally",
+   "eventually"
+  ],
+  "answer": 2,
+  "explain_zh": "孔雀並非「普遍」被視為吉祥，各地看法不同，故選 universally。officially 是正式地、mutually 是相互地、eventually 是最終，這些副詞都不符合此處語意。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "universally",
+    "zh": "普遍地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-023",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "分詞當形容詞",
+  "passage": "Much like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. (21), a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not (22) seen as lucky. In places like India, the peacock is considered lucky because the great many “eyes” on its feathers are said to alert it to (23) evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to (24) their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most (25) part of the bird because the eye-shaped markings on them are associated with “evil eyes.” To bring the evil eye into the home is thus believed to invite trouble and sorrow.",
+  "group_id": "PX-GSAT104-G02",
+  "stem": "(23) 應填入：The great many “eyes” on its feathers are said to alert it to ____ evil.",
+  "options": [
+   "approach",
+   "approaching",
+   "approached",
+   "be approaching"
+  ],
+  "answer": 1,
+  "explain_zh": "現在分詞 approaching 當形容詞修飾 evil，表示「逼近中的」邪惡，故選 approaching。approach 是原形動詞不能直接修飾名詞；approached、be approaching 文法結構都不合此處句型。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "approach",
+    "zh": "接近、逼近",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-024",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Much like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. (21), a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not (22) seen as lucky. In places like India, the peacock is considered lucky because the great many “eyes” on its feathers are said to alert it to (23) evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to (24) their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most (25) part of the bird because the eye-shaped markings on them are associated with “evil eyes.” To bring the evil eye into the home is thus believed to invite trouble and sorrow.",
+  "group_id": "PX-GSAT104-G02",
+  "stem": "(24) 應填入：Peacocks are kept as symbols by the ruling families to ____ their status and wealth.",
+  "options": [
+   "replace",
+   "disguise",
+   "distinguish",
+   "represent"
+  ],
+  "answer": 3,
+  "explain_zh": "孔雀被王室當作象徵物，用來「代表」其地位與財富，故選 represent。replace 是取代、disguise 是偽裝、distinguish 是區分，皆不符合象徵地位的語境。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "represent",
+    "zh": "代表",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-025",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Much like the dove and robin, the bluebird is considered a very lucky sign in most cultures, particularly when seen in the spring. (21), a woodpecker, when seen near the home, is regarded as a good sign. In contrast, the peacock is not (22) seen as lucky. In places like India, the peacock is considered lucky because the great many “eyes” on its feathers are said to alert it to (23) evil. Peacocks are also highly valued in China and Japan, where they are kept as symbols by the ruling families to (24) their status and wealth. However, the peacock receives only scorn from the rest of the world. The feathers of peacocks are considered the most (25) part of the bird because the eye-shaped markings on them are associated with “evil eyes.” To bring the evil eye into the home is thus believed to invite trouble and sorrow.",
+  "group_id": "PX-GSAT104-G02",
+  "stem": "(25) 應填入：The feathers of peacocks are considered the most ____ part of the bird.",
+  "options": [
+   "unlucky",
+   "illogical",
+   "impossible",
+   "unnecessary"
+  ],
+  "answer": 0,
+  "explain_zh": "羽毛上眼睛狀花紋被聯想為「邪眼」，因此被視為孔雀身上最「不吉利」的部位，故選 unlucky。illogical 是不合邏輯的、impossible 是不可能的、unnecessary 是不必要的，皆不合語意。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "unlucky",
+    "zh": "不吉利的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-026",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "平行結構",
+  "passage": "Nutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans (26) fruits and nuts to the first cultivation of important trees, such as mango and apple.\nThe apple is one of the world's most cultivated fruit trees, (27) over 7,000 different kinds in existence. Despite their great (28), however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and (29) to North America by European colonists in the 17th century. Today, apples are (30) eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about $10 billion.",
+  "group_id": "PX-GSAT104-G03",
+  "stem": "(26) 應填入：...from early humans ____ fruits and nuts to the first cultivation of important trees.",
+  "options": [
+   "to gather",
+   "gather",
+   "gathered",
+   "gathering"
+  ],
+  "answer": 3,
+  "explain_zh": "from A to B 句型中 A、B 需對等，前後皆為動名詞片語，早期人類「採集」水果堅果對應後面的 cultivation（栽種），故選 gathering。to gather、gather、gathered 都不符合這個平行結構。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "gather",
+    "zh": "採集",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-027",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:phrase",
+  "tag_zh": "附帶說明介系詞",
+  "passage": "Nutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans (26) fruits and nuts to the first cultivation of important trees, such as mango and apple.\nThe apple is one of the world's most cultivated fruit trees, (27) over 7,000 different kinds in existence. Despite their great (28), however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and (29) to North America by European colonists in the 17th century. Today, apples are (30) eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about $10 billion.",
+  "group_id": "PX-GSAT104-G03",
+  "stem": "(27) 應填入：The apple is one of the world's most cultivated fruit trees, ____ over 7,000 different kinds in existence.",
+  "options": [
+   "all",
+   "with",
+   "around",
+   "still"
+  ],
+  "answer": 1,
+  "explain_zh": "with 表附帶說明，指出蘋果樹「有」超過七千個品種存在，故選 with。all、around、still 放入此處在文法或語意上都不通順。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "cultivate",
+    "zh": "栽種",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-028",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Nutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans (26) fruits and nuts to the first cultivation of important trees, such as mango and apple.\nThe apple is one of the world's most cultivated fruit trees, (27) over 7,000 different kinds in existence. Despite their great (28), however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and (29) to North America by European colonists in the 17th century. Today, apples are (30) eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about $10 billion.",
+  "group_id": "PX-GSAT104-G03",
+  "stem": "(28) 應填入：Despite their great ____, most domesticated apples can be traced back to a common ancestor.",
+  "options": [
+   "variety",
+   "harvest",
+   "condition",
+   "discovery"
+  ],
+  "answer": 0,
+  "explain_zh": "品種雖然眾多，卻能追溯到共同祖先，指的是蘋果的「多樣性」，故選 variety。harvest 是收成、condition 是狀況、discovery 是發現，皆不符合此處語意。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "variety",
+    "zh": "多樣性",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-029",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:grammar",
+  "tag_zh": "時態語態",
+  "passage": "Nutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans (26) fruits and nuts to the first cultivation of important trees, such as mango and apple.\nThe apple is one of the world's most cultivated fruit trees, (27) over 7,000 different kinds in existence. Despite their great (28), however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and (29) to North America by European colonists in the 17th century. Today, apples are (30) eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about $10 billion.",
+  "group_id": "PX-GSAT104-G03",
+  "stem": "(29) 應填入：Apples have been grown for thousands of years in Asia and Europe, and ____ to North America by European colonists in the 17th century.",
+  "options": [
+   "bring",
+   "have brought",
+   "were brought",
+   "have been brought"
+  ],
+  "answer": 2,
+  "explain_zh": "蘋果在十七世紀由歐洲殖民者「帶到」北美，是過去發生的單一歷史事件，須用過去式被動 were brought，故選此項。bring、have brought、have been brought 的時態或語態都不符合這段過去的歷史敘述。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "colonist",
+    "zh": "殖民者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-030",
+  "level": "H3",
+  "cefr": "B1",
+  "skill": "cloze",
+  "tag": "cloze:context-word",
+  "tag_zh": "語意選詞",
+  "passage": "Nutritional products that can be collected from trees include fruits, nuts, seeds, leaves, and bark. Tree products have been an important part of diets for thousands of years, from early humans (26) fruits and nuts to the first cultivation of important trees, such as mango and apple.\nThe apple is one of the world's most cultivated fruit trees, (27) over 7,000 different kinds in existence. Despite their great (28), however, most domesticated apples can be traced back to a common ancestor, the wild apple of Central Asia, Malus sieversii. Apples have been grown for thousands of years in Asia and Europe, and (29) to North America by European colonists in the 17th century. Today, apples are (30) eaten the world over and form the basis for multi-million dollar industries. In 2005, at least 55 million tons of apples were grown worldwide, which generated a value of about $10 billion.",
+  "group_id": "PX-GSAT104-G03",
+  "stem": "(30) 應填入：Today, apples are ____ eaten the world over and form the basis for multi-million dollar industries.",
+  "options": [
+   "regularly",
+   "particularly",
+   "permanently",
+   "barely"
+  ],
+  "answer": 0,
+  "explain_zh": "蘋果在世界各地被人們「經常」食用，故選 regularly。particularly 是特別地、permanently 是永久地、barely 是幾乎不，這些副詞都不符合「經常食用」的語意。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "regularly",
+    "zh": "經常地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-041",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "In 2009, the Taiwu Elementary School Folk Singers were invited to perform in Belgium, France, Germany, and Luxemburg. In 2011, they were voted as one of the world's top five performance groups by audiences of Japan Broadcasting Corporation's Amazing Voice program.\nRecalling the group's first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous. He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound. Surprisingly, the audience listened with full focus and high spirits. Camake said, “They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it. This experience greatly boosted our confidence.”\nAccording to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture. “It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60. Now with the children performing the pieces, parents are beginning to ask, ‘Why do we not know how to sing these ballads?’ Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.”\nWinning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006. The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture. Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, “We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along. As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.”",
+  "group_id": "PX-GSAT104-G04",
+  "stem": "Which of the following is true about Taiwu Elementary School Folk Singers?",
+  "options": [
+   "The group was first established in 2009.",
+   "The group was founded by a PE teacher.",
+   "The singers usually sing popular folk songs.",
+   "The singers learn to sing from their parents."
+  ],
+  "answer": 1,
+  "explain_zh": "文中說創辦人 Camake Valaule 是一位「體育老師」，故選 B。選項 A 錯誤地把 2009 年首次巡演誤認為成立時間；C、D 皆與文意不符。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "found",
+    "zh": "創立",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-042",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "In 2009, the Taiwu Elementary School Folk Singers were invited to perform in Belgium, France, Germany, and Luxemburg. In 2011, they were voted as one of the world's top five performance groups by audiences of Japan Broadcasting Corporation's Amazing Voice program.\nRecalling the group's first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous. He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound. Surprisingly, the audience listened with full focus and high spirits. Camake said, “They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it. This experience greatly boosted our confidence.”\nAccording to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture. “It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60. Now with the children performing the pieces, parents are beginning to ask, ‘Why do we not know how to sing these ballads?’ Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.”\nWinning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006. The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture. Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, “We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along. As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.”",
+  "group_id": "PX-GSAT104-G04",
+  "stem": "On his first trip to Europe, why did Camake think the audience might fall asleep?",
+  "options": [
+   "The average age of the audience was between fifty and sixty.",
+   "Most of the performance was not accompanied by any instrument.",
+   "Nobody could understand the language and the meaning of the songs.",
+   "The audience could not visualize the theme sung by the school children."
+  ],
+  "answer": 1,
+  "explain_zh": "他擔心觀眾聽到睡著，是因為 75 分鐘的表演大多是無伴奏清唱（a cappella），故選 B。選項 A、C、D 都不是文中提到讓他擔憂的原因。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "accompany",
+    "zh": "伴奏、陪伴",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-043",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜義",
+  "passage": "In 2009, the Taiwu Elementary School Folk Singers were invited to perform in Belgium, France, Germany, and Luxemburg. In 2011, they were voted as one of the world's top five performance groups by audiences of Japan Broadcasting Corporation's Amazing Voice program.\nRecalling the group's first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous. He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound. Surprisingly, the audience listened with full focus and high spirits. Camake said, “They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it. This experience greatly boosted our confidence.”\nAccording to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture. “It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60. Now with the children performing the pieces, parents are beginning to ask, ‘Why do we not know how to sing these ballads?’ Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.”\nWinning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006. The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture. Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, “We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along. As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.”",
+  "group_id": "PX-GSAT104-G04",
+  "stem": "What does “the pieces of a blurred memory” in the third paragraph most likely refer to?",
+  "options": [
+   "The children's ignorance of their own culture.",
+   "The fading memories about old tribal people.",
+   "The broken pieces of knowledge taught at school.",
+   "The parents' vague understanding of their own tradition."
+  ],
+  "answer": 3,
+  "explain_zh": "上文提到父母反而不太會唱這些古謠、要問孩子為什麼自己不會唱，指的正是父母對傳統模糊的記憶，故選 D。選項 A、B、C 都偏離了「父母」這個主體。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "blurred",
+    "zh": "模糊的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-044",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "In 2009, the Taiwu Elementary School Folk Singers were invited to perform in Belgium, France, Germany, and Luxemburg. In 2011, they were voted as one of the world's top five performance groups by audiences of Japan Broadcasting Corporation's Amazing Voice program.\nRecalling the group's first tour in Europe, Camake Valaule, a physical education teacher and the founder of the Taiwu Elementary School Folk Singers, admitted that he felt very nervous. He was worried that the audience would fall asleep since most of the 75-minute performance was a cappella, that is, singing without instrumental sound. Surprisingly, the audience listened with full focus and high spirits. Camake said, “They told me afterward that through our performance, they had a vision of our country, our village, without having to visit it. This experience greatly boosted our confidence.”\nAccording to Camake Valaule, singing traditional ballads has helped students and their parents to re-understand their culture. “It used to be that the only ones who could sing these songs were tribal elders aged between 50 and 60. Now with the children performing the pieces, parents are beginning to ask, ‘Why do we not know how to sing these ballads?’ Many times nowadays, it is the children who teach the songs to their parents, putting back the pieces of a blurred memory.”\nWinning international fame, however, was neither the original intention nor the main reason why Camake founded the group in 2006. The most important thing was to make children understand why they sing these songs and to preserve and pass on their culture. Referring to the relocation of Taiwu Elementary School and Taiwu Village following Typhoon Morakot in August 2009, Camake said, “We could not take the forest or our houses in the mountains with us; but we were able to bring our culture along. As long as the children are willing to sing, I will always be there for them, singing with them and leading them to experience the meaning of the ballads.”",
+  "group_id": "PX-GSAT104-G04",
+  "stem": "What did Camake realize after the incident of Typhoon Morakot?",
+  "options": [
+   "The significance of the relocation of Taiwu Elementary School.",
+   "The need to respect nature to avoid being destroyed by it.",
+   "The importance of passing on the traditional culture.",
+   "The consequence of building houses in the forest."
+  ],
+  "answer": 2,
+  "explain_zh": "風災後他體悟到「帶不走森林和房子，卻能帶著文化一起走」，凸顯的是傳承文化的重要性，故選 C。選項 A、B、D 都不是他真正想表達的體悟。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "pass on",
+    "zh": "傳承",
+    "pos": "phrase"
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-045",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "When it comes to medical care, many patients and doctors believe “more is better.” But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.\nTerrence Power, for example, complained that after his wife learned she had Wegener's disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about $30,000 a year for her care.\nAfter several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups. “It's a really hard thing to determine when they've crossed the line,” Mr. Power said. “You think she's getting the best care in the world, but after a while you start to wonder: What is the objective?” Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power's care. Under the new doctor's care, the regular testing stopped and Mrs. Power's condition stabilized. Now she sees the doctor only four or five times a year.",
+  "group_id": "PX-GSAT104-G05",
+  "stem": "What is the main idea of this passage?",
+  "options": [
+   "Treatments do not always cause harmful side effects.",
+   "Patients tend to believe more testing is better treatment.",
+   "Too much medical care may not be beneficial to patients.",
+   "Doctors generally recommend office visits that are necessary."
+  ],
+  "answer": 2,
+  "explain_zh": "全文以 Mrs. Power 的案例說明「過度治療」對病患可能無益甚至有害，故選 C。選項 A 與文章主旨相反；B、D 只是文章帶出主題前的鋪陳，非全文重點。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "overtreatment",
+    "zh": "過度治療",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-046",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "When it comes to medical care, many patients and doctors believe “more is better.” But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.\nTerrence Power, for example, complained that after his wife learned she had Wegener's disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about $30,000 a year for her care.\nAfter several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups. “It's a really hard thing to determine when they've crossed the line,” Mr. Power said. “You think she's getting the best care in the world, but after a while you start to wonder: What is the objective?” Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power's care. Under the new doctor's care, the regular testing stopped and Mrs. Power's condition stabilized. Now she sees the doctor only four or five times a year.",
+  "group_id": "PX-GSAT104-G05",
+  "stem": "Which of the following was a problem for Mrs. Power during her medical treatment?",
+  "options": [
+   "She had to be hospitalized for three weeks whenever she had a cold.",
+   "She didn't have any insurance, so she went broke because of her illness.",
+   "When test results showed she was fine, her doctor still ordered more tests.",
+   "Her doctor asked her to consult other specialists due to her constant complaints."
+  ],
+  "answer": 2,
+  "explain_zh": "文中明說「even when tests came back negative, more were ordered」，指即使檢驗結果正常，醫師仍持續安排更多檢查，故選 C。選項 A、B、D 皆與原文描述不符。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "negative",
+    "zh": "陰性的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-047",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:reference",
+  "tag_zh": "指涉判斷",
+  "passage": "When it comes to medical care, many patients and doctors believe “more is better.” But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.\nTerrence Power, for example, complained that after his wife learned she had Wegener's disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about $30,000 a year for her care.\nAfter several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups. “It's a really hard thing to determine when they've crossed the line,” Mr. Power said. “You think she's getting the best care in the world, but after a while you start to wonder: What is the objective?” Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power's care. Under the new doctor's care, the regular testing stopped and Mrs. Power's condition stabilized. Now she sees the doctor only four or five times a year.",
+  "group_id": "PX-GSAT104-G05",
+  "stem": "Who does “they” in the third paragraph most likely refer to?",
+  "options": [
+   "Physicians.",
+   "Other patients.",
+   "Mr. and Mrs. Power.",
+   "The online support groups."
+  ],
+  "answer": 0,
+  "explain_zh": "「他們是否已經逾越了界線」是在質疑醫師的診療行為是否過度，故 they 指的是醫師，選 A。選項 B、C、D 在文法或語意上都不符合這句話的指涉對象。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "physician",
+    "zh": "醫師",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-048",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "When it comes to medical care, many patients and doctors believe “more is better.” But what they do not realize is that overtreatment—too many scans, too many blood tests, too many procedures—may pose harm. Sometimes a test leads you down a path to more and more testing, some of which may be invasive, or to treatment for things that should be left alone.\nTerrence Power, for example, complained that after his wife learned she had Wegener's disease, an uncommon disorder of the immune system, they found it difficult to refuse testing recommended by her physician. The doctor insisted on office visits every three weeks, even when she was feeling well. He frequently ordered blood tests and X-rays, and repeatedly referred her to specialists for even minor complaints. Even when tests came back negative, more were ordered, and she was hospitalized as a precaution when she developed a cold. She had as many as 25 doctor visits during one six-month period. The couple was spending about $30,000 a year for her care.\nAfter several years of physical suffering and near financial ruin from the medical costs, the couple began questioning the treatment after consulting with other patients in online support groups. “It's a really hard thing to determine when they've crossed the line,” Mr. Power said. “You think she's getting the best care in the world, but after a while you start to wonder: What is the objective?” Mr. Power then spoke with his own primary care doctor, who advised him to find a new specialist to oversee Mrs. Power's care. Under the new doctor's care, the regular testing stopped and Mrs. Power's condition stabilized. Now she sees the doctor only four or five times a year.",
+  "group_id": "PX-GSAT104-G05",
+  "stem": "Which of the following best describes the author's attitude toward medical tests?",
+  "options": [
+   "More tests than necessary are too much.",
+   "Medical tests are essential for disease prevention.",
+   "Many tests are needed for confirmation of diagnosis.",
+   "Doctors' interpretations of test results are seldom wrong."
+  ],
+  "answer": 0,
+  "explain_zh": "作者藉由 Power 夫婦的案例點出「非必要的過多檢查」對病人是一種負擔，故選 A。選項 B、C、D 都與作者透過案例傳達的批判立場相反。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "unnecessary",
+    "zh": "不必要的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-049",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Henri Cartier-Bresson (1908–2004) is one of the most original and influential figures in the history of photography. His humane, spontaneous photographs helped establish photojournalism as an art form.\nCartier-Bresson's family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents' frugal ways, it often seemed as though his family was poor.\nEducated in Paris, Cartier-Bresson developed an early love for literature and the arts. As a teenager, Cartier-Bresson rebelled against his parents' formal ways of education. In his early adulthood, he even drifted toward communism. But it was art that remained at the center of his life.\nCartier-Bresson traveled to Africa in 1931 to hunt antelope and boar. And Africa fueled another interest in him: photography. He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.\nNot long after World War II, Cartier-Bresson traveled east, spending considerable time in India, where he met and photographed Gandhi shortly before his assassination in 1948. Cartier-Bresson's subsequent work to document Gandhi's death and its immediate impact on the country became one of Life Magazine's most prized photo essays.\nCartier-Bresson's approach to photography remained much the same throughout his life. He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping. The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken. In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published. “There is nothing in this world that does not have a decisive moment,” he said.\nIn 1968, he began to turn away from photography and returned to his passion for drawing and painting.",
+  "group_id": "PX-GSAT104-G06",
+  "stem": "Which of the following best describes Cartier-Bresson's family background?",
+  "options": [
+   "His family was rich but was very economical.",
+   "His father went to Paris to open a textile factory.",
+   "His wealthy family went bankrupt and became poor.",
+   "His parents were very liberal in their ways of education."
+  ],
+  "answer": 0,
+  "explain_zh": "家境富裕，但父母生活十分節儉，讓家中看起來像窮人家，故選 A。選項 B、C、D 皆與原文描述的家庭背景不符。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "frugal",
+    "zh": "節儉的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-050",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Henri Cartier-Bresson (1908–2004) is one of the most original and influential figures in the history of photography. His humane, spontaneous photographs helped establish photojournalism as an art form.\nCartier-Bresson's family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents' frugal ways, it often seemed as though his family was poor.\nEducated in Paris, Cartier-Bresson developed an early love for literature and the arts. As a teenager, Cartier-Bresson rebelled against his parents' formal ways of education. In his early adulthood, he even drifted toward communism. But it was art that remained at the center of his life.\nCartier-Bresson traveled to Africa in 1931 to hunt antelope and boar. And Africa fueled another interest in him: photography. He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.\nNot long after World War II, Cartier-Bresson traveled east, spending considerable time in India, where he met and photographed Gandhi shortly before his assassination in 1948. Cartier-Bresson's subsequent work to document Gandhi's death and its immediate impact on the country became one of Life Magazine's most prized photo essays.\nCartier-Bresson's approach to photography remained much the same throughout his life. He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping. The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken. In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published. “There is nothing in this world that does not have a decisive moment,” he said.\nIn 1968, he began to turn away from photography and returned to his passion for drawing and painting.",
+  "group_id": "PX-GSAT104-G06",
+  "stem": "Which of the following is true about Cartier-Bresson's career in photography?",
+  "options": [
+   "He devoted himself to photography all his life.",
+   "He developed a passion for photography when he traveled to Africa.",
+   "He quit photography right after the publication of The Decisive Moment.",
+   "During World War II, he documented the everyday life of the Indian people."
+  ],
+  "answer": 1,
+  "explain_zh": "文中說非洲之旅「燃起了他對攝影的興趣」，故選 B。選項 A、C 與他晚年轉向繪畫、厭惡暗房修圖的敘述矛盾；D 混淆了他造訪印度與二戰的時間點。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "fuel",
+    "zh": "燃起、激發",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-051",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Henri Cartier-Bresson (1908–2004) is one of the most original and influential figures in the history of photography. His humane, spontaneous photographs helped establish photojournalism as an art form.\nCartier-Bresson's family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents' frugal ways, it often seemed as though his family was poor.\nEducated in Paris, Cartier-Bresson developed an early love for literature and the arts. As a teenager, Cartier-Bresson rebelled against his parents' formal ways of education. In his early adulthood, he even drifted toward communism. But it was art that remained at the center of his life.\nCartier-Bresson traveled to Africa in 1931 to hunt antelope and boar. And Africa fueled another interest in him: photography. He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.\nNot long after World War II, Cartier-Bresson traveled east, spending considerable time in India, where he met and photographed Gandhi shortly before his assassination in 1948. Cartier-Bresson's subsequent work to document Gandhi's death and its immediate impact on the country became one of Life Magazine's most prized photo essays.\nCartier-Bresson's approach to photography remained much the same throughout his life. He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping. The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken. In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published. “There is nothing in this world that does not have a decisive moment,” he said.\nIn 1968, he began to turn away from photography and returned to his passion for drawing and painting.",
+  "group_id": "PX-GSAT104-G06",
+  "stem": "What significance did Cartier-Bresson have to Gandhi of India?",
+  "options": [
+   "He witnessed Gandhi's assassination in 1948.",
+   "He was the first photographer to take Gandhi's photo.",
+   "He used photos to document the effect of Gandhi's death on India.",
+   "His photos told the world who was guilty of assassinating Gandhi."
+  ],
+  "answer": 2,
+  "explain_zh": "他用照片記錄了「甘地之死對印度的衝擊」，成為知名的攝影專題，故選 C。選項 A、B、D 都誇大或扭曲了他與甘地之間的關聯。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "document",
+    "zh": "記錄",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-052",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "Henri Cartier-Bresson (1908–2004) is one of the most original and influential figures in the history of photography. His humane, spontaneous photographs helped establish photojournalism as an art form.\nCartier-Bresson's family was wealthy—his father made a fortune as a textile manufacturer—but Cartier-Bresson later joked that due to his parents' frugal ways, it often seemed as though his family was poor.\nEducated in Paris, Cartier-Bresson developed an early love for literature and the arts. As a teenager, Cartier-Bresson rebelled against his parents' formal ways of education. In his early adulthood, he even drifted toward communism. But it was art that remained at the center of his life.\nCartier-Bresson traveled to Africa in 1931 to hunt antelope and boar. And Africa fueled another interest in him: photography. He then wandered around the world with his camera, using a handheld camera to catch images from fleeting moments of everyday life.\nNot long after World War II, Cartier-Bresson traveled east, spending considerable time in India, where he met and photographed Gandhi shortly before his assassination in 1948. Cartier-Bresson's subsequent work to document Gandhi's death and its immediate impact on the country became one of Life Magazine's most prized photo essays.\nCartier-Bresson's approach to photography remained much the same throughout his life. He made clear his dislike of images that had been improved by artificial light, darkroom effects, and even cropping. The naturalist in Cartier-Bresson believed that all editing should be done when the photo is taken. In 1952, his first book, The Decisive Moment, a rich collection of his work spanning two decades, was published. “There is nothing in this world that does not have a decisive moment,” he said.\nIn 1968, he began to turn away from photography and returned to his passion for drawing and painting.",
+  "group_id": "PX-GSAT104-G06",
+  "stem": "Which of the following is true about Cartier-Bresson's approach to photography?",
+  "options": [
+   "He never waited for a decisive moment to shoot photos.",
+   "He preferred to edit his images carefully in his darkroom.",
+   "Most of his photos described things that happen every day.",
+   "He experimented with different ways and settled on being a naturalist."
+  ],
+  "answer": 2,
+  "explain_zh": "他用隨身相機捕捉「日常生活稍縱即逝的瞬間」，故選 C。選項 A、D 與他厭惡暗房修圖、堅持自然主義的原則矛盾；B 更是與他的創作理念完全相反。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "fleeting",
+    "zh": "稍縱即逝的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-053",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:main-idea",
+  "tag_zh": "主旨大意",
+  "passage": "You've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”\nSitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.\nBut wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.\nScared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.",
+  "group_id": "PX-GSAT104-G07",
+  "stem": "What is the purpose of this passage?",
+  "options": [
+   "To point out the challenges of the modern lifestyle.",
+   "To discuss how a modern epidemic may spread quickly.",
+   "To explore the effects of regular exercise to our body.",
+   "To explain the threat to our health from long hours of sitting."
+  ],
+  "answer": 3,
+  "explain_zh": "全文說明久坐對健康帶來的傷害，並提出所謂「坐式疾病」的概念，故選 D。選項 A、B、C 都偏離了文章真正想探討的核心議題。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "threat",
+    "zh": "威脅",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-054",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:vocab-in-context",
+  "tag_zh": "文意猜字",
+  "passage": "You've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”\nSitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.\nBut wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.\nScared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.",
+  "group_id": "PX-GSAT104-G07",
+  "stem": "What does the word “sedentary” in the third paragraph most likely mean?",
+  "options": [
+   "Modern.",
+   "Risky.",
+   "Inactive.",
+   "Epidemic."
+  ],
+  "answer": 2,
+  "explain_zh": "sedentary lifestyle 指的是久坐不動的生活型態，對應選項 C「不活動的」（Inactive）。Modern（現代的）、Risky（有風險的）、Epidemic（流行病的）皆非此字的意思。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "sedentary",
+    "zh": "久坐不動的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-055",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:detail",
+  "tag_zh": "細節理解",
+  "passage": "You've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”\nSitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.\nBut wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.\nScared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.",
+  "group_id": "PX-GSAT104-G07",
+  "stem": "What is the best way to bring down high blood sugar level and blood pressure?",
+  "options": [
+   "Exercising for 150 minutes or more every week.",
+   "Getting rid of the habit of car commuting and TV watching.",
+   "Interrupting sitting time with light activity as often as possible.",
+   "Standing or moving around for at least two or three minutes every day."
+  ],
+  "answer": 2,
+  "explain_zh": "文中建議以「頻繁的短暫輕度活動」來打斷久坐狀態最為有效，故選 C。選項 A、B、D 雖然也有益健康，但都不是文中特別強調的最佳方法。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "interrupt",
+    "zh": "打斷",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "PX-GSAT104-056",
+  "level": "H3",
+  "cefr": "B2",
+  "skill": "reading",
+  "tag": "reading:inference",
+  "tag_zh": "推論判斷",
+  "passage": "You've most likely heard the news by now: A car-commuting, desk-bound, TV-watching lifestyle can be harmful to our health. All the time that we spend rooted in the chair is linked to increased risks of so many deadly diseases that experts have named this modern-day health epidemic the “sitting disease.”\nSitting for too long slows down the body's metabolism and the way enzymes break down our fat reserves, raising both blood sugar levels and blood pressure. Small amounts of regular activity, even just standing and moving around, throughout the day is enough to bring the increased levels back down. And those small amounts of activity add up—30 minutes of light activity in two or three-minute bursts can be just as effective as a half-hour block of exercise. But without that activity, blood sugar levels and blood pressure keep creeping up, steadily damaging the inside of the arteries and increasing the risk of diabetes, heart disease, stroke, and other serious diseases. In essence, fundamental changes in biology occur if you sit for too long.\nBut wait, you're a runner. You needn't worry about the harm of a sedentary lifestyle because you exercise regularly, right? Well, not so fast. Recent studies show that people spend an average of 64 hours a week sitting, whether or not they exercise 150 minutes a week as recommended by World Health Organization (WHO). Regular exercisers, furthermore, are found to be about 30 percent less active on days when they exercise. Overall, most people simply aren't exercising or moving around enough to counteract all the harm that can result from sitting nine hours or more a day.\nScared straight out of your chair? Good. The remedy is as simple as standing up and taking activity breaks.",
+  "group_id": "PX-GSAT104-G07",
+  "stem": "Which of the following may be inferred about those who do serious exercise?",
+  "options": [
+   "They often live longer than those who don't exercise.",
+   "They tend to stand or move around less on days they work out.",
+   "They generally spend less time sitting than those who are inactive.",
+   "They usually do not meet the standard of exercise recommended by WHO."
+  ],
+  "answer": 1,
+  "explain_zh": "文中指出規律運動者「在運動當天反而活動量少了三成」，可推論他們運動當天較少額外走動，故選 B。選項 A、C、D 都不是文中明確支持的推論。",
+  "source": "104學測",
+  "vocab": [
+   {
+    "w": "regular",
+    "zh": "規律的",
+    "pos": "adj."
+   }
+  ]
+ }
+]

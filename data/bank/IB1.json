@@ -1,0 +1,5282 @@
+[
+ {
+  "id": "IB1-0001",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Universities are under growing pressure to ____ a larger share of their limited research funding to projects that address urgent environmental problems.",
+  "options": [
+   "alleviate",
+   "advocate",
+   "aggregate",
+   "allocate"
+  ],
+  "answer": 3,
+  "explain_zh": "allocate 指把有限資源（經費、時間、土地）按計畫分配出去，後面常接 to。Task 2 談政府預算、教育資源或醫療支出該怎麼分時幾乎一定用到這個字。alleviate 是減輕痛苦、advocate 是主張、aggregate 是加總，都不能接「把錢分給某計畫」。",
+  "vocab": [
+   {
+    "w": "allocate",
+    "zh": "分配（資源）",
+    "pos": "v."
+   },
+   {
+    "w": "funding",
+    "zh": "經費",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0002",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Renewable sources now ____ nearly a third of the country's electricity supply, a figure that has doubled over the past ten years.",
+  "options": [
+   "constitute",
+   "consist",
+   "institute",
+   "substitute"
+  ],
+  "answer": 0,
+  "explain_zh": "constitute 是及物動詞，意思是「構成、佔」，Task 1 描述圓餅圖或比例時很好用，例如 X constitutes 30% of the total。consist 要寫成 consist of 才對，後面不能直接接受詞；institute 是設立制度、substitute 是替換，語意都不合。",
+  "vocab": [
+   {
+    "w": "constitute",
+    "zh": "構成、佔",
+    "pos": "v."
+   },
+   {
+    "w": "renewable",
+    "zh": "可再生的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0003",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Before the new railway line was approved, engineers had to ____ a detailed survey of the wetlands that the route would cross.",
+  "options": [
+   "undergo",
+   "undertake",
+   "overtake",
+   "partake"
+  ],
+  "answer": 1,
+  "explain_zh": "undertake 表示「著手進行、承擔（調查、研究、工作）」，是雅思閱讀學術文章的高頻字，undertake a study/survey/project 是固定搭配。undergo 是被動地經歷某事（工程師不是被調查的人）、overtake 是超越、partake 是參與分享，都不能接 a survey。",
+  "vocab": [
+   {
+    "w": "undertake",
+    "zh": "著手進行",
+    "pos": "v."
+   },
+   {
+    "w": "survey",
+    "zh": "調查",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0004",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Many of the medicines prescribed in hospitals today ____ from plants that indigenous communities have used for hundreds of years.",
+  "options": [
+   "derive",
+   "deprive",
+   "arrive",
+   "strive"
+  ],
+  "answer": 0,
+  "explain_zh": "derive from 意思是「源自、衍生自」，寫作談某個制度、字詞或產品的來源時最常用，例如 The word derives from Latin。deprive 要說 deprive somebody of something（剝奪），arrive 和 strive 後面都不接 from 表示來源。",
+  "vocab": [
+   {
+    "w": "derive",
+    "zh": "源自",
+    "pos": "v."
+   },
+   {
+    "w": "indigenous",
+    "zh": "原住民的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0005",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "A policy may look convincing on paper, but many governments simply lack the funding and the political will to ____ it effectively.",
+  "options": [
+   "implement",
+   "implicate",
+   "imply",
+   "complement"
+  ],
+  "answer": 0,
+  "explain_zh": "implement 是「實施、落實（政策、計畫）」，Task 2 寫「政府應該推動某政策」時，implement a policy 比 do a policy 高分得多。implicate 是牽連某人涉案、imply 是暗示、complement 是補足，都不能拿來搭配 policy。",
+  "vocab": [
+   {
+    "w": "implement",
+    "zh": "實施",
+    "pos": "v."
+   },
+   {
+    "w": "policy",
+    "zh": "政策",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0006",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The initial trial involved only fifty patients, but ____ studies confirmed the same result with a much larger and more varied sample.",
+  "options": [
+   "consequent",
+   "sequential",
+   "subsequent",
+   "subordinate"
+  ],
+  "answer": 2,
+  "explain_zh": "subsequent 是「後續的、隨後的」，閱讀文章描述研究先後順序時常出現 subsequent research/years/experiments。consequent 強調「因此造成的結果」、sequential 是按順序排列的、subordinate 是下屬的，都不是單純表示時間上的後來。",
+  "vocab": [
+   {
+    "w": "subsequent",
+    "zh": "後續的",
+    "pos": "adj."
+   },
+   {
+    "w": "trial",
+    "zh": "試驗",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0007",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Applicants are ranked according to three ____ : their academic record, their relevant work experience, and a short statement of purpose.",
+  "options": [
+   "criterion",
+   "criteria",
+   "crises",
+   "phenomena"
+  ],
+  "answer": 1,
+  "explain_zh": "criteria 是 criterion 的複數，前面有 three 就必須用複數。雅思閱讀的招生、評分、審查類文章很愛用 meet the criteria（符合標準）。criterion 是單數與 three 衝突，crises（危機）與 phenomena（現象）語意不合。",
+  "vocab": [
+   {
+    "w": "criteria",
+    "zh": "標準（複數）",
+    "pos": "n."
+   },
+   {
+    "w": "applicant",
+    "zh": "申請人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0008",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Urban heat islands are a well-documented ____ in which city centres remain several degrees warmer than the countryside that surrounds them.",
+  "options": [
+   "phenomena",
+   "phenomenon",
+   "hypothesis",
+   "consensus"
+  ],
+  "answer": 1,
+  "explain_zh": "phenomenon 是單數「現象」，前面有 a 就只能用單數形。雅思閱讀的自然科學與社會科學文章常用 a common phenomenon 來介紹要討論的現象。phenomena 是複數與 a 衝突；hypothesis 是待驗證的假設、consensus 是共識，都不是「現象」。",
+  "vocab": [
+   {
+    "w": "phenomenon",
+    "zh": "現象",
+    "pos": "n."
+   },
+   {
+    "w": "surround",
+    "zh": "圍繞",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0009",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The research team set out to test the ____ that students who sleep for eight hours perform better in timed academic writing tasks.",
+  "options": [
+   "analysis",
+   "emphasis",
+   "synthesis",
+   "hypothesis"
+  ],
+  "answer": 3,
+  "explain_zh": "hypothesis 是「假設」，也就是研究開始前提出、還要靠實驗驗證的說法，test/support/reject a hypothesis 都是閱讀常見搭配。analysis 是分析、emphasis 是強調、synthesis 是綜合，雖然字尾都是 -sis，卻都不能被 test。",
+  "vocab": [
+   {
+    "w": "hypothesis",
+    "zh": "假設",
+    "pos": "n."
+   },
+   {
+    "w": "perform",
+    "zh": "表現",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0010",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The report proposes a legal ____ within which private companies can operate renewable energy plants without excessive interference from the state.",
+  "options": [
+   "frame",
+   "network",
+   "framework",
+   "groundwork"
+  ],
+  "answer": 2,
+  "explain_zh": "framework 指抽象的「架構、框架」，a legal/theoretical/policy framework 是學術寫作固定用法，Task 2 談制度設計時很好用。frame 多半是具體的框子、network 是網絡、groundwork 是前置準備工作，都不能說 a legal ___。",
+  "vocab": [
+   {
+    "w": "framework",
+    "zh": "架構",
+    "pos": "n."
+   },
+   {
+    "w": "excessive",
+    "zh": "過度的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0011",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The difference between the two teaching groups was small but statistically ____ , which suggests that the new method really does have an effect.",
+  "options": [
+   "significant",
+   "considerable",
+   "noticeable",
+   "remarkable"
+  ],
+  "answer": 0,
+  "explain_zh": "statistically significant（統計上顯著）是固定術語，雅思閱讀的研究類文章幾乎一定會出現。considerable、noticeable、remarkable 雖然都有「明顯的」意思，卻不能和 statistically 搭配，而且題目已說 small，用「相當大的」也自相矛盾。",
+  "vocab": [
+   {
+    "w": "significant",
+    "zh": "顯著的",
+    "pos": "adj."
+   },
+   {
+    "w": "statistically",
+    "zh": "在統計上",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0012",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The two universities plan to ____ a joint research centre that will focus on air quality in the fast-growing cities of Southeast Asia.",
+  "options": [
+   "establish",
+   "estimate",
+   "stabilise",
+   "distinguish"
+  ],
+  "answer": 0,
+  "explain_zh": "establish 是「設立、建立（機構、制度、關係）」，也常用在 establish a link between A and B。Task 2 談機構或制度時很好用。estimate 是估計數字、stabilise 是使穩定、distinguish 是分辨，都不能接 a research centre。",
+  "vocab": [
+   {
+    "w": "establish",
+    "zh": "設立",
+    "pos": "v."
+   },
+   {
+    "w": "joint",
+    "zh": "聯合的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0013",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Regular exercise, a balanced diet and adequate sleep all ____ to a much lower risk of heart disease in later life.",
+  "options": [
+   "attribute",
+   "distribute",
+   "contribute",
+   "tribute"
+  ],
+  "answer": 2,
+  "explain_zh": "contribute to 是「有助於、造成」，Task 2 論述因果時比 cause 更謹慎，也更像學術語氣。attribute 要寫 attribute A to B（把 A 歸因於 B），主詞用法不同；distribute 是分發；tribute 是名詞（致敬），詞性就錯了。",
+  "vocab": [
+   {
+    "w": "contribute",
+    "zh": "有助於",
+    "pos": "v."
+   },
+   {
+    "w": "adequate",
+    "zh": "足夠的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0014",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The school has adopted a very different ____ to language teaching, one that places speaking practice well before formal grammar drills.",
+  "options": [
+   "access",
+   "aspect",
+   "approach",
+   "attempt"
+  ],
+  "answer": 2,
+  "explain_zh": "approach 當名詞是「做法、方式」，固定搭配是 an approach to (doing) something，Task 2 比較兩種做法時非常實用。access to 是「取得管道」、aspect 是面向、attempt 是嘗試一次，語意都不是「處理事情的方式」。",
+  "vocab": [
+   {
+    "w": "approach",
+    "zh": "做法、方式",
+    "pos": "n."
+   },
+   {
+    "w": "adopt",
+    "zh": "採用",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0015",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Cost is only one ____ influencing whether families decide to send their children to private schools rather than to the local state system.",
+  "options": [
+   "effect",
+   "factor",
+   "fact",
+   "feature"
+  ],
+  "answer": 1,
+  "explain_zh": "factor 是「因素」，指會影響結果的變數，key/major/decisive factor 都是雅思寫作常見組合。effect 是造成的結果而不是原因、fact 是事實、feature 是特徵，都不能說 one ___ influencing something。",
+  "vocab": [
+   {
+    "w": "factor",
+    "zh": "因素",
+    "pos": "n."
+   },
+   {
+    "w": "influence",
+    "zh": "影響",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0016",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Economists doubt whether such rapid growth can be ____ once the government withdraws the subsidies that currently support the industry.",
+  "options": [
+   "restrained",
+   "contained",
+   "constrained",
+   "sustained"
+  ],
+  "answer": 3,
+  "explain_zh": "sustain 是「維持（成長、水準、生命）」，被動的 be sustained 在討論經濟或環境時很常見，名詞 sustainability 更是雅思核心主題字。restrain 是克制、contain 是抑制或包含、constrain 是限制，意思正好相反。",
+  "vocab": [
+   {
+    "w": "sustain",
+    "zh": "維持",
+    "pos": "v."
+   },
+   {
+    "w": "subsidy",
+    "zh": "補助金",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0017",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Many rural clinics still lack ____ equipment, and patients with serious conditions must travel for several hours to reach a city hospital.",
+  "options": [
+   "adequately",
+   "accurately",
+   "adaptable",
+   "adequate"
+  ],
+  "answer": 3,
+  "explain_zh": "adequate 是形容詞「足夠的」，放在名詞 equipment 前面；Task 2 談資源不足時常寫 lack adequate funding/training/facilities。adequately 與 accurately 是副詞不能修飾名詞，adaptable 是「適應力強的」，語意不合。",
+  "vocab": [
+   {
+    "w": "adequate",
+    "zh": "足夠的",
+    "pos": "adj."
+   },
+   {
+    "w": "rural",
+    "zh": "鄉村的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0018",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The chart below ____ the main stages in the production of cement, from the raw material to the packaging of the finished product.",
+  "options": [
+   "illustrates",
+   "illuminates",
+   "eliminates",
+   "alleviates"
+  ],
+  "answer": 0,
+  "explain_zh": "illustrate 是「（圖表）顯示、說明」，Task 1 開頭改寫題目時最常用 The chart illustrates/shows/depicts。illuminate 是照亮、eliminate 是消除、alleviate 是減輕，雖然都是學術字，卻不能用來描述圖表內容。",
+  "vocab": [
+   {
+    "w": "illustrate",
+    "zh": "圖示、說明",
+    "pos": "v."
+   },
+   {
+    "w": "raw material",
+    "zh": "原料",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0019",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Although the data came from four separate surveys carried out in different years, the results were remarkably ____ , which strengthens the conclusion.",
+  "options": [
+   "persistent",
+   "insistent",
+   "resistant",
+   "consistent"
+  ],
+  "answer": 3,
+  "explain_zh": "consistent 是「一致的、前後吻合的」，講不同研究結果互相吻合就用 be consistent with，也可以用來稱讚作文結構前後一致。persistent 是持續不斷的、insistent 是堅持要求的、resistant 是有抵抗力的，都不是「彼此一致」。",
+  "vocab": [
+   {
+    "w": "consistent",
+    "zh": "一致的",
+    "pos": "adj."
+   },
+   {
+    "w": "strengthen",
+    "zh": "強化",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0020",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "A clear pattern began to ____ only after the researchers compared literacy rates in the coastal provinces with those recorded inland.",
+  "options": [
+   "emerge",
+   "merge",
+   "submerge",
+   "urge"
+  ],
+  "answer": 0,
+  "explain_zh": "emerge 是「浮現、顯現出來」，閱讀文章描述資料分析結果時常說 a pattern/trend emerges。merge 是合併、submerge 是沉入水中、urge 是敦促，都不能用來說「規律慢慢出現」。",
+  "vocab": [
+   {
+    "w": "emerge",
+    "zh": "浮現",
+    "pos": "v."
+   },
+   {
+    "w": "literacy",
+    "zh": "識字能力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0021",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Students who have no ____ knowledge of statistics may find the second half of this course extremely demanding, especially the final assessment.",
+  "options": [
+   "previously",
+   "primary",
+   "prior",
+   "preferable"
+  ],
+  "answer": 2,
+  "explain_zh": "prior 是形容詞「事先的、先前的」，prior knowledge/experience 是課程說明和學術文章的固定用法，也可以寫 prior to（在……之前）。previously 是副詞不能修飾名詞，primary 是主要的，preferable 是較可取的，語意都不對。",
+  "vocab": [
+   {
+    "w": "prior",
+    "zh": "先前的",
+    "pos": "adj."
+   },
+   {
+    "w": "demanding",
+    "zh": "吃力的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0022",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The committee has called for a ____ review of the whole examination system rather than a series of small and unconnected adjustments.",
+  "options": [
+   "comprehensible",
+   "comprehending",
+   "comprehensive",
+   "comprised"
+  ],
+  "answer": 2,
+  "explain_zh": "comprehensive 是「全面的、涵蓋一切的」，a comprehensive review/study/plan 在雅思寫作談政策檢討時很好用。comprehensible 是「能被理解的」、comprehending 是現在分詞、comprised 要接 of，三者都不能表示「全面」。",
+  "vocab": [
+   {
+    "w": "comprehensive",
+    "zh": "全面的",
+    "pos": "adj."
+   },
+   {
+    "w": "adjustment",
+    "zh": "調整",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0023",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The instructions were not ____ enough, so almost half of the candidates described the wrong chart in Task 1 of the writing paper.",
+  "options": [
+   "implicit",
+   "explicable",
+   "expressive",
+   "explicit"
+  ],
+  "answer": 3,
+  "explain_zh": "explicit 是「明確說出來的」，學術寫作常說 make the criteria explicit（把標準說清楚）。implicit 意思相反，是「沒有明講的」；explicable 是可解釋的；expressive 是富有表情的，放進句子都講不通。",
+  "vocab": [
+   {
+    "w": "explicit",
+    "zh": "明確的",
+    "pos": "adj."
+   },
+   {
+    "w": "candidate",
+    "zh": "考生",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0024",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Researchers must ____ written consent from every participant before any personal data can be collected, stored or analysed for the project.",
+  "options": [
+   "attain",
+   "retain",
+   "obtain",
+   "detain"
+  ],
+  "answer": 2,
+  "explain_zh": "obtain 是「取得（文件、許可、資料）」，obtain permission/consent/data 是研究類文章的固定搭配。attain 是達到目標或水準、retain 是保留已有的東西、detain 是拘留，都不能用來說「向別人取得同意書」。",
+  "vocab": [
+   {
+    "w": "obtain",
+    "zh": "取得",
+    "pos": "v."
+   },
+   {
+    "w": "consent",
+    "zh": "同意",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0025",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The old power station will ____ a two-year conversion before it reopens as a public gallery and a space for community events.",
+  "options": [
+   "undergo",
+   "undertake",
+   "overcome",
+   "overlook"
+  ],
+  "answer": 0,
+  "explain_zh": "undergo 是「（被動地）經歷、接受（改造、手術、測試）」，主詞通常是被處理的那一方，例如 undergo repairs/treatment/change。undertake 是主動去執行工作，發電廠不會自己動工；overcome 是克服、overlook 是忽略，語意都不合。",
+  "vocab": [
+   {
+    "w": "undergo",
+    "zh": "經歷、接受",
+    "pos": "v."
+   },
+   {
+    "w": "conversion",
+    "zh": "改建",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0026",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The proposal to charge drivers for entering the city centre remains highly ____ , with business owners and environmental groups taking opposite positions.",
+  "options": [
+   "controversy",
+   "convertible",
+   "conventional",
+   "controversial"
+  ],
+  "answer": 3,
+  "explain_zh": "controversial 是形容詞「引發爭議的」，Task 2 開頭常寫 This is a highly controversial issue。controversy 是名詞不能放在 highly 後面當主詞補語；convertible 是可轉換的；conventional 是傳統的，都不能表示「有爭議」。",
+  "vocab": [
+   {
+    "w": "controversial",
+    "zh": "有爭議的",
+    "pos": "adj."
+   },
+   {
+    "w": "proposal",
+    "zh": "提案",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0027",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The ____ cause of the shortage is not a lack of land for building but the speed at which property prices have risen since 2010.",
+  "options": [
+   "underlined",
+   "underlying",
+   "undermined",
+   "underestimated"
+  ],
+  "answer": 1,
+  "explain_zh": "underlying 是「潛在的、根本的」，the underlying cause/reason/assumption 在論說文裡用來區分表面現象和真正原因。underlined 是畫底線的、undermined 是被削弱的、underestimated 是被低估的，都不能表示「根本的」。",
+  "vocab": [
+   {
+    "w": "underlying",
+    "zh": "根本的",
+    "pos": "adj."
+   },
+   {
+    "w": "shortage",
+    "zh": "短缺",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0028",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Some degree of disagreement is ____ when a committee brings together specialists from academic backgrounds as different as law, biology and economics.",
+  "options": [
+   "invaluable",
+   "invisible",
+   "inevitable",
+   "inevitably"
+  ],
+  "answer": 2,
+  "explain_zh": "inevitable 是形容詞「無可避免的」，It is inevitable that... 在 Task 2 談科技或都市化的必然結果時很常用。invaluable 是「極寶貴的」、invisible 是看不見的，語意不合；inevitably 是副詞不能當 be 動詞的補語。",
+  "vocab": [
+   {
+    "w": "inevitable",
+    "zh": "無可避免的",
+    "pos": "adj."
+   },
+   {
+    "w": "specialist",
+    "zh": "專家",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0029",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Plastic waste continues to ____ on the seabed, where the low temperature slows down the process of decomposition almost completely.",
+  "options": [
+   "circulate",
+   "accumulate",
+   "calculate",
+   "speculate"
+  ],
+  "answer": 1,
+  "explain_zh": "accumulate 是「逐漸累積」，環境主題的閱讀與寫作常說 waste/debt/evidence accumulates。circulate 是循環流動、calculate 是計算、speculate 是臆測，都不能描述垃圾一層層堆積。",
+  "vocab": [
+   {
+    "w": "accumulate",
+    "zh": "累積",
+    "pos": "v."
+   },
+   {
+    "w": "decomposition",
+    "zh": "分解",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0030",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:awl-core",
+  "tag_zh": "學術字表核心字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The workforce in the care sector is still ____ female, although the proportion of male employees has risen slightly since the year 2010.",
+  "options": [
+   "predominantly",
+   "predominant",
+   "dominant",
+   "prominently"
+  ],
+  "answer": 0,
+  "explain_zh": "predominantly 是副詞「絕大多數是、主要是」，描述人口或勞動力組成時很常用，例如 a predominantly rural population。predominant 與 dominant 是形容詞不能修飾 female 這個補語結構；prominently 是「顯眼地」，語意不對。",
+  "vocab": [
+   {
+    "w": "predominantly",
+    "zh": "絕大多數",
+    "pos": "adv."
+   },
+   {
+    "w": "proportion",
+    "zh": "比例",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0031",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Between 2005 and 2015 the number of international students at the university ____ from just under four hundred to more than three thousand.",
+  "options": [
+   "slid",
+   "soared",
+   "dipped",
+   "eased"
+  ],
+  "answer": 1,
+  "explain_zh": "soar 是「急速攀升」，Task 1 描述折線圖或長條圖出現大幅上升時最常用，語氣比 increase 生動得多。slid、dipped、eased 全部都是下降或趨緩的意思，和題目中從 400 漲到 3,000 的數字完全矛盾。",
+  "vocab": [
+   {
+    "w": "soar",
+    "zh": "飆升",
+    "pos": "v."
+   },
+   {
+    "w": "international",
+    "zh": "國際的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0032",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "After the new tax was introduced, sales of large petrol cars ____ , falling by almost two thirds within a single financial year.",
+  "options": [
+   "climbed",
+   "hovered",
+   "levelled",
+   "plummeted"
+  ],
+  "answer": 3,
+  "explain_zh": "plummet 是「暴跌」，Task 1 看到線條幾乎垂直往下掉時就用它，常搭配 sharply、dramatically。climb 是上升、hover 是在某個數值附近徘徊、level 要接 off 才是持平，都無法表達「掉了三分之二」。",
+  "vocab": [
+   {
+    "w": "plummet",
+    "zh": "暴跌",
+    "pos": "v."
+   },
+   {
+    "w": "introduce",
+    "zh": "推行",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0033",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Rainfall in the region did not follow any clear trend; instead it ____ sharply from one year to the next throughout the whole period.",
+  "options": [
+   "plateaued",
+   "accelerated",
+   "accumulated",
+   "fluctuated"
+  ],
+  "answer": 3,
+  "explain_zh": "fluctuate 是「上下起伏、忽高忽低」，Task 1 遇到鋸齒狀的線條就寫 fluctuated wildly/sharply，是拿高分很好用的字。plateau 是持平不動、accelerate 是加速、accumulate 是累積，都不能描述忽上忽下。",
+  "vocab": [
+   {
+    "w": "fluctuate",
+    "zh": "波動",
+    "pos": "v."
+   },
+   {
+    "w": "trend",
+    "zh": "趨勢",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0034",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Car ownership rose quickly during the 1990s but began to ____ after 2005, remaining at about five hundred vehicles per thousand people.",
+  "options": [
+   "level off",
+   "take off",
+   "set off",
+   "cut off"
+  ],
+  "answer": 0,
+  "explain_zh": "level off 是「趨於平緩、持平」，Task 1 描述線條先漲後變水平時的標準說法，也可以用 plateau 或 stabilise。take off 是起飛、暴增，set off 是出發，cut off 是切斷，和後半句「維持在 500 左右」互相矛盾。",
+  "vocab": [
+   {
+    "w": "level off",
+    "zh": "趨於持平",
+    "pos": "phr. v."
+   },
+   {
+    "w": "ownership",
+    "zh": "擁有率",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0035",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Visitor numbers ____ at 2.4 million in 2018 before falling back to roughly the level that had been recorded at the start of the period.",
+  "options": [
+   "bottomed",
+   "summited",
+   "maximised",
+   "peaked"
+  ],
+  "answer": 3,
+  "explain_zh": "peak 當動詞是「達到最高點」，固定用法是 peak at + 數字，Task 1 指出最高點時一定用得到。bottom 要接 out 且意思是觸底、summit 不用來描述數據、maximise 是「使最大化」屬於人為動作，都不適合。",
+  "vocab": [
+   {
+    "w": "peak",
+    "zh": "達到高峰",
+    "pos": "v."
+   },
+   {
+    "w": "visitor",
+    "zh": "遊客",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0036",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "The difference between the two age groups was ____ , amounting to less than one percentage point across the entire national survey.",
+  "options": [
+   "massive",
+   "moderate",
+   "marked",
+   "marginal"
+  ],
+  "answer": 3,
+  "explain_zh": "marginal 是「微乎其微的」，Task 1 遇到幾乎看不出來的差距就寫 a marginal difference/increase。massive 是巨大的、moderate 是中等的、marked 是「明顯的」，三者都和「不到一個百分點」衝突。",
+  "vocab": [
+   {
+    "w": "marginal",
+    "zh": "微小的",
+    "pos": "adj."
+   },
+   {
+    "w": "percentage point",
+    "zh": "百分點",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0037",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "There was a ____ increase in electricity generated from wind, which rose from twelve to thirty-eight terawatt hours over the decade.",
+  "options": [
+   "substantial",
+   "slight",
+   "subtle",
+   "superficial"
+  ],
+  "answer": 0,
+  "explain_zh": "substantial 是「大幅的、可觀的」，a substantial increase/rise 是 Task 1 形容大幅變化的安全牌。slight 是輕微的、subtle 是細微難察覺的、superficial 是表面的，都無法形容三倍以上的成長。",
+  "vocab": [
+   {
+    "w": "substantial",
+    "zh": "大幅的",
+    "pos": "adj."
+   },
+   {
+    "w": "generate",
+    "zh": "產生",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0038",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Between 1990 and 2020 the proportion of households with internet access showed a ____ rise of roughly two percentage points every year.",
+  "options": [
+   "steep",
+   "erratic",
+   "steady",
+   "abrupt"
+  ],
+  "answer": 2,
+  "explain_zh": "steady 是「穩定的、平穩的」，Task 1 看到斜率固定、沒有大起大落的線就寫 a steady rise/decline。steep 是陡峭的、erratic 是毫無規律的、abrupt 是突然的，都和「每年約兩個百分點」的規律成長不符。",
+  "vocab": [
+   {
+    "w": "steady",
+    "zh": "平穩的",
+    "pos": "adj."
+   },
+   {
+    "w": "household",
+    "zh": "家戶",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0039",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "In contrast to the sudden jump recorded in 2010, the recovery that followed was ____ , taking almost eight years to reach the earlier figure.",
+  "options": [
+   "instant",
+   "drastic",
+   "gradual",
+   "momentary"
+  ],
+  "answer": 2,
+  "explain_zh": "gradual 是「逐步的、緩慢的」，和前面的 sudden jump 形成對比，Task 1 常寫 a gradual decline 或 gradually。instant 是立即的、drastic 是劇烈的、momentary 是短暫的，都和「花了八年」的敘述互相抵觸。",
+  "vocab": [
+   {
+    "w": "gradual",
+    "zh": "逐步的",
+    "pos": "adj."
+   },
+   {
+    "w": "recovery",
+    "zh": "回升",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0040",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "The chart shows a ____ drop in newspaper circulation after 2008, when a large number of readers moved to free online news services.",
+  "options": [
+   "shallow",
+   "flat",
+   "mild",
+   "sharp"
+  ],
+  "answer": 3,
+  "explain_zh": "sharp 是「急遽的」，a sharp drop/fall/rise 是 Task 1 最常用的搭配之一，也可以換成 dramatic、steep。shallow 通常形容深度、flat 是持平、mild 是溫和的，都不能形容急速下滑。",
+  "vocab": [
+   {
+    "w": "sharp",
+    "zh": "急遽的",
+    "pos": "adj."
+   },
+   {
+    "w": "circulation",
+    "zh": "發行量",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0041",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Unemployment ____ stable at about five percent for most of the period before rising suddenly in the final year covered by the graph.",
+  "options": [
+   "remained",
+   "maintained",
+   "preserved",
+   "insisted"
+  ],
+  "answer": 0,
+  "explain_zh": "remain 是連綴動詞，後面直接接形容詞，remain stable/steady/unchanged 是 Task 1 描述持平的標準句型。maintain 與 preserve 都是及物動詞，後面要接受詞不能接形容詞；insist 更是語意不合。",
+  "vocab": [
+   {
+    "w": "remain",
+    "zh": "維持（某狀態）",
+    "pos": "v."
+   },
+   {
+    "w": "unemployment",
+    "zh": "失業率",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0042",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Coal still ____ for nearly half of the country's electricity supply, despite heavy investment in both solar and wind power since 2015.",
+  "options": [
+   "counts",
+   "amounts",
+   "constitutes",
+   "accounts"
+  ],
+  "answer": 3,
+  "explain_zh": "account for 是「佔（比例）」，Task 1 描述圓餅圖比例時最實用的片語，例如 X accounts for 40% of the total。count 與 amount 都不能接 for 表示比例（amount to 才是「總計」），constitute 後面不加 for。",
+  "vocab": [
+   {
+    "w": "account for",
+    "zh": "佔（比例）",
+    "pos": "phr. v."
+   },
+   {
+    "w": "supply",
+    "zh": "供應",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0043",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Spending on health and on education rose to eighteen and twelve percent of the national budget ____ , while defence spending fell slightly.",
+  "options": [
+   "respectfully",
+   "respectively",
+   "relatively",
+   "accordingly"
+  ],
+  "answer": 1,
+  "explain_zh": "respectively 是「分別地」，Task 1 一句話交代兩組數字時用它可以省下很多字，例如 A and B rose to 18% and 12% respectively。respectfully 是「恭敬地」、relatively 是相對地、accordingly 是因此，都不能表示一一對應。",
+  "vocab": [
+   {
+    "w": "respectively",
+    "zh": "分別地",
+    "pos": "adv."
+   },
+   {
+    "w": "budget",
+    "zh": "預算",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0044",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Online sales are expected to ____ high-street sales by 2030, reversing a pattern that has lasted for more than a hundred years.",
+  "options": [
+   "overlook",
+   "overturn",
+   "overcome",
+   "overtake"
+  ],
+  "answer": 3,
+  "explain_zh": "overtake 是「超越、趕過」，Task 1 描述兩條線交叉、後來者居上時一定用得到，例如 Japan overtook Germany in 2012。overlook 是忽略、overturn 是推翻決定、overcome 是克服困難，都不能用來比較兩組數據的高低。",
+  "vocab": [
+   {
+    "w": "overtake",
+    "zh": "超越",
+    "pos": "v."
+   },
+   {
+    "w": "reverse",
+    "zh": "逆轉",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0045",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "The number of cars registered on the island ____ between 2000 and 2020, rising from roughly thirty thousand to just over sixty thousand.",
+  "options": [
+   "halved",
+   "doubled",
+   "stagnated",
+   "deteriorated"
+  ],
+  "answer": 1,
+  "explain_zh": "double 當動詞是「變成兩倍」，Task 1 遇到數字剛好翻倍時用它最精準，也可以寫 tripled、quadrupled。halve 是減半、stagnate 是停滯不前、deteriorate 是惡化，都和 30,000 漲到 60,000 相反。",
+  "vocab": [
+   {
+    "w": "double",
+    "zh": "加倍",
+    "pos": "v."
+   },
+   {
+    "w": "register",
+    "zh": "登記",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0046",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "Sales reached a ____ of just twelve hundred units in 2013 before recovering steadily over the five years that followed.",
+  "options": [
+   "peak",
+   "trough",
+   "plateau",
+   "surge"
+  ],
+  "answer": 1,
+  "explain_zh": "trough 是「谷底、最低點」，和 peak 正好是一對，Task 1 指出線條最低處時可以寫 reach a trough of。peak 是最高點、plateau 是平原期、surge 是暴增，三個都和「之後才慢慢回升」的最低點語意衝突。",
+  "vocab": [
+   {
+    "w": "trough",
+    "zh": "谷底",
+    "pos": "n."
+   },
+   {
+    "w": "steadily",
+    "zh": "穩定地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0047",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "A sudden ____ in demand for bicycles during 2020 left many shops unable to keep up with the orders they received from customers.",
+  "options": [
+   "surge",
+   "slump",
+   "dip",
+   "lag"
+  ],
+  "answer": 0,
+  "explain_zh": "surge 當名詞是「激增」，a surge in demand/numbers 在 Task 1 與 Task 2 都很常見。slump 是衰退、dip 是小幅下滑、lag 是落後，都無法解釋為什麼店家會來不及供貨。",
+  "vocab": [
+   {
+    "w": "surge",
+    "zh": "激增",
+    "pos": "n."
+   },
+   {
+    "w": "demand",
+    "zh": "需求",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0048",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "The tourism industry on the island experienced a severe ____ in 2009, from which it took almost a decade to recover completely.",
+  "options": [
+   "boom",
+   "spike",
+   "leap",
+   "slump"
+  ],
+  "answer": 3,
+  "explain_zh": "slump 是「（景氣或數字）大幅下滑」，常搭配 severe、sharp，之後多半接 recover。boom 是繁榮、spike 是突然的尖峰、leap 是躍升，三者都是往上走，和「花了十年才恢復」矛盾。",
+  "vocab": [
+   {
+    "w": "slump",
+    "zh": "大幅下滑",
+    "pos": "n."
+   },
+   {
+    "w": "decade",
+    "zh": "十年",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0049",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "The change in the birth rate over these five years was ____ , which is why the line on the graph appears to be almost completely flat.",
+  "options": [
+   "neglected",
+   "considerable",
+   "negligible",
+   "noticeable"
+  ],
+  "answer": 2,
+  "explain_zh": "negligible 是「小到可以忽略不計的」，Task 1 遇到幾乎沒有變化的線條時，寫 the change was negligible 比 very small 更學術。neglected 是被忽視的（指人或事物被冷落）、considerable 與 noticeable 都表示變化明顯，和「幾乎持平」相反。",
+  "vocab": [
+   {
+    "w": "negligible",
+    "zh": "微不足道的",
+    "pos": "adj."
+   },
+   {
+    "w": "birth rate",
+    "zh": "出生率",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0050",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:data-trend",
+  "tag_zh": "描述數據與趨勢",
+  "passage": null,
+  "group_id": null,
+  "stem": "By the final year of the survey, imports ____ exports for the first time, creating a trade deficit of almost eight billion dollars.",
+  "options": [
+   "excelled",
+   "extended",
+   "exceeded",
+   "expanded"
+  ],
+  "answer": 2,
+  "explain_zh": "exceed 是「超過（某數量）」，Task 1 比較兩組數字時很常用，例如 The figure exceeded 50% in 2018。excel 是表現優異（要接 at/in）、extend 是延長、expand 是擴張，都不能直接接受詞表示「數量上多於」。",
+  "vocab": [
+   {
+    "w": "exceed",
+    "zh": "超過",
+    "pos": "v."
+   },
+   {
+    "w": "deficit",
+    "zh": "赤字",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0051",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The author ____ that standardised testing narrows the curriculum, but she offers surprisingly little evidence to support such a strong claim.",
+  "options": [
+   "assures",
+   "ascertains",
+   "asserts",
+   "assembles"
+  ],
+  "answer": 2,
+  "explain_zh": "assert 是「斷言、強硬主張」，閱讀的 True/False/Not Given 題常靠這個字判斷作者語氣有多肯定。assure 是向某人保證（後面要接人）、ascertain 是查明確認、assemble 是組裝集合，都不能接 that 子句表達主張。",
+  "vocab": [
+   {
+    "w": "assert",
+    "zh": "斷言",
+    "pos": "v."
+   },
+   {
+    "w": "curriculum",
+    "zh": "課程內容",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0052",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Supporters of the scheme ____ that congestion charges reduce traffic in the centre, while opponents point to the extra cost for low-income drivers.",
+  "options": [
+   "contend",
+   "concede",
+   "comply",
+   "confide"
+  ],
+  "answer": 0,
+  "explain_zh": "contend 是「主張、論稱」，語氣比 say 正式，Task 2 引述雙方立場時可以寫 Supporters contend that...。concede 是「勉強承認對方說得對」，支持者不會用來講自己的論點；comply 要接 with；confide 是吐露祕密。",
+  "vocab": [
+   {
+    "w": "contend",
+    "zh": "主張",
+    "pos": "v."
+   },
+   {
+    "w": "opponent",
+    "zh": "反對者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0053",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "No single study can completely ____ a theory that has been supported by decades of careful observation in more than a dozen countries.",
+  "options": [
+   "refuse",
+   "renounce",
+   "revoke",
+   "refute"
+  ],
+  "answer": 3,
+  "explain_zh": "refute 是「駁倒、舉證推翻」，論說文寫「反駁對方論點」時用 refute an argument/claim 最精準。refuse 是拒絕（拒絕做某事），是台灣學生最常誤用的字；renounce 是宣布放棄、revoke 是撤銷許可，都不能用來推翻理論。",
+  "vocab": [
+   {
+    "w": "refute",
+    "zh": "駁斥",
+    "pos": "v."
+   },
+   {
+    "w": "observation",
+    "zh": "觀察",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0054",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "A single careless error in the data can seriously ____ the credibility of an otherwise carefully conducted piece of research.",
+  "options": [
+   "underline",
+   "undergo",
+   "undermine",
+   "underestimate"
+  ],
+  "answer": 2,
+  "explain_zh": "undermine 是「削弱、動搖（信心、論點、地位）」，Task 2 反駁對方時很好用，例如 This evidence undermines the argument that...。underline 是強調、undergo 是經歷、underestimate 是低估，語意都不是「削弱」。",
+  "vocab": [
+   {
+    "w": "undermine",
+    "zh": "削弱",
+    "pos": "v."
+   },
+   {
+    "w": "credibility",
+    "zh": "可信度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0055",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Journalists are expected to ____ their claims with documents or named sources rather than relying on rumour and anonymous comments.",
+  "options": [
+   "substitute",
+   "subsidise",
+   "substantiate",
+   "sustain"
+  ],
+  "answer": 2,
+  "explain_zh": "substantiate 是「提出證據證實」，固定搭配 substantiate a claim with evidence，是學術寫作的高階字。substitute 是替換、subsidise 是補貼、sustain 是維持，都不能用來表示「拿證據支持說法」。",
+  "vocab": [
+   {
+    "w": "substantiate",
+    "zh": "證實",
+    "pos": "v."
+   },
+   {
+    "w": "rumour",
+    "zh": "謠言",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0056",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The evidence linking air pollution to childhood asthma is now so ____ that several European cities have banned older diesel vehicles.",
+  "options": [
+   "compelling",
+   "compulsory",
+   "compelled",
+   "competing"
+  ],
+  "answer": 0,
+  "explain_zh": "compelling 是「有說服力的、強而有力的」，compelling evidence/argument/reason 是論說文最漂亮的搭配之一。compulsory 是「強制的」（指規定）、compelled 是被迫的（用在人身上）、competing 是互相競爭的，語意都不對。",
+  "vocab": [
+   {
+    "w": "compelling",
+    "zh": "強而有力的",
+    "pos": "adj."
+   },
+   {
+    "w": "asthma",
+    "zh": "氣喘",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0057",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The explanation given in the article sounds ____ , but it has never actually been tested under properly controlled laboratory conditions.",
+  "options": [
+   "plentiful",
+   "plausible",
+   "permissible",
+   "praiseworthy"
+  ],
+  "answer": 1,
+  "explain_zh": "plausible 是「聽起來合理、貌似可信」，常帶一點「還沒被證實」的保留語氣，很適合 Task 2 討論對方論點。plentiful 是充足的、permissible 是被允許的、praiseworthy 是值得稱讚的，都不能形容一個解釋的可信度。",
+  "vocab": [
+   {
+    "w": "plausible",
+    "zh": "貌似可信的",
+    "pos": "adj."
+   },
+   {
+    "w": "laboratory",
+    "zh": "實驗室",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0058",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Even the strongest defenders of the policy must ____ that it has done very little to reduce waiting times in rural hospitals.",
+  "options": [
+   "conceal",
+   "consent",
+   "convince",
+   "concede"
+  ],
+  "answer": 3,
+  "explain_zh": "concede 是「（不情願地）承認對方有理」，Task 2 寫讓步段時很加分，例如 It must be conceded that...。conceal 是隱藏、consent 是同意去做某事（要接 to）、convince 要接人當受詞，都不能接 that 表示「承認缺點」。",
+  "vocab": [
+   {
+    "w": "concede",
+    "zh": "承認",
+    "pos": "v."
+   },
+   {
+    "w": "defender",
+    "zh": "擁護者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0059",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "A growing number of economists now ____ a four-day working week, arguing that shorter hours need not reduce a company's total output.",
+  "options": [
+   "allocate",
+   "advocate",
+   "alleviate",
+   "aggravate"
+  ],
+  "answer": 1,
+  "explain_zh": "advocate 是「公開主張、倡導」，後面可以直接接名詞或動名詞，Task 2 介紹某派立場時很好用。allocate 是分配、alleviate 是減輕、aggravate 是使惡化，都不能拿來表示「支持某項制度」。",
+  "vocab": [
+   {
+    "w": "advocate",
+    "zh": "倡導",
+    "pos": "v."
+   },
+   {
+    "w": "output",
+    "zh": "產出",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0060",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "It would be unwise to ____ these findings simply because the sample happened to be drawn from a single city.",
+  "options": [
+   "dismiss",
+   "disclose",
+   "display",
+   "discourage"
+  ],
+  "answer": 0,
+  "explain_zh": "dismiss 是「不予理會、否定掉」，dismiss an argument/idea as... 是論說文常見句型。disclose 是揭露資訊、display 是展示、discourage 是使人打消念頭，都不能表示「輕易否定一項研究結果」。",
+  "vocab": [
+   {
+    "w": "dismiss",
+    "zh": "否定、不予理會",
+    "pos": "v."
+   },
+   {
+    "w": "sample",
+    "zh": "樣本",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0061",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The writer does ____ the limitations of her method, but she still draws conclusions that the data cannot fully support.",
+  "options": [
+   "accuse",
+   "acknowledge",
+   "account",
+   "announce"
+  ],
+  "answer": 1,
+  "explain_zh": "acknowledge 是「承認（事實、限制、對方觀點）」，Task 2 讓步時寫 It is widely acknowledged that... 非常自然。accuse 要接人並搭配 of、account 要接 for、announce 是公開宣布，語氣與用法都不合。",
+  "vocab": [
+   {
+    "w": "acknowledge",
+    "zh": "承認",
+    "pos": "v."
+   },
+   {
+    "w": "limitation",
+    "zh": "限制",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0062",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The figures do not prove that the policy caused the change; at most they ____ a connection that is worth investigating further.",
+  "options": [
+   "infer",
+   "apply",
+   "employ",
+   "imply"
+  ],
+  "answer": 3,
+  "explain_zh": "imply 是「（話語或資料）暗示」，主詞是資料本身；infer 則是「（人）從資料推論出」，主詞必須是人，這組混淆是雅思寫作最常見的錯誤之一。apply 是應用、employ 是雇用或運用，語意都不合。",
+  "vocab": [
+   {
+    "w": "imply",
+    "zh": "暗示",
+    "pos": "v."
+   },
+   {
+    "w": "investigate",
+    "zh": "調查",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0063",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The total cost of the project is enormous, and the government has yet to ____ it to taxpayers in any convincing way.",
+  "options": [
+   "verify",
+   "testify",
+   "clarify",
+   "justify"
+  ],
+  "answer": 3,
+  "explain_zh": "justify 是「為……提出正當理由」，Task 2 寫 The policy can be justified on economic grounds 非常好用。verify 是查證真偽、testify 是出庭作證、clarify 是把話說清楚，都不是「說明某事為何正當」。",
+  "vocab": [
+   {
+    "w": "justify",
+    "zh": "證明其正當",
+    "pos": "v."
+   },
+   {
+    "w": "taxpayer",
+    "zh": "納稅人",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0064",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "An argument can be logically ____ and still reach a false conclusion if one of the assumptions it starts from is wrong.",
+  "options": [
+   "vague",
+   "vital",
+   "valid",
+   "verbal"
+  ],
+  "answer": 2,
+  "explain_zh": "valid 是「站得住腳的、有效的」，a valid argument/point/reason 是論說文常見搭配，反義是 invalid 或 flawed。vague 是模糊不清的、vital 是至關重要的、verbal 是口頭的，都不能形容推論是否成立。",
+  "vocab": [
+   {
+    "w": "valid",
+    "zh": "站得住腳的",
+    "pos": "adj."
+   },
+   {
+    "w": "assumption",
+    "zh": "假設",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0065",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The study turned out to be seriously ____ , because the researchers had quietly ignored every single case that did not fit their original prediction.",
+  "options": [
+   "flawless",
+   "flattering",
+   "flawed",
+   "flexible"
+  ],
+  "answer": 2,
+  "explain_zh": "flawed 是「有缺陷的」，a seriously flawed study/argument 是批評研究或論點時的固定說法。flawless 意思完全相反（完美無瑕）、flattering 是討人喜歡的、flexible 是有彈性的，都和「刻意忽略不利資料」的語境衝突。",
+  "vocab": [
+   {
+    "w": "flawed",
+    "zh": "有缺陷的",
+    "pos": "adj."
+   },
+   {
+    "w": "prediction",
+    "zh": "預測",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0066",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The whole argument rests on the ____ that people always act in their own economic interest, which many psychologists now question.",
+  "options": [
+   "promise",
+   "premise",
+   "premium",
+   "presence"
+  ],
+  "answer": 1,
+  "explain_zh": "premise 是「前提」，也就是論證開始前先假定成立的東西，on the premise that... 是學術用語。promise 是承諾，和 premise 只差一個字母卻意思完全不同，是常見拼字陷阱；premium 是保費或額外費用、presence 是存在。",
+  "vocab": [
+   {
+    "w": "premise",
+    "zh": "前提",
+    "pos": "n."
+   },
+   {
+    "w": "psychologist",
+    "zh": "心理學家",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0067",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Critics argue that the report tends to ____ the benefits of the scheme while saying almost nothing about its long-term costs.",
+  "options": [
+   "overstate",
+   "understate",
+   "overlook",
+   "overcome"
+  ],
+  "answer": 0,
+  "explain_zh": "overstate 是「誇大」，寫 The article overstates the risks 可以精準表達批評。understate 是「輕描淡寫」，和後半句「幾乎不談成本」的偏袒方向相反；overlook 是忽略（就不會講到 benefits 了）、overcome 是克服。",
+  "vocab": [
+   {
+    "w": "overstate",
+    "zh": "誇大",
+    "pos": "v."
+   },
+   {
+    "w": "long-term",
+    "zh": "長期的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0068",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "A strong essay does not ignore opposing views; it states them clearly and then ____ them with evidence drawn from reliable sources.",
+  "options": [
+   "encounters",
+   "counters",
+   "accounts",
+   "recounts"
+  ],
+  "answer": 1,
+  "explain_zh": "counter 當動詞是「反駁、回應對方論點」，Task 2 的讓步反駁段最需要這個字。encounter 是遇到、account 要接 for、recount 是敘述經過，字形相近但都不能表示「提出反證」。",
+  "vocab": [
+   {
+    "w": "counter",
+    "zh": "反駁",
+    "pos": "v."
+   },
+   {
+    "w": "opposing",
+    "zh": "相反的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0069",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Without a named author or any list of sources, the website is simply not a ____ source to cite in an academic essay.",
+  "options": [
+   "credulous",
+   "creditable",
+   "credible",
+   "incredible"
+  ],
+  "answer": 2,
+  "explain_zh": "credible 是「可信的」，形容資料來源或說法；academic writing 常說 a credible source。credulous 是「容易輕信別人的」，形容人不是形容來源；creditable 是值得讚許的；incredible 口語上多半是「棒極了」，語氣完全不對。",
+  "vocab": [
+   {
+    "w": "credible",
+    "zh": "可信的",
+    "pos": "adj."
+   },
+   {
+    "w": "cite",
+    "zh": "引用",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0070",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:argument",
+  "tag_zh": "論證用字",
+  "passage": null,
+  "group_id": null,
+  "stem": "A good report should remain ____ , presenting both sides fairly rather than selecting only the facts that happen to suit the writer.",
+  "options": [
+   "subjective",
+   "objectionable",
+   "objective",
+   "obligatory"
+  ],
+  "answer": 2,
+  "explain_zh": "objective 是「客觀的」，學術寫作要求 an objective analysis，Task 2 的 discuss both views 題型尤其需要這種語氣。subjective 意思相反是主觀的、objectionable 是令人反感的、obligatory 是義務性的，都不合語境。",
+  "vocab": [
+   {
+    "w": "objective",
+    "zh": "客觀的",
+    "pos": "adj."
+   },
+   {
+    "w": "fairly",
+    "zh": "公正地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0071",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The company's annual report devotes an entire chapter to ____ , explaining how it intends to reach net zero emissions before 2040.",
+  "options": [
+   "sustenance",
+   "sustainability",
+   "subsistence",
+   "sustainably"
+  ],
+  "answer": 1,
+  "explain_zh": "sustainability 是「永續性」，環境題組的核心名詞，Task 2 談企業或城市發展時常寫 environmental sustainability。sustenance 是食物營養、subsistence 是勉強糊口的生活、sustainably 是副詞，介系詞 to 後面要接名詞。",
+  "vocab": [
+   {
+    "w": "sustainability",
+    "zh": "永續性",
+    "pos": "n."
+   },
+   {
+    "w": "emission",
+    "zh": "排放",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0072",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Rapid ____ has left many Asian cities struggling to provide enough housing, schools and clean water for the new arrivals from the countryside.",
+  "options": [
+   "urbanisation",
+   "urbanity",
+   "urgency",
+   "urbanised"
+  ],
+  "answer": 0,
+  "explain_zh": "urbanisation 是「都市化」，指人口從鄉村移入城市的過程，是雅思城市與人口題組的必備名詞。urbanity 是指人「談吐優雅」、urgency 是緊迫性、urbanised 是形容詞，都不能當 rapid 後面的主詞名詞。",
+  "vocab": [
+   {
+    "w": "urbanisation",
+    "zh": "都市化",
+    "pos": "n."
+   },
+   {
+    "w": "countryside",
+    "zh": "鄉村",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0073",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ has made it possible for a company to design a product in Europe, manufacture it in Asia and sell it all over the world.",
+  "options": [
+   "Localisation",
+   "Colonisation",
+   "Generalisation",
+   "Globalisation"
+  ],
+  "answer": 3,
+  "explain_zh": "globalisation 是「全球化」，Task 2 談經濟、文化、語言議題時最常出現的主題字。localisation 是「在地化」方向相反、colonisation 是殖民、generalisation 是以偏概全的通則，都無法解釋跨國分工的現象。",
+  "vocab": [
+   {
+    "w": "globalisation",
+    "zh": "全球化",
+    "pos": "n."
+   },
+   {
+    "w": "manufacture",
+    "zh": "製造",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0074",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Even before the earthquake, the region's transport ____ was in poor condition, with many of its bridges more than fifty years old.",
+  "options": [
+   "infrastructure",
+   "instruction",
+   "construction",
+   "institution"
+  ],
+  "answer": 0,
+  "explain_zh": "infrastructure 是「基礎建設」，指道路、橋梁、電力、網路等公共系統，Task 2 談政府支出時幾乎必用。instruction 是指示、construction 是興建這個動作、institution 是機構或制度，都不能涵蓋整個交通系統。",
+  "vocab": [
+   {
+    "w": "infrastructure",
+    "zh": "基礎建設",
+    "pos": "n."
+   },
+   {
+    "w": "condition",
+    "zh": "狀況",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0075",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Several countries have now added basic coding to the primary school ____ , alongside traditional subjects such as mathematics and reading.",
+  "options": [
+   "curricula",
+   "certificate",
+   "curriculum",
+   "criterion"
+  ],
+  "answer": 2,
+  "explain_zh": "curriculum 是「課程內容、課綱」，前面有 the 且句中只講一套課程，要用單數；複數是 curricula。教育題組常寫 the national curriculum。certificate 是證書、criterion 是評斷標準，語意都不合。",
+  "vocab": [
+   {
+    "w": "curriculum",
+    "zh": "課綱",
+    "pos": "n."
+   },
+   {
+    "w": "alongside",
+    "zh": "與……並列",
+    "pos": "prep."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0076",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Cuts to the ____ system have been blamed for the sharp rise in the number of families who now rely on food banks.",
+  "options": [
+   "warfare",
+   "wellbeing",
+   "farewell",
+   "welfare"
+  ],
+  "answer": 3,
+  "explain_zh": "welfare 是「社會福利」，the welfare system/state 是討論貧富差距與政府責任時的核心字。warfare 是「戰爭行為」，只差一個字母卻完全不同，是常見誤用；wellbeing 是個人的身心安康、farewell 是道別。",
+  "vocab": [
+   {
+    "w": "welfare",
+    "zh": "社會福利",
+    "pos": "n."
+   },
+   {
+    "w": "rely on",
+    "zh": "依賴",
+    "pos": "phr. v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0077",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tax reductions give manufacturers a strong financial ____ to invest in cleaner technology instead of simply paying for pollution permits.",
+  "options": [
+   "intensive",
+   "incentive",
+   "initiative",
+   "intention"
+  ],
+  "answer": 1,
+  "explain_zh": "incentive 是「誘因、動機」，Task 2 談政策設計時常寫 provide an incentive for people to do something。intensive 是形容詞（密集的）、initiative 是主動推出的方案、intention 是個人意圖，都不能表示「讓人願意去做的外在誘因」。",
+  "vocab": [
+   {
+    "w": "incentive",
+    "zh": "誘因",
+    "pos": "n."
+   },
+   {
+    "w": "permit",
+    "zh": "許可證",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0078",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Without strict government ____ , companies have very little reason to test new chemicals thoroughly before releasing them onto the market.",
+  "options": [
+   "regulation",
+   "regularity",
+   "registration",
+   "reputation"
+  ],
+  "answer": 0,
+  "explain_zh": "regulation 是「法規、管制」，environment 與 technology 題組常寫 stricter regulation of social media。regularity 是「規律性」、registration 是登記註冊、reputation 是名聲，都不能表示政府的監管制度。",
+  "vocab": [
+   {
+    "w": "regulation",
+    "zh": "法規管制",
+    "pos": "n."
+   },
+   {
+    "w": "thoroughly",
+    "zh": "徹底地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0079",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Cities that invest heavily in cycle lanes and bus services usually suffer far less from traffic ____ than those that keep building roads.",
+  "options": [
+   "congestion",
+   "conjunction",
+   "concession",
+   "confusion"
+  ],
+  "answer": 0,
+  "explain_zh": "congestion 是「（交通）壅塞」，traffic congestion 與 congestion charge 都是雅思交通題組的固定用語。conjunction 是連接詞或結合、concession 是讓步或優惠、confusion 是困惑，都不能形容塞車。",
+  "vocab": [
+   {
+    "w": "congestion",
+    "zh": "壅塞",
+    "pos": "n."
+   },
+   {
+    "w": "cycle lane",
+    "zh": "自行車道",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0080",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The new standards will require every new vehicle to cut its carbon ____ by at least forty percent before the end of this decade.",
+  "options": [
+   "omissions",
+   "admissions",
+   "permissions",
+   "emissions"
+  ],
+  "answer": 3,
+  "explain_zh": "emissions 是「（廢氣）排放量」，carbon emissions、greenhouse gas emissions 是環境題組出現頻率最高的詞組。omission 是遺漏、admission 是入學許可或承認、permission 是許可，三個字尾相近卻完全不同。",
+  "vocab": [
+   {
+    "w": "emissions",
+    "zh": "排放量",
+    "pos": "n."
+   },
+   {
+    "w": "standard",
+    "zh": "標準",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0081",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Adult ____ programmes have helped thousands of people who left school early to read official letters and job advertisements on their own.",
+  "options": [
+   "literature",
+   "literacy",
+   "literary",
+   "literal"
+  ],
+  "answer": 1,
+  "explain_zh": "literacy 是「識字、讀寫能力」，教育與發展中國家題組常寫 the adult literacy rate；延伸還有 digital literacy。literature 是文學作品、literary 與 literal 是形容詞，都不能當 programmes 前面的名詞修飾語。",
+  "vocab": [
+   {
+    "w": "literacy",
+    "zh": "識字能力",
+    "pos": "n."
+   },
+   {
+    "w": "advertisement",
+    "zh": "廣告",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0082",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "An ageing population means that the ____ is shrinking, and fewer taxpayers must support a steadily growing number of pensioners.",
+  "options": [
+   "workload",
+   "workshop",
+   "workforce",
+   "workplace"
+  ],
+  "answer": 2,
+  "explain_zh": "workforce 是「勞動人口、全體員工」，人口與就業題組常寫 women in the workforce。workload 是工作量、workshop 是工作坊、workplace 是工作場所，都不能表示「全國有工作能力的人口」。",
+  "vocab": [
+   {
+    "w": "workforce",
+    "zh": "勞動人口",
+    "pos": "n."
+   },
+   {
+    "w": "pensioner",
+    "zh": "領退休金者",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0083",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Rising ____ fees have made many school leavers think twice about applying to university straight after they finish their secondary education.",
+  "options": [
+   "intuition",
+   "tutorial",
+   "taxation",
+   "tuition"
+  ],
+  "answer": 3,
+  "explain_zh": "tuition fees 是「學費」，教育題組討論大學該不該免費時一定會用到。intuition 是直覺、tutorial 是小班輔導課、taxation 是稅制，雖然字形或主題相近，卻都不能和 fees 組成「學費」。",
+  "vocab": [
+   {
+    "w": "tuition",
+    "zh": "學費",
+    "pos": "n."
+   },
+   {
+    "w": "secondary education",
+    "zh": "中等教育",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0084",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "People who ____ for more than an hour each day report lower levels of satisfaction with both their job and their family life.",
+  "options": [
+   "commute",
+   "compute",
+   "commit",
+   "commence"
+  ],
+  "answer": 0,
+  "explain_zh": "commute 是「通勤」，可以當動詞也可以當名詞（a long commute），是交通與工作題組的必備字。compute 是計算、commit 是犯罪或承諾、commence 是開始，都不能表示每天往返上班。",
+  "vocab": [
+   {
+    "w": "commute",
+    "zh": "通勤",
+    "pos": "v."
+   },
+   {
+    "w": "satisfaction",
+    "zh": "滿意度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0085",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Investment in ____ energy has grown so quickly that solar power is now cheaper than coal in most of the world's major markets.",
+  "options": [
+   "removable",
+   "renewable",
+   "renewed",
+   "reusable"
+  ],
+  "answer": 1,
+  "explain_zh": "renewable energy 是「可再生能源」，環境與科技題組的固定詞組，指太陽能、風能、水力等。removable 是可拆卸的、renewed 是重新開始的、reusable 是可重複使用的（多半形容容器或袋子），都不能形容能源類型。",
+  "vocab": [
+   {
+    "w": "renewable",
+    "zh": "可再生的",
+    "pos": "adj."
+   },
+   {
+    "w": "investment",
+    "zh": "投資",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0086",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Clearing forest for palm oil plantations causes a dramatic loss of ____ , since hundreds of species depend entirely on the original habitat.",
+  "options": [
+   "biography",
+   "biodiversity",
+   "biology",
+   "diversion"
+  ],
+  "answer": 1,
+  "explain_zh": "biodiversity 是「生物多樣性」，環境題組談棲地破壞時最核心的名詞，常搭配 loss of biodiversity。biography 是傳記、biology 是生物學這門學科、diversion 是改道或消遣，都不是「物種的多樣性」。",
+  "vocab": [
+   {
+    "w": "biodiversity",
+    "zh": "生物多樣性",
+    "pos": "n."
+   },
+   {
+    "w": "habitat",
+    "zh": "棲地",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0087",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ in the Amazon basin not only destroys habitats but also releases huge quantities of stored carbon back into the atmosphere.",
+  "options": [
+   "Reforestation",
+   "Deforestation",
+   "Deportation",
+   "Deterioration"
+  ],
+  "answer": 1,
+  "explain_zh": "deforestation 是「砍伐森林」，環境題組的高頻名詞，動詞形式是 clear/cut down forests。reforestation 是「重新造林」方向完全相反；deportation 是驅逐出境；deterioration 是惡化，語意太籠統也不會釋放林中碳。",
+  "vocab": [
+   {
+    "w": "deforestation",
+    "zh": "森林砍伐",
+    "pos": "n."
+   },
+   {
+    "w": "atmosphere",
+    "zh": "大氣層",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0088",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Campaigners warn that constant ____ in public spaces may help prevent crime but also threatens the privacy of ordinary citizens.",
+  "options": [
+   "supervision",
+   "surveillance",
+   "surveying",
+   "resilience"
+  ],
+  "answer": 1,
+  "explain_zh": "surveillance 是「監視、監控」，科技與犯罪題組常寫 CCTV surveillance、mass surveillance。supervision 是老師或主管對人的督導、surveying 是測量或問卷調查、resilience 是韌性，都不能指公共場所的攝影機監控。",
+  "vocab": [
+   {
+    "w": "surveillance",
+    "zh": "監控",
+    "pos": "n."
+   },
+   {
+    "w": "privacy",
+    "zh": "隱私",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0089",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Childhood ____ has become a serious public health issue in countries where cheap, high-sugar food is available on almost every street.",
+  "options": [
+   "obscurity",
+   "obedience",
+   "absence",
+   "obesity"
+  ],
+  "answer": 3,
+  "explain_zh": "obesity 是「肥胖（症）」，健康題組討論飲食與運動時的核心名詞，形容詞是 obese。obscurity 是默默無聞、obedience 是服從、absence 是缺席，都和公共衛生問題無關。",
+  "vocab": [
+   {
+    "w": "obesity",
+    "zh": "肥胖症",
+    "pos": "n."
+   },
+   {
+    "w": "public health",
+    "zh": "公共衛生",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0090",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Japan's rapidly ____ population has forced the government to rethink its pension system and to encourage more people to work after sixty.",
+  "options": [
+   "aged",
+   "agreeing",
+   "ancient",
+   "ageing"
+  ],
+  "answer": 3,
+  "explain_zh": "an ageing population 是「高齡化人口」，人口題組的固定說法，注意要用現在分詞表示「正在變老的過程」。aged 是「年齡為……的」用法不同、agreeing 是同意、ancient 是古代的，都不能形容人口結構的變化。",
+  "vocab": [
+   {
+    "w": "ageing",
+    "zh": "高齡化的",
+    "pos": "adj."
+   },
+   {
+    "w": "pension",
+    "zh": "退休金",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0091",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Seasonal ____ from the countryside to the cities rises sharply whenever the harvest fails in the northern provinces of the country.",
+  "options": [
+   "immigration",
+   "emigration",
+   "migration",
+   "integration"
+  ],
+  "answer": 2,
+  "explain_zh": "migration 是「遷徙」，不限國內或國外，國內城鄉移動只能用它。immigration 專指「移入某國」、emigration 專指「移出某國」，兩者都跨國，用在國內移動就不精準；integration 是融合，語意不同。",
+  "vocab": [
+   {
+    "w": "migration",
+    "zh": "遷徙",
+    "pos": "n."
+   },
+   {
+    "w": "harvest",
+    "zh": "收成",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0092",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The city council has promised to build five thousand ____ homes for families who cannot compete in the private rental market.",
+  "options": [
+   "affordably",
+   "affordable",
+   "favourable",
+   "comfortable"
+  ],
+  "answer": 1,
+  "explain_zh": "affordable housing 是「負擔得起的住宅」，住房題組的固定詞組，Task 2 談年輕人買不起房時一定用得到。affordably 是副詞不能修飾名詞、favourable 是有利的、comfortable 是舒適的，都不強調價格可負擔。",
+  "vocab": [
+   {
+    "w": "affordable",
+    "zh": "負擔得起的",
+    "pos": "adj."
+   },
+   {
+    "w": "rental",
+    "zh": "租賃的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0093",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Germany's ____ training system allows teenagers to combine classroom study with paid work in a local company, and many stay on afterwards.",
+  "options": [
+   "vocational",
+   "vacational",
+   "national",
+   "optional"
+  ],
+  "answer": 0,
+  "explain_zh": "vocational training/education 是「職業訓練」，教育題組比較學術路線與技職路線時的必備詞。vacational 幾乎不使用（vacation 是度假）、national 是全國的、optional 是可選修的，都不能表示以就業為導向的訓練。",
+  "vocab": [
+   {
+    "w": "vocational",
+    "zh": "職業的",
+    "pos": "adj."
+   },
+   {
+    "w": "combine",
+    "zh": "結合",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0094",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Farmers receive a government ____ for every hectare of land that they leave as wildflower meadow instead of ploughing it.",
+  "options": [
+   "subsidiary",
+   "subsidy",
+   "substitute",
+   "supplement"
+  ],
+  "answer": 1,
+  "explain_zh": "subsidy 是「補助金」，動詞是 subsidise，農業、能源、公共運輸題組都常見。subsidiary 是子公司或附屬的、substitute 是替代品、supplement 是補充品或增補資料，都不是政府發放的金錢補助。",
+  "vocab": [
+   {
+    "w": "subsidy",
+    "zh": "補助金",
+    "pos": "n."
+   },
+   {
+    "w": "hectare",
+    "zh": "公頃",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0095",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Although most households now separate their rubbish carefully, the ____ rate in this city is still below the national average.",
+  "options": [
+   "recycled",
+   "recycling",
+   "reusing",
+   "reducing"
+  ],
+  "answer": 1,
+  "explain_zh": "the recycling rate 是「回收率」，環境題組談垃圾處理時的固定說法，動名詞在這裡當名詞修飾語。recycled 是「被回收過的」形容成品、reusing 與 reducing 不能和 rate 組成固定詞組。",
+  "vocab": [
+   {
+    "w": "recycling",
+    "zh": "回收",
+    "pos": "n."
+   },
+   {
+    "w": "average",
+    "zh": "平均值",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0096",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Better nutrition and wider access to medical care have raised average life ____ in the region by almost fifteen years since 1970.",
+  "options": [
+   "expectation",
+   "expense",
+   "expectancy",
+   "experience"
+  ],
+  "answer": 2,
+  "explain_zh": "life expectancy 是「平均壽命」，健康與人口題組的固定詞組，Task 1 的人口統計圖也常出現。life expectation 不是正確搭配（expectation 指心理上的期待）、expense 是花費、experience 是經驗。",
+  "vocab": [
+   {
+    "w": "life expectancy",
+    "zh": "平均壽命",
+    "pos": "n."
+   },
+   {
+    "w": "nutrition",
+    "zh": "營養",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0097",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The pandemic exposed the digital ____ , as children without a laptop or a stable internet connection quickly fell behind their classmates.",
+  "options": [
+   "division",
+   "dividend",
+   "divergence",
+   "divide"
+  ],
+  "answer": 3,
+  "explain_zh": "the digital divide 是「數位落差」，科技與教育題組的固定名詞，指有無科技資源造成的不平等。division 是部門或分割這個動作、dividend 是股息、divergence 是分歧，都不能組成這個固定詞組。",
+  "vocab": [
+   {
+    "w": "digital divide",
+    "zh": "數位落差",
+    "pos": "n."
+   },
+   {
+    "w": "pandemic",
+    "zh": "大流行病",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0098",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "Flexible hours and the option of working from home are usually introduced to improve employees' work-life ____ rather than to cut costs.",
+  "options": [
+   "balanced",
+   "balance",
+   "burden",
+   "bargain"
+  ],
+  "answer": 1,
+  "explain_zh": "work-life balance 是「工作與生活的平衡」，工作題組的固定詞組，Task 2 談加班文化時很實用。balanced 是形容詞、burden 是負擔、bargain 是划算的交易，都無法組成這個固定搭配。",
+  "vocab": [
+   {
+    "w": "work-life balance",
+    "zh": "工作生活平衡",
+    "pos": "n."
+   },
+   {
+    "w": "flexible",
+    "zh": "彈性的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0099",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "An efficient and affordable public ____ network is probably the most effective way of reducing the number of private cars in a city centre.",
+  "options": [
+   "transaction",
+   "transport",
+   "transition",
+   "transmission"
+  ],
+  "answer": 1,
+  "explain_zh": "public transport 是「大眾運輸」，交通題組的核心詞組，英式雅思用 transport，美式才說 transit。transaction 是交易、transition 是轉型過渡、transmission 是傳輸或傳染，都不能組成這個詞組。",
+  "vocab": [
+   {
+    "w": "public transport",
+    "zh": "大眾運輸",
+    "pos": "n."
+   },
+   {
+    "w": "efficient",
+    "zh": "有效率的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0100",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:ielts-topics",
+  "tag_zh": "雅思主題字",
+  "passage": null,
+  "group_id": null,
+  "stem": "The ____ of the national railway was supposed to improve services, but ticket prices have risen faster than inflation ever since.",
+  "options": [
+   "privacy",
+   "privatisation",
+   "privilege",
+   "deprivation"
+  ],
+  "answer": 1,
+  "explain_zh": "privatisation 是「民營化」，動詞是 privatise，經濟與公共服務題組常用，反義是 nationalisation。privacy 是隱私、privilege 是特權、deprivation 是匱乏剝奪，都不能表示把國營事業轉為民營。",
+  "vocab": [
+   {
+    "w": "privatisation",
+    "zh": "民營化",
+    "pos": "n."
+   },
+   {
+    "w": "inflation",
+    "zh": "通貨膨脹",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0101",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "A genuine ____ arises when somebody has to choose between two options that are equally unattractive, such as cutting wages or cutting jobs.",
+  "options": [
+   "problem",
+   "obstacle",
+   "drawback",
+   "dilemma"
+  ],
+  "answer": 3,
+  "explain_zh": "dilemma 專指「兩難」，也就是兩個選項都不好、非選一個不可，題目後半正是這個定義。problem 泛指任何麻煩、obstacle 是擋在路上的障礙、drawback 是某方案的缺點，都沒有「二選一都不好」的意思。",
+  "vocab": [
+   {
+    "w": "dilemma",
+    "zh": "兩難",
+    "pos": "n."
+   },
+   {
+    "w": "unattractive",
+    "zh": "不吸引人的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0102",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "For most students the main ____ to studying abroad is not academic ability but the cost of tuition and daily living expenses.",
+  "options": [
+   "dilemma",
+   "obstacle",
+   "objection",
+   "obligation"
+  ],
+  "answer": 1,
+  "explain_zh": "obstacle 是「阻礙、絆腳石」，指擋住你達成目標的東西，常說 the main obstacle to doing something。dilemma 是兩難、objection 是反對意見、obligation 是義務，都不是「妨礙你出國念書的東西」。",
+  "vocab": [
+   {
+    "w": "obstacle",
+    "zh": "阻礙",
+    "pos": "n."
+   },
+   {
+    "w": "expense",
+    "zh": "開銷",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0103",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "Climate change is no longer a scientific ____ alone; it has clearly become a political and an economic one as well.",
+  "options": [
+   "dilemma",
+   "obstacle",
+   "trouble",
+   "issue"
+  ],
+  "answer": 3,
+  "explain_zh": "issue 指「大家在討論、有不同立場的議題」，Task 2 開頭常寫 This is a controversial issue。dilemma 是兩難、obstacle 是障礙、trouble 偏口語且多指麻煩事，都不能表示公共議題。",
+  "vocab": [
+   {
+    "w": "issue",
+    "zh": "議題",
+    "pos": "n."
+   },
+   {
+    "w": "economic",
+    "zh": "經濟的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0104",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "Getting enough sleep on the night before the test is absolutely ____ ; without it, even the best-prepared candidates start to make careless mistakes.",
+  "options": [
+   "crucial",
+   "casual",
+   "cautious",
+   "curious"
+  ],
+  "answer": 0,
+  "explain_zh": "crucial 是「至關重要的」，語氣比 important 強，Task 2 強調某因素不可或缺時很好用。casual 是隨意的、cautious 是謹慎的、curious 是好奇的，字首相近但語意完全不同。",
+  "vocab": [
+   {
+    "w": "crucial",
+    "zh": "至關重要的",
+    "pos": "adj."
+   },
+   {
+    "w": "careless",
+    "zh": "粗心的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0105",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "Water is absolutely ____ to life; no known organism on Earth can survive without it for more than a few days.",
+  "options": [
+   "valid",
+   "vague",
+   "vital",
+   "various"
+  ],
+  "answer": 2,
+  "explain_zh": "vital 原意和「生命」有關，強調「沒有它就活不下去」，所以 vital to life/vital organs 最精準；important 在這裡就顯得太弱。valid 是有效的、vague 是模糊的、various 是各式各樣的，語意都不合。",
+  "vocab": [
+   {
+    "w": "vital",
+    "zh": "攸關生死的",
+    "pos": "adj."
+   },
+   {
+    "w": "organism",
+    "zh": "生物體",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0106",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "Buying rice and flour in bulk is far more ____ for a large family, since the price per kilogram falls sharply.",
+  "options": [
+   "economic",
+   "economics",
+   "economical",
+   "economy"
+  ],
+  "answer": 2,
+  "explain_zh": "economical 是「省錢的、划算的」，形容做法或產品；economic 則是「經濟（層面）的」，如 economic growth，兩者常被混用。economics 是經濟學這門學科、economy 是名詞（經濟體），詞性也不對。",
+  "vocab": [
+   {
+    "w": "economical",
+    "zh": "省錢的",
+    "pos": "adj."
+   },
+   {
+    "w": "in bulk",
+    "zh": "大量地",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0107",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "The new boiler is highly ____ : it produces exactly the same amount of heat while using about a third less gas.",
+  "options": [
+   "effective",
+   "effectual",
+   "affective",
+   "efficient"
+  ],
+  "answer": 3,
+  "explain_zh": "efficient 強調「投入少、產出一樣多」，也就是不浪費資源，正好對應題目的「少用三分之一的瓦斯」。effective 強調「有沒有達到效果」，不管成本；effectual 很少用；affective 是「情感的」，語意完全不同。",
+  "vocab": [
+   {
+    "w": "efficient",
+    "zh": "有效率的",
+    "pos": "adj."
+   },
+   {
+    "w": "boiler",
+    "zh": "鍋爐",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0108",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "Rising sea temperatures ____ fish populations far beyond the coastal areas where the warming itself has actually been recorded and measured.",
+  "options": [
+   "affect",
+   "effect",
+   "effective",
+   "affection"
+  ],
+  "answer": 0,
+  "explain_zh": "affect 是動詞「影響」，effect 一般是名詞「影響、效果」（have an effect on），這組是雅思寫作最常被扣分的拼字混淆。effective 是形容詞、affection 是名詞（情感），詞性都不對。",
+  "vocab": [
+   {
+    "w": "affect",
+    "zh": "影響",
+    "pos": "v."
+   },
+   {
+    "w": "population",
+    "zh": "族群、人口",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0109",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "The report carefully measures the environmental ____ of the factory, including the water it uses and the waste it produces.",
+  "options": [
+   "influence",
+   "impact",
+   "impression",
+   "importance"
+  ],
+  "answer": 1,
+  "explain_zh": "impact 指「衝擊、具體造成的影響」，environmental impact 是固定詞組（還有 impact assessment）。influence 偏向潛移默化地左右想法或行為，不能和 environmental 搭配；impression 是印象、importance 是重要性。",
+  "vocab": [
+   {
+    "w": "impact",
+    "zh": "衝擊",
+    "pos": "n."
+   },
+   {
+    "w": "waste",
+    "zh": "廢棄物",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0110",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "The government now plans to ____ the retirement age to sixty-eight, a decision that has angered many of the country's trade unions.",
+  "options": [
+   "raise",
+   "rise",
+   "arise",
+   "raising"
+  ],
+  "answer": 0,
+  "explain_zh": "raise 是及物動詞，後面一定要接受詞（raise the age/prices/taxes）；rise 是不及物動詞，東西自己上升，不能接受詞，這組動詞在 Task 1 描述圖表時尤其容易寫錯。arise 是問題發生、raising 詞形不合。",
+  "vocab": [
+   {
+    "w": "raise",
+    "zh": "提高",
+    "pos": "v."
+   },
+   {
+    "w": "retirement",
+    "zh": "退休",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0111",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "A surprising ____ of first-year students admitted in the questionnaire that they had never once used the main university library.",
+  "options": [
+   "amount",
+   "number",
+   "quantity",
+   "deal"
+  ],
+  "answer": 1,
+  "explain_zh": "number 用於可數名詞（a number of students），amount 則用於不可數名詞（the amount of water），這是雅思寫作最常見的扣分點。quantity 多用於不可數或商品數量、a deal 要寫成 a great deal of 且接不可數名詞。",
+  "vocab": [
+   {
+    "w": "a number of",
+    "zh": "許多",
+    "pos": "phr."
+   },
+   {
+    "w": "admit",
+    "zh": "承認",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0112",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "The sheer ____ of plastic waste produced worldwide every year is now measured in hundreds of millions of tonnes, and it is still growing.",
+  "options": [
+   "amount",
+   "number",
+   "count",
+   "sum"
+  ],
+  "answer": 0,
+  "explain_zh": "waste 是不可數名詞，所以要用 the amount of；如果是可數的 bottles 就要改成 the number of。count 當名詞是計次、sum 是金額總和，都不能用來講廢棄物的總量。",
+  "vocab": [
+   {
+    "w": "amount",
+    "zh": "數量（不可數）",
+    "pos": "n."
+   },
+   {
+    "w": "tonne",
+    "zh": "公噸",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0113",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "The ____ reason for the decline is not the price of tickets but the poor reliability of the service itself.",
+  "options": [
+   "principle",
+   "principally",
+   "principal",
+   "prince"
+  ],
+  "answer": 2,
+  "explain_zh": "principal 當形容詞是「主要的」（the principal reason/cause），principle 則是名詞「原則」，兩字發音相同是經典易混淆組。principally 是副詞不能修飾名詞、prince 是王子，語意完全不合。",
+  "vocab": [
+   {
+    "w": "principal",
+    "zh": "主要的",
+    "pos": "adj."
+   },
+   {
+    "w": "reliability",
+    "zh": "可靠度",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0114",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "Smoking remains by far the leading ____ of preventable death in most developed countries, well ahead of both road accidents and alcohol.",
+  "options": [
+   "cause",
+   "reason",
+   "effect",
+   "purpose"
+  ],
+  "answer": 0,
+  "explain_zh": "cause 指客觀上造成某結果的原因，the cause of death 是固定搭配；reason 偏向人做某事的理由，不能說 the reason of death。effect 是結果、purpose 是目的，方向正好相反。",
+  "vocab": [
+   {
+    "w": "cause",
+    "zh": "原因",
+    "pos": "n."
+   },
+   {
+    "w": "preventable",
+    "zh": "可預防的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0115",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "One clear ____ of cycling to work is that it improves your health while costing you almost nothing at all.",
+  "options": [
+   "benefit",
+   "profit",
+   "income",
+   "bonus"
+  ],
+  "answer": 0,
+  "explain_zh": "benefit 是「好處」，可以是健康、環境或社會層面，Task 2 列優點時最常用。profit 專指金錢上的利潤、income 是收入、bonus 是額外獎金，都把「好處」窄化成金錢，和句中的健康益處不符。",
+  "vocab": [
+   {
+    "w": "benefit",
+    "zh": "好處",
+    "pos": "n."
+   },
+   {
+    "w": "improve",
+    "zh": "改善",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0116",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "The company reported a record ____ of eight million dollars last year, most of which was returned to its shareholders.",
+  "options": [
+   "benefit",
+   "advantage",
+   "profit",
+   "earning"
+  ],
+  "answer": 2,
+  "explain_zh": "profit 是「利潤」，收入扣掉成本後的錢，才能加上金額並分給股東。benefit 與 advantage 是抽象的好處不能用金額計算；earning 單數幾乎不用，要用複數 earnings。",
+  "vocab": [
+   {
+    "w": "profit",
+    "zh": "利潤",
+    "pos": "n."
+   },
+   {
+    "w": "shareholder",
+    "zh": "股東",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0117",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "Studying abroad gave her the ____ to improve her English and to build a professional network at the same time.",
+  "options": [
+   "possibility",
+   "opportunity",
+   "occasion",
+   "probability"
+  ],
+  "answer": 1,
+  "explain_zh": "opportunity 是「（可以好好利用的）機會」，固定用法是 the opportunity to do something。possibility 指事情有沒有可能發生、occasion 是特定場合、probability 是機率，都不能接不定詞表示「讓她得以做某事的機會」。",
+  "vocab": [
+   {
+    "w": "opportunity",
+    "zh": "機會",
+    "pos": "n."
+   },
+   {
+    "w": "network",
+    "zh": "人脈",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0118",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "The stadium has a ____ of sixty thousand, but safety regulations mean that only fifty thousand tickets are ever sold.",
+  "options": [
+   "capacity",
+   "capability",
+   "ability",
+   "volume"
+  ],
+  "answer": 0,
+  "explain_zh": "capacity 指「容納量、容量」，場館、電池、工廠產能都用它。capability 與 ability 是「人或組織的能力」，不能形容場地能坐多少人；volume 是體積或音量，也不合。",
+  "vocab": [
+   {
+    "w": "capacity",
+    "zh": "容納量",
+    "pos": "n."
+   },
+   {
+    "w": "stadium",
+    "zh": "體育場",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0119",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "The engine of the ferry produces a ____ hum that never stops, which makes conversation inside the passenger cabin surprisingly difficult.",
+  "options": [
+   "continuous",
+   "continual",
+   "continued",
+   "continuing"
+  ],
+  "answer": 0,
+  "explain_zh": "continuous 是「中間完全不中斷」，對應題目的 never stops；continual 則是「一再重複但有間隔」，例如 continual interruptions。continued 與 continuing 通常表示「持續存在的」狀態，不強調毫無停頓。",
+  "vocab": [
+   {
+    "w": "continuous",
+    "zh": "不間斷的",
+    "pos": "adj."
+   },
+   {
+    "w": "hum",
+    "zh": "嗡嗡聲",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0120",
+  "level": "IB",
+  "cefr": "B2",
+  "skill": "vocab",
+  "tag": "vocab:precise-synonym",
+  "tag_zh": "近義字精準辨析",
+  "passage": null,
+  "group_id": null,
+  "stem": "It would be far more ____ to book the flight now, since prices always rise sharply during the holiday season.",
+  "options": [
+   "sensitive",
+   "sensory",
+   "sensible",
+   "senseless"
+  ],
+  "answer": 2,
+  "explain_zh": "sensible 是「明智的、合理的」，形容決定或做法；sensitive 是「敏感的」，形容人或儀器，這兩字是雅思常考的混淆組。sensory 是感官的、senseless 是毫無意義的，語意都不對。",
+  "vocab": [
+   {
+    "w": "sensible",
+    "zh": "明智的",
+    "pos": "adj."
+   },
+   {
+    "w": "book",
+    "zh": "預訂",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0121",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the government has invested heavily in public transport over the past decade, private car ownership has continued to rise.",
+  "options": [
+   "Despite",
+   "However",
+   "Because",
+   "Although"
+  ],
+  "answer": 3,
+  "explain_zh": "Although 是從屬連接詞，後面接完整子句（主詞＋動詞），這是 Task 2 寫讓步句最安全的結構。Despite 後面只能接名詞或動名詞、However 是副詞要用分號或句號隔開、Because 的因果方向和後半句矛盾。",
+  "vocab": [
+   {
+    "w": "invest",
+    "zh": "投資",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0122",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "The report, ____ was published only last month, argues that remote working has permanently changed the centres of large cities.",
+  "options": [
+   "that",
+   "which",
+   "it",
+   "what"
+  ],
+  "answer": 1,
+  "explain_zh": "逗號後的非限定關係子句只能用 which，不能用 that，這是雅思寫作補充說明時的高分句型。it 會造成兩個主詞的逗點連寫（comma splice）；what 不能當關係代名詞接在名詞後面。",
+  "vocab": [
+   {
+    "w": "remote working",
+    "zh": "遠距工作",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0123",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "Students ____ first language is not English often need extra time to finish the reading section of the test.",
+  "options": [
+   "whose",
+   "who",
+   "which",
+   "whom"
+  ],
+  "answer": 0,
+  "explain_zh": "空格後面是名詞 first language，表示「學生的母語」，所有格關係代名詞要用 whose。who 與 whom 後面不能直接接名詞；which 只能指物，且同樣不能表示所有格。",
+  "vocab": [
+   {
+    "w": "section",
+    "zh": "部分",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0124",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ with steadily rising fuel prices, a large number of commuters have switched from driving to cycling or taking the bus.",
+  "options": [
+   "Facing",
+   "Face",
+   "To face",
+   "Faced"
+  ],
+  "answer": 3,
+  "explain_zh": "be faced with 是固定用法，分詞構句省略 being 之後就以過去分詞 Faced 開頭，Task 2 描述「面臨某問題」時很好用。Facing 後面不接 with、Face 是原形動詞、To face 表示目的，語意不合。",
+  "vocab": [
+   {
+    "w": "commuter",
+    "zh": "通勤族",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0125",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "Having ____ the data from all four regions, the researchers concluded that the two variables were only weakly related.",
+  "options": [
+   "analysing",
+   "analysed",
+   "analyse",
+   "been analysed"
+  ],
+  "answer": 1,
+  "explain_zh": "Having + 過去分詞的完成式分詞構句，表示這個動作比主要子句更早發生，是學術寫作常見句型。analysing 與 analyse 詞形不合；been analysed 是被動，但研究者是主動去分析資料的人。",
+  "vocab": [
+   {
+    "w": "variable",
+    "zh": "變數",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0126",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "If governments ____ acted sooner, the cost of adapting to climate change would be far lower than it is today.",
+  "options": [
+   "have",
+   "had",
+   "would have",
+   "has"
+  ],
+  "answer": 1,
+  "explain_zh": "這是混合條件句：if 子句講過去沒做的事（had acted），主要子句講現在的結果（would be），Task 2 檢討政策失誤時很實用。have、has 時態不對；would have 不能出現在 if 子句裡。",
+  "vocab": [
+   {
+    "w": "adapt",
+    "zh": "適應",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0127",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "Not only ____ the policy reduce congestion in the city centre, but it also cut levels of air pollution by almost a fifth.",
+  "options": [
+   "it did",
+   "does",
+   "did",
+   "has"
+  ],
+  "answer": 2,
+  "explain_zh": "Not only 放句首要倒裝，把助動詞提到主詞前面，後半句用過去式 cut，所以要用 did。it did 沒有倒裝、does 時態與 cut 不符、has 後面必須接過去分詞。",
+  "vocab": [
+   {
+    "w": "congestion",
+    "zh": "壅塞",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0128",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "The main reason ____ so many graduates move to the capital is that almost all the well-paid jobs are located there.",
+  "options": [
+   "why",
+   "which",
+   "because",
+   "for"
+  ],
+  "answer": 0,
+  "explain_zh": "先行詞是 reason 時，關係副詞要用 why（或 that，或直接省略），後面接完整子句。which 是關係代名詞，後面的子句不能是完整句；because 不能接在名詞後面當關係詞；for 在這裡缺少受詞。",
+  "vocab": [
+   {
+    "w": "graduate",
+    "zh": "畢業生",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0129",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is the lack of affordable housing, rather than the number of jobs, ____ forces young people to leave the region.",
+  "options": [
+   "that",
+   "which",
+   "what",
+   "it"
+  ],
+  "answer": 0,
+  "explain_zh": "這是強調句型 It is ... that ...，不管強調的是人、事還是原因，連接詞一律用 that，Task 2 想突出關鍵因素時很好用。which 不能用在強調句型、what 不能接在名詞後、it 會造成句子結構錯亂。",
+  "vocab": [
+   {
+    "w": "affordable",
+    "zh": "負擔得起的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0130",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the survey was conducted entirely online, people without regular internet access were automatically excluded from the sample.",
+  "options": [
+   "Since",
+   "Despite",
+   "In spite of",
+   "Due to"
+  ],
+  "answer": 0,
+  "explain_zh": "Since 在這裡是「既然、因為」，後面接完整子句說明原因，適合用來解釋研究方法的限制。Despite 與 In spite of 表示讓步且後面只能接名詞，Due to 也只能接名詞片語。",
+  "vocab": [
+   {
+    "w": "exclude",
+    "zh": "排除",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0131",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "The company has agreed to keep its factory in the region ____ the government offers a substantial reduction in local taxes.",
+  "options": [
+   "unless",
+   "provided that",
+   "whereas",
+   "in case"
+  ],
+  "answer": 1,
+  "explain_zh": "provided that 表示「只要／條件是」，是 Task 2 談政策條件時的正式說法。unless 意思是「除非」，會變成「除非減稅否則就留下」語意矛盾；whereas 表示對比；in case 是「以防萬一」，都講不通。",
+  "vocab": [
+   {
+    "w": "substantial",
+    "zh": "大幅的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0132",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "Many teenagers spend several hours a day on social media, ____ can affect both their sleep and their concentration at school.",
+  "options": [
+   "that",
+   "what",
+   "which",
+   "it"
+  ],
+  "answer": 2,
+  "explain_zh": "這裡的 which 指前面「整件事」，叫做句子關係子句，Task 2 補充說明後果時很好用。that 不能用在逗號後的非限定子句；what 不能指代前面的整句話；it 會造成逗點連寫。",
+  "vocab": [
+   {
+    "w": "concentration",
+    "zh": "專注力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0133",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "The island, ____ most of the residents work in tourism or fishing, suffered badly during the two years of travel restrictions.",
+  "options": [
+   "which",
+   "that",
+   "when",
+   "where"
+  ],
+  "answer": 3,
+  "explain_zh": "空格後面是完整句子（most of the residents work...），且先行詞是地點，所以要用關係副詞 where。which 與 that 是關係代名詞，後面的子句必須缺主詞或受詞；when 用於時間。",
+  "vocab": [
+   {
+    "w": "resident",
+    "zh": "居民",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0134",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ he submitted the essay before the deadline, he would not have lost ten percent of his final mark.",
+  "options": [
+   "If",
+   "Should",
+   "Had",
+   "Were"
+  ],
+  "answer": 2,
+  "explain_zh": "Had he submitted 是 If he had submitted 的倒裝形式，省略 if 之後把 had 提前，語氣更正式，適合寫作拿高分。選 If 會變成 If he submitted，與後面的 would not have lost 時態不搭；Should 與 Were 的倒裝形式也不合。",
+  "vocab": [
+   {
+    "w": "deadline",
+    "zh": "截止期限",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0135",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "The researchers examined two thousand essays, ____ of which showed clear signs of memorised phrases copied from model answers.",
+  "options": [
+   "much",
+   "many",
+   "a lot",
+   "plenty"
+  ],
+  "answer": 1,
+  "explain_zh": "essays 是可數複數，所以用 many of which；much 只能接不可數名詞。a lot 與 plenty 後面必須加 of 才能接名詞，寫成 a lot of which 才通，單獨放在 of which 前面是錯的。",
+  "vocab": [
+   {
+    "w": "memorise",
+    "zh": "背誦",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0136",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ the two cities are very similar in size and climate, their approaches to waste management are completely different.",
+  "options": [
+   "Despite",
+   "However",
+   "Moreover",
+   "While"
+  ],
+  "answer": 3,
+  "explain_zh": "While 在這裡是「雖然、儘管」，後面接完整子句，Task 2 比較兩個對象時非常實用。Despite 後面只能接名詞或動名詞、However 是連接副詞不能直接連接兩個子句、Moreover 表示additionally，邏輯不對。",
+  "vocab": [
+   {
+    "w": "approach",
+    "zh": "做法",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0137",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "The scheme eventually failed ____ a lack of funding but because local residents were never properly consulted.",
+  "options": [
+   "because of",
+   "not because of",
+   "due to",
+   "owing to"
+  ],
+  "answer": 1,
+  "explain_zh": "後半句是 but because，前面必須用 not because of 才能形成 not because of A but because B 的對比結構。其餘三個都是肯定的「因為」，會和 but because 互相矛盾，也失去對比效果。",
+  "vocab": [
+   {
+    "w": "consult",
+    "zh": "諮詢",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0138",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "By the time the new hospital finally opens, the population of the district ____ by more than twenty percent.",
+  "options": [
+   "will have grown",
+   "will grow",
+   "has grown",
+   "grew"
+  ],
+  "answer": 0,
+  "explain_zh": "By the time + 現在式子句，主要子句要用未來完成式 will have grown，表示「到那時候為止已經完成」。will grow 沒有「在那之前完成」的意思、has grown 少了未來的時間點、grew 是過去式，時態全都不合。",
+  "vocab": [
+   {
+    "w": "district",
+    "zh": "行政區",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0139",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "Very few people realise ____ much energy is wasted simply by leaving electronic devices on standby overnight.",
+  "options": [
+   "what",
+   "that",
+   "how",
+   "which"
+  ],
+  "answer": 2,
+  "explain_zh": "空格後面是 much energy，要用 how much 這個疑問詞組來引導名詞子句。what 不能直接接 much、that 後面必須是完整子句且不含疑問詞、which 需要在有限選項中做選擇，語意不合。",
+  "vocab": [
+   {
+    "w": "standby",
+    "zh": "待機狀態",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0140",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:complex-sentence",
+  "tag_zh": "多重子句組合",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ in 1887 and widened twice since then, the bridge still carries more than fifty thousand vehicles every single day.",
+  "options": [
+   "Built",
+   "Building",
+   "To build",
+   "It built"
+  ],
+  "answer": 0,
+  "explain_zh": "過去分詞開頭的分詞構句表示被動（橋是被建造的），可以精簡句子，是雅思寫作提升句型變化的好方法。Building 是主動語態、To build 表示目的、It built 會造成兩個主要子句沒有連接詞。",
+  "vocab": [
+   {
+    "w": "widen",
+    "zh": "拓寬",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0141",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ of the new curriculum has been delayed until next September because many schools still lack trained teachers.",
+  "options": [
+   "The implementation",
+   "The implement",
+   "Implemented",
+   "To implementation"
+  ],
+  "answer": 0,
+  "explain_zh": "名詞化就是把動詞 implement 變成名詞 implementation 當主詞，讓句子更精簡、更學術，是 Task 2 拿高分的關鍵手法。The implement 是「工具」語意不合、Implemented 是過去分詞、To implementation 文法不通。",
+  "vocab": [
+   {
+    "w": "implementation",
+    "zh": "實施",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0142",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The government's ____ to reduce carbon emissions quickly has been criticised by scientists as well as by younger voters.",
+  "options": [
+   "failure",
+   "fail",
+   "failed",
+   "fails"
+  ],
+  "answer": 0,
+  "explain_zh": "所有格 the government's 後面要接名詞，所以用 failure；failure to do something 是學術寫作常見結構，比 the government did not succeed 精簡許多。fail、failed、fails 都是動詞形式，不能放在所有格後面。",
+  "vocab": [
+   {
+    "w": "failure",
+    "zh": "未能做到",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0143",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "A sharp ____ in house prices followed the central bank's decision to raise interest rates for the third time.",
+  "options": [
+   "reduce",
+   "reduction",
+   "reduced",
+   "reducing"
+  ],
+  "answer": 1,
+  "explain_zh": "冠詞 a 加形容詞 sharp 之後必須是名詞，所以要用 reduction；Task 1 用「形容詞＋名詞化」描述變化（a sharp reduction）比用動詞更簡潔。reduce 是動詞、reduced 是過去分詞、reducing 在此無法當主詞名詞。",
+  "vocab": [
+   {
+    "w": "reduction",
+    "zh": "減少",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0144",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Instead of writing that people are becoming poorer, an academic writer would usually refer to the ____ of poverty.",
+  "options": [
+   "grow",
+   "grown",
+   "growth",
+   "growing"
+  ],
+  "answer": 2,
+  "explain_zh": "名詞化讓句子聚焦在現象本身，the growth of poverty 就是把 people are becoming poorer 濃縮成名詞片語。grow 是動詞、grown 是過去分詞、the growing of poverty 不是英文慣用說法。",
+  "vocab": [
+   {
+    "w": "growth",
+    "zh": "增長",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0145",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The ____ of social media on teenage sleep patterns has attracted a great deal of research attention in recent years.",
+  "options": [
+   "influential",
+   "influenced",
+   "influencing",
+   "influence"
+  ],
+  "answer": 3,
+  "explain_zh": "The ... of ... on ... 的結構中間要放名詞，influence 名詞動詞同形，這裡當名詞用。influential 是形容詞、influenced 是過去分詞、influencing 是動名詞但不能搭配 the...of 這個結構。",
+  "vocab": [
+   {
+    "w": "influence",
+    "zh": "影響",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0146",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Careful ____ of the results shows that the difference between the two groups is much smaller than the authors claim.",
+  "options": [
+   "analyse",
+   "analysis",
+   "analytic",
+   "analysed"
+  ],
+  "answer": 1,
+  "explain_zh": "形容詞 careful 後面要接名詞，analysis 是 analyse 的名詞形，Careful analysis of X shows that... 是學術寫作的經典開頭。analyse 是動詞、analytic 是形容詞、analysed 是過去分詞。",
+  "vocab": [
+   {
+    "w": "analysis",
+    "zh": "分析",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0147",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "____ in renewable energy has risen sharply since 2010, particularly in countries with generous government subsidies.",
+  "options": [
+   "Invest",
+   "Invested",
+   "Investment",
+   "Investor"
+  ],
+  "answer": 2,
+  "explain_zh": "句首當主詞要用名詞，Investment in X has risen 是 Task 1 與 Task 2 都能用的句型。Invest 是動詞、Invested 是過去分詞、Investor 是「投資人」，語意上人不會「上升」。",
+  "vocab": [
+   {
+    "w": "investment",
+    "zh": "投資",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0148",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The ____ of English as a global language has changed the way in which universities all over the world design their courses.",
+  "options": [
+   "emerge",
+   "emergence",
+   "emerged",
+   "emergent"
+  ],
+  "answer": 1,
+  "explain_zh": "the ... of 中間必須是名詞，emergence 是 emerge 的名詞形，the emergence of 是介紹某現象興起的高分句型。emerge 是動詞、emerged 是過去分詞、emergent 是形容詞。",
+  "vocab": [
+   {
+    "w": "emergence",
+    "zh": "興起",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0149",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "There has been a significant ____ in the quality of the drinking water since the new treatment plant opened.",
+  "options": [
+   "improvement",
+   "improve",
+   "improved",
+   "improving"
+  ],
+  "answer": 0,
+  "explain_zh": "There has been a + 形容詞 + 名詞 是描述變化的萬用句型，這裡要用名詞 improvement，Task 1 特別常用。improve 是動詞、improved 是過去分詞、improving 不能接在 a significant 之後當名詞。",
+  "vocab": [
+   {
+    "w": "improvement",
+    "zh": "改善",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0150",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Government ____ of the banking sector was tightened considerably after the financial crisis of 2008.",
+  "options": [
+   "regulate",
+   "regulated",
+   "regulation",
+   "regular"
+  ],
+  "answer": 2,
+  "explain_zh": "名詞 Government 後面要接另一個名詞組成複合名詞片語，regulation of X 是政策討論的標準說法。regulate 是動詞、regulated 是過去分詞、regular 是形容詞（規律的），語意也不對。",
+  "vocab": [
+   {
+    "w": "regulation",
+    "zh": "管制",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0151",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "The ____ between the two variables turned out to be much weaker than the research team had originally expected.",
+  "options": [
+   "relationship",
+   "relate",
+   "related",
+   "relating"
+  ],
+  "answer": 0,
+  "explain_zh": "the relationship between A and B 是學術寫作描述兩者關聯的標準名詞化說法，比 A and B are related 更適合正式文章。relate 是動詞、related 是形容詞、relating 是現在分詞，都不能接在 The 後面當主詞。",
+  "vocab": [
+   {
+    "w": "relationship",
+    "zh": "關聯",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0152",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:nominalization",
+  "tag_zh": "名詞化",
+  "passage": null,
+  "group_id": null,
+  "stem": "Widespread ____ to the proposal forced the council to hold a second public consultation before making any final decision.",
+  "options": [
+   "oppose",
+   "opposed",
+   "opposition",
+   "opposite"
+  ],
+  "answer": 2,
+  "explain_zh": "形容詞 Widespread 後面要接名詞，opposition to something 是「對某事的反對」，Task 2 描述民意反彈時很好用。oppose 是動詞、opposed 是過去分詞（be opposed to）、opposite 是「相反的」，語意不同。",
+  "vocab": [
+   {
+    "w": "opposition",
+    "zh": "反對",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0153",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The available data suggest that online learning ____ be less effective for very young children, although further research is clearly needed.",
+  "options": [
+   "must",
+   "will",
+   "cannot",
+   "may"
+  ],
+  "answer": 3,
+  "explain_zh": "may 表示「有可能」，正是學術寫作要的保守語氣，和後半句「還需要更多研究」完全一致。must 是強烈斷定、will 是肯定的預測、cannot 是斷然否定，三者都太武斷，在 Task 2 容易被評為過度概括。",
+  "vocab": [
+   {
+    "w": "effective",
+    "zh": "有效的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0154",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Young drivers ____ to take more risks on the road than older and more experienced drivers do.",
+  "options": [
+   "tends",
+   "tending",
+   "tend",
+   "tendency"
+  ],
+  "answer": 2,
+  "explain_zh": "tend to + 原形動詞是「傾向於」，可以避免把話說死，主詞 Young drivers 是複數所以用 tend。tends 是第三人稱單數形、tending 與 tendency 詞性不合，tendency 要寫成 have a tendency to。",
+  "vocab": [
+   {
+    "w": "tend to",
+    "zh": "傾向於",
+    "pos": "phr. v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0155",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "It ____ likely that sea levels will rise by at least half a metre before the end of this century.",
+  "options": [
+   "are",
+   "has",
+   "is",
+   "would"
+  ],
+  "answer": 2,
+  "explain_zh": "It is likely that... 是學術寫作最常用的模糊限制句型，比 Sea levels will definitely rise 謹慎得多。虛主詞 It 是單數所以不能用 are；has 與 would 都無法和形容詞 likely 組成這個句型。",
+  "vocab": [
+   {
+    "w": "likely",
+    "zh": "可能的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0156",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Rather than writing that this proves the point, a cautious writer would say that the evidence ____ a strong link.",
+  "options": [
+   "proves",
+   "confirms",
+   "suggests",
+   "guarantees"
+  ],
+  "answer": 2,
+  "explain_zh": "suggest 是學術寫作的標準模糊動詞，表示資料「顯示可能有」而不是「證明一定有」。prove、confirm、guarantee 語氣都太強，而且題目已經明說要避免 prove 這種說法。",
+  "vocab": [
+   {
+    "w": "suggest",
+    "zh": "顯示",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0157",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Overall, the results ____ to support the original hypothesis, though two of the six groups behaved unexpectedly.",
+  "options": [
+   "appears",
+   "appearing",
+   "appearance",
+   "appear"
+  ],
+  "answer": 3,
+  "explain_zh": "appear to + 原形動詞是「看起來似乎」，是很自然的保留語氣，主詞 results 是複數所以用 appear。appears 是單數形、appearing 是現在分詞、appearance 是名詞，詞性都不對。",
+  "vocab": [
+   {
+    "w": "appear to",
+    "zh": "似乎",
+    "pos": "phr. v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0158",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Air pollution is ____ one of the main causes of childhood asthma in densely populated urban areas.",
+  "options": [
+   "arguable",
+   "arguably",
+   "argued",
+   "argument"
+  ],
+  "answer": 1,
+  "explain_zh": "arguably 是副詞「可以說是」，插在 be 動詞後面可以把強烈主張軟化，是雅思寫作很好用的小詞。arguable 是形容詞、argued 是過去分詞、argument 是名詞，放在這個位置文法都不通。",
+  "vocab": [
+   {
+    "w": "arguably",
+    "zh": "可以說是",
+    "pos": "adv."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0159",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "Such policies ____ not work equally well in countries that have very different tax systems and levels of income.",
+  "options": [
+   "must",
+   "shall",
+   "might",
+   "ought"
+  ],
+  "answer": 2,
+  "explain_zh": "might not 表示「可能不會」，保留了例外的空間，適合 Task 2 談政策移植到別國的限制。must not 是「禁止」、shall not 語氣太法律化、ought 必須寫成 ought not to，都不符合語境。",
+  "vocab": [
+   {
+    "w": "income",
+    "zh": "收入",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0160",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "In many cases, students who read widely outside class ____ to achieve higher scores in the academic writing test.",
+  "options": [
+   "are likely",
+   "likely",
+   "are like",
+   "likelihood"
+  ],
+  "answer": 0,
+  "explain_zh": "be likely to + 原形動詞是「有可能」，主詞是人時比 It is likely that 更直接好用。likely 前面少了 be 動詞、are like 是「像……一樣」語意不同、likelihood 是名詞，都不能接不定詞。",
+  "vocab": [
+   {
+    "w": "achieve",
+    "zh": "達到",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0161",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is ____ assumed that new technology always improves productivity, but the evidence from several industries is mixed.",
+  "options": [
+   "wide",
+   "widely",
+   "widen",
+   "widening"
+  ],
+  "answer": 1,
+  "explain_zh": "It is widely assumed/believed/accepted that... 是介紹普遍看法卻不表態的經典句型，Task 2 開頭段很好用。wide 是形容詞、widen 是動詞、widening 是現在分詞，都不能修飾過去分詞 assumed。",
+  "vocab": [
+   {
+    "w": "productivity",
+    "zh": "生產力",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0162",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "The findings ____ towards a link between screen time and poor sleep, but the sample was far too small to be conclusive.",
+  "options": [
+   "prove",
+   "point",
+   "show",
+   "confirm"
+  ],
+  "answer": 1,
+  "explain_zh": "point towards/to 是「（證據）指向某個方向」，語氣謹慎，正好呼應後半句樣本太小的限制。prove、show、confirm 後面都不接 towards，而且語氣過於肯定，與 but 之後的保留衝突。",
+  "vocab": [
+   {
+    "w": "conclusive",
+    "zh": "決定性的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0163",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "To some ____ , the problem can be solved by better urban planning, but housing costs clearly play a part as well.",
+  "options": [
+   "extend",
+   "extensive",
+   "extension",
+   "extent"
+  ],
+  "answer": 3,
+  "explain_zh": "to some extent 是「在某種程度上」，Task 2 遇到 To what extent do you agree 題型時，用它表達部分同意最自然。extend 是動詞、extensive 是形容詞、extension 是延伸物，都不能組成這個片語。",
+  "vocab": [
+   {
+    "w": "to some extent",
+    "zh": "在某種程度上",
+    "pos": "phr."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0164",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:hedging",
+  "tag_zh": "模糊限制語",
+  "passage": null,
+  "group_id": null,
+  "stem": "It is ____ that the new regulations contributed to the decline, although several other factors were clearly involved as well.",
+  "options": [
+   "possibly",
+   "possibility",
+   "possibleness",
+   "possible"
+  ],
+  "answer": 3,
+  "explain_zh": "It is possible that... 的句型中，虛主詞 It 之後要接形容詞，所以用 possible。possibly 是副詞、possibility 是名詞（要寫成 There is a possibility that）、possibleness 幾乎不使用。",
+  "vocab": [
+   {
+    "w": "possible",
+    "zh": "可能的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0165",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "The city opened two new bridges in 2015. ____ have significantly reduced travel times between the eastern and western districts.",
+  "options": [
+   "This",
+   "It",
+   "Such",
+   "These"
+  ],
+  "answer": 3,
+  "explain_zh": "指涉前一句的複數名詞 two new bridges，要用 These（或 They），這種跨句指涉是 Task 2 段落連貫的基本功。This 與 It 是單數、Such 不能單獨當主詞，都和複數先行詞不一致。",
+  "vocab": [
+   {
+    "w": "district",
+    "zh": "區域",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0166",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "Some students clearly prefer working in groups; ____ concentrate far better when they are left on their own.",
+  "options": [
+   "other",
+   "the other",
+   "others",
+   "another"
+  ],
+  "answer": 2,
+  "explain_zh": "others 等於 other students，用來指「另外一些人」，Some..., others... 是雅思寫作對比兩群人的標準句型。other 是形容詞後面要接名詞、the other 指剩下的特定一個或一群、another 是單數。",
+  "vocab": [
+   {
+    "w": "concentrate",
+    "zh": "專心",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0167",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "My laptop is considerably older than ____ , but it still runs every program I need for my coursework.",
+  "options": [
+   "her",
+   "her's",
+   "she",
+   "hers"
+  ],
+  "answer": 3,
+  "explain_zh": "比較句要拿「我的筆電」和「她的筆電」比，所以用所有格代名詞 hers 代替 her laptop，避免重複。her 是所有格形容詞後面要接名詞、her's 拼法根本不存在、she 是主格。",
+  "vocab": [
+   {
+    "w": "coursework",
+    "zh": "課堂作業",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0168",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "She promised that she would rewrite the introduction before the deadline, and she ____ .",
+  "options": [
+   "does",
+   "was",
+   "had",
+   "did"
+  ],
+  "answer": 3,
+  "explain_zh": "用助動詞 did 代替整個動詞片語 rewrote the introduction，這叫替代（substitution），可以避免重複又保持連貫。does 時態不合、was 不能替代一般動詞、had 後面缺少過去分詞。",
+  "vocab": [
+   {
+    "w": "rewrite",
+    "zh": "改寫",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0169",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "If you still need a copy of the student handbook, the departmental office can print ____ for you this afternoon.",
+  "options": [
+   "it",
+   "some",
+   "one",
+   "any"
+  ],
+  "answer": 2,
+  "explain_zh": "one 代替「同類中的任一本」，因為對方需要的是另外一本手冊，不是特指的那一本；it 會變成「就是剛剛提到的那一本」，語意不對。some 與 any 用於複數或不可數名詞。",
+  "vocab": [
+   {
+    "w": "handbook",
+    "zh": "手冊",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0170",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "Tokyo has a considerably larger population than ____ city in Japan, and the gap has widened since 1990.",
+  "options": [
+   "any others",
+   "other",
+   "another",
+   "any other"
+  ],
+  "answer": 3,
+  "explain_zh": "同一群體內做比較時要用 than any other + 單數名詞，才不會把東京自己也算進去。any others 是代名詞後面不能接 city、other 前面缺少限定詞、another city 會變成「隨便另一個城市」，比較邏輯不完整。",
+  "vocab": [
+   {
+    "w": "gap",
+    "zh": "差距",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0171",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "The scheme turned out to be expensive, time-consuming and ____ , so the council quietly abandoned it after two years.",
+  "options": [
+   "it was difficult",
+   "difficult to manage",
+   "managing difficultly",
+   "to manage difficult"
+  ],
+  "answer": 1,
+  "explain_zh": "and 前後要保持平行結構，前面是兩個形容詞，第三項也必須是形容詞片語 difficult to manage。it was difficult 是完整子句、後兩個選項詞序與詞性都不合，破壞平行結構會直接影響文法分數。",
+  "vocab": [
+   {
+    "w": "abandon",
+    "zh": "放棄",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0172",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "Good writers plan their essays carefully, ____ their ideas logically and leave enough time to check the final draft.",
+  "options": [
+   "organising",
+   "to organise",
+   "organise",
+   "organised"
+  ],
+  "answer": 2,
+  "explain_zh": "三個動作要平行排列：plan、organise、leave 都用原形（配合主詞現在式），Task 2 列舉步驟時特別容易寫錯。organising、to organise、organised 都和前後的 plan、leave 形式不一致。",
+  "vocab": [
+   {
+    "w": "draft",
+    "zh": "草稿",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0173",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "The policy has two clear aims: to reduce the amount of household waste and ____ the proportion that is recycled.",
+  "options": [
+   "increasing",
+   "increase of",
+   "to increase",
+   "for increasing"
+  ],
+  "answer": 2,
+  "explain_zh": "冒號後面列出兩個目的，第一個是 to reduce，第二個也必須是 to increase，維持不定詞的平行。increasing 是動名詞、increase of 與 for increasing 都和前面的結構對不起來。",
+  "vocab": [
+   {
+    "w": "proportion",
+    "zh": "比例",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0174",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "Ticket prices rose sharply in 2018. ____ , passenger numbers continued to grow steadily throughout that year.",
+  "options": [
+   "Nevertheless",
+   "Therefore",
+   "Moreover",
+   "For example"
+  ],
+  "answer": 0,
+  "explain_zh": "票價漲、乘客卻繼續增加，兩句是「出乎意料」的轉折，要用 Nevertheless（或 However）。Therefore 表示因果、Moreover 表示補充、For example 表示舉例，邏輯關係全都不對。",
+  "vocab": [
+   {
+    "w": "passenger",
+    "zh": "乘客",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0175",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "The town has had no railway station since 1968. ____ , most residents now depend on an hourly bus service.",
+  "options": [
+   "However",
+   "Similarly",
+   "In contrast",
+   "Consequently"
+  ],
+  "answer": 3,
+  "explain_zh": "沒有火車站是原因，依賴公車是結果，所以用表示結果的 Consequently（或 As a result）。However 與 In contrast 表示對比、Similarly 表示相似，都無法連接這組因果關係。",
+  "vocab": [
+   {
+    "w": "hourly",
+    "zh": "每小時一班的",
+    "pos": "adj."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0176",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "Renewable energy is becoming steadily cheaper. ____ , it now employs more people worldwide than the coal industry does.",
+  "options": [
+   "Furthermore",
+   "Otherwise",
+   "Instead",
+   "Nonetheless"
+  ],
+  "answer": 0,
+  "explain_zh": "兩句都是再生能源的優點，屬於同方向的補充，要用 Furthermore（或 In addition）。Otherwise 表示「否則」、Instead 表示取代、Nonetheless 表示讓步轉折，邏輯方向都錯了。",
+  "vocab": [
+   {
+    "w": "employ",
+    "zh": "雇用",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0177",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "Several factors help to explain the decline. The ____ important of these is almost certainly the falling birth rate.",
+  "options": [
+   "more",
+   "much",
+   "most",
+   "very"
+  ],
+  "answer": 2,
+  "explain_zh": "三個以上的因素比較要用最高級 the most important；of these 也提示範圍在三者以上。more 是比較級用於兩者、much 不能這樣修飾、very 不能和 the 加形容詞組成最高級結構。",
+  "vocab": [
+   {
+    "w": "birth rate",
+    "zh": "出生率",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0178",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "Cycling is cheap, quiet and good for your health; ____ is why the council is building forty kilometres of new cycle lanes.",
+  "options": [
+   "it",
+   "what",
+   "which",
+   "that"
+  ],
+  "answer": 3,
+  "explain_zh": "that 在這裡指前面整句話，形成 That is why...（這就是為什麼）的銜接句型，Task 2 收尾很好用。it 不能指代整個句子當主詞、what is why 不合文法、which 前面必須有逗號且不能當獨立子句的主詞。",
+  "vocab": [
+   {
+    "w": "cycle lane",
+    "zh": "自行車道",
+    "pos": "n."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0179",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "Students who revise regularly usually perform better than ____ who leave all their reading until the final week.",
+  "options": [
+   "those",
+   "that",
+   "these",
+   "them"
+  ],
+  "answer": 0,
+  "explain_zh": "those who 是「那些……的人」的固定用法，用來代替 the students，避免重複同一個名詞。that 是單數、these 指近處且較少接 who、them 是受格不能當比較對象的主詞。",
+  "vocab": [
+   {
+    "w": "revise",
+    "zh": "複習",
+    "pos": "v."
+   }
+  ]
+ },
+ {
+  "id": "IB1-0180",
+  "level": "IB",
+  "cefr": "B2+",
+  "skill": "grammar",
+  "tag": "grammar:cohesion",
+  "tag_zh": "篇章銜接",
+  "passage": null,
+  "group_id": null,
+  "stem": "The article lists three main benefits, the last of ____ is rarely mentioned in newspaper reports on the subject.",
+  "options": [
+   "them",
+   "that",
+   "what",
+   "which"
+  ],
+  "answer": 3,
+  "explain_zh": "the last of which 是 of + 關係代名詞的用法，把兩個子句合成一句，是很漂亮的學術銜接結構。them 是代名詞會造成逗點連寫、that 不能放在介系詞 of 後面、what 不能當關係代名詞。",
+  "vocab": [
+   {
+    "w": "benefit",
+    "zh": "好處",
+    "pos": "n."
+   }
+  ]
+ }
+]
